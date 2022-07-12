@@ -1,0 +1,84 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,bkamphaus/exploratory-image-analysis,Exploratory Image Analysis,Ben Kamphaus,,2016-05-11T22:05:56.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],140,draper-satellite-image-chronology
+,,,,,0,nigelcarpenter/akaze-stitching,Stitching experiments,Nigel Carpenter,,2016-05-18T13:51:39.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,draper-satellite-image-chronology
+,,,,,0,yourwanghao/align-images,Align Images,HawkWang,,2016-05-16T09:28:33.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,draper-satellite-image-chronology
+,,,,,0,anokas/naive-beat-the-benchmark,Naive beat the benchmark! (0.09286),anokas,,2016-04-29T14:29:05.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,draper-satellite-image-chronology
+,,,,,0,nigelcarpenter/homography-estimate-stitching-two-imag,Homography Estimate + Stitching two imag,Nigel Carpenter,,2016-05-04T21:00:25.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,draper-satellite-image-chronology
+,,,,,0,nigelcarpenter/akaze-keypoint-detector,AKAZE keypoint detector,Nigel Carpenter,,2016-05-02T18:18:19.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,draper-satellite-image-chronology
+,,,,,0,dogrishin/svm-based-on-zoom-and-rotations-0-7,SVM based on zoom and rotations ~ 0.7,Dmitry Grishin,,2016-06-29T19:55:49.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,draper-satellite-image-chronology
+,,,,,0,nigelcarpenter/draper-notebook,Draper notebook,Nigel Carpenter,,2016-05-17T16:45:52.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,draper-satellite-image-chronology
+,,,,,0,asymptote/homography-estimate-stitching-two-imag,Homography Estimate + Stitching two imag,Asymptote,,2016-05-04T13:46:06.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,draper-satellite-image-chronology
+,,,,,0,wcukierski/plot-images,Plot images,Will Cukierski,,2016-04-29T14:36:47.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,draper-satellite-image-chronology
+,,,,,0,kartml/draper-cnn-gru,Draper CNN GRU,Karthikeyan JM,,2022-03-02T14:15:52.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,draper-satellite-image-chronology
+,,,,,0,viswatejag/image-stiching-using-deeplearning,image stiching using deeplearning,viswateja gajulavarthy,,2018-10-04T14:08:05.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,draper-satellite-image-chronology
+,,,,,0,chabir/stitch-and-predict,Stitch and Predict -- e001,eagle4,,2016-05-10T15:42:59.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,draper-satellite-image-chronology
+,,,,,0,stprior/mean-corner-detection,Mean Corner Detection,Stephen Prior,,2016-04-30T00:47:50.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,draper-satellite-image-chronology
+,,,,,0,chefele/plot-some-image-sets,Plot Some Image Sets,Christopher Hefele,,2016-04-30T16:15:57.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,draper-satellite-image-chronology
+,,,,,0,khaledfayed/plot-images2,Plot images2,Khaled Fayed,,2016-04-29T16:05:50.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,draper-satellite-image-chronology
+,,,,,0,pramods/exploratory-image-analysis,Exploratory Image Analysis,Pramod Sharma,,2016-05-31T04:32:50.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,weedislove/andyafter-stitching,andyafter_stitching,Andyafter,,2016-05-18T17:56:07.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,weedislove/stitch-and-predict,Stitch and Predict,Andyafter,,2016-05-18T17:48:51.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,chabir/stitch-and-predict-e002,Stitch and Predict -- e002,eagle4,,2016-05-14T20:30:37.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,chabir/exploratory-image-analysis-e002,Exploratory Image Analysis -- e002,eagle4,,2016-05-12T18:37:09.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,company/draper2,Draper2,Ravi Chandibhamar,,2016-05-11T10:34:21.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,company/draper1,Draper1,Ravi Chandibhamar,,2016-05-08T07:03:28.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,company/exploratory-image-analysis,Exploratory Image Analysis,Ravi Chandibhamar,,2016-05-08T06:45:31.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,leblancfg/naive-beat-the-benchmark-0-09286,Naive beat the benchmark! (0.09286),François Leblanc,,2016-04-29T19:30:49.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,draper-satellite-image-chronology
+,,,,,0,kartml/transformers-forecasting-draper-satellites,Transformers Forecasting Draper Satellites,Karthikeyan JM,,2022-05-15T05:54:45.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,vinaykumar2491/imflash217-vision,imflash217_vision,Vinay Kumar,,2019-02-14T07:22:26.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jihyeseo/satellite-image-time-order,satellite image time order,Jihye Sofia Seo,,2018-05-08T18:25:42.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,yhfggmm/stitching-experiments,Stitching experiments,yhfggmm,,2017-09-15T07:55:45.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,manuss/exploratory-image-analysis,Exploratory Image Analysis,ManusDa,,2017-04-10T04:05:32.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sarahah/exploratory-image-analysis,Exploratory Image Analysis,carhartt,,2017-01-30T20:06:10.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,johannha/exploratory-image-analysis,Exploratory Image Analysis,Johann Hamel-Akré,,2017-01-30T18:00:58.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sidswarnkar/fork-of-exploratory-image-analysis,Fork of Exploratory Image Analysis,siddharthswarnkar,,2017-01-29T10:07:46.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,wtellen/exploratory-image-analysis-0ccf12e7,Exploratory Image Analysis 0ccf12e7,Ting,,2017-01-06T06:12:35.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,wtellen/exploratory-image-analysis,Exploratory Image Analysis,Ting,,2016-12-05T01:30:19.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,chatcat/exploratory-image-analysis,Exploratory Image Analysis,Alan Schoen,,2016-10-28T14:55:40.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,mkiran/exploratory-image-analysis,Exploratory Image Analysis,Kiran Mohan,,2016-10-16T15:46:07.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,cadrev/exploratory-image-analysis,Exploratory Image Analysis,Felan Carlo Garcia,,2016-09-12T14:36:16.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,abhayizm/exploratory-image-analysis,Exploratory Image Analysis,abhay kumar,,2021-04-24T06:27:24.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,johnmin/exploratory-image-analysis,Exploratory Image Analysis,John Min,,2016-09-01T19:23:39.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,bzmccarthy/notebook2d021d7314,Notebook2d021d7314,Brian McCarthy,,2016-08-25T15:10:51.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,tim5754/satelite-image,satelite_image,odo54,,2016-08-13T05:54:19.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,lancecrayon/notebookaf8218a86d,Notebookaf8218a86d,lancecrayon,,2016-08-10T08:51:12.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,lancecrayon/notebook74a3c5a771,Notebook74a3c5a771,lancecrayon,,2016-08-10T08:48:58.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,lancecrayon/notebook319e84f314,Notebook319e84f314,lancecrayon,,2016-08-10T08:46:55.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,ryutek/align-test,Align test,U023,,2016-06-27T19:43:18.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,ryutek/align-images-test,Align Images test,U023,,2016-06-27T20:34:13.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jsh127/stitching-experiments,Stitching experiments,Franck,,2016-06-20T09:29:15.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jsh127/draper1,draper1,Franck,,2016-06-20T08:27:52.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jturkewitz/naive-beat-the-benchmark-0-09286,Naive beat the benchmark! (0.09286),Jared Turkewitz,,2016-06-15T02:19:45.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,henshinger/trying-my-luck,Trying my luck,Kenley Tan,,2016-06-12T03:46:00.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,hl5240/check-files,check_files,HL5240,,2016-06-11T22:02:59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,slavadubrov/naive,naive,Viacheslav Dubrov,,2016-06-08T21:04:55.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,henshinger/attempt-at-incremental-pca,Attempt at Incremental PCA,Kenley Tan,,2016-06-04T05:13:40.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jyotiislam/draper,draper,jyotiislam,,2016-06-03T11:52:40.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sidswarnkar/exploratory-image-analysis,Exploratory Image Analysis,siddharthswarnkar,,2016-05-27T08:59:59.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,deeper/mean-corner-detection,Mean Corner Detection,Bill,,2016-05-26T17:11:17.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,deeper/stitch-and-predict-e002,Stitch and Predict -- e002,Bill,,2016-05-26T13:36:58.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,uditsaini/exploring-data,exploring_data,udit,,2016-05-20T13:08:35.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jasper7/exploratory-image-analysis,Exploratory Image Analysis,jasper7,,2016-05-17T23:05:42.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,mcwitt/initial-test,initial-test,Matt Wittmann,,2016-05-17T03:12:54.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jblockrex/first1,First1,Jessica Block,,2016-05-13T19:44:07.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,toni00/data-exploration,Data Exploration,Adrian Albert,,2016-05-13T16:22:21.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sethuvignesh/exploratory-image-analysis,Exploratory Image Analysis,Sethu,,2016-05-11T13:02:26.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,hurlburt/twofour,TwoFour,Chris H.,,2016-05-10T21:45:17.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,hurlburt/repeatedvalues,RepeatedValues,Chris H.,,2016-05-10T21:42:57.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sethuvignesh/sethu,Sethu,Sethu,,2016-05-10T09:42:05.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,outputlogic/exploratory-image-analysis,Exploratory Image Analysis,OutputLogic,,2016-05-07T14:35:34.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,rwhenderson/just-looking-around,Just looking around,WesleyHenderson,,2016-05-07T01:18:07.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,ryutek/some-test,Some test,U023,,2016-05-21T20:27:25.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,gadgetsam/test1,test1,SamSchickler,,2016-05-05T19:07:01.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,gadgetsam/exploratory-test,Exploratory test,SamSchickler,,2016-05-05T15:26:16.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sharif1093/packages,Packages,Mohammad Reza,,2016-05-05T13:41:27.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sharif1093/yet-another-test-yat,Yet Another Test (YAT),Mohammad Reza,,2016-05-05T00:03:02.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,tibushu/testing-draper,testing_draper,dsil,,2016-05-04T06:01:55.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,tibushu/dan-draper1,dan_draper1,dsil,,2016-05-04T05:49:51.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,hiteck/test-notebook,test notebook,Teck,,2016-05-03T10:40:02.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,hulkbulk/naive-beat-the-benchmark-0-09286,Naive beat the benchmark! (0.09286),HulkBulk,,2016-05-03T09:39:34.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,millerintllc/naive-beat-the-benchmark-0-09286,John DRAPER (naive),Jason Miller,,2016-05-02T04:04:02.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,jbaklouti/draper,Draper,Jean-SébastienBaklouti,,2016-05-01T16:44:58.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,openthings/exploratory-image-analysis,Exploratory Image Analysis,openthings,,2016-05-01T12:22:55.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,sarame/naive-beat-the-benchmark-0-09286,Naive beat the benchmark! (0.09286),SaraMeftah,,2016-04-29T17:53:14.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology
+,,,,,0,khaledfayed/plot-images,Plot images,Khaled Fayed,,2016-04-29T16:02:12.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,draper-satellite-image-chronology

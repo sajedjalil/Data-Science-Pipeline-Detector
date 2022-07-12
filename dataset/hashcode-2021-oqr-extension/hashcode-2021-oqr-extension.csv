@@ -1,0 +1,25 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,azaky003/hashcode-2021-cpp,hashcode-2021-cpp,Ahmad Zaky,,2021-02-25T23:57:09.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,hashcode-2021-oqr-extension
+,,,,,0,huikang/sample-submission-with-green-light-duration-of-one,Sample submission with green light duration of one,Tong Hui Kang,,2021-02-25T23:15:17.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,hashcode-2021-oqr-extension
+,,,,,0,batzner/simulation-and-grading-in-python,Simulation and Grading in Python,Kilian Batzner,,2021-02-28T11:11:23.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,hashcode-2021-oqr-extension
+,,,,,0,attaullahshafiq/traffic-signal-control,Traffic-Signal-Control,Hafiz Muhammad Attaullah,,2021-05-25T07:17:40.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hashcode-2021-oqr-extension
+,,,,,0,siddharthpchauhan/traffic-hash,traffic hash,Siddharth Chauhan,,2021-05-07T07:04:19.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hashcode-2021-oqr-extension
+,,,,,0,marcoisajoke/hash-code-traffic-light-hash-solution,hash code traffic light hash solution,谭英智,,2021-04-06T04:58:54.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hashcode-2021-oqr-extension
+,,,,,0,bkhamdeev/simpletrafficlights,SimpleTrafficLights,bkhamdeev,,2021-03-14T20:51:27.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hashcode-2021-oqr-extension
+,,,,,0,siddharthsingh01/traffic-problem,Traffic Problem,Siddharth Singh Chouhan,,2022-01-29T10:31:52.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hashcode-2021-oqr-extension
+,,,,,0,jazivxt/hash-code-2021-fun,Hash Code 2021 Fun,Daniel Preciado,,2021-05-03T06:09:58.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hashcode-2021-oqr-extension
+,,,,,0,giraycoskun/googhashcode-trivial-solution,GoogHashCode-Trivial Solution,Giray Coskun,,2021-03-02T10:16:00.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hashcode-2021-oqr-extension
+,,,,,0,sagishporer/2nd-place-solution-4508721,2nd place solution - 4508721,Sagi Shporer,,2021-04-26T02:50:23.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-2021-oqr-extension
+,,,,,0,embiid/notebook84444b8e12,notebook84444b8e12,www.votefor.wang,,2021-03-13T02:39:29.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-2021-oqr-extension
+,,,,,0,rianlee/simple-submission-code,Simple submission code,Ryan Lee,,2021-03-04T11:17:33.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-2021-oqr-extension
+,,,,,0,marcoisajoke/hash-code-traffic-light-optimal,hash code traffic light optimal,谭英智,,2021-04-05T10:30:44.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-2021-oqr-extension
+,,,,,0,pasithan/traffic-light-optimization,traffic light optimization,pasit han,,2021-04-01T03:21:15.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-2021-oqr-extension
+,,,,,0,chiragjn101/remove-unused-streets-1-sec-open-by-tlcq,Remove unused streets + 1 sec open by tlcq,Chirag Jain,,2021-03-02T12:48:09.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-2021-oqr-extension
+,,,,,0,sonya1/notebook84444b8e12,notebook84444b8e12,Sonya1,,2021-05-18T19:06:23.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,sonya1/traffic-hash-5a81b8,traffic hash 5a81b8,Sonya1,,2021-05-18T18:56:37.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,sonya1/notebooke4d219bfaf,notebooke4d219bfaf,Sonya1,,2021-05-18T18:53:07.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,arjunagarwal899/competition-traffic-signalling,Competition - Traffic Signalling,Arjun Agarwal,,2021-05-05T11:03:51.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,petrovegor/simulation-and-grading-in-python,Simulation and Grading in Python,Petrov Egor,,2021-03-15T01:35:18.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,petrovegor/simple-submission-code,Simple submission code,Petrov Egor,,2021-03-14T14:06:22.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,simonplatonov/hash-code-platonov,hash code platonov,Simon Platonov,,2021-03-14T16:06:51.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension
+,,,,,0,vishnuravi99/traffic, Traffic,Vishnu Ravi,,2021-03-11T07:36:21.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-2021-oqr-extension

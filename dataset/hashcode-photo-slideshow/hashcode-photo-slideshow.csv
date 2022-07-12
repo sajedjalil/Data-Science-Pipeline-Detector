@@ -1,0 +1,16 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,group16/greedy-solution-lb-400k,Greedy solution (LB: ~400K),Gilles Vandewiele,,2020-04-30T07:32:38.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,hashcode-photo-slideshow
+,,,,,0,huikang/441k-in-11-mins,441k in 11 mins,Tong Hui Kang,,2020-05-31T10:43:26.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,hashcode-photo-slideshow
+,,,,,0,group16/tsp-swapper,TSP Swapper,Gilles Vandewiele,,2020-05-01T13:01:13.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,hashcode-photo-slideshow
+,,,,,0,mathurinache/googlehashcode2019-starter-code,GoogleHashCode2019 Starter Code,Mathurin Aché,,2020-04-28T15:41:35.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,hashcode-photo-slideshow
+,,,,,0,egrehbbt/442k-in-2-hours,442k in 2 hours,aDg4b,,2020-06-15T12:16:57.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,hashcode-photo-slideshow
+,,,,,0,mahmudds/hash-code-archive-photo-slideshow-optimization,Hash Code Archive - Photo Slideshow Optimization,Mahmud Hasan,,2020-07-05T13:26:34.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hashcode-photo-slideshow
+,,,,,0,huikang/2019q-eda-and-baseline-solution,2019Q EDA and baseline solution,Tong Hui Kang,,2020-05-31T10:25:51.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hashcode-photo-slideshow
+,,,,,0,razamh/hash-code2019,Hash code2019,Mohsin Raza,,2020-06-20T10:55:19.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hashcode-photo-slideshow
+,,,,,0,hasimsait/greedy,Greedy,Haşim Sait Göktan,,2020-06-19T04:00:27.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-photo-slideshow
+,,,,,0,saraswatitiwari/kernel33f8061544,kernel33f8061544,Saraswati Tiwari,,2020-06-08T12:51:23.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-photo-slideshow
+,,,,,0,manunaik/notebook7bac653c28,notebook7bac653c28,Manu Naik,,2021-02-07T10:49:41.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-photo-slideshow
+,,,,,0,lsiddiqsunny/simple-hashing-solution-for-hash-code-2019,Simple Hashing Solution for Hash Code 2019,Latif Siddiq Sunny,,2020-06-10T18:30:13.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-photo-slideshow
+,,,,,0,fatehaliyev/extremely-basic-eda,Extremely Basic EDA,Fateh Aliyev,,2020-05-08T16:48:32.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-photo-slideshow
+,,,,,0,arianit1990/kernel47d85f423c,kernel47d85f423c,Arianit1990,,2020-07-27T21:58:27.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-photo-slideshow
+,,,,,0,gb00000/hash-opt,hash opt,Greg B,,2020-06-08T13:51:12.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-photo-slideshow

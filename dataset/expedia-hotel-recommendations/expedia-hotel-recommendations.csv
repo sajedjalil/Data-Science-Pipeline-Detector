@@ -1,0 +1,549 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,zfturbo/leakage-solution,Leakage solution,ZFTurbo,,2016-05-10T06:25:42.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],137,expedia-hotel-recommendations
+,,,,,0,dvasyukova/predict-hotel-type-with-pandas,Predict hotel type with pandas,dune_dweller,,2016-05-04T00:17:43.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,expedia-hotel-recommendations
+,,,,,0,wendykan/map-k-demo,MAP@K demo,Wendy Kan,,2016-04-19T16:58:19.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],88,expedia-hotel-recommendations
+,,,,,0,domesc/explore-data,explore_data,Dome,,2016-05-05T16:01:18.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],56,expedia-hotel-recommendations
+,,,,,0,dvasyukova/the-locations-puzzle,The locations puzzle,dune_dweller,,2016-05-14T16:35:34.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,expedia-hotel-recommendations
+,,,,,0,ajay1216/practical-guide-on-data-preprocessing-in-python,Practical Guide on Data Preprocessing in Python,Ajay Shewale,,2018-09-22T13:53:12.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,expedia-hotel-recommendations
+,,,,,0,omarelgabry/explore-expedia-search-data,Explore Expedia Search Data,OMAR ELGABRY,,2016-04-28T13:35:31.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,expedia-hotel-recommendations
+,,,,,0,company/ehr-1,EHR_1,Ravi Chandibhamar,,2016-06-08T19:19:53.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,expedia-hotel-recommendations
+,,,,,0,jiaofenx/expedia-hotel-recommendations,Expedia Hotel Recommendations,Jofen,,2019-08-02T05:27:17.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,expedia-hotel-recommendations
+,,,,,0,triskelion/most-popular-local-hotels,most popular local hotels,Triskelion,,2016-04-15T22:01:12.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,expedia-hotel-recommendations
+,,,,,0,gaborfodor/last-week-xkcd,Last week xkcd,beluga,,2016-06-06T14:51:16.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,expedia-hotel-recommendations
+,,,,,0,vykhand/untitled,Interactive booking trends,Andrey Vykhodtsev,,2016-05-26T23:56:15.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,expedia-hotel-recommendations
+,,,,,0,gaborfodor/latent-destination-features,Latent Destination Features,beluga,,2016-05-05T13:53:03.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,expedia-hotel-recommendations
+,,,,,0,gaborfodor/time-dimension,Time Dimension,beluga,,2016-04-22T09:44:52.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,expedia-hotel-recommendations
+,,,,,0,sionek/simple-validation,Simple Validation,Grzegorz Sionkowski,,2016-05-20T17:28:59.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,expedia-hotel-recommendations
+,,,,,0,jiweiliu/most-popular-local-hotels,most popular local hotels,Jiwei Liu,,2016-04-15T20:34:33.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,expedia-hotel-recommendations
+,,,,,0,klepacz/expedia-begining,expedia_begining,Serafin,,2016-04-21T12:36:03.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,expedia-hotel-recommendations
+,,,,,0,nikilaravi/firstkagglescript,FirstKaggleScript,nravi,,2016-06-13T18:02:54.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,expedia-hotel-recommendations
+,,,,,0,mandalsubhajit/leakage-solution,Leakage solution,Subhajit Mandal,,2016-05-06T15:24:05.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,expedia-hotel-recommendations
+,,,,,0,putdejudomthai/expedia-exploratory-data-destination-search,Expedia Exploratory data destination search,putdejudomthai,,2022-03-16T10:09:43.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,expedia-hotel-recommendations
+,,,,,0,scirpus/data-leak-script-for-low-memory-6gb,Data Leak Script for low memory (<6Gb),Scirpus,,2016-05-14T09:07:17.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,expedia-hotel-recommendations
+,,,,,0,konradb/ehr-1,EHR_1,Konrad Banachewicz,,2016-05-12T20:43:10.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,expedia-hotel-recommendations
+,,,,,0,anokas/xgboost-2,XGBoost,anokas,,2016-04-18T14:03:34.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,expedia-hotel-recommendations
+,,,,,0,zachmayer/mmys-3,Mmys_3,Zach,,2016-06-04T14:34:40.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,expedia-hotel-recommendations
+,,,,,0,maxcvc/valium-1,Valium_1,Valentin,,2016-06-08T10:27:58.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,expedia-hotel-recommendations
+,,,,,0,vykhand/simple-validation,Simple Validation,Andrey Vykhodtsev,,2016-05-13T22:32:49.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,expedia-hotel-recommendations
+,,,,,0,bguberfain/explore-leaky-columns,Explore leaky columns,Bruno G. do Amaral,,2016-04-25T16:24:40.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,expedia-hotel-recommendations
+,,,,,0,anokas/size-of-datasets,size of datasets,anokas,,2016-04-18T12:33:35.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,expedia-hotel-recommendations
+,,,,,0,cpmpml/only-naive-bayes-with-countvectorizer,Only Naive bayes with CountVectorizer,CPMP,,2016-05-26T13:35:23.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,brandao/expedia-test-2,expedia test #2,"Humberto Brandão, Ph.D.",,2016-05-25T05:39:50.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,hardeeparora/leakage-solution,Leakage solution,hardeeparora,,2016-05-07T14:04:57.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,gautamsihag/hotel2,hotel2,gautam sihag,,2016-05-11T07:13:20.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,yuqingxue/expedia,Expedia,Yuqing Xue,,2016-04-29T19:36:34.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,hadigharibi/correlations-between-attributes,correlations between attributes,hadi gharibi,,2016-04-18T13:42:21.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,datenkieker/most-frequent-5-benchmark,Most Frequent (5) Benchmark,qudade,,2016-04-15T21:02:22.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,expedia-hotel-recommendations
+,,,,,0,liyiran0628/notebook705ce73614,notebook705ce73614,LiYiran,,2021-04-24T03:22:10.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,rcblay/ise529-expedia,ise529-expedia,RafaelCasparyBlay,,2019-12-07T18:48:03.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,krsnewwave/exploring-possible-solutions-eda-w-images,Exploring Possible Solutions (EDA w/ images),Dylan Valerio,,2018-11-26T13:36:57.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,nikolayburlutskiy/chunking-features-xgboosting,"Chunking, features, xgboosting",NikolayBurlutskiy,,2016-06-07T16:38:17.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,mountlee/rfclass0,RFclass0,mountlee,,2016-06-02T04:45:38.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,cpmpml/ehr-1,EHR_1,CPMP,,2016-05-16T10:29:49.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,mohdatir/expedia,expedia,Mohd Atir,,2016-05-11T10:55:49.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,philculliton/dataquest-tutorial,DataQuest_tutorial,Phil Culliton,,2016-05-05T19:34:14.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,blackcore/dataquest-tutorial,DataQuest_tutorial,BlackCore,,2016-05-08T10:08:46.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,gautamsihag/child-rooms-adults1,child_rooms_adults1,gautam sihag,,2016-05-05T02:26:37.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,omarelgabry/expedia-hotel-cluster-predictions,Expedia Hotel Cluster Predictions,OMAR ELGABRY,,2016-04-28T09:11:15.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,triskelion/user-favs,User Favs,Triskelion,,2016-04-15T20:47:57.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,expedia-hotel-recommendations
+,,,,,0,mariolu/it-5006-milestone-1,IT 5006 Milestone-1,Mario Lu,,2021-02-25T07:27:40.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,maqsoodmahmud/generic-data-preprocessing-steps,Generic Data Preprocessing Steps,Maqsood Mahmud,,2020-11-23T00:19:32.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,jialunhe/map-k-demo,MAP@K demo,Jialun He,,2020-10-13T22:10:07.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,pyy0715/data-read-in-2minute,Data Read In 2Minute,yyeon2,,2020-09-27T23:44:38.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,xseungyeonleex/expedia-hotel-recommendations-practice,expedia-hotel-recommendations-practice,XSeungyeonLeeX,,2020-06-23T15:53:25.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,wltongxue521/2-part-bootstrapping,2_part_bootstrapping,Wang L,,2020-05-05T03:36:58.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,aeiyuni/eda-expedia,EDA: Expedia,Aeiyuni,,2019-11-01T08:17:14.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mphuqui/groupe-arnaud-ludo-marie,GROUPE-arnaud-ludo-marie,Marie Phu Qui,,2019-10-04T13:08:00.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,uj2295/xgboost-for-compset,XGBoost for compset,Utkarsh Jain,,2018-07-03T16:07:18.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,nm14390/follow-up,follow up ,NM143,,2017-06-12T03:22:37.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,noddabodder/random-forest-solution,Random Forest Solution,Noddabodder,,2017-04-20T20:26:01.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,vanausloos/expedia-model-1,Expedia _ model 1 ,Xavier Van Ausloos,,2017-02-07T16:34:56.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,minh77/test-user-id,Test user_id,Hoàng Minh,,2016-06-03T08:47:49.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mountlee/mountleelgb2,MountleeLGB3,mountlee,,2016-06-03T09:43:57.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mountlee/mountleelgb,MountleeLGB,mountlee,,2016-06-02T11:13:33.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,henshinger/incremental-pca,Incremental PCA,Kenley Tan,,2016-05-31T15:04:44.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mountlee/gbclass1,GBclass1,mountlee,,2016-06-01T01:33:24.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,paullo0106/interactive-booking-trends,Interactive booking trends,Paul,,2016-05-30T14:27:43.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,radek1st/interactive-booking-trends,Interactive booking trends,Radek Ostrowski,,2016-05-27T21:59:54.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,brandao/expedia-test-1,expedia test #1,"Humberto Brandão, Ph.D.",,2016-05-25T05:07:19.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,niladri18/usinng-logistic-regression,Usinng logistic regression,NiladriGomes,,2016-05-19T20:36:23.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mohdatir/testh,testh,Mohd Atir,,2016-05-19T11:43:18.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mohdatir/my-first,my_first,Mohd Atir,,2016-05-17T14:36:17.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,bguberfain/ehr-1-with-comments,EHR_1 with comments,Bruno G. do Amaral,,2016-05-16T18:36:40.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,ires775/first-1,first-1,Ires,,2016-05-14T17:04:50.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,outliar/experimentswithtruth,ExperimentsWithTruth,Mohammad Shadab Alam,,2016-05-16T04:37:33.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,rdslater/load-data-w-low-memory,Load data w/ low memory,Ronin,,2016-05-14T15:47:30.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,dimitrislev/simple-validation,Simple Validation,Dimitris Leventis,,2016-05-14T15:22:30.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,skylord/v1-datacheck,V1-Datacheck,SkyLord,,2016-05-15T11:25:58.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,abhimanyud/leakage,leakage+,Abhimanyu Dikshit,,2016-05-14T04:52:08.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,chunky/latent-destination-features,Latent Destination Features,Chunky,,2016-05-13T10:33:09.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,llcoolnj/expedia,Expedia,LLcoolNJ,,2016-05-10T21:18:56.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,mfagerlund/whycheck,Whycheck,Mattias Fagerlund,,2016-05-10T13:07:43.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,company/hotel-country-1,hotel_country_1,Ravi Chandibhamar,,2016-05-09T18:22:56.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,outliar/hotel-country,hotel_country,Mohammad Shadab Alam,,2016-05-10T05:08:52.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,qqgeogor/logodds-encoding,logodds encoding,qianqian,,2016-05-09T08:45:36.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,citrinitas/leakage-test0,Leakage_test0,Citrinitas,,2016-05-08T20:15:54.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,company/leakage-solution,Leakage solution,Ravi Chandibhamar,,2016-05-08T19:43:15.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,company/leakage-solution-1,MySolution1,Ravi Chandibhamar,,2016-05-08T20:31:51.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,jojunoo/leakage-solution,Leakage solution,ITMBA 조준우,,2016-05-08T09:28:06.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,gautamsihag/date-1,date_1,gautam sihag,,2016-05-07T06:28:52.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,gautamsihag/minibatchkmeans,minibatchKmeans,gautam sihag,,2016-05-07T01:43:52.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,yuqingxue/1000-15,1000_15,Yuqing Xue,,2016-06-06T17:59:54.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,manels/dataquest-tutorial,DataQuest_tutorial,Manel,,2016-05-05T16:36:13.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,luvsword/exam-test,exam_test,KIM UK,,2016-05-04T14:20:01.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,sb1700/experdia,Experdia,Shekhar_Bhartiya,,2016-05-02T18:18:41.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,bomboom/fortest,fortest,bomboom,,2016-04-25T22:55:13.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,ashishtrehan/dask-script,Dask_script,ashish trehan,,2016-04-20T01:16:15.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,jwegas/randomforest-test-20160418,RandomForest_test_20160418,Evgenii Zhukov,,2016-04-20T14:08:49.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,hulkbulk/explore-data-v1,Explore Data v1,HulkBulk,,2016-04-16T17:12:57.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,expedia-hotel-recommendations
+,,,,,0,jackcunningham/expediahotelcompetition,ExpediaHotelCompetition,Jack Cunningham,,2021-12-29T23:45:12.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mariolu/it-5006-milestone-2,IT 5006 Milestone-2,Mario Lu,,2021-04-20T09:28:51.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,liyiran0628/notebookedf51458a1,notebookedf51458a1,LiYiran,,2021-04-10T18:54:03.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,svbktarun/kernel614dcca952,kernel614dcca952,tarunluthra,,2020-07-07T18:16:51.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wpfjason/final-project-part1-part2,Final project(Part1+Part2),wpf_jason,,2020-05-05T14:11:43.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wltongxue521/fork-of-1-part-is-booking,Fork of 1_part_is_booking,Wang L,,2020-05-05T13:50:01.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,seohongju/20200302-kaggle-pro,20200302 kaggle pro,Seo Hongju,,2020-03-04T08:00:30.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,leetaehun/kernel2b4260a852,kernel2b4260a852,hh_hh,,2019-07-10T22:35:59.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,abcom123tw/random-forest-pure,Random forest  pure,Maggie Hsieh,,2018-06-06T05:14:00.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,abcom123tw/leakage-solution-10,Leakage solution 10,Maggie Hsieh,,2018-06-08T06:09:34.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jihyeseo/expedia-eda,expedia eda ,Jihye Sofia Seo,,2018-05-08T15:33:06.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,e0045003/expedia-project,expedia-project,Truong Chau Thy,,2018-03-13T14:13:52.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,stvardzi/workinprogress,workinprogress,Steven Tvardzik,,2017-12-15T23:27:08.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ak1mbo/hotels,Hotels,ALTK,,2017-12-16T00:34:35.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,daiearth22/leakage-solution,Leakage solution,Daisuke Ishii,,2017-09-15T11:02:46.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,qweadg/test-first,test_first,gbnam,,2017-06-30T03:34:57.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nm14390/notebookb6bce10027,Notebookb6bce10027,NM143,,2017-06-08T10:25:24.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nm14390/notebook2bbc15b5b1,Notebook2bbc15b5b1,NM143,,2017-06-08T10:24:12.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nm14390/notebook7a11dfa847,Notebook7a11dfa847,NM143,,2017-06-08T10:22:45.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nm14390/experiment101,Experiment101,NM143,,2017-06-12T03:21:12.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nm14390/notebookd0b353059c,Notebookd0b353059c,NM143,,2017-06-08T04:41:52.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goodmansjtu/spark-recommend-hotels,spark recommend hotels,Goodman,,2017-05-31T08:47:40.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,marrvolo/notebookab9a5a1aca,Notebookab9a5a1aca,Toaru,,2017-05-18T15:28:22.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,marrvolo/notebook43f5a7e94f,Notebook43f5a7e94f,Toaru,,2017-05-18T15:26:08.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pengkelian/notebooke664b162b4,Notebooke664b162b4,pengkelian,,2017-04-23T17:03:25.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wizsid/notebookef3e91eaa4,Notebookef3e91eaa4,Siddharth Subramanian,,2017-04-20T18:33:18.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/random-forest-2,Random Forest 2,Noddabodder,,2017-04-20T15:45:19.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/rf-predict,rf predict,Noddabodder,,2017-04-19T21:52:39.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/random-forest-test,random forest test,Noddabodder,,2017-04-19T16:23:59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gmoney59/notebooka3c2537cd4,Notebooka3c2537cd4,g_money,,2017-04-17T08:20:11.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gmoney59/notebookcf346e991f,Notebookcf346e991f,g_money,,2017-04-17T08:20:02.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/random-forest,Random Forest,Noddabodder,,2017-04-12T18:25:59.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution12,Leakage solution12,Noddabodder,,2017-04-12T16:04:02.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution10,Leakage solution10,Noddabodder,,2017-04-12T12:45:02.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution44444,Leakage solution44444,Noddabodder,,2017-04-12T08:49:55.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solutiontests,Leakage solutiontests,Noddabodder,,2017-04-10T15:52:31.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/notebook506ee90e24,Notebook506ee90e24,Noddabodder,,2017-04-10T10:24:25.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution55555,Leakage solution55555,Noddabodder,,2017-04-07T21:41:56.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution4444444,Leakage solution4444444,Noddabodder,,2017-04-07T21:38:41.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution11111,Leakage solution11111,Noddabodder,,2017-04-07T21:27:02.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,imatrix/hotels,hotels,Ethan Cheng,,2017-04-07T10:39:22.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/notebookc92031cf1c,Notebookc92031cf1c,Noddabodder,,2017-04-07T09:17:44.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/leakage-solution1,Leakage solution1,Noddabodder,,2017-04-06T21:17:17.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noddabodder/notebook99f9c5e472,Notebook99f9c5e472,Noddabodder,,2017-04-06T21:10:12.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,haareesh/notebookd039341307,Notebookd039341307,Haareesh Sathiyaseelan,,2017-04-06T06:52:10.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sheephappy/notebook4928043c3c,Notebook4928043c3c,Zhengzheng Ye,,2017-03-12T08:12:39.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sheephappy/notebook6ec49f2ba6,Notebook6ec49f2ba6,Zhengzheng Ye,,2017-03-12T06:50:34.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,funnyjourney/explore-expedia-search-data-0eb1c8,Explore Expedia Search Data 0eb1c8,Raining Up,,2017-03-10T15:35:29.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,larryjerry/expedia-tutorial,Expedia Tutorial,larryjerry,,2017-03-06T18:30:59.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ericqh/my-test,my_test,eric_qihuan,,2017-03-05T19:39:14.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ericqh/notebook3ff4ec2946,Notebook3ff4ec2946,eric_qihuan,,2017-03-05T19:36:00.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ericqh/notebookaee2110a98,Notebookaee2110a98,eric_qihuan,,2017-03-05T19:31:04.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,larryjerry/notebooke50e208e1d,Notebooke50e208e1d,larryjerry,,2017-03-04T21:23:45.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dylan1911/notebook9aeffc6ada,Notebook9aeffc6ada,DylanGalloway,,2017-02-28T02:10:19.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,paulsameyt/notebooka54228f8e0,Notebooke78f42c9c3,paulsameyt,,2017-02-27T19:01:35.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,poddutur/my-first-script,my_first_script,Sai Poddutur,,2017-02-26T06:41:12.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,poddutur/notebook6a3dc514db,Notebook6a3dc514db,Sai Poddutur,,2017-02-26T06:37:11.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,rinalin/notebook7b410fcafa,Notebook7b410fcafa,RinaLin,,2017-02-24T21:54:00.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,u4000d/notebookdbec47126a,Notebookdbec47126a,Ju-hyeoung Park,,2017-02-20T13:44:10.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,vanausloos/expedia-interactive-booking-trends,Expedia - Interactive booking trends,Xavier Van Ausloos,,2017-02-15T09:41:13.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jinleng/predict-hotel-type-with-pandas,Predict hotel type with pandas,JinL,,2017-02-13T15:18:56.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lanpei/expedia-begining,expedia_begining,Lanpei,,2017-02-12T17:42:30.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jahanpour/predict-hotel-type-with-pandas,Predict hotel type with pandas,Ehsan,,2017-01-30T04:54:35.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pratik7939/explore-data,explore_data,PratikWagh,,2017-01-29T13:01:32.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,kiranjanga/predict-hotel-type-with-pandas,Predict hotel type with pandas,SaiKiran,,2017-01-28T13:52:18.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wangqiong/leakage-solution,Leakage solution,WangQiong,,2017-01-27T21:26:26.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,celestino/notebook06a7d13787,Notebook06a7d13787,CelestinoCorradini,,2017-01-20T15:27:16.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lanpei/explore-data,explore_data,Lanpei,,2017-01-18T15:07:48.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gavvy10/expedia-recommendation,Expedia Recommendation,Gaurav Shekhar,,2017-01-14T12:22:18.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,osheam4/expedia-competition-osheam4,Expedia Competition - osheam4,Mark,,2017-01-11T20:02:29.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,fatich/notebooka692c29821,Notebook50d8ddcd4a,FatimaZahraeChaibi,,2017-01-08T22:46:26.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,effe0215/notebook2070d9656d,Notebook2070d9656d,likeZorba,,2016-12-28T07:17:12.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,haifnd/notebookd5221e60fe,Notebookd5221e60fe,Fandi,,2016-12-27T14:00:41.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,anantha2403/explore-data,explore_data,Anantha Krishnan S,,2016-12-23T19:04:49.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,zscansorted/notebook91b84eec3c,Notebook91b84eec3c,Arie Sutiono,,2016-12-17T04:45:18.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,zengxy/notebook30d4b5f4b5,Notebook30d4b5f4b5,zengxy,,2016-12-13T03:39:19.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,alexandrafisher/notebook499f53b33b,Notebook499f53b33b,Alex,,2016-12-10T18:50:45.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,rlagrois/notebookafdb08706a,Notebookafdb08706a,rem_,,2019-07-20T19:16:20.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pgezer/notebooka1cd05e789,Notebookf3fc1cd47c,PelinGezer,,2016-12-10T12:48:01.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pgezer/expedia-hotel-recommendation,Expedia Hotel Recommendation,PelinGezer,,2016-12-10T11:04:47.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sanjaykumar1625/explore-expedia-search-data-2e4785b4,Explore Expedia Search Data 2e4785b4,SanjayKumar,,2016-12-09T06:15:02.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sanjaykumar1625/explore-expedia-search-data-10dc64df,Explore Expedia Search Data 10dc64df,SanjayKumar,,2016-12-09T06:11:43.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,funnyjourney/explore-expedia-search-data,Explore Expedia Search Data,Raining Up,,2016-12-07T02:47:41.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,berwin/abcdaaa,abcdaaa,Berwin,,2016-12-05T10:46:24.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,berwin/notebooke19a4626e1,Notebooke19a4626e1,Berwin,,2016-12-05T10:41:19.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,maneesh5/predict-hotel-type-with-pandas,Predict hotel type with pandas,maneesh,,2016-12-05T09:42:23.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,varunsinaster007/notebook4bdd48c764,Notebook4bdd48c764,kapoorvarun,,2016-12-04T13:25:32.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lwalker/notebook601559248e,Notebook601559248e,Laxman,,2016-12-02T18:37:48.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sequae92/trycode2,trycode2,SPONDON KUNDU,,2016-12-01T01:58:21.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,briannaotoole15/notebook74652a46b0,Notebook74652a46b0,Brianna O'Toole,,2016-11-30T23:54:44.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,haoyanzhang/notebook1ab72aecd7,Notebook1ab72aecd7,haoyanzhang,,2016-11-30T03:02:49.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sanjaykumar1625/explore-expedia-search-data-aa692bcb,Explore Expedia Search Data aa692bcb,SanjayKumar,,2016-11-28T20:17:18.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sanjaykumar1625/the-locations-puzzle-2ddb31c1,The locations puzzle 2ddb31c1,SanjayKumar,,2016-11-26T04:09:18.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,yuyan666/notebookacf5070df8,Notebookacf5070df8,YuYan,,2016-11-25T06:06:00.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mirekbe/notebook93a6bfcaa6,Notebook93a6bfcaa6,ego,,2016-11-24T19:44:34.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,tmm5455/explore-expedia-search-data,Explore Expedia Search Data,tanvi,,2016-11-23T21:31:35.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,linkinparkcs/the-locations-puzzle,The locations puzzle,ShinodaC,,2016-11-21T02:48:14.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sd4174263/notebook6c9a128f77,Notebook6c9a128f77,Patrick Wu,,2016-11-18T05:30:49.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,giwlee/notebookb84b8762f7,Notebookb84b8762f7,GiWookLee,,2016-11-15T06:29:47.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sanjaykumar1625/explore-expedia-search-data-c632fbde,Explore Expedia Search Data c632fbde,SanjayKumar,,2016-11-14T19:47:06.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,cl3390/notebook85d67a33c3,Notebook85d67a33c3,Charles,,2016-11-12T16:06:31.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,giwlee/notebook4d6f4bf32c,Notebook4d6f4bf32c,GiWookLee,,2016-11-11T10:30:35.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,miltonlui0213/abdas,ABDAS,MiltonLui,,2016-11-08T16:51:33.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,miltonlui0213/data-explore,data_explore,MiltonLui,,2016-11-08T15:48:42.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,miltonlui0213/checing,Checing,MiltonLui,,2016-11-08T15:03:31.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,miltonlui0213/check,Check,MiltonLui,,2016-11-08T14:54:32.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sanjaykumar1625/notebook6b4ea4706c,Notebook6b4ea4706c,SanjayKumar,,2016-11-07T21:15:49.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,emmazhangyz/notebook8ac264e59e,Notebook8ac264e59e,Emma Z.,,2016-11-03T16:45:21.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lingyanj/notebookf98e7fe539,Notebookf98e7fe539,LingyanJiang,,2016-11-02T02:36:52.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,cavaunpeu/notebookdfc83b56af,Notebookdfc83b56af,cavaunpeu,,2016-10-31T11:32:33.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,skrauseharder/notebookad4d781758,Notebookad4d781758,skh,,2016-10-30T20:09:06.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,edillower/notebook4950ad8293,Notebook4950ad8293,Zhuoer(Edillower) Wang,,2016-10-30T18:42:34.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,analyticsdojo/explore-data,explore_data,analyticsdojo,,2016-10-27T15:01:44.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,prateekbhat/the-locations-puzzle,The locations puzzle,Prateek,,2016-10-27T03:43:12.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mhmr1993/notebooka00d03798f,Notebooka00d03798f,Kevin,,2016-10-26T10:07:18.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,parthamishra1996/predict-hotel-type-with-pandas,Predict hotel type with pandas,ParthaMishra,,2016-10-17T14:10:16.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ynskrishna/notebook2c4c4fcedc,Notebook93fc6bb918,NishanthYalam,,2016-10-16T20:50:35.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lalthan/predict-hotel-type-with-pandas,Predict hotel type with pandas,lalthan,,2016-10-16T11:40:08.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,langpartjx/notebookcab2fbce2f,Notebookcab2fbce2f,langpartjx,,2016-10-15T17:43:30.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,langpartjx/notebook8313c292aa,Notebook8313c292aa,langpartjx,,2016-10-15T06:30:47.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,rammohan518/notebook3b35f12e73,Notebook3b35f12e73,rammohanchowdary,,2016-10-10T03:51:42.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,danielchanthink/notebook30a6fea5fd,Notebook30a6fea5fd,danielthink,,2016-10-08T10:01:04.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,franklindong/explore-data,explore_data,Frank Dong,,2016-10-04T18:34:02.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dragonheart/explore-expedia-search-data-130c6b57,Explore Expedia Search Data 130c6b57,Howard,,2016-10-03T06:34:27.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mandy357/mandy,mandy,HAIYANWANG,,2016-09-27T12:46:24.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,vaibhav2909/explore-data,explore_data,VaibhavSinghal,,2016-09-21T15:29:04.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,etignone/predict-hotel-type-with-pandas,Predict hotel type with pandas,etignone,,2016-09-18T15:39:57.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,noviceguy/expedia-hotel-recommendation,Expedia Hotel Recommendation,Gmatx2011,,2016-09-10T01:41:47.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ravijp/predict-hotel-type-with-pandas,Predict hotel type with pandas,jhajhria,,2016-09-09T21:38:45.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,abhayizm/explore-data,explore_data,abhay kumar,,2021-04-24T06:26:31.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,j3ffreyjohn/notebookb98341c475,Notebookb98341c475,john316,,2016-09-07T17:58:42.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dante0shy/dante-s-ehr-projext,Dante's EHR Projext,Shi Hanyu,,2016-11-02T02:58:31.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,bhageshvar/predict-hotel-type-with-pandas,Predict hotel type with pandas,BhageshvarMohan,,2016-09-07T08:08:47.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,chenchaodev/predict-hotel-type-with-pandas-f6410be4,Predict hotel type with pandas f6410be4,Tony Chen,,2016-09-06T10:41:17.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dante0shy/my-ehr-project,MY EHR Project,Shi Hanyu,,2016-10-24T06:03:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sapphire0/predict-hotel-type-with-pandas,Predict hotel type with pandas,Sema,,2016-09-01T10:10:52.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dragonheart/explore-expedia-search-data,Explore Expedia Search Data,Howard,,2016-08-31T03:51:26.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dragonheart/the-locations-puzzle,The locations puzzle,Howard,,2016-08-31T03:28:27.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dragonheart/predict-hotel-type-with-pandas,Predict hotel type with pandas,Howard,,2016-08-31T02:57:35.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,duanlian/notebookc43f572680,Notebookc43f572680,dlian,,2016-08-25T02:03:39.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hkarimi/notebook30aa00ee6c,Notebook30aa00ee6c,Hussain Karimi,,2016-08-22T17:36:57.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jamiechung/notebooka516c3d6b3,Notebooka516c3d6b3,HY Chung,,2016-08-23T00:40:28.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,igorlakoza/notebook87e74043a1,Notebook87e74043a1,Igor Lakoza,,2016-08-21T08:13:01.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,edk217/notebookd3caa2a955,Notebookd3caa2a955,eddieballgame,,2016-08-14T21:19:29.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,edk217/leakage-solution,Leakage solution,eddieballgame,,2016-08-14T21:16:14.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jak131/notebook9f391d1ced,Notebook9f391d1ced,JayKothari,,2016-08-13T02:15:40.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jak131/notebook948be7f69e,Notebook948be7f69e,JayKothari,,2016-08-13T02:15:32.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,brookekoo/notebook0168931943,Notebook0168931943,XiaoxiGu,,2016-08-12T00:20:26.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,denkasyanov/notebook859a717260,Notebook859a717260,DenisKasyanov,,2016-08-11T00:52:11.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sugiantolauw/interactive-booking-trends,Interactive booking trends,sugianto lauw,,2016-08-07T12:34:31.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sugiantolauw/explore-expedia-search-data,Explore Expedia Search Data,sugianto lauw,,2016-08-07T12:31:45.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,flatorien/explore-data,explore_data,Kim Dongwoo,,2016-08-06T01:29:40.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,flatorien/notebook30e96f5a42,Notebook30e96f5a42,Kim Dongwoo,,2016-08-06T01:20:59.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,flatorien/predict-hotel-type-with-pandas,Predict hotel type with pandas,Kim Dongwoo,,2016-08-06T01:13:30.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,metinturgal/predict-hotel-type-with-pandas-f07d146d,Predict hotel type with pandas f07d146d,MetinTurgal,,2016-08-05T12:26:21.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,metinturgal/predict-hotel-type-with-pandas-58f628d6,Predict hotel type with pandas 58f628d6,MetinTurgal,,2016-08-05T12:25:37.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,metinturgal/predict-hotel-type-with-pandas,Predict hotel type with pandas,MetinTurgal,,2016-08-05T12:23:37.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,metinturgal/notebook418f648e75,Notebook418f648e75,MetinTurgal,,2016-08-05T01:00:27.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,actusz/leakage-solution,Leakage solution,LJE,,2016-07-13T12:31:36.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wangjy1112/hotel-recommedation,Hotel Recommedation,Ivy Wang,,2016-07-09T03:07:01.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,darkria/test2,test2,darkria,,2016-06-16T07:18:48.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/mountleefinal2,mountleefinal2,mountlee,,2016-06-16T07:32:02.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/mountleefinal,mountleefinal,mountlee,,2016-06-15T13:21:59.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/leakageehr1,LeakageEHR1,mountlee,,2016-06-15T04:13:10.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,darkria/test3,test3,darkria,,2016-06-16T04:55:32.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,darkria/testagain-and-again,testagain and again,darkria,,2016-06-13T13:14:01.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,darkria/testagain,testagain,darkria,,2016-06-13T12:35:16.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,darkria/test-note,test note,darkria,,2016-06-13T11:59:38.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jasonlin1026/first-python,first python,Jie-ShengLin,,2016-06-11T07:49:42.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,raviippili/expedia-try-1,Expedia_try_1,ri_4380,,2016-06-11T06:30:44.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,shahnawazakhtar/ehr-recom,EHR_Recom,pip install kaggle,,2016-06-11T00:16:52.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,beedata/ehr-recom,EHR_Recom,FengLi,,2016-06-10T18:06:32.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,antediemterzium/ehr-recom,EHR_Recom,foolius,,2016-06-10T12:14:54.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nettrer/ehr-recom,EHR_Recom,GyuHyunPark,,2016-06-10T11:53:15.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pavelgonchar/ehr-recom,EHR_Recom,Pavel Hanchar,,2016-06-10T12:13:29.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/with-time-v2,With-time v2,Goncalo Gordo,,2016-06-10T16:48:36.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,eunjoole/trial,Trial,EunjooLee,,2016-06-10T23:35:19.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,signochastic/valium-2,Valium_2,Reza,,2016-06-09T23:12:25.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,shahnawazakhtar/the-script-edited,The Script Edited,pip install kaggle,,2016-06-10T00:33:12.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,karimouda/valium-1,Valium_1,karimo,,2016-06-09T19:36:10.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,andreashsieh/valium-1,Valium_1,Andreas Hsieh,,2016-06-09T17:13:48.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,seanstorey/valium-1-ss,Valium_1_SS,SeanStorey,,2016-06-10T20:08:46.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,zyazzy/valium-1,Valium_1,Zeya Aung,,2016-06-09T15:03:07.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/2-rooms,> 2 rooms,Goncalo Gordo,,2016-06-09T11:51:19.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/check-in-month,Check-in month,Goncalo Gordo,,2016-06-09T12:17:16.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/children-in-same-room,Children in same room,Goncalo Gordo,,2016-06-09T13:51:21.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gopalsharma2001/just-try,just_try,GopalS,,2016-06-09T05:44:39.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,kyungkuk/ehr-recom,EHR_Recom,kyungkuk,,2016-06-10T09:01:41.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ravianand87/predict-hotel-type-with-pandas,Predict hotel type with pandas,Ravi Anand,,2016-06-08T20:39:54.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mohanpb/valium-1,Valium_1,Bhambhani Mohan,,2016-06-09T14:08:12.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dariyush/ehr-uidc,EHR_uidc,Dariyush,,2016-06-08T13:05:51.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,amitchoudhary/finalcheck-1,Final_3,Amit Choudhary,,2016-06-10T11:49:29.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,geelin/ehr-notophotel,EHR_noTopHotel,geelin,,2016-06-09T07:33:04.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,beedata/ehr-1,EHR_1,FengLi,,2016-06-08T00:47:06.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,beedata/mmys-3,Mmys_3,FengLi,,2016-06-08T00:07:54.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,renjithmadhavan/expedia-renjith,expedia_renjith,Renjith Madhavan,,2016-06-07T20:23:28.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dumpty/ttt02,ttt02,Humpty Dumpty,,2016-06-07T19:41:41.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,thedoctor46/last-week-xkcd,Last week xkcd,Mudit Jain,,2016-06-07T18:11:13.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gopalsharma2001/testrun1,testrun1,GopalS,,2016-06-07T06:58:12.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,murarikrishna/expedia-hotel,expedia_hotel,krishnamurari,,2016-06-07T05:30:28.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hycu201401055/mmys-4,Mmys_4,HoSangLee,,2016-06-07T05:59:25.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/leakage3,leakage3,mountlee,,2016-06-07T02:39:17.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,scob888/epd-ex,EPD_ex,Scob,,2016-06-08T15:31:55.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,theashwanigupta/mmys-3,Mmys_3,ashwani,,2016-06-07T12:51:35.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,cnt613/test-try,test try,TengMingJie,,2016-06-07T01:06:42.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gopalsharma2001/firstrun,firstrun,GopalS,,2016-06-10T09:24:10.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,yaojiyue/hotel-recommend,hotel recommend,JiyueYao,,2016-06-06T05:00:26.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dukebody/testing-a-py,testing-a.py,Israel Saeta Pérez,,2016-06-05T15:09:40.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hycu201401055/mmys-3-v2,Mmys_3 v2,HoSangLee,,2016-06-05T12:06:29.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,klchang/multiplevarcluster,MultipleVarCluster,klchang,,2016-06-10T13:29:48.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/mmys-3,Mmys_3 v2,Goncalo Gordo,,2016-06-09T11:23:22.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/exp02-kids-is-package,Exp02 - kids/is_package,Goncalo Gordo,,2016-06-04T14:27:43.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hycu201401055/mmys-3,Mmys_3,HoSangLee,,2016-06-05T13:15:19.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,grasspot/epd-ex,EPD_ex,grass,,2016-06-04T04:19:48.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,limyongteag/1000-15,1000_15,limyongteag,,2016-06-04T03:58:50.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,limyongteag/mmys-3,Mmys_3,limyongteag,,2016-06-04T03:31:53.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,anujatri/data-expedia-test,data_expedia_test,Anuj Atri,,2016-06-04T02:53:33.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,anujatri/abcaja,abcaja,Anuj Atri,,2016-06-04T02:37:45.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,juchul/valium-2,Valium_2,juchuloh,,2016-06-04T10:45:41.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,britney/expedia-test,Expedia Test,Ramona,,2016-06-05T03:13:41.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,britney/expedia-solutions,Expedia Solutions,Ramona,,2016-06-03T23:37:38.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,defenestration/expedia-popular-solution,Expedia Popular Solution,AJ Cloete,,2016-06-03T21:05:12.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,srivastava123/sam12345,sam12345,saumya,,2016-06-03T19:08:31.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/leakage,leakage,mountlee,,2016-06-14T15:50:10.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,amitchoudhary/mmys-3,Mmys_3,Amit Choudhary,,2016-06-03T14:06:50.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hycu201401055/valium-2,Valium_2,HoSangLee,,2016-06-03T13:09:57.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/hehehe,hehehe,mountlee,,2016-06-03T09:41:47.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,alexxanderlarko/dest-0306,dest_0306,Alexander  Larko,,2016-06-03T03:11:31.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dujung/testme,testme,DUJung,,2016-06-03T02:51:31.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,abhinavs01858/ehr-1,EHR_1,Abhinav Sharma ,,2016-06-02T14:13:40.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jyotiislam/temp-script,temp_script,jyotiislam,,2016-06-02T13:42:47.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,rahulhp/3-1-just-booking,3.1.Just Booking,RahulHP,,2016-06-02T11:50:37.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,bwsubbu/the-locations-puzzle,The locations puzzle,subsiv,,2016-06-02T10:45:49.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/leakage-gbclass-explore,Leakage_GBclass_explore,mountlee,,2016-06-02T08:08:46.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,saravanann/expedia-1,expedia_1,Saravanan N,,2016-06-02T06:41:36.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sdanish/test-v1,Test_V1,Dan,,2016-06-02T15:51:17.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,minh77/leakage-solution,Leakage solution,Hoàng Minh,,2016-06-02T12:08:27.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sharmakushagra/test-notebook,test-notebook,Kushagra Sharma,,2016-06-01T16:20:45.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,animesh371/expediascript,Expediascript,AnimeshGaitonde,,2016-06-01T15:49:09.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,andreasgruber/valiudfsd,Valiudfsd,MCAG,,2016-06-01T11:12:42.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dimitrislev/test-v1,Test_V1,Dimitris Leventis,,2016-06-01T10:11:02.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,radek1st/the-locations-puzzle,The locations puzzle,Radek Ostrowski,,2016-05-31T22:40:05.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,henshinger/logistic-regression,Logistic Regression,Kenley Tan,,2016-05-31T15:19:26.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wilsbj/dest-type-id,dest_type_ID,wilsbj,,2016-05-31T12:45:43.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dariusalaska/expedia-adaboost,Expedia EDA,Dalaska,,2016-05-31T12:29:24.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mountlee/gbclass,GBclass,mountlee,,2016-05-31T15:27:38.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,chenchaodev/expedia-160531-tony,Expedia_160531_tony,Tony Chen,,2016-07-19T02:59:54.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dariyush/efr01,EFR01,Dariyush,,2016-05-31T04:05:11.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nixideguoke/expedia1,expedia1,naiper,,2016-05-30T18:16:09.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,henshinger/test-v1,Test_V1,Kenley Tan,,2016-06-03T04:21:20.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,andreasgruber/valifdsgsdfg,Valifdsgsdfg,MCAG,,2016-05-30T13:44:28.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,chifa01/seaborn,seaborn,chifa01,,2016-05-30T08:37:16.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,stained/check,check,Dries,,2016-05-30T08:52:14.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,liuyihunter/ly-test,LY-TEST,lyHunter,,2016-05-30T16:38:06.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,iamycd/practice,practice,iamycd,,2016-05-30T14:26:40.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jsab16/learning,Learning,JSab,,2016-05-29T13:54:51.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jyyang/ehr-1,EHR_1,Jong-Yeol Yang,,2016-05-29T10:35:29.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,theashwanigupta/ehr-1,Visualization,ashwani,,2016-06-01T13:51:48.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/ehr-1-kids,EHR_1 - kids?,Goncalo Gordo,,2016-06-02T13:02:08.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,klchang/singledistancevarcluster,SingleDistanceVarCluster,klchang,,2016-05-30T15:59:33.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,scob888/ehr-1,EHR_1,Scob,,2016-05-28T08:37:42.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,chaibimehdi/explore-data,explore_data,MahdiChaibi,,2016-05-27T07:28:39.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,varunpa/postgresql-and-python,Postgresql and python,Pritish,,2016-05-27T14:32:00.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ramonchu/test-00,test_00,Ramonchu,,2016-05-26T21:18:45.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,scob888/valium-1111,Valium_1111,Scob,,2016-05-26T10:29:03.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jyyang/simple-validation,SimpleValidation2,Jong-Yeol Yang,,2016-05-26T08:24:13.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hycu201401055/valium-1111,Valium_1111,HoSangLee,,2016-05-25T22:49:02.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,justfor/latent-destination-features,Latent Destination Features,Justfor,,2016-05-25T22:07:14.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,amdouni/ehr-1,EHR_1,AMDOUNIRaouf,,2016-06-10T10:19:24.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,seanstorey/expedia-ss-1,Expedia_SS_1,SeanStorey,,2016-05-27T23:01:12.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,divyanshusuri/valium-1111,Valium_1111,DSXL,,2016-05-25T13:45:44.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hycu201401055/ehr-2,EHR_2,HoSangLee,,2016-05-24T23:11:59.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,kyunbit/predict-hotel-type-with-pandas,Predict hotel type with pandas,AngikSarkar,,2016-05-24T22:49:39.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,khaledfayed/ehr-1,EHR_1,Khaled Fayed,,2016-05-24T22:09:55.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,abad623/kaggle,Kaggle,Data Intelligence Team,,2016-05-24T17:10:09.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,abad623/notebook-824991b1b205978d4156,Kernel6ecf2be00f,Data Intelligence Team,,2019-09-12T19:39:06.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mingcaiqin/match-solution,Match_Solution,Ming,,2016-05-23T17:47:49.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mingcaiqin/expedia-try4,Expedia_Try4,Ming,,2016-05-23T14:31:08.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,andreasgruber/valium-1,Valium_1,MCAG,,2016-05-23T15:34:11.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,saurabh24292/exploring-data,Exploring Data,spider24,,2016-05-23T11:34:08.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,yukatherin/naive-bayes-with-countvectorizer,Naive bayes with CountVectorizer,Katherin Yu,,2016-05-23T05:30:08.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wenhui/test-01,test_01,Hui-Wen,,2016-05-23T02:25:12.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,kaelchan/yotta-s-notebook-for-expedia,yotta's notebook for Expedia,Kael Chan,,2016-05-31T16:45:38.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nminhptnk/predict-hotel-type-with-pandas,Predict hotel type with pandas,tuanminh.nus,,2016-05-22T02:37:55.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wilsbj/expedia-exploration-2,Expedia Exploration 2,wilsbj,,2016-05-31T12:41:49.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,kjacks21/prepwork,prepwork,kjacks21,,2016-05-22T23:37:41.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,alicesadventures/test-may21,test_May21,Alice's Adventures,,2016-05-21T22:22:04.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sergeyivanov/leakage-solution,Leakage solution,Сергей,,2016-05-21T21:56:04.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jamieneubert/testfile,testfile,JamieNeubert,,2016-05-21T18:21:40.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,bytestorm/dataleak,dataLeak,bytestorm,,2016-05-21T05:50:31.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wilsbj/expedia-exploration,Expedia Exploration,wilsbj,,2016-05-22T01:31:56.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,yangdx/explore-data,explore data,yangdx,,2016-05-20T07:24:09.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,takeshichka/ehr-1,EHR_1,tkchka,,2016-05-20T00:34:40.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,niladri18/load-data,load data,NiladriGomes,,2016-05-19T23:33:36.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,niladri18/logistic-regression,logistic regression,NiladriGomes,,2016-05-19T21:59:25.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,rajighawi/srch-dest1,srch_dest1,Arcane27,,2016-05-19T19:41:01.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sino30535/expedia-script-1,Expedia script 1,Darren Lee,,2016-05-19T16:30:04.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,cherryman/latent-data,latent_data,Marcin Wisniewski,,2016-05-19T14:11:08.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,vykhand/test-bokeh,test_bokeh,Andrey Vykhodtsev,,2016-05-19T13:14:21.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,cutddm/leakage-solution,Leakage solution,cutd,,2016-05-19T10:47:34.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,thibaut95k/zfturbo-separation-by-children,ZFTurbo Separation By Children,thibaut,,2016-05-20T08:28:44.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dilipkomar/expandas,Expandas,DK,,2016-05-18T17:49:28.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,simpernren/title,Title,Prism,,2016-05-18T01:58:37.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jerrylin/start-script,start script,Jerry Lin,,2016-05-18T02:58:42.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/hhhjjhhh,hhhjjhhh,Mohammad Shadab Alam,,2016-05-17T09:07:45.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,timleathart/predict-hotel-type-with-pandas,Predict hotel type with pandas,Tim Leathart,,2016-05-17T00:33:08.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jgc31416/ehr-1,EHR_1,JGC3,,2016-05-16T15:15:32.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lonstud/testt,testt,lonstud,,2016-05-16T14:04:32.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/withnnatt1,withNNatt1,gautam sihag,,2016-05-16T01:32:52.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/nnattempt1,NNattempt1,gautam sihag,,2016-05-16T00:15:50.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/essss,Essss,Mohammad Shadab Alam,,2016-05-15T20:57:10.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mohamedali/trying-kaggle-scripts,trying kaggle scripts ,Mohamed Ali,,2016-05-17T11:16:32.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mohamedali/trying-out-notebooks-on-kaggle,trying out notebooks on kaggle :-) ,Mohamed Ali,,2016-05-17T08:39:38.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/withallattempt2-1,withallattempt2.1,gautam sihag,,2016-05-15T21:03:37.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/withallattempt1-1,withallattempt1.1,gautam sihag,,2016-05-15T16:45:35.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,illidari/benchmark-test,Benchmark Test,TimothyFindling,,2016-05-15T18:27:24.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/ehr-e,EHR_e,Mohammad Shadab Alam,,2016-05-14T23:07:56.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/casasasa,casasasa,Mohammad Shadab Alam,,2016-05-14T19:32:58.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dumpty/hotel-country-2,hotel_country_2,Humpty Dumpty,,2016-05-31T22:00:54.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,goncalo/simple-validation,Season,Goncalo Gordo,,2016-05-14T18:48:29.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,raddar/simple-validation,Simple Validation,raddar,,2016-05-14T06:30:35.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,defenestration/testing-scripts,Expedia Enrichment,AJ Cloete,,2016-06-03T21:49:50.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/withallattemp2,withallattemp2,gautam sihag,,2016-05-13T20:42:53.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,huangjx/lllll,lllll,CatherineHuang,,2016-05-13T12:37:17.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,justfor/ehr-2,Expedia_Playground,Justfor,,2016-06-06T09:31:15.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,sionek/ehr-123,EHR_123,Grzegorz Sionkowski,,2016-05-13T07:43:03.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,raddar/ehr-1,EHR_1,raddar,,2016-05-13T06:21:15.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/withallatempt1,withallatempt1,gautam sihag,,2016-05-12T22:32:36.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,bagriaditya/withall,withall,AdityaBagri,,2016-05-12T21:08:19.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/plainattemptwithnn,plainattemptwithNN,gautam sihag,,2016-05-12T18:33:26.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/predictionwithsvms,predictionwithSVMs,gautam sihag,,2016-05-12T15:48:06.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/leakage-solution-gsd,Leakage solution_gsd,gautam sihag,,2016-05-12T10:30:41.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/pred1-3,pred1.3,gautam sihag,,2016-05-12T10:22:47.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/pred1-2,pred1.2,gautam sihag,,2016-05-12T10:23:13.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/predictions1,predictions1,gautam sihag,,2016-05-12T08:24:49.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/columnextractionwithlda,ColumnExtractionWithLDA,gautam sihag,,2016-05-12T03:40:09.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/ehr-1,EHR_1,Mohammad Shadab Alam,,2016-05-11T20:41:38.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wwwjk366/leakage-solution,Leakage solution,TanbingYan,,2016-05-11T19:03:38.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/plot33,plot33,gautam sihag,,2016-05-11T10:19:12.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,showeru/expedia,expedia,showeru,,2016-05-11T08:09:34.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/plots32,plots32,gautam sihag,,2016-05-11T09:17:05.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/packagevsbookings,PackageVsBookings,gautam sihag,,2016-05-11T06:47:35.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/bookigsandmobile,BookigsAndMobile,gautam sihag,,2016-05-11T06:22:43.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/bookigswithmobile,Bookigswithmobile,gautam sihag,,2016-05-11T06:25:00.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,michaelpawlus/vrsse2,Vrsse2,Michael Pawlus,,2016-05-11T00:57:32.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/package-searchspan-1,package_searchSpan,gautam sihag,,2016-05-10T23:36:25.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/vrsse2,Vrsse2,Mohammad Shadab Alam,,2016-05-11T03:20:58.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/package-searchspan,package_searchSpan1,gautam sihag,,2016-05-10T23:09:08.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/plots-data-exploration,plots_data_exploration,gautam sihag,,2016-05-10T23:06:33.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,maxcvc/vrsse2,Vrsse2,Valentin,,2016-05-10T14:38:42.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ma350365879/hotel-country,hotel_country,YijunMa,,2016-05-10T13:40:28.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nilabhra/expedia-notebook1,expedia_notebook1,Nilabhra Roy Chowdhury,,2016-05-10T05:12:32.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,davidkunio/expedia-prediction-set,Expedia Prediction Set,davidkunio,,2016-05-10T02:42:37.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,linhvannguyen/hotel-country,hotel_country,LetStats,,2016-05-09T21:37:16.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jonathanslomka/hotel-country-1,hotel_country_1,JonathanSlomka,,2016-05-09T21:16:31.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/test1-on,test1 on,Mohammad Shadab Alam,,2016-05-09T20:10:30.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,blackcore/hotel-country2,hotel_country2,BlackCore,,2016-05-09T19:56:58.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,minyuds/hotel-recommendations,Hotel Recommendations,M.Y.,,2016-05-09T20:43:53.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/another1,another1,gautam sihag,,2016-05-16T04:58:37.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,arfatios/yolo-notebook,Yolo notebook,Quindim,,2016-05-09T16:02:51.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,edmondyoung/hello,hello,lxyyd,,2016-05-10T00:41:18.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ductricse/first,first,Nguyen Duc Tri,,2016-05-09T07:55:52.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/leakage-solution-1,Leakage solution_1,Mohammad Shadab Alam,,2016-05-09T09:10:02.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/dataprep1,dataprep1,gautam sihag,,2016-05-09T09:04:32.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/atrt1123,atrt1123,gautam sihag,,2016-05-09T04:28:05.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,fancyspeed/fork-leakage-solution,fork_Leakage_solution,MichaelLiu,,2016-05-10T16:19:11.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/att123,att123,gautam sihag,,2016-05-09T00:37:17.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dumpty/expedia-01,expedia 01,Humpty Dumpty,,2016-05-09T08:04:58.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,outliar/leakage-solution,Leakage solution,Mohammad Shadab Alam,,2016-05-08T07:38:58.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,shijinzhang/test-script,test script,Goblin Alchemist,,2016-05-08T06:17:56.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,negaduck/leakage-solution,Leakage solution,negaduck,,2016-05-07T23:38:26.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ivsmolyar/myfirstscript,Myfirstscript,IvanSmolyar,,2016-05-07T23:18:46.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,buptkang/bo-regression,Bo-Regression,BO KANG,,2016-05-07T21:56:45.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/more-data-exploration,more_data_exploration,gautam sihag,,2016-05-08T00:03:36.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,julienstpf/predict-hotel-type-with-pandas,Predict hotel type with pandas,JulienSt-PierreFortin,,2016-05-07T19:07:59.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,onepau/predict-hotel-type-with-pandas,Predict hotel type with pandas,onepau,,2016-05-07T17:42:54.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/destination-exploration1,Destination_Exploration1,gautam sihag,,2016-05-07T20:53:02.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,fancyspeed/step-by-step,step_by_step,MichaelLiu,,2016-05-07T17:56:36.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dixitgaurav/leakage-solution,Leakage solution,Gaurav Dixit,,2016-05-07T15:42:42.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,talyakar/test2,test2,TalB,,2016-05-07T13:55:23.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mohanpb/pandas-expedia,Pandas Expedia,Bhambhani Mohan,,2016-05-07T12:56:11.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,celniker/predict-hotel-type-with-pandas,Predict hotel type with pandas,Gershon Celniker,,2016-05-07T11:25:56.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mohanpb/leakage-solution,Leakage solution,Bhambhani Mohan,,2016-05-08T05:34:09.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,saravanann/expedia,expedia,Saravanan N,,2016-06-02T06:45:17.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lndgrn/create-cross-validation-dataset,Create Cross Validation Dataset,Erik,,2016-05-07T04:19:44.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,testimate/700-20,300_20,Testimate,,2016-05-07T03:07:22.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gilmar2013/leakage-solution,Leakage solution,ToDelete,,2016-05-13T06:34:01.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,khaoticmind/leakage-solution,Leakage solution,Antonio Augusto Santos,,2016-05-06T14:01:59.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,antarlina/predict-hotel,predict_hotel,antarlina,,2016-05-06T06:13:26.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ankitkohli/expedia-hotelrecommender,expedia-hotelRecommender,ankitkohli,,2016-05-06T06:11:07.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/nameit1,nameit1,gautam sihag,,2016-05-10T02:10:36.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,penguinana/testcode,testcode,penguinana,,2016-05-05T14:43:56.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,praveen24kumar/predict-hotel-type-with-pandas,Predict hotel type with pandas,StillTrying,,2016-05-05T12:53:42.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,wishvaherath/expedia-test,expedia_test,xycom,,2016-05-05T11:20:13.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/hotel1,hotel1,gautam sihag,,2016-05-19T00:00:36.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,remi3853/test-notebook,test notebook,remi3853,,2016-05-04T14:56:55.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,gautamsihag/hotel,hotel,gautam sihag,,2016-05-04T21:27:11.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,liamsch/explore-data-liam,explore_data_liam,Liam,,2016-05-03T17:53:10.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dimitrislev/predict-hotel-type-with-pandas,Predict hotel type with pandas,Dimitris Leventis,,2016-05-03T15:07:58.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mlwhiz/asdasdasdasdasd,asdasdasdasdasd,Rahul Agarwal,,2016-05-02T14:17:48.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mlwhiz/asdadas,asdadas,Rahul Agarwal,,2016-05-02T14:05:48.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,eranstr/just-testing,Just testing,eran st,,2016-05-02T11:25:51.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mpekalski/test01,test01,Marcin Pękalski,,2016-05-12T15:52:58.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hyshenml/expedia-test1,expedia_test1,matthewShen,,2016-05-01T02:49:22.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nit254/expedia-nitin,Expedia_nitin,predict#,,2016-05-05T19:10:13.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hswater1/get-this-1-3-right,Get this 1/3 right,ShenHuang,,2016-04-29T15:47:45.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,dusj1993/predict-hotel-type-with-pandas,Predict hotel type with pandas,dusj,,2016-04-29T12:51:35.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,powell314/first-attempt-at-non-titanic,first_attempt_at_non_titanic,AndrewPowell,,2016-05-11T08:33:30.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,anandut2001/hotel-recommendations,Hotel recommendations,AnandShastri,,2016-04-29T20:58:33.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,scob888/predict-hotel-type-with-pandas,Predict hotel type with pandas,Scob,,2016-04-27T16:40:32.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pas5062/jerometest,JeromeTest,JeromeGille,,2016-04-27T11:48:23.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,scob888/forked-notebook-2,forked_notebook_2,Scob,,2016-04-27T12:56:59.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,scob888/first-notebook-1,first_notebook,Scob,,2016-04-26T18:34:57.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,drasko/predict-hotel-type-with-pandas,Predict hotel type with pandas,Draško Kokić,,2016-04-26T15:19:41.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nanr1987/fork-explore-data-nanr,fork_explore_data_nanr,NanR,,2016-04-27T06:10:46.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nanr1987/exp1-2,exp1_2,NanR,,2016-04-26T10:23:03.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,bozhkov/test123,test123,Lachezar Bozhkov,,2016-04-26T10:14:09.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,nanr1987/exp1-1,exp1_1,NanR,,2016-04-26T11:12:25.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mezoistvan/sample-text,Sample Text,Mezo Istvan,,2016-04-25T15:11:35.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,drasko/1st-python-predicition,1st Python predicition,Draško Kokić,,2016-04-25T13:20:22.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,fancyspeed/time2win3,time2win3,MichaelLiu,,2016-04-24T17:35:06.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,iamleungyeehin/seeoutput,seeoutput,Henry Leung,,2016-04-24T14:40:30.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,malamute/expedia-data-exploration,expedia data exploration,Malamute,,2016-04-24T09:27:15.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mlesna/expedia-visualizations,expedia_visualizations,mlesna,,2016-04-24T04:20:49.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,fancyspeed/time2win2,time2win2,MichaelLiu,,2016-04-24T16:06:19.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mrbeer/random-forest-low-memory,Random forest - low memory,Yair Beer,,2016-04-23T05:21:57.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,drasko/1st-python-try,1st Python try,Draško Kokić,,2016-04-23T13:17:05.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,alexstrat/exploration,Exploration,Alexandre Lachèze,,2016-04-21T13:46:58.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lulalachen/explore-data,explore_data,Lulala Chen,,2016-04-22T15:57:50.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mpjdem/map-k-demo,MAP@K demo,mdem99,,2016-04-20T21:42:35.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jwegas/xgb-test,xgb_test,Evgenii Zhukov,,2016-04-20T13:07:50.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mrbeer/sampling-out-the-data,Sampling out the data,Yair Beer,,2016-04-20T12:27:23.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,tderrmann/testnotebook2,testnotebook2,ThierryDerrmann,,2016-04-20T12:13:21.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hulkbulk/randomforest-test-20160418,RandomForest_test_20160418,HulkBulk,,2016-04-20T06:17:36.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,tudormorar/first-notebook,First notebook,xorlogic,,2017-10-26T02:41:38.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,lintseju/baseline,baseline,BlackSwan,,2016-04-19T13:45:46.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,marquesjgo/testy,Testy,Pikachu,,2016-04-18T13:54:49.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,ankitccuser/explore,explore,root,,2016-04-18T14:53:18.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hulisi/kalem,kalem,Hulisi Öğüt,,2016-04-18T10:34:45.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,pappukrjha/expedia-data-understanding,expedia_data_understanding,Pulkit Jha,,2016-04-18T11:09:45.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,tagarin/test1,test1,Tagarin,,2016-04-18T05:42:41.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jwegas/similar-hotels,similar_hotels,Evgenii Zhukov,,2016-04-18T07:35:51.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jwegas/most-popular-local-hotels,most popular local hotels,Evgenii Zhukov,,2016-04-18T07:36:25.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mauridb/first-test,First Test,Davide Mauri,,2016-04-16T18:39:07.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,mafux777/py-ex-1,py-ex-1,mafux777,,2016-04-16T16:29:00.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hulkbulk/explore-data,Explore Data,HulkBulk,,2016-04-16T16:26:40.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,muhammedazamkhan/expedia-hotel-recommendations-by-mak,Expedia Hotel Recommendations by MAK,MAK,,2016-04-16T10:38:25.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,jwegas/data-explore,data_explore,Evgenii Zhukov,,2016-04-17T04:25:24.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,laurencedetorrente/essai,essai,Laurencedetorrente,,2016-04-16T04:12:48.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,potterxu/explore-data,explore data,potter xu,,2016-05-06T07:06:21.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations
+,,,,,0,hillock/test-script,test script,Warren Knox,,2016-04-15T20:19:40.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,expedia-hotel-recommendations

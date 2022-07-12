@@ -1,0 +1,8 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,zmey56/my-learning-kernel,My learning kernel,AlexTUT56,,2019-03-08T19:42:26.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bioresponse
+,,,,,0,vernondsouza123/predict-biological-response-through-lightgbm,Predict Biological Response through LightGBM,Vernon D Souza,,2020-07-03T19:22:15.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bioresponse
+,,,,,0,anastasia484/predicting-a-biological-response, Predicting a Biological Response,Anastasia S,,2020-02-04T03:14:21.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bioresponse
+,,,,,0,zmey56/my-first-kernels-from-coursera,My first Kernels from Coursera.  ,AlexTUT56,,2018-12-15T21:25:11.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bioresponse
+,,,,,0,sergeyzinchenko/predicting-a-biological-response,Predicting a Biological Response,Sergey Zinchenko,,2021-04-16T09:12:59.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bioresponse
+,,,,,0,quinnd/basicsubmission,basicsubmission,quinn,,2019-01-29T16:25:10.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bioresponse
+,,,,,0,ludi666/lr-regression,LR_regression,DiLu,,2018-09-25T01:33:14.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bioresponse

@@ -1,0 +1,133 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,simonpfish/comp-stats-group-data-project-final,Comp Stats Group Data Project - Final ,Simon Posada Fishman,,2018-12-06T05:03:06.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,GiveMeSomeCredit
+,,,,,0,caesarlupum/modeling-give-me-some-credit,Modeling: Give Me Some Credit  📈📉,Caesar Lupum,,2021-02-14T17:56:45.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,GiveMeSomeCredit
+,,,,,0,nicholasgah/eda-credit-scoring-top-100-on-leaderboard,"EDA - Credit Scoring, Top 100 on Leaderboard",Nicholas,,2020-04-18T14:50:26.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,GiveMeSomeCredit
+,,,,,0,caesarlupum/give-me-some-credit-deploy-model,Give Me Some Credit  📈📉 deploy model,Caesar Lupum,,2022-01-21T12:54:09.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,GiveMeSomeCredit
+,,,,,0,orange90/credit-scorecard-example,Credit ScoreCard example,orange90,,2021-07-03T08:22:40.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,GiveMeSomeCredit
+,,,,,0,bannourchaker/credit-top5-solution-evaluation-all,credit-top5_solution-evaluation-all,Bannour chaker,,2022-01-13T17:14:09.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,GiveMeSomeCredit
+,,,,,0,riteshrhyme/starter-credit-card-scoring-bbe98584-0,Starter: credit card scoring bbe98584-0,Ritesh Paryani,,2019-06-02T06:50:12.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,GiveMeSomeCredit
+,,,,,0,vermillionz/hyperopt-lgbmclassifier-86-roc-auc-simple-eda,"Hyperopt + LGBMClassifier 86% ROC_AUC,Simple EDA",Christian Espinoza,,2020-06-17T18:51:50.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,GiveMeSomeCredit
+,,,,,0,poposkygyq/scorecard,scorecard,poposky,,2018-09-15T07:31:26.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,GiveMeSomeCredit
+,,,,,0,uditnagar5/give-me-some-credit-eda-xgboost-lightgbm-shap,"Give Me Some Credit: EDA, XGBoost, LightGBM & SHAP",Udit Nagar,,2020-07-25T17:32:17.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,GiveMeSomeCredit
+,,,,,0,ilhamr/credit-score-for-pre-assessment-test-bri-hackathon,Credit Score for Pre-Assessment Test BRI-Hackathon,Ilham Rizky,,2020-12-14T06:54:38.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,GiveMeSomeCredit
+,,,,,0,skyabcd/credit,Credit,Xu Jiang,,2021-06-27T17:14:50.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,GiveMeSomeCredit
+,,,,,0,midun18/credit-issue-classification,Credit Issue Classification,Midun Raju,,2019-08-01T06:42:04.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,GiveMeSomeCredit
+,,,,,0,bannourchaker/credit-deep-learning,credit_deep_Learning ,Bannour chaker,,2022-01-13T16:56:50.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,wangtianyue/notebook-datamining,notebook_datamining,wangtianyue,,2021-11-27T09:39:39.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,mostig/starter-give-me-some-credit,Starter: Give Me Some Credit,mostig,,2021-11-27T17:30:47.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,xuziyibnu/hululu,小猪小猪软乎乎 遇到困难hululu,xuziyibnu,,2021-07-07T14:55:53.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,mt77pp/mljar-automl-givemesomecredit,MLJAR AutoML - GiveMeSomeCredit,Piotr,,2021-03-31T07:40:48.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,ejkim0121/loan-lgbmclassifer,Loan_LGBMClassifer,Eunjin Kim,,2019-11-09T07:59:33.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,gclauser/credit-risk-analysis-gfc,Credit risk analysis - GFC,gclauser,,2019-05-09T09:26:18.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,GiveMeSomeCredit
+,,,,,0,sarboldipo/givemesomecredit-eda-logistic-regression-woe,"GiveMeSomeCredit-EDA, LOGISTIC REGRESSION, WOE",Sarbol Dipo,,2021-11-02T10:34:29.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,GiveMeSomeCredit
+,,,,,0,jamesngoa/credit-scoring-efficient-eda-cleaning,Credit_Scoring - Efficient EDA & Cleaning,Henri Ngoa,,2021-05-27T13:29:19.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,GiveMeSomeCredit
+,,,,,0,orange90/ensemble-test-credit-score-model-example,ensemble test- Credit Score model example,orange90,,2020-09-12T09:50:19.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,GiveMeSomeCredit
+,,,,,0,orange90/xgboost-easyensemble-model-and-explanation,xgboost- EasyEnsemble model and explanation,orange90,,2020-09-19T09:58:30.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,GiveMeSomeCredit
+,,,,,0,akshayjhawar/predicting-default-deep-learning-0-82-auc,Predicting Default | Deep Learning ~ 0.82 AUC,Akshay Jhawar,,2020-07-18T01:41:20.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,GiveMeSomeCredit
+,,,,,0,sainikhilesh/give-me-some-credit-classification,Give Me Some Credit-Classification,Sai Nikhilesh,,2020-04-28T07:30:28.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,GiveMeSomeCredit
+,,,,,0,yijiazhang666/notebooke5e3eefb09-yijiazhang,notebooke5e3eefb09_yijiazhang,YijiaZhang666,,2021-11-26T12:13:40.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,GiveMeSomeCredit
+,,,,,0,skmuhammadasif/performance-comparison-with-raw-balanced-data,Performance Comparison with Raw & Balanced Data,Sk Muhammad Asif,,2021-10-15T05:59:58.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,GiveMeSomeCredit
+,,,,,0,caesarlupum/datarisk-modeling-credit-approval,Datarisk: Modeling Credit Approval ,Caesar Lupum,,2021-02-21T22:17:00.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,GiveMeSomeCredit
+,,,,,0,jasonwct/eda-simple-ml-for-beginners,EDA + Simple ML for Beginners,jasonwct,,2020-10-10T03:44:10.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,GiveMeSomeCredit
+,,,,,0,yusufyldz/give-me-credit,Give-Me-Credit,S & A,,2022-04-24T09:39:04.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,reikaa/gimme-some-credit-pwease,Gimme Some Credit Pwease,Reikaa,,2021-11-30T19:10:57.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,vsevolodkachan/2-baseline-credit-scoring,2 baseline Credit scoring,Vsevolod Kachan,,2021-09-23T06:38:01.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,yanyuchen428/give-me-some-credit,Give Me Some Credit,YanYuchen,,2021-07-09T04:21:51.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,chenchangyu0922/give-me-some-credit,give me some credit,ChenChangyu0922,,2021-06-28T08:30:52.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,wr786w/aiintro-givemesomecredit,AIIntro-GiveMeSomeCredit,wr786,,2021-06-05T13:12:47.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,jamesngoa/credit-scoring-feature-eng-and-prediction-0-8674,Credit_Scoring - Feature Eng and Prediction 0.8674,Henri Ngoa,,2021-05-27T14:54:16.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,kernalpca/give-me-some-credit-jameshaung,Give_Me_Some_Credit_jameshaung,kernalPCA,,2021-05-03T14:02:11.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,doufulai/give-credit-jasper,give_credit_jasper,doufulai,,2020-10-25T14:01:46.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,aashishbidap/credit-defaulter-probability,Credit Defaulter Probability,Aashish Bidap,,2020-07-29T15:21:38.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,sentrankim/85-5-roc-auc-private-test,85.5% ROC_AUC Private Test,SenTran,,2020-05-14T03:22:43.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,dnreddy/give-me-some-credit, Give Me Some Credit,Nikhileswar Reddy,,2020-04-29T10:19:10.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,zhannabitiukova/ds-study-credit-desiciontree-impute-mean,DS_study_Credit_DesicionTree_Impute_mean,ZhB,,2019-11-03T22:42:55.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,GiveMeSomeCredit
+,,,,,0,tatudoug/hyperopt-lgbmclassifier-simple-eda,"Hyperopt + LGBMClassifier,Simple EDA",Douglas Marques,,2022-06-28T23:33:59.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,kyuhwanjung2/givemesomecredit-0429,Givemesomecredit-0429,Kyuhwan Yohann Jung,,2022-04-29T07:04:07.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,iamhuyxin/give-me-some-credit,give-me-some-credit,iamHuyxin,,2021-11-27T02:32:25.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,mingkaizhou/give-me-some-credit,give me some credit,Mingkai Zhou,,2021-11-26T20:19:05.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,yuezhang0113/givemesomecredit-zhangyue,GiveMeSomeCredit_ZhangYue,Yue Zhang,,2021-11-26T11:33:27.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,kyuhwanjung2/givemesomecredit-2,GiveMeSomeCredit-2,Kyuhwan Yohann Jung,,2022-03-23T08:19:23.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,yzgast/gmsc-building-models-making-predictions,GMSC | Building Models & Making Predictions,Yzgast,,2021-08-25T13:34:40.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,ancyli/final-lhy,Final_lhy,Ancyli,,2021-07-08T06:55:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,xbx0134/gimme-some-credit,gimme some credit,xbx0134,,2021-07-08T06:06:35.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,decatur/ensemble-stacking,ensemble-stacking,Decatur,,2021-06-29T12:46:04.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,quillquill/fork-of-financial-score-card-lr,Fork of 信用评分卡-Financial-Score-card-lr,yukun zu,,2021-05-21T07:55:43.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,kyuhwanjung2/givemesomecredit-basic-week-2,GiveMeSomeCredit- basic-week -2,Kyuhwan Yohann Jung,,2021-04-27T04:44:37.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,chananna/givemesomecredit-fin,Givemesomecredit Fin,chananna,,2020-12-28T07:28:07.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,jagadeesh06/give-me-some-credit-eda-imputation-rf-xgb,Give_Me_Some_Credit_EDA_Imputation_RF_XGB,Jagadeesh Mallemala,,2020-05-03T09:51:27.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,kody8891/logistic-regression-credit-modeling,Logistic Regression Credit Modeling,Kody Reichert,,2020-12-15T20:34:10.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,zhannabitiukova/ds-study-credit-datavisualization-and-cleanup,DS_study_Credit_DataVisualization_and_cleanup,ZhB,,2019-11-13T01:17:48.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,zhannabitiukova/ds-study-credit-logistic-regression,DS_study_Credit_Logistic_Regression,ZhB,,2019-11-05T22:07:36.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,zhannabitiukova/ds-study-credit-desiciontree,DS_study_Credit_DesicionTree,ZhB,,2019-11-03T20:44:44.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,reubenmathew/model-mark1-random-forest-intro-to-problem,Model-Mark1 Random Forest (Intro to problem),Reuben Mathew,,2019-02-12T18:07:49.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,vite99999/prediction-model-w-xgboost,Prediction Model w/XGBoost,Bo Hou,,2019-02-12T08:15:53.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,GiveMeSomeCredit
+,,,,,0,rainiexie/version1,version1,Rainie Xie,,2022-06-21T02:50:45.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yusufyldz/give-me-credit-some,Give Me Credit Some,S & A,,2022-04-29T03:22:07.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,zhangle59/competition-givemesomecredit,Competition_GiveMeSomeCredit,ZhangLe59,,2022-04-06T00:52:53.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,kyuhwanjung2/givemesomecredit-2022,GiveMeSomeCredit-2022,Kyuhwan Yohann Jung,,2022-04-27T01:54:02.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,jaisalchaudhary/notebookeb3e93e376,notebookeb3e93e376,jaisal chaudhary,,2022-01-19T21:12:02.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,billptw/give-me-some-credit-fp,Give Me Some Credit - FP,Bill Pung,,2021-12-04T17:51:18.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,zhangying2021/give-me-some-credit-zy,give me some credit/zy,ZhangYing2021,,2021-11-26T12:06:07.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,bnuyiranchen/cyrgivemesomecredit,cyrgivemesomecredit,bnuyiranchen,,2021-11-26T02:38:31.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,ggman123/12345,数据挖掘实验报告12345,LiDongXie,,2021-11-26T03:56:32.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,xiezheng1999/notebookee0b5f3f0a,notebookee0b5f3f0a,Zheng Xie,,2021-11-25T13:29:47.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,liwanting77/notebook849da39c75,notebook849da39c75,liwanting77,,2021-11-25T09:04:49.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,bulaguo/give-me-some-credit,Give me Some Credit,BuLaGuo,,2021-11-26T08:53:12.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,cordellyaagatha/give-me-some-credit,Give Me Some Credit,Cordellya Agatha,,2021-11-22T16:01:57.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yujieren/give-me-some-credit,Give Me Some Credit,Yujie Ren,,2021-11-17T15:12:37.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yudingbnu/my-homework-dm,my_homework_DM,YU DING BNU,,2021-11-15T05:56:41.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,misskeys/credit-scorecard-example,Credit ScoreCard example,misskeys,,2021-09-29T14:54:44.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yzgast/gmsc-data-overview-eda,GMSC | Data Overview + EDA,Yzgast,,2021-08-23T21:34:54.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,ademain/scorecard-code,scorecard code,Aaron Lee,,2021-07-21T03:48:40.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,zhouyuxuan0010/give-me-some-credit,give me some credit,zhouyuxuan0010,,2021-07-11T15:07:24.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,ckonchok/notebook76b594cd18,notebook76b594cd18,C_Konchok,,2021-07-09T16:35:35.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,miraclepbc/notebookfa1dd4ec5b,notebookfa1dd4ec5b,miraclepbc,,2021-07-09T08:46:19.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,cuojinboshan/give-me-some-credit-2-0,Give me some credit 2.0,Yankai Wang,,2021-07-09T16:02:00.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,wuqiong123/givemesomecredit123,givemesomecredit123,wuqiong123,,2021-07-19T06:07:26.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,wxying/my-credit,My Credit,WXYing,,2021-07-09T07:44:36.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,zk0156/notebookcde2020160,notebookcde2020160,zk_0156,,2021-07-09T06:51:06.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,zhouyifu0158/givemesomecredit-last-v1,GiveMeSomeCredit_Last_v1,zhouyifu_0158,,2021-07-08T14:43:55.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,greywings/give-me-some-credit,give me some credit,grey_wings,,2021-07-09T08:38:06.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,chengyue111/notebook2a9cfb4096,notebook2a9cfb4096,CHENGYUE111,,2021-07-08T12:05:14.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,cmpikachu/201811210138-gmsc,201811210138 彭科钦 GMSC,CMPikachu,,2021-07-08T08:24:53.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,realmali0906/givemesomecredit,GiveMeSomeCredit,bnu_mali0906,,2021-07-07T12:21:35.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,chameleonmy/givemesomecredit,givemesomecredit,Chameleon MY,,2021-07-08T11:58:35.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yangdayou/give-me-credit,Give Me Credit,YangDayou,,2021-07-06T23:25:46.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,seanzhou1207/931004614,期末大作业_931004614,seanzhou1207,,2021-07-18T14:51:17.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,ancyli/give-me-some-credit,Give me some credit,Ancyli,,2021-07-07T07:47:37.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,bnusyl/notebook58313c07f7,notebook58313c07f7,bnu_SYL,,2021-07-05T12:44:46.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,springxmy/notebook9f8dd7b5c7,notebook9f8dd7b5c7,SpringXMY,,2021-07-09T15:54:19.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,wangzhiyan0114/final-givemesomecredit,Final_GiveMeSomeCredit,wangzhiyanbnu,,2021-07-05T11:33:44.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,gossic/gimme-some-credit,gimme some credit,gossic,,2021-07-05T09:44:10.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,bnugyy3/notebook60da6f1baa,notebook60da6f1baa,bnugyy3,,2021-07-03T15:52:27.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,bnucsy/notebook0fe104ab02,notebook0fe104ab02,bnucsy,,2021-07-03T14:19:24.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,moqiwang/give-me-some-credit,give me some credit,moqi wang,,2021-07-03T08:28:35.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,wkybayonet/give-me-credit,Give Me Credit,wky_bayonet,,2022-01-22T02:57:09.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,ruizhezeng/notebook002f83b485,notebook002f83b485,Ruizhe Zeng,,2021-07-01T08:21:32.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,hlo1970/give-me-some-credit-hlo1970,Give me some credit_hlo1970,hlo1970,,2021-06-30T13:22:56.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,lh0165/notebook5458e24805,notebook5458e24805,LH0165,,2021-07-08T07:10:36.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,decatur/feature-engineering,feature engineering,Decatur,,2021-06-29T15:10:47.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,zhangzhiyi3712/give-me-some-credit-zzy,give_me_some_credit_ZZY,Zhang_zhiyi3712,,2021-07-04T03:14:12.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,sixwater6h2o/givemesomecredit,GiveMeSomeCredit,sixwater,,2021-06-27T12:34:17.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,decatur/compare-without-featureengineering,compare without featureengineering,Decatur,,2021-06-28T09:02:26.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,decatur/1st-try,1st-try,Decatur,,2021-06-26T14:24:25.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,airrose/givemesomecredit,Givemesomecredit,Airrose,,2021-06-26T12:54:02.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,skyabcd/credit2,Credit2,Xu Jiang,,2021-06-26T07:45:45.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,suosuosxy/credit,credit,suosuosxy,,2021-06-25T12:32:47.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,air0612/notebook-give-me-some-credit,notebook give me some credit,Air_0612,,2021-06-25T12:25:31.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,lashamaev/vivalogisticregressiononehot,VivaLogisticRegressionOneHot,lashamaev,,2021-06-12T11:12:10.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,lashamaev/vivalogisticregressionlast,VivaLogisticRegressionLast,lashamaev,,2021-06-12T10:49:34.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,lashamaev/decisiontree4,DecisionTree4,lashamaev,,2021-06-22T17:20:47.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,littlebearl/credit-homework,credit-homework,littlebearl,,2021-06-14T08:08:03.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,stereolab/notebookd2a62f797f,notebookd2a62f797f,stereolab,,2021-06-07T10:10:02.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yauhenichachukha/give-me-some-credit,give_me_some_credit,Yauheni Chachukha,,2021-04-07T09:03:13.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,modderbug/notebook63af151c90,notebook63af151c90,modderbug,,2021-01-21T09:42:39.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,peaceworld/ensemble-test-credit-score-model-example,ensemble test- Credit Score model example,peace world,,2020-11-19T06:14:18.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,sen2021/credit-scorecard-example,Credit ScoreCard example,sen2021,,2020-07-29T06:51:24.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,hebert/probability-of-default,Probability of Default,Brian,,2020-05-17T21:17:14.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,urayukitaka/try-to-predict-credit-with-ml,Try to predict credit with ML,ura yukitaka,,2020-04-18T14:21:31.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,yukini/kernel31ca8a4f41,kernel31ca8a4f41,yukini,,2020-03-31T10:00:16.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,kisoibo/credit-issue-classification,Credit Issue Classification,Bonaventure Muia,,2020-02-17T13:36:57.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,navendush/credit-score,Credit Score,Navendu,,2020-02-02T16:12:06.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit
+,,,,,0,atlantistin/hello-credit,"Hello, Credit!",atlantistin,,2019-12-20T08:42:28.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,GiveMeSomeCredit

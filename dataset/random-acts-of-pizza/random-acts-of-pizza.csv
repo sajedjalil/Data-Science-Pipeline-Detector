@@ -1,0 +1,15 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,alvations/basic-nlp-with-nltk,Basic NLP with NLTK,Liling Tan,,2017-11-29T14:19:50.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],132,random-acts-of-pizza
+,,,,,0,ynue21/random-act-of-pizza,Random Act Of Pizza,Alexandre Magueresse,,2018-12-02T13:37:12.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,random-acts-of-pizza
+,,,,,0,zhichaoking/pizza-data-test,Pizza data test,Zhichao_Wang,,2021-08-29T08:02:07.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,koushikdeb/intro-to-terminologies-of-nlp,Intro to Terminologies of NLP,Koushik Deb,,2021-05-28T07:28:29.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,tanjinprity/ml-project-cat-and-tan,ML project: Cat and Tan,Tanjin Prity,,2020-04-13T04:36:38.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,dpamgautam/nlp-basic-text-data-preprocessing-1,NLP : basic text data  preprocessing 1,Deepam Gautam,,2019-03-06T18:04:51.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,elias22/kerneld8b44bc755,kerneld8b44bc755,Elias Munoz,,2018-12-04T21:55:26.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,zahoorahmad/basic-nlp-with-nltk-fba294,Basic NLP with NLTK fba294,ZahoorAhmad,,2018-11-20T10:18:23.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,jihyeseo/pizza-eda,pizza eda,Jihye Sofia Seo,,2018-05-08T17:33:54.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,rashmijrao/ml-project,ML project,RashmiRao,,2017-04-12T13:33:35.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,mbp14mtp/raopizza,RaoPizza,Matthew Parker,,2017-03-15T17:31:29.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,heyheyivan/random-pizza,Random Pizza,Ivan Permyakov,,2016-12-21T10:09:57.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,chqngh/random-pizza,Random Pizza,CQHe,,2016-12-09T06:00:16.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza
+,,,,,0,benhamner/default-python-script,Default Python Script,Ben Hamner,,2015-05-18T20:23:48.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,random-acts-of-pizza

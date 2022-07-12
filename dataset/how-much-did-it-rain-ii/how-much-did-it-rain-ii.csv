@@ -1,0 +1,56 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sudalairajkumar/rainfall-test,Beware of Outliers !!,SRK,,2015-09-18T01:38:17.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,how-much-did-it-rain-ii
+,,,,,0,ilya16/lstm-models,LSTM models,Ilya Borovik,,2019-02-10T15:11:37.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,how-much-did-it-rain-ii
+,,,,,0,andkul/deep-lstm-to-predict-rainfall,Deep LSTM to predict rainfall,Andrey Kulagin,,2019-02-12T06:09:01.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,how-much-did-it-rain-ii
+,,,,,0,steveazzolin/masked-lstm-to-predict-rainfall,Masked LSTM to predict rainfall,Steve,,2020-03-04T09:05:59.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,how-much-did-it-rain-ii
+,,,,,0,aeryss/how-much-did-it-rain,How much did it rain?,Long Luu,,2020-10-10T11:17:17.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,how-much-did-it-rain-ii
+,,,,,0,aminkh/features-gmm-xgboost,Features + GMM + XGBoost,Amin Khribi,,2015-12-08T16:01:59.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,how-much-did-it-rain-ii
+,,,,,0,antgoldbloom/exploring-the-how-much-does-it-rain-data,Exploring the how much does it rain data,Anthony Goldbloom,,2015-11-19T18:40:26.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,how-much-did-it-rain-ii
+,,,,,0,brandonbenton/how-much-did-it-rain-ii,How Much Did It Rain? II,Brandon Benton,,2021-08-08T03:27:29.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,how-much-did-it-rain-ii
+,,,,,0,zytfoo/how-much-did-it-rain-kernel,How much did it rain Kernel,Artur,,2019-02-10T13:41:20.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,how-much-did-it-rain-ii
+,,,,,0,adolgushev/rnn-rain,RNN-Rain,Alexander,,2019-02-10T13:06:42.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,how-much-did-it-rain-ii
+,,,,,0,wendykan/marshall-palmer-benchmark,Marshall Palmer Benchmark,Wendy Kan,,2015-09-17T06:41:10.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,how-much-did-it-rain-ii
+,,,,,0,aleksanderkunicki/rain-regression,rain_regression,Aleksander Kunicki,,2021-07-15T14:56:00.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,abcdefghgjkl/notebook6fc8f8aa56,Notebook6fc8f8aa56,István Boros,,2016-12-17T16:54:59.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,gaborfodor/mae-inequality,MAE inequality,beluga,,2015-10-26T16:36:17.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,saurabh2086/how-much-it-rained,how_much_it_rained,saurabh2086,,2015-10-26T06:29:40.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,pasenor/number-of-readings-per-hour,number of readings per hour,Georgy Frolov,,2015-09-24T16:02:57.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,ys19931006/marshall-palmer-benchmark,Marshall Palmer Benchmark,yshan,,2015-09-22T07:11:51.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,davidshinn/missing-measurements,Missing Measurements,David Shinn,,2015-09-19T01:27:56.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain-ii
+,,,,,0,shitalpawar10/rain-regression,rain_regression,shital pawar10,,2021-09-16T17:07:35.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,misals/basic-assessment,Basic assessment,M Singh,,2020-02-29T22:03:50.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,oldmon/lstm-models,LSTM models,Jenhao Ou,,2019-05-27T15:05:47.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,wwe707/jsungkernel,jsungkernel,Jsung,,2019-05-18T07:03:21.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,alikhil/howmuchdiditrain-hw,howmuchdiditrain-hw,Alik Khilazhev,,2019-04-26T20:44:05.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,goshaq/bidirectional-rnn-in-pytorch,Bidirectional RNN in PyTorch,Gosha Emelyanov,,2019-02-12T05:09:14.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,ipanchenko/pmdl-submission,PMDL_submission,Ivan Panchenko,,2019-02-11T18:16:21.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,jihyeseo/rain-eda-22-continus-x-continus-y-regression,"rain eda, 22 continus x, continus y, regression",Jihye Sofia Seo,,2018-05-08T11:14:19.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,wikkefly/notebook8587de782b,Notebook8587de782b,wikke,,2017-06-09T13:13:01.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,jeffrylee/notebooke2a40b774d,Notebooke2a40b774d,jeffrylee,,2017-05-03T00:30:13.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,jhsong/hello-ghost,hello ghost,Joo-HyeongSong,,2017-05-03T01:54:54.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,jimliu/notebookcc372f2090,Notebookcc372f2090,Jim Liu,,2017-03-10T12:54:21.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,pankajmishra/notebook47ce32188d,Notebook47ce32188d,PankajMishra,,2017-02-03T21:55:20.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,debanjan1234/notebooke07fb03137,Notebooke07fb03137,Debanjan,,2017-01-16T22:08:56.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,rogerkuo007/notebook42926aded4,Notebook42926aded4,Tai-Yi Kuo,,2020-04-20T20:29:12.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,linkinparkcs/exploring-the-how-much-does-it-rain-data,Exploring the how much does it rain data,ShinodaC,,2017-01-03T09:10:10.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,marcsun/exploring-the-how-much-does-it-rain-data,Exploring the how much does it rain data,marcsun,,2016-11-14T22:21:42.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,ahaque/notebook0437e546b9,Notebook0437e546b9,Adnan Haque,,2016-11-12T19:14:47.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,linchunai/notebook12c7a546b3,Notebook12c7a546b3,春艾 林,,2016-11-01T06:17:14.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,cuttlefish/first-script,First Script,cuttlefish,,2016-05-17T03:42:31.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,cuttlefish/first-attempt,First Notebook,cuttlefish,,2016-05-17T03:47:08.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,jadsilva/teste,teste,JorgeAlexandre,,2016-01-27T16:24:15.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,clowntoe/collapse-and-save,Collapse and Save,MarkF,,2015-12-02T18:00:48.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,adny75/caca55,caca55,Adnane M,,2015-11-04T14:16:35.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,pouria/test1,test1,PouriaDataScientist,,2015-10-30T10:25:31.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,facadev/demo-1,Demo 1,Orfeo,,2015-10-25T04:58:23.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,zeroblue/benchmark,Benchmark,Michael Hartman,,2015-10-25T04:46:04.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,junfeng/test-data,sample_solution_not_use_dask,junfeng,,2015-10-23T11:56:30.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,blakepan/trytrysee-1,trytrysee,Blake Pan,,2015-10-23T10:35:06.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,soutik/dudette,dudette,Soutik Chakraborty,,2015-10-23T07:45:23.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,quantumdamage/gvhkjfgjhk,gvhkjfgjhk,QuantumDamage,,2015-10-20T07:01:08.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,qsuire/explore-data,Explore data,Quentin Suire,,2015-10-18T21:43:19.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,saurabh1331/benchmark-saurabh,benchmark_saurabh,saurabh agarwal,,2015-10-17T08:56:46.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,aramohan/hmdir-1011,HMDIR_1011,Aravind Mohan,,2015-10-11T22:41:16.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,niujie/jie-niu,Jie Niu,Jie Niu,,2015-09-20T05:24:58.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,lilisun/sample-dask,Sample Dask,Lili Sun,,2015-09-19T18:33:18.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii
+,,,,,0,tsereda/marshall-palmer-benchmark,Marshall Palmer Benchmark,taras sereda,,2015-09-17T21:58:14.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain-ii

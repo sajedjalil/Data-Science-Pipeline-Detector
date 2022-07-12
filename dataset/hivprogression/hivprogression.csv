@@ -1,0 +1,8 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,lingyuxiong/predict-hiv-progression,Predict HIV Progression,lingyuxiong,,2020-10-15T13:26:08.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hivprogression
+,,,,,0,elaynejones/hiv-progression,HIV Progression,Elayne Jones,,2021-02-23T19:37:07.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hivprogression
+,,,,,0,cristianfat/hiv-progression,HIV Progression,Daniel Fat,,2020-10-07T19:56:53.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hivprogression
+,,,,,0,mohammedsakibrahman/hiv-progression-prediction-newbie-approach,HIV Progression Prediction - Newbie Approach,Mohammed Sakib Rahman,,2022-01-28T08:22:23.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hivprogression
+,,,,,0,habibmrad1983/predict-hiv-progression-450bef,Predict HIV Progression 450bef,Habib Mrad,,2021-02-15T18:42:46.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hivprogression
+,,,,,0,habibmrad1983/predict-hiv-progression,Predict HIV Progression,Habib Mrad,,2021-02-15T17:31:55.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hivprogression
+,,,,,0,tiwaris436/predict-hiv-progression,Predict HIV Progression,Saumya Tiwari,,2019-08-21T04:59:08.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hivprogression

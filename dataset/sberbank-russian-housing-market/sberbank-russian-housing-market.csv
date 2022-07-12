@@ -1,0 +1,992 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sudalairajkumar/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,SRK,,2017-05-02T13:08:54.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],278,sberbank-russian-housing-market
+,,,,,0,konradb/adversarial-validation-and-other-scary-terms,Adversarial validation and other scary terms,Konrad Banachewicz,,2017-05-03T20:20:23.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],129,sberbank-russian-housing-market
+,,,,,0,bguberfain/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Bruno G. do Amaral,,2017-05-02T12:41:05.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,sberbank-russian-housing-market
+,,,,,0,sudalairajkumar/feature-engineering-validation-strategy,Feature Engineering & Validation Strategy,SRK,,2017-05-02T14:13:35.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],116,sberbank-russian-housing-market
+,,,,,0,jayatou/xgbregressor-with-gridsearchcv,XGBRegressor with GridSearchCV,Jay,,2017-05-18T19:41:43.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],93,sberbank-russian-housing-market
+,,,,,0,viveksrinivasan/eda-focus-on-missing-values-and-simple-xgb,EDA Focus On Missing Values And Simple XGB,Vivek Srinivasan,,2017-10-03T18:00:47.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],91,sberbank-russian-housing-market
+,,,,,0,reynaldo/naive-xgb,naive XGB,Reynaldo,,2017-04-30T16:04:39.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,sberbank-russian-housing-market
+,,,,,0,ffisegydd/sklearn-multicollinearity-class,sklearn multicollinearity class,Ffisegydd,,2017-05-02T18:08:44.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,sberbank-russian-housing-market
+,,,,,0,schoolpal/lgbm-lb-0-3093-0-3094,LGBM LB 0.3093 - 0.3094,SchoolPal,,2017-07-01T11:26:10.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,sberbank-russian-housing-market
+,,,,,0,olgabelitskaya/sberbank-russian-housing-market,Sberbank Russian Housing Market,Olga Belitskaya,,2020-04-28T20:50:54.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,sberbank-russian-housing-market
+,,,,,0,agzamovr/a-very-extensive-exploratory-analysis-in-python,A Very Extensive Exploratory Analysis in Python,Rustam Agzamov,,2017-05-19T10:06:15.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,sberbank-russian-housing-market
+,,,,,0,yitzhakr/moscow-houses-prices-analysis,Moscow Houses Prices  Analysis,YitzhakRize,,2017-05-14T17:31:40.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,sberbank-russian-housing-market
+,,,,,0,optidatascience/use-partial-pca-for-collinearity-lb-0-328-w-xgb,"Use Partial PCA for Collinearity, LB ~0.328 w/ XGB",Gccering,,2017-05-08T15:25:19.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,sberbank-russian-housing-market
+,,,,,0,aharless/latest-iteration-in-this-silly-game,latest iteration in this silly game,Andy Harless,,2017-06-04T03:17:20.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,sberbank-russian-housing-market
+,,,,,0,alijs1/lightgbm-starter-0-33342,LightGBM starter (0.33342),alijs,,2017-05-01T12:55:05.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,sberbank-russian-housing-market
+,,,,,0,pgorshenin/between-lenin-and-putin,Between Lenin and Putin,PGorshenin,,2017-05-23T07:53:13.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,sberbank-russian-housing-market
+,,,,,0,aharless/plugging-up-the-leak-in-the-jason-saeed-result,Plugging up the Leak in the Jason/Saeed Result,Andy Harless,,2017-06-17T20:33:23.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,sberbank-russian-housing-market
+,,,,,0,keremt/very-extensive-cleaning-by-sberbank-discussions,VERY EXTENSIVE CLEANING BY SBERBANK DISCUSSIONS ,Kerem Turgutlu,,2017-05-23T17:54:51.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,sberbank-russian-housing-market
+,,,,,0,aharless/still-trying-to-do-better-than-magic-numbers,still trying to do better than magic numbers,Andy Harless,,2017-06-08T15:09:38.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,sberbank-russian-housing-market
+,,,,,0,creatrol/basic-time-series-analysis-feature-selection,Basic Time Series Analysis & Feature Selection,Jacob,,2017-05-11T00:23:01.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,sberbank-russian-housing-market
+,,,,,0,shwetak91/plots-of-variables,Plots of variables,ShwetaKamble,,2017-07-16T19:49:17.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,sberbank-russian-housing-market
+,,,,,0,anokas/simple-xgboost-btb-0-32,Simple XGBoost BTB (~0.32),anokas,,2017-04-27T21:46:49.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,sberbank-russian-housing-market
+,,,,,0,nickycan/feature-engineering-public-6th-private-9th,"Feature Engineering(public:6th, private 9th)",🐳鲲(China),,2017-07-06T10:25:36.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,sberbank-russian-housing-market
+,,,,,0,rohandeysarkar/factors-affecting-house-prices-full-eda,Factors affecting house prices(full EDA ),RohanDeySarkar,,2020-07-31T23:57:04.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,sberbank-russian-housing-market
+,,,,,0,schoolpal/nn-model-lb-0-306-to-0-308,NN model LB 0.306 to 0.308,SchoolPal,,2017-07-01T11:28:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,sberbank-russian-housing-market
+,,,,,0,paulorzp/xgb-mix-models-lb-0-31,XGB Mix models - LB~0.31,Paulo Pinto,,2017-06-16T19:16:32.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,sberbank-russian-housing-market
+,,,,,0,sijovm/initial-exploration-naive-xgb-0-32583-on-lb,Initial exploration: naive XGB  0.32583 on LB,Sijo VM,,2017-05-02T11:35:57.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,sberbank-russian-housing-market
+,,,,,0,schoolpal/nn-stacking-magic-no-magic-30409-private-31063,NN stacking (magic/no magic)  30409 private 31063,SchoolPal,,2017-07-01T08:17:16.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,sberbank-russian-housing-market
+,,,,,0,dex314/magic-numbers-new-change-additional-vars,Magic Numbers-New -Change-Additional Vars,Bill S,,2017-06-27T12:30:35.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,sberbank-russian-housing-market
+,,,,,0,byrolew/xgboost-pipeline,XGBoost Pipeline,byrolew,,2017-05-28T14:57:11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,sberbank-russian-housing-market
+,,,,,0,schoolpal/fake-price-prediction-from-lb-0-2965-to-0-29518,Fake price prediction from LB 0.2965 to 0.29518,SchoolPal,,2017-07-03T12:04:26.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,sberbank-russian-housing-market
+,,,,,0,optidatascience/data-preparation-for-sberbank,Data Preparation for Sberbank,Gccering,,2017-04-29T04:36:46.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,sberbank-russian-housing-market
+,,,,,0,schoolpal/modifications-to-reynaldo-s-script,Modifications to Reynaldo's script,SchoolPal,,2017-07-01T11:27:29.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,sberbank-russian-housing-market
+,,,,,0,rikhard/eda02-macro-data-preprocessing-and-visualization,EDA02: Macro data preprocessing and visualization,Ricardo Luján,,2017-05-05T06:44:15.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,sberbank-russian-housing-market
+,,,,,0,timhenry/macroeconomic-analysis,Macroeconomic analysis,Timothee Henry,,2017-05-17T12:56:49.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,sberbank-russian-housing-market
+,,,,,0,jbucker/sklearn-multicollinearity-class-speedup,sklearn multicollinearity class speedup,JorisB,,2017-05-02T08:41:55.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,sberbank-russian-housing-market
+,,,,,0,mwaddoups/i-regression-workflow-various-models,I: Regression Workflow + Various Models,Mark Waddoups,,2017-04-28T16:58:22.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,sberbank-russian-housing-market
+,,,,,0,schoolpal/upper-bound-of-the-game,Upper bound of the game?,SchoolPal,,2017-06-30T01:06:33.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,sberbank-russian-housing-market
+,,,,,0,octthe16th/xgb-russ-house,xgb_russ_house,LuEE,,2017-05-31T02:43:35.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,sberbank-russian-housing-market
+,,,,,0,yesemsanthoshkumar/a-simple-exploratory-analysis,A simple exploratory analysis,Santhosh Kumar,,2017-06-08T18:00:12.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,sberbank-russian-housing-market
+,,,,,0,rdslater/introductory-neural-net,Introductory Neural Net,Ronin,,2017-06-18T21:12:39.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,sberbank-russian-housing-market
+,,,,,0,antklen/patterns-of-missing-values,Patterns of missing values,antklen,,2017-05-04T21:04:25.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,sberbank-russian-housing-market
+,,,,,0,demesgal/magic-numbers,Magic Numbers,Ivan,,2017-06-26T18:38:59.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,sberbank-russian-housing-market
+,,,,,0,flafuji/sberbank-russian-explained-eda-visualization,Sberbank Russian Explained/EDA/Visualization,flafuji,,2022-01-18T20:12:23.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sberbank-russian-housing-market
+,,,,,0,aharless/jiwon-small-improvements-for-magic-number-results,Jiwon Small Improvements for Magic Number Results,Andy Harless,,2017-06-25T20:25:03.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sberbank-russian-housing-market
+,,,,,0,aharless/an-interesting-fact-about-investment-properties,An interesting fact about investment properties,Andy Harless,,2017-05-11T02:15:35.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sberbank-russian-housing-market
+,,,,,0,remap1/exploring-the-volatility-of-the-economy,Exploring the volatility of the economy,Gerard Toonstra,,2017-05-07T12:30:49.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sberbank-russian-housing-market
+,,,,,0,aharless/from-bruno-do-amaral-naive-xgb-v9,From Bruno do Amaral Naive XGB v9,Andy Harless,,2017-05-28T22:45:44.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sberbank-russian-housing-market
+,,,,,0,rikhard/eda-01-missing-data-structure-and-regressors,EDA 01: missing data structure and regressors,Ricardo Luján,,2017-04-29T15:26:16.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sberbank-russian-housing-market
+,,,,,0,happycube/partial-public-private-lb-split-analysis,Partial public->private LB split analysis...,happycube,,2017-05-28T03:34:27.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sberbank-russian-housing-market
+,,,,,0,aharless/probabilistic-version-of-small-improvements,"Probabilistic Version of ""Small Improvements""",Andy Harless,,2017-06-20T20:26:12.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sberbank-russian-housing-market
+,,,,,0,aamaia/quick-view,Quick view,amaia,,2017-04-27T22:24:53.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sberbank-russian-housing-market
+,,,,,0,shlokramteke/sberbank-data-cleaning-and-modelling,Sberbank data cleaning and modelling,Shlok Ramteke,,2021-10-26T14:57:53.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,theforecastkid/40th-place-solution,40th place solution ,IvoSilva,,2017-07-03T15:52:16.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,aharless/exercising-the-exorcism,Exercising the Exorcism,Andy Harless,,2017-06-26T22:21:50.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,saeedt2977/latest-iteration-in-this-silly-game-lb-0-31039,latest iteration in this silly game(lb=0.31039),SaeedAzarshab,,2017-06-17T01:51:12.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,ezyyyy/silly-silly-data,silly silly data,Frank Gabel,,2017-06-12T16:51:55.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,chalkalan/random-forest-tutorial,Random Forest tutorial,Alan Chalk,,2017-06-06T10:08:08.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,carloshuertas/xgbfollowgtr,XgbFollowGTR,NxGTR,,2017-06-03T14:48:52.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,bklim1/gradient-boosting-regression-0-33,Gradient boosting regression [~0.33],Bartłomiej Klimowski,,2017-05-28T21:30:07.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,bayoadekanmbi/bayo-russian-home-2,Bayo Russian home 2,Bayo Adekanmbi,,2017-05-24T10:32:41.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,bguberfain/fork-of-naive-xgb-lb-0-317-c8e06e,Fork of Naive XGB [LB ~0.317] c8e06e,Bruno G. do Amaral,,2017-05-20T23:44:29.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,dan195/knn-imputation-gbregression-an-plsregression,"kNN imputation, GBRegression, an PLSRegression",Dan,,2017-04-30T19:44:06.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,reshsekar15/notebook4c67feda25,Notebook4c67feda25,LadyBird,,2017-06-10T04:37:30.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,philschmidt/interactive-visualizations,Interactive visualizations,Philipp Schmidt,,2017-05-05T20:51:50.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sberbank-russian-housing-market
+,,,,,0,sarthaktyagi01/sberbank-exploratory-data-analysis,Sberbank exploratory data analysis,Sarthak Tyagi,,2021-10-22T20:30:45.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,elifbaydogann/sberbank-visualization-and-data-cleaning,Sberbank Visualization And Data Cleaning ,Elif Baydoğan,,2021-05-10T20:03:24.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,dmkravtsov/11-sberbank,# 11 Sberbank,Dmitriy Kravtsov,,2020-08-09T13:26:59.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,dylanli/a-simple-lightgbm-kernel,A Simple LightGBM kernel,Dylan,,2017-06-16T02:04:44.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,gunjaagarwal/final-xgboost-try,final_xgboost_try,gunja_agarwal,,2017-06-03T18:50:41.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,rdslater/data-cleanup-munging,Data Cleanup/Munging,Ronin,,2017-05-13T00:57:11.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,aharless/sberbank-data-wls-with-heteroskedasticity-weights,Sberbank Data WLS with Heteroskedasticity Weights,Andy Harless,,2017-05-11T17:39:38.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,mjahrer/naive-xgb,naive XGB,Michael Jahrer,,2017-05-02T10:14:04.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,gnilly/sber-eda,Sber EDA,Aleksey Kulikov,,2017-04-27T22:15:24.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sberbank-russian-housing-market
+,,,,,0,danildorofeev/sber-housing,🏘️Sber Housing,Danissimo,,2021-12-23T15:35:06.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,no66le/course-project-housing-market-price-prediction,Course Project - Housing Market Price Prediction,no6le,,2020-10-29T05:35:30.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,satadru5/sberbank-price-estimation-and-feature-engineering,Sberbank Price Estimation and Feature Engineering,satadru5,,2017-05-31T07:31:41.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,aharless/wls-and-small-xgboost-with-macro-adjustments,WLS and Small XGBoost with Macro Adjustments,Andy Harless,,2017-06-03T15:49:22.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,aharless/simple-macro-model-for-monthly-house-prices,Simple Macro Model for Monthly House Prices,Andy Harless,,2017-05-26T18:15:41.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,nickycan/eda02-macro-data-preprocessing-and-visualization,EDA02: Macro data preprocessing and visualization,🐳鲲(China),,2017-05-26T14:12:48.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,zliu66/naive-xgb-with-data-cleaning-0-320-lb,Naive XGB  With Data Cleaning (0.320 LB),Ziye Liu,,2017-05-30T20:34:44.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,alphasis/a-very-simple-neural-network,A Very Simple Neural Network,BingQing Wei,,2017-05-14T07:59:22.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,christopherfrank/simple-xgb-wfeatures-0-325lb,Simple XGB wFeatures - 0.325LB,Christopher F Lettieri,,2017-05-11T18:39:07.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sberbank-russian-housing-market
+,,,,,0,sarthaktyagi01/sberbank-house-price-prediction-ann-model,Sberbank House Price Prediction ANN Model,Sarthak Tyagi,,2021-10-23T21:06:06.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,navneetkr123/sberbank-analysis-and-modelling,Sberbank_analysis_and_modelling,Navneet Kumar,,2021-09-14T17:20:46.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,zsarahz/lgbm-randomgridsearch,LGBM RandomGridSearch,Sarah Zouinina,,2021-04-16T10:12:12.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,venheads/catboost-67-th-place-on-private,CatBoost   67-th place on private,ValeriyBabushkin,,2017-07-20T09:43:26.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,daniel89/may-be-price-doc-full-sq-is-a-better-target,May be price_doc/full_sq is a better target?,DanilaSavenkov,,2017-06-09T15:06:36.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,binilg/very-extensive-cleaning-by-sberbank-discussions,VERY EXTENSIVE CLEANING BY SBERBANK DISCUSSIONS ,Binil,,2017-06-04T11:53:06.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,yesemsanthoshkumar/fillna,FillNA,Santhosh Kumar,,2017-06-08T03:49:19.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,paradev/gradient-boosting-regression-0-33,Gradient boosting regression [~0.33],Alpha ML,,2017-05-30T07:40:20.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,bhavesh09/removing-all-bad-values,removing all bad values,Bhavesh Ghodasara,,2017-05-30T11:47:57.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,gpoe96/simple-xgb,Simple XGB,Gavin Poe,,2017-05-30T02:37:26.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,korobkoff2/sberbank-russian-housing-super-market,Sberbank Russian Housing (Super)Market,Korobkoff2,,2017-05-18T21:46:32.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,amanmalali/data-exploration-and-analysis-python,Data Exploration and Analysis [Python],Aman_Malali,,2017-05-09T22:15:46.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,devinanzelmo/adversarial-validation-minor-bug-fix,Adversarial validation(minor bug fix),Devin Anzelmo,,2017-05-05T18:27:20.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,dsmathon/sberbank-full-gradient-boosting-regression-test,Sberbank - Full Gradient Boosting Regression Test,DanielMathon,,2017-06-24T05:06:27.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,alexxanderlarko/sb-lgb,sb_lgb,Alexander  Larko,,2017-05-02T04:31:48.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,caicell/visualize-all-features-with-target-price,Visualize All Features with Target 'Price',Sang-eon Park,,2017-05-01T15:48:31.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,rahulvks/naive-score-0-32112,Naive Score - 0.32112,RVK,,2017-04-30T06:10:11.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sberbank-russian-housing-market
+,,,,,0,zsarahz/kaggle-shorts-plotting-price-on-a-map,[Kaggle Shorts] Plotting price on a map,Sarah Zouinina,,2021-06-09T18:24:19.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,kamalkhumar/hyper-parameter-tuning-with-keras,Hyper Parameter Tuning with Keras,Kamal Khumar,,2020-12-26T07:00:20.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,olgabelitskaya/sql-cookbook2,SQL Cookbook2,Olga Belitskaya,,2020-04-01T09:29:48.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,palbha/russian-house-price-prediction,Russian House price prediction,Palbha,,2019-05-20T20:40:36.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,valadi/magic-numbers-new-change,Magic Numbers-new-change,Jayaraman,,2017-06-28T13:37:06.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,anuragupadhyaya/silly-silly-data,silly silly data,Anurag,,2017-06-08T09:13:52.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,agrawalvikas/eda-focus-on-missing-values-and-simple-xgb,EDA Focus On Missing Values And Simple XGB,Vikas Agrawal,,2017-06-07T09:33:46.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,maheshak04/xgb-with-select-macro-features-07062017,XGB with select macro features 07062017,Mahesh Kulkarni,,2017-06-14T11:34:44.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,carloshuertas/lol-tell-me-more,LoL Tell me more,NxGTR,,2017-06-04T09:53:33.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,eikedehling/xgboost-ensemble-and-features,xgboost ensemble and features,Eike Dehling,,2017-06-02T11:05:26.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,lolalola/miaowuwu,miaowuwu,LolaChen,,2017-06-01T22:03:58.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,mgierlach/gradient-in-python-2-0-313,Gradient in Python 2 - 0.313,Mateusz Gierlach,,2017-05-28T20:44:06.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,rahulvks/boosting-and-naive-bayes-nb-1,Boosting and Naive bayes - NB 1,RVK,,2017-05-23T09:43:52.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,timhenry/sdfgge,sdfgge,Timothee Henry,,2017-05-22T13:40:40.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,arnaldcat/figures-of-missing-distribution-by-time-feature,Figures of missing distribution by time/feature,Darnal,,2017-05-21T17:35:36.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,gshevchuk/sberbank-testing-notebook,Sberbank Testing Notebook,GlebShevchuk,,2017-05-22T07:03:20.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,zliu66/data-exploration,Data Exploration,Ziye Liu,,2017-05-16T22:36:05.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,shashaalam/eda-of-sberbank-russian-housing-market,EDA of  Sberbank Russian Housing Market,FakhreAlam,,2017-05-15T02:04:21.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,jguerreiro/sberbank-first-attempt,Sberbank first attempt,Jguerreiro,,2017-05-14T12:31:34.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,rezimitpo/small-improvements,Small improvements,Jiwon,,2017-05-11T11:45:55.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,bhavesh09/firstattempt,firstAttempt,Bhavesh Ghodasara,,2017-05-20T08:12:50.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,tayyabsaeed/feature-importance-handling-nans-outliers,"Feature importance, handling NaNs & outliers",Tayyab Saeed,,2017-05-08T20:23:54.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,saeedt2977/first-xgb,first xgb,SaeedAzarshab,,2017-05-21T20:37:23.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,anuragupadhyaya/naive-xgb-3f3eee,naive XGB 3f3eee,Anurag,,2017-05-06T04:30:50.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,frankherfert/workflow-template-and-detailed-column-collections,Workflow Template and Detailed Column Collections,FrankHerfert,,2017-05-04T10:11:17.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,uditsaini/sberbank-eda,Sberbank-EDA,udit,,2017-05-02T17:07:25.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,prokopyev/naive-xgb,naive XGB,Anton Prokopyev,,2017-05-02T01:00:38.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,dsmathon/house-prices-feature-importance,House Prices - Feature importance,DanielMathon,,2017-05-01T10:40:50.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,aharless/adding-my-dva-kopeky-to-reynaldo-s-naive-xgb,Adding my dva kopeky to Reynaldo's Naive XGB,Andy Harless,,2017-05-28T17:14:55.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,reynaldo/visualitation,Visualitation,Reynaldo,,2017-05-11T20:52:38.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,lexotrion/xgd-sf,XGD sf,Aleksei S Popov,,2017-04-29T16:14:10.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,vignesh2323/sample-xgboost-model-3,Sample XGBoost Model 3,vignesh mohandas,,2017-05-12T06:59:35.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,jasonquick/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Jason Quick,,2017-04-28T04:22:50.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,akilaw/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Akila Wajirasena,,2017-04-28T01:23:26.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sberbank-russian-housing-market
+,,,,,0,zzhou016/naive-xgb,naive XGB,zzhou016,,2022-04-23T15:06:59.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,zzhou016/eda-focus-on-missing-values-and-simple-xgb,EDA Focus On Missing Values And Simple XGB,zzhou016,,2022-04-23T13:02:58.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,veronikabalbysheva/housing-market,Housing Market,Veronika Balbysheva,,2022-04-02T04:00:19.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,xoring/notebook82da3529f5,notebook82da3529f5,Aleksandr Kovalchukov,,2022-01-10T01:07:38.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,flafuji/basic-sberbank-russian-housing-explained-eda-model,Basic Sberbank Russian Housing Explained_EDA/Model,flafuji,,2021-12-16T19:55:06.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,mohammedouahman/feature-engineering,Feature Engineering 💎🔨,Mohammed Ouahman,,2021-11-22T19:25:06.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bodhi11/diplom-sber,diplom-sber,Давид Рахутин,,2022-02-28T07:08:40.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,ziyun41/cz4041-data-analysis,CZ4041 Data analysis,ZiYun,,2021-04-04T11:49:11.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,nvm322/main-file,main_file,Alexandr Bystrov,,2021-03-15T13:24:34.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,dromosys/russian-housing-market,Russian Housing Market,Dromosys,,2019-03-28T20:17:46.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,sidharthkumar/0-31611-private-leader-board,[0.31611] Private Leader Board.,SIDHARTH,,2017-06-30T19:43:47.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jasonbenner/ridge-regression-cv-tutorial,Ridge Regression CV tutorial,Jason Benner,,2017-06-24T14:23:44.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,cjansen/magic-numbers-private-lb-0-31647,Magic Numbers  [Private LB 0.31647],Charles Jansen,,2017-09-20T19:00:15.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,valadi/magic-numbers-try-different,Magic Numbers-try-different,Jayaraman,,2017-06-28T14:32:13.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,web8341/sberbank-russian-housing-market-v1-dave-w,Sberbank Russian Housing Market v1 - Dave W,web8341,,2017-06-15T18:58:57.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-11-resubm,xgb_11_resubm,Timothee Henry,,2017-06-09T19:55:06.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,azuralrainbow/feature-engineering-validation-strategy-e82852,Feature Engineering & Validation Strategy e82852,Azural TONG,,2017-06-09T07:59:14.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,satadru5/sberbank-price,Sberbank Price ...,satadru5,,2017-06-07T05:42:09.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,magicalwind/still-trying-to-do-better-than-magic-numbers,still trying to do better than magic numbers,Magicalwind,,2017-06-06T20:25:59.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jtlowery/silly-silly-data,silly silly data,jtlowery,,2017-06-06T04:11:31.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jasonbenner/trying-andy-model,Trying Andy model,Jason Benner,,2017-06-05T21:13:58.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,chandrs/sberbank-trial-xgb,Sberbank trial XGB,chand,,2017-06-13T02:31:38.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,kentata/data-cleaning-visualization,data cleaning & visualization,Kenta Suzuki,,2017-06-06T02:43:48.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,chalkalan/xgboost-tutorial-var-imp-partial-dependence,XGBoost tutorial (var imp + partial dependence),Alan Chalk,,2017-06-06T07:18:42.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-23,xgb_23,Timothee Henry,,2017-06-05T16:05:02.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-5th-june-v1,xgb_5th_june_v1,Timothee Henry,,2017-06-05T15:52:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,maheshak04/sgd-with-cleaning,SGD With Cleaning,Mahesh Kulkarni,,2017-06-05T11:58:14.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,alexxanderlarko/lol-tell-me-more02,LoL Tell me more02,Alexander  Larko,,2017-06-04T13:28:41.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,hyg1985/fork-of-deal-with-the-key-feature, fork of deal with the key feature ,YuGuangHuang,,2017-06-02T05:37:40.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,aharless/attempt-to-reproduce-my-best-lb-score,Attempt to Reproduce My Best LB Score,Andy Harless,,2017-06-01T22:41:09.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,steubk/fork-of-fork-of-ocean-an,Fork of Fork of OceaN(aN),steubk,,2017-06-01T15:44:56.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,steubk/fork-of-ocean-an,Fork of OceaN(aN),steubk,,2017-06-18T19:18:48.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,dboland77/sberbank-my-first-attempt-at-xgboost,Sberbank - my first attempt at XGBoost,David Boland,,2017-06-01T07:42:57.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,valadi/xgb-russ-house-modified-params,xgb_russ_house-modified-params,Jayaraman,,2017-06-01T08:52:50.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,nrcjea001/notebook95a1a2cbf1,Notebook95a1a2cbf1,Jean-Michel Nairac,,2017-05-29T06:35:29.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,asimandia/notebook591436be0c,Notebook591436be0c,Pizzaboi,,2017-06-12T08:07:27.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jasonbenner/lets-try-xgb10,Lets Try XGB10,Jason Benner,,2017-05-26T00:25:22.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,zliu66/support-vector-regression,Support Vector Regression,Ziye Liu,,2017-05-25T22:37:32.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,subbytech/a-correlation-plot,A Correlation Plot,Subhash Ramesh,,2017-05-25T09:04:43.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,maheshak04/xgb-with-nan-and-other-cleaning-25052017,xgb with nan and other cleaning 25052017,Mahesh Kulkarni,,2017-05-25T06:15:22.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,yerne39/fork-naive-xgb,fork: naive XGB,Light&Thunder,,2017-05-27T17:35:57.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,cpattekar/notebook-sberbank,Notebook - Sberbank,Chandrakant Pattekar,,2017-06-13T09:32:22.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bayoadekanmbi/bayo-russian-home-prework-1,Bayo russian home prework 1,Bayo Adekanmbi,,2017-05-23T08:57:55.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jasonbenner/xgb-lets-try-clean-2,XGB Lets Try Clean 2,Jason Benner,,2017-05-23T00:23:17.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,vishal86/eda-for-sberbank-russian-housing-market,EDA for Sberbank Russian Housing Market,vishal,,2017-05-22T22:31:44.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,scirpus/genetic-programming-using-reynaldo-sijo-code,Genetic Programming using Reynaldo/Sijo Code,Scirpus,,2017-05-21T09:39:13.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bhavesh09/cleaning-key-data-using-apartment-id-feature,Cleaning Key Data using Apartment ID feature,Bhavesh Ghodasara,,2017-05-24T04:07:16.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jasonbenner/data-analysis-object-variables,Data Analysis Object Variables,Jason Benner,,2017-05-19T20:03:51.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-7,xgb_7,Timothee Henry,,2017-05-19T12:08:35.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,eranah/normalising,normalising,Eran Aharonovich,,2017-05-19T04:06:21.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,timhenry/xgboost-script-2,xgboost_script_2,Timothee Henry,,2017-05-19T20:04:49.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,per100/sberbank-linear-regression,Sberbank - linear regression,Per Isacson,,2017-05-27T18:38:32.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,mzr2017/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],zr,,2017-05-16T06:37:18.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,cjansen/naive-xgb,naive XGB,Charles Jansen,,2017-05-16T15:00:35.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,aharless/why-i-gave-up-on-heteroskedasticity-for-now,Why I gave up on heteroskedasticity (for now),Andy Harless,,2017-05-14T23:28:10.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,schoolpal/naive-xgb,naive XGB,SchoolPal,,2017-05-17T10:14:41.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jzima7/xgb-with-some-features,XGB with some features,JZIMA,,2017-05-20T13:24:45.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,yerne39/home-prices-analysis,Home prices analysis,Light&Thunder,,2017-05-11T16:37:43.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,hxidkd/notebook7c7bc17465,Notebook7c7bc17465,hxidkd,,2017-06-05T08:29:04.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,reshsekar15/random-forests,Random Forests ,LadyBird,,2017-06-10T04:37:04.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bennelr/moscow-houses-prices-analysis,Moscow Houses Prices  Analysis,bennelR,,2017-05-10T01:01:24.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bhavesh09/apartment-cluster-idea,Apartment Cluster Idea,Bhavesh Ghodasara,,2017-05-20T17:30:21.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,gospursgo/naive-xgb-just-to-mark,naive XGB just to mark,Jiahuan He,,2017-05-08T06:02:36.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bhavesh09/data-cleaning-job,Data Cleaning Job,Bhavesh Ghodasara,,2017-05-08T17:45:56.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,winwin1234/xgboost-including-macro-variables,Xgboost including macro variables,winwin1234,,2017-05-08T06:00:21.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,kes367/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],kes367,,2017-05-07T03:16:46.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,hundredpercent/xgb-boosting-results,XGB Boosting results,PuneetMathur,,2017-05-09T06:04:22.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,lokendradevangan/housing-price-notebook,Housing Price Notebook,LK,,2017-05-14T15:28:37.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,anuragupadhyaya/naive-xgb,naive XGB,Anurag,,2017-05-06T04:00:23.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,devinanzelmo/adversarial-validation-split-test-set,Adversarial validation(split test set),Devin Anzelmo,,2017-05-05T20:00:25.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jillchen/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],dpchen,,2017-05-05T03:01:50.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,transparency/use-partial-pca-for-collinearity-lb-0-328-w-xgb,"Use Partial PCA for Collinearity, LB ~0.328 w/ XGB",HuaishengLu,,2017-05-04T23:43:47.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,damianpanek/notebook23a8419c1f,Notebook23a8419c1f,s3nh,,2017-05-04T18:08:31.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,breakfastpirate/naive-xgb,naive XGB,BreakfastPirate,,2017-05-03T18:57:45.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,gargmanish/eda-and-regression,EDA and Regression,Manish Kumar,,2017-05-03T10:10:04.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,qinhui0104/sklearn-multicollinearity-class-speedup,sklearn multicollinearity class speedup,Tiffany Xu,,2017-05-03T00:00:24.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,hjunaid40/sberbank-data-viz-and-analysis,Sberbank Data Viz and Analysis,Hasan Junaid,,2017-06-03T05:25:14.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,hundredpercent/sklearn-multicollinearity-class,sklearn multicollinearity class,PuneetMathur,,2017-05-01T18:50:36.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,mikeee/lightgbm-simple,LightGBM simple,MikeS,,2017-05-01T11:48:22.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,arzaannavdar/house-prices-feature-importance,House Prices - Feature importance,Zaan,,2017-05-01T09:14:31.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,skhemka/xgb-v1, XGB v1,Saurabh,,2017-04-30T19:13:13.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,karampa/notebooka9509e9a3f,Notebooka9509e9a3f,PK7,,2017-05-01T08:00:20.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,ejcorrea/xgboost,XGBoost,isseu,,2017-04-30T14:18:41.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,ejcorrea/notebook11ce82f8cd,Notebook11ce82f8cd,isseu,,2017-04-30T06:00:10.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,jasonquick/naive-xgb,naive XGB,Jason Quick,,2017-04-30T03:00:42.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,ejcorrea/notebook9305ac607c,Notebook9305ac607c,isseu,,2017-04-30T00:56:15.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,ejcorrea/notebook006f327f52,Notebook006f327f52,isseu,,2017-04-30T00:55:41.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bennelr/simple-exploration-notebook-sberbank-e03c4b,Simple Exploration Notebook - Sberbank e03c4b,bennelR,,2017-04-29T18:19:38.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,bennelr/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,bennelR,,2017-04-29T17:45:37.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,alexxanderlarko/data-pyt,Data_pyt,Alexander  Larko,,2017-04-29T13:09:27.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,anokas/notebook34d7ee459b,Notebook34d7ee459b,anokas,,2017-04-29T10:45:42.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,belkakari/notebook4d6ef15314,Notebook4d6ef15314,Gleb Sterkin,,2017-04-28T22:41:39.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,belkakari/notebook3b6fcc277e,Notebook3b6fcc277e,Gleb Sterkin,,2017-04-28T22:41:17.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,cparmet/notebook1745988256,Quick first run with Sberbank data,Chad Parmet,,2017-04-28T11:58:08.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,vlarine/naive-xgb-lb-0-32276,Naive XGB [LB 0.32276],Vladimir Larin,,2017-04-28T08:30:37.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,cttsai/sberlgb-starter,SberLGB starter,Chia-Ta Tsai,,2017-04-29T06:56:22.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,canada/notebook250e3c505b,Notebook250e3c505b,_av,,2017-04-28T05:32:16.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,q2zhang/house-price-prediction,House Price Prediction,Jane Zhang,,2017-04-27T23:05:40.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,hitman47/simple-xgboost-btb-0-32,Simple XGBoost BTB (~0.32),Gleb Anferov,,2017-04-27T23:51:19.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sberbank-russian-housing-market
+,,,,,0,zzhou016/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,zzhou016,,2022-04-24T17:36:42.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dmitrypyankov/mynotes,MyNotes,Dmitry Pyankov,,2021-12-23T13:41:56.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,viratayya/notebook1bf3bdd34e,notebook1bf3bdd34e,virat,,2021-10-31T14:35:01.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,emorkrin/baselinesber,BaseLineSber,Morozov Egor,,2021-06-25T06:18:44.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,elvirasalakhova/sber-housing-prices,Sber_housing_prices,Elvira Salakhova,,2021-03-18T12:48:25.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,otyanootomoni/noob-notebook,noob-notebook,otya_otomoni,,2020-10-10T16:52:35.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mtevos/clustering-examples,clustering_examples,tevos,,2021-05-21T20:00:26.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,profcarlosdelfino/dicas-para-uso-de-arvore-de-decis-o,Dicas para uso de Arvore de Decisão,Carlos Delfino Carvalho Pinheiro,,2020-04-25T22:25:00.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,duccao/select-models-with-statistic-test,Select models with statistic test,Duc Cao,,2020-03-23T13:19:17.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,duccao/outlier-treatment,Outlier treatment,Duc Cao,,2020-03-20T14:39:20.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vitalgor/sberbank-russian-housing-market-data-exploration,sberbank-russian-housing-market-data-exploration,Vitalii Kondratiuk,,2019-10-19T15:50:14.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,binrey/xgboost-feature-engineering-0-329,XGBoost + feature engineering (0.329),Andrey Rybin,,2018-08-20T20:32:35.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jihyeseo/russia-house-eda,russia house eda,Jihye Sofia Seo,,2018-05-08T15:58:29.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sarima36/fork-of-fork-of-randomforestregressor-fe32c8,Fork of Fork of RandomForestRegressor fe32c8,sarima36,,2018-04-29T16:52:03.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tamargab/level1-baseline-with-xgb,Baseline - XGB,Tamar Solomon,,2018-05-01T12:42:18.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mayanksrivastava/detailed-eda-on-sberbank-dataset,Detailed EDA on Sberbank Dataset,Mayank Srivastava,,2017-09-11T16:45:17.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dataer2016/a-xgboost-model-to-predict-realty-prices,A XGboost Model  to Predict Realty Prices,DATA902,,2017-09-04T12:19:53.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,daiearth22/data-cleaning-visualization,data cleaning & visualization,Daisuke Ishii,,2017-08-10T06:31:24.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,babatee/xgboost-on-russia-housing-datasets,XGboost on Russia Housing Datasets,BabatundeAdekunle,,2017-07-05T15:30:31.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mragungsetiaji/ml-project-russian-house-prediction,ml-project russian house prediction,Agung Setiaji,,2017-07-03T12:44:02.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tingtingdan/fork-of-feature-engineering-validation-strategy,Fork of Feature Engineering & Validation Strategy,tingtingliu,,2017-07-01T03:44:37.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/magic-numbers-new-change-addvars-jay,Magic Numbers-New -Change-addvars-jay,Jayaraman,,2017-06-29T03:15:37.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kenwilly/xgb-iterative-submissions-v2,XGB Iterative Submissions v2,Ken Williams,,2017-06-28T21:02:05.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/magic-numbers-add-vars-change,Magic Numbers-add-vars-change,Jayaraman,,2017-06-29T15:23:56.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,danofer/predict-house-sale-price,Predict house sale price,Dan Ofer,,2017-06-27T13:42:57.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,danofer/exercising-the-exorcism,Exercising the Exorcism,Dan Ofer,,2017-06-27T14:45:01.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/exercising-the-exorcism-change-seed,Exercising the Exorcism-change-seed,Jayaraman,,2017-06-27T04:33:51.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,danofer/magic-numbers-new-change-additional-vars,Magic Numbers-New -Change-Additional Vars,Dan Ofer,,2017-06-26T18:55:34.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/exorcising-the-evil-magic-number,Exorcising the evil magic number,Andy Harless,,2017-06-26T01:31:03.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,danofer/jiwon-small-improvements-for-magic-number-results,Jiwon Small Improvements for Magic Number Results,Dan Ofer,,2017-06-25T18:12:32.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/jiwon-magic-tune,Jiwon-Magic-Tune,Jayaraman,,2017-06-25T16:31:16.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/jiwon-small-improvements-new-change,Jiwon Small Improvements -new-change,Jayaraman,,2017-06-25T08:05:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/jiwon-small-improvements-tune,Jiwon Small Improvements -tune,Jayaraman,,2017-06-24T07:52:36.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,krisvija/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,Vijay Krishna,,2017-06-23T19:33:52.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/sber22062017,Sber22062017,Mahesh Kulkarni,,2017-06-22T08:39:17.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,teamtipcs/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank ,TeamTIPCS,,2017-06-21T07:15:50.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/latest-iteration-in-this-silly-game-mod2,latest iteration in this silly game-mod2,Jayaraman,,2017-06-21T07:07:36.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/probabilistic-version-of-small-improvements,"Probabilistic Version of ""Small Improvements""",Jayaraman,,2017-06-21T03:02:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/magic-numbers-modi,Magic Numbers-modi,Jayaraman,,2017-06-21T02:44:23.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/jiwon-small-improvements-for-magic-number-res-mod,Jiwon Small Improvements for Magic Number Res-mod,Jayaraman,,2017-06-23T07:22:55.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tahayoussef1/tt-notebook,tt notebook ,Taha Youssef,,2017-06-20T17:43:15.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,czfshine/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],zefan chen,,2017-06-19T09:05:40.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bluemachine/notebooka40b1425dd,Notebooka40b1425dd,AbhayChaudhary,,2017-06-18T19:23:32.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,amitkumarjaiswal/plugging-up-the-leak-in-the-jason-saeed-result,Plugging up the Leak in the Jason/Saeed Result,Amit Kumar Jaiswal,,2017-06-18T05:56:15.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/latest-iteration-in-this-silly-game-vkj,latest iteration in this silly game-vkj,Jayaraman,,2017-06-17T16:42:49.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/latest-iteration-in-this-silly-game,latest iteration in this silly game,Jayaraman,,2017-06-19T01:31:15.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,machazthegamer/mean-decrease-accuracy,mean decrease accuracy,PRIMAL DATA,,2017-06-23T09:52:09.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,waxbabi/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],wbabi,,2017-06-10T10:35:16.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rahimi/still-trying-to-do-better-than-magic-number-a9d226,still trying to do better than magic number a9d226,mashdi,,2017-06-09T16:14:49.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,binilg/new-test,new test,Binil,,2017-06-09T13:27:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,machazthegamer/another-try,Another try,PRIMAL DATA,,2017-06-14T09:03:33.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,azuralrainbow/bluebird,bluebird,Azural TONG,,2017-06-09T09:25:01.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,codebb/kaggle-for-sberbank-russian-housing-market,Kaggle for Sberbank Russian Housing Market ,白皮书,,2017-06-09T08:09:46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,siriuscorp/this-is-getting-out-of-hand,This is getting out of hand,Juan Corporan,,2017-06-09T09:43:08.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,b03b02014/still-trying-to-do-better-than-magic-numbers,still trying to do better than magic numbers,hcchang,,2017-06-21T16:59:00.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nitink12/nitin-testv1,Nitin_testv1,Nitin,,2017-06-09T23:24:01.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookf4a56364d0,Notebookf4a56364d0,Wenhua Yu,,2017-06-08T17:13:34.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,datatool/naive-xgb-e25bb3,naive XGB e25bb3,RaulBenitezRepolles,,2017-06-08T17:20:43.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sud333/career-break-problem-i,Career break problem - I,Sudeep,,2017-06-08T17:49:03.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,arvidzt/fork-of-still-trying-to-do-better-than-magic-numbe,Fork of still trying to do better than magic numbe,arvidzt,,2019-01-10T07:52:45.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,arvidzt/still-trying-to-do-better-than-magic-numbers,still trying to do better than magic numbers,arvidzt,,2017-06-08T14:00:36.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,makboc/notebook6509cb2ddc,Notebook6509cb2ddc,makboc,,2017-06-11T19:19:50.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,makboc/notebook55077f0ab8,Notebook55077f0ab8,makboc,,2017-06-08T13:29:05.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,harryzhenchen/have-a-try,have a try,HarryQuake,,2017-06-08T11:11:04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/08062017-try2, 08062017 try2,Mahesh Kulkarni,,2017-06-12T10:22:49.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tonychanyt/cs404,CS404,TonyChan,,2017-06-08T01:23:07.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rztv001/silly-silly-data,silly silly data,rztv,,2017-06-07T21:15:44.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,datatool/naive-xgb-1b90dd,naive XGB 1b90dd,RaulBenitezRepolles,,2017-06-07T21:07:57.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharongal79/silly-silly-data-ag,silly silly data - ag,Aharon Gal,,2017-06-07T14:34:10.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gbonesso/naive-xgb,Naive XGB,Gustavo Bonesso,,2017-06-07T14:25:31.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,alonka/notebookad20c0db25,Notebookad20c0db25,Kartin,,2017-06-07T13:46:55.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bitsurfer/sberbank-competition,SberBank Competition,Luis Severien Marcilla,,2017-06-07T11:54:54.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bitsurfer/notebookaddad7f879,Notebookaddad7f879,Luis Severien Marcilla,,2017-06-07T11:40:37.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bytestorm/some-features-and-xgb,Some Features and XGB,bytestorm,,2017-06-07T16:00:37.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,alonka/notebook8833a19be0,Notebook8833a19be0,Kartin,,2017-06-07T11:06:54.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,agrawalvikas/sberbank-price,Sberbank Price ...,Vikas Agrawal,,2017-06-07T09:33:41.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mzacks/test12345,test12345,Romeo Mircea Zachia,,2017-06-07T05:50:09.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,taoist/introductory-neural-net,Introductory Neural Net,Ђорђе Марјановић,,2017-06-06T22:15:45.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sbairishal/notebook53a6ba85f7,Notebook53a6ba85f7,Geeko,,2017-06-06T18:17:26.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/random-forest-tutorial-clone,Random Forest Tutorial clone,Jason Benner,,2017-06-06T17:26:46.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bliu03/notebook918255d9c8,Notebook918255d9c8,Bob Hoskins,,2017-06-06T15:27:06.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jaherg/somethgn,somethgn,Jack,,2017-06-06T11:22:03.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharongal79/try1-ag,try1_ag,Aharon Gal,,2017-06-06T11:27:55.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jaherg/notebookdc1393b993,Notebookdc1393b993,Jack,,2017-06-06T11:17:02.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jaherg/junk1,junk1,Jack,,2017-06-06T11:08:23.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,theyellowdart/random-forest-tutorial,Random Forest tutorial,Louie,,2017-06-06T10:52:45.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mzr2017/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,zr,,2017-06-06T10:21:31.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,peatle/random-forest-tutorial,Random Forest tutorial,Peatle,,2017-06-06T10:09:09.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jcooke/random-forest-tutorial,Random Forest tutorial,JCooke,,2017-06-06T10:09:05.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jmccabe/random-forest-tutorial,Random Forest tutorial,jmcc,,2017-06-06T10:22:08.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,e1ggak/random-forest-tutorial,Random Forest tutorial,e1ggak,,2017-06-06T10:08:31.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sunilk1/random-forest-tutorial,Random Forest tutorial,SunilKamath,,2017-06-06T10:08:52.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,anniehyhung/random-forest-tutorial,Random Forest tutorial,Anne Hung,,2017-06-06T10:08:10.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chalkalan/sberbank-basic-eda-tutorial,Sberbank - basic EDA tutorial,Alan Chalk,,2017-06-06T09:52:37.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,machazthegamer/randmize-and-polynomial,randmize and polynomial,PRIMAL DATA,,2017-06-08T07:02:00.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/macro-train-comb-with-cleaning,Macro Train Comb with cleaning,Mahesh Kulkarni,,2017-06-07T05:32:48.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ninamalina/fork-of-naive-xgb-lb-0-317-c8e06e,Fork of Naive XGB [LB ~0.317] c8e06e,Nina Malina,,2017-06-06T09:06:44.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharongal79/silly-silly-data,silly silly data,Aharon Gal,,2017-06-06T08:29:35.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sorenravn/mixer,mixer, sravn,,2017-06-06T07:56:03.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,stanislavushakov/silly-silly-data,silly silly data,Stanislav Ushakov,,2017-06-06T07:34:40.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,akilaw/silly-silly-data,silly silly data,Akila Wajirasena,,2017-06-06T07:33:25.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sbairishal/1st-attempt,1st attempt,Geeko,,2017-06-06T07:20:13.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kentata/simple-ridge-regression,Simple ridge regression,Kenta Suzuki,,2017-06-06T05:35:38.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zalecisco/still-trying-to-do-better-than-magic,still trying to do better than magic,Zale Cisco,,2017-06-07T12:03:38.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tareqalkhatib/notebookcb28ed2262,Notebookcb28ed2262,Tareq,,2017-06-06T03:57:13.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mgr515/silly-silly-data,silly silly data,mg515,,2017-06-10T13:30:56.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,davidfumo/notebookf71a4f512c,Notebookf71a4f512c,Ragnar,,2017-06-05T22:51:06.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,davidfumo/feature-engineering-validation-strategy,Feature Engineering & Validation Strategy,Ragnar,,2017-06-05T21:28:08.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,davidfumo/notebookcc80b304af,Notebookcc80b304af,Ragnar,,2017-06-05T21:21:51.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,davidfumo/simple-lightgm-starter,Simple LightGM starter,Ragnar,,2017-06-05T23:10:07.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebook84c06d9962,Notebook84c06d9962,Wenhua Yu,,2017-06-05T22:42:26.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,davidfumo/notebook6e3bdb7aaf,Notebook6e3bdb7aaf,Ragnar,,2017-06-05T21:07:19.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lukasms/notebook9029004cb4,Notebook9029004cb4,LukasScholtes,,2017-06-05T18:35:45.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kaichenphys/notebookc53e1cf685,Notebookc53e1cf685,QPZM,,2017-06-05T17:32:47.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,srwalker101/notebook582bb94ae6,Notebook582bb94ae6,Simon Walker,,2017-06-05T17:26:22.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kentata/fork-of-data-cleaning,Fork of data cleaning,Kenta Suzuki,,2017-06-05T17:04:15.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ronzohar/latest-iteration-in-this-silly-game,latest iteration in this silly game,John Long,,2017-06-05T19:43:09.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharongal79/latest-iteration-in-this-silly-game,latest iteration in this silly game,Aharon Gal,,2017-06-05T13:30:09.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dboland77/sberbank-basic-eda-tutorial,Sberbank - basic EDA tutorial,David Boland,,2017-06-06T09:36:37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/bayes-with-cleaning,Bayes With Cleaning,Mahesh Kulkarni,,2017-06-05T11:40:15.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/lasso-with-cleaning,Lasso With Cleaning,Mahesh Kulkarni,,2017-06-05T10:53:06.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/ridge-with-cleaning,Ridge With Cleaning,Mahesh Kulkarni,,2017-06-05T10:27:23.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/linear-regression-with-cleaning,Linear Regression With Cleaning,Mahesh Kulkarni,,2017-06-05T09:28:41.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/simple-xgb-with-cleaning,Simple XGB With Cleaning,Mahesh Kulkarni,,2017-06-05T09:17:29.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-7-wsef,xgb_7_wsef,Timothee Henry,,2017-06-05T09:02:47.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,prashaku/notebook8a5cf0dd28,Notebook8a5cf0dd28,prashant,,2017-06-05T08:11:06.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vigneshinfy/latest-iteration-in-this-silly-game,latest iteration in this silly game,vignesh vijayarajan,,2017-06-05T06:37:14.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,inventer/cv-with-xgb,CV with xgb,Turja Banerjee,,2017-06-05T02:43:04.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lukaszs/notebookd58b142806,Notebookd58b142806,Lukasz,,2017-06-06T18:30:14.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,weizhou2273/silly-games,silly games,WilliamZhou,,2017-06-05T02:25:22.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lukaszs/another-one,Notebookd1625c33d0,Lukasz,,2017-06-05T02:10:33.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/silly-games-modified,silly games-modified,Jayaraman,,2017-06-05T03:18:03.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/latest-iteration-in-this-silly-game-1,latest iteration in this silly game 1,Jason Benner,,2017-06-04T21:10:23.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,benkite/complete-prediction-with-random-forest-reg,Complete prediction with random forest reg,Ben Kite,,2017-06-04T17:55:01.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/trying-to-do-better-than-magic-numbers,trying to do better than magic numbers,Andy Harless,,2017-06-05T04:37:33.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,den3b81/latest-iteration-in-this-silly-game,latest iteration in this silly game,den3b,,2017-06-04T09:02:35.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chalkalan/sberbank-basic-eda,Sberbank - basic EDA,Alan Chalk,,2017-06-05T11:01:50.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,fzhurd/20170603test,20170603test,fzhurd,,2017-06-04T04:59:30.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/latest-iteration-in-this-silly-game-new-params,latest iteration in this silly game-new-params,Jayaraman,,2017-06-04T11:52:43.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dickysudiro/still-learning-xgb,Still Learning XGB,Dicky Satrio Sudiro,,2017-06-06T17:19:49.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kirillal/silly-games,silly games,KGA,,2017-06-06T00:17:30.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebook5e12369c29,Notebook5e12369c29,Wenhua Yu,,2017-06-03T17:10:18.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shafik/notebook248d836c5e,Notebook248d836c5e,Amr Shafik,,2017-06-03T16:59:06.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/xgb-follow,xgb_follow,Andy Harless,,2017-06-03T16:32:26.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/ada-and-xgb,Ada and XGB,Jason Benner,,2017-06-03T16:07:54.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,adslwang4602/xbgboost,XBGBOOST,HAHAHO,,2017-06-03T14:53:00.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kweonwooj/xgb-follow2,xgb_follow2,kweonwooj,,2017-06-03T12:54:33.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ug2409/xgb-follow,xgb_follow,Utkarsh,,2017-06-03T11:21:35.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,llykaggle/notebook4fc2a4ef44,Notebook4fc2a4ef44,LiLingyun,,2017-06-09T08:09:52.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,weihao666/xgb-follow,xgb_follow,伟浩666,,2017-06-03T11:48:47.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,valadi/xgb-follow-modified,xgb_follow-modified,Jayaraman,,2017-06-03T13:56:42.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebooka6e84883b1,Notebooka6e84883b1,Wenhua Yu,,2017-06-03T03:49:00.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kirillal/xgb-follow1,xgb_follow1,KGA,,2017-06-03T02:53:36.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yangbitao/xgb-follow1,xgb_follow1,yangbitao,,2017-06-03T01:39:48.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nikitabu/xgb-follow,xgb_follow,Nikita Butakov,,2017-06-02T22:09:21.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookafbe6d0f63,Notebookafbe6d0f63,Wenhua Yu,,2017-06-02T22:14:42.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebook24461dec7f,Notebook24461dec7f,Wenhua Yu,,2017-06-02T21:18:07.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,acehanks/sberbank-russian-housing-market,Sberbank Russian Housing Market,Dannylwe,,2017-06-22T16:00:36.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,acehanks/notebook089e13eea6,Notebook089e13eea6,Dannylwe,,2017-06-24T04:20:58.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,prashaku/notebookccfd978403,Notebookccfd978403,prashant,,2017-06-02T12:17:23.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gregsmacros/the-old-college-try,the old college try,JonnyHawkins,,2017-06-02T11:24:31.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pkucoin/notebookac1c7b63df,Notebookac1c7b63df,Coin,,2017-06-02T09:31:21.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pkucoin/test1,test1,Coin,,2017-06-02T08:03:49.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,edoven/xgb-follow,xgb_follow,Edoardo Venturini,,2017-06-02T06:21:26.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lewishuang/sbbbbb,sbbbbb,Bill,,2017-06-02T04:29:50.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lewishuang/myfirsts,myfirsts,Bill,,2017-06-02T04:24:14.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lewishuang/myfirst,myfirst,Bill,,2017-06-02T03:36:35.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hyg1985/deal-with-the-key-feature,deal with the key feature ,YuGuangHuang,,2017-06-02T03:24:31.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hyg1985/my-first-kernel,my first kernel ,YuGuangHuang,,2017-06-02T03:33:20.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hyg1985/notebook1900d6b885,Notebook1900d6b885,YuGuangHuang,,2017-06-02T03:08:39.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaowuwu,miaowuwu,Wenhua Yu,,2017-06-05T20:29:09.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lujing/attempt-to-reproduce-my-best-lb-score,Attempt to Reproduce My Best LB Score,Jing Lu,,2017-06-02T00:27:54.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookd98cf108a4,Notebookd98cf108a4,Wenhua Yu,,2017-06-02T00:06:06.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,painkiller/final-xgboost-try,final_xgboost_try,Dmitry Malugin,,2017-06-01T20:25:53.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dboland77/sberbank-random-forest,Sberbank - Random Forest,David Boland,,2017-06-02T11:10:51.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,adarsh1kumar/notebookbf514405d6,Notebookbf514405d6,adarsh1kumar,,2017-06-01T18:31:14.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/henhen,henhen,Wenhua Yu,,2017-06-01T18:25:23.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bguberfain/xgb-russ-house-modified-params,xgb_russ_house-modified-params,Bruno G. do Amaral,,2017-06-01T15:50:34.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaoster,miaoster,Wenhua Yu,,2017-06-01T16:44:29.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,acehanks/notebookd048ca26c8,Notebookd048ca26c8,Dannylwe,,2017-06-23T04:00:01.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sidharthkumar/sberlocked-by-xgb,Sberlocked by XGB,SIDHARTH,,2017-06-05T10:05:27.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vv0x0x/sberbank,Sberbank,0x0x,,2017-06-24T21:02:30.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dboland77/sberbank-basic-eda,Sberbank - basic EDA,David Boland,,2017-06-02T07:54:50.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mtfall/notebook0961cf561a,Notebook0961cf561a,Takuya Akiyama,,2017-06-01T06:38:52.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,alexhecn/randomforest,Randomforest,AlexHe,,2017-06-17T06:44:23.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,neelneelpurk/sberbank-exploration,Sberbank Exploration,Soumyadeep Purkait,,2017-06-04T18:06:04.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebooka0cd478d66,Notebooka0cd478d66,Wenhua Yu,,2017-06-01T03:50:02.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,saeedt2977/xgb-modifi,xgb-modifi,SaeedAzarshab,,2017-06-01T01:46:38.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gpoe96/xgb-russ-house-modified-params,xgb_russ_house-modified-params,Gavin Poe,,2017-06-03T04:32:04.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebooka5da2eb0cf,Notebooka5da2eb0cf,Wenhua Yu,,2017-06-01T01:00:36.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebook6f7310bcf4,Notebook6f7310bcf4,Wenhua Yu,,2017-05-31T21:37:17.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookd71cc9e830,Notebookd71cc9e830,Wenhua Yu,,2017-05-31T22:11:15.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mgr515/xgb-russ-house,xgb_russ_house,mg515,,2017-06-03T11:29:24.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,happycube/xgb-russ-house-modified-params,xgb_russ_house-modified-params,happycube,,2017-05-31T19:28:06.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lolalola/miaoster,miaoster,LolaChen,,2017-05-31T18:27:04.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lolalola/miaowu,miaowu,LolaChen,,2017-05-31T18:06:59.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaowu,miaowu,Wenhua Yu,,2017-05-31T17:54:41.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaomiao,miaomiao,Wenhua Yu,,2017-05-31T17:47:03.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaoao,miaoao,Wenhua Yu,,2017-05-31T17:34:31.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaomiaomaioamaiaaa,miaomiaomaioamaiaaa,Wenhua Yu,,2017-05-31T17:24:05.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebook5351dbb59c,Notebook5351dbb59c,Wenhua Yu,,2017-05-31T17:12:23.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/miaomaioamiao,miaomaioamiao,Wenhua Yu,,2017-05-31T17:02:53.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/trylala,trylala,Wenhua Yu,,2017-05-31T16:54:54.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kapilnandwana/xgb-russ-house-modified-params,xgb_russ_house-modified-params,Kapil Nandwana,,2017-05-31T12:45:26.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ranlocar/xgb-russ-house-modified-params,xgb_russ_house-modified-params,Ran Locar,,2017-05-31T12:00:01.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vanyaslobodchikov/fork-of-notebookc0c235bb86,Fork of Notebookc0c235bb86,Vanya Slobodchikov,,2017-06-19T07:03:56.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shalva/trying-a-different-script,Trying a different script,Shalva Kashmadze,,2017-05-31T05:50:10.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,arunlakhotia/notebook243b3824c0,Notebook243b3824c0,Arun Lakhotia,,2017-05-31T05:19:35.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookd162eac6b4,Notebookd162eac6b4,Wenhua Yu,,2017-05-30T23:56:58.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebook4fb185e26e,Notebook4fb185e26e,Wenhua Yu,,2017-05-31T00:15:07.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pomber/naive-xgb-with-build-age,naive XGB with build_age,Rodrigo Pombo,,2017-05-30T19:30:04.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookcd8aaddad3,Notebookcd8aaddad3,Wenhua Yu,,2017-05-30T22:51:11.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,plarmuseau/j-curve-macro,J Curve Macro,Paul Larmuseau,,2017-05-30T15:23:21.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,serart/sberbank-data-analisys,Sberbank data analisys,Artyukhin Sergey,,2017-05-30T13:03:24.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/300520171659,300520171659,Mahesh Kulkarni,,2017-05-30T15:36:05.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,taozhanghhh/xgb-follow,xgb_follow,TaoZhang,,2017-06-03T16:33:46.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,datacanary/naive-xgb-with-data-cleaning-0-320-lb-a539d6,Naive XGB  With Data Cleaning (0.320 LB) a539d6,DataCanary,,2017-05-30T08:43:28.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/30052017-linear-logistic,30052017 Linear Logistic,Mahesh Kulkarni,,2017-05-30T10:23:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,peterthiem/gradient-in-python-2-0-313-copy,Gradient in Python 2 - 0.313 (copy),Peter T,,2017-05-29T23:21:25.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/xgb-with-grouping,XGB with grouping,Mahesh Kulkarni,,2017-05-29T11:26:31.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/bayo-russian-home-changes-29052017,Bayo Russian home changes 29052017,Mahesh Kulkarni,,2017-05-29T10:26:51.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/notebook102c0f01d2,Notebook102c0f01d2,Mahesh Kulkarni,,2017-05-29T09:08:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yesemsanthoshkumar/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Santhosh Kumar,,2017-05-29T06:08:39.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mdave25/naive-xgb-lb-0-317-test,Naive XGB [LB ~0.317] Test,DaveMartinez,,2017-05-29T08:46:27.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,schoolpal/gradient-in-python-2-0-313,Gradient in Python 2 - 0.313,SchoolPal,,2017-05-29T05:34:00.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zalecisco/lightgbm-starter-0-33342,LightGBM starter (0.33342),Zale Cisco,,2017-05-29T00:37:28.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/gunja-agarwal-xgb-lose-bad-points-tunelength-3,"gunja agarwal xgb: lose bad points, tuneLength=3",Andy Harless,,2017-06-03T17:03:39.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zalecisco/from-bruno-do-amaral-naive-xgb-v9,From Bruno do Amaral Naive XGB v9,Zale Cisco,,2017-05-28T23:14:15.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,krutko/cleaning-and-boosting,cleaning and boosting,krutko,,2017-05-28T21:08:59.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yuyimiao/notebookdea0eb55e1,Notebookdea0eb55e1,Wenhua Yu,,2017-05-30T16:51:16.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mgierlach/gradient-boosting-regression-0-33,Gradient boosting regression [~0.33],Mateusz Gierlach,,2017-05-29T05:33:11.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,adamski/xgboosted-script,XGBoosted script,Kamil,,2017-05-28T19:14:48.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,magickris93/data-exploration-and-simple-xgb,Data exploration and simple XGB,magickris93,,2017-05-28T19:28:57.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dzjkb1/another-simple-xgboost-0-32,Another simple XGBoost ~0.32,Dzjkb,,2017-05-28T17:05:52.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,benoitdescamps/notebook1590a74749,Notebook1590a74749,bendesc,,2017-05-28T16:11:27.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kkoras/russian-housing-market,Russian Housing Market,Krzysztof Koras,,2017-05-28T15:56:20.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,neelneelpurk/notebook7d3dae98b7,Notebook7d3dae98b7,Soumyadeep Purkait,,2017-05-28T14:43:45.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/xgb-featuretrials,xgb FeatureTrials,Bhavesh Ghodasara,,2017-06-06T15:44:49.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,joannap/predicted-prices,Predicted prices,Joanna P,,2017-06-12T17:36:17.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,joannap/notebookbd843a6a06,Notebookbd843a6a06,Joanna P,,2017-05-28T09:23:54.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,joannap/notebook7145599542,Notebook7145599542,Joanna P,,2017-05-28T09:17:31.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/notebook88a90066b5,Notebook88a90066b5,Bhavesh Ghodasara,,2017-05-28T11:01:31.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nicolashhh/naive-xgb-lb-0-317-d1b560,Naive XGB [LB ~0.317] d1b560,Nico,,2017-05-28T08:34:04.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zalecisco/naive-xgb,Naive XGB,Zale Cisco,,2017-05-28T23:32:16.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,fzhurd/predict-sberbank-201705272100v1,predict_sberbank_201705272100v1,fzhurd,,2017-05-28T04:41:29.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,powerstat2013/fork-of-quick-try-of-gmb,Fork of quick try of GMB,PowerupStat,,2017-05-30T06:45:20.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,senyaohan/use-partial-pca-for-collinearity-lb-0-328-w-xgb,"Use Partial PCA for Collinearity, LB ~0.328 w/ XGB",Senyao Han,,2017-05-27T19:10:24.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mbiesek/notebook9f4d307606,Notebook9f4d307606,MaciejBiesek,,2017-05-27T17:16:33.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zalecisco/wls-to-create-features-for-xgboost,WLS to Create Features for XGBoost,Zale Cisco,,2017-05-27T15:42:50.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jumpywizard/naive-xgb-57c36a,naive XGB 57c36a,Zeyu-Wang,,2017-05-27T15:42:36.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vipindas/sberbank-xgb-starter,Sberbank_xgb_starter,VipinDas,,2017-05-28T13:53:31.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,danielet/simple-xgboost-model-0-32,Simple XGBoost model ~0.32,Nathaniel,,2017-05-28T15:26:27.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,adamski/notebook2b2e8349cb,Notebook2b2e8349cb,Kamil,,2017-05-27T10:51:27.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yangbitao/from-bruno-do-amaral-naive-xgb-v9,From Bruno do Amaral Naive XGB v9,yangbitao,,2017-05-27T09:01:11.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,trekkerthemaker/notebooked61b467dc,Notebooked61b467dc,VikasSangwan,,2017-05-27T08:50:15.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mateuszjanczura/housing-prices,Housing Prices,Mateusz Janczura,,2017-05-31T17:19:52.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zalecisco/wls-and-small-xgboost-with-macro-adjustments,WLS and Small XGBoost with Macro Adjustments,Zale Cisco,,2017-05-27T06:37:26.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shirazuml/notebook41b717f155,Notebook41b717f155,shirazuml,,2017-05-26T16:35:55.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,azuralrainbow/summer,Summer,Azural TONG,,2017-06-09T09:33:46.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ankitmalik/data-exploration,Data Exploration,Ankit Malik,,2017-05-27T07:16:13.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hvgdfx/notebook7d8285616a,Notebook7d8285616a,hvgdfx,,2017-05-26T04:10:54.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mhoffman/xgb-with-relative-features,XGB with relative features,Michael Hoffman,,2017-05-27T19:37:04.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rksriram312/naive-xgb-apal,naive XGB apal,SriramanR.Krishnamurthy,,2017-05-26T03:10:32.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,samdeeplearning/naive-subsample-5-10-city,Naive [Subsample = .5]; 10 + City,samdeeplearning,,2017-08-06T19:24:18.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,samdeeplearning/naive-subsample-0-25-xgb,Naive [Subsample = 0.25] Xgb,samdeeplearning,,2017-07-27T12:14:45.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,samdeeplearning/naive-subsample-1-0-xgb,Naive [Subsample = 1.0] Xgb,samdeeplearning,,2017-07-27T11:13:16.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gabegal/russian-housing-market,Russian Housing Market,GabrielGal,,2017-05-26T20:57:14.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ericlikedata/notebook5321be31cb,Notebook5321be31cb,Eric Chan,,2017-05-25T17:13:35.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kenwilly/explore-cleanse,Explore & Cleanse,Ken Williams,,2017-06-28T12:52:44.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bklim1/gradien-boosting-with-adversial-validation,Gradien boosting with adversial validation,Bartłomiej Klimowski,,2017-05-25T16:30:59.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bklim1/notebook832b076e83,Notebook832b076e83,Bartłomiej Klimowski,,2017-05-25T15:53:04.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bklim1/notebook680cb98fe0,Notebook680cb98fe0,Bartłomiej Klimowski,,2017-05-25T15:52:25.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kqdmqx/notebook903295427c,Notebook903295427c,GaoYL,,2017-05-25T15:50:52.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,smallhuihui/naive-xgb-56aa61,naive XGB 56aa61,Coco_Sun,,2017-05-25T14:25:54.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,winal1/notebooksb12,NotebookSb12,winal1,,2017-06-15T20:41:45.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/notebook9fbca1a772,Notebook9fbca1a772,Mahesh Kulkarni,,2017-05-25T07:01:20.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kqdmqx/20170525-test-kaggle-kernel,20170525-test-kaggle-kernel,GaoYL,,2017-05-25T03:52:15.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,samdeeplearning/naive-xgb,naive XGB,samdeeplearning,,2017-05-25T04:43:27.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,takingblue/brief-eda-for-train-data,Brief EDA for train data,Little Blue Dragon,,2017-05-29T06:02:22.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chudi19/notebook1522ad3df1,Notebook1522ad3df1,Dmitry C,,2017-05-27T01:51:43.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,saeedt2977/xgb-two,xgb-two,SaeedAzarshab,,2017-06-01T02:07:13.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/lets-try-xbg-3,Lets try XBG 3,Jason Benner,,2017-05-24T20:33:20.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,skbergam/test-submission,Test Submission,Sean Bergam,,2017-05-25T16:58:03.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/notebook6e1baebabb,Notebook6e1baebabb,Bhavesh Ghodasara,,2017-05-24T16:09:15.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,er9213/simple-xgboost-btb-0-32,Simple XGBoost BTB (~0.32),er9213,,2017-05-24T15:51:48.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bklim1/notebook25c6e086c8,Notebook25c6e086c8,Bartłomiej Klimowski,,2017-05-24T14:54:56.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zeyang/test-bm1,test_bm1,Ze Yang,,2017-05-24T14:40:49.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,fsomda/notebook5774537024,Notebook5774537024,Flavien SOMDA,,2017-05-31T07:27:33.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bklim1/notebook203e71298d,Notebook203e71298d,Bartłomiej Klimowski,,2017-05-24T11:56:04.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,iceactor/notebook5f239b8e55,Notebook5f239b8e55,iceactor,,2017-05-24T10:08:41.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,iceactor/notebook7b53dfe213,Notebook7b53dfe213,iceactor,,2017-05-24T10:07:33.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/xgb-macro-data-included,XGB Macro data included,Mahesh Kulkarni,,2017-05-24T10:18:05.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/notebook22f1868362,Notebook22f1868362,Mahesh Kulkarni,,2017-05-24T10:00:01.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,swet11/notebook61bfae51ac,Notebook61bfae51ac,kingmaster,,2017-05-24T10:42:58.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ktg5566/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],第十四號廢物,,2017-05-24T09:32:12.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ng1991/sberbank-some-models,Sberbank - some models,NataliaG,,2017-05-24T12:35:03.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nanu146/notebook5339c6d98c,Notebook5339c6d98c,Kopparthi Bharadwaj,,2017-05-29T10:17:22.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,inventer/firstxgb,FirstXGB,Turja Banerjee,,2017-06-04T03:30:22.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,samdeeplearning/fork-of-naive-xgb-lb-0-317,Fork of Naive XGB [LB ~0.317],samdeeplearning,,2017-05-24T00:37:02.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,samdeeplearning/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],samdeeplearning,,2017-05-25T17:43:28.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,catatafish/testing-kernel,testing-kernel,BjarnþórEgilsson,,2017-05-23T21:40:38.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gabegal/housing-market,Housing Market,GabrielGal,,2017-05-25T17:19:17.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,willsuess/notebookc6f2287634,Notebookc6f2287634,Willis76,,2017-05-23T19:59:14.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/using-wls-to-create-features-for-xgboost,Using WLS to Create Features for XGBoost,Andy Harless,,2017-05-23T18:23:22.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,marrvolo/notebook1f0e474042,Notebook1f0e474042,Toaru,,2017-05-23T14:49:17.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cetrulin/eda-with-python,EDA with Python,Andrés L. Suárez-Cetrulo,,2017-05-23T12:50:56.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/macro-data-for-predicting-price-doc,Macro Data for Predicting Price Doc,Mahesh Kulkarni,,2017-05-23T15:26:34.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chandrs/notebooke5bcaf4a32,Notebooke5bcaf4a32,chand,,2017-05-23T09:36:30.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gunjaagarwal/latest-naive-xgb,latest_naive XGB ,gunja_agarwal,,2017-05-25T18:54:22.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pgorshenin/notebook028ca59ea7,Notebook028ca59ea7,PGorshenin,,2017-05-23T07:47:38.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/naive-xgb,Naive xGB,Bhavesh Ghodasara,,2017-05-30T18:29:39.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kanishkapsingh/data-cleaning-and-new-vars,Data Cleaning and New Vars,KanishkPratapSingh,,2017-05-23T05:01:29.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tonychanyt/cs306-naive-xgb,CS306 naive XGB,TonyChan,,2017-05-24T08:26:25.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gpoe96/simple-xgboost-3,Simple XGBoost 3,Gavin Poe,,2017-05-27T02:03:32.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,inverse1/competition,competition,Izidor Flajsman,,2017-05-24T07:20:52.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/support-vector-regression,Support Vector Regression,Mahesh Kulkarni,,2017-05-22T16:27:54.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/dsffgghhh,dsffgghhh,Timothee Henry,,2017-05-22T14:19:38.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/cvcvbbb,cvcvbbb,Timothee Henry,,2017-05-22T14:06:44.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/dffhhfgh,dffhhfgh,Timothee Henry,,2017-05-22T13:56:26.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,himanish2006/basic-exploratory-data-analysis,Basic Exploratory Data Analysis,HimanishBhattacharjee,,2017-05-22T16:18:23.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,wangyup/exploration-data-analysis,Exploration Data analysis,weeyu,,2017-05-27T07:30:00.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tonychanyt/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],TonyChan,,2017-05-22T08:12:01.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,smr4849/smr4849-russian-housing-price-predictions,smr4849 - Russian Housing Price Predictions,smr4849,,2017-05-22T08:09:37.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,smr4849/smr4849-sberbank-russian-housing-market,smr4849 -  Sberbank Russian Housing Market,smr4849,,2017-05-22T08:08:43.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shalva/first-submission-v-9,First submission v.9,Shalva Kashmadze,,2017-06-01T06:15:00.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shalva/first-submission,First submission,Shalva Kashmadze,,2017-05-22T05:07:04.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/adaboost-basic,Adaboost basic,Jason Benner,,2017-05-22T03:51:47.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rahimi/fork-of-naive-xgb-lb-0-317-c8e06e,Fork of Naive XGB [LB ~0.317] c8e06e,mashdi,,2017-05-21T21:36:04.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/xgb-lets-try,XGB lets try,Jason Benner,,2017-05-22T16:01:20.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/sdfge-w,sdfge_w,Timothee Henry,,2017-05-21T16:55:17.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/dsadf,dsadf,Timothee Henry,,2017-05-21T16:28:10.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/asdffw,asdffw,Timothee Henry,,2017-05-21T16:12:48.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/iulkajdso,iulkajdso,Timothee Henry,,2017-05-21T16:05:57.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,keremt/feature-engineering-macro-excluded,FEATURE ENGINEERING (MACRO EXCLUDED),Kerem Turgutlu,,2017-05-21T12:10:21.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-11,xgb_11,Timothee Henry,,2017-05-21T11:30:20.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ssquare/notebookdf1a60e1ba,Notebookdf1a60e1ba,s square,,2017-05-21T10:54:27.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,caicell/two-features-simplfied-sub-area-orderd-by-price,Two Features Simplfied & Sub Area Orderd by Price,Sang-eon Park,,2017-05-21T10:07:25.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,caicell/feature-handling-simplication,"Feature Handling, Simplication",Sang-eon Park,,2017-05-30T10:58:41.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vrsb2006/macro-features-xgb,macro + features + xgb,Dreamful Eyes,,2017-05-21T11:19:50.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kanishkapsingh/notebook0cca8efb98,Notebook0cca8efb98,KanishkPratapSingh,,2017-05-22T17:46:51.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,varadiz/notebook0bfb44d974,Notebook0bfb44d974,Anonymous Beaver,,2017-05-21T08:22:54.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tastyshchi/naive-xgb,naive XGB,Mikhail Budylin,,2017-05-21T07:30:18.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,viczyf/data-cleanup-munging,Data Cleanup/Munging,zyf,,2017-05-21T01:30:32.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kuliksv/naive-xgb-7d8c49,naive XGB 7d8c49,Stanislav K.,,2017-05-20T23:29:15.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/withapartmentfeature,withApartmentFeature,Bhavesh Ghodasara,,2017-05-24T04:12:31.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gunjaagarwal/naive-xgb, Naive Xgb,gunja_agarwal,,2017-05-23T07:59:51.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pgorshenin/secret-city-between-putin-and-lenin,Secret city between Putin and Lenin,PGorshenin,,2017-05-23T08:36:14.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-v9,xgb_v9,Timothee Henry,,2017-05-20T14:41:20.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/classic,classic_,Timothee Henry,,2017-05-20T13:03:33.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bezhin/fork-of-naive-xgb-lb-0-317-c8e06e,Fork of Naive XGB [LB ~0.317] c8e06e,AndreiBezhin,,2017-05-20T11:14:15.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,smallhuihui/naive-xgb-4fd16d,naive XGB 4fd16d,Coco_Sun,,2017-05-20T11:18:46.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,xinjielu/notebook9c15e3792e,Notebook9c15e3792e,Serena,,2017-05-20T07:39:05.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,inventer/notebook50d513621a,Notebook50d513621a,Turja Banerjee,,2017-05-20T03:32:13.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bguberfain/notebook32d5cd2d80,Notebook32d5cd2d80,Bruno G. do Amaral,,2017-05-20T03:08:31.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chelimin/notebook150ed77c53,Notebook150ed77c53,Catherine,,2017-05-20T01:51:47.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kaichenphys/notebook0392af4fa2,Notebook0392af4fa2,QPZM,,2017-05-19T22:56:41.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shuyan/notebookc3d4969a97,Notebookc3d4969a97,Shu Yan ,,2017-05-19T20:54:39.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/naive-xgb-lb-0-317-efg,Naive XGB [LB ~0.317]efg,Timothee Henry,,2017-05-19T21:24:16.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/xgb-8,xgb_8,Timothee Henry,,2017-05-19T18:51:17.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/pca-trial,PCA trial,Jason Benner,,2017-05-19T17:58:37.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,topodomenech/notebooka018c63710,Notebooka018c63710,Vicent,,2017-05-19T17:40:54.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/basic-data-structuring-sberbank,Basic Data structuring Sberbank,Jason Benner,,2017-05-19T17:02:26.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/cleaning-and-starting-the-sberbank-data,Cleaning and starting the Sberbank data,Jason Benner,,2017-05-19T17:01:08.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jasonbenner/i-regression-workflow-various-models,I: Regression Workflow + Various Models,Jason Benner,,2017-05-19T16:14:38.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,devinanzelmo/notebookfb9f3cedca,Notebookfb9f3cedca,Devin Anzelmo,,2017-05-19T16:35:48.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/simple-xgb-eith-feature-engineering,Simple XGB eith feature engineering,Mahesh Kulkarni,,2017-05-23T06:16:24.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ranlocar/notebook5051a9cdb3,Notebook5051a9cdb3,Ran Locar,,2017-05-19T16:18:02.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ranlocar/linear-regressions,linear_regressions,Ran Locar,,2017-05-19T14:52:12.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,smallhuihui/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Coco_Sun,,2017-05-19T14:05:16.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,slimelearn/notebook94675418f5,Notebook94675418f5,(இдஇ;),,2017-05-19T13:12:33.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ranlocar/naive-xgb-based-on-2015-data,naive XGB based on >=2015 data,Ran Locar,,2017-05-19T11:50:42.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,invokerk/naive-xgb-dd183b,naive XGB dd183b,invoker,,2017-05-21T18:32:05.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ranlocar/notebookf8daad04bd,Notebookf8daad04bd,Ran Locar,,2017-05-19T10:58:32.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kanishkapsingh/exploratory-data-analysis-and-imputation,Exploratory Data Analysis and Imputation,KanishkPratapSingh,,2017-05-21T06:03:27.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gunjaagarwal/modified-python,modified_python,gunja_agarwal,,2017-05-19T06:32:13.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/notebookdc25c9d4f0,Notebookdc25c9d4f0,Mahesh Kulkarni,,2017-05-19T08:50:23.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,foxydi/a-naive-model,A naive model,SGG_Touge,,2017-05-19T05:52:25.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timmyy/merge-order-para-tuning,merge order + para tuning ,Tim Chong,,2017-05-19T00:24:54.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timmyy/naive-xgb-lb-0-317-ab082a,Naive XGB [LB ~0.317] ab082a,Tim Chong,,2017-05-19T00:09:55.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sriram2093/notebook0d4442bd39,Notebook0d4442bd39,SriramPillutla,,2017-05-19T14:16:11.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,juree9/notebook7c1e9608a7,Notebook7c1e9608a7,juree,,2017-05-18T17:58:26.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dbettebg/classification-for-missing-values-imputing,Classification for Missing Values Imputing,Chervonenkis,,2017-05-18T10:08:44.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kuo1079/notebook7b03dfc3bf,Notebook7b03dfc3bf,kuo,,2017-06-12T02:04:23.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,eugenpt/notebook441a3ddc05,Notebook441a3ddc05,Evgeny Petrovskiy,,2017-05-18T06:26:41.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rganeshprasath/notebook6c3b8db610,Notebook6c3b8db610,Ganesh Prasath,,2017-05-18T05:35:38.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rezaisrad/notebook9927fbc212,Notebook9927fbc212,Reza Rad,,2017-05-20T19:55:19.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sngahane/brief-analysis,Brief analysis,Samuel Ngahane,,2017-05-17T22:54:59.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,avinashkaitha/eda-from-srk,EDA(From SRK),[kaitha],,2017-05-24T22:28:26.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,harwester/sberbankhousingmarket-xgb,SberbankHousingMarket_XGB,Harw,,2017-05-18T17:11:52.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,geilerloui/notebook-sberbank,Notebook Sberbank,MarcelRitos,,2017-05-22T08:58:30.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,b03b02014/macroeconomic-analysis,Macroeconomic analysis,hcchang,,2017-05-17T17:42:02.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mmrosenb/sberbank-data-study,Sberbank Data Study,PolarBear,,2017-05-17T21:27:50.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,simpetre/notebookf69d6173e2,Notebookf69d6173e2,Simon Petre,,2017-05-17T17:10:45.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dengjingyuan/simple-exploration-notebook-sberbank-f754bf,Simple Exploration Notebook - Sberbank f754bf,ShrekDeng,,2017-05-17T15:36:22.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jumpywizard/notebook2728a64793,Notebook2728a64793,Zeyu-Wang,,2017-05-17T13:01:29.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/notebook26f0964995,Notebook26f0964995,Timothee Henry,,2017-05-17T10:26:05.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/xgboost-script-1,xgboost_script_1,Timothee Henry,,2017-05-17T08:53:04.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,datadicer/data-exploration-first-step,Data Exploration --First Step,Pooja Wadhwa,,2017-05-20T10:59:35.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gunjaagarwal/notebook35df3474ae,Notebook35df3474ae,gunja_agarwal,,2017-05-17T04:42:10.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gunjaagarwal/feature-selection,feature selection,gunja_agarwal,,2017-05-17T04:35:28.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/estimating-1m-2m-3m-incidence-over-time,"Estimating 1M, 2M, 3M incidence over time",Andy Harless,,2017-05-16T22:19:55.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaoze/sberbank-russian-housing-market,Sberbank Russian Housing Market,Zhaoze,,2017-05-16T22:32:25.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gregsmacros/first-go,First go,JonnyHawkins,,2017-05-16T20:04:24.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/from-vignesh-mohandas-xgboost-model-3,From Vignesh Mohandas XGBoost Model 3,Andy Harless,,2017-05-16T17:50:46.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/notebook41892e3614,Notebook41892e3614,Timothee Henry,,2017-05-17T08:16:55.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/from-louis-clouatre-s-xgb-russ-house,From Louis Clouatre's xgb_russ_house,Andy Harless,,2017-05-26T14:00:08.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jumpywizard/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Zeyu-Wang,,2017-05-16T10:07:31.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ug2409/notebookf79047551d,Notebookf79047551d,Utkarsh,,2017-05-16T09:59:55.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ug2409/notebookef7b05d13c,Notebookef7b05d13c,Utkarsh,,2017-05-16T09:47:11.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shifu2778/notebook3d68970523,Notebook3d68970523,PiyushKumar,,2017-05-16T19:46:03.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,harjeet/russian-housing-prices,Russian Housing Prices,harjeet,,2017-05-26T11:30:53.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dcao888/test1,Test1,DannyCao,,2017-06-10T20:34:20.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/notebookb3a6538618,Notebookb3a6538618,Jguerreiro,,2017-05-15T22:38:34.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mentos05/notebookb63a4cc5d4,Notebookb63a4cc5d4,Mentos05,,2017-05-15T21:41:04.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,plarmuseau/fork-of-naive-data-macro-xgb,Fork of naive data+macro XGB,Paul Larmuseau,,2017-05-15T21:36:13.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gorniabrek/longitude-and-latitude-for-sub-areas,Longitude and latitude for sub_areas,mr_danik,,2017-05-15T18:32:51.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cecilia/notebookc47b555105,Notebookc47b555105,Cecilia,,2017-05-15T15:04:26.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/notebookfe45a54d0c,Notebookfe45a54d0c,Jguerreiro,,2017-05-31T07:57:15.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pablolopezserrano/naive-xgb-lb-0-317-cac83f,Naive XGB [LB ~0.317] cac83f,Pablo,,2017-05-15T13:55:09.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ug2409/notebook4692989cfb,Notebook4692989cfb,Utkarsh,,2017-05-15T12:34:56.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/alternative-attempt,Alternative attempt,Jguerreiro,,2017-05-15T13:22:06.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rameshkumarak/notebook74d9d68cca,Notebook74d9d68cca,Ramesh Kumar A,,2017-05-15T11:16:02.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,wendigo/notebook75398e18fc,Notebook75398e18fc,Sadeteen,,2017-05-15T09:31:58.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/notebook076b973f6c,Notebook076b973f6c,Jguerreiro,,2017-05-15T08:57:28.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,informprakash/feature-ranking-in-sberbank,Feature Ranking in sberbank,prakash,,2017-05-15T08:35:03.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/notebookb87c87c78d,Notebookb87c87c78d,Timothee Henry,,2017-05-16T08:21:55.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,wendigo/notebookd5b80165fc,Notebookd5b80165fc,Sadeteen,,2017-05-15T09:34:20.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,asindico/predicting-house-prices,Predicting House Prices,Andrea Sindico,,2017-05-28T15:15:07.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dickysudiro/naive-xgb-with-imputer,Naive XGB  with Imputer,Dicky Satrio Sudiro,,2017-06-04T00:58:59.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/jiwon-s-small-improvements,Jiwon's small improvements,Andy Harless,,2017-05-15T04:13:09.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nikitabu/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Nikita Butakov,,2017-05-15T02:33:36.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,reshsekar15/tyttuioooo,tyttuioooo,LadyBird,,2017-06-10T04:37:21.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mckevim/notebookd167433909,Notebookd167433909,MichaelMcKevitt,,2017-05-14T20:35:25.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/notebookf4eab8548c,Notebookf4eab8548c,Jguerreiro,,2017-05-14T21:33:29.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,spideryzarc/naive-xgb,naive XGB,Albert Einstein F Muritiba,,2017-05-15T16:08:05.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaoze/notebookaefca06cf9,Notebookaefca06cf9,Zhaoze,,2017-05-14T16:07:29.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vijayprayagala/correlation-heat-map-and-scatter-matrix,Correlation Heat Map and Scatter Matrix,VijayPrayagala,,2017-05-18T10:22:31.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/outliers,Outliers,Jguerreiro,,2017-05-14T14:18:03.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hardeeparora/naive-xgb,naive XGB,hardeeparora,,2017-05-14T13:50:47.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jumpywizard/notebook9267e4576e,Notebook9267e4576e,Zeyu-Wang,,2017-05-14T12:23:52.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,davidfumo/moscow-houses-prices-analysis,Moscow Houses Prices  Analysis,Ragnar,,2017-05-14T12:57:21.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rimbessoussia/fork-of-fork-of-fork-of-notebookf20261f486-6d08cd,Fork of Fork of Fork of Notebookf20261f486 6d08cd,Bess Rim,,2017-05-14T08:27:10.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jdurha0013/test-algorithm,Test Algorithm,Josh Durham,,2017-05-14T05:34:28.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,marcomarson/python-xgb,python xgb,MarcoMarson,,2017-05-14T23:01:15.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,czlowiekrakieta/random-forest-pca,Random Forest + PCA,Łukasz Mądry,,2017-05-13T20:30:33.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jiekebo/sperbank-data-exploration,Sperbank Data Exploration,Jacob Salomonsen,,2017-05-13T19:41:34.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,startupsci/notebook6ed2b506e2,Notebook6ed2b506e2,Manav Sehgal,,2017-05-13T19:17:08.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,benoitdescamps/longitude-latitude-of-subareas,Longitude/Latitude of subareas,bendesc,,2017-05-13T19:06:19.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shrutikaushik/notebookf8ed4db089,Notebookf8ed4db089,Shruti Kaushik,,2017-05-14T00:58:22.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,armaniferrante/notebookfd5b5c50ad,Notebookfd5b5c50ad,armaniferrante,,2017-05-13T19:13:29.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aminegh/notebookf9a4a01c18,Notebookf9a4a01c18,amine gh,,2017-05-13T16:05:02.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,duanlian/notebookde6c3be225,Notebookde6c3be225,dlian,,2017-05-13T15:19:40.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,duanlian/notebook0b94006e91,Notebook0b94006e91,dlian,,2017-05-13T14:28:23.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/data-discovery-rolling-average-etc,"Data discovery, rolling average, etc",Timothee Henry,,2017-05-15T07:35:56.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,karampa/simple-first-try-w-some-data-cleanup,Simple First try w/ some data cleanup,PK7,,2017-05-15T16:58:23.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,duanlian/notebook76e583bbcb,Notebook76e583bbcb,dlian,,2017-05-13T14:11:08.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,karampa/ignore,Ignore,PK7,,2017-05-13T14:16:15.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,francoisdelspn/notebookec5d4cd8b7,Notebookec5d4cd8b7,FrançoisdeLspn,,2017-06-16T08:23:25.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mfjwr1/notebook272422f3c6,Notebook272422f3c6,Mitsuru Fujiwara,,2017-05-13T00:37:13.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mfjwr1/notebookc0f66ddf85,Notebookc0f66ddf85,Mitsuru Fujiwara,,2017-05-13T00:35:36.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ramifethi/my-notebook,my notebook,Rami,,2017-05-12T23:54:07.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,fmkp90/linear-regression-test,Linear_regression test,Flavio Mac Knight,,2017-05-30T00:47:09.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shrutikaushik/sberbank-dataset,Sberbank dataset,Shruti Kaushik,,2017-05-12T22:38:48.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,imwwei/naive-xgb,naive XGB,0xdiab10,,2017-05-12T15:05:37.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ziyitang/eda-simple-model,EDA & Simple Model,Ziyi Tang,,2017-05-13T15:31:48.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,thebrians/notebook0bf38d9f34,Notebook0bf38d9f34,thebrians,,2017-05-12T13:23:58.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timhenry/notebook2700031266,Notebook2700031266,Timothee Henry,,2017-05-13T14:24:28.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bouzid1/notebookcaec11b6c7,Notebookcaec11b6c7,Abdlhamid,,2017-05-12T10:37:43.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hejerammar/final,Final,Hejer AMMAR,,2017-05-12T10:08:06.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,barrak/data-mining-project,Data mining project,Mahmoud Barrak,,2017-05-12T10:33:16.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,alexsnet/notebook8791606fbf,Notebook8791606fbf,Alex Snet,,2017-05-12T22:43:37.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rimbessoussia/fork-of-fork-of-notebookf20261f486,Fork of Fork of Notebookf20261f486,Bess Rim,,2017-05-12T08:59:11.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rimbessoussia/notebook7b88175c51,Notebook7b88175c51,Bess Rim,,2017-05-12T08:09:03.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ramigh/fork-of-first-attempts,Fork of First attempts,Rami GHENIA,,2017-05-12T01:57:47.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,barrak/notebooke52219ce21,Notebooke52219ce21,Mahmoud Barrak,,2017-05-12T10:10:33.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ay1011/notebooka82cea1a79,Notebooka82cea1a79,ML1011,,2017-05-12T01:13:10.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aminegh/first-attempt,First attempt,amine gh,,2017-05-12T15:04:30.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rimbessoussia/fork-of-notebookf20261f486,Fork of Notebookf20261f486,Bess Rim,,2017-05-12T00:56:17.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yassinech/notebook61a197856a,Notebook61a197856a,Yassine,,2017-05-12T09:27:21.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,khaledbesrour/notebook504f894fc2,Notebook504f894fc2,khaled besrour,,2017-05-12T00:50:49.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ramigh/notebook72772d2970,Notebook72772d2970,Rami GHENIA,,2017-05-12T00:23:08.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ramigh/notebookbcee01f5fe,Notebookbcee01f5fe,Rami GHENIA,,2017-05-12T00:18:47.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hejerammar/hejer,Hejer,Hejer AMMAR,,2017-05-12T10:08:51.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,plarmuseau/naive-data-macro-xgb,naive data+macro XGB,Paul Larmuseau,,2017-05-15T21:34:38.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,azizje/notebook9cf1ef9667,Notebook9cf1ef9667,ScrewDriver,,2017-05-12T07:01:30.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aminebejaoui/notebook0f8617a0fb,Notebook0f8617a0fb,aminebejaoui,,2017-05-11T21:00:59.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ljubica/sberbank,sberbank,BiBi,,2017-05-11T18:25:17.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ichrakcho/notebook7a2292a241,Notebook7a2292a241,IchrakCho,,2017-05-11T15:44:22.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chonnakan/sberbank-starter-model,Sberbank starter model,Chonnakan Rittinon,,2017-07-13T08:19:02.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kingaza/sberbank-housing-prediction,Sberbank Housing Prediction,kingaza,,2017-05-11T14:44:42.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jguerreiro/notebook47d1b7d4fe,Notebook47d1b7d4fe,Jguerreiro,,2017-05-11T12:49:11.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,informprakash/simple-data-exploration,Simple data exploration,prakash,,2017-05-11T11:02:38.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,azizje/notebook86770436cb,Notebook86770436cb,ScrewDriver,,2017-05-11T12:27:04.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,killerkady/notebookfab990b669,Notebookfab990b669,Klemen Kadak,,2017-05-11T08:50:06.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hacentayeb622/notebook85fe0dba54,Notebook85fe0dba54,hacen tayeb,,2017-05-11T08:10:46.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shu2cheng/hello,hello,who's your daddy,,2017-05-11T05:55:47.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kanishkapsingh2/notebookedc9c0dc61,Notebookedc9c0dc61,kanishkapsingh,,2017-05-11T04:56:24.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,edoven/test01,test01,Edoardo Venturini,,2017-05-11T03:38:20.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,octthe16th/naive-xgb-6c8e5a,naive XGB 6c8e5a,LuEE,,2017-05-11T02:51:26.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bluezzz/notebook54fcc5d54c,Notebook54fcc5d54c,blueZZZ,,2017-05-11T01:51:15.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,veselovmark/basic-time-series-analysis-feature-selection,Basic Time Series Analysis & Feature Selection,Mark V,,2017-05-10T21:42:51.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chriscc/naive-xgb-7acadf,naive XGB 7acadf,ChrisCC,,2017-05-10T21:19:54.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dgawlik/data-analysis,Data analysis,Dominik Gawlik,,2017-05-25T19:50:05.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,luventu/notebook2a995f6bc3,Notebook2a995f6bc3,LucaVenturini,,2017-05-10T18:15:08.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/lrwithonlycoupleoffeature,LRwithOnlyCoupleOfFeature,Bhavesh Ghodasara,,2017-05-10T16:54:24.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jcuypers/data-cleaning-support-function,Data cleaning support function,xentropist,,2017-05-10T13:50:51.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tharindudr/naive-xgb,naive XGB,Tharindu Ranasinghe,,2017-05-10T13:23:20.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vignesh2323/notebook5216e69df0,Notebook5216e69df0,vignesh mohandas,,2017-05-10T10:09:53.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bluezzz/notebook213e581d45,Notebook213e581d45,blueZZZ,,2017-05-15T08:06:12.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,happycube/reynaldo-s-xgb-raddar-s-investment-filtering,Reynaldo's XGB + Raddar's investment filtering,happycube,,2017-05-10T00:51:21.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kmader/simple-automl-test-with-tpot,Simple AutoML Test with TPOT,K Scott Mader,,2017-05-10T00:04:40.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hanabensmida/notebook696245693d,Notebook696245693d,Hana,,2017-05-12T12:06:54.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/weighted-least-squares-sberbank-data,Weighted Least Squares (Sberbank data),Andy Harless,,2017-05-10T16:10:51.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nikhils/notebookbef7f28d62,Notebookbef7f28d62,Nikhils,,2017-05-09T18:00:16.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hundredpercent/naive-xgb-2739cb,naive XGB 2739cb,PuneetMathur,,2017-05-09T16:41:46.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,prekewen/notebook8d28aa0294,Notebook8d28aa0294,Preke,,2017-05-10T02:37:10.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nikhils/notebook9eda507b0e,Notebook9eda507b0e,Nikhils,,2017-05-09T13:11:25.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hejerammar/notebook7b88175c51,Notebook7b88175c51,Hejer AMMAR,,2017-05-09T08:59:45.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pavelpapin/benchmark,Удар дом (benchmark),PavelPapin,,2017-05-09T08:35:39.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chestnut3108/where-is-the-money-going,where is the money going,shivam singhal,,2017-05-22T10:25:13.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vrsanaidu9/notebook468dedf064,Notebook468dedf064,RajendraSimhadri Vechalapu,,2017-05-09T07:30:01.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/xgbparamtunsub09052017,xgbParamTunSub09052017,Mahesh Kulkarni,,2017-05-24T09:21:13.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,satadru5/micro-economy-data,Micro Economy Data,satadru5,,2017-05-09T04:58:15.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ilham9649/simple-xgb,Simple XGB,Ilham Sulaksono,,2017-05-09T03:14:04.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,timmyy/notebook83bf134d01,Notebook83bf134d01,Tim Chong,,2017-05-09T01:46:58.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,eveyuanhsiu/notebookf7aea34289,Notebookf7aea34289,Eve L,,2017-05-08T23:08:57.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hejerammar/notebook96dad9182c,Notebook96dad9182c,Hejer AMMAR,,2017-05-09T08:59:43.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,keremt/data-and-feature-exploration-new-features,Data and Feature Exploration + New Features,Kerem Turgutlu,,2017-05-11T16:44:42.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,shrutikaushik/notebook39816570e2,Notebook39816570e2,Shruti Kaushik,,2017-05-08T19:03:08.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yitzhakr/notebookee879c35eb,Notebookee879c35eb,YitzhakRize,,2017-05-08T17:59:25.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chriscc/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],ChrisCC,,2017-05-08T15:19:23.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,reshsekar15/notebook539f582133,Notebook539f582133,LadyBird,,2017-05-10T04:50:42.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jackklpan/notebook26d5a3317b,Notebook26d5a3317b,Jackpan,,2017-05-08T14:28:31.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hundredpercent/notebook79f8b5d13e,Notebook79f8b5d13e,PuneetMathur,,2017-05-08T14:10:05.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,domie21/notebookbd8c979ae5,Notebookbd8c979ae5,domie,,2019-01-20T20:50:03.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/mytry0805201701,myTry0805201701,Mahesh Kulkarni,,2017-05-08T08:47:14.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vignesh2323/notebook77d0cc6339,Notebook77d0cc6339,vignesh mohandas,,2017-05-08T07:25:23.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,varunsharma3/notebook371c0624d4,Notebook371c0624d4,Mickey911,,2017-05-10T04:54:49.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,reshsekar15/notebook,Notebook,LadyBird,,2017-05-15T01:48:58.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,avishek/fork-of-naive-xgb-apal-higher-learning-rate,Fork of naive XGB apal higher learning rate,Avishek,,2017-05-08T04:14:48.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,marcomarson/naive-xgb-lb-0-317-eb48a6,Naive XGB [LB ~0.317] eb48a6,MarcoMarson,,2017-05-08T02:05:38.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rdslater/examining-model-error,Examining Model Error,Ronin,,2017-05-07T23:22:43.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rdslater/looking-at-where-models-are-weak,Looking at where models are weak,Ronin,,2017-05-07T23:20:01.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rdslater/where-do-our-models-fail,Where do our models fail?,Ronin,,2017-05-07T23:28:49.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,abhishekgupta86/sberbank-analysis,Sberbank Analysis,Abhishek,,2017-05-07T21:59:45.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,fouad09/notebook43d4bf8dbf,Notebook43d4bf8dbf,fouad09,,2017-05-07T19:25:49.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yngvem/some-data-exploration,Some data exploration,YngveMoe,,2017-05-09T17:40:07.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yitzhakr/notebookbd90ba38c5,Notebookbd90ba38c5,YitzhakRize,,2017-05-07T16:52:24.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yitzhakr/notebookb1db688c77,Notebookb1db688c77,YitzhakRize,,2017-05-07T14:58:42.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yitzhakr/notebookac564d37d5,Notebookac564d37d5,YitzhakRize,,2017-05-07T14:56:53.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yitzhakr/notebooka4655ed459,Notebooka4655ed459,YitzhakRize,,2017-05-07T14:54:53.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,marrvolo/notebook2231eb957f,Notebook2231eb957f,Toaru,,2017-05-07T12:53:42.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,marrvolo/notebook0e03d409fa,Notebook0e03d409fa,Toaru,,2017-05-07T12:49:45.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,issammoalla/notebook82a257cf81,Notebook82a257cf81,Issam MOALLA,,2017-05-07T20:07:33.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hundredpercent/notebook1a116157df,Notebook1a116157df,PuneetMathur,,2017-05-07T03:31:03.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jj1234/naive-xgb,naive XGB,JJ1234,,2017-05-08T02:51:48.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yulike/eda-and-interesting-features-plans,EDA and interesting features & Plans,XYG,,2017-05-06T21:17:55.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lyronw/notebook164e005920,Notebook164e005920,Lyron Wahrmann,,2017-05-06T19:20:45.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lujing/use-partial-pca-for-collinearity-lb-0-328-w-xgb,"Use Partial PCA for Collinearity, LB ~0.328 w/ XGB",Jing Lu,,2017-05-06T18:47:03.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aminegh/1st-essay,1st essay,amine gh,,2017-05-06T15:54:20.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,karampa/first-look-around-on-data,First Look around on data,PK7,,2017-05-08T07:06:45.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bsukkala/eda-fe,"EDA, FE",Bhargava Sukkala,,2017-06-01T07:19:44.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ashwinikmr/notebook4d748e5376,Notebook4d748e5376,ASHWINIKUMAR,,2017-06-29T00:52:17.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hbracho/notebook99aca5b9bc,Notebook99aca5b9bc,Haller Bracho,,2017-05-05T23:55:10.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jsennn/notebookd54098ffa1,Notebookd54098ffa1,Josh Sennett,,2017-05-05T21:03:19.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,anchagarwal/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,Anchit,,2017-05-05T18:45:23.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rahuld/notebook8b66b51fe4,Notebook8b66b51fe4,dineshkumar,,2017-05-22T16:12:26.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jinfuyearn/naive-xgb,naive XGB,weekly_electronic,,2017-05-07T05:41:34.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vanyaslobodchikov/notebookc0c235bb86,Notebookc0c235bb86,Vanya Slobodchikov,,2017-05-31T08:22:06.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,freezing/testing,Testing,Nikola Stojiljkovic,,2017-05-05T13:54:27.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sokian/notebook4ce5477cd2,Notebook4ce5477cd2,Sergei Kiian,,2017-05-17T14:47:17.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sokian/notebook868379396b,Notebook868379396b,Sergei Kiian,,2017-05-05T08:27:35.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lexotrion/notebook207cc3d218,Notebook207cc3d218,Aleksei S Popov,,2017-05-05T07:31:47.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,peterthiem/notebook5ebdbd3290,Notebook5ebdbd3290,Peter T,,2017-05-05T11:48:09.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,peterthiem/naive-xgb-as-script,naive xgb as script,Peter T,,2017-05-05T07:04:13.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ankitagrawal/eda-realty-house-prediction-problem,EDA: realty house prediction problem,Ankit Agrawal,,2017-05-05T06:17:12.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cttsai/ensgbm,EnsGBM,Chia-Ta Tsai,,2017-05-05T14:19:00.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tobikaggle/naive-xgb-12ae5c,naive XGB 12ae5c,DDgg,,2017-05-05T00:02:03.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,nnormandin/xgb-python,XGB python,Nick Norm,,2017-05-06T22:12:26.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chestnut3108/notebook50d45d8a0e,Notebook50d45d8a0e,shivam singhal,,2017-05-04T19:52:22.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,caiomsouza/naive-xgb-v-0-1-20170504,naive XGB v.0.1 20170504,Keep Searching,,2017-05-04T14:29:51.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dickysudiro/attempt-on-sberbank-competition,Attempt on Sberbank Competition,Dicky Satrio Sudiro,,2017-05-04T13:35:07.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/exploration-of-sberbank-housing-data-part-i,"Exploration of Sberbank Housing Data, Part I",Andy Harless,,2017-05-04T12:15:40.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,daizhongxiang/naive-xgb,naive XGB,Dai Zhongxiang,,2017-05-05T04:39:22.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/sloppy-mess-ols,Sloppy Mess (OLS),Andy Harless,,2017-05-04T11:43:07.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,blueorange/russian-housing,Russian housing,blueOrange,,2017-05-04T08:44:22.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rafalbachorz/notebook3ecff361bd,Notebook3ecff361bd,RaxBax,,2017-05-04T08:25:12.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dks1994/notebookb1dceaaaa8,Notebookb1dceaaaa8,DUSHYANTSHUKLA,,2017-05-04T07:12:14.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,iancho88/russian,Russian,HJ Cho,,2017-05-04T06:09:56.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,chenxihe92/xgb-with-new-features,xgb with new features,ChenxiHe,,2017-05-04T05:00:58.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,xuchuanyu/notebook099d51a6e7,Notebook099d51a6e7,xuseniayu,,2017-10-28T03:09:29.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,avishek/fork-of-naive-xgb-pal-hyper-params,Fork of naive XGB pal hyper-params,Avishek,,2017-05-04T04:55:46.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,wutao1530663/notebook0ac569c1dc,Notebook0ac569c1dc,wutaotao,,2017-05-04T04:24:29.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,haroldzhang/russian-housing-market-analysis-ace233,Russian Housing Market Analysis -Ace233,Ace233,,2017-05-04T02:33:58.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tobikaggle/naive-xgb,naive XGB,DDgg,,2017-05-05T00:35:05.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ainoob/notebookf476603980,Notebookf476603980,ainoob,,2017-05-04T00:25:21.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mtfall/confirm-data,confirm data,Takuya Akiyama,,2017-05-03T23:39:59.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mtfall/notebook0728ae298d,Notebook0728ae298d,Takuya Akiyama,,2017-05-03T23:36:42.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cbillman/notebook58729265e9,Notebook58729265e9,Chris Billman,,2017-05-04T03:16:50.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaohao/xgb-with-new-features,xgb with new features,ZZHao,,2017-05-05T01:53:09.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaohao/naive-xgb,naive XGB,ZZHao,,2017-05-03T18:46:26.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cbillman/notebookba6fb36a24,Notebookba6fb36a24,Chris Billman,,2017-05-03T21:13:49.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rrjing85/jr-sberbank,JR_Sberbank,Rena,,2017-05-03T14:54:37.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rrjing85/sberbank-russian-housing-market-jr,Sberbank Russian Housing Market-JR,Rena,,2017-05-03T14:18:41.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,avishek/fork-of-naive-xgb-apal-log-trans1,Fork of naive XGB apal log_trans1,Avishek,,2017-05-03T13:32:54.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,eoakley/notebook221b732c72,Notebook221b732c72,Eric Oakley,,2017-05-23T19:19:40.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,blueorange/firsttestlouis,firstTestLouis,blueOrange,,2017-05-03T13:15:36.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ymohii/notebookd8eca6b6c8,Notebookd8eca6b6c8,Yassin Mohii,,2017-05-03T11:51:49.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dks1994/notebook6d278f54b8,Notebook6d278f54b8,DUSHYANTSHUKLA,,2017-05-03T17:32:00.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,thurston/notebookdc8e178310,Notebookdc8e178310,D_,,2017-05-04T03:31:46.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dks1994/notebook97bd040355,Notebook97bd040355,DUSHYANTSHUKLA,,2017-05-03T10:48:02.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,preeth/notebook21613a2308,Notebook21613a2308,preeth kumar,,2017-05-03T08:33:15.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,poolmoon/understanding-housing-prices,Understanding Housing Prices,Xiaozhen Liu,,2017-05-03T08:13:28.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hadiyansany/notebook570cb0c4bd,Notebook30ede9b138,hadiyansanyfirmansyah,,2017-05-03T08:08:44.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,draken/xboost-simple-trial,xboost_simple_trial,Mad Data Scientist,,2017-05-03T10:14:27.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hadiyansany/notebook32b0710a94,Notebookbc20cbe16f,hadiyansanyfirmansyah,,2017-05-03T07:48:29.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaohao/notebookfa5aebe17f,Notebookfa5aebe17f,ZZHao,,2017-05-03T07:21:34.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaohao/xgbv1,xgbv1,ZZHao,,2017-05-03T21:10:49.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sujatar/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,Sujata Raman,,2017-05-03T06:28:16.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ashfauq/notebook6602dd3cb5,Notebook6602dd3cb5,NightOwl,,2017-05-03T05:34:55.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ashfauq/notebook7e4a45afbf,Notebook7e4a45afbf,NightOwl,,2017-05-04T06:15:50.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,airbourne/notebook68e14c8f9b,Notebook68e14c8f9b,airbourne,,2017-07-11T11:38:25.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mfjwr1/notebookafabb7faad,Notebookafabb7faad,Mitsuru Fujiwara,,2017-05-03T00:17:46.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jj1234/notebook460c2790d2,Notebook460c2790d2,JJ1234,,2017-05-03T05:07:19.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,namrathaurs/notebookc628937707,Notebookc628937707,NamrathaUrs,,2017-05-02T23:26:56.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,amir19/housing-market-prediction,Housing Market Prediction,Amir Ali,,2017-05-03T19:37:20.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bbuluttekin/housing-eda,Housing EDA,bbuluttekin,,2017-05-26T14:01:34.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dks1994/notebook63501c0fc2,Notebook63501c0fc2,DUSHYANTSHUKLA,,2017-05-02T21:56:07.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dks1994/sberbank-notebook,Sberbank Notebook,DUSHYANTSHUKLA,,2019-09-05T07:31:45.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dks1994/notebook8ba5aea492,Notebook8ba5aea492,DUSHYANTSHUKLA,,2017-05-02T21:35:51.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhaohao/notebook6aa566d796,Notebook6aa566d796,ZZHao,,2017-05-02T21:25:39.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,batfinki/notebook9bcfda45f1,Notebook9bcfda45f1,batfinki,,2017-05-04T16:51:08.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lilyjin/notebooka8ddfed1b5,Notebooka8ddfed1b5,LillyJin,,2017-05-07T01:41:23.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sagarhuks/russian-housing-market-prediction,Russian Housing Market Prediction,sagarhukkire,,2017-05-02T20:35:32.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,potapm/notebook73d0bd2c5d,Notebook73d0bd2c5d,PoTaP,,2017-05-02T17:39:18.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,uditsaini/notebook2e256e1ae5,Notebook2e256e1ae5,udit,,2017-05-02T16:58:29.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ermochi/fork1,Fork1,AVP,,2017-05-02T18:06:02.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,maheshak04/myfirsttry02052017,MyFirstTry02052017,Mahesh Kulkarni,,2017-05-02T17:56:59.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cokeraby/notebookece3cae905,Notebookece3cae905,raby,,2017-05-02T13:51:18.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mwaddoups/notebookfa92f88726,Notebookfa92f88726,Mark Waddoups,,2017-05-02T13:13:04.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,datachu/firstcompetition,firstCompetition,zhaobin Chu,,2017-05-02T13:23:14.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,huaxiatiankong/of-variables, of variables,tiankong,,2017-05-02T11:20:09.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,huaxiatiankong/notebook94ca5fe75b,Notebook94ca5fe75b,tiankong,,2017-05-02T10:51:37.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,msilvaecastro/house-prices-feature-importance,House Prices - Feature importance,MárioCastro,,2017-05-02T10:07:59.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,onepau/btb-just-about-with-quick-dirty-svr,BTB (just about :-) with quick & dirty SVR,onepau,,2017-05-02T09:42:10.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,l19922017/notebook0ffe0d58fd,Notebook0ffe0d58fd,ly_kaggle,,2017-05-02T08:26:16.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bobzsj87/notebookbf2ca7964a,Notebookbf2ca7964a,Bob Zhou,,2017-05-02T07:14:40.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,potapm/naive-xgb,naive XGB,PoTaP,,2017-05-02T17:49:47.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,junnix/house-price,House Price,Junnix,,2017-05-03T14:45:15.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dingus148/notebookdc5ff44993,Notebookdc5ff44993,Chungus,,2017-05-02T01:51:09.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,artimous/why-go-naive-when-you-can-go-worldly-wise,Why go naive when you can go worldly-wise,Soumitra Agarwal,,2017-05-02T01:08:58.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,taoufik/notebooka33678e2d5,Notebooka33678e2d5,Taoufik,,2017-05-01T22:00:45.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gorjigaru/notebook80de0ffa4a,Notebook80de0ffa4a,dekonu,,2017-05-01T20:51:32.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,eduardo6/notebook2a68bba2ab,Notebook2a68bba2ab,EduardoCastillo,,2017-05-01T17:07:48.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,navneethc/notebook85ac205989,Notebook85ac205989,navneethc,,2017-05-01T17:04:57.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,temptheme/notebook02479d89ff,Notebook02479d89ff,temptheme,,2017-05-01T15:08:07.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,avishek/fork-of-naive-xgb-increase-depth,Fork of naive XGB increase depth,Avishek,,2017-05-02T05:38:54.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lokendradevangan/housing-price-feature-selection,Housing Price feature selection,LK,,2017-05-06T08:19:22.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,zhangf/notebook277f774d7a,Notebook277f774d7a,zhangfeng,,2017-05-01T14:32:29.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,songsong/notebookd3cf621f7c,Notebookd3cf621f7c,Song,,2017-05-01T14:16:10.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,avishek/naive-xgb-apal,naive XGB apal,Avishek,,2017-05-03T12:46:50.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,akshay10/russian-houses,Russian Houses,Akshay Bhatia,,2017-05-02T14:52:03.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,isakali/notebook59905eba22,Notebook59905eba22,Isa Kh'leeh,,2017-05-01T12:03:46.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sodanuo/notebook0d066f6aa7,Notebook0d066f6aa7,soda,,2017-05-01T09:58:25.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,poioioi/notebookf8ebb8e5b0,Notebookf8ebb8e5b0,Wonhee,,2017-05-01T06:38:23.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kirkhansen/notebookbc45739a16,Notebookbc45739a16,KirkHansen,,2017-05-01T00:20:34.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kc4991/kc-s-attempt,kc's attempt,Kushal Chandra,,2017-04-30T23:43:52.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kc4991/notebookb0abc8626d,Notebookb0abc8626d,Kushal Chandra,,2017-04-30T23:42:51.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pafrantz/notebook38b7d64a8e,Notebook38b7d64a8e,PedroFrantz,,2017-04-30T23:36:15.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ceshine/simple-xgboost-btb-0-32,Simple XGBoost BTB (~0.32),Ceshine Lee,,2017-04-30T23:23:47.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tylernolan/notebooka1884953e8,Notebooka1884953e8,Tyler Nolan,,2017-04-30T23:13:33.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,agavranis/naive-xgb,naive XGB,gavrand,,2017-04-30T22:33:57.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bigapple2008/notebook974baadc21,Notebook974baadc21,ZhongDai,,2017-05-01T01:27:24.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,raafatz/notebook44606950d9,Notebook44606950d9,Raafat,,2017-04-30T21:55:47.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cdelisle/exploring-data-and-testing-models,Exploring data and testing models,Clement,,2017-04-30T20:27:47.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,arinapaul/notebook247e584637,Notebook247e584637,kracker_geek,,2017-04-30T19:10:26.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mikhailiuk/notebook1af7f5fb3e,Notebook1af7f5fb3e,AliakseiMikhailiuk,,2017-04-30T18:54:13.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rishabh1khurana/notebook3c9a391741,Notebook3c9a391741,rishabh,,2017-04-30T18:26:06.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sereni7y/notebookcdbf9994cc,Notebookcdbf9994cc,andrewkane,,2017-05-03T08:35:25.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gaussmake1994/notebook0a60f807e7,Notebook0a60f807e7,AlexanderPozharskii,,2017-04-30T17:58:56.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,skhemka/naive-xgb,naive XGB,Saurabh,,2017-05-07T06:39:40.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jzima7/xgb-starter,XGB starter,JZIMA,,2017-04-30T17:25:25.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,arikru/notebook77965dbd71,Notebook77965dbd71,Arian Krumbach,,2019-07-16T21:46:26.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rexzhang2013/my1stkaggle-rex,My1stKaggle_rex,Rex Zhang,,2017-04-30T15:22:59.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,karampa/first-look-data-analysis-draft,First Look & data Analysis (draft),PK7,,2017-04-30T11:16:05.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,lastmagic/data-preparation-for-sberbank,Data Preparation for Sberbank,Cowboy Bebop,,2017-11-30T04:37:04.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,josephbudin/naive-xgb,naive XGB,JosephBudin,,2017-04-30T10:44:03.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/playingaroundsqftprmtridea,playingAroundSqftprMtrIdea,Bhavesh Ghodasara,,2017-05-07T15:35:57.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,v81msk/test1,test1,V81msk,,2017-06-22T20:08:28.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,acifitriani/notebookcfe4f13983,Notebookcfe4f13983,AstriFitriani,,2017-05-14T06:36:27.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,itais85/naive-xgb-89543c-itai,naive XGB 89543c_ITAI,itai silber,,2017-04-30T08:15:39.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,itais85/notebookf1dd4bf8fb,Notebookf1dd4bf8fb,itai silber,,2017-04-30T08:14:02.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ppallesen/beginner-booster-bagger-stacker,Beginner booster-bagger-stacker,PeterMølgaardPallesen,,2017-04-30T08:10:33.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tumbzilla/naive-xgb,naive XGB,Patrick Laflamme,,2017-04-30T04:00:17.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tjrkishore/notebook9b65105564,Notebook9b65105564,Kishore,,2017-04-30T03:09:39.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ayaseeli/linreg-starter,Linreg Starter,Akhiyar Waladi,,2017-11-23T17:57:54.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jiachuan/simple-exploration-notebook-sberbank,Simple Exploration Notebook - Sberbank,JHe,,2017-06-04T21:29:09.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tumbzilla/notebook2c2f2958ab,Notebook2c2f2958ab,Patrick Laflamme,,2017-05-01T16:41:48.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,cttsai/xgb-exp,XGB exp,Chia-Ta Tsai,,2017-04-30T04:42:58.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hisuka/from-bruno-do-amaral-naive-xgb-v9,From Bruno do Amaral Naive XGB v9,Oussama Errabia,,2017-04-30T00:32:31.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mesolithic/xgb-1,XGB_1,Reuben Li,,2021-06-17T01:07:44.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rameshusa/notebook7ab3d1eabd,Notebook7ab3d1eabd,RameshUSA,,2017-04-29T21:01:55.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,wzhwwhy/notebookffcf3c6d52,Notebookffcf3c6d52,ZackWang,,2017-04-30T01:45:19.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rouseguy/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Bargava,,2017-04-29T14:37:49.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pomber/notebookfca236c807,Notebookfca236c807,Rodrigo Pombo,,2017-04-29T13:24:20.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vinayaknayak/exploratory-data-analysis,Exploratory Data Analysis,VinayakNayak,,2017-05-25T10:37:55.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mrpolitegrizly/banks,Banks,MrPoliteGrizly,,2017-04-29T09:52:37.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,pathfinder5/notebooke72a7e474f,Notebooke72a7e474f,Daniel Vrabii,,2017-04-29T09:37:35.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,machazthegamer/my-try,my try ,PRIMAL DATA,,2017-06-09T08:52:42.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,arzaannavdar/notebooke66b9e8c6f,Notebooke66b9e8c6f,Zaan,,2017-05-01T04:51:18.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,aharless/from-bruno-do-amaral-s-naive-xgb-notebook,From Bruno do Amaral's Naive XGB notebook,Andy Harless,,2017-04-29T04:33:36.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bhavesh09/dataexploration,DataExploration,Bhavesh Ghodasara,,2017-04-30T11:33:55.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dababd/notebook44f7d49e0d,Notebook44f7d49e0d,David Bernstein,,2017-04-29T03:42:36.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,spandit/data-exploration-in-python,Data Exploration in Python,Sanjeev Pandit,,2017-04-29T03:46:05.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,luoyetx/notebookb5ca4fcf6b,Notebookb5ca4fcf6b,zhangjie,,2017-04-29T02:35:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,innovativegirish/notebooke805863803,Notebooke805863803,ThinkBIG,,2017-04-29T01:06:42.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,slamnz/russian-house-starter,Russian House Starter,Sunny Lam,,2017-05-02T22:59:29.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,orocklin/test-xgb-notebook,Test XGB Notebook,Oleg Rocklin,,2017-04-28T23:49:11.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,tobikaggle/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],DDgg,,2017-04-29T03:23:31.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ktik81/notebook313b02f67b,Notebook313b02f67b,ktik81,,2017-04-28T21:48:16.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,spideryzarc/einstein,einstein,Albert Einstein F Muritiba,,2017-05-15T16:28:24.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mt77pp/notebookf7c5d94f15,Notebookf7c5d94f15,Piotr,,2017-04-28T21:40:22.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,omorillo/notebooke04f4c809e,Notebooke04f4c809e,omovi,,2017-04-28T21:29:18.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rishabh1khurana/housing,Housing ,rishabh,,2017-04-28T21:17:35.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,adriaanslechten/notebooka26b98a906,Notebooka26b98a906,Adriaan Slechten,,2017-04-28T21:16:21.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,jbrasher6/data-exploration,Data Exploration,Jon Brasher,,2017-04-28T20:39:52.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,karmaudel/notebook6cf38318ea,Notebook6cf38318ea,Aditya Karmarkar,,2017-04-28T20:06:01.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,alexzu/notebookcc3bc8b456,Notebookcc3bc8b456,AlexZu,,2017-06-12T08:16:13.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gabegal/r-housing-model,R Housing Model,GabrielGal,,2017-04-28T20:10:12.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,gabegal/notebookff83638393,Notebookff83638393,GabrielGal,,2017-04-28T19:22:10.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,victorslira/notebook03c72cdce1,Notebook03c72cdce1,VictorLira,,2017-04-28T19:21:25.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hconner2/notebook183ba5c98c,Notebook183ba5c98c,HarryConner,,2017-04-28T19:10:13.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,hbracho/notebook917db4a4a3,Notebook917db4a4a3,Haller Bracho,,2017-04-28T18:22:27.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,anake1/python-eda,Python EDA,gnsiva,,2017-05-01T19:04:43.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,noudald/notebook70dfb18e5d,Notebook70dfb18e5d,Noud,,2017-04-28T19:20:25.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kennli/exploring-data-and-macro-relationships,Exploring Data and Macro relationships,kennethli,,2017-04-29T15:39:04.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,kennli/notebookd00d461a07,Notebookd00d461a07,kennethli,,2017-07-01T18:27:54.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,manishsaraswat/data-analysis-in-r,Notebook15b7f710c8,Erlich Bachman,,2017-04-28T17:11:14.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mwaddoups/ii-cross-validation-of-xgb-parameters,II: Cross-validation of XGB parameters,Mark Waddoups,,2017-05-02T13:34:06.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,icytempest/notebook4a7d80ec63,Notebook4a7d80ec63,Andy,,2017-04-28T15:43:56.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dsmathon/sberbank-russian-housing-first-view,Sberbank - Russian Housing: First View,DanielMathon,,2017-05-01T15:41:16.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,msanselme/baseline,baseline,Marc S,,2017-05-03T12:39:28.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,msanselme/notebook054dfde87d,Notebook054dfde87d,Marc S,,2017-04-28T14:14:40.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,ikarashi/exploring-data,exploring data,Yusuke  Ikarashi,,2017-04-29T01:03:16.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sionek/naive-xgb-lb-0-317-dc9ff7,Naive XGB [LB ~0.317] dc9ff7,Grzegorz Sionkowski,,2017-04-28T22:52:23.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sujatar/notebookb20222a66e,Notebookb20222a66e,Sujata Raman,,2017-04-28T09:06:41.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,uzhzyang/notebook317c8575e5,Notebook317c8575e5,Zhao Yang,,2017-04-28T08:25:42.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,uzhzyang/notebookbd262635d0,Notebookbd262635d0,Zhao Yang,,2017-04-28T08:25:22.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,rojre1979/xgb-script123,XGB_script123,Robert J. Regalado,,2017-06-06T18:22:31.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,sionek/naive-xgb-lb-0-317,Naive XGB [LB ~0.317],Grzegorz Sionkowski,,2017-04-28T09:44:54.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,mesolithic/spotting-the-irregularities,Spotting the Irregularities,Reuben Li,,2017-04-28T22:38:49.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,yaroshevskiy/notebookdf8b2b148f,Notebookdf8b2b148f,Oleg Yaroshevskiy,,2017-04-28T03:13:21.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bguberfain/notebooka24f36d951,Notebooka24f36d951,Bruno G. do Amaral,,2017-04-28T00:16:59.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,dreaml/data-analysis,Data Analysis,Andrea,,2017-05-01T23:55:18.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,bguberfain/notebookf1630622e9,Notebookf1630622e9,Bruno G. do Amaral,,2017-04-27T23:37:18.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,q2zhang/notebook8ba07cce04,Notebook8ba07cce04,Jane Zhang,,2017-04-28T01:35:38.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,q2zhang/notebook044e10aef3,Notebook044e10aef3,Jane Zhang,,2017-04-27T22:51:26.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market
+,,,,,0,vfdev5/naive-xgb,Naive XGB,vfdev,,2017-04-28T14:32:34.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sberbank-russian-housing-market

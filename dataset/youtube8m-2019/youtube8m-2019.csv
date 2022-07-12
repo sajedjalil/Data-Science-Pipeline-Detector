@@ -1,0 +1,20 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jesucristo/analysis-youtube8m-2019,Analysis YouTube8m 2019 📹,Nanashi,,2019-07-10T03:42:24.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],106,youtube8m-2019
+,,,,,0,inversion/starter-kernel-yt8m-2019-sample-data,Starter Kernel: YT8M 2019 Sample Data,inversion,,2019-06-27T15:19:09.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,youtube8m-2019
+,,,,,0,artyomp/stronger-baseline-with-pytorch,Stronger baseline with PyTorch,Artyom Palvelev,,2019-10-12T15:39:32.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,youtube8m-2019
+,,,,,0,senorcampos/the-peak-muffin-moment,The Peak Muffin Moment 📹,senorcampos,,2019-08-07T01:10:28.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,youtube8m-2019
+,,,,,0,frostxu/annotation-analysis-help-to-understand,Annotation Analysis: Help to Understand,Frost,,2019-07-04T07:10:27.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,youtube8m-2019
+,,,,,0,ayoubchebbi/the-3rd-youtube-8m-video-understanding-challenge,The 3rd YouTube-8M Video Understanding Challenge,ayoub chebbi,,2019-07-02T21:45:38.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,youtube8m-2019
+,,,,,0,aqeelnawaz44/analyse-kernal,analyse kernal,Aqeel Nawaz,,2019-06-28T10:06:25.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,youtube8m-2019
+,,,,,0,isikkuntay/train-set-for-nn-under-construction,train set for NN - under construction,Kepler456b,,2019-07-20T19:16:17.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,youtube8m-2019
+,,,,,0,jagannathrk/analysis-youtube8m-2019,Analysis YouTube8m 2019 📹,Kranti Kumar,,2019-12-10T15:48:10.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,youtube8m-2019
+,,,,,0,sekrier/bronze-with-last-year-sub-and-video-length,Bronze with last year sub and video length,TeraFlops,,2019-10-15T08:12:21.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,youtube8m-2019
+,,,,,0,pavanchalla/analysis-youtube8m-2019,Analysis YouTube8m 2019 📹,Pavan Challa,,2019-09-06T02:58:17.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,youtube8m-2019
+,,,,,0,anshuljdhingra/3rd-youtube-video-understanding,3rd Youtube Video Understanding,Anshul Dhingra,,2019-08-13T10:29:55.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,youtube8m-2019
+,,,,,0,isikkuntay/vid-to-seg-predictions,vid to seg predictions,Kepler456b,,2019-07-24T01:00:19.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,youtube8m-2019
+,,,,,0,tbmoon/how-to-save-tfrecord-into-npy-too-slow,How to save tfrecord into npy (Too Slow!),tbmoon,,2019-07-06T07:57:30.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,youtube8m-2019
+,,,,,0,thehandler/kernel3a0d441f2e,kernel3a0d441f2e,Psycho,,2019-09-21T14:02:34.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,youtube8m-2019
+,,,,,0,lixiawei15/hotpot-discuss,hotpot discuss,lixiawei,,2019-09-02T13:27:41.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,youtube8m-2019
+,,,,,0,plengnakdee/draft-1,Draft-1,Pleng Nakdee,,2019-08-24T07:47:35.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,youtube8m-2019
+,,,,,0,anshuljdhingra/analysis-youtube8m-2019,Analysis YouTube8m 2019 📹,Anshul Dhingra,,2020-06-15T06:30:32.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,youtube8m-2019
+,,,,,0,sinchanbhattacharya/eda-word-cloud,EDA-Word Cloud,Sinchan Bhattacharya,,2019-07-31T18:45:54.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,youtube8m-2019

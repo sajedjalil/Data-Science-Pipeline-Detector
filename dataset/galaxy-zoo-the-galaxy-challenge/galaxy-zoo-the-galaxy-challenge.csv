@@ -1,0 +1,16 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,helmehelmuto/keras-cnn,Keras CNN,helme,,2019-06-23T10:33:22.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,galaxy-zoo-the-galaxy-challenge
+,,,,,0,hironobukawaguchi/galaxy-zoo-xception,galaxy_zoo_Xception,Hironobukawaguchi,,2021-02-05T10:45:58.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,galaxy-zoo-the-galaxy-challenge
+,,,,,0,atogni85/galaxy-convnet,galaxy_convnet,atogni85,,2020-09-21T09:15:58.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,galaxy-zoo-the-galaxy-challenge
+,,,,,0,henriquelimanas/galaxy-zoo-classifier-galaxies,Galaxy Zoo - Classifier Galaxies,Henrique Lima,,2021-12-23T22:12:47.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,galaxy-zoo-the-galaxy-challenge
+,,,,,0,zhuangjw/compress-galaxy-test-data,compress_galaxy_test_data,Jiawei Zhuang,,2019-11-03T02:55:26.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,galaxy-zoo-the-galaxy-challenge
+,,,,,0,zhuangjw/compress-galaxy-train-data,compress_galaxy_train_data,Jiawei Zhuang,,2019-11-02T19:26:48.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,galaxy-zoo-the-galaxy-challenge
+,,,,,0,mgambati/galaxy-challenge,Galaxy Challenge,Matheus Gambati,,2019-08-26T03:28:04.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,galaxy-zoo-the-galaxy-challenge
+,,,,,0,marcelinakinyumu/galaxy-morphology,Galaxy_Morphology,Marcelina Kinyumu,,2022-05-12T13:00:37.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,kingjuno/galaxy-zoo,Galaxy Zoo,kingjuno,,2022-04-08T15:43:21.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,henriquelimanas/galaxy-zoo-classifier-galaxies-1,Galaxy Zoo -  Classifier Galaxies 1,Henrique Lima,,2021-12-23T14:37:56.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,henriquelimanas/galaxyclassifier,GalaxyClassifier,Henrique Lima,,2022-01-04T00:27:08.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,muskandidwania/galaxy-zoo-densenet121,galaxy_zoo_DenseNet121,Muskan Didwania,,2021-11-08T12:00:29.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,eladcohen3/galaxyclassifier,GalaxyClassifier,Ushmi,,2021-09-04T14:30:56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,mihailgavrilita/galaxy-zoo-1-st-notebook,Galaxy Zoo 1'st Notebook,Mihail Gavrilita,,2020-12-20T14:39:39.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge
+,,,,,0,mgambati/teste-classifica-o-de-gal-xias,teste classificação de galáxias,Matheus Gambati,,2019-08-31T20:51:11.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,galaxy-zoo-the-galaxy-challenge

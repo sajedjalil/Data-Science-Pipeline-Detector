@@ -1,0 +1,709 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sudalairajkumar/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,SRK,,2017-06-03T13:40:09.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1099,zillow-prize-1
+,,,,,0,arjanso/reducing-dataframe-memory-size-by-65,Reducing DataFrame memory size by ~65% ,ArjanGroen,,2017-08-06T19:33:20.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],325,zillow-prize-1
+,,,,,0,anokas/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),anokas,,2017-05-24T18:56:28.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],202,zillow-prize-1
+,,,,,0,viveksrinivasan/zillow-eda-on-missing-values-multicollinearity,Zillow EDA On Missing Values & Multicollinearity,Vivek Srinivasan,,2017-06-19T12:02:42.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],148,zillow-prize-1
+,,,,,0,nikunjm88/creating-additional-features,Creating Additional Features,Nikunj,,2017-09-27T09:02:13.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],114,zillow-prize-1
+,,,,,0,aharless/xgb-w-o-outliers-lgb-with-outliers-combined,XGB w/o outliers & LGB with outliers combined,Andy Harless,,2017-07-18T02:21:21.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,zillow-prize-1
+,,,,,0,kueipo/simple-eda-geo-data-time-series,Simple EDA Geo Data & Time Series,Kueipo,,2017-11-11T04:10:29.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],87,zillow-prize-1
+,,,,,0,flennerhag/ml-ensemble-scikit-learn-style-ensemble-learning,ML-Ensemble: Scikit-learn style ensemble learning ,flnr,,2018-01-23T10:06:57.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,zillow-prize-1
+,,,,,0,aharless/xgboost-lightgbm-and-ols,"XGBoost, LightGBM, and OLS",Andy Harless,,2017-09-22T12:40:44.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,zillow-prize-1
+,,,,,0,abdelwahedassklou/only-cat-boost-lb-0-0641-939,Only_Cat boost (LB : 0.0641 939),Abdelwahed Assklou,,2017-10-14T14:19:56.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],67,zillow-prize-1
+,,,,,0,guolinke/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Guolin Ke,,2017-05-25T11:28:27.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,zillow-prize-1
+,,,,,0,seesee/concise-catboost-starter-ensemble-plb-0-06435,Concise catboost starter ensemble (PLB: 0.06435),See--,,2017-10-06T12:34:04.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,zillow-prize-1
+,,,,,0,aharless/xgboost-lightgbm-and-ols-and-nn,"XGBoost, LightGBM, and OLS and NN",Andy Harless,,2017-09-30T00:40:09.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,zillow-prize-1
+,,,,,0,davidfumo/boosted-trees-lb-0-0643707,Boosted Trees LB ~ 0.0643707,Ragnar,,2017-08-21T22:04:29.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,zillow-prize-1
+,,,,,0,nikunjm88/carefully-dealing-with-missing-values,Carefully dealing with missing values,Nikunj,,2017-09-15T13:38:18.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,zillow-prize-1
+,,,,,0,evanmiller/pipelines-gridsearch-awesome-ml-pipelines,Pipelines + GridSearch  = Awesome ML pipelines,Evan Miller,,2017-10-06T22:35:26.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,zillow-prize-1
+,,,,,0,kamilkk/no-stacking-no-lb-overfitting-0-064337,No stacking & no LB overfitting - 0.064337,Kamil Kaczmarek,,2017-10-11T17:18:20.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,zillow-prize-1
+,,,,,0,jeru666/zillow-revamped-with-memory-reduction,Zillow Revamped with Memory Reduction!,JeruLuke,,2017-11-19T06:28:24.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,zillow-prize-1
+,,,,,0,arjanso/kernel-density-estimation-for-predicting-logerror,Kernel Density Estimation for predicting logerror,ArjanGroen,,2017-10-10T17:00:01.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,zillow-prize-1
+,,,,,0,aharless/xgboost-using-4th-quarter-for-validation,XGBoost using 4th quarter for validation,Andy Harless,,2017-10-08T11:11:08.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,zillow-prize-1
+,,,,,0,zusmani/scrpt,Scrpt,Zeeshan-ul-hassan Usmani,,2017-09-16T19:52:52.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,zillow-prize-1
+,,,,,0,auroralht/restoring-the-missing-geo-data,Restoring the missing Geo data ,sauce,,2017-08-13T15:55:31.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,zillow-prize-1
+,,,,,0,scirpus/genetic-programming-lb-0-0643904,Genetic Programming LB 0.0643904,Scirpus,,2017-09-04T09:57:00.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,zillow-prize-1
+,,,,,0,wangsg/ensemble-stacking-lb-0-6436,ensemble-stacking（LB~0.6436）,SG Wang,,2017-10-14T11:22:20.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,zillow-prize-1
+,,,,,0,infinitewing/xgboost-without-outliers-lb-0-06450,XGBoost without outliers ( LB ~ 0.06450 ),InfiniteWing,,2017-10-06T06:00:43.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,zillow-prize-1
+,,,,,0,mubashir44/simple-ensemble-model-stacking,Simple Ensemble Model(Stacking),Mubashir M,,2017-08-29T05:43:19.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,zillow-prize-1
+,,,,,0,hyewon328/zillow-analysis-with-eda,Zillow analysis with EDA🏠,hyewon328,,2021-01-18T05:44:42.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,zillow-prize-1
+,,,,,0,aharless/keras-nn-with-q4-validation,Keras NN with Q4 validation,Andy Harless,,2017-12-19T17:13:52.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,zillow-prize-1
+,,,,,0,opanichev/better-baseline,Better Baseline,Oleg Panichev,,2017-05-27T18:05:27.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,zillow-prize-1
+,,,,,0,aharless/trying-to-do-k-fold-cv-on-lightgbm,Trying to do k-fold CV on LightGBM,Andy Harless,,2017-07-08T21:12:29.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,zillow-prize-1
+,,,,,0,danieleewww/xgboost-without-outliers-lb-0-06463,XGBoost without outliers ( LB ~ 0.06463 ),danieleewww,,2017-08-24T09:08:57.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,zillow-prize-1
+,,,,,0,fuhang/a-chinese-translation-of-material-updating,a chinese translation of material  (updating),Horizon@AI酱,,2017-10-13T05:01:53.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,zillow-prize-1
+,,,,,0,zusmani/zillow-prize-a-novice-kickstarter-sourcecode,Zillow Prize - A Novice KickStarter Sourcecode,Zeeshan-ul-hassan Usmani,,2017-09-16T13:24:04.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,zillow-prize-1
+,,,,,0,jamesdhope/zillow-ensemble-of-regressors-0-065,"Zillow, Ensemble of regressors 0.065...",Jamesdhope,,2019-02-02T14:11:23.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,zillow-prize-1
+,,,,,0,devanshm/zillow-end-to-end-ml-workflow-top-250-0-06416,Zillow: End to End ML Workflow (Top 250: 0.06416),Devansh Malik,,2022-03-23T21:15:48.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,zillow-prize-1
+,,,,,0,neviadomski/zillow-s-home-value-exploratory-data-analysis,Zillow's Home Value Exploratory Data Analysis ,Sergei Neviadomski,,2017-11-20T00:01:43.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,zillow-prize-1
+,,,,,0,xxing9703/kmean-clustering-of-latitude-and-longitude,KMean clustering of latitude and longitude,xixi,,2017-07-11T17:43:24.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,zillow-prize-1
+,,,,,0,arjanso/simple-starter-randomforest-regressor,Simple Starter - RandomForest Regressor ,ArjanGroen,,2017-07-05T21:07:20.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,zillow-prize-1
+,,,,,0,nikitabu/zillow-eda-opportunities-for-feature-engineering,Zillow EDA:  Opportunities for Feature Engineering,Nikita Butakov,,2017-06-06T19:53:40.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,zillow-prize-1
+,,,,,0,mjahrer/simple-lightgbm-4,Simple LightGBM 4！,Michael Jahrer,,2017-05-28T20:44:58.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,zillow-prize-1
+,,,,,0,graymant/pytorch-regression-with-sklearn-pipelines,Pytorch regression with sklearn pipelines,graymant,,2017-10-05T09:30:03.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,zillow-prize-1
+,,,,,0,hamzaashraf/zillow-eda,Zillow EDA ,MHA,,2017-08-10T09:16:14.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,zillow-prize-1
+,,,,,0,rteja1113/log-errors-of-nearest-neighbors-and-some-eda,Log errors of nearest neighbors and some eda,Ravi Teja Gutta,,2017-09-13T02:58:21.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,zillow-prize-1
+,,,,,0,power17/cleaning,Cleaning,Khalid QACEME,,2017-10-11T14:46:53.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,zillow-prize-1
+,,,,,0,aharless/my-solution-part-v-ensemble-with-fudge-factor,"My Solution, Part V. Ensemble with Fudge Factor",Andy Harless,,2018-01-11T01:16:19.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,zillow-prize-1
+,,,,,0,zusmani/boosted-trees-lb-0-0643707,Boosted Trees LB ~ 0.0643707,Zeeshan-ul-hassan Usmani,,2017-09-18T16:09:28.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,zillow-prize-1
+,,,,,0,virgodata/zillow-eda-virgodata,Zillow EDA - VirgoData ,VirgoData,,2017-08-25T07:22:01.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,zillow-prize-1
+,,,,,0,elvinagammed/deal-with-large-dfs-reduce-the-size-of-df-to-36,Deal with Large DFs: Reduce The Size of DF to 36%,Elvin Aghammadzada,,2020-10-11T08:21:36.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,aharless/my-solution-2nd-part-viii-second-ensemble,"My Solution (2nd), Part VIII. Second Ensemble",Andy Harless,,2018-01-11T01:27:12.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,aharless/kk-s-lgbm-with-full-data,KK's LGBM with full data?,Andy Harless,,2017-10-09T23:59:47.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,aharless/monthly-optimal-fudge-factors-for-2016-2017,Monthly optimal fudge factors for 2016 & 2017,Andy Harless,,2017-10-05T00:07:44.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,zusmani/baseline-lb-0-0648950,Baseline (LB 0.0648950],Zeeshan-ul-hassan Usmani,,2017-09-27T15:26:02.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,hlo415/zillow-dataset,Zillow_dataset,HubertLo,,2017-10-17T04:02:27.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,zusmani/simple-lgbm-model-lb-0-064404,Simple LGBM model (LB 0.064404),Zeeshan-ul-hassan Usmani,,2017-09-16T14:44:59.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,shaz13/zestimate-v1-01,Zestimate v1.01,Mohammad Shahebaz,,2017-09-30T19:34:11.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,mubashir44/zillow-exploratory-analysis,Zillow Exploratory Analysis,Mubashir M,,2017-08-28T14:04:30.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,prasunmishra/ann-using-keras,ANN using keras,PrasunMishra,,2017-08-08T19:35:52.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,jamesmcguigan/exploratory-data-analysis-zillow-dataset,Exploratory Data Analysis - Zillow Dataset,James McGuigan,,2020-10-02T18:28:30.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,zillow-prize-1
+,,,,,0,binhminhs10/explore-analysis-zillow,Explore Analysis Zillow,BinhMinhs10,,2019-10-30T11:02:41.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,zillow-prize-1
+,,,,,0,nicapotato/univariate-and-bivariate-analysis-zillow-eda,Univariate and Bivariate Analysis: Zillow EDA,nicapotato,,2018-01-07T10:02:56.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,zillow-prize-1
+,,,,,0,umerfarooq807/analysis11,analysis11,Umer Farooq,,2017-11-27T10:34:35.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,zillow-prize-1
+,,,,,0,cuongvn08/xgboost-cross-validation-clean-coding-lb-0-64x,"xgboost, cross validation, clean coding, LB 0.64x",Cuong Nguyen,,2017-10-01T11:04:09.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,zillow-prize-1
+,,,,,0,sidharthkumar/trying-lightgbm,Trying LightGBM,SIDHARTH,,2017-06-14T06:04:52.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,zillow-prize-1
+,,,,,0,tomgrek/dumb-keras-starter,Dumb Keras Starter,tomgrek,,2017-05-26T16:41:20.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,zillow-prize-1
+,,,,,0,alikashif1994/zillow-scr,zillow.scr,alikashif1994,,2021-11-15T16:50:29.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,elvinagammed/dealing-with-large-dfs-parquet-format-x5-times,Dealing with Large DFs: Parquet Format x5 Times ,Elvin Aghammadzada,,2020-10-11T08:23:38.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,elvinagammed/dealing-with-large-dfs-feather-format-x5-times,Dealing with Large DFs: Feather Format x5 Times ,Elvin Aghammadzada,,2020-10-11T08:23:10.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,rohandeysarkar/zillow-prize-eda-feature-engineering,Zillow Prize(EDA + Feature Engineering),RohanDeySarkar,,2020-09-30T04:20:10.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,aharless/quick-attempt-at-catboost-validation,Quick attempt at Catboost validation,Andy Harless,,2017-10-16T03:02:24.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,aharless/keras-neural-network-lb-06492,"Keras Neural Network, LB .06492",Andy Harless,,2017-09-17T23:08:04.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,rajukommarajula/zillow-light-gbm-without-outliers,Zillow_Light_GBM_Without_outliers,Raju Kommarajula,,2017-08-15T11:33:43.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,mubashir44/simple-ann-implementation,Simple ANN Implementation,Mubashir M,,2017-08-16T05:24:57.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,robertoruiz/cv-4thq-based-on-xgboost-lightgbm-and-ols,"CV 4thQ based on XGBoost, LightGBM, and OLS ",RobertoR,,2017-08-07T12:08:05.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,gw00207/catboost-xgboost-lightgbm-and-ols-0-0644060,"CatBoost, XGBoost, LightGBM, and OLS (0.0644060)",geher,,2017-10-24T12:59:24.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,zillow-prize-1
+,,,,,0,hyunhp/simple-xgboost-starter-written-by-anokas,Simple XGBoost Starter (written by anokas),Hyunhp,,2021-10-11T06:11:17.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,mickaelfayeulle/zillow-xgboost-and-hyperparameter-tuning,Zillow - XGBoost and Hyperparameter tuning,Mickael Fayeulle,,2021-04-13T11:07:17.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,thiagoandrade/kernel-zillow,Kernel-Zillow,Thiago Andrade,,2019-07-02T13:22:46.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,iamprateek/using-lightgbm-to-predict-price,using lightgbm to predict price,Prateek Gupta,,2018-01-02T08:43:01.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,umerfarooq807/prediction-model-in-keras,prediction model in keras,Umer Farooq,,2018-07-24T18:29:11.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,aharless/monthly-optimal-fudge-factors-with-bias,Monthly optimal fudge factors with bias,Andy Harless,,2017-10-08T02:31:32.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,abhisheksharma26jan/zillowabhishek,zillowAbhishek,abhisheksharma,,2017-10-05T11:53:59.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,fmfkfd/xgboost-lightgbm-nn-ols,"XGboost,LightGBM,NN,OLS",rallaakhil,,2017-10-04T11:51:52.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,sudhirnl7/zestimate-linear-regression,Zestimate-Linear Regression,Sudhir Kumar,,2020-11-26T17:31:10.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,camnugent/randomforest-for-integration-in-a-mixed-model,RandomForest for integration in a mixed model ,Cam Nugent,,2017-09-08T14:44:10.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,cz920428/zillow-eda,Zillow EDA ,chenzhi ,,2017-08-10T04:14:46.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,stkbailey/penny-u-zillow-optimization,Penny U - Zillow Optimization,Stephen Bailey,,2017-10-19T10:06:58.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,valadi/xgb-with-lgb-w-o-outliers-combo-tune1,XGB w/o outliers & LGB w/o outliers combo-tune1,Jayaraman,,2017-07-09T15:12:13.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,cjansen/xgboost-without-outliers-edited-lb-0-0646300,"XGBoost without outliers, edited [LB 0.0646300]",Charles Jansen,,2017-09-20T18:59:53.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,nathantheshark/simple-nearest-neighbor-regression,Simple Nearest Neighbor Regression,nathantheshark,,2017-05-30T03:04:12.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,sattia/my-first-kernel-on-kaggle,My First Kernel On Kaggle !,Sebastien,,2017-05-26T06:37:59.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,zillow-prize-1
+,,,,,0,hanfuzhao/deepgbm-script,deepgbm_script,hanfu,,2020-01-17T11:46:51.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,pratyushakar/exploratory-analysis-zillow-zestimate,Exploratory Analysis- Zillow (Zestimate),Pratyusha Kar,,2019-01-25T05:23:58.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,loveall/simple-eda-geo-data-time-series,Simple EDA Geo Data & Time Series,Gokagglers ,,2017-11-11T13:44:00.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,aharless/my-solution-part-iii-stacknet,"My Solution, Part III. StackNet",Andy Harless,,2017-10-19T21:16:53.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,aharless/my-solution-part-iv-genetic-programming,"My Solution, Part IV. Genetic Programming",Andy Harless,,2017-10-19T21:49:06.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,danieleewww/genetic-programming-for-2017q4-prediction,Genetic Programming for 2016Q4,danieleewww,,2017-10-06T14:05:47.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,aharless/kamil-kaczmarek-s-lgbm,Kamil Kaczmarek's LGBM,Andy Harless,,2017-10-04T01:36:52.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,rshally/zillow-gbr-feature-importance-analysis,Zillow:  GBR - feature importance analysis,Rudolph,,2017-10-02T23:41:25.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,conorm97/zillow-prize-exploration,Zillow Prize: Exploration ,Conor McEwen,,2017-08-31T14:21:34.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,srini1304/zestimate-firstcut,zestimate_firstcut,Srini,,2017-08-28T17:27:29.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv107-w-month-features,"XGBoost, LightGBM, and OLSv107 w month features  ",danieleewww,,2017-08-31T02:31:18.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,valadi/xgb-w-o-outliers-lgb-with-outliers-combo-tune6,XGB w/o outliers & LGB with outliers combo-tune6,Jayaraman,,2017-07-23T07:05:34.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,tareqalkhatib/lazy-automated-eda,Lazy (Automated) EDA,Tareq,,2017-06-29T18:21:28.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,bamboovir/zillow,zillow,huiming Sun,,2017-06-09T22:03:26.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,kardopaska/zillow-don-t-be-a-dick-just-make-one-file-for-us,Zillow don't be a dick just make one file for us ,KardoPaska,,2017-06-10T08:33:29.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,akilaw/light-gbm-starter,Light GBM Starter,Akila Wajirasena,,2017-06-17T08:00:52.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,thotavvk/zillowhype,ZillowHype,VamsiKrishna,,2017-06-02T09:47:22.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,rahulvks/extratreesregressor-python,ExtraTreesRegressor - Python ,RVK,,2017-05-26T07:36:08.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,cassiomo/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),cassiomo,,2017-05-24T23:33:34.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,zillow-prize-1
+,,,,,0,bazbabar/zillow-scr,zillow.scr,Baz Babar,,2022-01-02T02:49:55.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,dasarimohana/zillow-house-price-prediction-by-dasari-mohana,Zillow_House_Price_Prediction(by Dasari Mohana),dasari_mohana,,2021-11-27T06:38:11.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,hyunhp/xgboost-lightgbm-and-ols-and-nn-by-andy,"XGBoost, LightGBM, and OLS and NN (by ANDY)",Hyunhp,,2021-10-21T12:27:20.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,hyunhp/zillow-eda-on-missing-values-by-vivek,Zillow EDA On Missing Values (By Vivek),Hyunhp,,2021-10-15T13:12:08.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,hyunhp/simple-exploration-notebook-by-srk,Simple Exploration Notebook (by SRK),Hyunhp,,2021-10-10T04:51:16.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,emphymachine/zillow-prize-simple-eda-practice-book,Zillow Prize Simple EDA - Practice Book,Yongdam Kim,,2021-09-08T16:02:46.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,theshikajeyaratnam/graph-masterclass-tj,Graph Masterclass_TJ,theshika jeyaratnam,,2021-05-14T10:12:51.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,arthurtelders/zillow-ml-xgboost,Zillow ML XGBoost,Arthur Telders,,2021-04-12T11:27:36.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,sayyazahmad/zillow-prize-learning,Zillow Prize - Learning,Sayyaz Ahmad,,2021-02-17T13:23:21.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,manodeep/just-another-version-of-zestimate,Just another version of Zestimate,manohar,,2020-09-08T23:32:07.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,rucrazia/rucrazia-s-zillow-korean,Rucrazia's Zillow [korean 한국어],rucrazia,,2019-08-14T06:47:03.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,bilguun0203/zestimate-catboost,Zestimate - CatBoost,Bilguun Ochirbat,,2019-02-11T08:08:46.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,undrallaramesh/fork-of-simple-exploration-notebook-zillow-prize,Fork of Simple Exploration Notebook - Zillow Prize,Ramesh Undralla,,2018-11-28T14:14:10.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,kg5284/eda-zillow-detailed,EDA_Zillow_Detailed,KGopalam,,2018-01-24T16:29:49.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/my-solution-2nd-part-vi-lad,"My Solution (2nd), Part VI. LAD",Andy Harless,,2017-10-20T01:20:43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/my-solution-part-ii-final-xgboost-with-bug,"My Solution, Part II. Final XGBoost, with Bug",Andy Harless,,2017-10-19T15:43:27.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/my-solution-part-i-final-catboost-run,"My Solution, Part I. Final CatBoost Run",Andy Harless,,2017-10-19T14:30:25.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,ssjasper/test-zillow-ver2-0,test Zillow ver2.0,SSJasper,,2017-10-16T07:56:31.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,speculation/zillow,Zillow...,idle_speculation,,2017-10-15T21:42:16.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/quick-and-dirty-lad-model,Quick and Dirty LAD Model,Andy Harless,,2017-10-14T15:02:54.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,marytj/zillow-analysis-random-forest,Zillow Analysis-Random Forest,Marium T,,2017-10-03T21:28:25.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/xgb-w-optimized-q4-cv-fudge-factor,XGB w optimized Q4 CV & fudge factor,Andy Harless,,2017-09-27T17:02:04.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,ss1991/kneighborsregressor-with-dates,KNeighborsRegressor with dates,StephanSchrijver,,2017-09-08T11:51:45.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,darrellulm/genetic-programming-test-run,Genetic Programming Test Run,Darrell Ulm,,2017-08-31T22:09:01.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,bbrandt/using-avg-for-each-landusetypeid-for-prediction,Using avg for each landusetypeID for prediction ,bbrandt,,2018-02-23T23:35:03.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols-tune-1,"XGBoost, LightGBM, and OLS-tune-1",Jayaraman,,2017-07-24T15:04:12.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,qinhui1999/xgboost-lightgbm-and-ols,"XGBoost, LightGBM, and OLS",huiqin,,2017-07-21T02:06:10.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/oleg-s-original-better-baseline,Oleg's Original Better Baseline,Andy Harless,,2017-07-04T16:56:09.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/lightgbm-outliers-remaining-cv,LightGBM outliers remaining CV,Andy Harless,,2017-07-08T15:48:09.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/xgboost-without-outliers-tweak,XGBoost without outliers - tweak,Andy Harless,,2017-07-25T21:21:33.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,aharless/lightgbm-excluding-outliers,LightGBM excluding outliers,Andy Harless,,2017-07-04T02:31:59.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,youngwookkim/trying-lightgbm,Trying LightGBM,ywkim,,2017-06-11T18:20:12.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,isaac7/try-keras,try keras,Isaac,,2017-06-11T05:39:28.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,francescodesimone/data-exploration-first-look,Data Exploration - First Look,Francesco De Simone,,2017-05-29T20:16:18.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,craigwang/zillow-price-starter,Zillow Price Starter,craigw,,2017-10-01T18:48:47.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,robikscube/lets-explore-the-zillow-data,Lets Explore the Zillow Data,Rob Mulla,,2017-05-28T20:29:30.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,tobikaggle/simple-lightgbm,Simple LightGBM ！,DDgg,,2017-05-28T02:47:29.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,bluecocoa/simple-lightgbm-starter-lr-0-00233,Simple LightGBM starter - lr 0.00233,0xBBC,,2017-05-25T19:17:46.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,zillow-prize-1
+,,,,,0,dhartish/zillow-price-linear-regression,zillow_price_linear_regression,Dhartish Khatri,,2021-12-04T10:48:27.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,xiaoxiahao/zillow-eda,zillow_eda,summer5e55,,2021-11-28T10:26:59.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,yurimhwang/zillow-prize-zillow-s-home-value-prediction-yr,Zillow Prize: Zillow’s Home Value Prediction_YR,yurimhwang,,2021-08-12T12:34:17.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,arthurtelders/zillow-ml-lasso,Zillow ML Lasso,Arthur Telders,,2021-04-14T10:25:29.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,marieds/zillow,zillow,marieDS,,2021-04-12T15:26:08.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,arthurtelders/zillow-ml,Zillow ML,Arthur Telders,,2021-04-09T13:02:46.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,jagannathrk/zillow-price-prediction-xgboost,Zillow price prediction-XGBoost ,Kranti Kumar,,2020-03-21T12:27:41.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,binhminhs10/model-castboot,Model CastBoot,BinhMinhs10,,2019-10-10T14:11:52.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,binhminhs10/kernel-xgboost-zillow,kernel XGBoost Zillow,BinhMinhs10,,2019-11-01T01:27:04.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,evazhang43/zillow-xgboost,Zillow_Xgboost,Evazhang,,2019-09-10T15:00:20.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,aharless/my-solution-2nd-part-vii-2nd-xgboost-with-bug,"My Solution (2nd), Part VII. 2nd XGBoost, with bug",Andy Harless,,2017-10-20T01:39:19.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,qiwueyrtp/clean-catboost,Clean Catboost,hyliu,,2017-10-17T05:07:27.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,xxing9703/repetitive-monthly-trend-in-training-data,Repetitive monthly trend in training data,xixi,,2017-10-13T18:08:24.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,yakolle/analyse-the-differences-between-2016-and-2017,Analyse the differences between 2016 and 2017,Yakolle Zhang,,2017-10-05T05:06:13.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,zdwzhang/simple-comparison-between-dataset-2016-and-2017,Simple Comparison between dataset 2016 and 2017,DW Zhang,,2017-10-03T05:20:33.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,rshally/zillow-catboost-with-2017-data,Zillow: catboost with 2017 data,Rudolph,,2017-10-02T23:57:33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,neilnitin/using-xgboost,Using XGBoost,Nitin Nilesh,,2017-10-03T07:32:23.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,neilnitin/my-own-script-zillow,My_own_script_Zillow,Nitin Nilesh,,2017-10-02T08:53:56.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,aharless/lightgbm-4thq-cv-with-cro-magnon-s-features,LightGBM 4thQ CV with Cro-Magnon's features,Andy Harless,,2017-10-01T01:03:09.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,djhavera/fork-of-pipeline-grid-search-rf-starter-code,"Fork of Pipeline, Grid Search, & RF Starter Code",David Havera,,2018-03-09T16:19:32.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,youhouhou/xgboost-lightgbm-ols-nn,XGBoost+LightGBM+OLS+NN,Eric Ma,,2017-10-10T17:33:19.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,aharless/xgboost-using-q4-for-validation-original-retuned,XGBoost using Q4 for validation - original retuned,Andy Harless,,2017-09-27T22:43:11.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,loveall/zillow-features-learning-with-tpot,Zillow Features Learning with TPOT,Gokagglers ,,2017-09-25T06:26:00.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,sifar12/boosted-trees-lb-0-0643707,Boosted Trees LB ~ 0.0643707,Sifar12,,2017-09-26T05:51:35.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,johnoliverjones/bn-solution-with-age-and-tax-lb-0-0651,BN solution with Age and Tax: LB 0.0651,J.Jones,,2017-09-22T16:21:44.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,danieleewww/lightgbm-test-lb-0-064,lightgbm-test (LB~0.064),danieleewww,,2017-09-09T10:55:38.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,rserban/datawitness-zillowprice-01,DataWitness-Zillowprice-01,Radu Serban,,2017-10-27T06:25:34.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,darrellulm/genetic-programming-test-run-2,Genetic Programming Test Run 2,Darrell Ulm,,2017-09-01T02:51:14.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,plarmuseau/exploration,exploration,Paul Larmuseau,,2017-09-02T09:48:38.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,jbcollins4/spatial-autocorrelation-in-zillow-residuals-v1,Spatial Autocorrelation In Zillow Residuals V1,John Collins,,2017-08-26T11:45:21.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols-tunenew,"XGBoost, LightGBM, and OLS-tunenew",Jayaraman,,2017-08-16T15:44:45.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,wangsg/zillow-eda,zillow_EDA,SG Wang,,2017-10-14T07:44:57.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols-tune,"XGBoost, LightGBM, and OLS-tune",Jayaraman,,2017-07-20T13:31:03.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,domcastro/xgb-w-o-outliers-lgb-with-outliers-combined,XGB w/o outliers & LGB with outliers combined,Bluefool,,2017-07-12T18:02:27.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,valadi/xgb-w-o-outliers-lgb-with-outliers-combo-tune4,XGB w/o outliers & LGB with outliers combo-tune4,Jayaraman,,2017-07-09T15:47:15.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,aharless/updated-script-version-of-the1owl-s-basic-ols,Updated script version of the1owl's basic OLS,Andy Harless,,2017-07-03T00:45:03.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,satadru5/zillow-xgb,Zillow XGB,satadru5,,2017-06-21T07:13:26.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,pappukrjha/easy-coding,easy_coding,Pulkit Jha,,2017-06-10T07:32:57.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,ksayantani/starter-script,Starter script,ksayantani,,2017-07-21T08:29:56.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,zhou11/zillow-eda-opportunities-for-feature-engineering,Zillow EDA:  Opportunities for Feature Engineering,zhou,,2017-06-07T04:50:57.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,dkelleher/eda-notebook-for-logerror-outliers,EDA Notebook For Logerror Outliers.,Dan Kelleher,,2017-06-08T02:35:16.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,tunguz/trying-lightgbm-ftw,Trying LightGBM FTW!,Bojan Tunguz,,2017-06-06T20:40:33.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,informprakash/feature-exploration-zillow,feature exploration zillow,prakash,,2017-06-06T11:52:25.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,zyajnokid/lightgbm,lightgbm,zyaj,,2017-06-07T06:41:35.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,yuxuancheng/trying-lightgbm,Trying LightGBM,YuxuanCheng,,2017-06-14T08:29:51.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,youngwookkim/tttyyy,tttyyy,ywkim,,2017-06-04T08:05:30.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,malctaylor15/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,MalcolmT,,2017-06-03T14:18:53.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,medabid/firstry,Firstry,Medabid,,2017-06-01T20:59:33.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,yuqingxue/lightgbm-85-97,LightGBM 85 97,Yuqing Xue,,2017-06-02T14:57:40.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,wendykan/check-if-properties-ids-exist,check if properties ids exist,Wendy Kan,,2017-05-31T04:08:39.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,ducnh1022/srk-vivek-srinivasan-eda,SRK + Vivek Srinivasan EDA,D.N.H.,,2017-05-31T05:26:50.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,thatsrich/zillow-contest-exploration,Zillow Contest Exploration,Richard Humphrey,,2017-05-30T23:03:59.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,timip8/zillow-eda,Zillow - EDA,TimIp,,2017-05-30T20:35:09.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,zhugds/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,pongba,,2017-05-25T13:40:01.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,mbilalshaikh/initial-load-merge-explore-training-data,Initial Load/Merge Explore Training Data,M Bilal Shaikh,,2017-05-25T13:27:58.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,saschneider/fresh-kagglestarter-first-notebook-wohoo,Fresh Kagglestarter first Notebook wohoo,Sebastian Schneider,,2017-05-26T14:44:01.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,darrellulm/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Darrell Ulm,,2017-05-25T03:13:50.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,zillow-prize-1
+,,,,,0,talhasaleem510/zillow-predictions,Zillow Predictions,Talha Saleem510,,2022-06-01T12:12:41.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zulfiqarshah/zillow-zshah,zillow.zshah,Zulfiqar shah,,2022-01-30T12:11:34.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nrk72p/eda-zillow,EDA - Zillow,Narongkorn Atchariyayat,,2021-11-11T00:42:35.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,shayansheikhakbari/zillow,zillow,Shayan Akbari,,2021-10-26T18:59:14.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,asolim/yut-zillow-project-notebook,YUT_zillow project_notebook,asolim,,2021-09-14T03:57:02.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,noey26/modeling-project,Modeling Project,noey26,,2021-09-08T09:49:27.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kimhyelin/zillow-prize-zillow-s-home-value-prediction-hl,Zillow Prize: Zillow's Home Value Prediction - HL,kimhyelin,,2021-08-14T02:20:04.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rachidkarbiche/zillow-ml-models,Zillow ML Models,Rachid Karbiche,,2021-04-14T11:10:46.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dennisstevanus/xgboost-preprocessing,XGBoost & preprocessing,Dennis Stevanus,,2021-04-21T02:37:39.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapelini/notebook4603576ce9,notebook4603576ce9,Kapelini,,2020-11-18T13:02:40.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,deepakk92/notebook211fdc91df,notebook211fdc91df,deepak k92,,2020-08-28T11:28:59.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,soyounghayley/zillow-prize,Zillow Prize_김소영,Soyoung Hayley,,2020-06-29T06:53:22.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,venkatmadhu/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,Venkat Jilla ,,2020-04-23T10:21:28.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,krparekh24/zillow-home-price-prediction,Zillow Home Price Prediction,Krutika Parekh,,2020-04-25T12:06:13.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,coding01000/pytorch-regression-with-sklearn-pipelines,Pytorch regression with sklearn pipelines,coding01000,,2020-03-26T09:51:19.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,soheilhosseini/zillow-prize,Zillow prize,Soheil Hosseini,,2020-04-21T20:51:00.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dhkdn9192/zillow-prize-eda-to-prediction,Zillow Prize - EDA to Prediction,Donghyuk Kim,,2020-03-05T01:49:57.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,wakamezake/simple-lgbm-for-zillow-prize,Simple LGBM for  Zillow Prize,wakame,,2019-11-28T09:45:37.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,wakamezake/deepgbm-experiments-zillow,DeepGBM_experiments_Zillow,wakame,,2019-09-04T09:08:57.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gipark2001/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,Kyung-Ik Park,,2019-08-14T08:51:23.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,shineloveyc/slope-team-zillow,Slope_Team_Zillow,shine YC,,2019-09-06T02:44:06.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kcloop/kernelec654c2464,kernelec654c2464,Kevin Y,,2019-05-20T04:01:01.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xiao1987/data-cleansing-on-zillow-data,Data Cleansing on Zillow Data,Xiao Chen,,2019-04-16T13:31:07.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mailyousufkhan/zillow,Zillow,Yousuf Khan,,2019-03-22T15:49:30.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,randomjosh/w207-finalproject-jkc-v2,W207_FinalProject_JKC_V2,random,,2018-12-17T22:26:10.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tjbhdata/zillow-simple-modeling,Zillow_simple_modeling,megsub,,2018-10-25T15:18:52.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tjbhdata/zillow-exploratory-data,Zillow exploratory data,megsub,,2018-10-25T14:07:16.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,omorillo/wrangling-of-submission-samples-data,Wrangling of submission samples data,omovi,,2018-09-03T20:59:50.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jihyeseo/home-value-predict-regression,home value predict regression,Jihye Sofia Seo,,2018-05-08T18:01:03.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,maizespark/categorization-and-lightgbm-0-0657,Categorization and lightGBM 0.0657,Sean Park,,2018-05-14T00:42:05.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,amoghv/random-forest-regressor,Random forest Regressor,Amogh,,2018-05-02T14:45:43.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,cpvirani/draft-random,Draft_Random,CPVirani,,2018-05-02T14:07:09.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vishwassr/zillow-keras-cnn,Zillow_Keras_CNN,Vishwas SR,,2018-05-02T04:11:23.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,robertcowell/eda-zs,eda_zs,Robert Cowell,,2018-04-17T22:27:39.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rchitic17/ziller-logerror-estimation,ziller logerror estimation,RalucaChitic,,2018-05-17T10:27:20.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dhkdn9192/fork-of-zillow-prize-by-dhkim,Fork of Zillow Prize by dhkim,Donghyuk Kim,,2018-02-22T08:32:44.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,voxels/simple-exploration-notebook-zillow-prize-95625a,Simple Exploration Notebook - Zillow Prize 95625a,Ram Singh,,2018-02-10T18:11:41.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kavuri/simple-lightgbm-starter-lb-0-06487-680538,Simple LightGBM starter. LB 0.06487 680538,Vamsi,,2018-03-08T05:01:14.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yanan95/zillow-ml-hw3,Zillow ML HW3,yanan,,2018-01-27T01:33:11.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,charvi/zillow-home-value-prediction,Zillow Home Value Prediction,Charvi Agarwal,,2018-01-19T03:02:22.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nmucia/first,first,Nicholas Mucia,,2017-12-06T22:38:58.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mughairhu/new-r,Notebookb246e64ddb,MUGHHU,,2017-12-03T17:12:05.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mughairhu/new-mugh,new mugh,MUGHHU,,2017-12-03T17:05:53.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ohrcou/script-review,Script_Review,Courtney Ohr,,2017-11-27T17:19:41.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yuqingxue/concise-catboost-starter-ensemble-plb-0-06435,Concise catboost starter ensemble (PLB: 0.06435),Yuqing Xue,,2017-11-19T00:19:59.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nathanzhang3/zillow-home-value-prediction,Zillow Home Value Prediction,Nathan Zhang,,2017-11-14T21:10:20.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kg5284/zillow-prediction,Zillow - Prediction,KGopalam,,2018-01-10T03:27:46.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,loveall/only-cat-boost-lb-0-0641-939,Only_Cat boost (LB : 0.0641 939),Gokagglers ,,2017-11-04T06:01:53.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,odonnell31/xgboost-starter,XGBoost Starter,Michael ODonnell,,2018-07-02T19:31:21.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,andyle/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Andy Le,,2017-10-25T10:13:43.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,darrellulm/python-starter-yet-another-test,"Python Starter, yet another Test",Darrell Ulm,,2017-10-21T17:25:41.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,loveall/test-zillow-ver2-0,test Zillow ver2.0,Gokagglers ,,2017-10-18T23:12:45.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ssjasper/notebook0316003076,Notebook0316003076,SSJasper,,2017-10-16T03:43:20.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ppandcc/notebooka8f2886ffb,Notebooka8f2886ffb,PP&CC,,2017-10-19T14:45:24.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,hlo415/testing-2,testing 2,HubertLo,,2017-10-17T23:12:00.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pipaliarahul9/zillow-dataset-ids594-v2,Zillow_dataset_IDS594_V2,Rahul Pipalia,,2017-10-11T00:32:47.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ahbon888/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,Ah bon,,2017-10-10T14:00:48.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,hlo415/zillow-dataset-ids594-v2,Zillow_dataset_IDS594_V2,HubertLo,,2017-10-11T22:11:38.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zippogo/notebook6bb0e8f079,Notebook6bb0e8f079,zippo_forever,,2017-11-02T02:12:59.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tvscitechtalk/zillow-test-1,Zillow TEST 1,tvscitechtalk,,2017-10-13T02:52:46.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sangnaidarshan22/xgboost-2017-py,XGBoost_2017.py,Darshan Sangani,,2017-10-05T00:17:41.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,and1oneluv/xgboost-lightgbm-and-ols-and-nn,"XGBoost, LightGBM, and OLS and NN",Andrew,,2017-10-10T16:37:10.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/quick-try-fit-xgb-on-2016-validate-on-2017,Quick try: fit XGB on 2016 & validate on 2017,Andy Harless,,2017-10-03T02:43:07.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,akshaykumarvikram/zillow-prize-exploratory-analysis-and-ml,Zillow Prize - Exploratory Analysis and ML,Akshay Kumar Vikram,,2017-10-21T01:29:40.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sraone96/xgboost-lightgbm-nn-ols,"XGboost,LightGBM,NN,OLS",sravan,,2017-10-02T16:41:19.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nooberson/keras-nn-with-q4-validation,Keras NN with Q4 validation,Vamsi Krishna Devabathula,,2017-10-02T04:55:22.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zakuka/dataframe-memory-use-reduction,DataFrame memory use reduction,ZakukaZ,,2017-10-02T04:47:11.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vidhyainkaggle/fill-missing-data,Fill Missing Data,vidhyamadhavi,,2017-10-03T10:39:30.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,marskar/random-forest-and-xgboost-feature-determination,Random Forest and XGBoost Feature Determination,Martin Skarzynski,,2017-10-25T06:02:22.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fernandoramacciotti/correlations,Correlations,Fernando Ramacciotti,,2017-09-29T19:42:44.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,iamprakashom/beginner-xgboost,Beginner - Xgboost,Om Prakash,,2017-09-27T14:27:09.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,wanqwang/random-forest-decision-tree,Random Forest & Decision Tree,WanqiWang,,2017-11-12T23:50:26.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zhaoyucai/lck-3,LCK - 3,CaiZhaoyu,,2017-09-27T02:47:51.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aashaysinghal/starter-code,Starter code,Aashay Singhal,,2017-09-21T15:08:48.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kosiew/zillow-grid-search-cv-light-gbm-201709,zillow_grid_search_cv_light_gbm_201709,SiewKamOnn,,2017-09-21T15:57:04.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,padruig/xgboost-lightgbm-and-ols-and-nn,"XGBoost, LightGBM, and OLS and NN",Padruig,,2017-09-21T04:34:23.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,loveall/cv-4thq-based-on-xgboost-lightgbm-and-ols-go,"CV 4thQ based on XGBoost, LightGBM, and OLS_Go",Gokagglers ,,2017-09-20T07:05:49.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,padruig/zestimates,Zestimates !,Padruig,,2017-09-19T02:54:29.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/keras-nn-with-q4-cv,Keras NN with Q4 CV,Andy Harless,,2017-09-19T18:39:52.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,eaturner/simple-residual-network-implementation,Simple Residual Network Implementation,Edward Turner,,2017-12-27T03:13:50.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,saivarunk/eda-on-zillow-pricing-prediction,EDA on Zillow Pricing Prediction,Varun Kruthiventi,,2017-09-16T12:40:19.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,bravewolf/simple-xgboost-starter1-0-0655,Simple XGBoost Starter1 (~0.0655),TruongThinh,,2017-09-20T21:31:27.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,recurver/datawitness-zillowprice-01,DataWitness-Zillowprice-01,Mitchell Boer,,2017-09-06T15:10:19.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pranjalyadav/first-kernel-on-kaggle-trying-deep-learning,First Kernel on Kaggle - Trying Deep Learning ,PranY,,2017-09-05T07:14:08.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,conorm97/zillow-prize-xgboost-with-additional-features,Zillow Prize: XGBoost with Additional Features,Conor McEwen,,2018-09-24T22:38:12.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/creating-additional-features-8a8c66,Creating Additional Features 8a8c66,danieleewww,,2017-08-30T02:28:33.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/creating-additional-features,Creating Additional Features,danieleewww,,2017-08-30T02:24:23.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,manishrai/pca-gbrt,PCA & GBRT¶,ManishRai,,2017-08-28T16:59:48.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/cv-4thq-based-on-xgboost-lightgbm-and-ols-2,"CV 4thQ based on XGBoost, LightGBM, and OLS #2",danieleewww,,2017-08-25T01:37:01.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/cv-4thq-based-on-xgboost-lightgbm-and-ols-1,"CV 4thQ based on XGBoost, LightGBM, and OLS#1",danieleewww,,2017-08-22T04:03:50.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gauravdhama11/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Gaurav Dhama,,2017-08-20T23:42:41.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sociopath00/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Akshay Nevrekar,,2017-08-19T15:25:32.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vrathee/abcbdefg,abcbdefg,vrathee,,2017-08-18T19:18:29.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zaverichintan/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Chintan Zaveri,,2017-08-18T07:38:48.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,abrown004/zillow-xgboost-classifier,Zillow XGBoost Classifier,Andrea,,2017-08-19T18:31:22.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fulldecent/show-geography,Show geography,William Entriken,,2017-08-15T20:44:23.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mikedelong/zillow-ensemble-of-regressors-0-065-71b51d,"Zillow, Ensemble of regressors 0.065... 71b51d",Mike DeLong,,2017-08-15T17:31:09.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zxcvasdfqwer/forked-boosted-scripted,Forked Boosted Scripted,Rambo,,2017-08-14T16:45:46.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jypucca/zillow-data-visualization,Zillow data visualization,JennyYu,,2017-08-10T20:08:43.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/ann-using-keras,ANN using keras,danieleewww,,2017-08-09T01:42:43.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/cleaning-210c58,Cleaning 210c58,danieleewww,,2017-08-09T04:22:18.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/cleaning,Cleaning,danieleewww,,2017-08-09T01:17:56.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols-tunenew1,"XGBoost, LightGBM, and OLS-tunenew1",Jayaraman,,2017-08-08T09:33:31.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,prasunmishra/fork-of-parameter-tuning-for-xgboost-sklearn,Fork of Parameter tuning for XGBoost (sklearn),PrasunMishra,,2017-08-06T18:13:25.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,prasunmishra/parameter-tuning-for-xgboost-sklearn,Parameter tuning for XGBoost (sklearn),PrasunMishra,,2017-08-06T18:19:39.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols-change,"XGBoost, LightGBM, and OLS-change",Jayaraman,,2017-08-06T08:07:18.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,olgabelitskaya/zillow-s-home-value-prediction-zestimate,Zillow’s Home Value Prediction (Zestimate),Olga Belitskaya,,2020-04-16T21:43:33.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-without-outliers-edited-lb-0-0646300,"XGBoost without outliers, edited [LB 0.0646300]",Jayaraman,,2017-08-05T15:00:17.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv98,"XGBoost, LightGBM, and OLSv98",danieleewww,,2017-08-05T03:05:02.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols,"XGBoost, LightGBM, and OLS",Jayaraman,,2017-08-04T05:28:03.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv96,"XGBoost, LightGBM, and OLSv96",danieleewww,,2017-08-04T03:34:58.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv95,"XGBoost, LightGBM, and OLSv95",danieleewww,,2017-08-04T02:49:28.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv66,"XGBoost, LightGBM, and OLSv66",danieleewww,,2017-07-29T06:34:58.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,changlan/exploratory-analysis,Exploratory Analysis,Chang Lan,,2017-08-02T22:30:58.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv37,"XGBoost, LightGBM, and OLSv37",danieleewww,,2017-07-29T02:33:47.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv38-drop-zv-features,"XGBoost, LightGBM, and OLSv38 drop ZV features",danieleewww,,2017-07-25T02:32:22.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-ols-tunee,"XGBoost, LightGBM, and OLS-tunee",Jayaraman,,2017-07-23T16:38:45.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgb-w-o-outliers-lgb-with-ocombined-tune,XGB w/o outliers & LGB with ocombined-tune,Jayaraman,,2017-07-23T16:46:11.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,shahpriyank9/with-linearregression-without-outliers,With LinearRegression without outliers,Priyank Shah,,2017-08-06T16:46:12.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,olzhas23/xgboost-lightgbm-and-ols,"XGBoost, LightGBM, and OLS",OlzhasShaikenov,,2017-07-21T16:11:36.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kay2mj/simple-xgboost-random-forest-extra-tree,"Simple xgboost, random forest, extra tree",USKay,,2017-07-20T19:57:50.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-lightgbm-and-olsv21,"XGBoost, LightGBM, and OLSv21",Jayaraman,,2017-07-20T02:54:58.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-olsv21,"XGBoost, LightGBM, and OLSv21",danieleewww,,2017-07-20T00:29:47.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-ols-1,"XGBoost, LightGBM, and OLS-1",danieleewww,,2017-07-19T01:24:12.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgboost-lightgbm-and-ols,"XGBoost, LightGBM, and OLS",danieleewww,,2017-07-18T23:17:36.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combo-tune6,XGB w/o outliers & LGB with outliers combo-tune6,danieleewww,,2017-07-18T03:16:10.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/andyharless-v60-drop-zv-for-both-models,AndyHarless_v60_drop ZV for both models,danieleewww,,2017-07-18T23:44:05.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,athasal/zillow-first-introductory-script,Zillow - First introductory script,Athanasios Salamanis,,2017-07-17T09:17:32.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,domcastro/xgb-w-o-outliers-lgb-with-outliers-combo-tune5,XGB w/o outliers & LGB with outliers combo-tune5,Bluefool,,2017-07-16T22:26:35.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combined4,XGB w/o outliers & LGB with outliers combined4,danieleewww,,2017-07-15T01:05:10.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combo-tune5,XGB w/o outliers & LGB with outliers combo-tune5,danieleewww,,2017-07-15T00:47:55.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combined-3,XGB w/o outliers & LGB with outliers combined 3,danieleewww,,2017-07-14T01:32:58.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combined2,XGB w/o outliers & LGB with outliers combined2,danieleewww,,2017-07-13T22:22:01.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgb-w-o-outliers-lgb-with-outliers-combine,XGB w/o outliers & LGB with outliers combine,Jayaraman,,2017-07-13T16:26:27.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combined-1,XGB w/o outliers & LGB with outliers combined 1,danieleewww,,2017-07-13T23:42:47.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/combo-v52-same-code-different-result,"combo v52: same code, different result",Andy Harless,,2017-07-13T00:13:59.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,alitny/initial-xgboost,initial xgboost,alitny,,2017-07-11T16:47:31.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rochachan/zillow-eda-opportunities-for-feature-engineering,Zillow EDA:  Opportunities for Feature Engineering,rocha,,2017-07-12T22:47:36.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vishwa23/drop-columns,drop columns,conqueror,,2017-07-11T09:58:15.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rapriyesid/zestimate-starter-from-a-noob-s-perspective,Zestimate Starter from a Noob's Perspective,NoobSlayer,,2017-07-10T08:12:04.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aevinq/notebookc24837a998,Notebookc24837a998,GauravK,,2017-07-08T22:20:19.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/lightgbm-excluding-outliers,LightGBM excluding outliers,Jayaraman,,2017-07-09T04:23:42.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgb-w-o-outliers-lgb-with-outliers-combo-tune3,XGB w/o outliers & LGB with outliers combo-tune3,Jayaraman,,2017-07-07T15:57:05.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,impressor/zillow-prize-zillow-s-home-value-prediction,Zillow Prize: Zillow's Home Value Prediction,SeongHyeonKim,,2017-07-09T11:37:19.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combo-tune1,XGB w/o outliers & LGB with outliers combo-tune1,danieleewww,,2017-07-09T04:41:37.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/lightgbm-baseline-for-combo,LightGBM baseline for combo,Andy Harless,,2017-07-12T18:58:03.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,akshay10/zillow-v3,Zillow V3,Akshay Bhatia,,2017-07-07T04:53:10.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,myacoubi/cleaning,Cleaning,MEHDI YACOUBI,,2017-07-04T21:57:19.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/xgb-w-o-outliers-lgb-with-outliers-combined,XGB w/o outliers & LGB with outliers combined,danieleewww,,2017-07-04T13:56:53.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgb-w-o-outliers-lgb-with-outliers-combined-tune,XGB w/o outliers & LGB with outliers combined-tune,Jayaraman,,2017-07-06T14:31:09.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-without-outliers-tweak-tuneagain,XGBoost without outliers - tweak-tuneagain,Jayaraman,,2017-07-13T14:57:48.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sachinvy/zillow-prediction,Zillow prediction,sachinvyas,,2017-07-04T10:12:26.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-without-outliers-tweak-tune,XGBoost without outliers - tweak-tune,Jayaraman,,2017-07-03T16:09:55.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/lightgbm-with-outliers-remaining,LightGBM with outliers remaining,Andy Harless,,2017-07-09T04:10:19.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-without-outliers-tune3,XGBoost without outliers-tune3,Jayaraman,,2017-07-02T16:25:39.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-without-outliers-tune,XGBoost without outliers-tune,Jayaraman,,2017-07-01T10:56:12.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/xgboost-without-outliers-lb-0-06463,XGBoost without outliers ( LB ~ 0.06463 ),Jayaraman,,2017-07-09T13:52:34.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dataer/eda-prelim,EDA prelim,KrishnaprabhaChari,,2017-06-29T08:58:00.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gillesa/zillow-eda-on-missing-values-multicollinearity,Zillow EDA On Missing Values & Multicollinearity,gillesa,,2017-06-26T09:31:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,laoma023012/ml-ensemble-scikit-learn-style-ensemble-learning,ML-Ensemble: Scikit-learn style ensemble learning ,Mark,,2017-06-26T08:53:47.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lujing/slightly-tuned-xgboost-starter-0-0649,Slightly tuned XGBoost Starter (~0.0649),Jing Lu,,2017-06-26T21:45:04.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,soumyajitdas/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),dunzanburren,,2017-06-23T13:50:53.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,thornhale/data-exploration-visualizations-experiments,Data Exploration & Visualizations Experiments,Anh-HuyLe,,2017-06-22T15:25:36.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,thornhale/data-exploration-experiment-w-graphing-packages,Data Exploration & Experiment w/ Graphing Packages,Anh-HuyLe,,2017-06-25T02:57:22.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mikekosk/feature-ranking-w-randomforest-rfe-linear-models,"Feature Ranking w RandomForest, RFE, linear models",MikeKosk,,2017-06-21T18:42:31.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,maheshak04/zillow-price-20062017-eda,Zillow Price 20062017 EDA,Mahesh Kulkarni,,2017-06-20T06:23:23.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mikekosk/anokas-xgb-starter-walkthrough,Anokas XGB Starter Walkthrough,MikeKosk,,2017-06-19T19:48:09.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,baleal/baleal-on-zpe,Baleal on ZPE,Baleal,,2017-08-11T19:07:39.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/light-gbm-starter-mod1,Light GBM Starter-mod1,Jayaraman,,2017-06-17T16:27:15.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/trying-lightgbm-vkj-mod,Trying LightGBM-VKJ-MOD,Jayaraman,,2017-06-17T14:58:39.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,klubow/fireplace,Fireplace,klubow,,2017-06-17T08:22:10.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jbcollins4/empty-notebook,Empty Notebook,John Collins,,2017-08-26T11:33:03.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,syednasar/xg-boost-starter-zillow,XG-Boost Starter - Zillow,"Nasar, Syed",,2017-06-15T17:36:07.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,midinas/zillow-eda-on-missing-values-multicollinearity,Zillow EDA On Missing Values & Multicollinearity,midin,,2017-06-15T03:39:51.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,infinitewing/all-0-010816-benchmark-0-0651246,All 0.010816 Benchmark (~0.0651246),InfiniteWing,,2017-06-14T07:54:25.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lizhili/another-trying-lightgbm,Another Trying LightGBM,lzl,,2017-06-20T06:57:30.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,saurabh2086/notebook8f4dde5087,Notebook8f4dde5087,saurabh2086,,2017-06-12T09:43:34.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mi233dzc/zillow-starter,Zillow Starter,candyriver,,2017-06-12T06:08:55.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,florandomforest/zexploration-of-all-58-features,Zexploration of all 58 features,FloranDomForest,,2017-06-11T13:46:55.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vanausloos/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Xavier Van Ausloos,,2017-06-10T19:55:10.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,asafhanish/zillow-label-analysis,Zillow label analysis,Asaf Hanish,,2017-06-10T18:15:38.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yuganghu/housing-data-exploration,Housing Data Exploration,YugangHu,,2017-06-09T17:43:28.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,doradreams/notebookfec80c0ee5,Notebookfec80c0ee5,Chao Hu,,2017-06-09T01:19:01.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nikitabu/notebook786ca83d0b,Notebook786ca83d0b,Nikita Butakov,,2017-06-09T17:21:18.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,anirudhk/bvbncncgcnchv,bvbncncgcnchv,Anirudh K,,2017-06-08T21:49:57.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,opanichev/lightgbm,LightGBM,Oleg Panichev,,2017-06-12T02:39:32.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,syednasar/z-archived-eda-notebook-zillow,Z_ARCHIVED - EDA Notebook - Zillow,"Nasar, Syed",,2017-06-15T17:10:14.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vaibhavdixit02/notebook396b271c71,Notebook396b271c71,VaibhavDixit,,2017-06-08T13:51:45.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,shauryashubham/eda-with-python,EDA with Python,shaurya,,2017-06-08T13:33:38.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,bennie/tests,tests,Bennie,,2017-06-08T13:37:07.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gurukatagi/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,guru,,2017-06-08T11:13:37.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapil0187/zillow-zestimate-study,Zillow_Zestimate_Study,Kapil Sharma,,2017-06-08T04:11:01.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jamescarrillo/real-estate-side-gig,Real Estate Side Gig,Legion of Jim,,2017-06-08T01:50:43.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kuangweizhang/notebookbada68712e,Notebookbada68712e,Kevin Zhang,,2017-06-08T01:21:37.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,abrown004/select-k-best-features,Select K Best Features,Andrea,,2017-07-22T16:50:54.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pafrantz/trying-lightgbm-test2,Trying LightGBM test2,PedroFrantz,,2017-06-08T21:58:36.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,anirudhk/dawddadwa,dAWddaDWA,Anirudh K,,2017-06-07T22:49:28.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sorenravn/trying-lightgbm-ftw,Trying LightGBM FTW!, sravn,,2017-06-08T08:21:52.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,evanwang1028/trying-lightgbm,Trying LightGBM~~,W. Yifan,,2017-06-08T00:12:20.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,heavenduke/starter-script,Starter Script,HeavenDuke,,2017-06-07T15:27:17.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,busrafenerci/alisma,Çalisma,Buşra Fenerci,,2017-06-14T05:59:40.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gweijie/trying-lightgbm-ftw,Trying LightGBM FTW!,Erik Gao,,2017-06-07T07:49:49.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,marcboettinger/070620172,070620172,Marc Boettinger,,2017-06-07T06:55:06.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kruan8/notebook706b560f0f,Notebook706b560f0f,KaixiRuan,,2017-06-08T01:26:17.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pafrantz/notebookf3768f8220,Notebookf3768f8220,PedroFrantz,,2017-06-07T00:19:01.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,davidfumo/light-gbm-starter,Light GBM Starter,Ragnar,,2017-06-25T02:30:10.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,davidfumo/lgb-starter-forked,lgb starter forked,Ragnar,,2017-06-08T17:20:17.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rvanga/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,rajesh,,2017-06-06T21:24:56.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapilnandwana/trying-lightgbm,Trying LightGBM,Kapil Nandwana,,2017-06-16T19:10:21.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chattob/notebook18e38b4c7d,Notebook18e38b4c7d,chattob,,2017-06-10T13:03:35.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zhou11/eda-1,EDA#1,zhou,,2017-06-06T14:40:47.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,joncle/notebook393941fc56,Notebook393941fc56,Joncle,,2017-06-06T12:28:04.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,satadru5/notebook8a7b06b29b,Notebook8a7b06b29b,satadru5,,2017-06-06T11:23:54.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,asafhanish/notebook02537e8526,Notebook02537e8526,Asaf Hanish,,2017-06-10T17:46:25.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,miketravis/notebook2dd99a83fe,Notebook2dd99a83fe,Mike Travis,,2017-06-06T02:44:32.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,asafhanish/exploring-zillow-data-and-labels,Exploring Zillow data and labels,Asaf Hanish,,2017-06-06T02:36:05.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xscripter/lgbm-test-01,LGBM-Test-01,Ralph Neumann,,2017-06-06T00:29:34.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,cfriel/tttyyy,tttyyy,Christopher Friel,,2017-06-06T00:03:57.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pafrantz/simple-lightgbm-starter,Simple LightGBM starter. ,PedroFrantz,,2017-06-06T08:47:46.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yangjliu/datatest,DataTest,Yang Liu,,2017-06-08T03:40:43.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zyajnokid/notebookd71eba3fc3,Notebook253bc5d9d3,zyaj,,2017-06-05T20:39:06.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/xgb-sub10,xgb_sub10,Shize Su,,2017-06-05T15:17:14.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/xgb-sub9,xgb_sub9,Shize Su,,2017-06-05T15:12:04.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/xgb-sub8,xgb_sub8,Shize Su,,2017-06-05T15:07:01.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/lightgbm-7,LightGBM_7,Shize Su,,2017-06-05T14:53:01.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/xgb-sub5,xgb_sub5,Shize Su,,2017-06-05T14:22:22.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/xgb-sub4,xgb_sub4,Shize Su,,2017-06-05T14:16:23.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sushize/trying-lightgbm,Trying LightGBM,Shize Su,,2017-06-12T15:03:08.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ishaanv/notebook27aa9d6b9e,Notebook27aa9d6b9e,ishaan,,2017-06-05T12:20:44.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,brambram/notebooka138bc7c46,Notebooka138bc7c46,Nikolaj,,2017-06-05T11:15:05.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,brambram/zestimate,Zestimate,Nikolaj,,2017-06-25T17:28:28.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,guluguluru/notebookfe02e99270,Notebookfe02e99270,Maple Liu,,2017-06-05T10:46:19.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,haritha96/notebook0ac2f9e581,Notebook0ac2f9e581,Haritha Elango,,2017-06-05T09:57:39.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,emilkayumov/notebook86f494163f,Notebook86f494163f,Emil Kayumov,,2017-06-05T08:40:46.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zyajnokid/notebookc9c0e0ae0d,Notebookc9c0e0ae0d,zyaj,,2017-06-05T07:05:27.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ucfilho/neural-network-first,neural_network_first,UCFilho,,2017-06-05T04:47:12.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fmassoud/my-lightgbm,MY_LightGBM,FahadMassoud,,2017-06-04T23:44:48.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sunbydw/zillow-py,zillow.py,flatcat,,2017-06-04T23:08:51.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,saeedt2977/tttyyy,tttyyy,SaeedAzarshab,,2017-06-04T09:47:28.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,guoshi28/notebookfb4eb407d5,Notebookfb4eb407d5,GuoShi,,2017-06-04T06:06:04.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,guoshi28/notebook35b00ac985,Notebook35b00ac985,GuoShi,,2017-06-04T06:05:09.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,guoshi28/notebookc77ee05d3d,Notebookc77ee05d3d,GuoShi,,2017-06-04T06:02:40.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,murphyc/notebooka5234e20c2,Notebooka5234e20c2,Manohar Chidambaram,,2017-06-04T04:42:50.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xvliuhot/ziltest,ziltest,VictorLiu,,2017-08-09T17:48:00.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dkeitel/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,dkdk,,2017-06-04T01:54:32.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zyajnokid/notebook282b244eb4,Notebook282b244eb4,zyaj,,2017-06-04T01:05:55.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nomadshark/trying-lightgbm,Trying LightGBM,N/A,,2017-06-04T00:50:39.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nomadshark/test-script,test script,N/A,,2017-06-04T00:46:53.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nomadshark/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),N/A,,2017-06-04T00:18:56.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,puzzler10/python-away,python away ,Tom Roth,,2017-06-03T23:38:18.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,elpidiofilho/tttyyy,tttyyy,elpidiofilho,,2017-06-04T22:30:06.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,elpidiofilho/simple-lightgbm-starter-lb-0-06487-22,Simple LightGBM starter. LB 0.06487 22,elpidiofilho,,2017-06-03T22:34:40.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xvliuhot/notebookccaa700f06,Notebookccaa700f06,VictorLiu,,2017-06-03T16:41:32.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pratiksen/base-line-model-for-zillow-dataset,base line model for Zillow dataset,Monolith,,2017-06-03T18:20:40.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lauseaun/notebook50c52253cd,Notebook50c52253cd,Seaun,,2017-06-13T12:09:41.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rosettast/notebookb9c826d632,Notebookb9c826d632,XinNie,,2017-06-03T13:02:24.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/tttyyy,tttyyy,Jayaraman,,2017-06-04T04:14:48.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,wmmthu/test-analysis,test analysis,Mengmeng Wu,,2017-06-02T23:31:18.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nikitabu/lightgbm,LightGBM,Nikita Butakov,,2017-06-02T22:21:04.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,elpidiofilho/lightgbm-85-96,LightGBM 85 96,elpidiofilho,,2017-06-03T00:19:24.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xevaquor/xdddddd,xdddddd,Mateusz Bednarski,,2017-06-02T13:41:31.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,alexhecn/simple-xgboost-after-paras,simple Xgboost after paras,AlexHe,,2017-06-17T06:48:27.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,guinny/notebook7dbdb5f1c2,Notebook7dbdb5f1c2,Guinny,,2017-06-02T06:01:39.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zyajnokid/notebook7d4fac1b9c,Notebook7d4fac1b9c,zyaj,,2017-06-02T04:26:17.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sjfcannon/zillowscratchwork,ZillowScratchwork,sjfcannon,,2017-06-19T06:28:21.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jstoppa/zillow-analysis,Zillow Analysis,Juancho,,2017-06-24T21:47:13.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,carloshuertas/letsoverfit,LetsOverfit,NxGTR,,2017-06-01T23:23:54.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,akkuluriv/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,VenkateshAkkuluri,,2017-06-01T21:56:27.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xcz011/trying-lightgbm,Trying LightGBM,xcz011,,2017-06-26T14:18:33.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,busrafenerci/notebook4007a1ea1b,Notebook4007a1ea1b,Buşra Fenerci,,2017-06-07T11:00:44.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rabaman/data-eval,data eval,Raba,,2017-06-03T18:08:13.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,raviannaswamy/lightgbm-as-notebook,LightGBM as Notebook,Ravi Annaswamy,,2017-06-01T17:25:35.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vinsvins/notebook951859552b,Notebook951859552b,VinayS,,2017-06-01T08:52:38.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xenomorph/notebook555830e1ee,Notebook555830e1ee,Xen.m.rph,,2017-06-01T07:58:35.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chendongnz/myfirst,myfirst,chen dong,,2017-06-13T23:22:39.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,willse2002/notebook96774a0f58,Notebook96774a0f58,MaxImuS,,2017-06-01T06:04:59.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ucfilho/zillow-understanding-dataset,Zillow_understanding_dataset,UCFilho,,2017-06-01T05:46:32.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,heyujia/notebook50212be2ef,Notebook50212be2ef,hexin,,2017-06-01T04:32:19.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,awantik/notebook3a4d2cb1e3,Notebook3a4d2cb1e3,AwantikDas,,2017-06-01T03:30:22.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,awantik/notebook467922bb4a,Notebook467922bb4a,AwantikDas,,2017-06-01T03:29:58.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,felixguo/notebook3fe4ae9974,Notebook3fe4ae9974,Felix Guo,,2017-06-01T20:31:18.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,newhighscore/zillow-data-exploration-v1,Zillow Data Exploration v1,newhighscore,,2017-06-12T00:34:01.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,cleoandczar/my-zillow-challenge,My Zillow challenge,This Will Be Easy,,2017-06-01T01:10:54.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,michelj/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),MichelJ,,2017-06-05T13:48:52.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,felixguo/ml-ensemble-scikit-learn-style-ensemble-learning,ML-Ensemble: Scikit-learn style ensemble learning ,Felix Guo,,2017-06-01T02:49:07.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jpelham927/jays-test-kernel,Jays Test kernel,James Pelham,,2017-09-25T12:45:33.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,benhamner/notebookc19e93a3d5,Notebookc19e93a3d5,Ben Hamner,,2017-05-31T18:06:30.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jplatts/clean-data,Clean_Data,JordanPlatts,,2017-05-31T16:26:11.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,carloshuertas/novalid,NoValid,NxGTR,,2017-05-31T14:24:36.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,carloshuertas/lgbm-diff,Lgbm diff,NxGTR,,2017-05-31T14:10:20.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapilnandwana/knan-zillow-v12,Knan Zillow V12,Kapil Nandwana,,2017-05-31T14:53:01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapilnandwana/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Kapil Nandwana,,2017-05-31T13:11:10.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ckaz02/notebook248938c63c,Notebook248938c63c,Connor Kazmierczak,,2017-05-31T11:48:32.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,douglasbear/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,DouglasBear,,2017-05-31T09:19:58.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,courivar/first-ml-with-xgb,First ML with XGB,Raphaël Courivaud,,2017-05-31T09:28:36.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,paolof89/notebookeceec98a5f,Notebookeceec98a5f,Paolo Finardi,,2017-05-31T13:08:41.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lesibius/zillow-discovery,Zillow Discovery,Clem Castellano,,2017-05-31T08:15:02.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaac7/first-try,first try,Isaac,,2017-06-04T07:23:09.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chenqiankm/zilow-data-exploration,Zilow-Data Exploration,ChenQian,,2017-06-01T08:36:20.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,evertonsilva/first-gbm-v-01,First GBM - V.01,Everton Silva,,2017-05-31T04:50:10.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaac7/notebookdf12ad6880,Notebookdf12ad6880,Isaac,,2017-05-31T05:44:55.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lokeshchandra/zillow1,Zillow1,LokeshChandra,,2017-05-31T03:17:29.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rimunoz/rm-zillow-py,RM_Zillow_Py,Rimunoz,,2017-05-31T02:45:43.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sebask/notebook38457a02b6,Notebook38457a02b6,SebasK,,2017-05-30T23:47:57.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,timip8/notebookdf5b9fa5db,Notebook5e1047fa8d,TimIp,,2017-05-30T21:51:21.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jangerhofer/notebook6d5e553f05,Notebook6d5e553f05,JD Angerhofer,,2017-05-30T17:37:51.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xcz011/notebook967ea1f8c2,Notebook967ea1f8c2,xcz011,,2017-05-30T19:14:20.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xcz011/lightggb-gridsearch,LightGgb gridsearch,xcz011,,2017-05-31T13:46:58.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rickywu/statistics-homework-editing,Statistics homework (Editing),rickywu,,2017-06-16T01:53:21.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xcz011/notebookeb18647b86,Notebookeb18647b86,xcz011,,2017-05-30T15:40:07.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapilnandwana/knan-v10,Knan V10,Kapil Nandwana,,2017-05-30T14:40:25.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,slamnz/zillow-scrapbook,Zillow Scrapbook,Sunny Lam,,2017-07-03T02:11:57.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,benmillerdata/notebookcce4961843,Notebookcce4961843,Benjamin Miller,,2017-05-30T12:19:21.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chendongnz/notebookf6872289df,Notebookf6872289df,chen dong,,2017-05-30T09:21:15.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ayushmandey/notebook9bf54c7824,Notebook9bf54c7824,AyushmanDey,,2017-05-30T06:19:31.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaac7/notebook07395b93c0,Notebook07395b93c0,Isaac,,2017-06-03T05:59:07.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaac7/notebook67de7161e4,Notebook67de7161e4,Isaac,,2017-05-31T07:42:36.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nathansparks/zillow-home-predition,Zillow Home Predition,Nathan,,2017-05-29T23:52:49.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,millerintllc/simple-lightgbm-4,Simple LightGBM 4！,Jason Miller,,2017-05-29T22:52:32.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rounakmehta/zillow-quick-start,Zillow quick start ,RounakMehta,,2017-05-29T21:28:30.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sattia/notebook1e84b21119,Notebook1e84b21119,Sebastien,,2017-05-29T16:43:37.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,craigwang/zillow-price-error,Zillow Price Error,craigw,,2017-05-29T15:25:04.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,craigwang/notebook11da98c389,Notebook11da98c389,craigw,,2017-05-29T15:21:20.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pramud/notebookc9b2635db3,Notebookc9b2635db3,Pramud,,2017-05-29T12:07:14.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pramud/myfirstscript,myfirstscript,Pramud,,2017-05-29T12:02:41.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chendongnz/notebook00aab4f33f,Notebook00aab4f33f,chen dong,,2017-05-30T09:20:44.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chendongnz/notebook20ccdd24e8,Notebook20ccdd24e8,chen dong,,2017-05-29T10:49:12.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chendongnz/simple-lightgbm-4,Simple LightGBM 4！,chen dong,,2017-05-31T09:13:41.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaac7/notebookf9dac50b99,Notebookf9dac50b99,Isaac,,2017-05-30T04:06:52.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaac7/test-script,test script,Isaac,,2017-06-02T07:42:56.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,joseleiva/notebook328cb8c871,Notebook328cb8c871,Jose M.,,2017-06-01T15:19:34.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,deepakvraghavan/notebook169743b195,Notebook169743b195,Deepak Raghavan,,2017-05-29T01:52:51.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,abasu1/notebook004c4b892c,Notebook004c4b892c,Aparesh,,2017-07-04T16:49:09.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fitzclutchington/zillow-exploratory-analysis,Zillow Exploratory Analysis,Andrew Fitzgerald,,2017-05-29T00:39:34.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,abasu1/abasu1,abasu1,Aparesh,,2017-07-03T03:28:14.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,alexsierkov/notebook2ae0dba487,Notebook2ae0dba487,Alex Sierkov,,2017-05-28T22:58:07.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lokeshchandra/zillow-competition-1,Zillow competition 1,LokeshChandra,,2017-05-28T22:13:03.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,lokeshchandra/notebookd59584ff47,Notebookd59584ff47,LokeshChandra,,2017-05-28T22:11:04.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,justinqtaylor/zillowtest,ZillowTest,justinqtaylor,,2017-05-28T19:41:12.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,samratdevkota/notebook83dec5f3ec,Notebook83dec5f3ec,samrat,,2017-05-28T17:57:46.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zekangli/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,ZekangLi,,2017-05-28T15:45:05.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gtrimarc/primer-for-the-zillow-pred-approach-0df71f,Primer for the Zillow - Pred Approach 0df71f,Maurolycus,,2017-10-15T07:58:42.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yuqingxue/simple-lightgbm-88,Simple LightGBM 88,Yuqing Xue,,2017-05-28T14:07:23.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zgcgreat/notebookc34b48c584,Notebookc34b48c584,夜莺轻鸣,,2017-05-28T11:23:10.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rdoume/zillow-baseline,Zillow Baseline,Datadoume,,2017-05-28T09:26:43.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/simple-lightgbm-4-new-params,Simple LightGBM 4！-new-params,Jayaraman,,2017-06-01T10:35:46.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xvliuhot/exploration-from-srk,Exploration from SRK,VictorLiu,,2017-06-03T15:50:09.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,johncotter/data-exploration,Data Exploration,John Cotter,,2017-06-08T05:40:05.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,johncotter/notebook814b386939,Notebook814b386939,John Cotter,,2017-05-28T04:44:28.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,atyamsriharsha/basic-analysis,Basic Analysis,Gratitude,,2017-05-28T03:42:09.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,elpidiofilho/simple-lightgbm-4-2,Simple LightGBM 4！2,elpidiofilho,,2017-05-28T03:18:43.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,maogcnu/first-tiral-gm,First_Tiral_GM,mgfords,,2017-05-28T02:21:19.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,x22shao/simple-lightgbm-4,Simple LightGBM 4！,XinruiShao,,2017-05-28T20:37:28.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kapilnandwana/knan-zillow-v4,Knan Zillow V4,Kapil Nandwana,,2017-05-28T00:06:54.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,senorcampos/simple-lightgbm-4,Simple LightGBM 4！,senorcampos,,2017-05-28T03:46:17.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,powerstat2013/simple-lightgbm-4,Simple LightGBM 4！,PowerupStat,,2017-05-27T21:08:12.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aaronneiderhiser/notebook22a3d4189b,Notebook22a3d4189b,Aaron Neiderhiser,,2017-05-27T20:54:28.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,senorcampos/simple-lightgbm,Simple LightGBM ！,senorcampos,,2017-05-27T21:20:17.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/primer-for-the-zillow-pred-approach,Primer for the Zillow - Pred Approach,Andy Harless,,2017-05-27T19:32:21.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aharless/notebook-version-of-standard-lightgbm-kernel,Notebook version of standard LightGBM kernel,Andy Harless,,2017-06-23T01:19:00.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rmunoz/notebooke2d297a075,Notebooke2d297a075,rmunoz,,2017-05-27T15:47:46.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,marymaryqc/notebook9521ef483a,Notebook9521ef483a,marymaryqc,,2017-05-27T15:38:39.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/simple-lightgbm-4-new,Simple LightGBM 4！-new,Jayaraman,,2017-05-30T06:23:48.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,apatnaik22/notebook8701a8d857,Notebook8701a8d857,apatnaik22,,2017-05-27T13:38:13.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,inverse1/takeitizi,takeitizi,Izidor Flajsman,,2017-05-27T14:47:57.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,valadi/wut-xshao,wut_xshao,Jayaraman,,2017-05-27T12:57:41.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tunguz/simple-lightgbm-4,Simple LightGBM 4！,Bojan Tunguz,,2017-05-27T18:49:07.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mfjwr1/notebook36d8ffef26,Notebook36d8ffef26,Mitsuru Fujiwara,,2017-05-27T11:06:08.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,inverse1/testzil,TestZil,Izidor Flajsman,,2017-05-27T11:18:44.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,imaginebruteforce/zillow,Zillow,imaginebruteforce,,2017-05-27T12:45:05.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rickywu/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,rickywu,,2017-05-29T14:48:10.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rickywu/notebook86f9b6f3de,Notebook86f9b6f3de,rickywu,,2017-05-27T09:19:47.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vaibhavdixit02/noobs,Noobs,VaibhavDixit,,2017-05-27T08:39:24.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,chanchan/notebookac3d8b2d6b,Notebookac3d8b2d6b,chanchan,,2017-05-27T08:28:32.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zalecisco/simple-lightgbm,Simple LightGBM ！,Zale Cisco,,2017-06-03T14:24:41.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,x22shao/wut-xshao,wut_xshao,XinruiShao,,2017-05-27T07:37:16.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,divyarajkmr/notebookb8fb2b8756,Notebookb8fb2b8756,MAR,,2017-05-27T07:11:18.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xiaoyaonanjiea/notebookb228a53067,Notebookb228a53067,DongmingZhang,,2017-05-27T06:43:56.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,branyang/zillow-exploration,Zillow Exploration,Bob Yang,,2017-06-16T07:30:51.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rochachan/zillow-housing-feature-eda,Zillow Housing--Feature EDA,rocha,,2017-05-28T05:06:42.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,akilaw/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Akila Wajirasena,,2017-05-28T05:37:04.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vivek4/data-exploration1,Data Exploration1,VivekSingh,,2017-06-06T22:29:41.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,emdavis12/notebook8c5b6d9abd,Notebook8c5b6d9abd,Elizabeth Davis,,2017-05-27T01:36:07.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,elpidiofilho/simple-lightgbm-starter-lb-0-06487-3,Simple LightGBM starter. LB 0.06487-3,elpidiofilho,,2017-05-27T01:16:11.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,datafleuret/notebookef5ac693ec,Notebookef5ac693ec,ZHOUy,,2017-05-27T00:51:00.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,juliavb/notebook156f792b79,Notebook156f792b79,Julia Bohutska,,2017-05-26T23:23:25.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tinatya25/notebook6557cad57d,Notebook6557cad57d,tinatya25,,2017-05-26T22:58:50.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,deviling/notebook54a65916df,Notebook54a65916df,Sonic Fish,,2017-05-26T22:34:25.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xcz011/lightgbm-grid-search,LightGBM_Grid_Search,xcz011,,2017-05-30T14:04:21.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,raviannaswamy/lightgbm, LightGBM . ,Ravi Annaswamy,,2017-06-04T23:31:18.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zckly133/notebookc13a22839b,Notebookc13a22839b,Zack Lee,,2017-05-26T19:10:43.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xcz011/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,xcz011,,2017-05-26T19:06:28.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,denplusplus/baseline-model-lgb-without-outliers,Baseline model lgb without outliers,Den Raskovalov,,2017-05-26T22:35:00.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rkallam6795/notebook9633f4f623,Notebook9633f4f623,Raj Kallam,,2017-05-26T18:30:44.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,raviannaswamy/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,Ravi Annaswamy,,2017-05-26T17:53:21.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vamsikrishnabhuvanam/new-version-of-lightgbm-with-leaves-70,New Version of LightGBM with Leaves 70,Vamsi Bhuvanam,,2017-05-28T01:24:26.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,psaadbye/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Peter Saadbye,,2017-05-27T13:32:31.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fpajot/baseline-model-lgb-without-outliers,Baseline model lgb without outliers,Florent P.,,2017-05-26T14:45:06.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fernandoramacciotti/exploring,exploring,Fernando Ramacciotti,,2017-05-26T14:35:21.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fpajot/baseline-script,Baseline script ,Florent P.,,2017-05-26T13:31:53.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,c846296072/notebook1f3b7e9f83,Notebook1f3b7e9f83,Jiarui Chen,,2017-05-26T13:29:02.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,bbuluttekin/data-eda,Data_EDA,bbuluttekin,,2017-05-26T13:25:59.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,paul91v/notebooke6aeb7dcfe,Notebooke6aeb7dcfe,Paul vannan,,2017-06-29T05:46:55.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,c846296072/notebook206c2fb218,Notebook206c2fb218,Jiarui Chen,,2017-05-26T12:40:28.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,buribalazs/bb-zillow-test,BB_Zillow_Test,Balázs Buri,,2017-05-26T10:15:02.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zalecisco/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Zale Cisco,,2017-05-27T01:07:39.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ryanct/zillow-intro-analysis,Zillow intro analysis,Ryan_CT,,2017-05-26T08:23:59.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,amanarora10/hello-world,Hello World,Fulcrum_77,,2017-05-26T07:39:46.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yanivh/zillow-exploration,Zillow Exploration,yaniv,,2017-05-26T06:30:23.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,busrafenerci/notebook4e64e8c45b,Notebook4e64e8c45b,Buşra Fenerci,,2017-05-26T05:46:32.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,busrafenerci/temp-bus,temp_bus,Buşra Fenerci,,2017-06-10T05:34:20.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,x22shao/simple-lightgbm,Simple LightGBM ！,XinruiShao,,2017-05-27T06:50:15.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,w625009392/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Young,,2017-05-26T04:14:48.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jadhavad/zillow-trial4-lightgbm,Zillow_Trial4_LightGBM,Ray_Cord,,2017-05-26T03:33:49.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mysalt/yy-simple-exploration-notebook-zillow-prize,YY: Simple Exploration Notebook - Zillow Prize,Yu Yang,,2017-05-27T13:27:08.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,eeeeee/explore-kernel,explore kernel,eccc,,2017-05-26T02:59:57.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rochachan/better-baseline-lb-0-06530,Better Baseline [LB 0.06530],rocha,,2017-05-26T02:53:44.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yuqingxue/simple-lightgbm-0-4,Simple LightGBM 0.4,Yuqing Xue,,2017-05-27T02:05:14.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yinjianhong/simple-lightgbm-starter-lb-0-064855,Simple LightGBM starter. LB 0.064855,yinjianhong,,2017-05-26T01:10:21.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,danieleewww/primer-for-the-zillow-pred-approach,Primer for the Zillow - Pred Approach,danieleewww,,2017-06-30T15:08:36.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,brassmonkey381/zxczxc,zxczxc,brassmonkey,,2017-05-26T00:35:29.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,brassmonkey381/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,brassmonkey,,2017-05-26T00:04:33.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jeromewilliams/notebook1bf6deea33,Notebook1bf6deea33,JeromeWilliams,,2017-05-25T23:58:01.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,millerintllc/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Jason Miller,,2017-05-25T23:53:22.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,xchiron/notebook3a2bb6d900,Notebook3a2bb6d900,MZH,,2017-05-25T22:59:50.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,coyawa/learn-by-doing-p1-data-exploratory-analysis-v0-1,Learn by Doing-P1: Data Exploratory Analysis v0.1,Congyang,,2017-07-18T15:47:33.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pspieker/notebook4dca49771b,Notebook4dca49771b,Patrick Spieker,,2017-05-25T22:36:20.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,datajedai/notebook36c04a47f4,Notebook36c04a47f4,Bhavin Patel,,2019-04-12T16:02:23.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,alijs1/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,alijs,,2017-05-25T20:18:38.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,datajedai/notebook7edba446e3,Notebook7edba446e3,Bhavin Patel,,2017-05-25T19:39:19.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sanglin/notebookf1cc0a6d66,Notebookf1cc0a6d66,lsang,,2017-05-25T19:10:22.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gihanu/notebooke574f1daf2,Notebooke574f1daf2,Gihan Panapitiya,,2017-05-25T18:45:25.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,testimate/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,Testimate,,2017-05-25T18:39:01.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,bluecocoa/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,0xBBC,,2017-05-25T18:28:53.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,bguberfain/dumb-keras-starter,Dumb Keras Starter,Bruno G. do Amaral,,2017-05-25T22:37:45.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tobikaggle/simple-lightgbm-starter-lb-0-06487,Simple LightGBM starter. LB 0.06487,DDgg,,2017-05-25T23:07:32.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vigilanf/notebookc594c255cc,Notebookc594c255cc,Frank V,,2017-05-25T17:44:49.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ommirandap/notebook2cbf2a0ad7,Notebook2cbf2a0ad7,Omar Miranda,,2017-05-25T16:45:59.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,mmrosenb/zillow-eda,Zillow EDA,PolarBear,,2017-05-25T18:00:12.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,matekm/notebookcf23a557f6,Notebookcf23a557f6,RobertMatusewicz,,2017-05-25T16:35:21.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,matekm/notebookc2eae7edd2,Notebookc2eae7edd2,RobertMatusewicz,,2017-05-25T16:26:50.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ericchencth/notebook44b9ff38a0,Notebook44b9ff38a0,Eric Chen,,2017-05-25T16:08:13.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yuqingxue/simple-lightgbm-starter,Simple LightGBM starter. ,Yuqing Xue,,2017-05-25T17:46:33.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vorcek/notebook326aede722,Notebook326aede722,Adam Obara,,2017-05-25T15:35:00.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,navneethc/notebook6ad22e2185,Notebook6ad22e2185,navneethc,,2017-05-25T17:22:46.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,doradreams/notebook226f0ad8c6,Notebook226f0ad8c6,Chao Hu,,2017-05-25T15:08:53.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tumbzilla/notebook65aa8a6850,Notebook65aa8a6850,Patrick Laflamme,,2017-05-25T17:45:21.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fangxiaofang/zillow-s-home-value-prediction,Zillow's Home Value Prediction,Fang Fang,,2017-05-25T14:29:52.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,connexia/my-own-first-py,My own first Py,Sebastien Parmentier,,2017-05-26T13:07:17.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jrcarr/notebookdc5550c695,Notebookdc5550c695,JR Carr,,2017-05-25T14:05:00.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yogeshsinghrbt/lightgbm,lightgbm,yogeshsingh,,2017-05-25T13:50:36.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nvishnuprasad/notebook2bdf8e4b7a,Notebook2bdf8e4b7a,Vishnu Prasad,,2017-05-25T13:28:19.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yinsong/notebook4a3a376a29,Notebook4a3a376a29,yin,,2017-05-26T06:19:12.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yinsong/notebook3fa2009f3b,Notebook3fa2009f3b,yin,,2017-05-25T12:41:00.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,nathanlim45/zillow-data-exploration,Zillow Data Exploration,Nathan(Seoungyoon) Lim,,2017-05-25T12:32:19.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yesemsanthoshkumar/simple-exploration,Simple exploration,Santhosh Kumar,,2017-05-25T12:17:13.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dembangom1/notebookabf7d35f9a,Notebookabf7d35f9a,NGOMDemba,,2019-09-01T20:43:57.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ksr102631/eda-zillow,EDA - Zillow,Sreeram Reddy Kasarla (SRK16113),,2017-07-03T16:16:24.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rjmishra/zillow-normal,Zillow_Normal,Ranjan Mishra,,2017-05-25T10:25:49.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,jessepeng/notebookdfc3c728b1,Notebookdfc3c728b1,Jan-Christopher,,2017-05-25T09:42:41.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sylviasun/test1,test1,Sylvia Sun,,2017-05-25T09:40:51.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sylviasun/explore,explore,Sylvia Sun,,2017-05-25T09:40:29.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sidharthkumar/xgb-for-zillow,XGB For Zillow,SIDHARTH,,2017-06-24T22:56:12.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,pappukrjha/zestarter,Zestarter,Pulkit Jha,,2017-06-05T08:56:04.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dspider/hello-zillow,Hello Zillow ! ,"Younes Khadraoui, Ph.D",,2017-05-25T09:05:29.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dspider/hello-kaggle,Hello kaggle !,"Younes Khadraoui, Ph.D",,2017-05-25T09:01:56.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ketulgupta/notebook0966b20d0d,Notebook0966b20d0d,Ketul Gupta,,2017-05-25T08:11:06.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,fpajot/notebookc1e84a7203,Notebookc1e84a7203,Florent P.,,2017-05-26T13:56:03.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zhutao2050/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,Zhu Tao,,2017-05-25T07:39:46.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gshevchuk/testing-notebook-for-zillow-estimates,Testing Notebook for Zillow Estimates,GlebShevchuk,,2017-05-25T05:34:27.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,susheelg5/blast,Blast,Susheel,,2017-05-25T05:02:07.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,manishsaraswat/notebookf1937c0f06,Notebookf1937c0f06,Erlich Bachman,,2017-05-25T05:34:34.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,skhimsara/eda-on-the-zillow-property-data,EDA on the Zillow property data..,Sid Khimsara,,2017-09-10T06:36:50.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,skhimsara/notebook94471fe281,Notebook94471fe281,Sid Khimsara,,2017-05-25T04:30:37.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,aevinq/notebook4822a6b498,Notebook4822a6b498,GauravK,,2017-05-25T04:29:05.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,isaacmg/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),Isaac McKillen-Godfried,,2017-05-25T04:38:44.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,armanjupriya/notebook4402f0d9d5,Notebook4402f0d9d5,Manju Priya A R,,2017-05-25T04:21:02.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vk4503/notebook46fb81c2dc,Notebook46fb81c2dc,109K,,2017-05-25T19:41:31.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,prashantbhpkr/notebook0d84f291c3,Notebook0d84f291c3,Prashant Bhapkar,,2017-05-25T03:47:54.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,vigilanf/zillow-eda,Zillow EDA,Frank V,,2017-05-25T03:17:29.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,emmanuelmatthews/notebook4f519687b2,Notebook4f519687b2,Emmanuel Matthews,,2017-05-25T02:48:39.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,prasannakshi/mycode,mycode,PrasannakshiGrandhe,,2017-05-26T06:29:50.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,prasannakshi/notebookc3b1e310d2,Notebookc3b1e310d2,PrasannakshiGrandhe,,2017-05-25T02:33:52.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,prasannakshi/first-entry,first_entry,PrasannakshiGrandhe,,2017-05-25T02:32:39.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rsmatlab/simple-xgboost-starter-0-0655,Simple XGBoost Starter (~0.0655),RSMATLAB,,2017-05-25T02:32:10.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,yuan76/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,yuan76,,2017-05-25T02:06:40.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,arjunvekariya/notebooke2050c87b1,Notebooke2050c87b1,Arjun,,2017-05-25T01:41:47.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,gonerunning/notebook3e7f3a57cf,Notebook3e7f3a57cf,George He,,2017-05-25T00:41:12.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,kstory/notebookdf400e5018,Notebookdf400e5018,kstory,,2017-05-25T00:40:45.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,ahmedhindi/notebookc30a53d17e,Notebookc30a53d17e,a7med,,2017-05-25T00:21:11.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dingluo1205/notebook97defa8e6d,Notebook97defa8e6d,Ding Luo,,2017-05-25T00:01:08.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,sekrier/zillow-starter,zillow starter,TeraFlops,,2017-05-24T21:11:36.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,bluebonnettx/zestimate-playground,Zestimate_PlayGround,Bluebonnet,,2017-05-24T20:36:43.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rashmi4261/notebook8a113c44a2,Notebook8a113c44a2,Rashmi4261,,2017-05-24T20:32:18.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,naivecharles/notebook67141faa7b,Notebook67141faa7b,CharlesLane,,2017-05-24T21:14:00.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,francescodesimone/notebookfd0f985741,Notebookfd0f985741,Francesco De Simone,,2017-05-26T19:37:07.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,tinmantapestry/notebook7926b8bb10,Notebook7926b8bb10,Tinashe James Manzou,,2017-05-24T14:51:32.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,abhisheknagarjuna/notebook93de50713e,Notebook93de50713e,Abhishek Nagarjuna,,2017-05-24T14:07:02.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,francescodesimone/pca-ica-xgboost,PCA / ICA XGBoost,Francesco De Simone,,2017-06-12T12:36:25.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,naivecharles/notebook305d42b9da,Notebook305d42b9da,CharlesLane,,2017-05-24T13:11:22.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,rfdickerson/data-exploration,Data Exploration,Robert F. Dickerson,,2017-05-24T12:45:34.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,wendykan/zillow-list-files,zillow list files,Wendy Kan,,2017-05-22T19:58:57.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,zseattlez/notebook45ecaa0d6a,Notebook45ecaa0d6a,Bin,,2017-06-02T20:53:07.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1
+,,,,,0,dmiller/zestimate-analysis,Zestimate Analysis,David Miller,,2017-11-02T15:53:42.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,zillow-prize-1

@@ -1,0 +1,75 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,wendykan/expensive-restaurants-look-like-this,Expensive restaurants look like this,Wendy Kan,,2016-02-04T01:41:03.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,yelp-restaurant-photo-classification
+,,,,,0,enerrio/data-exploration-yelp-classification,Data Exploration Yelp Classification ,Aaron Marquez,,2018-07-29T23:00:32.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,yelp-restaurant-photo-classification
+,,,,,0,valueq/util-for-data-exploration,util for data exploration,luoq,,2016-02-04T03:01:58.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,yelp-restaurant-photo-classification
+,,,,,0,wongjingping/naive-benchmark-0-61,Naive Benchmark (0.61),JP_smasher,,2016-02-10T08:02:18.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,yelp-restaurant-photo-classification
+,,,,,0,innerproduct/trying-to-process-images,random forests on pixels,Alexander Pushkin,,2016-04-08T07:16:52.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,yelp-restaurant-photo-classification
+,,,,,0,millerintllc/imagine-an-image1,Imagine an Image1,Jason Miller,,2016-04-11T01:09:45.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,yelp-restaurant-photo-classification
+,,,,,0,anokas/patch-features-rfr,Patch Features RFR,anokas,,2016-04-09T18:48:12.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,yelp-restaurant-photo-classification
+,,,,,0,dmytrolystopad/imagine-an-image1,Imagine an Image1,Dmytro Lystopad,,2016-04-11T15:39:46.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,yelp-restaurant-photo-classification
+,,,,,0,innerproduct/more-naivete,more naivete,Alexander Pushkin,,2016-03-28T20:47:48.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,yelp-restaurant-photo-classification
+,,,,,0,triskelion/shallow-learning,Shallow Learning,Triskelion,,2016-04-04T22:55:48.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,yelp-restaurant-photo-classification
+,,,,,0,yrevar/yelp-training-data-helper,Yelp Training Data Helper,﻿yrevar,,2016-04-09T05:22:45.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,yelp-restaurant-photo-classification
+,,,,,0,innerproduct/imagine-an-image,Imagine an Image,Alexander Pushkin,,2016-04-02T17:35:00.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,yelp-restaurant-photo-classification
+,,,,,0,rafaellopes/load-data-with-get-dummies,load_data with get_dummies,RafaelLopes,,2016-02-29T04:00:49.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,yelp-restaurant-photo-classification
+,,,,,0,punjuanoir/computervisionatelier,ComputerVisionAtelier,PunjuAnoir,,2021-01-26T01:00:12.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,yelp-restaurant-photo-classification
+,,,,,0,sgovindu/yelp-data-analysis,Yelp Data Analysis,Sastry,,2018-09-01T10:34:30.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,yelp-restaurant-photo-classification
+,,,,,0,esztis/notebook3164c26672,Notebook3164c26672,Eszti,,2017-05-02T10:32:06.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,yelp-restaurant-photo-classification
+,,,,,0,luckygemini/notebook5d5fc80c9f,Notebook67cad851f5,Lucky,,2016-11-22T21:47:18.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,yelp-restaurant-photo-classification
+,,,,,0,titericz/imagine-an-image3,Imagine an Image3,Giba,,2016-04-12T18:52:19.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,yelp-restaurant-photo-classification
+,,,,,0,aparajit0511/yelp-restaurant,Yelp Restaurant,aparajit chatterjee,,2020-01-08T18:03:06.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,jihyeseo/photo-classify,photo classify,Jihye Sofia Seo,,2018-05-08T18:25:25.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,bimbil/notebook1bfc867e2f,Notebook1bfc867e2f,shavedEyes,,2017-05-13T08:24:17.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,venuv62/basic-keras-prototype-for-ambience,Basic Keras prototype for Ambience,venu vasudevan,,2017-04-30T01:41:35.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,natbusa/first-note,First note,Natalino Busa,,2017-04-19T18:42:40.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,nkhlken/nkhl-test1,nkhl_test1,NikhilKenvetil,,2017-04-10T10:49:57.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,stahmoresi/imagelistfile,ImageListFile,stahmoresi,,2017-04-03T18:07:22.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,vijpandaturtle/notebookd18881e73e,Notebookd18881e73e,Vijayasri Iyer,,2017-03-12T07:05:14.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,stahmoresi/notebook571895b267,Notebook571895b267,stahmoresi,,2017-02-26T21:21:06.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,stahmoresi/testmine,TestMine,stahmoresi,,2017-02-26T21:33:55.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,stahmoresi/notebooktestshowlabeledimages,NotebookTestShowLabeledImages,stahmoresi,,2017-03-01T21:44:08.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,dataaks/expensive-restaurants-look-like-this,Expensive restaurants look like this,Aksh,,2017-02-03T19:34:38.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,shivi2909/notebookb54c268685,Notebookb54c268685,Codelibra,,2017-02-03T02:14:19.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,gypsysunny/notebook95682414d3,Notebook95682414d3,gypsysunny,,2017-01-27T07:25:33.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,tsukasa/expensive-restaurants-look-like-this,Expensive restaurants look like this,tsukasa,,2017-01-19T02:51:54.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,joshualee/notebooke7783e589f,Notebooke7783e589f,joshua.lee,,2017-01-02T07:27:29.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,smt9317/expensive-restaurants-look-like-this,Expensive restaurants look like this,MengtongShen,,2016-12-17T15:32:32.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,zjzjzj/notebook67cad851f5-a6e25e2b,Notebook67cad851f5 a6e25e2b,zjzj,,2016-12-12T20:14:30.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,zjzjzj/notebook67cad851f5,Notebook67cad851f5,zjzj,,2016-12-11T00:07:12.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,luckygemini/fork-of-notebook67cad851f5cnn-final,Fork of Notebook67cad851f5cnn final,Lucky,,2016-12-11T00:07:04.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,zjzjzj/notebookb157bbad61,Notebookb157bbad61,zjzj,,2016-12-09T21:12:47.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,luckygemini/yelp-dataset-chanllenge,yelp dataset chanllenge,Lucky,,2016-11-22T02:25:29.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,xliang1993/notebook109d757e0e,Notebook109d757e0e,109943228,,2016-11-06T02:50:33.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,munchupnoi/patcharaporn,Patcharaporn,PatcharapornMunchupaiboon,,2016-10-30T21:11:59.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,rand0mchao5/notebook5d92623938,Notebook5d92623938,ZhihaoXue,,2016-10-28T15:08:01.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,xliang1993/notebook75c86a43d9,Notebook75c86a43d9,109943228,,2016-10-06T14:39:26.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,pawan176/images,images,PawanDhananjay,,2016-05-11T09:39:29.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,pawan176/labelimages,labelImages,PawanDhananjay,,2016-05-11T09:38:47.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,pawan176/asdsa,asdsa,PawanDhananjay,,2016-04-24T17:51:06.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,xlin11/imagine-an-image,Imagine an Image,X Lin,,2016-04-11T22:00:08.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,ckdelta/testscript,testscript,ckdelta,,2016-04-11T07:09:00.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,justfor/yelp-image-play3,Yelp Image play3,Justfor,,2016-04-11T17:41:43.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,flashnik/imagine-an-image1,Imagine an Image1,flashnik,,2016-04-10T22:22:13.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,abhishek3/imagine-an-image,Imagine an Image,Abhishek Srivastava,,2016-04-09T07:56:56.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,dmytrolystopad/random-forests-on-pixels,random forests on pixels,Dmytro Lystopad,,2016-04-05T21:44:46.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,hurelyyu/imagine-an-image,Imagine an Image,Yaqun Yu,,2016-04-04T05:02:43.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,justfor/yelp-play,yelp play,Justfor,,2016-04-11T06:51:50.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,manikanta/expensive-restaurants-look-like-this,Expensive restaurants look like this,mani kanta,,2016-04-01T17:18:14.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,nellaivijay/checkit,Checkit,Vijay Ram,,2016-03-28T13:26:56.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,arpangupta87/py1-alpha,py1_alpha,Alpha,,2016-03-24T19:35:46.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,kalinka/sample1,sample1,ThanhLuong,,2016-03-24T08:13:54.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,drzoltar/donut,donut,AlexR,,2016-03-24T04:27:10.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,yashrajlamsal/yelpphoto,YelpPhoto,bigO,,2016-03-28T12:16:00.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,arpangupta87/numpy,Numpy,Alpha,,2016-03-16T05:12:34.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,leheoppo/start,start,StevenLai,,2016-03-12T04:21:48.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,leheoppo/test-script,test_script,StevenLai,,2016-03-12T04:19:39.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,manikanta/helloworld,helloworld,mani kanta,,2016-03-11T20:48:14.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,bomboom/yelp1,yelp1,bomboom,,2016-03-09T05:01:14.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,geziwang/expensive-restaurants-look-like-this,Expensive restaurants look like this,GeZiWang,,2016-02-25T22:18:41.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,nikhilw/photoclassification,photoclassification,nikhil wankhede,,2016-02-25T21:37:30.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,ericrincon/yelpcnn,YelpCNN,Eric Rincon,,2016-02-22T16:24:23.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,michaelpawlus/naive-benchmark-0-61,Naive Benchmark (0.61),Michael Pawlus,,2016-02-17T18:33:34.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,renegallery/descriptive-analysis,Descriptive Analysis,Rene,,2016-04-05T19:39:01.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,llcoolnj/yelp-classification,yelp_classification,LLcoolNJ,,2017-03-25T08:18:20.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,congyang0305/yelp-photo-classification,Yelp photo classification,DataScienceMom,,2016-02-07T20:15:20.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification
+,,,,,0,gunaatita/trial,trial,JZQuant,,2016-02-04T20:46:09.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,yelp-restaurant-photo-classification

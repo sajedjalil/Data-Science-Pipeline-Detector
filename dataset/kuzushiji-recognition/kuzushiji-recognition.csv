@@ -1,0 +1,48 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,anokas/kuzushiji-visualisation,Kuzushiji Visualisation,anokas,,2019-07-18T16:42:09.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],238,kuzushiji-recognition
+,,,,,0,kmat2019/centernet-keypoint-detector,CenterNet -Keypoint Detector-,K_mat,,2019-08-05T22:50:35.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],207,kuzushiji-recognition
+,,,,,0,christianwallenwein/visualization-useful-functions-small-eda,Visualization + useful functions + small EDA,Chris Wallenwein,,2019-10-13T19:04:42.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],87,kuzushiji-recognition
+,,,,,0,jesucristo/kuzushiji-recognition-complete-guide,Kuzushiji Recognition Complete Guide,Nanashi,,2019-10-22T13:18:09.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,kuzushiji-recognition
+,,,,,0,hocop1/unet-character-detector,UNet character detector,Ruslan Baynazarov,,2019-10-06T11:39:51.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,kuzushiji-recognition
+,,,,,0,basu369victor/kuzushiji-recognition-just-like-digit-recognition,Kuzushiji Recognition just like Digit Recognition,Victor Basu,,2019-08-13T07:21:52.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,kuzushiji-recognition
+,,,,,0,frlemarchand/keras-maskrcnn-kuzushiji-recognition,Keras MaskRCNN - Kuzushiji Recognition,Francois Lemarchand,,2019-08-20T09:51:23.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,kuzushiji-recognition
+,,,,,0,wakamezake/kuzushiji-pytorch-data-preprocessing,Kuzushiji_PyTorch_Data_preprocessing,wakame,,2019-07-19T20:40:50.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,kuzushiji-recognition
+,,,,,0,seriousran/try-to-break-0,Try to break 0,Chanran Kim,,2019-07-20T16:06:34.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,kuzushiji-recognition
+,,,,,0,anokas/kuzushiji-modified-f-1-score,Kuzushiji Modified F-1 Score ,anokas,,2019-07-19T00:11:05.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,kuzushiji-recognition
+,,,,,0,banzaibanzer/applying-ben-s-preprocessing,Applying Ben's Preprocessing,banzai,,2019-07-23T16:36:35.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,kuzushiji-recognition
+,,,,,0,wakamezake/kuzushiji-eda,Kuzushiji_EDA,wakame,,2019-07-23T02:27:43.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,kuzushiji-recognition
+,,,,,0,rio114/order-charactors-by-clustering-columns, order charactors by clustering columns ,Ryoji Nomura,,2019-08-24T12:40:21.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,kuzushiji-recognition
+,,,,,0,marvin42/clean-images,Clean images,apurva,,2019-07-29T20:37:05.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kuzushiji-recognition
+,,,,,0,pr1c3f1eld/data-cleaning-and-pre-processing,Data Cleaning and Pre-processing,Baasit,,2020-08-17T09:15:54.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,kuzushiji-recognition
+,,,,,0,hanmingliu/denoising-ben-s-preprocessing-better-clarity,Denoising + Ben's Preprocessing = Better Clarity,Hanming Liu,,2019-08-01T21:25:15.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,kuzushiji-recognition
+,,,,,0,christianwallenwein/fastest-way-to-crop-all-images,Fastest way to crop all images,Chris Wallenwein,,2019-09-27T09:34:28.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,kuzushiji-recognition
+,,,,,0,frlemarchand/kuzushiji-page-generator,Kuzushiji Page Generator,Francois Lemarchand,,2019-09-25T20:50:54.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,kuzushiji-recognition
+,,,,,0,sidhanthholalkere/how-to-create-yolo-labels,How to create YOLO labels,sh,,2019-07-30T03:15:08.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kuzushiji-recognition
+,,,,,0,namgalielei/kuzushiji-data-analysis,Kuzushiji Data Analysis,The Nam,,2019-07-29T11:20:21.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kuzushiji-recognition
+,,,,,0,rupeshs/eda-starter,EDA starter,Rupesh Sreeraman,,2019-07-27T02:08:39.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kuzushiji-recognition
+,,,,,0,talmanr/pytorch-yolo-like-net,Pytorch Yolo-like net,RoyT,,2019-09-04T12:35:17.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kuzushiji-recognition
+,,,,,0,latimerb/kuzushiji-visualization-masking,Kuzushiji - Visualization + Masking,BenLatimer,,2019-08-06T21:52:28.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kuzushiji-recognition
+,,,,,0,infhyroyage/create-pytorch-dataset-for-classifying-characters,Create Pytorch Dataset for Classifying Characters,KIDO Takeru,,2019-09-25T15:37:44.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kuzushiji-recognition
+,,,,,0,rio114/extraction-each-character,Extraction each character,Ryoji Nomura,,2019-07-22T08:43:17.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,kuzushiji-recognition
+,,,,,0,enforcer007/fast-ai-comp,Fast-AI-Comp,Akhil Teja (enforcer007),,2020-11-27T11:28:40.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kuzushiji-recognition
+,,,,,0,basu369victor/submission-for-kuzushiji-recognition,Submission for Kuzushiji Recognition ,Victor Basu,,2019-08-17T05:07:58.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kuzushiji-recognition
+,,,,,0,jute0311/kuzushiji-visualisation-and-feature-engineering,Kuzushiji - visualisation and Feature Engineering,Hayato Sato,,2019-08-08T06:19:14.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kuzushiji-recognition
+,,,,,0,vbookshelf/quick-viewer,Quick Viewer,vbookshelf,,2019-07-30T03:02:57.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kuzushiji-recognition
+,,,,,0,kaeldric/kuzushiji-images-just-for-fun,Kuzushiji Images (just for fun),Kaeldric,,2019-07-23T14:27:18.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kuzushiji-recognition
+,,,,,0,chizuchizu/japanese-take-characters-from-an-image,(Japanese)Take characters from an image.,Chizuchizu,,2019-07-23T03:11:05.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kuzushiji-recognition
+,,,,,0,adin726/data-visualization-and-eda,Data Visualization and EDA,Adin Aberbach,,2019-09-19T16:59:40.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,kuzushiji-recognition
+,,,,,0,kozkiuay/centernet-step2,CenterNet-step2,Kazu,,2019-10-08T22:33:52.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kuzushiji-recognition
+,,,,,0,kenichisasaki/anotation-visualization,Anotation Visualization,Kenichi94,,2019-09-09T22:31:06.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kuzushiji-recognition
+,,,,,0,gtownfoster/keras-preprocessing,Keras preprocessing,Dwight Foster,,2019-07-24T00:00:08.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kuzushiji-recognition
+,,,,,0,arisjayandrana/re-structure-the-training-set,Re-Structure the Training Set,ArisJayandrana,,2019-08-01T10:02:29.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kuzushiji-recognition
+,,,,,0,nubatama/show-and-check-image-data-simple-impression,Show and check image data (simple impression),nubatama,,2019-07-21T06:04:37.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kuzushiji-recognition
+,,,,,0,hedibendaoud/data-exploration,Data exploration,Hedi,,2019-07-21T10:24:43.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kuzushiji-recognition
+,,,,,0,shingo405/kuzushizi-recog-sample,kuzushizi_recog_sample,Shingo.S,,2020-05-25T14:10:24.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kuzushiji-recognition
+,,,,,0,cedna198/kuzushiji-recognition,Kuzushiji Recognition,Edna Sawe,,2019-07-23T17:55:38.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kuzushiji-recognition
+,,,,,0,robolamp/kuzushiji-2-bw-images,kuzushiji_2_bw_images,Yulia Yakovleva,,2019-10-28T21:37:54.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kuzushiji-recognition
+,,,,,0,koushikcon/kuzushiji-recognition-using-deep-learning,Kuzushiji recognition Using Deep Learning,Koushik,,2019-11-02T10:30:58.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kuzushiji-recognition
+,,,,,0,diamondsnake/kuzushiji-recognition-faster-r-cnn,Kuzushiji Recognition - Faster R-CNN,ODI6s,,2019-09-21T22:47:27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kuzushiji-recognition
+,,,,,0,guillermoch/kuzuhiji-visualization-and-eda,Kuzuhiji Visualization and EDA,Guillermo Carrasco,,2019-09-06T22:30:36.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kuzushiji-recognition
+,,,,,0,hatemalamir/kuzushiji-recognition-cnn,Kuzushiji Recognition CNN,Atom,,2019-10-12T17:02:09.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kuzushiji-recognition
+,,,,,0,henry32144/kuzushiji-cropimage,Kuzushiji-CropImage,Cheng Han Wu,,2019-11-12T07:10:38.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kuzushiji-recognition
+,,,,,0,misterion777/kuzusuhiji,Kuzusuhiji,Ilya Lasy,,2019-08-10T09:39:47.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kuzushiji-recognition

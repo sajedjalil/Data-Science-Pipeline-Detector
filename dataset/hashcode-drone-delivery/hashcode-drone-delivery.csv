@@ -1,0 +1,36 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jpmiller/application-of-google-or-tools,Application of Google OR-Tools,JohnM,,2021-05-07T18:15:00.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],112,hashcode-drone-delivery
+,,,,,0,srii96/hashcode-problem-understanding-pre-process,Hashcode: Problem understanding + Pre_Process ,sri lakshmi,,2020-09-11T07:49:30.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,hashcode-drone-delivery
+,,,,,0,piantic/drone-delivery-basic-eda-and-submission,Drone Delivery: Basic EDA and Submission!,Heroseo,,2020-11-17T20:14:45.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,hashcode-drone-delivery
+,,,,,0,egrehbbt/greedy-solution-post-processing,Greedy solution + Post Processing,aDg4b,,2020-10-31T19:00:05.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,hashcode-drone-delivery
+,,,,,0,spacelx/2020-hc-dd-2nd-place-solution-w-or-tools,[2020 HC-DD] 2nd place solution w/ OR-Tools,Alex Bader,,2020-12-15T08:04:37.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,hashcode-drone-delivery
+,,,,,0,yegorbiryukov/hash-code-archive-swarm-of-benders-delivery,Hash Code Archive: Swarm of Benders Delivery,Yegor Biryukov,,2020-09-27T20:41:31.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,hashcode-drone-delivery
+,,,,,0,marcelolafeta/hash-code-drones-google-imt-vamo-pra-cima,Hash Code Drones - Google IMT Vamo pra cima!,Marcelo Lafetá,,2020-10-13T14:06:10.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,hashcode-drone-delivery
+,,,,,0,royceda/drone-linear-prog-and-routing-heuristic-90-done,Drone: Linear Prog and Routing heuristic (90%done),Reda.B,,2020-12-29T10:56:09.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,hashcode-drone-delivery
+,,,,,0,spacelx/2020-hc-dd-sample-submission-evaluation,[2020-HC-DD] Sample submission evaluation,Alex Bader,,2020-10-05T13:12:53.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,hashcode-drone-delivery
+,,,,,0,shams1/data-extraction-and-eda,Data Extraction and EDA ,Shams Sultan,,2020-09-09T06:35:28.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,hashcode-drone-delivery
+,,,,,0,seraphwedd18/naive-approach-to-tsp-type-solution,Naive Approach to TSP-type Solution,Venturillo JE,,2020-09-10T07:13:35.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hashcode-drone-delivery
+,,,,,0,ozanuzun/step-by-step,step by step,ozan uzun,,2020-11-25T19:35:23.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hashcode-drone-delivery
+,,,,,0,lyxthe/1st-place-solution,1st place solution,MarwaneB,,2020-12-17T08:23:51.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,hashcode-drone-delivery
+,,,,,0,maximofn/3rd-place-solution,3rd place solution,Maximofn,,2020-12-15T10:21:42.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hashcode-drone-delivery
+,,,,,0,abhishektyagi001/hashcode-drone-delivery,Hashcode-drone-delivery,Abhishek Tyagi,,2020-09-22T06:18:23.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hashcode-drone-delivery
+,,,,,0,ahmed4fee/hashcode-delivery,hashcode delivery ,Ahmed  Awad,,2020-12-14T08:31:58.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hashcode-drone-delivery
+,,,,,0,bsitech/final-output,final_output,BSITech,,2020-12-19T15:48:59.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-drone-delivery
+,,,,,0,steigenhaus/hashcode-delivery,Hashcode delivery,Ivan Timofeev,,2020-11-23T07:52:22.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-drone-delivery
+,,,,,0,sawradipsaha/reading-data-efficiently-with-dictionaries,Reading Data Efficiently(With dictionaries),Sawradip Saha,,2020-09-10T08:16:53.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hashcode-drone-delivery
+,,,,,0,chankhavu/static-file,static_file,Chan Kha Vu,,2021-02-24T06:28:45.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,chankhavu/notebook65db07c95b,notebook65db07c95b,Chan Kha Vu,,2021-02-24T06:30:29.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,x2alexteam/drones-and-warehouses,Drones_and_Warehouses,2xAlex_team,,2020-12-24T07:09:51.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,janbecker000/drones-v8,drones_v8,Jan Becker,,2020-11-26T07:10:55.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,swapnilaryansinha/drone-project,Drone_project,Swapnil Aryan Sinha,,2020-11-02T00:46:54.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,n3n77i/dataloader,dataloader,n3n7i,,2020-09-18T13:33:28.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,n3n77i/hc-puzzle,hc_puzzle,n3n7i,,2020-09-18T13:03:25.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,maximumbeings/hashcode-drone-eda-2,HashCode Drone EDA_2,MaximumBeings,,2020-09-11T14:44:51.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,mahmoudvaziri/file-format,File format,mahmoudvaziri,,2020-09-09T17:12:22.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hashcode-drone-delivery
+,,,,,0,vaibhavkshirsagar/notebook6c2d9dc8e8,notebook6c2d9dc8e8,vaibhav kshirsagar,,2021-05-09T07:44:37.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery
+,,,,,0,tabriznuruyev/in-progress-google-hash-code,(in progress) Google_hash_code,Tabriz Nuruyev,,2020-11-10T11:28:08.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery
+,,,,,0,lucasromanato/hash-code-drones-google-imt,Hash Code Drones - Google IMT,Lucas Romanato,,2020-10-20T22:21:01.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery
+,,,,,0,markelovaayfstasii/drones-project,Drones_project,Markelova Anastasii,,2020-12-23T20:44:50.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery
+,,,,,0,shashankrajput9/drone-delivery-hashcode,Drone delivery hashcode,Shashank  Rajput,,2020-10-15T05:44:21.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery
+,,,,,0,dargupallyvaishnavi/notebook4261c34501,notebook4261c34501,DARGUPALLY VAISHNAVI,,2020-10-08T16:06:37.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery
+,,,,,0,sachinsshetty/data-extraction,Data Extraction,sachinshetty,,2020-09-09T15:07:20.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hashcode-drone-delivery

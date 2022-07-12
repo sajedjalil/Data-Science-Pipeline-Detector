@@ -1,0 +1,3 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,mohitsital/0-16372-predict-the-weather,0.16372 - Predict the Weather,Mohit,,2020-05-07T16:10:35.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-weather-twitter
+,,,,,0,ruchibahl18/predict-the-weather-bag-of-words,Predict the weather Bag of words,ruchibahl,,2019-01-18T18:14:17.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-weather-twitter

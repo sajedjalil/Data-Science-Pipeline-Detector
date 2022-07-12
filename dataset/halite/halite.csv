@@ -1,0 +1,107 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,yegorbiryukov/halite-swarm-intelligence,Halite Swarm Intelligence,Yegor Biryukov,,2020-09-02T22:58:55.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],232,halite
+,,,,,0,sam/halite-sdk-overview,Halite SDK Overview,Sam Harris,,2020-06-15T22:06:00.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],147,halite
+,,,,,0,basu369victor/designing-game-ai-with-reinforcement-learning,Designing game AI with Reinforcement learning,Victor Basu,,2020-06-27T21:35:40.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],126,halite
+,,,,,0,alexisbcook/getting-started-with-halite,Getting Started With Halite,Alexis Cook,,2022-02-09T17:34:29.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],125,halite
+,,,,,0,iicyan/japanese-halite-introduction,[Japanese] Halite コンペの概要 introduction,Hayato Iida,,2020-07-06T01:43:30.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],65,halite
+,,,,,0,solverworld/optimus-mine-agent,Optimus Mine Agent,SolverWorld,,2020-07-04T19:38:51.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,halite
+,,,,,0,ajeffries/obsolete-halite-v0-starter-notebook,[Obsolete] Halite v0 Starter Notebook,Adam,,2020-06-15T19:18:29.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,halite
+,,,,,0,kwabenantim/stable-baselines-starter,Stable-Baselines Starter,Kwabena,,2020-08-24T09:38:44.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,halite
+,,,,,0,tiger37/reinforcement-learning-meets-halite,Reinforcement Learning meets Halite,Travis Hammond,,2020-05-22T16:53:17.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,halite
+,,,,,0,solverworld/optimal-mining-with-carried-halite,Optimal Mining with Carried Halite,SolverWorld,,2020-07-01T20:35:51.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,halite
+,,,,,0,solverworld/optimal-mining,Optimal Mining,SolverWorld,,2020-07-03T22:00:27.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,halite
+,,,,,0,hsperr/halite-iv-dqn-example-pytorch,Halite IV - DQN example - PyTorch,Henning Sperr,,2020-08-03T19:51:47.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,halite
+,,,,,0,mylesoneill/halite-template-bot,Halite Template Bot,Myles O'Neill,,2020-06-18T00:46:43.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,halite
+,,,,,0,kwabenantim/swarm-intelligence-with-sdk,Swarm Intelligence with SDK,Kwabena,,2020-08-22T03:51:09.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,halite
+,,,,,0,superant/halite-boilerbot,Halite BoilerBot,Ant 🐜,,2020-05-18T11:44:13.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,halite
+,,,,,0,iicyan/halite-result-visualization-from-leaderboard,[Halite] Result Visualization from leaderboard,Hayato Iida,,2020-07-02T16:26:47.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,halite
+,,,,,0,tmbond/halite-example-agents,Halite Example Agents,Timothy Bond,,2020-04-14T21:32:37.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,halite
+,,,,,0,yegorbiryukov/pirate-haven,🏴‍☠️ Pirate Haven 🏴‍☠️,Yegor Biryukov,,2020-07-11T14:47:33.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,halite
+,,,,,0,huiunited/game-commentary,Game Commentary,HuiUnited,,2020-09-05T02:20:24.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,halite
+,,,,,0,melissarajaram/swarm-dissected-halite-beginners,Swarm Dissected: Halite Beginners,Melissa Rajaram,,2020-06-24T01:28:05.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,halite
+,,,,,0,artgol89/environment-state-representation-part-1,Environment state representation [Part 1],Artem Golubin,,2020-07-01T22:00:40.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,halite
+,,,,,0,robga/pytorch-tabnet-spawn-predictor-imitator,Pytorch-TabNet Spawn Predictor / Imitator,robga,,2020-08-24T18:38:54.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,halite
+,,,,,0,superant/lion-arena-v1,🦁🦁 Lion Arena v1 🦁🦁,Ant 🐜,,2020-07-24T14:45:23.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,halite
+,,,,,0,krishnaharish/optimus-mine-agent,Optimus Mine Agent,Krishna Harish,,2020-07-08T07:52:34.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,halite
+,,,,,0,iicyan/halite-battle-result-visualization,[Halite] Battle Result Visualization,Hayato Iida,,2020-06-29T17:37:44.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,halite
+,,,,,0,artgol89/reward-function-design-part-2,Reward function design [Part 2],Artem Golubin,,2020-07-02T17:36:54.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,halite
+,,,,,0,iicyan/japanese-halite-submit,[Japanese] Halite 学習からSubmit,Hayato Iida,,2020-06-18T13:55:44.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,halite
+,,,,,0,agirlcoding/starteragent,StarterAgent,Agirlcoding ,,2020-06-15T22:19:14.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,halite
+,,,,,0,yegorbiryukov/swarm-intelligence-with-evolutionary-algorithm,Swarm Intelligence with Evolutionary Algorithm,Yegor Biryukov,,2020-08-03T15:28:08.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,halite
+,,,,,0,melissarajaram/halite-game-profiler,Halite Game Profiler,Melissa Rajaram,,2020-08-05T03:49:28.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,halite
+,,,,,0,svurucu/double-q-network,Double Q Network,Şiyar Vurucu,,2020-08-03T17:46:12.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,halite
+,,,,,0,luji01/run-games-in-parallel,Run games in parallel,Lucas Schnack,,2020-08-21T23:50:20.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,halite
+,,,,,0,solverworld/replay-your-agent-on-a-specific-step,Replay your agent on a specific step,SolverWorld,,2020-07-01T11:21:49.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,halite
+,,,,,0,shahsoumil/understanding-halite-observations,Understanding halite observations,Soumil Shah,,2020-04-10T18:21:52.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,halite
+,,,,,0,yegorbiryukov/vortex,Vortex,Yegor Biryukov,,2020-07-23T20:44:59.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,halite
+,,,,,0,nlebang/halite-for-beginners,HALITE_for_Beginners,Bang Nguyen,,2020-07-03T01:47:36.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,halite
+,,,,,0,jbj2505/analysing-halite-matches-1,Analysing Halite Matches #1,Jan-Benedikt Jagusch,,2020-04-23T19:18:16.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,halite
+,,,,,0,awanderingsoul/halite-basic-greedy-agent,Halite Basic Greedy Agent,A Wandering Soul,,2020-04-11T20:50:40.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,halite
+,,,,,0,shirakia/optimus-mine-agent-best-ship-for-sy-1000-score,Optimus Mine Agent best ship for sy (1000+score),shirakia,,2020-08-21T11:00:15.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,halite
+,,,,,0,hubcity/halitehack-ui-improvements,HaliteHack UI Improvements,Hubcity,,2020-05-13T23:41:50.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,halite
+,,,,,0,junkoda/c-c-example-for-simulation-competitions,C/C++ example for simulation competitions,🐢 Jun Koda,,2020-08-04T02:37:41.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,halite
+,,,,,0,christophernaimo/modular-reinforcement-learning,Modular Reinforcement Learning,Christopher Naimo,,2020-07-19T17:13:47.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,halite
+,,,,,0,iicyan/japanese-halite-sdk-overview,[Japanese] Halite SDK Overview 日本語訳,Hayato Iida,,2020-06-18T13:55:33.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,halite
+,,,,,0,viewlagoon/halite-iv-count-win-or-lose-for-each-team,Halite IV - Count win or lose for each team,viewlagoon,,2020-09-23T01:08:55.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,halite
+,,,,,0,shirakia/see-your-score-history-for-each-submission,See your score history for each submission,shirakia,,2020-09-17T16:02:22.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,halite
+,,,,,0,erelin6613/ai-in-game-industry,AI in Game Industry,Valentine,,2020-08-08T22:33:09.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,halite
+,,,,,0,hubcity/pirate-agent-halite-v0-3-2,Pirate Agent Halite v0.3.2,Hubcity,,2020-05-22T20:30:59.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,halite
+,,,,,0,shams1/optimus-mine-agent-more-ships,Optimus Mine Agent more ships,Shams Sultan,,2020-08-23T13:10:44.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,halite
+,,,,,0,santoshd3/swarm-dissect,Swarm Dissect,Santosh kumar,,2020-08-25T05:58:23.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,halite
+,,,,,0,benzyx/make-sure-you-can-beat-this-baseline-idle-bot,Make sure you can beat this: Baseline Idle Bot,Ben Zhang,,2020-06-23T05:29:13.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,halite
+,,,,,0,alicia183/halite-bot-aggressive-bot-starter-code,Halite Bot: Aggressive Bot Starter Code,Alicia,,2020-06-27T20:24:00.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,halite
+,,,,,0,stefanbschneider/halite-multi-ship-yard-agent-with-ca,Halite: Multi-Ship & Yard Agent with CA,Stefan,,2020-05-07T16:17:51.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,halite
+,,,,,0,karlkraus/halite-4-hardware-performance-analysis,Halite 4 Hardware Performance Analysis,Karl Kraus,,2020-07-18T19:04:52.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,halite
+,,,,,0,hubcity/simple-bad-agents-halite,Simple Bad Agents (Halite),Hubcity,,2020-04-24T15:21:44.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,halite
+,,,,,0,philculliton/test-agents,Test Agents,Phil Culliton,,2020-04-20T22:05:36.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,halite
+,,,,,0,c7934597/optimus-mine-agent,Optimus Mine Agent,Weiming Lin,,2020-08-16T08:46:47.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,halite
+,,,,,0,erelin6613/fork-from-english,ИИ в игровой индустрии (Fork from english),Valentine,,2020-08-09T12:03:30.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,halite
+,,,,,0,solverworld/changing-options-from-testing-to-competition,Changing Options From Testing to Competition,SolverWorld,,2020-07-22T00:21:05.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,halite
+,,,,,0,anoopnjl/ship-shipyards-view-of-board,Ship/Shipyards view of Board,Anoop,,2020-07-20T10:44:38.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,halite
+,,,,,0,hubcity/bugs-halite-0-3-2,Bugs Halite 0.3.2,Hubcity,,2020-05-29T21:31:27.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,halite
+,,,,,0,tathagatbanerjee/halite-getting-started,Halite Getting Started,Tathagat Banerjee,,2020-04-12T05:14:35.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,halite
+,,,,,0,arunprathap/halite-iv-swarm-of-bots-silver-submission,Halite IV - Swarm of Bots (Silver Submission),Arun P R,,2020-09-21T06:19:00.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,shams1/stable-baselines-starter,Stable-Baselines Starter,Shams Sultan,,2020-08-24T15:38:45.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,ghaiyur/test-vcv1,test_vcv1,Ghaiyur,,2020-08-20T02:23:15.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,diamondsnake/rules-based-algorithm-attack,Rules Based Algorithm - Attack,ODI6s,,2020-07-31T09:43:46.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,lilsummer877/explore-exploit,🚙Explore & 🛠exploit,WordUp4Summer,,2020-07-13T21:27:47.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,christophernaimo/better-random-bot,Better Random Bot,Christopher Naimo,,2020-07-09T00:29:03.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,solverworld/shortest-direction-to-move-via-wraparound,Shortest Direction to Move via Wraparound,SolverWorld,,2020-06-27T20:09:41.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,damoonshahhosseini/useful-modules-and-functions,useful-modules-and-functions,Damoon Shahhosseini,,2020-08-20T05:09:44.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,josehenriqueroveda/halitestarter,HaliteStarter,Jose Henrique Roveda,,2020-06-18T20:13:31.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,jakelj/halite-4-0-1-beginner-notebook,Halite 4 - 0.1 Beginner notebook,Jake,,2020-05-01T16:58:36.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,halite
+,,,,,0,markhaoxiang/syncbot-spawning-emulator,Syncbot Spawning emulator,MarkHaoxiang,,2020-09-21T13:57:31.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,maciejgronczynski/halite-game,Halite Game,Maciej Gronczynski,,2020-09-02T06:30:21.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,arunprathap/getting-started-with-halite-bot-in-a-class-boile,Getting Started with Halite - Bot in a Class Boile,Arun P R,,2020-07-19T06:02:56.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,krishnaharish/halite-swarm-agent,Halite Swarm Agent,Krishna Harish,,2020-07-08T06:10:04.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,shaitender/getting-started-halite,Getting Started - Halite,Shaitender Singh,,2020-06-28T06:08:51.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,eletrovolt/bot-tutorial-v0-1,Bot-tutorial-v0.1,GabrielDertoni,,2020-06-21T17:43:41.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,hubcity/enemy-shipyards-0-3-1,Enemy Shipyards 0.3.1,Hubcity,,2020-05-14T21:36:45.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,halite
+,,,,,0,almamun4r/ai-game-with-reinforcement-learning,AI Game with Reinforcement learning,Al Mahmud Al Mamun,,2021-09-12T09:28:39.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,kamaljain77/980-lb-mine-agent-more-ships,980+ LB - Mine Agent more ships,Kamal Jain,,2020-09-21T07:54:00.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,tfukuda675/maze-rl-qlearning-explanation,maze_rl_Qlearning_explanation,kioxpace675,,2020-10-18T12:16:43.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,shams1/swarm-intelligence, Swarm Intelligence,Shams Sultan,,2020-08-28T18:05:27.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,riverlewis/moar-aggro-ships,MOAR AGGRO SHIPS,River Lewis,,2020-06-22T21:09:51.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,artkulak/halite-template-bot,Halite Template Bot,Art,,2020-06-18T14:51:46.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,makarbaderko/getting-started-with-halite,getting-started-with-halite,Makar Baderko,,2020-06-17T06:25:49.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,mehdi16/halite-game-starter-notebook,Halite Game starter Notebook,Mehdi Sidi Boumedine,,2020-06-20T14:53:08.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,halite
+,,,,,0,jxm222/halite-starter-code-800-points,Halite Starter Code (800 points),Shivam Sharma,,2021-07-30T04:58:39.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,shams1/swarm-intelligence-with-sdk,Swarm Intelligence with SDK,Shams Sultan,,2020-08-27T13:32:00.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,shams1/halite-template-bot,Halite Template Bot,Shams Sultan,,2020-08-27T13:25:52.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,shams1/pytorch-starter,PyTorch Starter,Shams Sultan,,2020-08-23T13:28:20.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,diamondsnake/rules-based-algorithm,Rules Based Algorithm,ODI6s,,2020-07-30T15:36:35.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,jake126/halite-exploration,Halite exploration,Jake126,,2020-07-16T15:27:06.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,saraswatitiwari/kernel36ebf1354a,kernel36ebf1354a,Saraswati Tiwari,,2020-07-02T12:09:10.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,soichiroiino/kernel2acdacc020,kernel2acdacc020,TUSI,,2020-06-17T08:08:00.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,halite
+,,,,,0,pkompally/designing-game-ai-with-reinforcement-learning,Designing game AI with Reinforcement learning,PranavKompally,,2020-12-11T06:45:33.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,lmiele/desenvolvendo-jogos-em-ai,Desenvolvendo jogos em AI,LeMiele,,2020-12-06T17:08:17.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,kamaljain77/optimus-mine-agent-more-ships,Optimus Mine Agent more ships,Kamal Jain,,2020-09-14T15:58:21.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,blaxkdolphin/control-use-rules,control use rules,Yier,,2020-08-18T20:02:08.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,morizin/optimus-mine-agent,Optimus Mine Agent,Mohammed Rizin V K,,2020-08-07T16:41:31.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,jpmary/halite-v2,Halite v2,Jean-Philippe MARY,,2020-09-07T20:32:17.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,akashsuper2000/pytorch-starter,PyTorch Starter,Akash G,,2020-08-02T06:36:22.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,fellipeaugustosantos/kernel33f4e3756f,kernel33f4e3756f,Fellipe Augusto Santos,,2020-07-25T06:55:10.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,tonyzampogna/halite-first-submission,Halite - first submission,TonyZampogna,,2020-07-20T15:24:13.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,ykwhrt/halite-template-bot,Halite Template Bot,Y-kwhrt,,2020-07-09T05:07:57.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,joshsny/halite-swarm-intelligence,Halite Swarm Intelligence,Joshua Snyder,,2020-06-18T21:48:18.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite
+,,,,,0,felixneate/halite-training-data,Halite Training Data,Felix Neate,,2020-06-06T19:54:51.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,halite

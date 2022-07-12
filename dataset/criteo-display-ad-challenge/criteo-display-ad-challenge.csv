@@ -1,0 +1,4 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,egordm/deep-learning-recommendation-model-dlrm,Deep Learning Recommendation Model DLRM,Egor Dmitriev,,2022-01-28T19:50:20.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,criteo-display-ad-challenge
+,,,,,0,rikdifos/criteo-ctr-baseline,Criteo CTR Baseline,Seanny,,2021-07-23T03:52:26.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,criteo-display-ad-challenge
+,,,,,0,leejunseok97/deepfm-criteo-pytorch,DeepFM(criteo)_pytorch,LeeJunSeok,,2022-05-31T15:15:40.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,criteo-display-ad-challenge

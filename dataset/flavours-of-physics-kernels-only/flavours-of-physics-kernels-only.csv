@@ -1,0 +1,27 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,serkanpeldek/arp-mada-r-me-oldu-mu-3,Çarpışmada Çürüme Oldu mu? τ → 3μ ?,Serkan Peldek,,2019-10-06T07:42:57.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,flavours-of-physics-kernels-only
+,,,,,0,muonneutrino/lightgbm-starter-some-data-exploration,LightGBM Starter & Some Data Exploration,MuonNeutrino,,2018-06-27T03:54:15.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,flavours-of-physics-kernels-only
+,,,,,0,ashishpatel26/think-diffrently-e-mc2,Think Diffrently E=MC2 🧠🧠🧠,NowYSM,,2018-08-11T18:32:04.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,flavours-of-physics-kernels-only
+,,,,,0,yasserhessein/finding-with-svm-knn-gnb-xgb,Finding τα → μμε with (SVM+KNN+GNB+XGB),Yasir Hussein Shakir,,2021-09-29T09:12:37.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,flavours-of-physics-kernels-only
+,,,,,0,sionek/ugbc-gs,UGBC GS,Grzegorz Sionkowski,,2018-06-28T12:38:23.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,flavours-of-physics-kernels-only
+,,,,,0,artgor/flavours-of-physics-basic-model,Flavours of Physics: basic model,Andrew Lukyanenko,,2018-07-21T15:53:35.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,flavours-of-physics-kernels-only
+,,,,,0,scirpus/complex-math,Complex Math,Scirpus,,2020-02-01T14:13:54.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics-kernels-only
+,,,,,0,achal71/cern-simple-classification-models,CERN Simple Classification Models,Achal Agarwal,,2018-09-22T11:49:40.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics-kernels-only
+,,,,,0,scirpus/five-line-model,Five Line Model,Scirpus,,2018-07-05T16:09:09.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics-kernels-only
+,,,,,0,mik3hall/tau-notebook,Tau notebook,Mike Hall,,2018-08-23T11:48:43.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,flavours-of-physics-kernels-only
+,,,,,0,nafisur/ugbc-gs,UGBC GS,Nafisur Rahman,,2018-07-24T11:29:55.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,flavours-of-physics-kernels-only
+,,,,,0,mik3hall/hep-ml,hep_ml ,Mike Hall,,2018-08-22T13:45:12.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics-kernels-only
+,,,,,0,prashantmudgal/lhc-tau-to-muon-decay,LHC_Tau_to_Muon_Decay,Doktor Glas,,2020-05-02T12:41:47.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics-kernels-only
+,,,,,0,rahulbagga/neural-networks-in-keras,Neural Networks in Keras,Rahul Bagga,,2019-06-23T10:36:12.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics-kernels-only
+,,,,,0,maliabbas/ugbc-gs,UGBC GS,Mohammad Ali Abbas,,2019-06-16T13:59:07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics-kernels-only
+,,,,,0,skooch/ugbc-es4,UGBC ES4,Eric A. Scuccimarra,,2018-08-23T10:12:15.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics-kernels-only
+,,,,,0,skooch/ensemble-with-ugbc,Ensemble with UGBC,Eric A. Scuccimarra,,2018-07-20T11:19:42.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics-kernels-only
+,,,,,0,scirpus/fork-of-complex-math,Fork of Complex Math,Scirpus,,2020-02-05T14:58:20.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,abhinav2308/raredecaysearch,rareDecaySearch,AbhinavSharma,,2019-08-31T19:41:05.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,maliabbas/flavours-of-physics,Flavours of Physics,Mohammad Ali Abbas,,2019-06-20T02:39:37.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,maliabbas/five-line-model,Five Line Model,Mohammad Ali Abbas,,2019-06-16T13:53:47.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,wsbae01/tau-decay-lgbm-bayes-20135453-wonseok-bae,Tau_decay_lgbm+bayes_20135453_Wonseok_Bae,Wonseok Bae,,2019-05-24T08:02:05.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,bdmj12/flavours-of-physics-3-challenge-8,Flavours of Physics: τ→ 3μ Challenge (8),Benjamin Jones,,2018-09-23T17:58:03.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,cieske/lightgbm-model-magic-features,lightgbm_model_magic_features,Changsoo Kwak,,2018-09-21T07:01:48.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,bdmj12/flavours-of-physics-3-competition-2,Flavours of Physics: τ→ 3μ Competition (2),Benjamin Jones,,2018-08-26T18:18:35.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only
+,,,,,0,darrellulm/ugbc-gs,UGBC GS,Darrell Ulm,,2018-07-31T01:13:48.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics-kernels-only

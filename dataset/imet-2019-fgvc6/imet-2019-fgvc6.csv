@@ -1,0 +1,100 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,chewzy/eda-weird-images-with-new-updates,EDA - Weird Images with New Updates!,ChewZY,,2019-04-25T15:55:15.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],146,imet-2019-fgvc6
+,,,,,0,lopuhin/imet-2019-submission,imet-2019-submission,Konstantin Lopuhin,,2019-04-01T11:05:18.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],123,imet-2019-fgvc6
+,,,,,0,ateplyuk/keras-starter,Keras Starter,Alexander Teplyuk,,2019-04-12T05:44:00.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,imet-2019-fgvc6
+,,,,,0,zfturbo/benchmark-2019-speed-of-image-reading,Benchmark 2019: Speed of image reading,ZFTurbo,,2019-07-08T18:36:07.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,imet-2019-fgvc6
+,,,,,0,mathormad/resnet50-v2-keras-focal-loss-mix-up,Resnet50_v2 keras + focal loss + mix_up,KeepLearning,,2019-07-29T02:17:05.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],97,imet-2019-fgvc6
+,,,,,0,mnpinto/imet-fastai-starter,iMet fastai starter ,Miguel Pinto,,2019-03-31T19:10:48.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,imet-2019-fgvc6
+,,,,,0,ateplyuk/remove-background,Remove background,Alexander Teplyuk,,2019-04-21T14:44:37.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,imet-2019-fgvc6
+,,,,,0,konradb/really-ugly-clone,really ugly clone,Konrad Banachewicz,,2019-05-27T21:32:19.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,imet-2019-fgvc6
+,,,,,0,hidehisaarai1213/imet-pytorch-starter,iMet Pytorch Starter,Hidehisa Arai,,2019-04-02T21:49:39.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,imet-2019-fgvc6
+,,,,,0,ateplyuk/efficientnet-keras-s75-b200-e20,Efficientnet (Keras s75_b200_e20),Alexander Teplyuk,,2019-06-01T12:27:40.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,imet-2019-fgvc6
+,,,,,0,itslek/fastai-resnet50-imet-v4-2,fastai resnet50 {iMet} v4.2,Alex Lekov,,2019-04-13T13:18:50.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,imet-2019-fgvc6
+,,,,,0,backaggle/imet-fastai-starter-focal-and-fbeta-loss,iMet fastai starter - focal and fbeta loss,automata,,2019-04-02T03:47:53.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,imet-2019-fgvc6
+,,,,,0,xiuchengwang/keras-xception-fine-turning-facol-loss,Keras Xception Fine-Turning Facol-loss,xiucheng wang,,2019-04-14T03:58:28.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,imet-2019-fgvc6
+,,,,,0,ttahara/eda-compare-number-of-culture-and-tag-attributes,[EDA] Compare number of culture and tag attributes,Tawara,,2019-04-02T06:27:46.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,imet-2019-fgvc6
+,,,,,0,ratthachat/imet-resnet50-keras-starter,iMet: ResNet50 Keras Starter,Jung,,2019-05-12T09:39:27.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,imet-2019-fgvc6
+,,,,,0,jesucristo/imet2020-visualization,iMet2020 Visualization,Nanashi,,2020-05-02T18:01:31.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,imet-2019-fgvc6
+,,,,,0,h4211819/leaderboard-analysis,Leaderboard_Analysis,30CrMnSiA,,2019-06-19T13:20:28.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,imet-2019-fgvc6
+,,,,,0,dimitreoliveira/imet-collection-2019-eda-keras,iMet Collection 2019 - EDA & Keras,DimitreOliveira,,2019-04-12T19:34:44.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,imet-2019-fgvc6
+,,,,,0,ttahara/imet2019-chainer-starter-seresnet152-focalloss,iMet2019 Chainer Starter (SEResNet152 + FocalLoss),Tawara,,2019-04-10T16:53:56.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,imet-2019-fgvc6
+,,,,,0,kenmatsu4/first-eda-label-coocurrence-matrix,First EDA (label coocurrence matrix),kenmatsu4,,2019-04-02T17:26:46.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,imet-2019-fgvc6
+,,,,,0,mpsampat/fastai-resnet50-imet-v4-2,fastai resnet50 {iMet} v4.2,Mehul Sampat,,2019-06-05T16:27:31.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,imet-2019-fgvc6
+,,,,,0,tarunpaparaju/imet-competition-cultural-eda,iMet Competition : Cultural EDA,Tarun Paparaju,,2019-04-28T14:23:56.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,imet-2019-fgvc6
+,,,,,0,xiuchengwang/cnn-keras-starter-senet-50,CNN Keras Starter SeNet_50,xiucheng wang,,2019-04-12T15:45:18.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,imet-2019-fgvc6
+,,,,,0,interneuron/wormnet,WormNet,interneuron,,2019-04-25T17:58:14.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2019-fgvc6
+,,,,,0,interneuron/randomwire,RandomWire,interneuron,,2019-04-20T08:45:46.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2019-fgvc6
+,,,,,0,axel81/imet-fastai-starter-resnet152-focal-loss,iMet fastai starter Resnet152 + Focal loss,Ram Ramrakhya,,2019-04-24T17:35:09.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2019-fgvc6
+,,,,,0,go5kuramubon/eda-a-lot-of-labels-have-few-images,[EDA] A lot of labels have few images.,pao,,2019-03-29T14:07:10.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2019-fgvc6
+,,,,,0,stalkermustang/pytorch-resnet18-pretraied-test,pytorch_resnet18_pretraied_test,Igor Kotenkov,,2019-03-30T11:50:53.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2019-fgvc6
+,,,,,0,bejeweled/fast-and-simple-eda-sample-sub-0-00053,Fast and simple EDA (sample_sub 0.00053),Dmitriy Ershov,,2019-03-28T17:34:16.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2019-fgvc6
+,,,,,0,jionie/eda-classes-most-frequent-and-least-frequent,EDA-classes(most frequent and least frequent),jionie,,2019-06-01T00:22:08.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,imet-2019-fgvc6
+,,,,,0,demonplus/fastai-resnet152-imet,fastai resnet152 iMet,Anna Novikova,,2019-04-18T04:35:10.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,imet-2019-fgvc6
+,,,,,0,kenmatsu4/f2-score-for-keras,f2_score for Keras,kenmatsu4,,2019-03-30T18:14:52.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,imet-2019-fgvc6
+,,,,,0,jionie/training-fold-0-ibnresnext101-lovasz-focal,training-fold-0-ibnresnext101-lovasz-focal,jionie,,2019-06-04T02:36:04.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,imet-2019-fgvc6
+,,,,,0,axel81/ensembling-imet,Ensembling iMet,Ram Ramrakhya,,2019-06-03T04:53:52.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,imet-2019-fgvc6
+,,,,,0,go1dfish/eda-on-imet-collection-2019,EDA on iMet Collection 2019,GoldFish,,2019-04-03T14:04:30.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,imet-2019-fgvc6
+,,,,,0,alexanderliao/leaderboard-analysis-with-t-test-for-slope,Leaderboard_Analysis with t-test for slope,Liao,,2019-06-21T15:07:27.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imet-2019-fgvc6
+,,,,,0,axel81/eda-imet-collection,EDA iMet Collection,Ram Ramrakhya,,2019-04-28T17:01:46.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imet-2019-fgvc6
+,,,,,0,seefun/imet-get-aspect-ratio,iMet-get-aspect-ratio,seefun,,2019-04-21T13:50:33.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imet-2019-fgvc6
+,,,,,0,ji648513181/imet-data-analysis-all,iMet Data Analysis all,Dongfei Ji,,2019-04-17T04:57:27.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imet-2019-fgvc6
+,,,,,0,ren4yu/eda-culture-and-tag-cooccurrence,[EDA] culture and tag cooccurrence,yu4u,,2019-03-29T15:57:09.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imet-2019-fgvc6
+,,,,,0,blondinka/predict-submit-seresnext101,predict_submit_seresnext101,Blonde,,2019-07-25T12:57:10.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,imet-2019-fgvc6
+,,,,,0,shubham505/best-submission,Best_submission,shubham goyal,,2019-05-14T08:25:52.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,imet-2019-fgvc6
+,,,,,0,takamichitoda/fine-tuning-vgg16,fine tuning VGG16,Takamichi Toda,,2019-03-29T10:35:20.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,imet-2019-fgvc6
+,,,,,0,luyujia/pytorch-my-tta-function-easy-to-understand,PyTorch My_TTA Function(easy to understand),Jar,,2019-06-01T06:40:51.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,imet-2019-fgvc6
+,,,,,0,buaazijian/tta-submit,TTA-submit,JIANJIAN,,2019-05-28T06:08:38.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,imet-2019-fgvc6
+,,,,,0,dilapsky/easy-71st-0-626-7fold-fastai-incepresv2-resnet50,Easy 71st 0.626 7fold Fastai incepresv2 + resnet50,Dilapsky Lee,,2019-06-11T02:50:33.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,imet-2019-fgvc6
+,,,,,0,chewzy/train-file-with-labels-and-meta-data,Train file with labels and meta data,ChewZY,,2019-04-22T16:40:46.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,imet-2019-fgvc6
+,,,,,0,luyujia/fast-5-times-test-data-generator,fast 5 times test_data generator,Jar,,2019-05-30T07:31:54.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2019-fgvc6
+,,,,,0,autuanliuyc/imet-densenet-se-resnext101-32x4d,iMet densenet/se_resnext101_32x4d,云不懂风吹,,2019-05-22T03:41:21.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2019-fgvc6
+,,,,,0,dimitreoliveira/imet-keras-pretrained-model-as-feature-extractor,iMet - Keras pretrained model as feature extractor,DimitreOliveira,,2019-04-21T20:23:46.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2019-fgvc6
+,,,,,0,hengzheng/imet-densenet-and-two-weighted-outputs-model,iMet densenet and two weighted outputs model,Heng Zheng,,2019-04-02T03:33:20.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2019-fgvc6
+,,,,,0,pednoi/deep-learning-imet-collection-2019,Deep Learning กับงานศิลปะ (iMet Collection 2019),Pednoi,,2019-09-07T12:57:45.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,byrachonok/sigmoid-and-softmax-output-mix-pytorch-resnet18,sigmoid and softmax output mix - pytorch resnet18,Vitali Burachonok,,2019-05-26T07:38:08.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,hanmingliu/eda-on-frequent-labels,EDA on Frequent Labels,Hanming Liu,,2019-05-10T17:48:43.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,jshen97/label-exploration-and-clustering,Label exploration and clustering,Jason Shen,,2019-05-04T10:11:06.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,kokecacao/imet-word-embedding,IMet Word Embedding,Hanke Chen,,2019-04-28T16:38:06.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,mariammohamed/imet-eda,IMet-EDA,Mariam Mohamed,,2019-04-20T17:31:11.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,vonneumann/eda-compare-number-of-culture-and-tag-attributes,[EDA] Compare number of culture and tag attributes,neumann,,2019-04-14T20:22:06.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,maxlenormand/eda-look-into-image-size,EDA: look into image size,Maxime Lenormand,,2019-05-31T14:56:02.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,nubatama/eda-imet,EDA iMet,nubatama,,2019-04-14T06:39:08.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,hengzheng/imet-first-try,iMet First Try,Heng Zheng,,2019-03-30T09:19:10.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,bigswimatom/exploration-of-data-of-imet-step-by-step,exploration of data of iMet step by step,Katsunori Nakai,,2019-03-30T21:45:27.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,imet-2019-fgvc6
+,,,,,0,calemolech/mid-checkpoint-fastai-resnet50,mid-checkpoint-fastai-resnet50,Huy Tran,,2019-05-30T15:04:10.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2019-fgvc6
+,,,,,0,yfyangd/imet-eda,iMet EDA,Yang Yuan Fu,,2020-04-11T06:10:10.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2019-fgvc6
+,,,,,0,gskdhiman/public-version-pytorch-resnet50-starter-v2,{Public Version} Pytorch Resnet50 starter V2,Gursewak Dhiman,,2019-05-19T15:29:16.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2019-fgvc6
+,,,,,0,kiurtis/a-step-by-step-eda,A step by step EDA,Kiurtis,,2019-05-24T13:29:36.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2019-fgvc6
+,,,,,0,takamichitoda/attribute-name-s-word-vector,attribute_name's word vector,Takamichi Toda,,2019-04-05T09:32:33.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2019-fgvc6
+,,,,,0,arailly/multi-label-f-beta-score,Multi-label F-beta score,arailly,,2019-04-02T02:46:33.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2019-fgvc6
+,,,,,0,nctuvrdl/kernel32cac2a037,kernel32cac2a037,NCTU-VRDL,,2019-12-12T17:20:42.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,aetheraijimmy/kernel732407a477,kernel732407a477,aetherAIJimmy,,2019-12-12T16:50:44.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,shortcake7/kernel58f095413a,kernel58f095413a,Allen,,2019-12-11T07:37:14.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,yufeng8607/imet-baseline,imet_baseline,YuFeng,,2019-08-14T04:54:12.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,tony92151/pytorch-seresnext101-32x4d-kfold-focal-loss-v3-0,pytorch_seresnext101-32x4d+kfold+focal loss v3.0,tonyguo,,2019-06-06T05:43:21.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,koushikcon/using-pytorch-and-vgg,Using Pytorch and VGG ,Koushik,,2019-05-30T09:14:29.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,namgalielei/imet-tensorflow,iMet Tensorflow,The Nam,,2019-06-05T01:59:23.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,tony92151/pytorch-densenet161-resnet18,pytorch_densenet161+resnet18,tonyguo,,2019-06-01T12:56:37.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,saladjay/densetnet-mixup-focalloss-v11,densetNet+mixup+focalloss v11,邓雍杰Jay,,2019-06-09T12:20:25.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,poorcow/imet-densenet201,iMet Densenet201,Poorcow,,2019-06-14T14:45:37.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,itwice/kernel266d1c7f1f,kernel266d1c7f1f,Nikita Shigarov,,2019-05-19T16:54:17.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,parmarsuraj99/pytorch-starter,Pytorch_starter,Suraj Parmar,,2019-05-06T02:03:31.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,eseymour/sklearn-dummy-baseline,sklearn Dummy Baseline,Edward Seymour,,2019-05-07T05:59:07.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2019-fgvc6
+,,,,,0,nitinguptadu0621/kernel1b7d80fe78,kernel1b7d80fe78,Nitingupta,,2020-01-28T11:57:26.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,goodyuyu/kernel188e34e372,kernel188e34e372,goodyuyu,,2019-12-25T03:06:38.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,shortcake7/kernel7a6785c220,kernel7a6785c220,Allen,,2020-01-02T02:37:23.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,ceshine/imet-validation-kernel-public,iMet Validation Kernel (Public),Ceshine Lee,,2019-07-20T03:03:53.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,ceshine/imet-inference-kernel-public,iMet Inference Kernel (Public),Ceshine Lee,,2019-07-20T11:58:17.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,ceshine/imet-trainer,iMet Trainer,Ceshine Lee,,2019-07-19T13:45:23.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,arjunrao2000/resnet50-pretrained-keras,ResNet50_pretrained_keras,Arjun Rao,,2019-06-03T10:49:45.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,maxlenormand/change-model-act-softmax-incresnetv2,Change model; act: softmax - IncResNetV2 ,Maxime Lenormand,,2019-06-03T03:45:36.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,maxlenormand/act-softmax-incresnetv2,act: softmax - IncResNetV2 ,Maxime Lenormand,,2019-06-02T07:45:12.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,saladjay/eda-imet,EDA  IMET,邓雍杰Jay,,2019-05-31T11:38:22.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,wx284260582/dataking-kernal,dataking_kernal,Sean- Xiao Wang,,2019-06-03T21:00:45.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,tony92151/kernel-dsaifinal4,kernel_dsaiFinal4,tonyguo,,2019-05-21T08:11:06.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,kenakai16/training,training,kenakai,,2019-05-17T02:52:45.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,lorenzomnto/imet-separate-culture-tag-models,iMet: separate culture/tag models,Lorenzo Minto,,2019-05-08T17:33:01.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,dilapsky/image-padding,image padding,Dilapsky Lee,,2019-04-25T08:24:23.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,narendrashu/imet-fastai,iMet fastai,Narendra Sahu,,2019-04-21T10:43:59.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,sujoykg/xception-keras-imet,Xception Keras - iMet,Sujoy K Goswami,,2019-04-17T05:09:40.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6
+,,,,,0,kimukimu/aspect-ratio-histogram,Aspect ratio histogram,kimukimu,,2019-04-11T16:07:30.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2019-fgvc6

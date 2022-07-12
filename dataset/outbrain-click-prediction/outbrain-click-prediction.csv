@@ -1,0 +1,805 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,anokas/outbrain-eda,Outbrain EDA,anokas,,2016-10-09T19:48:58.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],306,outbrain-click-prediction
+,,,,,0,gspmoreira/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Gabriel Moreira,,2016-10-17T19:22:26.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],122,outbrain-click-prediction
+,,,,,0,andreyg/explore-user-base-by-geo,Explore user base by GEO,Andrey,,2016-10-06T00:24:39.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,outbrain-click-prediction
+,,,,,0,sudalairajkumar/ftrl-starter-with-leakage-vars,FTRL Starter (with leakage vars),SRK,,2016-11-01T03:01:55.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,outbrain-click-prediction
+,,,,,0,clustifier/btb-0-63523-evaluation,BTB 0.63523 + evaluation,clustifier,,2017-03-22T10:12:48.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,outbrain-click-prediction
+,,,,,0,qqgeogor/keras-based-fm,keras based fm,qianqian,,2016-10-20T11:13:54.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,outbrain-click-prediction
+,,,,,0,joconnor/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,joconnor,,2016-10-08T11:36:47.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,outbrain-click-prediction
+,,,,,0,mpearmain/pandas2libffm,pandas2libFFM,Mike Pearmain,,2017-01-12T15:09:38.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,outbrain-click-prediction
+,,,,,0,jiweiliu/extract-leak-in-30-mins-with-small-memory,Extract leak in 30 mins with small memory,Jiwei Liu,,2016-10-16T01:04:50.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,outbrain-click-prediction
+,,,,,0,clustifier/pandas-is-cool-lb-0-63714,pandas is cool! LB: 0.63714,clustifier,,2016-11-06T19:06:27.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,outbrain-click-prediction
+,,,,,0,its7171/leakage-solution,leakage solution?,tito,,2016-10-13T19:52:56.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,outbrain-click-prediction
+,,,,,0,ashhafez/evaluate-map-score-without-groupby-in-python,Evaluate map score without groupby in python,ash hafez,,2016-12-26T14:53:49.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,outbrain-click-prediction
+,,,,,0,anokas/regularized-btb-0-635,Regularized BTB ~0.635,anokas,,2016-10-09T16:08:43.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,outbrain-click-prediction
+,,,,,0,franckjay/easy-random-forests,Easy Random Forests,Bootes,,2016-10-27T14:43:09.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,outbrain-click-prediction
+,,,,,0,its7171/is-landing-access-for-ad-clicks-in-page-views-csv,Is landing access for ad clicks in page_views.csv,tito,,2016-10-14T17:57:56.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,outbrain-click-prediction
+,,,,,0,qqgeogor/pypy-implementation-of-fm-with-adam,pypy implementation of fm(with adam),qianqian,,2017-01-07T02:24:30.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,outbrain-click-prediction
+,,,,,0,tkm2261/bigquery-is-cool-lb-0-63692,BigQuery is cool! LB:0.63692+,tkm2261,,2016-11-13T05:04:00.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,outbrain-click-prediction
+,,,,,0,omarelgabry/the-mystery-of-outbrain-ads,The Mystery of Outbrain Ads,OMAR ELGABRY,,2016-10-23T23:20:59.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,outbrain-click-prediction
+,,,,,0,jahchaisang/looking-at-the-data-python,Looking at the Data - Python,Jah Chaisangmongkon,,2016-10-07T14:24:23.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,outbrain-click-prediction
+,,,,,0,ksjpswaroop/notebookc3cc33774f,Notebookb4a84a42b9,Swaroop Kallakuri,,2016-10-05T21:12:31.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,outbrain-click-prediction
+,,,,,0,movahedmanesh/ctr-prediction-tasks,ctr_prediction_tasks,Mohammad Movahedmanesh,,2020-07-21T17:34:15.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,outbrain-click-prediction
+,,,,,0,ashhafez/fast-map-function,fast map function,ash hafez,,2016-12-20T19:57:59.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,outbrain-click-prediction
+,,,,,0,amingheibi/outbrain-eda,Outbrain EDA,Amin Gheibi,,2016-11-05T18:25:42.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,outbrain-click-prediction
+,,,,,0,mdbmilkov/btb-smoothing,BtB-smoothing,AMilkov,,2016-10-13T02:23:52.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,outbrain-click-prediction
+,,,,,0,jwegas/random-submission-just-for-fun,random submission.. just for fun,Evgenii Zhukov,,2016-10-06T10:08:29.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,outbrain-click-prediction
+,,,,,0,apartmentguru/outbrain-data-snapshot-python,Outbrain Data Snapshot -Python,Jorellano,,2016-10-08T02:21:57.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,outbrain-click-prediction
+,,,,,0,sauravkaushik8/pandas2libffm,pandas2libFFM,SauravKaushik8,,2017-01-14T14:34:35.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,qianglyu/some-analysis-before-designing-learning-model,Mapping the Challenge to a learning problem,Lenny Lv,,2016-12-28T07:39:43.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,sudalairajkumar/notebooke89e1ab126,Notebooke89e1ab126,SRK,,2016-11-25T12:54:53.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,mymkyt/quick-check,quick check,mayumi kiyota,,2016-12-10T07:34:37.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,xingobar/data-visualization,Data Visualization,Gary Ng,,2016-11-22T11:56:59.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,andris/schema-inference-1,Schema inference 1,Andris Birkmanis,,2016-10-16T18:10:38.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,csyhuang/explore-uuid,Explore_uuid,Myna at JadeGarden,,2016-10-09T02:52:40.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,outbrain-click-prediction
+,,,,,0,hdj0401/submission-with-platform-features-removed,Submission with platform features removed,NZ.DJ,,2018-10-22T08:28:25.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,rinalin/exercise-understand-the-users,Exercise: Understand the Users,RinaLin,,2017-04-17T17:40:47.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,yigalw/outbrain-eda,Outbrain EDA,Yigal W,,2017-01-16T12:44:58.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,saeedt2977/notebook571addec97,Notebook2cababbea3,SaeedAzarshab,,2017-01-16T09:19:10.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,journeycheng/notebookaa569faf0b,click_prediction,journey,,2017-01-11T02:01:00.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,vanausloos/from-ftrl-starter-xav2,From FTRL Starter xav2,Xavier Van Ausloos,,2017-01-07T13:27:16.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,vanausloos/ftrl-with-leakage-vars,FTRL with leakage vars,Xavier Van Ausloos,,2017-01-05T17:41:22.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,puremath86/script2,Script2,Bryan Arnold,,2017-01-06T04:32:16.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,yglsmith/notebook07eb0a3db8,Notebook07eb0a3db8,EasyYi,,2016-12-24T05:09:20Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,munmun1333/notebookaf38da9e0f,Notebookaf38da9e0f,roopesh mangal,,2016-12-30T09:12:10.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,duncan1213/notebook0cc759b5be,Notebookb260518351,Duncan,,2016-12-19T06:03:55.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,dbsnail/outbrain-click,Outbrain Click,Jason Li,,2016-12-12T15:48:55.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,r04942031/pandas-is-cool-lb-0-63714,pandas is cool! LB: 0.63714,r04942031,,2016-12-05T17:21:51.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,mymkyt/people-click-same-ads-more-than-once,People click same ads more than once??,mayumi kiyota,,2016-12-05T15:51:37.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,xingobar/ftrl-starter,FTRL starter,Gary Ng,,2016-11-28T05:45:44.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,xingobar/pandas-lb-0-63709,pandas LB: 0.63709,Gary Ng,,2016-11-26T12:51:01.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,aal13n/notebook6a4af7c6da,Notebook6a4af7c6da,Michael Kolupaev,,2016-11-26T20:24:29.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,goffic/import-numpy-as-np,import numpy as np,Goffic,,2016-11-17T05:26:38.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,o76923/notebook-to-subsample-documents,Notebook to Subsample Documents,James Endicott,,2016-10-25T19:56:43.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,ktugan/simple-graph-of-relations-between-the-csv-s,Simple graph of relations between the csv's,KadirTugan,,2016-10-23T16:51:23.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,pandapan/simple-analysis-to-the-data-clicks-train,Simple analysis to the data (Clicks_train),Panda,,2016-10-18T02:45:16.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,omarelgabry/testing,Testing!,OMAR ELGABRY,,2016-10-23T14:48:55.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,andris/schema-inference-2,Schema inference 2,Andris Birkmanis,,2016-10-16T18:09:43.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,pandapan/notebookfef75d978a,Notebookfef75d978a,Panda,,2016-10-13T14:47:22.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,pandapan/notebook4acf84133d,Notebook4acf84133d,Panda,,2016-10-13T13:44:13.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,nomilk/sdfsd,sdfsd,nomilk,,2016-10-13T07:06:28.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,tunguz/btb-0-63523-evaluation,BTB 0.63523 + evaluation,Bojan Tunguz,,2016-10-11T20:19:06.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,pandapan/notebookb45b748563,Notebookb45b748563,Panda,,2016-10-11T03:34:14.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,madhurmd/btb-1,BTB 1,MadhurModi,,2016-10-10T12:41:06.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,dhirsch/notebook70cc49d212,Notebook70cc49d212,Daniel Hirsch,,2016-10-07T15:14:27.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,outbrain-click-prediction
+,,,,,0,jihyeseo/outbrain-click-eda,outbrain click eda,Jihye Sofia Seo,,2018-05-08T17:10:47.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ghostmp/notebook71f39c2346,Notebook71f39c2346,Pavel Maltsev,,2017-06-02T17:00:40.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,love1234/notebook000306292f,Notebook000306292f,lovelì,,2017-04-28T15:56:35.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,love1234/notebook09493a67a9,Notebook09493a67a9,lovelì,,2017-04-26T09:22:02.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wafabenaissa/notebook5c2c09328a,Notebook5c2c09328a,WafaBA,,2017-04-25T10:40:28.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wafabenaissa/notebookdeddd240ce,Notebookc1c0f5a672,WafaBA,,2017-04-24T20:49:51.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,swetabajaj/easy-random-forests,Easy Random Forests,Sweta,,2017-04-24T06:19:23.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rinalin/notebook816b6c3ef4,Notebook816b6c3ef4,RinaLin,,2017-04-13T20:37:59.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rinalin/notebook904e5014e8,Notebook904e5014e8,RinaLin,,2017-04-13T20:17:28.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rcodin/asasas,asasas,RonitHalder,,2017-04-11T11:44:47.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rcodin/trying,Trying,RonitHalder,,2017-04-08T05:04:59.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rcodin/just-try,Just try,RonitHalder,,2017-04-08T02:17:57.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gouravbansal/data-detail,Data Detail,Gourav,,2017-04-11T10:06:46.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gouravbansal/notebook746f997653,Notebook746f997653,Gourav,,2017-04-07T10:15:53.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anvibhat/notebookc434d850c5,Notebookc434d850c5,AnviBhat,,2017-03-24T13:36:15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anvibhat/notebookce31e73cb0,Notebookce31e73cb0,AnviBhat,,2017-03-24T13:20:18.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vaishnavib/trybda,trybda,Vaishnavi Bargur,,2017-03-20T15:44:06.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ucaksbu/notebook3e21bdf8f5,Notebook3e21bdf8f5,SamuelBurkart,,2017-03-19T13:46:41.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wafabenaissa/notebook173926eea8,Notebook173926eea8,WafaBA,,2017-03-15T15:22:59.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,eoghanf/notebook2c6b1ee822,Notebooka1f3a34d63,Eoghan,,2017-03-15T08:23:51.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,brainsqueezer/prueba,Prueba,Ramón Parada,,2017-03-09T23:07:17.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,krypton/testingoutbrain-v3kr,testingOutbrain_v3kr,krypton,,2017-03-03T16:24:21.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,krypton/notebookee836c00f6,Notebookee836c00f6,krypton,,2017-03-03T13:12:13.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,z4432045/notebook8a52d7b591,Notebook8a52d7b591,roger,,2017-03-01T18:34:58.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,haoruo/notebook0e923964e0,Notebook0e923964e0,_Orange__Moon,,2017-02-26T12:04:16.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tamarapepping/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Tamara,,2017-02-24T12:35:28.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,llopez/outbrain-eda,Outbrain EDA,LLopez,,2017-02-20T18:39:39.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mohamed1/outbrain-eda,Outbrain EDA,mohamed,,2017-02-13T21:24:42.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b0nzo93/outbrain-eda,Outbrain EDA,Christoph,,2017-02-13T20:04:55.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,thiagomatos/outbrain-eda,Outbrain EDA,Thiago Matos,,2017-02-11T04:39:02.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gspmoreira/notebookd765f52633,Notebookd765f52633,Gabriel Moreira,,2017-02-09T15:55:11.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nayanam/notebooka68032c3eb,Notebooka68032c3eb,NayanaMathradan,,2017-02-08T12:06:24.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chridam/outbrain-eda,Outbrain EDA,chridam,,2017-02-06T21:01:37.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ucfrtt/outbrain-eda,Outbrain EDA,ucfrt,,2017-02-06T18:15:20.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lenchanteur/outbrain-eda,Outbrain EDA,lenchanteur,,2017-02-03T10:26:15.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lenchanteur/notebooke1117da2a0,Notebooke1117da2a0,lenchanteur,,2017-02-02T11:24:29.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,varopilia/explore-user-base-by-geo-2b302a39,Explore user base by GEO 2b302a39,lilia,,2017-01-24T15:24:38.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,varopilia/explore-user-base-by-geo,Explore user base by GEO,lilia,,2017-01-24T10:47:48.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b03901037blue/notebook9828f420d0,Notebook9828f420d0,b03901037_brrrrrrrr,,2017-01-20T07:53:04.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qzhan11/outbrain-eda-2cd04ec9,Outbrain EDA 2cd04ec9,charles,,2017-01-19T08:10:07.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,samueldarkblade/notebookb023c81bd6,Notebookb023c81bd6,jimmybi,,2017-01-19T01:15:02.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,republic966/where-when-what-companies-get-the-most-clicks,"Where, when, & what companies get the most clicks?",Ahmed Mostafa,,2017-01-18T23:40:23.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,darraghdog/notebook6b58c07675,Notebook6b58c07675,Darragh,,2017-01-17T23:38:12.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,raghunanden/notebookfcf429d481,Notebookc09a447224,RNS,,2017-01-17T11:04:40.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,angelmm/outbrain-pandas4-adposition,Outbrain_pandas4_adposition,churandy,,2017-01-16T21:52:37.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,samueldarkblade/notebook0d7d7bccce,Notebook0d7d7bccce,jimmybi,,2017-01-16T15:29:46.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebooked8d203932,Notebooked8d203932,QingnanTang,,2017-01-16T11:50:00.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shleedynamics/notebookc3ca3505b5,Notebookc3ca3505b5,Chelcy,,2017-01-16T02:41:27.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shleedynamics/notebook3a85a27943,Notebook3a85a27943,Chelcy,,2017-01-16T00:32:42.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook24763c96ca,Notebook24763c96ca,QingnanTang,,2017-01-15T12:37:19.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook33e86d8f5d,Notebook33e86d8f5d,QingnanTang,,2017-01-15T03:34:43.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,traveler1/notebook8f02c13554,Notebook8f02c13554,Clairvoyant,,2017-01-14T23:57:03.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,traveler1/notebook864f3d4d92,Notebook864f3d4d92,Clairvoyant,,2017-01-14T23:54:15.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook0bce519967,Notebook0bce519967,QingnanTang,,2017-01-14T07:03:22.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chaoyue/outbrain-eda,Outbrain EDA,Eu Yo Ahc,,2017-01-14T01:03:47.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,brianpickrell/notebook88a0c09c1a,Notebook88a0c09c1a,Brian Pickrell,,2017-01-13T19:16:47.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook9703b4a3bd,Notebook9703b4a3bd,QingnanTang,,2017-01-13T01:06:18.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ericcouto/notebook928d35f0f9,Notebook928d35f0f9,Eric Couto,,2017-01-12T22:43:11.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,franckjay/notebookeecac50c9f,Notebookeecac50c9f,Bootes,,2017-01-12T17:31:10.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,angelmm/outbrain-pandas3-adposition,Outbrain_pandas3_adposition,churandy,,2017-01-12T17:24:22.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marlontrujillo/notebook8da5544a58,Notebook8da5544a58,NaN99,,2017-01-12T12:14:12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marlontrujillo/ejemplo,ejemplo,NaN99,,2017-01-12T12:14:00.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vedu44/unveiling-page-views-csv-with-pyspark-346942ee,Unveiling page_views.csv with PySpark 346942ee,vedaprakash,,2017-01-12T12:02:20.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vedu44/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,vedaprakash,,2017-01-12T12:01:41.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marlontrujillo/prueba,prueba,NaN99,,2017-01-12T11:41:04.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shleedynamics/outbrain-eda,Outbrain EDA,Chelcy,,2017-01-12T09:26:41.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook4f1a3c0b44,Notebook4f1a3c0b44,QingnanTang,,2017-01-12T04:56:26.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rkparkjr/parkpy,ParkPy,RonaldPark,,2017-01-11T22:52:34.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rkparkjr/notebooka2833662a0,Notebooka2833662a0,RonaldPark,,2017-01-11T22:44:07.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,angelmm/outbrain-pandas2,Outbrain_pandas2,churandy,,2017-01-12T15:09:21.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,raghunanden/data-prep,data_prep,RNS,,2017-01-11T16:40:46.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,masahcdm/notebook635bfa400d,Notebook635bfa400d,ma5a,,2017-01-11T14:21:40.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yoshscl/notebooka67074c520,Notebook87ee4fbacc,Yehoshaphat Schellekens,,2017-01-11T11:57:39.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yoshscl/ftrl-run,FTRL_RUN,Yehoshaphat Schellekens,,2017-01-11T11:52:12.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook85a6137552,Notebook85a6137552,QingnanTang,,2017-01-11T05:59:09.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebookc6222db311,Notebookc6222db311,QingnanTang,,2017-01-11T02:25:32.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yuebanguo/notebook33078217e5,Notebook33078217e5,keguoh,,2017-01-10T22:29:26.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qzhan11/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,charles,,2017-01-10T21:59:42.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ssegui/test1,test1,Santi Segui,,2017-01-10T17:43:53.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ssegui/notebook0c7b8d7b03,Notebook0c7b8d7b03,Santi Segui,,2017-01-10T17:40:55.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook9df11108bf,Notebook9df11108bf,QingnanTang,,2017-01-10T15:21:45.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,betterplace/notebookfeab60ede6,Notebookfeab60ede6,noooooo,,2017-01-11T10:37:01.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,journeycheng/notebookd6f1235766,Notebookd6f1235766,journey,,2017-01-10T11:30:46.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yuanyepku/test-doc-eda,test script,Ye,,2017-01-11T02:12:45.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,journeycheng/notebookf402e8ad24,Notebookf402e8ad24,journey,,2017-01-10T10:52:59.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,journeycheng/outbrain-eda,Outbrain EDA,journey,,2017-01-10T06:19:09.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qzhan11/outbrain-eda,Outbrain EDA,charles,,2017-01-10T04:58:25.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,masahcdm/outbrain-eda,Outbrain EDA,ma5a,,2017-01-10T01:02:08.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,newsamurai/test1,test1,ai-samurai,,2017-01-09T13:51:49.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mbeierling/outbrain-eda-3b192bda,Outbrain EDA 3b192bda,Martin Beierling-Mutz,,2017-01-09T13:41:32.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mbeierling/outbrain-eda,Outbrain EDA,Martin Beierling-Mutz,,2017-01-09T13:41:21.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zanospi/notebook24aac5a4d0,Notebook24aac5a4d0,Romuald M.,,2017-01-09T12:21:36.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anilhk/explore-user-base-by-geo,Explore user base by GEO,Anil Kumar K,,2017-01-09T06:16:29.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook01b3464991,Notebook01b3464991,QingnanTang,,2017-01-09T03:49:34.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,betterplace/is-landing-access-for-ad-clicks-in-page-views-csv,Is landing access for ad clicks in page_views.csv,noooooo,,2017-01-08T22:19:27.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Maurolycus,,2017-01-08T16:27:46.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/explore-user-base-by-geo,Explore user base by GEO,Maurolycus,,2017-01-08T16:27:27.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yigalw/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Yigal W,,2017-01-08T16:02:21.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook7a26640af8,Notebook7a26640af8,QingnanTang,,2017-01-08T12:57:27.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook5c48b8dbed,Notebook5c48b8dbed,QingnanTang,,2017-01-08T08:56:17.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebookd4214f5cc3,Notebookd4214f5cc3,QingnanTang,,2017-01-08T08:35:32.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yotohito/outbrain-eda,Outbrain EDA,yotohito,,2017-01-08T05:42:01.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook2b3bd78c93,Notebook2b3bd78c93,QingnanTang,,2017-01-08T04:13:34.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook59711e3ad0,Notebook59711e3ad0,QingnanTang,,2017-01-08T04:06:42.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pankajb64/notebook9f70f68d30,Notebook9f70f68d30,Pankaj Bhambhani,,2017-01-08T00:48:23.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/outbrain-eda-c9f29910,Outbrain EDA c9f29910,Maurolycus,,2017-01-07T17:30:49.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sandman81/notebook99ce23eca4,Notebookc6dbd909e6,Sandman,,2017-01-07T16:46:28.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ryutek/is-landing-access-for-ad-clicks-in-page-views-csv,Is landing access for ad clicks in page_views.csv,U023,,2017-01-07T15:55:09.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/notebook135f66be2b,Notebook135f66be2b,Maurolycus,,2017-01-07T15:28:32.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/notebookaa574b53b2,Notebookaa574b53b2,Maurolycus,,2017-01-09T12:03:37.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,setpoint/notebook240d44f934,Notebook240d44f934,setpoint,,2017-01-08T12:02:08.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/outbrain-eda,Outbrain EDA,Maurolycus,,2017-01-07T02:43:42.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/notebooka3202d68e0,Notebooka3202d68e0,Maurolycus,,2017-01-07T02:32:01.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,angelmm/outbrain-pandas,Outbrain_pandas,churandy,,2017-01-09T22:46:59.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,angelmm/pandas-is-cool-lb-0-63714,pandas is cool! LB: 0.63714,churandy,,2017-01-06T21:11:50.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,javierayunta/notebookef54e58ea0,Notebookef54e58ea0,JavierAyunta,,2017-01-06T18:20:19.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,betterplace/notebook4b3fdbd200,Notebook4b3fdbd200,noooooo,,2017-01-06T16:51:23.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shahir/eda-outbrain,EDA-Outbrain,SHAHIR,,2017-01-06T14:10:20.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,protonuber/notebookcfd8d450c6,Notebookcfd8d450c6,protonu,,2017-01-06T12:25:26.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,changingivan/outbrain-eda-8331b575,Outbrain EDA 8331b575,changingivan,,2017-01-06T10:34:56.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,changingivan/outbrain-eda,Outbrain EDA,changingivan,,2017-01-06T09:09:14.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,taowenwu/notebook4cd5562158,Notebook4cd5562158,WenwuTao,,2017-01-06T07:07:34.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b03901028/notebooke0e3c76cdc,Notebooke0e3c76cdc,BenTsai,,2017-01-06T02:20:24.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rice010101/test1,Test1,rice010101,,2017-01-05T18:21:58.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rice010101/notebookf9550d4e13,Notebookf9550d4e13,rice010101,,2017-01-05T18:16:24.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,moraval/notebook3945af6e7c,Notebook3945af6e7c,Alena,,2017-01-05T16:47:42.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,retrieverjo/outbrain-eda-7a6c596c,Outbrain EDA 7a6c596c,RetrieverJo,,2017-01-05T04:04:29.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,puremath86/script1,Script1,Bryan Arnold,,2017-01-04T21:28:48.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,puremath86/notebook66d43777ee,Notebook66d43777ee,Bryan Arnold,,2017-01-04T21:27:51.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tonyfrancis/notebook8249b1cf0c,Notebook8249b1cf0c,tonyf,,2017-01-04T21:20:30.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,poiss0nriot/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,CalmeToi,,2017-01-04T18:57:55.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hjethwa/notebook749c329130,Notebook749c329130,Harshal Jethwa,,2017-01-04T17:48:04.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hjethwa/notebookd197b9359d,Notebookd197b9359d,Harshal Jethwa,,2017-01-04T17:42:11.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rahulg01/notebookc8f4d1e349,Notebook02e3647a42,Rahul Gandhi,,2017-01-04T10:38:23.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,taowenwu/notebook67f0397d1e,Notebook67f0397d1e,WenwuTao,,2017-01-04T08:17:29.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kritikarai/outbrain-eda,Outbrain EDA,Fake Scientist,,2019-01-11T04:01:27.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rodrigokryb/teste,teste,Rodrigo Kawatani,,2017-01-04T21:47:12.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rodrigokryb/notebook50ab228fd8,Notebook50ab228fd8,Rodrigo Kawatani,,2017-01-04T01:50:47.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,captlag/jl-test,JL_Test,JohnLagedrost,,2017-01-03T23:40:22.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,raeisi/outbrain-eda,Outbrain EDA,Shahrouz Raeisi,,2017-01-03T23:21:40.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,raeisi/notebook0af9f2c833,Notebook0af9f2c833,Shahrouz Raeisi,,2017-01-03T23:14:35.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alexgici/outbrain-competition,Outbrain competition,alexgici,,2017-01-03T15:17:02.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sskapci/notebook1baa5efc32,Notebook1baa5efc32,Safak S. Kapci,,2017-01-03T14:33:28.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,aaronjen/notebook10cdefe4de,Notebook10cdefe4de,bugJ,,2017-01-03T09:31:06.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebookea0c8add7f,Notebookea0c8add7f,QingnanTang,,2017-01-03T08:30:06.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,journeycheng/outbrain-click-prediction,outbrain_click_prediction,journey,,2017-01-03T07:12:35.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mileskrains/notebookc745c4c025,Notebookc745c4c025,Miles Rains,,2017-01-03T03:44:46.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jeffvaldez/notebookdc620354a2,Notebookdc620354a2,Jeff Valdez,,2017-01-03T02:59:41.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,riskmanagerindia/notebook09fa12a0b3,Notebookc4da4f660d,risk_manager,,2017-01-02T19:03:45.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,riskmanagerindia/notebook6c3af2cda7,Notebook39ed1f972e,risk_manager,,2017-01-02T19:02:14.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/notebook97aa8beaa0,Notebook97aa8beaa0,QingnanTang,,2017-01-02T04:59:34.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,samueldarkblade/notebook3326387b56,Notebook3326387b56,jimmybi,,2017-01-02T03:28:43.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qingnan/outbrain-eda,Outbrain EDA,QingnanTang,,2017-01-02T02:59:19.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,danielunderwood/outbrain-click-prediction,Outbrain Click Prediction,Daniel Underwood,,2019-06-09T21:07:37.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kozko2001/notebookbe7b311e25,Notebookbe7b311e25,JordiCoscolla,,2017-01-01T10:23:36.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,avishek/extract-leak-in-30-mins-with-small-memory-01012017,Extract leak in 30 mins with small memory_01012017,Avishek,,2017-01-01T08:23:16.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mileskrains/notebookc99019198e,Notebookc99019198e,Miles Rains,,2016-12-31T23:39:41.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,adityakumarsinha/keras-based-fm,keras based fm,adityasinha,,2016-12-31T16:46:41.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,appu001/notebook4d886a2c5c,Notebook4d886a2c5c,ApurvChaudhari,,2016-12-31T14:14:36.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sunilbandaru/test-v-0-1,Test_v_0.1,Sunil Bandaru,,2016-12-31T13:51:35.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hjethwa/notebook0689ac8baf,Notebook8c1c113ea2,Harshal Jethwa,,2016-12-31T02:30:42.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/notebook23e802551c,Notebook23e802551c,roopesh mangal,,2016-12-30T19:01:28.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shahir/outbrain,Outbrain,SHAHIR,,2016-12-30T17:34:00.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/notebooka0b36d8f50,Notebooka0b36d8f50,roopesh mangal,,2016-12-30T15:40:51.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/content-train-random-forest-chunk,content_train_random_forest_chunk,roopesh mangal,,2016-12-30T15:36:24.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/eda-data,EDA_DATA,roopesh mangal,,2016-12-30T11:03:00.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lawrencewu/notebookd399185a6b,Notebookd399185a6b,law,,2016-12-30T06:25:26.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,clevereve/notebook507997c248,Notebook507997c248,cleve,,2016-12-30T04:09:47.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nathansparks/explore-user-base-by-geo,Explore user base by GEO,Nathan,,2017-01-07T00:52:46.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nlpforhackers/notebook1fe257d538,Notebook1fe257d538,George-Bogdan Ivanov,,2016-12-29T19:36:45.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,leonardog/notebook2e9fa1d071,Notebook2e9fa1d071,LeonardoG,,2016-12-29T15:58:41.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,roshanshetty/outbrain-eda,Outbrain EDA,Roshan Shetty,,2016-12-29T13:35:00.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,roger24/notebookc8e8aad9eb,Notebookc8e8aad9eb,roger,,2016-12-29T12:38:59.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/outbrain-eda,Outbrain EDA,roopesh mangal,,2016-12-29T11:44:49.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/second-script,second_script,roopesh mangal,,2016-12-29T13:08:08.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ainey3024/notebook48f370c6a6,Notebook48f370c6a6,Nur'AiniMunirah,,2016-12-29T08:21:14.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shravanumn/notebookc4cf7d2597,Notebookc4cf7d2597,Shravan Shetty,,2016-12-29T04:14:17.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,namsangboy/outbrain-eda,Outbrain EDA,namsangboy,,2016-12-29T04:04:01.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,retrieverjo/outbrain-eda-start,Outbrain EDA_start,RetrieverJo,,2016-12-29T04:03:52.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,namsangboy/notebookd8e8dde963,Notebookd8e8dde963,namsangboy,,2016-12-29T04:00:42.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tungty/outbrain-eda,Outbrain EDA,ty,,2016-12-28T17:43:43.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,akihiro35/outbrain-eda,Outbrain EDA,Akihiro Ueda,,2016-12-28T13:36:24.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vishwanigupta/notebook6d4251212b,Notebook6d4251212b,VishwaniGupta,,2016-12-28T10:30:44.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,derbedhruv/notebook135d18dd2f,Notebook135d18dd2f,Dhruv Joshi,,2016-12-27T23:04:45.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,derbedhruv/exploratory-eda,Exploratory_EDA,Dhruv Joshi,,2016-12-27T23:06:56.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lusiliang93/notebooka0951ebb5a,Notebooka0951ebb5a,Stubborn donkey,,2016-12-27T22:28:26.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lusiliang93/notebook55c6e869cb,Notebook55c6e869cb,Stubborn donkey,,2016-12-27T22:07:41.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,coderhua/compute,compute,CoderHua,,2017-01-04T08:59:10.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,littlewat/notebook2a69b1e879,Notebook2a69b1e879,LittleWat,,2016-12-27T12:16:01.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bassykuo/notebookeec34c4ccb,Notebookeec34c4ccb,BassyKuo,,2016-12-27T07:36:22.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ailonv/notebook0c6a4524bd,Notebook0c6a4524bd,AilV,,2016-12-27T07:07:16.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sonads/notebook7455cbb1df,Notebook7455cbb1df,SonaReddy,,2016-12-27T00:31:59.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yogeveran/notebookfad8f1bf2a,Notebookfad8f1bf2a,Eran Yogev,,2016-12-26T17:47:38.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sarthakkaingade/trial,Trial,Sarthak Kaingade,,2016-12-26T04:06:14.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,empenguin/notebook7051d0729f,Notebook7051d0729f,Xiaohang  Zhao,,2017-04-20T00:20:46.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ravindra57/notebook83c83b6dfa,Notebook83c83b6dfa,Ravindra Kumar Akarapu,,2016-12-25T19:06:58.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,firedemon/sample,sample,codingmonk,,2016-12-25T06:52:34.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,reshsekar15/outbrain-exploring-datasets,Outbrain - Exploring datasets,LadyBird,,2016-12-24T10:41:55.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,krunu1990/notebook4571211176,Notebook4571211176,Krun@l Dhol@ki@,,2016-12-24T07:16:28.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,firedemon/notebook07b0fd2580,Notebook07b0fd2580,codingmonk,,2016-12-24T06:45:47.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,betterplace/notebook78b2b2a07b,Notebook78b2b2a07b,noooooo,,2016-12-23T15:45:11.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yaoyi1992/notebookb843e0ca4a,Notebookb843e0ca4a,YaoYi,,2016-12-23T10:05:46.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qianglyu/notebook31332d7986,Notebook31332d7986,Lenny Lv,,2016-12-23T09:09:56.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/fork-of-notebookaf38da9e0f,Fork of Notebookaf38da9e0f,roopesh mangal,,2016-12-23T08:17:37.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/notebook6ea7af22a4,Notebook6ea7af22a4,roopesh mangal,,2016-12-23T06:53:30.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mileskrains/notebook6d83f122ed,Notebook6d83f122ed,Miles Rains,,2016-12-23T03:17:24.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,toover/notebookc6374696a3,Notebookc6374696a3,Dong Chen,,2016-12-22T20:59:46.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,furita2/notebookf064c0691a,Notebookf064c0691a,furita2,,2016-12-22T19:57:14.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,benhamner/notebook8b433acfb8,Notebook8b433acfb8,Ben Hamner,,2016-12-22T18:42:34.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nikosias/easy-xgboost,Easy xgboost,Nikita Molostvov,,2017-01-10T11:48:02.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,million/notebook4f4a56d0cc,Notebook4f4a56d0cc,million,,2017-07-04T01:47:05.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,munmun1333/notebookb6ca4efe7a,Notebookb6ca4efe7a,roopesh mangal,,2016-12-22T13:38:00.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,million/racestart,RaceStart,million,,2016-12-22T12:27:17.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qianglyu/analysis, Analysis,Lenny Lv,,2016-12-22T11:22:27.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sonads/notebookb11c12df20,Notebookb11c12df20,SonaReddy,,2016-12-22T05:35:47.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sonads/notebook52b1963d37,Notebook52b1963d37,SonaReddy,,2016-12-22T04:15:25.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b03901037blue/notebook7c9093114d,Notebook7c9093114d,b03901037_brrrrrrrr,,2016-12-21T17:59:32.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b03901037blue/notebookc7296a707a,Notebookc7296a707a,b03901037_brrrrrrrr,,2016-12-21T17:48:21.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,k5hans/notebook0762767f2a,Notebook0762767f2a,KhuganShanmugeswaran,,2016-12-21T18:50:18.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,k5hans/outbrain-eda,Outbrain EDA,KhuganShanmugeswaran,,2016-12-21T17:41:16.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ags299/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,ags29,,2016-12-21T16:06:48.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alemozz/notebookd6b9d2622f,Notebookd6b9d2622f,Alessandro,,2016-12-21T09:16:14.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mrminister/print90,print90,KubikStraka,,2016-12-21T08:53:35.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,powderman/fork-of-notebook123c4b0cbd-5fac82d9,Fork of Notebook123c4b0cbd 5fac82d9,saturdayfly,,2016-12-21T08:31:45.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mtnayt/notebook2871dc013e,Notebook2871dc013e,mtnana,,2016-12-21T08:20:52.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,aaronjen/notebook5c3f4860ae,Notebook5c3f4860ae,bugJ,,2016-12-21T08:20:07.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,aaronjen/notebookfe68fb6e26,Notebookfe68fb6e26,bugJ,,2016-12-21T08:19:46.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,binilg/ftrl-starter-with-leakage-vars,FTRL Starter (with leakage vars),Binil,,2016-12-21T04:20:58.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mcdreamyzzz/notebook249f1a567f,Notebook249f1a567f,zhou,,2016-12-20T20:54:06.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mcdreamyzzz/initial,initial,zhou,,2016-12-20T20:53:10.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mcdreamyzzz/notebooka661736d4b,Notebooka661736d4b,zhou,,2016-12-20T20:50:35.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,duncan1213/outbrain,outbrain,Duncan,,2016-12-20T15:21:23.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,fuzzybandit77/test1,test1,Giorgio Francescangeli,,2016-12-20T15:07:29.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alenjacob123/outbrain-eda-c7403951,Outbrain EDA c7403951,AlenJacob,,2016-12-19T15:19:35.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,szamba/test1,test1,Péter Szabó,,2016-12-19T14:08:08.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,apareja/notebookdae305567e,Notebookdae305567e,APareja,,2017-09-26T14:53:40.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amalptsr/outbrain-eda-800f50d1,Outbrain EDA 800f50d1,AmaliaLupitasari,,2016-12-19T08:00:19.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,duncan1213/notebook2e7fb092c7,Notebook2e7fb092c7,Duncan,,2016-12-19T07:24:23.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,duncan1213/notebook0bbee7faee,Notebook0bbee7faee,Duncan,,2016-12-19T02:33:20.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yodadaydreamer/notebook2a9339cc5e,Notebook2a9339cc5e,Terry Cheong,,2016-12-18T10:43:35.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amalptsr/explore-user-base-by-geo-71b39cb4,Explore user base by GEO 71b39cb4,AmaliaLupitasari,,2016-12-18T08:00:52.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amalptsr/outbrain-eda-761d93d1,Outbrain EDA 761d93d1,AmaliaLupitasari,,2016-12-18T07:59:38.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,powderman/fork-of-notebook123c4b0cbd-4796ac97,Fork of Notebook123c4b0cbd 4796ac97,saturdayfly,,2016-12-18T05:25:40.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,powderman/fork-of-notebook123c4b0cbd,Fork of Notebook123c4b0cbd,saturdayfly,,2016-12-18T04:46:15.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kimberlydevi/notebookd8606d1b52,Notebookd8606d1b52,rollingcoconut,,2016-12-18T04:03:41.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jamessw/from-ftrl-starter,From FTRL Starter,James,,2016-12-18T19:55:43.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jamessw/running,Running,James,,2016-12-18T03:28:52.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amalptsr/outbrain-eda,Outbrain EDA,AmaliaLupitasari,,2016-12-18T02:46:26.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amalptsr/explore-user-base-by-geo,Explore user base by GEO,AmaliaLupitasari,,2016-12-18T08:00:52.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jessicac/notebook7569a43518,Notebook7569a43518,JessicaChan,,2016-12-18T03:59:21.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,prashanth058/notebook82d54cbe01,Notebook82d54cbe01,p058,,2016-12-17T22:03:55.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,prashanth058/notebook0c2c78aaa8,Notebook0c2c78aaa8,p058,,2016-12-17T22:03:47.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,prashanth058/my-first,My First,p058,,2016-12-17T21:39:08.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jyyeli/my-script,My_Script,jyyel,,2016-12-17T12:35:48.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,adityavithaldas/notebookde43f614ad,Notebookde43f614ad,Aditya Vithaldas,,2016-12-17T10:17:40.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ashish21/notebook78d07d9948,Notebook1dbca9ca40,Ashish K. S. Arya,,2016-12-16T12:32:20.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,powderman/notebook587377fab1,Notebook123c4b0cbd,saturdayfly,,2016-12-16T05:14:09.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,powderman/notebook6581724b7c,Notebook6581724b7c,saturdayfly,,2016-12-16T01:43:41.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,adrianplattner/outbrain-test,Outbrain test,Adrián Plattner,,2016-12-16T00:46:56.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,adrianplattner/notebookcc03546ec8,Notebookcc03546ec8,Adrián Plattner,,2016-12-16T00:45:57.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,adrianplattner/outbrain-eda,Outbrain EDA,Adrián Plattner,,2016-12-16T00:44:42.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,adrianplattner/notebookf57514f1e2,Notebookf57514f1e2,Adrián Plattner,,2016-12-16T00:42:15.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,firedemon/notebookd2246c9a68,Notebookd2246c9a68,codingmonk,,2016-12-15T10:16:06.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hongyangwang/notebookd9a267606e,Notebookd9a267606e,HongyangWang,,2016-12-15T09:40:14.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,guolinke/notebookcd99fcfd5e,Notebookcd99fcfd5e,Guolin Ke,,2016-12-15T09:37:06.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,firedemon/notebookbd2f75e9a6,Notebookbd2f75e9a6,codingmonk,,2016-12-15T09:21:08.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jyodevin/outbrain-eda,Outbrain EDA,Jyothi Pranavi,,2016-12-15T08:07:57.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,powderman/notebook13033538dc,Notebookfb886bcddc,saturdayfly,,2016-12-15T07:57:38.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,johngroves/outbrain-eda,Outbrain EDA,John Groves,,2016-12-15T05:25:32.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hjethwa/notebook5f235367b4,Notebook5f235367b4,Harshal Jethwa,,2016-12-15T04:27:34.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hjethwa/newtest,Newtest,Harshal Jethwa,,2016-12-15T04:39:22.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,iushashi/outbrain-eda,Outbrain EDA,Shashi,,2016-12-15T04:24:54.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,svesal/outbrain-eda,Outbrain EDA,Aramis,,2016-12-14T12:46:16.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b03901037blue/notebook578ee1cd2f,Notebook578ee1cd2f,b03901037_brrrrrrrr,,2016-12-14T10:29:59.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shezan1437/outbrain-eda-8896f892,Outbrain EDA 8896f892,Kazi Nazmul Haque,,2016-12-14T04:07:24.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,curiosity94/first,first,curiosity,,2016-12-15T03:44:59.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kpratik41/notebook7d82e035f0,Notebook7d82e035f0,Pratik,,2016-12-14T02:59:03.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,moariful/notebook856a648fea,Notebook856a648fea,Mo Islam,,2016-12-13T20:03:09.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gdoggg/notebook178cd5c023,Notebook178cd5c023,Gdog,,2016-12-13T17:18:01.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,numadhamani/notebook27f5531277,Notebook27f5531277,NumaDhamani,,2016-12-13T17:06:44.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,akhileshsk/notebooke0dce13153,Notebook9a77417b6a,AK,,2016-12-13T10:40:36.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kevinpan/outbrain-eda-fork,Outbrain EDA fork,Kevin Pan,,2016-12-13T06:06:02.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,numadhamani/testing-testing,"Testing, testing",NumaDhamani,,2016-12-12T23:06:18.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,numadhamani/notebook13a4e145fb,Notebook13a4e145fb,NumaDhamani,,2016-12-12T23:05:52.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,abcrank/testing-testing-1,"Testing, testing",ABCrank,,2016-12-13T22:15:53.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,minamoradi/notebookb16ac0cb8f,Notebookb16ac0cb8f,minamoradi,,2016-12-12T18:12:05.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jamesmcgrath/outbrain-eda,Outbrain EDA,JamesMcGrath,,2016-12-12T15:54:15.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shezan1437/outbrain-eda-4ff635f4,Outbrain EDA 4ff635f4,Kazi Nazmul Haque,,2016-12-12T05:32:38.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shezan1437/notebook34fd7b8edb,Notebook34fd7b8edb,Kazi Nazmul Haque,,2016-12-12T03:54:01.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,madlily/notebook50fd024274,Notebook50fd024274,Jing,,2016-12-11T21:45:31.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pappukrjha/explore,explore,Pulkit Jha,,2016-12-11T16:32:34.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,devendramittal/data-exploration,Data exploration,DEVENDRA MITTAL,,2016-12-11T06:24:26.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gtrimarc/test-outbrain,test outbrain,Maurolycus,,2016-12-11T06:12:42.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anabatchian/pandas-lb-0-63709,pandas LB: 0.63709,AmirNb,,2016-12-11T01:46:53.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bsoltanifar/pandas-lb-0-63709,pandas LB: 0.63709,Behjat,,2016-12-13T03:19:28.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,elevmor/notebook048dca781b,Notebook048dca781b,EliotLevmore,,2016-12-10T20:42:26.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,coderhua/notebook7ef25b39da,Notebook7ef25b39da,CoderHua,,2016-12-10T14:56:12.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,saranyas/notebookf75de494ab,Notebookf75de494ab,Saranya,,2016-12-10T06:49:14.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bmallala/notebookaa5a109ebe,Notebookaa5a109ebe,Bharat mallala,,2016-12-10T06:44:08.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,moariful/notebooka381bf109f,Notebooka381bf109f,Mo Islam,,2016-12-10T03:00:57.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,srirsith/outbrain-eda-7871d460,Outbrain EDA 7871d460,SriramSitharaman,,2016-12-09T22:55:29.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,javaduke95/notebook8118839e25,Notebook8118839e25,Howard Chen,,2016-12-09T22:26:52.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,b03901028/notebookb3563b343d,Notebookb3563b343d,BenTsai,,2016-12-09T14:51:40.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vanausloos/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Xavier Van Ausloos,,2016-12-09T13:07:46.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,parikhprakash/initialrun,InitialRun,datahero,,2016-12-09T07:25:34.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,moariful/notebook83d3a706fb,Notebook83d3a706fb,Mo Islam,,2016-12-08T20:22:33.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jaycordes/the-simple-solution,The Simple Solution,jcordes,,2016-12-08T22:27:19.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,meishuguo/notebooka455499f1d,Notebooka455499f1d,guoyuan,,2016-12-08T14:14:03.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,meishuguo/test1,test1,guoyuan,,2016-12-08T13:44:31.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lisajune/outclick-documentsandevents,Outclick_DocumentsAndEvents,Lisa,,2016-12-10T01:31:36.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lisajune/notebook27ac311e09,Notebook27ac311e09,Lisa,,2016-12-08T05:57:00.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,saqwedcxz0329/notebook2bbd7ad78a,Notebook2bbd7ad78a,r05922162,,2016-12-08T05:24:53.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,srirsith/outbrain-eda,Outbrain EDA,SriramSitharaman,,2016-12-09T22:18:47.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vanausloos/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Xavier Van Ausloos,,2016-12-07T12:56:08.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sarahkelley/notebook929b6b8fff,Notebook929b6b8fff,Sarah ,,2016-12-07T00:25:56.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ponnath/notebook7c9e693bd4,Notebook7c9e693bd4,venkata ponnathota,,2016-12-07T21:59:27.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,divyachalam/notebook50d1b7a469,Notebook3bc529a3b6,Divyachalam,,2016-12-06T20:12:35.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anwenq/outbrain-eda,Outbrain EDA,AnwenQ,,2016-12-06T19:17:13.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,narasimha46/outbrain-eda,Outbrain EDA,Simha,,2016-12-06T01:33:45.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,r04942031/outbrain-eda-0fd1fe20,Outbrain EDA 0fd1fe20,r04942031,,2016-12-05T17:23:06.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ponnath/notebook6da4391ea6,Notebook521b83953c,venkata ponnathota,,2016-12-05T21:44:50.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,garimaprasad/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,GarimaPrasad,,2016-12-05T00:54:08.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jaycordes/how-does-this-work,How does this work?,jcordes,,2016-12-05T00:28:03.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,peidyen/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Peidyen,,2016-12-04T21:57:16.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,peidyen/explore-user-base-by-geo,Explore user base by GEO,Peidyen,,2016-12-04T21:57:07.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,peidyen/outbrain-eda,Outbrain EDA,Peidyen,,2016-12-04T21:11:06.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vicky8rk/notebook5f5daa066d,Notebook5f5daa066d,Vicky Katara,,2016-12-04T18:03:45.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vicky8rk/notebook1d81cafd2c,Notebook1d81cafd2c,Vicky Katara,,2016-12-04T17:56:24.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sandris/notebookb6f2170c45,Notebookb6f2170c45,sandris,,2016-12-04T17:36:23.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jaykashyappadhya/outbrain-eda,Outbrain EDA,jayPadhya,,2016-12-04T16:11:56.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,satyammawale/notebookc5e5355a1a,Notebookc5e5355a1a,Satyam Mawale,,2016-12-04T04:06:01.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chiahoo2004/notebook0c1a6e4935,Notebook0c1a6e4935,r05943040_hoo,,2016-12-04T03:31:32.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,davidshinn/notebook58c0eab31e,Notebook58c0eab31e,David Shinn,,2016-12-04T01:04:46.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chanchan/notebookece446b20b,Notebookece446b20b,chanchan,,2016-12-03T14:13:32.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lg895342449/outbrain-eda,Outbrain EDA,Sam LL,,2016-12-03T13:15:15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,boreas/notebook15590a0968,Notebook15590a0968,boreas,,2016-12-03T03:58:36.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,boreas/count-id,count_id,boreas,,2016-12-03T03:56:25.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mingu600/exploratory-notebook,Exploratory Notebook,MinguKim,,2016-12-03T03:49:51.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tiffanyxu0104/outbrain-eda,Outbrain EDA,little box,,2016-12-02T20:20:49.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,enirtium/notebook68a0063226,Notebook68a0063226,eim,,2016-12-02T19:49:38.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,enirtium/ob-eda,ob-eda-,eim,,2016-12-02T19:45:50.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gary830317/notebook0f1f4452fa,Notebook0f1f4452fa,Gary_0317,,2016-12-02T10:52:16.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hanania/outbrain-eda,Outbrain EDA,PhilipTannor,,2016-12-01T11:22:40.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/notebook47415aeec3,Notebook47415aeec3,Datavakra,,2016-12-01T09:44:27.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/notebook36e5aac753,Notebook36e5aac753,Datavakra,,2016-12-01T08:17:41.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/notebookdd27dea220,Notebookdd27dea220,Datavakra,,2016-11-30T22:08:24.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,drjohn/explore-user-base-by-geo,Explore user base by GEO,John Dewsnip,,2016-11-30T20:37:17.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,richiemorrisroe/notebook6bf4bfedf8,Notebook6bf4bfedf8,Richard Morrisroe,,2016-11-30T16:24:00.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/initial-work,initial_work,Datavakra,,2016-11-30T09:29:48.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,philipplee/explore-user-base-by-geo,Explore user base by GEO,philipp_lee,,2016-11-29T12:01:26.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,duncan1213/notebookbf286168b8,Notebookde823dbf6f,Duncan,,2016-12-05T01:01:18.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,fairsky/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Victor,,2016-11-29T01:32:50.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wezteoh/notebookcd52165eb3,Notebookcd52165eb3,Wezteoh,,2016-11-29T01:32:38.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,manxing/notebook1c15ec1774,Notebook1c15ec1774,ManxingDu,,2016-11-28T14:19:32.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,manxing/notebookace3a67b69,Notebookace3a67b69,ManxingDu,,2016-11-28T13:53:08.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,leedongkyu/test-outbrain2,Test Outbrain2,dongstar,,2016-11-28T13:18:36.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,leedongkyu/test-outbrain,Test_Outbrain,dongstar,,2016-11-28T13:14:46.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marlontrujillo/notebookeebe2b4ab3,Notebookeebe2b4ab3,NaN99,,2016-11-28T09:05:46.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mitulap/python-script,python_script,mitulap,,2016-12-05T03:23:35.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mitulap/simple-r-start,Simple_R_start,mitulap,,2016-12-05T03:37:21.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wslape/notebook35aaf095d5,Notebook35aaf095d5,billyslp,,2016-11-28T01:36:22.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,thesudhanshu/notebook7dc37da367,Notebook7dc37da367,SudhanshuSingh,,2016-11-27T07:24:26.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,narasimha46/simha3,simha3,Simha,,2016-12-06T00:02:42.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,diametralis/notebook197113eb74,Notebook32f76b4a9f,Dmytro Okhonko,,2016-11-26T15:09:53.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,avlife/notebook2500669c82,Notebook89369020ab,life,,2016-11-26T14:58:58.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shinntitech/notebooke469624672,Notebooke469624672,shinn,,2016-11-26T06:20:37.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,igauty/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Vishwadeep,,2016-11-25T09:29:02.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mymkyt/notebook9275122a26,Notebook9275122a26,mayumi kiyota,,2016-11-25T07:49:59.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marcuszhu/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,m_ZZZ,,2016-11-25T03:08:22.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marcuszhu/explore-user-base-by-geo,Explore user base by GEO,m_ZZZ,,2016-11-25T02:56:29.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sialan/notebook88dcbbeea5,Notebook88dcbbeea5,A. Si 🇨🇦,,2016-11-24T19:32:20.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,aparafita/notebook5b4cb90b9c,Notebook5b4cb90b9c,aparafita,,2020-10-05T12:06:30.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,narasimha46/notebooka983eca9b2,Notebook0026629813,Simha,,2016-11-24T07:24:44.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nishkgp/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Nishant Kumar,,2016-11-24T05:31:49.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jaycordes/notebook1e130b0b83,Notebook1e130b0b83,jcordes,,2016-11-23T23:58:54.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/notebooka4c406ea32,Notebooka4c406ea32,Datavakra,,2016-11-23T23:42:10.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jaycordes/notebook57137ed929,Notebook4f0cde2aff,jcordes,,2016-11-23T23:25:39.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,abcrank/notebooka2a810517c,Notebooka2a810517c,ABCrank,,2016-11-23T18:43:29.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,haykirstin/visualising-data-for-outbrain-prediction,visualising data for outbrain prediction,Kirstin Hay,,2016-11-23T16:46:47.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,philipplee/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,philipp_lee,,2016-11-23T11:15:04.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vijaygtav/initial-work,initial_work,VijayarajGopinath,,2016-11-23T07:53:31.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dazaraf/notebook602e32df16,Notebook602e32df16,Dudu Azaraf,,2016-11-22T16:23:28.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vijaygtav/notebook7511958ad2,Notebook7511958ad2,VijayarajGopinath,,2016-11-22T08:57:50.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zyunzhou/notebookc3d8e12da2,Notebookc3d8e12da2,playboy,,2016-11-22T08:49:51.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/girish,Girish,Datavakra,,2016-11-22T08:56:07.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vijaygtav/notebook1105e68d73,Notebook1105e68d73,VijayarajGopinath,,2016-12-08T04:18:53.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,madhuraraut/notebook921164a289,Notebook921164a289,Madhura Raut,,2019-11-08T18:03:08.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shan224/outbrain-eda,Outbrain EDA,shan,,2016-11-21T21:17:48.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alareqi/notebook6c61d6b5f9,Notebook6c61d6b5f9,Ebrahim Alareqi,,2016-11-21T20:20:16.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jasonleemiemie/outbrain-eda,Outbrain EDA,Jason Mie Leed,,2016-11-20T09:43:29.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,prashantj123/basic-prediction-try,Basic prediction try,Prashant Jaiswal,,2016-11-21T05:20:46.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zgcgreat/notebookd073157fff,Notebookd073157fff,夜莺轻鸣,,2016-11-21T06:42:41.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zcg2008/notebook677609ac3e,Notebook677609ac3e,zcg_kk,,2016-11-20T00:28:03.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,albertomz/notebook7c06a1f4ae,Notebook43374b5dd8,AMZ,,2016-11-19T16:44:27.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vinhnguyen/outbrain-eda,Outbrain EDA,Vinh Nguyen,,2016-11-19T13:55:11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hijane/outbrain-eda,Outbrain EDA,hiJane,,2016-11-19T09:15:46.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zgcgreat/outbrain-eda-59059210,Outbrain EDA 59059210,夜莺轻鸣,,2016-11-19T01:13:39.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zgcgreat/notebookc5f5dd3804,Notebookc5f5dd3804,夜莺轻鸣,,2016-11-18T14:57:19.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tyriit/title,Title,TyRiiT,,2016-11-18T09:06:49.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zgcgreat/notebook14ddbc3c35,Notebookef8c98947a,夜莺轻鸣,,2016-11-18T12:27:14.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,umesh6aig/notebookcd88bbe536,Notebookcd88bbe536,ItsMeUmesh,,2016-11-18T06:40:51.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nellatl/notebook2cc1db1578,Notebook2cc1db1578,NELLATL,,2016-11-18T01:54:08.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,akshaycap/outbrain-eda-1682ccb3,Outbrain EDA 1682ccb3,AkshayAravind,,2016-11-17T08:27:21.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,analyticsguru/explore-user-base-by-geo,Explore user base by GEO,Jivitesh Poojary,,2016-11-17T06:46:04.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,captunez/notebook00d281bb79,Notebookc76a367f5c,Harley Zhang,,2016-11-17T08:40:36.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,akshaycap/outbrain-eda,Outbrain EDA,AkshayAravind,,2016-11-17T04:13:32.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,brianpickrell/notebookc10a38f5d5,Notebookc10a38f5d5,Brian Pickrell,,2016-11-17T04:06:58.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vinodmang/notebook68772e039a,Notebook557c0bdee8,Vinod Mangipudi,,2016-11-16T19:05:55.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,michaelwest/notebookcdde5f0321,Notebook6cb6844b47,MichaelWest,,2016-11-16T17:37:16.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,inaccessible/outbrain-eda,Outbrain EDA,Inaccessible,,2016-11-16T11:59:07.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ankur93/simple-graph-of-relations-between-the-csv-s,Simple graph of relations between the csv's,Ankur chauhan,,2016-11-16T08:54:36.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lemoinef/outbrain-my-first-kaggle-notebook,Outbrain: My First Kaggle Notebook,Francois Lemoine,,2016-11-15T18:36:55.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amoln14/notebook3cab36e062,Notebook3cab36e062,Amol ,,2016-11-15T12:03:22.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wangheyu/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,didiwai,,2016-11-15T09:09:19.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sololament/notebook5241a6f9ba,Notebook5241a6f9ba,ShuoNiu,,2016-11-15T03:51:33.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ericcouto/notebook7938d6f27b,Notebook7938d6f27b,Eric Couto,,2016-11-14T11:04:54.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,myelinji/notebook5012e864dd,Notebook5012e864dd,myelinji,,2016-11-14T09:33:45.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,myelinji/notebookd865402fcc,Notebookd865402fcc,myelinji,,2016-11-14T09:27:29.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,darraghdog/notebooka8de72941d,Notebooka8de72941d,Darragh,,2016-11-14T07:55:53.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,passionofml/notebook92421c6250,Notebook4bbc4c713f,PoojaBiswas,,2016-11-13T21:19:53.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nicoleeel/organizing-data,Organizing data,nicoleeel,,2016-11-13T20:00:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lapone/outbrain-eda,Outbrain EDA,lapone,,2016-11-13T18:52:51.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tkm2261/notebooka5d51a8d9d,Notebooka5d51a8d9d,tkm2261,,2016-11-13T02:32:06.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sarahkelley/making-a-mini-data-set,Making a mini-data set,Sarah ,,2016-12-07T00:17:41.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,minixmax/explore-user-base-by-geo,Explore user base by GEO,Max,,2016-11-12T17:21:37.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,daam13/notebooka7b8ad65a5,Notebooka7b8ad65a5,DamienJacquemart,,2016-11-12T05:23:22.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,maciekpawlowski/notebook3ca89f418c,Notebook3ca89f418c,MaciekPawlowski,,2016-11-11T21:05:13.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zydendata/notebooke735787714,Notebooke735787714,Zyden,,2016-11-11T17:41:13.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rissonyao/notebook66ff887e0e,Notebook66ff887e0e,Risson Yao,,2016-11-11T14:44:08.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,wezteoh/notebookac687f6d1e,Notebookac687f6d1e,Wezteoh,,2016-11-10T20:57:45.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ktimothy/main-script,main_Script,Timothy K,,2016-11-10T18:47:23.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ktimothy/notebook1f0f3a841a,Notebook1f0f3a841a,Timothy K,,2016-11-10T18:43:07.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kenin815/notebook10550eb2f7,Notebook10550eb2f7,kenin815,,2016-11-10T12:01:09.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mtriedl/notebook8b6456abc1,Notebook8b6456abc1,Matthew Riedl,,2016-11-09T14:19:41.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pankajvshrma/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,pankajsharma,,2016-11-09T12:02:13.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yinxingxue/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,YinxingXue,,2016-11-09T07:57:39.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yoshscl/view-data,Notebook9f54aaa4d5,Yehoshaphat Schellekens,,2016-11-08T18:26:24.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gujiani/the-mystery-of-outbrain-ads,The Mystery of Outbrain Ads,Jiani Gu,,2016-11-08T11:52:21.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mdbmilkov/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,AMilkov,,2016-11-08T06:17:18.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,cfsnyder/outbrain,outbrain,Cory Snyder,,2016-11-07T12:34:29.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anki08/notebooka793f44baa,Notebooka793f44baa,Ankita Sinha,,2016-11-07T11:57:14.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shenleifighting/notebookc7503c73ea,Notebookc7503c73ea,shenlei,,2016-11-07T06:52:10.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bliscar/notebook96fdfd3c43,Notebook96fdfd3c43,bliscar,,2016-11-06T20:16:42.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jfamulare/notebookd183234922,Notebookd183234922,jfamulare,,2016-11-06T15:40:25.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,goffic/notebookd87e6dc5f6,Notebookd87e6dc5f6,Goffic,,2016-11-06T11:28:59.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,drdoot/notebook4bad70d246,Notebook69e4aa5c2f,Mark,,2016-11-06T10:59:25.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sharnam19/notebookd36b6484b0,Notebookd36b6484b0,snc19,,2016-11-06T10:35:01.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shenleifighting/notebook26df6dc2f7,Notebook26df6dc2f7,shenlei,,2016-11-06T08:50:33.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,cheulwon/notebookbaba292f5a,Notebookbaba292f5a,cheulwonjung,,2016-11-06T03:46:54.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rong22222/notebookf5dfa33062,Notebookf5dfa33062,RONG,,2016-11-06T01:25:35.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pranjaypatil/notebookc7f27d830c,Notebookc7f27d830c,Pranjay Patil,,2016-11-06T00:46:54.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,zhenbangli/outbrain-eda,Outbrain EDA,Boffee,,2016-11-05T23:25:53.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jfamulare/notebook03e9fe9bff,Notebook03e9fe9bff,jfamulare,,2016-11-05T14:39:04.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,eminik/notebookb3e3806053,Notebookb3e3806053,Eminik,,2016-11-05T14:29:46.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,some01/testing-python-kernel,testing python kernel,henningsway,,2016-11-05T12:09:31.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lachjames/notebook4342b01892,Notebook4342b01892,LachlanO'Neill,,2016-11-05T06:21:09.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,maxyak/notebookae9ff33e30,Notebookae9ff33e30,MaxYakovina,,2016-11-04T13:31:36.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rissonyao/notebook2779c5671c,Notebook2779c5671c,Risson Yao,,2016-11-04T06:19:36.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,amingheibi/test-notebook,Test Notebook,Amin Gheibi,,2016-11-03T18:19:58.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pretendi/outbrain-eda,Outbrain EDA,Pretendi,,2016-11-03T15:34:26.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,matohara/explore-user-base-by-geo,Explore user base by GEO,zzz_mato,,2016-11-03T14:36:13.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,utopianami/notebook0d25217343,Notebook0d25217343,Youngnam Lee,,2016-11-03T05:24:50.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sunilk1303/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Sunil Kumar,,2016-11-03T03:11:27.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rajendrakumar/notebookdeb33596bb,Notebook1237e1c7aa,Rajendra Kumar,,2016-11-02T11:48:09.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jasonhere/explore-user-base-by-geo,Explore user base by GEO,Jasonhere,,2016-11-02T07:46:03.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jasonhere/outbrain-eda,Outbrain EDA,Jasonhere,,2016-11-02T03:29:37.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,airiaddy/notebooke7662ecdec,Notebooke7662ecdec,Aditya Iftikar,,2016-11-01T11:53:55.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ymograi/notebookb267bbf279,Notebookb267bbf279,Yash Mograi,,2016-10-31T14:25:10.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jaycordes/firstkernel,FirstKernel,jcordes,,2016-11-04T18:31:23.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chaoyue/notebook2956b10eae,Notebook2956b10eae,Eu Yo Ahc,,2016-10-30T11:15:39.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,onepau/to-click-or-not-to-click-that-is-the-question,"To click or not to click, that is the question",onepau,,2016-10-30T09:01:59.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,poyuwu/notebooke7470491bc,Notebook7a0d97acd6,poyuwu,,2016-10-30T02:47:22.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hangetuita/notebookd4cc482631,Notebookd4cc482631,Daiki Tanaka,,2016-10-29T08:59:18.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,agarwalgopi/predict-ad-clicks,Predict Ad clicks,Gopi,,2016-10-28T17:47:58.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kmilo89/notebook159ef65269,Notebook159ef65269,Kmilo,,2016-10-28T15:20:55.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jeanlucla/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Jean-Luc Laurent,,2016-10-28T14:38:24.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chezui/explore,Explore,0x7a63,,2016-10-27T22:58:59.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chezui/notebookadfa2b54d0,Notebookadfa2b54d0,0x7a63,,2016-10-27T00:09:09.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kdferreira/outbrain-eda,Outbrain EDA,Kevin D. Ferreira,,2016-10-26T23:18:12.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pandeydevanshuh/outbrain-eda,Outbrain EDA,DevanshuPandey,,2016-10-26T23:14:24.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chezui/outbrain-eda,Outbrain EDA,0x7a63,,2016-10-26T23:11:21.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yuqingxue/the-mystery-of-outbrain-ads,The Mystery of Outbrain Ads,Yuqing Xue,,2016-10-26T19:28:32.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,swombo/outbrain-eda-fcdab4ab,Outbrain EDA fcdab4ab,thombo,,2016-10-26T17:11:59.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,minhduc191/outbrain-eda,Outbrain EDA,victor,,2016-10-26T09:57:02.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alekseyklementiev/test-002,test 002,Aleksey Klementiev,,2016-11-02T07:54:53.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,onepau/explore-user-base-by-geo,Explore user base by GEO,onepau,,2016-10-26T06:11:08.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,su20yu1919/notebook4ff8e7c5b9,Notebook4ff8e7c5b9,Bill Su,,2016-10-26T02:12:53.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,swombo/notebook26782c5b5a,Notebook26782c5b5a,thombo,,2016-10-26T19:12:10.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,slundy5122/notebook4fa6b3c6c4,Notebook4fa6b3c6c4,MonDai,,2016-10-25T20:04:29.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,billskelly/notebook69ff3459ea,Notebook69ff3459ea,Bill Skelly,,2016-10-25T17:03:42.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,karandewan/notebook54dc1758ca,Notebook54dc1758ca,KaranDewan,,2016-10-25T12:13:19.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,abhijeetnazar/notebook6de5cbf463,Notebook6de5cbf463,Abhijeet Nazar,,2016-10-25T15:02:20.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lleveille/notebook52b9225582,Notebook52b9225582,Leonson Leveille,,2016-10-25T08:30:41.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bhuvaneshwaran/notebookac65945ff4,Notebookac65945ff4,Bhuvaneshwaran K,,2016-10-25T08:04:06.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,liouscott/notebookb53bd47824,Notebookb53bd47824,Scott,,2016-10-25T07:39:13.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jackytu256/notebooka948c67b72,Notebooka948c67b72,JackyTu,,2016-10-25T07:36:29.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,agarwalgopi/outbrain-first-attempt,OutBrain First Attempt,Gopi,,2016-10-27T05:08:27.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gayatrimahesh/notebookcc4a8ff44e,Notebook1e851c005e,Gayatri Mahesh,,2016-10-25T10:34:44.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pielover/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Datavakra,,2016-10-25T00:48:07.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,arunreddy/notebookf34febbb82,Notebookf34febbb82,ratsasan,,2016-10-24T22:54:05.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alsharif/notebooke7840cdd3d,Notebooke7840cdd3d,Muhammad Alsharif,,2016-10-24T18:59:46.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,fatimabbt/notebook0d1945c040,Notebook0d1945c040,Faat,,2016-10-24T18:53:47.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vivek8943/vivek,Vivek,VivekPraturi,,2016-10-24T16:11:54.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ankur30/outbrain-eda,Outbrain EDA,Ankur chauhan,,2016-10-24T12:44:48.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lalthan/notebook20f11a85d9,Notebook9cb2475f8c,lalthan,,2016-10-24T12:22:51.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kenin815/notebook91e339ffcf,Notebook91e339ffcf,kenin815,,2016-10-24T07:57:22.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,agarwalgopi/the-mystery-of-outbrain-ads,The Mystery of Outbrain Ads,Gopi,,2016-10-24T08:12:15.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jszhang0001/notebooka4e0dfd4e3,Notebooka4e0dfd4e3,JiashengZhang,,2016-10-24T05:28:16.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tracholar/adcount-py,adcount.py,Tracholar Zuo,,2016-10-24T05:22:27.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tracholar/notebookf5bb981f31,Notebookf5bb981f31,Tracholar Zuo,,2016-10-24T05:03:22.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,acw236/notebookedf88e71e0,Notebooka88a8197d0,duck,,2016-10-24T03:37:19.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,j0shua/notebookf6c6e702bc,Notebookf6c6e702bc,Joshua Havelka,,2016-10-24T02:35:53.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jds5228/notebookb65d316cd5,Notebookb65d316cd5,Joshua Smith,,2016-10-24T01:20:24.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,liouscott/notebook9d4501bb92,Notebook9d4501bb92,Scott,,2016-10-24T00:10:00.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tthhmm/notebook804095f326,Notebook804095f326,HaimingTan,,2016-11-20T22:29:27.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gspmoreira/notebook4810f51578,Notebook4810f51578,Gabriel Moreira,,2017-07-14T12:51:44.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sapphire0/outbrain-eda,Outbrain EDA,Sema,,2016-10-23T16:29:02.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jackytu256/notebooke614b5df55,Notebooke614b5df55,JackyTu,,2016-10-23T11:02:17.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nasirovnicat/notebookc102f2261a,Notebookc102f2261a,Nicat Nasirov,,2016-10-23T10:46:35.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kenin815/notebook246b6ea4d4,Notebook246b6ea4d4,kenin815,,2016-10-23T07:04:30.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tracholar/notebooka4cfe2381e,Notebooka4cfe2381e,Tracholar Zuo,,2016-10-23T06:59:54.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,suruisun/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,SuruiSun,,2016-10-22T22:35:58.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lavande233/notebook92d83c82e8,Notebook92d83c82e8,Lavande233,,2016-10-22T12:14:11.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ramkikrish/first-notebook,First notebook,ram,,2016-10-22T07:24:07.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lihappy999/notebookfb6a0651a4,Notebookfb6a0651a4,aifisher,,2016-10-22T03:15:24.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,itsabookso/notebook0f6d8bd362,Notebook0f6d8bd362,Tina,,2016-10-22T03:12:55.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,aradeh/outbrain-eda,Outbrain EDA,Harshad Arade,,2016-10-22T00:23:36.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vitolee/notebookd1c9896441,Notebookd1c9896441,Vito Limandibhrata,,2016-10-21T21:38:44.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,djpittdj/notebook01358ddb61,Notebook01358ddb61,djpittdj,,2016-10-21T13:38:15.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,laura89/outbrain,Notebook52ac64ebac,laura89,,2016-10-21T09:54:52.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mirjana/notebookbbd7d2d1e9,Notebookbbd7d2d1e9,Mirjana,,2016-10-21T09:24:01.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nasirovnicat/outbrain-eda,Outbrain EDA,Nicat Nasirov,,2016-10-21T07:26:50.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,scottychung/notebookb075ca5746,Notebookb075ca5746,ScottyChung,,2016-10-21T00:12:21.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,serfcx/outbrain-eda,Outbrain EDA,ColinLi,,2016-10-20T22:40:59.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gauravgupta/notebook09c8a082ea,Notebook09c8a082ea,RAVMON,,2016-10-20T18:16:47.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,frederickayala/notebook8e914bb5cd,Notebook8e914bb5cd,frederickayala,,2016-10-20T10:10:52.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ankur93/the-mystery-of-outbrain-ads-predictions,The Mystery of Outbrain Ads + Predictions,Ankur chauhan,,2016-10-20T08:52:22.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,murphy89/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Morphy,,2016-10-20T04:27:36.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bekterra/outbrain-eda,Outbrain EDA,BekTerra,,2016-10-20T03:35:55.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,muriyizz/erwerwer,erwerwer,my_GOD,,2016-10-20T03:25:55.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,scottychung/notebook6aa094666e,Notebook6aa094666e,ScottyChung,,2016-10-20T02:24:32.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,refine/notebook70f98f9142,Notebook95910781ee,tiddler,,2016-10-20T02:06:09.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,su20yu1919/bill-su-and-his-support-group-kernel,Bill Su and His Support Group Kernel,Bill Su,,2016-10-26T16:55:27.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ktugan/notebooke43efbd058,Notebooke43efbd058,KadirTugan,,2016-10-19T12:55:59.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chinni/notebook19b028d8af,Notebook19b028d8af,Mounika,,2016-10-19T11:39:53.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shutak/notebook27d203b505,Notebook27d203b505,shu_t,,2016-10-19T07:31:56.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rajendrakumar/outbrain-eda,Outbrain EDA,Rajendra Kumar,,2016-10-19T05:05:39.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nganman/notebook7b2e0b2d8d,Notebook7b2e0b2d8d,Christopher Ngan,,2016-10-19T01:43:27.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nganman/explore,Explore,Christopher Ngan,,2016-10-19T01:41:19.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,robmaslh/notebookd9c7afc7b2,Notebookd9c7afc7b2,Robin E. Masliah,,2016-10-18T23:10:53.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tislamov/simple-starter,Simple Starter,Timur Islamov,,2016-10-18T16:13:04.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ponnath/notebook6cddb64e9b,Notebook6cddb64e9b,venkata ponnathota,,2016-10-18T16:10:53.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,narae78/outbrain-eda-32d16726,Outbrain EDA 32d16726,Hugo SECHIER,,2016-10-18T14:18:37.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sukoko/notebookf82ff171a2,Notebookf82ff171a2,aliby,,2016-10-18T14:10:13.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,karandewan/notebook7ac4edc499,Notebook7e05fc04d7,KaranDewan,,2016-10-18T05:07:47.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,atsushiwagatsuma/notebook2044e60b88,Notebook2044e60b88,AtsushiWagatsuma,,2016-10-18T03:07:26.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pandeyavinash/notebook7f1c0afd88,Notebook7f1c0afd88,Avinash Kumar Pandey,,2016-10-18T01:54:58.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ankur93/unveiling-page-views-csv-with-pyspark,Unveiling page_views.csv with PySpark,Ankur chauhan,,2016-10-17T18:59:19.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gspmoreira/unveiling-secrets-of-page-views-csv-with-spark,Unveiling secrets of page_views.csv with Spark,Gabriel Moreira,,2016-10-17T18:44:26.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gspmoreira/unveiling-the-secrets-of-page-views-csv-with-spark,Unveiling the secrets of page_views.csv with Spark,Gabriel Moreira,,2016-10-17T18:28:36.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,johnson1991/notebookfba96c4f84,Notebookfba96c4f84,Johnson Zhu,,2016-10-17T13:50:50.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jeanlucla/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Jean-Luc Laurent,,2016-10-17T13:18:50.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ryotanize/notebookabdbcc64fb,Notebookabdbcc64fb,RyotaNakanishi,,2016-10-17T12:36:20.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ankur30/notebook67737c5f69,Notebook67737c5f69,Ankur chauhan,,2016-10-17T12:16:27.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,atsushiwagatsuma/notebookf9bc625bdf,Notebookf9bc625bdf,AtsushiWagatsuma,,2016-10-17T08:39:15.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tracholar/test-python,test_python,Tracholar Zuo,,2016-10-17T05:32:40.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,apoorva123/outbrain-eda,Outbrain EDA,Apoorva Abhishekh,,2016-10-20T05:25:16.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,richbrosius/exploration-1,Exploration_1,RichBrosius,,2016-10-17T01:00:47.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,itsabookso/notebook28eb903435,Notebook28eb903435,Tina,,2016-10-16T14:03:10.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,karandewan/notebookc0854e0e08,Notebookc0854e0e08,KaranDewan,,2016-10-16T11:43:26.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tracholar/outbrain-click-prediction,outbrain-click-prediction,Tracholar Zuo,,2016-10-16T08:55:14.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hmphuc/outbrain-phuchuynh,outbrain_phuchuynh,MinhPhúcHuỳnh,,2016-10-16T03:59:08.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hmphuc/notebook88495a7ae8,Notebook88495a7ae8,MinhPhúcHuỳnh,,2016-10-16T03:51:22.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hmphuc/outbrain,outbrain,MinhPhúcHuỳnh,,2016-10-16T03:41:37.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hmphuc/outbrain-16102016,outbrain_16102016,MinhPhúcHuỳnh,,2016-10-16T03:39:41.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,danielhuckins/notebookfe46316b0e,Notebookfe46316b0e,Daniel Huckins,,2016-10-15T23:16:22.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,xameleoh/simple-ad-click-sort,Simple ad click sort,frist,,2016-10-15T20:46:16.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,onepau/outbrain-eda,Outbrain EDA,onepau,,2016-10-15T17:55:42.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,malkin/notebookbacfc686bd,Notebookbacfc686bd,malkin,,2016-10-15T17:37:25.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ravichinoy/notebooked0f066bc9,Notebooked0f066bc9,RaviChinoy,,2016-10-15T15:57:33.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gujiani/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Jiani Gu,,2016-10-15T08:32:40.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ermochi/btb-0-63523-evaluation,BTB 0.63523 + evaluation,AVP,,2016-11-09T19:15:13.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mail2rkjaiswal/outbrain-eda,Outbrain EDA,RajJaiswal,,2016-10-15T08:21:21.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,carlosroig/leakage-solution,leakage solution?,Carlos Roig,,2016-10-14T15:30:58.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alenjacob123/outbrain-eda,Outbrain EDA,AlenJacob,,2016-10-14T15:13:21.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,murphy89/notebook2242162ffd,Notebookf5ac4bc856,Morphy,,2016-10-14T17:52:20.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kusogray/test-1,Test_1,whmou,,2016-10-14T06:58:24.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kusogray/notebookd03bc85e16,Notebookd03bc85e16,whmou,,2016-10-14T06:57:02.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ivanyen/notebook0e2460442e,Notebook0e2460442e,Data Destiny,,2016-10-14T06:27:19.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bigdataads/outbrain-eda-2,Outbrain EDA 2,bigdataads,,2016-10-14T05:50:15.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kusogray/test1,test1,whmou,,2016-10-14T05:44:00.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dingyuyang/notebookff6ac5d557,Notebookff6ac5d557,adign,,2016-10-14T03:02:20.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,leekanghyuk/notebookcbd9f57d16,Notebookcbd9f57d16,LeeKangHyuk,,2016-10-14T02:06:32.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,andreseliot/btb-0-63523-evaluation-2,BTB 0.63523 + evaluation 2,Eliot Andres,,2016-10-13T20:29:40.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gspmoreira/notebook65b1666dcd,Notebook65b1666dcd,Gabriel Moreira,,2016-10-13T17:24:36.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,chandana/notebooka7efc9e9bf,Notebooka7efc9e9bf,chandanaReddy,,2016-10-13T16:48:38.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ricardocsag/btb-0-63523-evaluation,BTB 0.63523 + evaluation,ricardoCSAG,,2016-10-13T14:41:22.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nichole/notebook5b5f8a4046,Notebook5b5f8a4046,Nichole,,2016-10-13T14:14:42.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,washingtonirving/notebookc1195aa0a2,Notebookc1195aa0a2,washingtonirving,,2016-10-13T14:13:55.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,narae78/outbrain-eda,Outbrain EDA,Hugo SECHIER,,2016-10-13T09:44:37.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,remnsh/btb-0-63-0-63523-0-63659,BTB ~0.63 -> 0.63523 -> 0.63659,remnsh,,2016-10-13T09:24:30.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,devbrat/notebook554ccc8b63,Notebook554ccc8b63,Dev Brat Rai,,2016-10-13T07:52:58.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,soates/outbrain-eda,Outbrain EDA,soates,,2016-10-13T07:07:28.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ravichinoy/notebookaa141c558c,Notebookaa141c558c,RaviChinoy,,2016-10-13T05:52:42.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sunilmistri/notebook6aeed5e112,Notebook0cd7920e21,Sunil Mistri,,2016-10-12T21:23:41.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ponnath/notebook5b97b10966,Notebook5b97b10966,venkata ponnathota,,2016-10-13T19:12:18.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ak1993/outbrain-eda,Outbrain EDA,*NULL,,2016-10-12T21:16:34.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jeanlucla/notebook42873d1154,Notebook42873d1154,Jean-Luc Laurent,,2016-10-12T20:32:15.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ynskrishna/outbrain,Outbrain,NishanthYalam,,2016-10-12T19:45:02.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ynskrishna/notebook235f2ca385,Notebook235f2ca385,NishanthYalam,,2016-10-12T19:42:27.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tommyw/notebook9c16fc99fb,Notebook5741e7fba9,Tommy,,2016-10-12T16:57:13.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jeanlucla/outbrain-eda,Outbrain EDA,Jean-Luc Laurent,,2016-10-12T15:43:24.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ricardocsag/pruebaempty,pruebaEmpty,ricardoCSAG,,2016-10-12T14:51:35.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,truonghai001/notebooka2d5cee378,Notebooka2d5cee378,Hai Truong,,2016-10-12T13:29:11.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,razvancosteanu/clicks-test-csv,clicks_test.csv,CosteanuRazvan,,2016-10-12T12:46:16.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hbhargava2/notebook59cc887903,Notebook59cc887903,HarshitBhargava,,2016-10-12T10:52:03.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,andreseliot/regularized-btb-0-635,Regularized BTB ~0.635,Eliot Andres,,2016-10-12T10:32:59.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,println/outbrain-eda,Outbrain EDA,Chongdi Huang,,2016-10-13T01:42:36.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,skylord/notebooke4afd9723c,Notebook53ada64400,SkyLord,,2016-10-12T09:10:43.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,crownpku/outbrain-eda,Outbrain EDA,crownpku,,2016-10-12T09:03:27.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sbairishal/beat-the-benchmark-wid-regularization,beat the benchmark wid regularization,Geeko,,2016-10-12T12:21:47.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,frantz/notebook47489e2c97,Notebook47489e2c97,François Plesse,,2016-10-12T08:44:23.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ajitbarik/notebook9557ae7b61,Notebook9557ae7b61,Ajit Barik,,2016-10-12T06:45:06.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,andris/first-notebook,First Notebook,Andris Birkmanis,,2016-10-12T05:59:47.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shashankjain/outbrain-eda,Outbrain EDA,Shashank Jain,,2016-10-12T03:29:47.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tlanigan/outbrain-eda,Outbrain EDA,tlanigan,,2016-10-12T02:42:46.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,lucienderubempre/notebook7332bde6cc,Notebook7332bde6cc,Lucien de Rubempre,,2016-10-11T20:54:54.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,isosnovik/xgbstate-1,XGBState,Ivan Sosnovik,,2016-10-11T18:22:27.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,truonghai001/data-preprocessing,Data preprocessing,Hai Truong,,2016-10-11T15:46:06.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rpygamer/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Thamer,,2016-10-11T15:00:51.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hilbertv/temp-notebook,Temp Notebook,Hilbert V,,2016-10-14T09:39:38.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rpygamer/notebook93955e99a0,Outbrain click predection  ,Thamer,,2016-10-11T14:26:12.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,merryhunter/notebook626f820af1,Notebook626f820af1,Ivan Chernukha,,2016-10-11T10:45:38.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,truonghai001/explore-dataset,Explore dataset,Hai Truong,,2016-10-12T01:27:38.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marouane/notebookfad0b5500d,Notebookfad0b5500d,Marouane,,2016-10-11T09:59:20.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,carlosroig/notebook-work-in-progress,Notebookb8858727fa,Carlos Roig,,2016-10-14T19:20:11.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dandanmylady/notebook12ff40e4de,Notebook12ff40e4de,Lyndon,,2016-10-11T08:01:41.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mediaminer/notebook9b29dd8647,Notebook9b29dd8647,Multi Media Miner,,2019-08-11T01:28:21.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,migueldoblado/test-py,test.py,Miguel Doblado,,2016-10-11T05:53:51.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sohrab/to-click-or-not-to-click-that-is-the-question,"To click or not to click, that is the question",Sohrab_TTI,,2016-10-11T02:05:04.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vsmalladi/exploring-outbrain-data,Notebook4f36d76164,Venkat Malladi,,2016-10-10T23:38:19.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,kumarsh8483/explore-user-base-by-geo,Explore user base by GEO,Dev Kumar,,2016-10-10T22:02:33.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hakeem/btb-0-63-0-63523,BTB ~0.63 -> 0.63523,H4k333m,,2016-10-10T21:36:53.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,some01/explore-user-base-by-geo,Explore user base by GEO,henningsway,,2016-10-10T16:36:46.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,towsonboy/notebook0aeb71f8f2,Notebook0aeb71f8f2,HifenYu,,2016-10-10T15:43:09.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,savostinkaggle/notebook6c1f129f8c,Notebook6c1f129f8c,Alexey Savostin,,2016-10-10T14:03:01.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jpuigde/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Jpuigde,,2016-10-10T09:50:16.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,linjunli/notebook7871faf347,Notebook7871faf347,BarabaraLee,,2016-10-10T03:39:04.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ynskrishna/notebook6390a9a82c,Notebook6390a9a82c,NishanthYalam,,2016-10-10T01:26:55.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hongweizhang/notebook2ee9723bae,Notebook2ee9723bae,Hongwei Zhang,,2016-10-10T01:01:13.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,akki0206/notebook760f15bca3,Notebook760f15bca3,Akshay,,2016-10-09T17:58:48.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,paycoder/notebook8eec030c6b,Notebook8eec030c6b,Onno,,2016-10-09T16:59:27.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anokas/exploratory-data-analysis-1,Exploratory Data Analysis,anokas,,2016-10-09T16:36:44.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,avishek/regularized-btb-0-635-10092016,Regularized BTB ~0.635_10092016,Avishek,,2016-10-10T09:30:31.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rohitc01/hello2,hello2,Rohit,,2016-10-09T14:19:34.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rohitc01/notebook17a70f6f48,Notebook17a70f6f48,Rohit,,2016-10-09T14:01:37.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hongweizhang/notebook9b1b76a96e,Notebook9b1b76a96e,Hongwei Zhang,,2016-10-09T08:02:24.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,firsec/outbrain,outBrain_,firsec,,2016-10-09T07:57:59.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,om1042/explore-user-base-by-geo,Explore user base by GEO,ompanda,,2016-10-10T04:45:55.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,csyhuang/look-at-page-views,Look at page_views,Myna at JadeGarden,,2016-10-08T23:23:22.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tarras/notebook693f9e8020,Notebook693f9e8020,TatianaTarras,,2016-10-08T21:53:49.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jeblist/notebook33387e1772,Notebook33387e1772,Jeblist,,2016-10-08T21:30:36.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,egozi5/date-exploration-and-train-test-split,Date Exploration and Train/Test Split,Egozi,,2016-10-08T20:48:49.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,yossisal/nb111,nb111,pulimaro,,2016-10-08T18:40:03.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,egozi5/notebook547d484c01,Notebook547d484c01,Egozi,,2016-10-08T17:39:56.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mcallaghan/notebook999fb2ce07,Notebook999fb2ce07,Max Callaghan,,2016-10-08T15:05:26.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,subbareddyyeruva/explore-user-base-by-geo,Explore user base by GEO,SubbaReddyYeruva,,2016-10-08T14:20:27.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,arjoonn/scout-script,Scout Script,ArjoonnSharma,,2016-10-08T12:19:52.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,bhuo1a/notebook79912b92d2,Notebook79912b92d2,bhuo1a,,2016-10-08T09:34:38.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,parikshitjoshi/notebook63172005bb,Notebook63172005bb,Pj,,2016-10-08T08:03:17.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,gearcx/notebookac965af67b,Notebookac965af67b,gear,,2016-10-08T07:28:36.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,fernandodamasio/notebookb030beb855,Notebookb030beb855,FernandoDamasio,,2016-10-08T03:23:02.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,marcolinodev/mbc-btb,mbc-btb,Marcos Braga Choma,,2016-10-09T18:28:45.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,linjunli/notebook998cba6667,Notebook998cba6667,BarabaraLee,,2016-10-08T00:43:59.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,linjunli/notebooka0dedde5bf,Notebooka0dedde5bf,BarabaraLee,,2016-10-07T23:11:39.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dnsoft/notebookbe595b3568,Notebookbe595b3568,DNSoft,,2016-10-07T21:59:48.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,a1ibeyram/preparation,Preparation ,Ali Beyram,,2016-10-07T20:38:43.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,tedrand/notebooke22eca1e42,Notebooke22eca1e42,TedRand,,2016-10-07T20:02:52.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,volker48/joining-the-document-data,Joining the document data,Marcus McCurdy,,2016-10-07T19:07:09.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,betterplace/explore-user-base-by-geo,Explore user base by GEO,noooooo,,2016-10-13T11:27:52.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,djanssens/notebook3181af5f14,Notebook3181af5f14,DJanssens,,2016-10-07T14:41:31.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,nitred/notebookec95bbbd1f,Notebookec95bbbd1f,nitred,,2016-10-07T14:36:00.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,eidanch/notebookb95cc10c70,Notebook92e0b40949,Eidan Cohen,,2016-10-07T13:31:10.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,egozi5/explore-user-base-by-geo,Explore user base by GEO,Egozi,,2016-10-07T11:39:05.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vivekka93/first,First,Vivek Karna,,2016-10-07T10:44:31.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,anknull/testing,testing,AnkushGupta,,2016-10-07T10:26:32.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mbenkhemis/explore-user-base-by-geo,Explore user base by GEO,Mohamed BEN KHEMIS,,2016-10-11T14:30:05.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,victormanuelpelaez/to-click-or-not-to-click-that-is-the-question,"To click or not to click, that is the question",Victor Peláez,,2016-10-07T07:06:29.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,csyhuang/explore-user-base-by-geo,Explore user base by GEO,Myna at JadeGarden,,2016-10-07T06:35:51.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sunlchk/explore-user-base-by-geo,Explore user base by GEO,Sunil Gopinath,,2016-10-07T06:06:06.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,csabyte/explore-user-base-by-geo,Explore user base by GEO,Csaba,,2016-10-07T05:02:41.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,linjunli/notebook908fc327b3,Notebook908fc327b3,BarabaraLee,,2016-10-07T04:53:14.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,shumpathy/notebook16eb9de545,Outbrain analysis,Shum Pathy,,2016-10-07T04:29:45.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,venkyb/explore-user-base-by-geo,Explore user base by GEO,tyler_durden,,2016-10-07T03:57:22.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,johnsonwu/notebook712d04d535,Notebook712d04d535,johnsonwu,,2016-10-07T03:22:59.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,johnsonwu/second-submit,second-submit,johnsonwu,,2016-10-07T03:14:51.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,cziszero/notebook93a8fbba31,Notebook93a8fbba31,cziszero,,2016-10-07T01:05:04.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sunnyrain/explore-user-base-by-geo-for-steve,Explore user base by GEO for Steve,Steve,,2016-10-06T22:15:22.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dnsoft/notebookfca382f28b,Notebookfca382f28b,DNSoft,,2016-10-06T22:09:00.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sunnyrain/explore-user-base-by-geo,Explore user base by GEO,Steve,,2016-10-06T21:51:25.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jphegde/explore-user-base-by-geo,Explore user base by GEO,jhegde,,2016-10-06T21:50:24.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dhirsch/first,First,Daniel Hirsch,,2016-10-06T20:16:02.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,deshpana/explore-user-base-by-geo,Explore user base by GEO,deshpana,,2016-10-06T20:12:58.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,spattigilli/notebook9132637df6,Notebook0e5e32ddc4,Srinivasa,,2016-10-06T19:09:40.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,rockair/random-submission-just-for-fun,random submission.. just for fun,Király Tamás,,2016-10-06T18:49:00.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,benhamner/notebook41c3f5d32a,Notebook41c3f5d32a,Ben Hamner,,2016-10-06T18:21:36.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,deeplifer/notebook2f6fb43946,Notebook2f6fb43946,deepLifer,,2016-10-06T14:42:39.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sarame/notebook077785ad86,Notebook077785ad86,SaraMeftah,,2016-10-06T14:34:58.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vipink21/brain,brain,Vipin Kumar,,2016-10-06T14:18:09.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,higoreduardo/notebookd49c834685,Notebookd49c834685,higoreduardo,,2016-10-06T13:55:56.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,naidu1/notebook641edc357b,Notebook641edc357b,naidu,,2016-10-06T13:45:14.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,geekfox/exploring-data,Notebook18eecf166e,GeekFox,,2016-10-10T12:12:25.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dscientist/to-click-or-not-to-click-that-is-the-question,"To click or not to click, that is the question",Chathura,,2016-10-06T13:00:28.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,makanga/notebookc7436faaf8,Notebookc7436faaf8,makanga,,2016-10-06T12:45:34.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dmitrybaykin/notebook1c31084790,Notebook1c31084790,Dmitry Baykin,,2016-10-06T12:27:10.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,vsmalladi/notebooka352487256,Notebooka352487256,Venkat Malladi,,2016-10-06T12:18:32.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,darinc/random-submission-just-for-fun,random submission.. just for fun,DarinChambers,,2016-10-06T13:36:34.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,abhijeetnazar/notebook841aa8ac97,Notebook841aa8ac97,Abhijeet Nazar,,2016-10-06T11:41:33.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,andreisun/data-preview-1,Data preview,Andreisun,,2016-10-06T11:52:41.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,dsokal/notebookbcb3e42681,Notebookbcb3e42681,Dzianis Sokal,,2016-10-06T10:03:54.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,soniashish/notebookb2420a21ee,Notebookb2420a21ee,AshishSoni,,2016-10-06T09:52:17.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,roggin/trying-predict-ads-from-users-history,trying predict ads from users history,rogginHuang,,2016-10-06T07:11:30.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,esawtooth/notebook284a8c048f,Outbrain Challenge,Rohit Jain,,2016-10-06T06:34:28.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,whysocurious/justexploring,Notebookba1ef11f2b,Atish Gautam,,2016-10-06T08:24:12.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,mkesselaers/notebookd99c23abe8,Notebookd99c23abe8,MKesselaers .,,2016-10-07T22:20:06.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,ubermensch/notebookd0bde94c9e,Notebookc073143474,Ubermensch,,2016-10-06T04:10:23.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,jwegas/trying-predict-ads-from-users-history,trying predict ads from users history,Evgenii Zhukov,,2016-10-06T03:49:23.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,sky22357168/notebook9e3a65f666,Notebook9e3a65f666,SkyTim,,2016-10-06T02:43:38.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,qthurier/notebook60f386dac6,Notebook60f386dac6,Quentin Thurier,,2016-10-06T01:45:44.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,irenedvs/notebook1ff4eba7a6,Notebook1ff4eba7a6,IreneDavis,,2016-10-05T23:24:20.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,maidang/notebook87377ca5c7,Notebook87377ca5c7,Mai Dang,,2016-10-05T23:23:38.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,asamigullin/notebook54b9946971,Notebook54b9946971,Arthur Samigullin,,2016-10-05T21:26:55.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,elguille/notebookf24e558557,Notebook19f055606d,Guille Rmo,,2016-10-05T21:06:37.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,hmehta/notebookcf58278bf1,Notebookcf58278bf1,Hiral Mehta,,2016-10-05T21:02:55.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,romovpa/notebook7bdb8933d5,Notebook7bdb8933d5,Peter Romov,,2016-10-05T20:21:23.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,oliversherouse/notebook41891292c5,Notebook41891292c5,OliverSherouse,,2016-10-05T19:47:54.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,elberi/notebook2830b612bd,Notebook2830b612bd,Beri,,2016-10-05T19:43:06.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,alijs1/try-to-beat-the-benchmark,Try to beat the benchmark :),alijs,,2016-10-05T20:21:42.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,takuyasakaguchi/data-structure-analysis-1,Data structure analysis.,Takuya,,2016-10-05T20:14:08.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,austincap/where-when-what-companies-get-the-most-clicks,"Where, when, & what companies get the most clicks?",Austin,,2016-12-13T21:05:21.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction
+,,,,,0,pankajmishra/notebookdd0c9aa88c,Notebookdd0c9aa88c,PankajMishra,,2016-10-05T19:15:03.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,outbrain-click-prediction

@@ -1,0 +1,416 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,yannisp/sf-crime-analysis-prediction,SF-Crime Analysis & Prediction,Yannis Pappas,,2019-01-11T10:49:02.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],81,sf-crime
+,,,,,0,swbevan/a-history-of-crime-python,a history of crime,Simon,,2015-06-23T10:19:15.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,sf-crime
+,,,,,0,dbennett/test-map,Crime density by location,DBenn,,2015-06-13T05:16:37.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,sf-crime
+,,,,,0,nitinvijay23/predict-the-crime-category-knn-logistic,Predict the Crime Category - KNN & logistic,Nitin Vijay,,2016-12-17T19:30:13.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,sf-crime
+,,,,,0,wendykan/don-t-know-what-i-want-to-do-yet,Exploratory graphs,Wendy Kan,,2015-06-01T01:52:24.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,sf-crime
+,,,,,0,smerity/fighting-crime-with-keras,Fighting Crime with Keras,Smerity,,2015-06-10T20:22:20.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,sf-crime
+,,,,,0,luventu/title,Predict crime is a multilabel task,LucaVenturini,,2016-05-20T09:26:00.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,sf-crime
+,,,,,0,shinichioto/folium-and-other-visualization-models-etc,"Folium and Other Visualization. Models, etc.",Shinichi Oto,,2022-01-14T07:31:27.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,sf-crime
+,,,,,0,lesibius/crime-scene-exploration-and-model-fit,Crime Scene Exploration and Model Fit,Clem Castellano,,2017-08-24T14:54:33.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,sf-crime
+,,,,,0,sanghan/top-crimes-zones,Top Crimes Zones,Sang Han,,2015-11-24T10:01:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,sf-crime
+,,,,,0,keldibek/sf-crime-visualization,SF crime visualization,AminaKeldibek,,2016-03-08T11:33:05.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,sf-crime
+,,,,,0,moonpray/base-script-and-good-scoring,Base Script And Good Scoring,Moonpray,,2017-08-31T13:42:02.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,sf-crime
+,,,,,0,wawanco/k-nearest-neighbour,K-Nearest-Neighbour,Thibault,,2015-09-04T14:24:00.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,sf-crime
+,,,,,0,benhamner/show-map-image-in-python,Show Map Image in Python,Ben Hamner,,2015-06-04T09:07:01.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,sf-crime
+,,,,,0,tfurmston/crimes-that-occur-on-a-street-corner,Crimes that occur on a street corner,Tom Furmston,,2015-09-06T19:18:07.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,sf-crime
+,,,,,0,lllinger/crimedistribution-temporal-spatial,CrimeDistribution_Temporal&Spatial,linger89,,2015-07-24T05:32:21.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,sf-crime
+,,,,,0,gaurav126/qstp-crime-prediction,QSTP_Crime_Prediction,Gaurav Lokhande,,2021-08-08T18:13:59.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sf-crime
+,,,,,0,dollardollar/importance-of-address-features,Importance of Address Features,Christian Hirsch,,2016-05-31T14:26:20.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sf-crime
+,,,,,0,str8sky2star/studying-time-v-s-day-by-category,"Studying ""Time v.s. Day"" by Category",StarGazer,,2015-12-19T11:23:31.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,sf-crime
+,,,,,0,pravinborate/san-francisco-crime-classification,San Francisco Crime Classification,Pravin,,2020-01-29T18:58:39.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sf-crime
+,,,,,0,junheo/sf-crime-rate-prediction,SF Crime Rate Prediction,Jun Heo,,2019-03-07T13:46:54.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sf-crime
+,,,,,0,hamzael1/sf-crimes-prediction-walkthrough-with-xgboost,SF Crimes Prediction Walkthrough with XGBoost,Hamza El Bouatmani,,2019-02-25T22:14:24.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sf-crime
+,,,,,0,keldibek/xgboost-crime-classification,XGBoost_Crime_Classification,AminaKeldibek,,2016-06-03T09:07:24.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sf-crime
+,,,,,0,papadopc/neural-nets-and-address-featurization,neural nets and address featurization,papadopc,,2015-08-07T23:27:18.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sf-crime
+,,,,,0,sonuk7/prediction-with-bernoulinb,Prediction With BernouliNB,Swaraj Khadanga,,2015-06-29T13:31:04.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,sf-crime
+,,,,,0,chromerai/san-francisco-crime-classification,San Francisco Crime Classification,Kaustubh Mishra,,2021-06-06T20:22:25.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,chachiawacef/data-preprocessing-san-francisco-crime,Data_Preprocessing_San_Francisco_Crime,Chachia Mohamed Wacef,,2020-12-23T16:06:12.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,seunghyunlee96/classification-sf-crime,Classification_sf_crime,Seung Hyun Lee,,2020-08-15T15:30:24.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,guidosalimbeni/random-forest-crime-classification,Random Forest Crime Classification,Guido Salimbeni,,2019-10-28T13:27:02.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,data13/crime-prediction-in-san-francisco,Crime Prediction in San Francisco,Asmaa,,2019-07-30T06:27:11.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,lennartxt/data-visualization,Crime hotspots over the years,Lennart,,2016-06-02T14:35:06.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,archimitra/mr-sherlock-holmes,Mr. Sherlock Holmes,ArchiMitra,,2016-03-06T06:21:00.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,sf-crime
+,,,,,0,luckypen/san-francisco-crime-analysis,San Francisco Crime Analysis,Penny Li,,2022-02-26T04:19:48.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sf-crime
+,,,,,0,abhimicro3/eda-of-san-francisco-crime-classification,EDA of San Francisco Crime Classification,Abhishek,,2018-04-17T17:37:00.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sf-crime
+,,,,,0,maite828/test-random-forest,Test Random Forest,MaiteEcheverry,,2016-05-27T16:37:11.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sf-crime
+,,,,,0,olivetti/connecting-crimes,Connecting Crimes,Fabricio Olivetti de Franca,,2015-06-05T14:13:12.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,sf-crime
+,,,,,0,georgesaavedra/san-francisco-crime-eda-classifier,San Francisco Crime EDA & Classifier,george saavedra,,2022-03-09T04:27:35.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,anshulavinashe/sanfrancisco-crime-classification,SanFrancisco_Crime_classification,Anshul Avinashe,,2021-08-08T12:35:07.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,aryaadesh/sf-crime,SF_crime,Arya Adesh,,2021-06-15T08:46:50.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,zizonpingu/sanfrancisco-crime-classification-20210412-v1,SanFrancisco crime classification_20210412_v1,Min-Ho Kim,,2021-04-18T07:47:41.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,julianbenny/sf-crime,SF_crime,Julian Benny,,2020-07-28T09:54:16.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,christophmichel/exploring-and-visualizing-data, Exploring and Visualizing Data,C. Michel,,2016-06-02T14:55:36.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,ymcdull/frank-sf-xgboost-python,Frank-SF-xgboost-python,Yunfeng Zhu,,2016-05-31T12:39:38.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,adarshshekhar/data-visualization-python,Data Visualization (Python),AdarshShekhar,,2016-05-28T16:57:32.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,bejota/sf-crime-wip,SF Crime Exploration,bejota,,2016-06-10T15:04:46.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,kevinkirchhoff/density-plots-using-constraints,Density Plots Using Constraints,Kevin Kirchhoff,,2016-04-29T17:52:06.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,sf-crime
+,,,,,0,tilnariko/san-francisco-tika,san francisco tika,TILNARIKO,,2022-02-11T21:15:49.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,shivangi21/crime-tesorflow,Crime_TesorFlow ,Shivangi21,,2021-07-23T14:14:49.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,mindalatseoul/sanfransico-crime-prediction-eda-modeling,SanFransico Crime Prediction EDA & Modeling,LEEJUNSEONG,,2020-08-22T11:19:18.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,munmun2004/san-francisco-crime-classification,[한글커널][San Francisco Crime Classification],munmun2004,,2020-06-11T14:34:31.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,krishnarajut/san-francisco-crime-classification,San-Francisco Crime Classification,Krishna Raju,,2019-03-19T09:59:10.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,mohamedhedi009/fork-of-san-francisco-crime-classification-accu-26,Fork of San Francisco Crime Classification accu=26,Mohamed,,2019-01-08T21:25:55.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,luisfredgs/classifica-o-de-crimes-em-san-fran-projeto-am,Classificação de crimes em San Fran - [Projeto AM],Luís Fred,,2018-11-29T20:54:18.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,waiyanminkyaing/sf-crime-visualization,SF crime visualization,WaiYanMinKyaing,,2016-10-26T02:32:39.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,kevinkirchhoff/random-forest-solution,Random Forest Solution,Kevin Kirchhoff,,2016-06-01T23:27:27.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,johnhu/geo-comparision-for-different-crimes,Geo-Comparision for different crimes.,boqianghu,,2016-03-11T07:43:21.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,qq532933297/a-beginner-tries-naive-bayes,A beginner tries naive bayes,Eric Dack,,2016-03-17T13:56:27.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,gustavodemari/san-francisco-crime-classification,San Francisco Crime Classification,Gustavo De Mari,,2015-12-27T03:04:13.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,catherinekherian/sf-crimes-show-two-peaks-each-month,SF crimes show two peaks each month,Catherine Kungler Kherian,,2015-07-22T17:50:03.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,sf-crime
+,,,,,0,ganeshjshetty/san-francisco-crime-classification,San-francisco crime classification,Ganesh J Shetty,,2021-08-07T08:05:31.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,nitishputrevu/sfc-classification-pipeline-model-rf-regressor,SFC Classification-Pipeline model(rf regressor),Nitish Putrevu,,2021-08-08T18:11:43.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,navidalazim/san-fransisco-crime-lightgbm,San Fransisco crime (lightgbm),Navid Al Azim,,2021-08-04T23:58:21.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,toshiyaigs/eda-ver1,EDA_ver1,IGreen,,2021-07-20T15:50:29.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,danbiyoon/20210404-sanfrancisco-crime,20210404_sanfrancisco_crime,Yoon,,2021-04-22T09:23:48.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,nishita17/san-francisco-crime-classification,San-Francisco Crime Classification,Nishita Agarwal,,2021-05-25T19:23:56.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,scottmduda/sf-crime-data-eda,SF Crime Data - EDA,octaddust,,2019-11-29T18:26:07.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,shahkan/crime-classifier-for-san-francisco,Crime Classifier for San-Francisco,Kanish Shah,,2019-07-01T19:02:52.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,manaan/crime-classification-using-knn,Crime Classification using KNN,Manaan Ansari,,2019-05-17T12:41:31.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,zhangnet/naive-bayes-methods,Naive Bayes Methods,Bo Zhang,,2017-12-31T02:29:46.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,xiaoyao70v/notebook279aaa6c7e,Notebook3d036d9ac1,xiaoyao70v,,2016-12-06T09:13:57.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,nikolayburlutskiy/xgboost-sf-crime,xgBoost SF Crime,NikolayBurlutskiy,,2016-06-03T16:46:58.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,maite828/exploration-and-test-random-forest,Exploration,MaiteEcheverry,,2016-05-27T14:32:21.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,yanwii/yanwii-2,yanwii,yanwii,,2016-04-03T03:34:37.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,darshitd/firsttry,RandomForest,Darshit Doshi,,2016-04-05T18:30:46.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,qq532933297/a-copy-from-a-history,a copy from /a history/,Eric Dack,,2016-03-06T02:42:23.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,dimaiyou/naive2,naive2,dimaiyou,,2016-01-21T14:23:24.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,gantell/other-offenses-traffic-violations,"""Other Offenses"" = Traffic Violations",Gregory Antell,,2015-11-04T04:09:13.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,randomscientist/bayes,Crime from location using Bayes' law,Random Scientist,,2015-11-02T16:12:47.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,bateou29/heatmap-crime-by-district-and-year,Heatmap - Crime by District and Year,Benj,,2015-10-16T03:35:52.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,bhavijagwani/prevalence-of-crimes,Prevalence of Crimes,BhaviJagwani,,2015-10-06T02:56:37.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,captcalculator/crime-by-type-and-hour-of-day,Crime by type and hour of day,Troy Walters,,2015-08-19T03:52:21.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,benhamner/sf-crimes-by-day-of-year,SF crimes by day of year,Ben Hamner,,2015-07-28T21:18:02.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,rhoslug/sf-crime-prediction-with-scikit-learn,SF Crime Prediction with scikit-learn,rhoslug,,2015-07-10T23:44:08.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,amoyakd/in-python,In Python,amoyakd,,2015-06-25T18:09:29.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,sonuk7/prediction-with-out-sklearn,Prediction With out sklearn ,Swaraj Khadanga,,2015-06-26T07:51:49.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,codechamp/crime-density-by-location,Crime density by location,codechamp,,2015-06-17T02:10:39.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,victoregb/sf-pd-districts-and-top-10-crime-maps,SF Pd districts and Top 10 crime Maps,Victoregb,,2015-06-10T07:26:30.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,victoregb/san-francisco-map-top-9-crime,San Francisco Map Top 9 Crime,Victoregb,,2015-06-10T07:15:52.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,sf-crime
+,,,,,0,mahtabezzati/san-francisco-crime-xgboost,San Francisco Crime - XGBoost,Mahtab Ezzati,,2022-05-25T20:38:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,svnsdhananjayreddy/san-francisco-crime-classification,San Francisco Crime Classification,SATTI VIJAY NAGA SRI DHANANJAY REDDY RA1811033010085,,2021-11-30T13:37:08.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,nourhanaboelsoaoud/nourhanwaleedfinalproject,NourhanWaleedFinalproject,Nourhan Aboelsoaoud,,2021-10-29T12:06:33.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,sohann/notebook6d330d8342,notebook6d330d8342,Sohan Shrungare,,2021-08-09T16:43:04.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,deepaliseth/sanfrancisco-crime-classification,SanFrancisco_Crime_classification,Deepali Seth,,2021-08-08T18:24:04.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,kartiksengupta/sanfcrime-stat,sanFcrime_stat,Kartik Sengupta,,2021-08-09T17:09:28.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,afrinamustofasharony/sfcrimeclassification,sfcrimeclassification,Afrina Mustofa Sharony,,2021-08-05T14:50:17.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,tejasboss/san-fransisco-crime,San fransisco Crime,Tejasboss,,2021-08-04T18:12:03.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,kazuyasumatsudaf/teammatsu-m1,TeamMatsu#m1_カテゴリを予測する,KazuyasuMatsudaF,,2021-08-19T04:12:51.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,sakshi0100/sanfrancisco-crime-keras,Sanfrancisco_crime_keras,Sakshi Singh,,2021-06-25T06:42:35.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,zizonpingu/sanfrancisco-crime-classification-20210419-v2,SanFrancisco crime classification_20210419_v2,Min-Ho Kim,,2021-05-18T10:37:26.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,gonzalogarciafuste/sf-crime-classification-and-nice-graphics,SF Crime Classification and nice graphics ¡¡,gonzalo garcia fuste,,2021-04-16T17:07:22.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,chasmo/sf-crime-analysis,sf-crime Analysis,Martin Seeler,,2021-03-13T18:53:20.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,subhamsagarpaira/beginners-neural-sfcrime,Beginners-Neural-SFCrime,Subham Sagar Paira,,2021-02-26T06:41:49.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,arko007/neural-networks-sf-crime-classification,Neural Networks - SF Crime Classification,Diganta,,2021-02-09T15:36:32.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,sanskrutighadipatil/san-fransisco-crime,San_Fransisco Crime,Sanskruti Ghadipatil,,2021-02-08T18:27:57.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,sejinsim/san-francisco-crime-classification-self,San Francisco Crime Classification_self,Sejin-sim,,2021-02-01T14:16:48.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,aloksahu7478/san-francisco-crime-data-classification-using-knn,San Francisco Crime Data Classification using KNN ,Alok Kumar Sahu,,2020-09-15T19:15:40.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,rahulpawade/san-francisco-crime-classification,San Francisco Crime Classification,Rahul Pawade,,2020-08-21T12:23:50.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,anujjangra/kernel153a3c36d9,kernel153a3c36d9,Anuj Jangra,,2020-08-10T12:13:25.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,pranavmittal88/san-francisco,San Francisco,PRANAV MITTAL,,2020-07-18T12:25:13.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,uiukaggle/sanfrancisco-crime-data-analysis,SanFrancisco_crime_data_analysis,Hpare Baby,,2020-05-24T18:28:19.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,mohitsital/sf-crime-classification,SF crime classification ,Mohit,,2020-05-12T13:02:44.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,tabikh/kernel378479132f,kernel378479132f,martin,,2020-05-09T15:45:04.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,doublepoi/lightgbm-test-4,lightGBM test 4,DoublePOI,,2020-02-21T11:19:33.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,qiaoqiao123/have-try,have try,zuowangyang,,2020-01-19T09:52:26.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,graywolf113/kernel28617f8840,kernel28617f8840,gRayWoLf113,,2019-12-10T20:42:25.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,arina5566/3labbb,3labbb,Arina,,2019-12-17T23:13:26.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,rgoodman/sf-crime,SF Crime,RyanGoodman,,2019-10-10T02:14:52.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,werooring/san-francisco-crime-classification, San Francisco Crime Classification,Baek Kyun Shin,,2019-10-18T05:18:52.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,cdf255/hackatinho,Hackatinho,Vinicius Mesquita,,2019-07-21T17:46:24.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,shah01/mysol,MySol,shah01,,2019-06-20T00:26:04.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,heng8835/classification-with-ml-predict-crime-category, Classification with ML: Predict Crime Category,Zack Lim,,2019-05-08T10:38:34.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,yannisp/sf-crime-analysis-prediction-optimiz-ex, SF-Crime Analysis & Prediction (optimiz. ex.),Yannis Pappas,,2019-01-08T19:24:35.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,mohamedhedi009/san-francisco-crime-classification-accu-26,San Francisco Crime Classification accu=26,Mohamed,,2019-01-08T19:02:42.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,mikelkn/san-francisco-crime-classification,San Francisco Crime Classification,Mikel Kengni,,2018-09-19T00:04:16.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,kullapat/random-forest-model-prediction,Random Forest Model Prediction,skadoosh,,2018-05-06T04:35:12.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,yousefzook/visualization-and-solving-with-several-models,Visualization and solving with several models,Yousef Zook,,2018-04-29T18:31:01.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,careyai/san-fran-crime,San Fran Crime,Carey B,,2018-02-23T16:25:51.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,lesibius/naive-bayes-time-only,Naive Bayes Time Only,Clem Castellano,,2017-06-12T11:15:55.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,lhy1989/learning-san-francisco-crime-classification,Learning San Francisco Crime Classification,lhy1989,,2017-02-05T04:15:55.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,asjedh/azi-rushil-zach,azi_rushil_zach,Azi Hussain,,2016-09-09T04:37:41.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,snetts/data-understanding-sf-crime,Data Understanding SF Crime,SNETTSCOM,,2016-07-15T11:50:03.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,zanderkent/violent-crime-prediction-using-rf,Violent Crime Prediction Using RF,Zander Kent,,2016-05-24T01:57:53.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,mengtihlam/tests,tests,Meng-tih LAM,,2016-05-08T19:47:04.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,pablolopez/random-forests-py,randomforest-timeconversion.py,PabloLopez,,2016-05-20T15:19:00.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,evizitei/sf-crimes-analysis,SF Crimes Analysis,EthanVizitei,,2016-04-05T03:15:29.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,philipsamuel/crime-history,Crime history,PSB,,2016-03-05T13:37:18.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,zentch/crimeclassification,CrimeClassification,Zentch,,2016-02-06T04:47:19.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,gileshc/visualizing-sf-crime-by-pd-district,Visualizing SF Crime by Pd District,GilesHarrison-Conwill,,2016-01-02T01:14:46.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,thibaut95k/plot-larceny-theft-in-function-hour,plot Larceny/Theft in function Hour,thibaut,,2015-12-16T22:07:59.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,xdurana/knn-simple,KNN-simple,Xavi Duran,,2015-12-03T06:33:14.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,tilaya/crime-proportions-by-features,Crime proportions by features,Yana Hasson,,2015-11-27T19:08:09.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,kennyxu/sf-crimes-classification-analysis-plot,SF crimes classification analysis plot,ken,,2015-11-02T13:00:05.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,kennyxu/test3,test3,ken,,2015-11-02T01:19:17.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,iezepov/test-script,Random Data Analysis Approach :),Ilya Ezepov,,2016-02-10T15:21:04.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,sonuk7/test-script-nothing-here,Test Script. Nothing Here.,Swaraj Khadanga,,2015-08-27T20:20:13.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,yashpatel5400/test123,Crimes Over the Months,yashpatel5400,,2015-08-21T17:14:52.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,rajatarora/dist-of-crimes-wrt-day-of-occurence,Dist. of crimes wrt day of occurence ,rajat arora,,2015-08-19T07:40:20.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,runshengsong/crime-event-per-district,Crime event per district,Runsheng Song,,2015-07-31T21:21:36.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,canisminor/mining-incident-itemsets,"Mining Incident ""Itemsets""",CanisMinor,,2015-07-27T21:51:31.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,syleeie/fighting-crime-with-keras,Fighting Crime with Keras,이상열,,2015-07-17T08:04:34.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,ldocao/exploratory-horizontal-bar-plots,Exploratory horizontal bar plots,Long Do Cao,,2015-06-25T15:16:12.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,mattiafiumara/crime-density-by-location,Crime density by location,Mattia,,2015-06-16T10:32:30.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,sammyshen/ssdgfh,ssdgfh,Mi Sammy Shen,,2015-06-03T18:35:33.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,sf-crime
+,,,,,0,mohamedalaa42017/san-francisco-crime-classification,San Francisco Crime Classification,Mohamed42017,,2021-12-29T08:41:56.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,flafuji/sf-crime-eda-visualization-model-explained,SF-Crime EDA/Visualization/Model Explained,flafuji,,2021-12-09T07:48:47.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,flafuji/sf-crime-eda-model-explained,SF Crime - EDA / Model Explained 💥,flafuji,,2021-12-06T05:15:37.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,varunsimhareddy/sanfrancisco-crime-classification-varun,SanFrancisco-Crime-Classification-VARUN,VARUN SIMHA REDDY,,2021-09-12T16:15:48.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,nikhiln2312/san-fransisco-crime,San fransisco Crime,Nikhil N,,2021-09-09T18:08:43.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yashdamle/qstp-crime-classification,QSTP: Crime classification,Yash Damle,,2021-08-08T13:11:21.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ani088/crimeclassification,CrimeClassification,Ani088,,2021-08-08T15:26:33.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rounakbhatia/notebook1d601eb7ea,notebook1d601eb7ea,Rounak Bhatia,,2021-08-07T15:03:01.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,pvedant123/notebook6044b3f5d4,notebook6044b3f5d4,pvedant123,,2021-08-08T18:18:17.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,mgen2020/sanfrancrime,SanFranCrime,M Gen,,2021-08-06T04:41:11.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,mrwarlord/sanfrancisco-crime-classification,SanFrancisco-Crime-Classification,Mr WarLord,,2021-08-02T01:59:12.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rajeshwaris/sanfrancisco-crime-classification,SanFrancisco-Crime-Classification,Rajeshwari S,,2021-07-26T12:59:18.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,prathikshabr/nn-crimeclassification-kaggleproject-8,NN -CrimeClassification-KaggleProject(8),Prathiksha B R,,2021-07-26T12:58:45.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,keerthanamreddy/san-francisco-crime-classification,San Francisco Crime Classification, KeerthanaMreddy,,2021-07-23T13:39:49.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,shivangi21/crime-visualization,Crime_Visualization,Shivangi21,,2021-07-23T13:54:02.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,tomoyukiyamada0321/sf-crime-prediction,SF-Crime Prediction,tomoyuki.yamada0321,,2021-07-29T05:48:46.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,shayistamulla/san-francisco-crime-classification,San Francisco Crime Classification,Shayista Mulla,,2021-07-18T19:19:43.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,anu332/sf-crime-nn,sf-crime NN,Anu332,,2021-07-01T07:55:13.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kazuyasumatsudaf/sfcc-xgboost,SFCC_xgboost,KazuyasuMatsudaF,,2021-06-27T06:40:33.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,tomoyukiyamada0321/san-francisco-crime-classification-eda,San Francisco Crime Classification EDA,tomoyuki.yamada0321,,2021-06-17T11:53:19.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,denimthangjam/san-francisco-crime,::San Francisco Crime::,Denim,,2021-06-27T18:33:59.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sachingupta2212/notebook94b90bf472,notebook94b90bf472,Sachin Gupta,,2021-05-30T08:00:38.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,diyadodwad/notebook0a60656068,notebook0a60656068,diya dodwad,,2021-05-23T16:55:45.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,marlenemertens/girls-day,Girls Day,Marlene Mertens,,2021-04-21T14:07:52.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,xevator/notebook3f56133c01,notebook3f56133c01,Xevator,,2021-04-06T15:31:50.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,aruschakramm/girls-day,Girls Day,Aruscha Kramm,,2021-04-06T15:01:55.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rohitjagirdar/beginners-neural-sfcrime,Beginners-Neural-SFCrime,rohit jagirdar,,2021-03-26T11:54:29.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dhawalsoni/sanfran,SanFran,DHAWAL SONI,,2021-03-10T07:30:15.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,naokiyokoyama/crimes-sf,Crimes_SF,Naoki Yokoyama,,2021-01-04T15:54:17.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,semenedel/notebook5982a0b143,notebook5982a0b143,saptarsi halder,,2020-12-12T16:13:15.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,abhayraghuwanshi/crime-master-gogo,crime_master_gogo,Abhay Raghuwanshi,,2020-12-07T17:46:02.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,roohisharma/san-francisco-crime,San francisco crime,Roohi Sharma,,2020-11-10T18:29:25.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,savannahsewhee/juvenile-crime-in-san-francisco-2003-2015,Juvenile Crime in San Francisco 2003-2015,Savannah Sew-Hee,,2020-10-12T01:58:35.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,streetlamb/ensemble-with-xgboost-and-random-forest,Ensemble with Xgboost and Random Forest,StreetLamb,,2020-10-10T15:35:44.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,teramera/kernel6716e7e815,kernel6716e7e815,Vicky Pandey,,2020-08-12T13:41:55.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,subhojitsaha/kernel4f04d1da11,kernel4f04d1da11,SUBHOJIT SAHA,,2020-07-04T14:05:43.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,tkisiga/san-francisco-crime-with-rf,San francisco crime with RF,Timothy Kisiga,,2020-06-26T06:33:07.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,smagni/kernel53874f9526,kernel53874f9526,Shubham Kumar,,2020-05-16T16:49:16.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ruchirwalia/kernel53874f9526,kernel53874f9526,ruchir walia,,2020-05-16T14:33:51.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,doublepoi/lightgbm-test-2,lightGBM test 2,DoublePOI,,2020-02-21T01:10:55.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,doublepoi/a-nn-with-residual-v4,A NN with residual v4,DoublePOI,,2020-02-11T13:09:55.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,vh1981/sf-crime-with-lgbm-bo,SF-Crime with lgbm + bo,vh1981,,2020-02-17T04:02:40.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,margarita1564685/kernel263abc3915,kernel263abc3915,Margarita1564685,,2020-02-02T11:47:39.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,riyakothari/kernel22cbbea13e,kernel22cbbea13e,Riya,,2020-01-19T08:42:17.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,petersabry84/sfc-using-spark,SFC_using_Spark,Peter Ebrahim,,2020-01-05T20:50:28.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,fernandateixeira/classifica-o-de-crimes-em-sf-utilizando-knn,Classificação de crimes em SF utilizando KNN,Fernanda Teixeira,,2020-01-02T20:52:35.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,falloutfire/crime-test,Crime test,John Doe,,2019-12-30T16:21:02.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,arina5566/3-labor,3_labor,Arina,,2019-12-18T12:15:22.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,scottmduda/sf-data-nn-v1,SF Data - NN v1,octaddust,,2019-12-22T23:42:18.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,falloutfire/kernel1f0a4aa712,kernel1f0a4aa712,John Doe,,2019-12-18T17:42:47.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,brodiaga/kernel78fd706815,kernel78fd706815,BRODIAGA,,2019-11-26T23:10:52.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dimple2801/kernel716f5771ac,kernel716f5771ac,Dimple Singhania,,2019-11-18T00:25:55.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,arina5566/kernel53a23db323,kernel53a23db323,Arina,,2019-11-29T14:29:16.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,falloutfire/kernel56c95a593c,kernel56c95a593c,John Doe,,2019-11-27T12:48:14.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,michelmelo/san-francisco-crime,San Francisco Crime,Michel Melo,,2019-12-05T22:12:16.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,seahur/crime-detection,Crime Detection,seahur,,2019-10-12T04:43:21.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ouadio/predict-the-crime-category-knn-logistic,Predict the Crime Category - KNN & logistic,0uadi0,,2019-09-28T22:12:36.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sjun4530/sf-crime-practice,sf_crime_practice,SeokJun Kim,,2020-04-17T13:12:43.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,suvinlee/sanfran-0808,Sanfran_0808,suvin,,2019-08-08T04:27:38.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sjun4530/crime-classification-basic,Crime Classification_basic,SeokJun Kim,,2019-08-06T06:53:55.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sjun4530/sf-crime-classification-hyper,sf-crime-classification-hyper,SeokJun Kim,,2019-08-15T13:34:32.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sjun4530/kernelae032cdfc5,kernelae032cdfc5,SeokJun Kim,,2019-07-23T06:15:57.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,fycher/sf-crimes-hackatinho-imers-o-em-ci-ncia-de-dados,SF Crimes - Hackatinho Imersão em Ciência de Dados,flych3r,,2019-07-21T14:34:25.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,venktesh/kerneldcf6f8024e,kerneldcf6f8024e,VenkteshSubramaniam,,2019-07-03T17:23:18.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,godeepdeep/clclclcl123,clclclcl123,susususurimasuro,,2019-06-19T16:42:20.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,hw5518/kernelb2dd708ce6,kernelb2dd708ce6,hw5518,,2019-06-19T10:12:26.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jedu1025/kernel2c44e44ed7,kernel2c44e44ed7,jedu,,2019-06-19T10:21:21.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kinsha0226/kernel8dd40a08a3,kernel8dd40a08a3,Hyun,,2019-06-19T04:40:33.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kinsha0226/kernel1e3381030b,kernel1e3381030b,Hyun,,2019-06-19T03:34:50.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,xodud2881/xgboost-a,XGBoost (A+),Taeyoung Jang,,2019-06-19T06:46:35.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,suvinlee/sanfran-0615-feature-note,sanfran_0615_feature_note,suvin,,2020-10-08T05:13:38.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,suvinlee/sanfran-note-0608,sanfran_note_0608,suvin,,2020-10-08T05:15:39.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,shubham2306/crime-classification,Crime_Classification,Shubham Kumar,,2019-05-11T13:53:40.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,soofromkorea/20190416-suhyeon,20190416_Suhyeon_분류하기,soofromkorea,,2019-04-16T12:16:23.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,extraordinarymind/sfo-crime-multi-class-algorithms,SFO Crime - Multi Class Algorithms,sampath,,2019-02-06T03:42:41.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yannisp/sf-crime-analysis-prediction-naive-prediction, SF-Crime Analysis & Prediction (Naive Prediction),Yannis Pappas,,2019-01-06T15:07:27.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,slashtea/crimes-part-1-eda,Crimes part-1 (EDA),Ziyad Mestour,,2018-12-31T16:20:09.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yannisp/sf-crime-analysis-prediction-base-model,SF-Crime Analysis & Prediction (Base Model),Yannis Pappas,,2019-01-08T10:59:29.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rana220119/kernel3f31fb73c2,kernel3f31fb73c2,Satish Rana,,2018-10-09T05:16:50.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ludi666/lr-300freatures,LR-300Freatures,DiLu,,2018-09-25T01:37:38.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,impratiksingh/sf-crime-classification-beginner-tutorial,SF Crime Classification : Beginner Tutorial,Pratik Singh,,2018-09-04T14:16:28.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,aurelienkd/final-projet-pinquier-mohamed-khefifderain,Final_Projet_Pinquier_Mohamed_KhefifDerain,Aurélien Khefif-Derain,,2018-07-05T20:02:28.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,aurelienkd/les-crimes-sf,Les crimes à SF,Aurélien Khefif-Derain,,2018-07-05T16:10:54.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,aliomer/cmpe-343-rdf,CMPE 343 RDF,AliOmer,,2018-06-03T13:03:11.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jihyeseo/unzip-eda,unzip eda,Jihye Sofia Seo,,2018-05-08T15:55:58.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kullapat/naive-bayes-model-prediction,Naive Bayes Model Prediction,skadoosh,,2018-05-06T08:02:33.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kullapat/ann-sf-classification,ANN: SF Classification,skadoosh,,2018-05-07T11:38:23.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kullapat/knn-model-prediction,KNN Model Prediction,skadoosh,,2018-05-06T05:56:32.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,zhangnet/random-forest-method-for-classifying-cirmes,Random forest method for classifying cirmes,Bo Zhang,,2017-12-31T03:06:49.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,zhangnet/naive-bayes,Naive Bayes,Bo Zhang,,2017-12-29T03:02:44.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lesibius/svc-cross-validation,SVC Cross Validation,Clem Castellano,,2017-06-15T13:24:08.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lesibius/time-only-sv,Time Only SV,Clem Castellano,,2017-06-15T12:20:36.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lesibius/knn-time-only,KNN Time Only,Clem Castellano,,2017-06-08T09:44:26.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lesibius/sf-null-model,SF - Null Model,Clem Castellano,,2017-06-05T21:51:53.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,shubjn/notebook2de7de2590,Notebook2de7de2590,Shubham Jain,,2017-05-18T06:47:13.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,muhriddinuzb/notebook193ba88702,Notebook193ba88702,Muhriddin Ismoilov,,2017-05-16T12:58:14.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jerrysong/target-test,Target Test,JerrySong,,2017-04-22T22:03:57.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yamibn/notebook4524319d72,Notebook4524319d72,Yamina,,2017-04-28T19:48:16.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,krrish1729/sf-crime-data,SF Crime Data,Krish Rekapalli,,2017-03-26T02:08:15.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,bluezzz/notebook4560e3bff0,Notebook4560e3bff0,blueZZZ,,2017-03-14T02:37:16.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,luoming/notebookece37e447b,Notebookece37e447b,Captain Luo,,2017-03-02T07:56:51.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,pratik1390/notebook0bdc9d8276,Notebook0bdc9d8276,Pratik Parekh,,2017-03-01T08:10:48.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanhivi/crime-submission,Crime_Submission,sanjeev,,2017-02-27T16:57:43.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanhivi/submission-crime,submission_crime,sanjeev,,2017-02-27T16:53:02.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,czarnik/crime-hotspots-over-the-years,Crime hotspots over the years,Christian Hansen,,2017-02-08T04:47:50.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rxsingh/studying-time-v-s-day-by-category,"Studying ""Time v.s. Day"" by Category",rohitgeo,,2017-02-08T15:45:15.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yehjames/xgboost-crime-classification,XGBoost_Crime_Classification,YehJames,,2017-01-11T14:38:42.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yehjames/test-random-forest,Test Random Forest,YehJames,,2017-01-03T15:44:20.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rpersd/xgboost-crime-classification,XGBoost_Crime_Classification,rpersd,,2016-12-22T05:48:34.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,weizh888/sf-crime,SF Crime,Frank,,2016-12-21T22:03:06.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,hengyueliu/test-random-forest,Test Random Forest,Henry Liu,,2016-12-11T02:59:17.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lesibius/first-try-on-kaggle-san-francisco-crime,First Try on Kaggle: San Francisco Crime,Clem Castellano,,2016-12-03T23:59:25.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,m2shad0w/san-francisco-crime-classification,San Francisco Crime Classification,m2shad0w,,2016-12-01T10:25:06.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,m2shad0w/predict-crime-is-a-multilabel-task,Predict crime is a multilabel task,m2shad0w,,2016-12-01T09:56:50.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,shrey1313/exploring-and-visualizing-data, Exploring and Visualizing Data,ShreyashAgarwal,,2016-11-20T13:18:28.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,leventpeker/sf-crime-exploration,SF Crime Exploration,Levent Peker,,2016-11-17T19:25:48.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,waiyanminkyaing/geo-comparision-for-different-crimes,Geo-Comparision for different crimes.,WaiYanMinKyaing,,2016-10-26T03:31:58.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,waiyanminkyaing/xgboost-crime-classification-d50e0e2f,XGBoost_Crime_Classification d50e0e2f,WaiYanMinKyaing,,2016-10-15T08:59:20.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jungwon/notebookd15be01d6e,Notebookb8c511fe63,jaldi,,2016-10-10T00:26:20.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,qualcom/xgboost-crime-classification,XGBoost_Crime_Classification,QualCom,,2016-10-08T07:54:04.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jungwon/notebook9417758965,Notebook9417758965,jaldi,,2017-03-16T16:58:44.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rowlandrzhang/predict-crime-is-a-multilabel-task,Predict crime is a multilabel task,RowlandZ,,2016-09-27T15:43:10.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,overfit/test-multi,test_multi,David,,2021-04-07T14:48:19.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,maytryark/san-francisco-crime-classification-f27c3f1b,San Francisco Crime Classification f27c3f1b,JiunBae,,2016-09-20T07:57:49.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanjib03/sf-xgb,SF_XGB,sanjibdas,,2016-09-20T22:08:46.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanjib03/notebook460da5b225,Notebook4013dfe274,sanjibdas,,2016-09-19T03:43:58.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanjib03/sf-logit,SF_Logit,sanjibdas,,2016-09-21T04:43:34.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,zthomas/san-francisco-crime-data-visualization,San Francisco Crime Data Visualization ,Zachary Thomas,,2016-09-14T05:43:00.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,venkybuddy/predict-crime-is-a-multilabel-task,Predict crime is a multilabel task,Venky,,2016-09-13T03:31:34.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,a275909044/hello-everyone,Hello everyone,wangty,,2016-09-12T13:06:04.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanjib03/sf-adaptiveboosting,SF_AdaptiveBoosting,sanjibdas,,2016-09-21T04:28:15.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,rushilr/azi-rushil-zach,azi_rushil_zach,Rushil Ram,,2016-09-09T04:44:09.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,zthomas/azi-rushil-zach,azi_rushil_zach,Zachary Thomas,,2016-09-13T15:05:30.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,asjedh/fork-of-notebook3974bfd24a,Fork of Notebook3974bfd24a,Azi Hussain,,2020-03-14T01:46:28.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,maytryark/san-francisco-crime-classification,San Francisco Crime Classification,JiunBae,,2016-09-06T09:31:54.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dixonhu/notebookb972d9f7ad,Notebookb972d9f7ad,Dixon,,2016-08-28T22:59:08.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,guangq/notebookd0b96dbb70,Notebookd0b96dbb70,witnesses,,2016-08-27T08:32:58.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanjib03/sf-randomforest,SF_RandomForest,sanjibdas,,2016-09-19T00:12:38.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanjib03/san-francisco-crime-classification,San Francisco Crime Classification,sanjibdas,,2016-09-11T07:30:32.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,guangzhan/predict-crime-is-a-multilabel-task,Predict crime is a multilabel task,Guangzhan,,2016-07-26T03:59:25.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,stunner1608/san-francisco-crime-classification,San Francisco Crime classification,DheerajGadhiraju,,2016-07-02T00:54:42.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jlandesman/sfcrimes,sfcrimes,JonathanLandesman,,2016-06-17T14:46:45.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dm0037/rf-test,RF test,DM_037,,2016-06-06T21:13:24.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jerrythomas/xgboost-example,XGBoost Example,Jerry Thomas,,2016-06-05T01:52:47.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,danpaulius/exploration-of-sf-crime-data,Exploration of SF Crime Data,paudan,,2016-06-04T23:06:53.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,danpaulius/data-exploration-in-different-dimensions,Data exploration in different dimensions,paudan,,2016-06-04T22:59:25.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,datamining013/neruls,neruls,DM_013,,2016-06-04T09:38:12.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lobraga/sub-test,Sub_Test,Leandro,,2016-06-01T20:29:47.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,bejota/sf-crime-predict,SF Crime Prediction,bejota,,2016-06-06T17:57:56.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,felixg/attempt,attempt,FelixGifford,,2016-05-30T15:09:32.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,adarshshekhar/random-forest,Random Forest,AdarshShekhar,,2016-05-28T18:36:27.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,adarshshekhar/test11,Test11,AdarshShekhar,,2016-05-28T16:39:38.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ymcdull/a-beginner-tries-naive-bayes,Frank-test,Yunfeng Zhu,,2016-05-26T15:10:55.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ymcdull/frank-test2,Frank-test2,Yunfeng Zhu,,2016-05-26T12:33:18.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dqmind/dqmind-sfcrime,dqmind_sfcrime,qmind,,2016-05-26T14:40:09.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yogeshbendre/myscript-1,myscript,yogeshbendre,,2016-05-24T02:45:49.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ymcdull/frank-second-test,Frank-second-test,Yunfeng Zhu,,2016-05-23T17:27:50.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,cuky88/testd3,Testd3,Cuky,,2016-05-23T16:10:45.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,anantgupta/simple-analysis,Data Analysis before Prediction,Anant Gupta,,2016-05-25T04:16:27.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,liaoyt/fighting-crime-with-keras-2,Fighting Crime with Keras 2,yongtaoliao,,2016-05-18T05:52:43.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,nkcsiip307/mytest,mytest,nkcsiip307,,2016-05-17T08:56:54.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,galgoode/k-nearest-neighbors-classifier,K-nearest neighbors classifier,Nima Nowrouzi,,2016-05-12T18:32:44.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,iniykfrost/temp-test,temp_test,iniyk,,2016-05-11T10:49:15.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,almach/my-first-kaggle-script,My first kaggle script,almach,,2016-05-25T02:54:41.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,darshitd/knnclassifier,KNNClassifier,Darshit Doshi,,2016-05-04T18:11:10.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,wyman1024/test-for-me,test for me,Wyman1024,,2016-05-02T10:59:49.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,mattare2/in-python,In Python,paradoxxzero,,2016-04-19T00:07:27.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,apartmentguru/property-crime-sf,Property crime sf,Jorellano,,2016-04-19T16:39:40.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,nyersho1/predicting-sf-crime-rates,Predicting SF Crime Rates,NicoleYershov,,2016-04-16T22:54:06.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,canran/sf-crime-class,SF_crime_class,Canran Xu,,2016-04-16T13:01:42.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,canran/sf-criminal-classification,SF_criminal_classification,Canran Xu,,2016-04-16T11:07:10.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,forestzhouhe/nnm-hjj,nnm hjj,forestzhouhe,,2016-04-16T09:13:05.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kimono/kimono-script-sf,Kimono_script_SF,Kimono,,2016-04-19T04:32:37.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,apartmentguru/prop-crime-sf,Prop crime SF,Jorellano,,2016-04-13T20:45:18.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jaycode/baseline,Baseline,Jay,,2016-04-28T13:24:18.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dataying/randomforest-with-graphlab,RandomForest with Graphlab,Ying,,2016-04-05T08:53:10.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sagarverma/enssemble,ensemble1,sagar verma,,2016-04-03T12:54:23.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sagarverma/ensemble,ensemble,sagar verma,,2016-04-03T12:51:04.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,abaghudana/san-fransisco,san-fransisco,Ashish Baghudana,,2016-04-02T12:18:45.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,getacluu/sf-crime-data,SF Crime Data,Christine,,2016-03-30T23:50:00.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,xiaoshcihang/firstrun,firstRun,xiao,,2016-03-29T16:37:02.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yutime/tester,Tester ,yutingshen,,2016-03-28T00:05:37.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,keldibek/logistic-regression-for-crime-classifica,Logistic Regression for Crime Classifica,AminaKeldibek,,2016-04-29T17:06:34.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lblamo/analysis,analysis,Lab2-321,,2016-03-25T09:45:34.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,mahvishponum/aa12a,aa12a,MahvishPonum,,2016-03-23T13:29:30.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,fikre1/newbiescript-san-fran-crime,NewbieScript San Fran Crime,Fikre,,2016-03-17T21:33:35.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,since213and311/hello,hello,Bayes_17214527,,2016-03-16T05:54:44.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,anthonyalves/testing-map,testing_map,AnthonyAlves,,2016-03-15T03:57:54.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,fsyed1/testing-script,Testing Script,FahadSyed,,2016-03-09T14:54:18.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ericawilthagen/neural-nets-and-address-featurization,neural nets and address featurization,Erica,,2016-03-08T14:13:44.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jaybee79/sf-crime-adaboost-benchmark-in-python,SF Crime - Adaboost Benchmark in Python,jaybee79,,2016-03-07T23:49:08.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,tommyttf/learn-from-try,Learn from try,tommy,,2016-03-06T07:40:50.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jaybee79/sf-crime-nb-benchmark-in-python,SF Crime - NB Benchmark in Python,jaybee79,,2016-03-10T22:24:17.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jaybee79/sf-crime-knn-benchmark-in-python,SF Crime - KNN Benchmark in Python,jaybee79,,2016-03-08T00:52:51.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,liuyanchen/yanliu,YanLiu,yanliu,,2016-03-03T01:54:09.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jaybee79/sf-crime-multi-logit-bench-in-python-1,SF Crime - Logit Benchmark in Python,jaybee79,,2016-03-03T23:08:13.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jaybee79/sf-crime-rf-benchmark-in-python,SF Crime - RF Benchmark in Python,jaybee79,,2016-03-02T17:37:24.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,silent6stringer/crime-classification,Crime Classification,Jordan Littell,,2016-03-01T04:01:58.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,qq532933297/my-first-try-in-finding-larcency-by-svm,My first try in finding larcency by svm,Eric Dack,,2016-03-06T02:45:08.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sillyplus/cc-test,CC-test,sillyplus,,2016-02-28T19:20:57.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,qq532933297/kokokk,kokokk,Eric Dack,,2016-02-25T12:25:32.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kuangweizhang/sfcrimedataexplore,SFCrimeDataExplore,Kevin Zhang,,2016-02-17T17:45:06.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,severo/using-pandas-and-basemap,Using pandas and basemap.,DanielSevero,,2016-02-14T23:33:28.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lisabug/firstscript,firstScript,lisabug,,2016-02-14T09:03:04.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,severo/testds,testds,DanielSevero,,2016-02-13T22:07:07.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,natalychhan/san-franc-suicides,San Franc SUICIDEs,Nataly,,2016-02-15T20:41:11.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,motoitanigaki/testingg,testingg,MotoiTanigaki,,2016-02-13T05:00:15.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,alextokarew/testt,testt,Alexander Tokarev,,2016-02-09T07:43:58.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,apartmentguru/who-stole-my-sandwhich,Who stole my Sandwhich,Jorellano,,2016-02-09T03:21:21.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,firedrake969/testf,ignore,Firedrake969,,2016-02-17T02:20:08.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,zhas1ke/zhas1ke-sf-crime,Zhas1ke_sf_crime,Zhas1ke,,2016-02-07T10:56:41.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,redward/sf-crime,SF Crime,redstern,,2016-02-05T02:45:43.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,czarnik/plotting-classifcation,plotting classifcation,Christian Hansen,,2016-01-25T22:35:06.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,fsyed1/first,First,FahadSyed,,2016-01-22T20:53:04.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,chasset/crime-density-by-location,Crime density by location,Pierre-Olivier Chasset,,2016-01-21T10:08:45.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yamyamyuo/san-francisco-crime-classification,San Francisco Crime Classification,datadog,,2016-01-20T19:13:42.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dimaiyou/crimedistribution-temporal-spatial,CrimeDistribution_Temporal&Spatial,dimaiyou,,2016-01-20T03:28:38.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kwiicsyy/scf-script,scf_script,kwiicsyy,,2016-01-20T01:26:45.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sirsam/test-script,test_script,Sr. Sam De Meyer,,2016-01-17T15:07:44.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,agsound/solution1,solution1,AGSound,,2016-01-16T19:22:24.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,str8sky2star/historical-trend-by-category,Historical Trend by Category,StarGazer,,2015-12-23T10:06:51.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,thibaut95k/plot-knn-errors,plot kNN errors,thibaut,,2015-12-16T14:14:45.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,thibaut95k/knn-test,kNN Test,thibaut,,2015-12-15T22:58:18.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,thibaut95k/crime-density-by-location,Crime density by location,thibaut,,2015-12-15T21:07:30.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yummin/crime-density-by-location,Crime density by location,Yaming,,2015-12-13T22:17:44.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dimaiyou/test2,test2,dimaiyou,,2015-12-11T13:17:50Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dimaiyou/naive,naive,dimaiyou,,2016-01-21T02:15:04.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,superfuzzy/random-forest,random forest,KenerChang,,2015-12-11T02:42:20.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dumbo44/jjjjj,jjjjj,chihuahua,,2015-12-07T00:30:19.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,dumbo44/iiiii,iiiii,chihuahua,,2015-12-06T23:51:26.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,lalith21/mutlinomial-nb-model,Mutlinomial NB model,lalithkjain,,2015-12-05T17:31:46.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yubohu/prediction-with-bernoullin,BernoulliNB,YuboHu,,2015-12-02T22:35:03.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,tangyutorry/k-nearest-neighbour-train,K-Nearest-Neighbour-train,YuTang,,2015-12-06T04:41:08.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,yubohu/prediction-with-bernoulin,Test With BernoulliNB,YuboHu,,2015-12-11T01:16:44.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,swordart/san-meta,san_meta,SamSteve,,2015-12-13T10:31:06.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,pstock/class-counts,Class counts,Pierre Stock,,2015-12-03T14:51:14.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kalifou/crimes,crimes,kagglifou,,2015-12-04T20:43:50.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,omarelgabry/san-francisco-crimes,San Francisco Crimes,OMAR ELGABRY,,2015-11-26T08:54:08.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,celniker/a-history-of-crime,a history of crime,Gershon Celniker,,2015-11-08T20:54:43.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kennyxu/test4,test4,ken,,2015-11-02T12:56:18.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,jakarara/tests,tests,danda,,2015-10-28T08:21:23.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kennyxu/test1,test1,ken,,2015-10-27T22:07:18.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,tolsen32/neural-nets-and-address-featurization,neural nets and address featurization,Tolsen_CU,,2015-10-27T17:00:18.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,kunalvyas/heatmaps-for-attributes,Heatmaps for Attributes,Kunal Vyas,,2016-05-28T00:21:25.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,leezus/asdff,asdff,Lee C.,,2015-10-23T17:34:41.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,saurabh2086/sfcrime,SFCrime,saurabh2086,,2015-10-19T09:52:42.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,saurabh2086/sfcrime-v1,SFCrime_V1,saurabh2086,,2015-10-26T07:29:10.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,relegaurav/classfication,classfication,Nell,,2015-10-18T01:16:49.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,esingh9/es-111,es@111,es,,2015-10-14T12:21:16.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sionwang/sf-crime-01,SF_Crime_01,SionWang,,2015-10-13T06:27:32.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,invertedmatrix/testscript,TestScript,GiuseppeReina,,2015-09-22T18:24:24.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,simonhfl/testpy,testpy,Simon,,2015-09-12T10:26:55.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,echamp/fighting-crime-with-keras,Fighting Crime with Keras,Elio Champenois,,2015-08-14T17:17:23.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,haoranyi/testcode,testcode,HaoranHenryYi,,2016-11-02T13:36:45.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,albinocordeiro/top-crimes-zones,Top Crimes Zones,AlbinoCordeiroJr,,2015-07-14T04:59:41.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sonuk7/nothing-to-see-here-playing-around,Nothing to See here. Playing around,Swaraj Khadanga,,2015-07-13T13:56:22.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ldocao/average-crime-heat-map,average crime heat map,Long Do Cao,,2015-06-26T14:41:20.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,ldocao/population-density-heat-map,population density heat map,Long Do Cao,,2015-06-26T13:13:57.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,abhishekpratap4/crime-density-by-location,Crime density by location,AbhishekPratapSingh,,2015-06-13T13:06:52.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,sanghan/tableau-sf-crimes-map,Tableau SF Crimes Map,Sang Han,,2015-06-13T04:28:22.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,popwin/mapsf,MapSF,John,,2015-06-12T07:02:55.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime
+,,,,,0,benhamner/fighting-crime-with-keras,Fighting Crime with Keras,Ben Hamner,,2015-06-10T07:42:51.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,sf-crime

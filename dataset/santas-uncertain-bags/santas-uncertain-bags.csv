@@ -1,0 +1,290 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,breuker/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Dominic Breuker,,2017-01-01T15:17:02.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],91,santas-uncertain-bags
+,,,,,0,cpmpml/optimal-expected-submission-value,Optimal Expected Submission Value,CPMP,,2017-01-09T12:55:58.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,santas-uncertain-bags
+,,,,,0,oysteijo/montecarlo-simulation-and-check-of-submissions,MonteCarlo-simulation and check of submissions,Øystein Schønning-Johansen,,2016-12-24T06:15:58.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,santas-uncertain-bags
+,,,,,0,nagadomi/shuffle-submission-csv,Shuffle submission.csv,nagadomi,,2016-12-27T09:45:23.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,santas-uncertain-bags
+,,,,,0,wcukierski/plotting-example-gift-weights,Plotting Example Gift Weights,Will Cukierski,,2016-12-20T17:50:49.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,santas-uncertain-bags
+,,,,,0,sudalairajkumar/santa-btb-with-validation,Santa BTB with validation.!,SRK,,2016-12-21T17:18:49.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,santas-uncertain-bags
+,,,,,0,mchirico/santa-quick-look,Santa Quick Look,Mike Chirico,,2016-12-21T05:27:38.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,santas-uncertain-bags
+,,,,,0,wenjianhukaggle/merry-christmas-y-all-python-version,Merry Christmas Y'all! (Python Version),Wenjian Hu,,2016-12-31T00:43:46.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,santas-uncertain-bags
+,,,,,0,titericz/giba-naive1,Giba Naive1,Giba,,2016-12-23T16:08:26.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santas-uncertain-bags
+,,,,,0,tuomastik/gift-count-weight-visualizations,Gift count & weight visualizations,Tuomas Tikkanen,,2016-12-23T15:23:01.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santas-uncertain-bags
+,,,,,0,eliotbarr/santa-python-first-analysis,Santa Python First Analysis,Eliot Barril,,2016-12-21T22:06:26.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santas-uncertain-bags
+,,,,,0,cpmpml/fast-computation-of-expected-value-for-bags,Fast Computation Of Expected Value For Bags,CPMP,,2016-12-31T13:32:37.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santas-uncertain-bags
+,,,,,0,longint/python-greedy-search223,Python Greedy Search223,longint,,2016-12-28T12:23:29.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santas-uncertain-bags
+,,,,,0,shixw125/python-greedy-search,Python Greedy Search,weiwei,,2016-12-27T12:13:00.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santas-uncertain-bags
+,,,,,0,vykhand/my-late-eda-distributions-and-boxplots,My late EDA: distributions and boxplots,Andrey Vykhodtsev,,2017-01-24T07:51:13.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santas-uncertain-bags
+,,,,,0,cescfangs/can-we-improve-by-increasing-variance-14448598,Can we improve by increasing variance? 14448598,Cesc,,2017-01-16T02:23:38.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santas-uncertain-bags
+,,,,,0,zaburo/estimate-the-mean-std-and-prob-of-submissions,"Estimate the mean, std and prob of submissions",KaizaburoChubachi,,2017-01-02T17:41:03.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santas-uncertain-bags
+,,,,,0,pgeiger/estimating-the-winning-score,Estimating the Winning Score,PaulG,,2017-01-01T23:46:15.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santas-uncertain-bags
+,,,,,0,opanichev/data-exploration-and-checking-the-combinations,Data exploration and checking the combinations,Oleg Panichev,,2016-12-30T19:23:58.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santas-uncertain-bags
+,,,,,0,ekim01/notebookc25d938ad3,Notebookc25d938ad3,Esther Kim,,2017-01-12T05:22:14.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santas-uncertain-bags
+,,,,,0,tattchee/how-about-evolutionary-algorithm,How about Evolutionary algorithm,CHEE,,2017-01-07T08:20:29.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santas-uncertain-bags
+,,,,,0,blindape/python-greedy-search223,Python Greedy Search223,José A. Guerrero,,2016-12-31T02:21:18.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santas-uncertain-bags
+,,,,,0,rafalpronko/testy,testy,maruda,,2016-12-23T08:19:45.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santas-uncertain-bags
+,,,,,0,rdslater/distribution-visualization,Distribution Visualization,Ronin,,2016-12-21T15:01:14.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santas-uncertain-bags
+,,,,,0,serhiiloboda/just-count-probabilities,Just count probabilities,Serhii Loboda,,2019-04-16T09:57:27.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,glazed/a-gambit-most-seedy,"A Gambit, Most Seedy",glazed,,2017-01-27T22:23:44.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,pietromarinelli/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Pietro Marinelli,,2017-01-24T18:26:00.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,chandan1996/notebook589b333467,Notebookdf9e439070,ChandanChourasia,,2017-01-04T05:08:31.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,karthikpalaniappan/packingbyeyeballing,PackingByEyeBalling,Kappa23,,2017-01-03T13:36:51.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,hxd1011/extract-gift-type-combination-from-a-solution,Extract gift type combination from a solution,hxd1011,,2017-01-02T03:11:25.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,yhyu13/filling-bags-with-simulated-annealing-forked,Filling bags with Simulated Annealing (Forked),Hang(Yohan) Yu,,2016-12-23T22:41:09.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,titericz/giba-naive-1,Giba - Naive 1,Giba,,2016-12-23T12:36:55.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,leozhuo/some-useful-function-for-visualization,Some useful function for visualization,Liuzhou Zhuo,,2016-12-23T10:08:31.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,mathurinache/ma20161222a,ma20161222a,Mathurin Aché,,2016-12-22T12:10:30.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,aikinogard/gift-number,Gift number,Li Li,,2016-12-27T05:32:39.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,monkeydunkey/santa-s-gifts-estimated-weight-and-bin-packing,Santa's gifts estimated weight and bin packing,ShashankBhushan,,2016-12-22T01:39:28.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,titericz/giba1-2,Giba1,Giba,,2016-12-22T00:21:29.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,jonmanly/first-fit-algorithm-two-pass-lb-31907-53,"First-fit algorithm, two pass LB 31907.53",dataGuy716,,2016-12-21T17:25:34.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,mchirico/santa-03,Santa_03,Mike Chirico,,2016-12-21T05:12:56.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,alijs1/play-with-gifts,Play with gifts,alijs,,2016-12-20T22:33:11.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,wcukierski/notebook7de1c6396b,Notebook7de1c6396b,Will Cukierski,,2016-12-20T17:41:34.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santas-uncertain-bags
+,,,,,0,jihyeseo/santa-eda,santa eda,Jihye Sofia Seo,,2018-05-08T16:13:58.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,a1696342/using-greedy-search,Using Greedy Search,a_RL2584,,2017-10-15T06:27:21.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,agavranis/test-lev,test_lev,gavrand,,2017-04-16T20:43:08.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fohmida/santa-uncertainity-bag,santa uncertainity bag,fohmida,,2017-02-10T20:19:46.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fohmida/santa-uncertainity-bags,santa uncertainity bags,fohmida,,2017-02-10T20:16:10.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fohmida/notebook6f24c7e04f,Notebook6f24c7e04f,fohmida,,2017-02-10T20:14:07.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fohmida/notebookcf3a980d8a,Notebookcf3a980d8a,fohmida,,2017-02-10T20:06:19.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,sengpya96/notebook59ea394f54,Notebook4bd7cb0593,SENGPYA CHAKHAP,,2017-02-07T17:50:52.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,ariesyi/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,E.,,2017-02-07T16:08:59.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vityzi/notebook288aaafbec,Notebook288aaafbec,Tim Riggins,,2022-07-02T23:48:30.994842Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vykhand/a-gambit-most-seedy,"A Gambit, Most Seedy",Andrey Vykhodtsev,,2017-01-29T10:48:53.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,harryjackson/testing,Testing,Harry,,2017-01-26T05:47:44.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nilotpal/can-we-improve-by-increasing-variance-55a4e34a,Can we improve by increasing variance? 55a4e34a,Nilotpal Sinha,,2017-01-25T10:44:36.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nilotpal/can-we-improve-by-increasing-variance-a5a8bff2,Can we improve by increasing variance? a5a8bff2,Nilotpal Sinha,,2017-01-25T10:36:34.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nilotpal/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Nilotpal Sinha,,2017-01-25T10:32:28.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,piero111/optimal-expected-submission-value,Optimal Expected Submission Value,Piero,,2017-01-24T19:57:53.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,glazed/notebook6f85a58c06,Notebook6f85a58c06,glazed,,2017-01-24T19:51:11.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,ariesyi/notebooke68c9de738,Notebooke68c9de738,E.,,2017-01-24T04:13:09.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,brendazhang/notebook1a5faa7c2c,Notebook1a5faa7c2c,Brenda.Zhang,,2017-01-24T00:39:11.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,spiracular/optimal-expected-submission-value-copy,Optimal Expected Submission Value(Copy),Megan Crawford,,2017-01-23T00:39:10.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,abhijitk/python-greedy-search,Python Greedy Search,Abhijit K,,2017-01-22T19:29:52.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,octavianh/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Octavian Hasna,,2017-01-28T16:39:59.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,octavianh/get-random-samples,Get random samples,Octavian Hasna,,2017-01-22T12:52:19.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yzshawn/notebook1bb833b394,Notebook1bb833b394,yzshawn,,2017-01-22T02:11:07.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zfrysrylmz/can-we-improve-by-increasing-variance-efc1b881,Can we improve by increasing variance? efc1b881,a-ZaferYasirYILMAZ,,2017-01-21T20:10:44.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zfrysrylmz/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,a-ZaferYasirYILMAZ,,2017-01-21T20:08:49.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,tarunaryyan/working-out-a-crude-solution,Working out a crude solution!,Tarun Goyal,,2017-01-21T06:48:27.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,johnerb/santa-quick-look,Santa Quick Look,JohnErb,,2017-01-20T02:24:13.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,ledgars/notebook15e40f0e66,Notebook15e40f0e66,Edgars L,,2017-01-19T16:31:34.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dimkorb/shuffle2,SHUFFLE2,dimkorb,,2017-01-19T15:18:28.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,den3b81/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,den3b,,2017-01-18T12:17:59.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,csvreel/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,csvreel,,2017-01-17T22:01:39.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,shixw125/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,weiwei,,2017-01-17T16:44:30.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jayana/notebook336a971a99,Notebook336a971a99,Jayana,,2017-01-17T13:14:02.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,gshevchuk/exploratory-notebook-v1,Exploratory Notebook V1,GlebShevchuk,,2017-01-17T06:15:59.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dimkorb/notebook8f01e77690,Notebook8f01e77690,dimkorb,,2017-01-17T01:19:15.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dimkorb/convolution-script,convolution_script,dimkorb,,2017-01-17T02:51:17.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,pushkardakle/can-we-improve-by-increasing-variance-8caa34df,Can we improve by increasing variance? 8caa34df,pushkarD,,2017-01-16T14:03:33.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,studiocypress/optimal-expected-submission-value,Optimal Expected Submission Value,Cypress,,2017-01-16T10:27:56.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,piero111/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Piero,,2017-01-16T09:19:30.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,cescfangs/can-we-improve-by-increasing-variance-71db5233,Can we improve by increasing variance? 71db5233,Cesc,,2017-01-14T11:35:25.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,harshratde/notebook369f1ec510,Notebook481cdc2c8d,\m/-;),,2017-01-16T06:29:32.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,cescfangs/can-we-improve-by-increasing-variance-fb1e8811,Can we improve by increasing variance? fb1e8811,Cesc,,2017-01-14T02:26:41.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zheng11/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Ionstine,,2017-01-14T01:09:58.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,tarobxl/can-we-improve-by-increasing-variance-copied,Can we improve by increasing variance? copied,tarobxl,,2017-01-13T22:01:18.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,anazalea/notebookc88c28c2f9,Notebookc88c28c2f9,anazalea,,2017-01-13T17:48:24.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,gmonneret/notebook11ce581392,Notebook5606ff6dd6,Gilles Monneret,,2017-01-13T16:28:47.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,michaelzxu/can-we-improve-by-increasing-variance-a5d7a5e7,Can we improve by increasing variance? a5d7a5e7,MichaelXu,,2017-01-13T01:06:36.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,michaelzxu/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,MichaelXu,,2017-01-13T00:08:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,tarobxl/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,tarobxl,,2017-01-12T18:51:36.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,stephene/notebook0230756664,Notebook0230756664,Stephen,,2017-01-12T15:12:44.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rbouwmeester/notebookb19de3a817,Notebookb19de3a817,Nibbor,,2017-01-12T10:07:53.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rfliu6/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,wjqdr,,2017-01-12T06:56:33.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,millie689/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,millie689,,2017-01-12T04:00:05.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,karthikpalaniappan/notebook68f3b48d39,Notebook68f3b48d39,Kappa23,,2017-01-11T21:19:00.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,neighthan/lp-optimize-expected-score,~LP Optimize Expected Score,Nathan,,2017-01-17T01:24:58.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,liuzheyu/optimal-expected-submission-value,Optimal Expected Submission Value,Zheyu,,2017-01-11T03:49:51.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,onodera/notebook0b1c5655a5,Notebook0b1c5655a5,ONODERA,,2017-01-10T15:12:55.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hahamark/notebook98714ce75a,Notebook98714ce75a,MarkRomme,,2017-01-10T09:12:14.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,tezdhar/notebook7306f8316c,Notebook2aaecfc04a,Mohsin hasan,,2017-01-10T07:47:51.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,charlesfox/notebookc592f31101,Notebookc592f31101,Charles Fox,,2017-01-10T05:33:15.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jeffstahler/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,JeffStahler,,2017-01-10T01:39:27.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nigelcarpenter/plotting-example-gift-weights,Plotting Example Gift Weights,Nigel Carpenter,,2017-01-09T20:14:33.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,japillow/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,AustinPillow,,2017-01-13T18:02:15.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nigelcarpenter/notebookc8f33bd7b7,Notebookc8f33bd7b7,Nigel Carpenter,,2017-01-09T19:42:44.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jalex19100/notebook25444427e0,Notebook25444427e0,jalex19100,,2017-01-28T22:49:13.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,phatryun/notebook788c9fd17f,Notebook788c9fd17f,ArnaudHUREL,,2017-01-09T13:32:16.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,phatryun/begin,Notebook7e5d708b91,ArnaudHUREL,,2017-01-09T13:30:13.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,pbellis/default,default,PatrickBellis,,2017-01-08T23:16:00.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nebular/notebookd5e9890aaf,Notebookd5e9890aaf,Tabular,,2017-01-08T18:33:31.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dataskeptic/can-we-improve-by-increasing-variance-5fead118,Can we improve by increasing variance? 5fead118,eduardo c,,2017-01-08T14:57:03.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dataskeptic/can-we-improve-by-increasing-variance-b75f124d,Can we improve by increasing variance? b75f124d,eduardo c,,2017-01-08T14:48:08.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dataskeptic/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,eduardo c,,2017-01-08T14:34:00.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,cnheider/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,cnHeider,,2017-01-08T10:32:58.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nilkree/test2,test2,Nilkree,,2017-01-08T09:43:32.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jaybob20/python-greedy-search,Python Greedy Search,Mads,,2017-01-08T06:39:40.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,binilg/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Binil,,2017-01-07T23:14:36.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,linzhu/notebook3634398737,Notebook3634398737,Lin Zhu,,2017-01-07T19:25:45.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,sebm70/notebook6caa0b2fcc,Notebook6caa0b2fcc,SebM,,2017-01-06T16:23:43.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,cescfangs/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Cesc,,2017-01-06T13:10:03.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,chandan1996/notebook66a08e13f9,Notebook66a08e13f9,ChandanChourasia,,2017-01-06T12:27:13.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nmud19/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,SkyBlazer,,2017-01-06T10:10:29.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hussain786/notebook82dc073ee5,Notebook82dc073ee5,Hussain,,2017-01-06T08:57:31.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hussain786/notebooke90481ae1e,Notebookdcf1c380a5,Hussain,,2017-01-06T08:56:11.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hussain786/notebook0d76e01c48,Notebook0d76e01c48,Hussain,,2017-01-06T08:55:50.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,othee86/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,HEE,,2017-01-06T08:14:19.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,palashgoyal1/notebook31450ecf57,Notebook31450ecf57,Palash Goyal,,2017-01-06T05:02:01.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jalex19100/notebook48f5889ef5,Notebook48f5889ef5,jalex19100,,2017-01-06T03:34:18.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nilkree/test1,test1,Nilkree,,2017-01-28T14:29:10.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hxd1011/notebooka55a341812,Notebooka55a341812,hxd1011,,2017-01-05T19:55:07.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,tattchee/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,CHEE,,2017-01-05T17:35:36.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,pvmolle/notebook16ff826a22,Notebook16ff826a22,Pieter Van Molle,,2017-01-05T14:41:16.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hhllcks/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Hendrik Hilleckes,,2017-01-05T13:50:55.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,palashgoyal1/notebook4c6e5e975a,Notebook58c271311f,Palash Goyal,,2017-01-05T07:16:54.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rissnalin6/notebookcd026d4d4c,Notebook4b85ded97c,Rissnalin,,2017-01-05T05:50:13.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,drbhargabmedhi/notebookf3ab884e18,Notebook4bf65edb79,Dr.BhargabMedhi,,2017-01-05T05:23:26.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yseeker/optimal-expected-submission-value,Optimal Expected Submission Value,yseeker,,2017-01-05T04:29:17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zobara/santa-uncertain,santa_uncertain,ZoyaBarabanova,,2017-01-04T23:18:43.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nickbray/can-we-improve-by-increasing-variance-1055572c,Can we improve by increasing variance? 1055572c,Nicholas Bray,,2017-01-04T20:10:56.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nickbray/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Nicholas Bray,,2017-01-04T20:06:16.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,sgirkin/notebook09689ed6ea,Notebook09689ed6ea,Stas G,,2017-01-05T17:16:55.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,biswajyoti/notebookf170b2cb05,Notebook355120cbfd,BiswajyotiKalita,,2017-01-04T18:02:38.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,shogosuzuki/notebook54063084d3,Notebook54063084d3,szdr,,2017-01-04T17:04:00.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jaschaknack/notebook405be7fffc,Notebook405be7fffc,Jascha Knack,,2017-01-04T14:17:30.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,ivanov/notebookc91182d489,Notebookc91182d489,ivanov,,2017-01-04T12:53:27.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jeenti123/notebook60be131a38,Notebook60be131a38,Jeenti Devi,,2017-01-04T08:42:50.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kenkoooo/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Kenko Nakamura,,2017-01-04T07:34:57.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rajivbarman123/notebookd9d30eb39f,Notebookd9d30eb39f,Rajiv Barman,,2017-01-04T06:45:11.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,delatorrejuanchi/notebooke8edc58e64,Notebooke8edc58e64,Juan Cruz de La Torre,,2017-01-04T06:29:04.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kumarisweta/notebook2dad1eb093,Notebook2dad1eb093,Kumari Sweta,,2017-01-04T06:14:02.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,subhomoydey90/notebook2ae368abb8,Notebookee649685d6,Subhomoy Dey,,2017-01-04T05:19:31.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,anshuamboruah/notebook8fe7188ef2,Notebook88c75ae3d0,AnshumanBoruah,,2017-01-04T05:18:30.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,drbhargabmedhi/notebook430d326fac,Notebook7642b569fd,Dr.BhargabMedhi,,2017-01-04T05:16:58.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kumarisweta/notebooke8176c969c,Notebook96aeb48416,Kumari Sweta,,2017-01-04T05:12:42.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fohmida/notebook62ea8e3740,Notebook62ea8e3740,fohmida,,2017-01-04T05:12:14.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,manash123/notebook01a52269db,Notebook30ac4eebb3,ManashjyotiBarman,,2017-01-04T05:12:01.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rajatkantisaha/notebook3a28ed4a2d,Notebook97a60d9c78,Rajatsaha,,2017-01-04T05:11:22.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kumarisweta/notebookbb5663d24b,Notebookbb5663d24b,Kumari Sweta,,2017-01-04T05:11:14.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nazma123/notebook14e9dc6d74,Notebook14e9dc6d74,NazmaBegum,,2017-01-04T05:10:52.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,divyabaruah/notebook2bcefa15c1,Notebook889244748b,DIVYA JYOTI BARUAH,,2017-01-04T05:10:44.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,himalakshi/notebookec01188405,Notebookeb4abb715a,Himalakshi.Das,,2017-01-04T05:10:20.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jyotismita4/notebook2b01061810,Notebook8e6dea8d57,jyotismita,,2017-01-04T05:10:14.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,krishb93/notebook554692ccb8,Notebook554692ccb8,Krishnendra Barooah,,2017-01-04T05:09:52.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,debasishhazarika/notebookf8f5f7d821,Notebookba02595dc7,debasishhazarika,,2017-01-04T05:09:47.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,abora80/notebook22d0d1802d,Notebook1c75f1195c,abora,,2017-01-04T05:09:25.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rkbrubul/notebookee2e645432,Notebook7c75a9b389,R.K.Bania,,2017-01-04T05:09:13.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,anshuamboruah/notebook6ddad6dbc8,Notebook716eb852ff,AnshumanBoruah,,2017-01-04T05:09:12.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,drbhargabmedhi/notebook06d1d6c7da,Notebook1a93a3b150,Dr.BhargabMedhi,,2017-01-04T05:09:06.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,divyabaruah/notebook9510f44fd1,Notebook54127ee84b,DIVYA JYOTI BARUAH,,2017-01-04T05:10:07.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,juchika/notebook52bf968f37,Notebook91d78af172,JuchikaAlam,,2017-01-04T05:08:48.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rkbrubul/notebook71ced8956d,Notebook71ced8956d,R.K.Bania,,2017-01-04T05:08:48.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,abora80/notebook4dccb8ab5a,Notebook0accbb8799,abora,,2017-01-04T05:08:43.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jinti123/notebooke9f8b91292,Notebook5c15778c19,jyotirupatalukdar,,2017-01-04T05:08:38.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,roshandec29/notebook7ce14fc866,Notebook51f01d9730,Roshan Gupta,,2017-01-04T05:08:34.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,lucifer99/notebook415be921e6,Notebook140323a338,RazmoniChetia,,2017-01-04T05:08:34.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,ritapaul/notebook78a6e0967d,Notebookf076d0dffc,Rita,,2017-01-04T05:08:33.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kanchan31/notebook5080c7fa61,Notebooka454122e31,Kanchan Kumari Purbey,,2017-01-04T05:08:27.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vivekverma/notebook0c057b8f13,Notebook9beabef344,Vivek Verma,,2017-01-04T05:06:16.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kanchan31/notebook6a6acab31a,Notebook76c2b13886,Kanchan Kumari Purbey,,2017-01-04T05:05:06.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,krishb93/notebook49f850ede4,Notebook405ffadf59,Krishnendra Barooah,,2017-01-04T05:02:01.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,thebhatta/notebook8b11acd3bc,Notebook5e3e23f593,Dipankar Bhattacharjya,,2017-01-04T05:01:48.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rajivbarman123/notebook403998d193,Notebookd460b8f027,Rajiv Barman,,2017-01-04T05:01:18.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,himalakshi/notebook7538f9b933,Notebookc8496a9d16,Himalakshi.Das,,2017-01-04T05:01:10.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jyotismita4/notebook9caace1bf0,Notebookb3bc6df269,jyotismita,,2017-01-04T05:00:09.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kanchan31/notebook87b53e5500,Notebook87b53e5500,Kanchan Kumari Purbey,,2017-01-04T04:59:49.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,samirthakur1993/notebookbf0e8d82e8,Notebook0b7c9b2051,samirthakur,,2017-01-04T04:59:34.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jyotismita4/notebook4342fa3a33,Notebook0600a844fe,jyotismita,,2017-01-04T04:59:14.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kanchan31/notebookda2cf33c88,Notebookf5718c75b9,Kanchan Kumari Purbey,,2017-01-04T04:56:13.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,samirthakur1993/notebookf86fdf0755,Notebookf86fdf0755,samirthakur,,2017-01-04T04:56:04.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,ankip3d/notebook5a0a94e5e3,Notebook162f53199b,Ankita Singh,,2017-01-04T04:55:47.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vivekverma/notebook41d36f213f,Notebookc63b51596f,Vivek Verma,,2017-01-04T04:54:38.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,roshandec29/notebook2bd956513a,Notebookfe76f87154,Roshan Gupta,,2017-01-04T04:54:23.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kumarisweta/kovid-gu-kumari-sweta-notebook,Notebook3f6da12e50,Kumari Sweta,,2017-01-04T04:53:38.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,mmmm123/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,ML49,,2017-01-04T02:15:30.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,takuok/santasan,santasan,takuoko,,2017-01-04T01:57:27.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,takuok/notebook3028ccef50,Notebook3028ccef50,takuoko,,2017-01-04T01:57:13.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,takuok/santa,santa,takuoko,,2017-01-04T01:55:37.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,simecek/notebookd87cec746b,Notebookd87cec746b,semi-check,,2017-01-03T20:31:02.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,orochiff2/fork-of-stuff,Fork of Stuff,Orochi,,2017-01-03T17:22:53.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dcarmody/prescribed-bag-filling,Prescribed bag filling,Dan,,2017-01-03T01:27:15.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,binilg/hiii55,hiii55,Binil,,2017-01-02T18:23:14.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,notbritish/fast-computation-of-expected-value-for-bags,Fast Computation Of Expected Value For Bags,Thijs,,2017-01-02T15:40:21.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dremovd/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Dmitry Dryomov,,2017-01-02T09:17:53.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,slothouber/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Frans Slothouber,,2017-01-02T08:09:43.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zriddle/can-we-improve-by-increasing-variance-e4f87a0e,Can we improve by increasing variance? e4f87a0e,Riddle,,2017-01-02T07:13:12.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yseeker/can-we-improve-by-increasing-variance-224e3f04,Can we improve by increasing variance? 224e3f04,yseeker,,2017-01-02T01:33:06.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yseeker/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,yseeker,,2017-01-02T01:32:11.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nigelcarpenter/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Nigel Carpenter,,2017-01-01T22:46:13.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zriddle/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Riddle,,2017-01-01T21:52:52.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hisuka/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Oussama Errabia,,2017-01-01T18:09:22.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,zhugds/test-notebook,test_notebook,pongba,,2017-01-01T17:22:14.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fzhurd/santa-bags-v1-20161231,santa_bags_v1_20161231,fzhurd,,2017-01-01T07:05:18.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dgreaves/fast-computation-of-expected-value-for-bags,Fast Computation Of Expected Value For Bags,dg,,2016-12-31T21:12:38.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,diegfern/notebookbb686bd1c6,Notebookbb686bd1c6,DiegoFernandez,,2016-12-31T13:20:56.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,faraday1221/notebook5c2c6a1521,Notebook5c2c6a1521,Faraday,,2016-12-31T05:18:19.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jackba/notebook70642d0787,Notebook70642d0787,Jackba,,2016-12-30T16:05:49.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,sorenravn/notebookdce7ff2c65,Notebookdce7ff2c65, sravn,,2016-12-30T09:11:21.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,binilg/hiii5,hiii5,Binil,,2016-12-30T05:28:00.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fmcalcagno/notebook1ac88beb74,Notebook9f62b189b8,Facundo Calcagno,,2016-12-29T20:55:40.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,orochiff2/stuff,Stuff,Orochi,,2017-01-03T17:17:28.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fmcalcagno/notebookcc5dd9fb04,Notebookd883272a8c,Facundo Calcagno,,2016-12-29T10:26:59.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fmcalcagno/notebooka891f5d3b3,Notebooka891f5d3b3,Facundo Calcagno,,2016-12-29T10:26:19.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,bcrad22/santas-bags-2016-12-29,santas_bags_2016-12-29,Bradley Craddock,,2016-12-29T01:55:54.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,marcusschwarting/notebookb7869ccc7f,Notebookb7869ccc7f,MarcusSchwarting,,2016-12-28T20:45:38.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,deesha/santa,santa,Deesha,,2016-12-28T16:19:25.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,irrwitz/notebook4601a1c671,Notebook4601a1c671,Joshy Cyriac,,2016-12-27T19:12:58.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,abdessalam/notebookf8cb8172e4,Notebookf8cb8172e4,AbdeslamIKZARN,,2016-12-27T10:22:03.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,gingerman/python-greedy-search,Python Greedy Search,gingerman | Chris,,2016-12-26T21:18:31.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,lkavanagh/filling-bags-with-simulated-annealing-forked,Filling bags with Simulated Annealing (Forked),Leo Kavanagh,,2016-12-26T17:01:37.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,longint/python-greedy-search,Python Greedy Search,longint,,2016-12-26T08:38:06.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,akilaw/python-greedy-search,Python Greedy Search,Akila Wajirasena,,2016-12-27T01:14:50.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vipindas/notebooka36dad70c5,Notebooka36dad70c5,VipinDas,,2016-12-25T17:58:48.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,nitishjoshi/notebook048e070544,Notebook048e070544,NitishJoshi,,2016-12-25T15:15:08.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,harshkkumar/naive-greedy-algorithm,Naive Greedy Algorithm,Harshit Krishnakumar,,2016-12-25T06:29:27.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,harshkkumar/naive-greedy-approach,Naive Greedy Approach,Harshit Krishnakumar,,2016-12-25T05:42:41.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,harshkkumar/notebook7906cdee1d,Notebook7906cdee1d,Harshit Krishnakumar,,2016-12-25T05:24:47.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,harshkkumar/notebookb95e1f0a56,Notebookb95e1f0a56,Harshit Krishnakumar,,2016-12-25T05:24:16.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,danielhuckins/notebook1d85cc8793,Notebook1d85cc8793,Daniel Huckins,,2016-12-25T00:32:16.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,carloshuertas/optimal-submission-calculator,Optimal Submission Calculator,NxGTR,,2016-12-24T19:29:54.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yangcao/notebookd21aafec84,Notebookd21aafec84,Yang,,2016-12-24T19:21:22.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,anki08/santa-s-gifts,santa's gifts,Ankita Sinha,,2016-12-24T18:08:38.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,midhun/notebookeda9bf24df,Notebookeda9bf24df,midhu n n,,2016-12-24T17:08:50.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,abdessalam/notebookd871188790,Notebookd871188790,AbdeslamIKZARN,,2016-12-24T14:15:24.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,kristinakalbasiuk/notebook20fde87940,Notebook20fde87940,Kristina,,2016-12-24T13:37:54.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,arjoonn/a-christmas-without-snow,A Christmas Without Snow,ArjoonnSharma,,2016-12-24T05:19:50.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,shixw125/giba-naive1,Giba Naive1,weiwei,,2016-12-24T03:04:56.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,aikinogard/play-with-r,Notebookff14afe4e8,Li Li,,2016-12-24T02:15:25.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,aikinogard/filling-bags-with-simulated-annealing,Filling bags with Simulated Annealing,Li Li,,2016-12-23T23:50:53.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jeongyoonlee/gift-count-weight-visualizations,Gift count & weight visualizations,Jeong-Yoon Lee,,2016-12-23T13:24:42.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vfdev5/gift-count-weight-visualizations-in-kg,Gift count & weight visualizations (in kg),vfdev,,2016-12-24T00:20:09.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,vfdev5/fork-of-santa-quick-look,"Fork of ""Santa Quick Look""",vfdev,,2016-12-23T12:31:36.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yuan296103/notebookc2857aad5c,Notebookc2857aad5c,yuan,,2016-12-23T10:42:49.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,yasasa/notebook13918e28ee,Notebook13918e28ee,yasasa,,2016-12-23T05:38:33.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,lfiaschi/notebookc1ccbc9036,Notebookc1ccbc9036,lfiaschi,,2016-12-22T22:38:34.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,mkatsimpris/notebook1ce7b0c657,Notebook1ce7b0c657,mkatsimpris,,2016-12-22T22:28:05.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,lamdang/notebook9113a5572f,Notebook9113a5572f,Lam Dang,,2016-12-22T19:12:38.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,lamdang/notebooke6edd3af25,Notebooke6edd3af25,Lam Dang,,2016-12-22T18:12:20.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,stealthq/test1,Test1,stealthq,,2016-12-22T18:32:10.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,stealthq/notebook30bd467029,Notebook30bd467029,stealthq,,2016-12-22T17:39:55.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,shixw125/testy,testy,weiwei,,2016-12-22T16:41:37.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,irrwitz/show-distributions,Show distributions,Joshy Cyriac,,2016-12-22T15:22:41.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,irrwitz/intro,Intro,Joshy Cyriac,,2016-12-22T14:47:32.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jtowler/plotting-example-gift-weights,Plotting Example Gift Weights,JonathanTowler,,2016-12-22T14:22:35.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jtowler/santa-s-gifts-estimated-weight-and-bin-packing,Santa's gifts estimated weight and bin packing,JonathanTowler,,2016-12-22T13:51:35.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,guilhermesantos/simple-greedy-btb,Simple Greedy BTB,Guilherme de Oliveira Santos,,2016-12-22T17:49:16.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,svesal/santa-bag2,Santa_Bag2,Aramis,,2016-12-22T09:01:49.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rupesh96/notebookd11deb1307,Notebookd11deb1307,rupesh,,2016-12-22T08:23:31.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,mchirico/santa-my-submit,Santa My  Submit,Mike Chirico,,2016-12-22T00:06:48.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,alvinwan/distribution-visualization,Distribution Visualization,Alvin Wan,,2016-12-21T21:18:16.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rafalpronko/notebook273b62ab03,Notebook273b62ab03,maruda,,2016-12-21T21:11:10.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,rafalpronko/first-notebook,First notebook,maruda,,2016-12-21T20:28:33.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,dkchaitanya/notebookcd6ab3290b,Notebookcd6ab3290b,KrishnaChaitanya,,2016-12-21T20:26:44.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,texmexmachine/satan-s-watching,Satan's Watching,Eric C C,,2016-12-22T00:51:49.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,danieldias/notebookf9db44c89b,Notebookf9db44c89b,Daniel Dias Oliveira,,2016-12-21T18:09:08.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,packwolf/distribution-visualization,Distribution Visualization,jsftw,,2016-12-21T16:07:47.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,siyaozheng/notebook4502f7ea08,Notebook4502f7ea08,Siyao Zheng,,2016-12-21T15:15:34.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,trcook/notebook31a71101cb,Notebook31a71101cb,Tom Cook,,2019-05-11T22:35:06.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,trcook/start,start,Tom Cook,,2020-04-03T22:50:26.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hunterfrank/notebookea906191a4,Notebookea906191a4,HunterFrank,,2016-12-21T14:23:36.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,hunterfrank/notebookbf5d763ecd,Notebookbf5d763ecd,HunterFrank,,2016-12-21T14:16:22.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,fsyed1/build-weights,Build Weights,FahadSyed,,2016-12-21T12:24:56.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,mchirico/santa-01,Santa_01,Mike Chirico,,2016-12-21T04:45:08.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,simecek/notebooke3a00602b9,Notebook8c3341571c,semi-check,,2016-12-21T04:40:01.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,simecek/notebook1deaa32e2c,Notebook1deaa32e2c,semi-check,,2016-12-21T04:34:48.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,jeffstahler/santa-quick-look,Santa Quick Look,JeffStahler,,2016-12-21T04:30:00.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,robfinnegan/santaslittlehelper,SantasLittleHelper,RobertFinnegan,,2016-12-21T02:52:12.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,soates/notebookea2b3bd2c9,Notebookea2b3bd2c9,soates,,2016-12-21T01:39:36.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags
+,,,,,0,cfsantos/notebook6e7d229550,Notebook6e7d229550,claudiosantos,,2016-12-21T00:23:19.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santas-uncertain-bags

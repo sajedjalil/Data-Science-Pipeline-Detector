@@ -1,0 +1,35 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ateplyuk/keras-imet2020-tpu-train,Keras iMet2020 TPU (train),Alexander Teplyuk,,2020-04-15T13:44:16.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,imet-2020-fgvc7
+,,,,,0,ateplyuk/keras-imet2020-infer,Keras iMet2020 (infer),Alexander Teplyuk,,2020-04-15T17:50:19.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,imet-2020-fgvc7
+,,,,,0,alimbekovkz/yandex-praktikum-pytorch-train-baseline-lb-0-699,Yandex Praktikum PyTorch train baseline  LB 0.699,Alimbekov Renat [dsmlkz],,2020-04-24T10:47:50.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,imet-2020-fgvc7
+,,,,,0,yasufuminakama/imet-2020-pytorch-resnet18-starter,iMet 2020 PyTorch Resnet18 starter,Y.Nakama,,2020-03-28T00:42:27.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,imet-2020-fgvc7
+,,,,,0,jesucristo/imet2020-visualization,iMet2020 Visualization,Nanashi,,2020-05-02T18:01:31.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,imet-2020-fgvc7
+,,,,,0,alimbekovkz/yandex-praktikum-pytorch-resnet50-inference,Yandex Praktikum PyTorch ResNet50 Inference,Alimbekov Renat [dsmlkz],,2020-04-24T12:16:55.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,imet-2020-fgvc7
+,,,,,0,yasufuminakama/imet-2020-pytorch-resnet18-inference, iMet 2020 PyTorch Resnet18 inference,Y.Nakama,,2020-03-28T13:09:05.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,imet-2020-fgvc7
+,,,,,0,dimakyn/multi-label-keras,Multi Label Keras,DimaKyn,,2020-04-06T15:34:05.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,imet-2020-fgvc7
+,,,,,0,redwankarimsony/imet-collection-2020-data-visualization,iMet Collection 2020 (Data Visualization),Md. Redwan Karim Sony,,2020-05-25T06:12:30.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2020-fgvc7
+,,,,,0,salmanhiro/imet-2020-cnn-model,iMet 2020 CNN Model,Salman Chen,,2020-05-05T19:19:33.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,imet-2020-fgvc7
+,,,,,0,khofschen/imet-explore-visualization,iMet_explore_visualization,Katie H,,2020-05-26T13:51:14.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,imet-2020-fgvc7
+,,,,,0,alexdesiqueira/imet-collection-2020-fgvc7-dataset,iMet Collection 2020 — FGVC7 dataset,Alexandre de Siqueira,,2020-05-20T23:12:01.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2020-fgvc7
+,,,,,0,finlaymacrae/fastai-resnet34-transfer-learning,Fastai resnet34 transfer learning,Finlay Macrae,,2020-05-08T23:45:32.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2020-fgvc7
+,,,,,0,matthewallenfisher/imet-fastai,iMet FastAI,Matthew Allen Fisher,,2020-05-28T06:01:06.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2020-fgvc7
+,,,,,0,nxrprime/imet-2020-resnet18-inference,iMet 2020 ResNet18 Inference,Trigram,,2020-04-07T13:00:41.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,imet-2020-fgvc7
+,,,,,0,tathagatbanerjee/tag-classifier-visualization-transfer-learning,Tag Classifier Visualization & Transfer Learning,Tathagat Banerjee,,2020-04-13T10:48:57.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,imet-2020-fgvc7
+,,,,,0,leosabraham/imet-using-vgg16,iMET_using_vgg16,Leos Abraham,,2020-05-16T11:54:55.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2020-fgvc7
+,,,,,0,ashkhagan/imet2020,iMET2020,Ashwani Rathee,,2020-05-03T13:47:34.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,imet-2020-fgvc7
+,,,,,0,smagh777/imet-multi-label-classification,Imet Multi Label Classification,Baljinder Smagh,,2021-01-07T14:47:37.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,wtr850/imet-6-models-comparison-inference,iMet 6 Models Comparison (Inference),www888,,2020-05-28T05:47:06.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,wtr850/imet-6-models-comparison-training,iMet 6 Models Comparison (Training),www888,,2020-05-28T06:04:46.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,yunchenyang/multi-head-cnn-for-multi-label-classification-pt2,Multi-head CNN for multi-label classification-pt2,Yunchen Yang,,2020-05-26T22:09:14.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,matthewallenfisher/imet-on-tpu-not-working-yet,iMet on TPU (Not Working Yet),Matthew Allen Fisher,,2020-05-22T11:38:40.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,mayakviriashvili/fastai-imet-collection-2020-fgvc,Fastai iMet Collection 2020 - FGVC ,Maya Kviriashvili,,2020-05-23T11:52:34.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,yunchenyang/multi-head-cnn-for-multi-label-classification-pt1,Multi-head CNN for multi-label classification-pt1,Yunchen Yang,,2020-05-26T00:03:05.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,branitsky/kernel5333b65c40,kernel5333b65c40,Vladyslav Branytskyi,,2020-05-04T09:30:36.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,shaman89/yandex-praktikum-pytorch-train-baseline-lb-0-699,Yandex Praktikum PyTorch train baseline  LB 0.699,Sergey Sedyakin,,2020-04-29T11:20:17.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,hangwoo/kernel25a5cf235e,kernel25a5cf235e,HangWoo,,2020-04-17T14:54:12.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,grapestone5321/imet-collection-2020-sample-submission,iMet Collection 2020-sample_submission,Naruhiko Nakanishi,,2020-03-29T02:53:11.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,imet-2020-fgvc7
+,,,,,0,tonyctty/imet-collection-ml64,iMet_Collection_ML64,ToNy_CTTY,,2021-11-17T14:50:30.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imet-2020-fgvc7
+,,,,,0,luqzera/notebookecc44717d0,notebookecc44717d0,luqz,,2021-06-18T10:21:13.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imet-2020-fgvc7
+,,,,,0,mariuszkowiaski/notebookca6c66b620,notebookca6c66b620,Mariusz Kowiański,,2021-06-14T14:39:17.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imet-2020-fgvc7
+,,,,,0,mariuszkowiaski/notebookc222e61ba5,notebookc222e61ba5,Mariusz Kowiański,,2021-06-13T23:27:35.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imet-2020-fgvc7
+,,,,,0,andreibuliga1/cnn-with-keras-for-imet-2020,CNN with Keras for Imet-2020,Andrei,,2020-05-04T13:24:52.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imet-2020-fgvc7

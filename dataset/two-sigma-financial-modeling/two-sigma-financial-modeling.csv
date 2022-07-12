@@ -1,0 +1,256 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sudalairajkumar/simple-exploration-notebook-5,Simple Exploration Notebook,SRK,,2016-12-09T09:55:42.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],283,two-sigma-financial-modeling
+,,,,,0,chenjx1005/physical-meanings-of-technical-20-30,"physical meanings of technical_20, 30",cc05,,2017-02-07T07:00:01.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],193,two-sigma-financial-modeling
+,,,,,0,anokas/two-sigma-time-travel-eda,Two Sigma Time Travel (EDA),anokas,,2016-12-01T20:24:29.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],147,two-sigma-financial-modeling
+,,,,,0,sudalairajkumar/am-i-over-fitting,Am I Over-fitting?,SRK,,2017-01-04T01:04:11.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],145,two-sigma-financial-modeling
+,,,,,0,slothouber/kagglegym-emulation,kagglegym_emulation,Frans Slothouber,,2016-12-04T10:17:29.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],123,two-sigma-financial-modeling
+,,,,,0,sudalairajkumar/univariate-analysis-regression-lb-0-006,Univariate Analysis & Regression (LB : 0.006),SRK,,2016-12-09T09:30:11.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],121,two-sigma-financial-modeling
+,,,,,0,ysidhu/two-sigma-portfolio-returns-eda,Two Sigma Portfolio Returns EDA,Yuvraj Sidhu,,2016-12-14T18:06:02.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],104,two-sigma-financial-modeling
+,,,,,0,jeffmoser/kagglegym-api-overview,Kaggle Gym API Overview,Jeff Moser,,2016-11-29T15:48:53.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],101,two-sigma-financial-modeling
+,,,,,0,trottefox/two-sigma-playground,Two sigma playground,Trottefox,,2017-02-24T17:59:50.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,two-sigma-financial-modeling
+,,,,,0,titericz/team-rocket-13,Team Rocket #13,Giba,,2017-03-02T21:32:46.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,two-sigma-financial-modeling
+,,,,,0,sankhamukherjee/when-why-are-stocks-bought-and-sold,When/why are stocks bought and sold,omolluska,,2016-12-23T14:26:35.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,two-sigma-financial-modeling
+,,,,,0,cgump3rt/investigate-missing-values,Investigate Missing Values,cgumpert,,2017-01-10T22:33:01.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,two-sigma-financial-modeling
+,,,,,0,ymcdull/ridge-lb-0-0100659,Ridge (LB: 0.0100659),Yunfeng Zhu,,2016-12-20T16:42:06.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,two-sigma-financial-modeling
+,,,,,0,allunia/feature-dynamics-looking-at-id-groups,Feature Dynamics: looking at id groups,Laura Fink,,2016-12-30T15:45:37.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,two-sigma-financial-modeling
+,,,,,0,priyaranade/differencing-and-stationarity,Differencing and stationarity,novice,,2016-12-12T14:33:09.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,two-sigma-financial-modeling
+,,,,,0,tks0123456789/xgb-500-600-001,xgb_500_600_001,tks,,2017-03-01T16:01:31.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,two-sigma-financial-modeling
+,,,,,0,willieliao/et1-ridge3-med-adj,et1_ridge3_med_adj,Willie Liao,,2017-03-04T23:21:28.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,two-sigma-financial-modeling
+,,,,,0,optimism/two-sigma-playground-clarified-and-criticised,Two sigma playground clarified and criticised,SK,,2017-02-25T20:41:26.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,two-sigma-financial-modeling
+,,,,,0,bguberfain/univariate-model-with-clip,Univariate model with clip,Bruno G. do Amaral,,2016-12-02T16:17:40.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,two-sigma-financial-modeling
+,,,,,0,sankhamukherjee/simple-exploration-of-y-values,Simple exploration of y values,omolluska,,2016-12-05T13:16:33.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,two-sigma-financial-modeling
+,,,,,0,sankhamukherjee/prediction-model-elastic-net,Prediction model - Elastic Net ,omolluska,,2016-12-08T00:02:07.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,two-sigma-financial-modeling
+,,,,,0,scirpus/last-public-gp,Last Public GP,Scirpus,,2017-01-06T12:07:09.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,two-sigma-financial-modeling
+,,,,,0,alijs1/quick-look-at-what-is-important-and-what-is-not,Quick look at what is important and what is not...,alijs,,2016-12-08T19:59:08.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,two-sigma-financial-modeling
+,,,,,0,jriskas/asset-cluster-visualization,Asset Cluster Visualization,jrisk123,,2017-01-19T19:50:33.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,two-sigma-financial-modeling
+,,,,,0,rasuter/a-basic-approch-to-cluster-securities,A Basic Approch to Cluster Securities,Raphael Suter,,2016-12-06T16:14:09.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,two-sigma-financial-modeling
+,,,,,0,phegde/team-pradeep-arthur-private-lb-10-solution,Team Pradeep & Arthur Private LB #10 Solution,Pradeep Hegde,,2017-03-05T10:11:50.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,two-sigma-financial-modeling
+,,,,,0,tezdhar/temporal-behaviours,Temporal Behaviours,Mohsin hasan,,2016-12-29T05:54:52.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,two-sigma-financial-modeling
+,,,,,0,antklen/correlations-with-target-for-different-id-s,Correlations with target for different Id's,antklen,,2016-12-18T16:00:06.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,two-sigma-financial-modeling
+,,,,,0,reziproke/clustering-id-s-using-cumulative-return-eda,Clustering Id's Using Cumulative Return (EDA),Reziproke,,2016-12-10T23:37:47.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,two-sigma-financial-modeling
+,,,,,0,sudalairajkumar/univariate-model,Univariate model,SRK,,2016-12-02T08:30:50.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,two-sigma-financial-modeling
+,,,,,0,alabsinatheer/two-sigma-exploration-and-visualization,Two Sigma exploration and visualization,Natheer M. A. Alabsi,,2017-02-22T02:39:09.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,two-sigma-financial-modeling
+,,,,,0,ksayantani/exploration-on-data,Exploration on data,ksayantani,,2017-02-28T07:08:06.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,two-sigma-financial-modeling
+,,,,,0,freeman89/validating-kagglegym-emulation,Validating kagglegym_emulation ,Kostadinov,,2016-12-10T12:13:04.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,two-sigma-financial-modeling
+,,,,,0,tks0123456789/xgboost-refresh-updater-oob-feature-importance,XGBoost refresh updater (OOB feature importance),tks,,2017-02-02T01:00:55.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,two-sigma-financial-modeling
+,,,,,0,heisengarg/exploratory-data-analysis,Exploratory Data Analysis,AyushGarg,,2017-01-19T18:23:28.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,two-sigma-financial-modeling
+,,,,,0,ma2tg31/prediction-using-tensorflow,Prediction using tensorflow,Matthieu le goff,,2017-01-16T12:50:20.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,two-sigma-financial-modeling
+,,,,,0,wangruixin/randomforestregressor,RandomForestRegressor,RX_wang,,2017-01-23T01:25:30.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,two-sigma-financial-modeling
+,,,,,0,reziproke/nan-structure-on-id-level-eda,NaN Structure on Id Level (EDA),Reziproke,,2016-12-04T20:01:46.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,two-sigma-financial-modeling
+,,,,,0,fernandocanteruccio/rnn-model-production-and-exploration-notebook,RNN Model Production and Exploration Notebook,Fernando Canteruccio,,2017-04-12T12:26:03.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,two-sigma-financial-modeling
+,,,,,0,achalshah/linear-regression-lb-0-0091176,Linear regression (LB: 0.0091176),Achal,,2016-12-23T07:21:22.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,two-sigma-financial-modeling
+,,,,,0,chaseos/understanding-id-and-timestamp,Understanding 'id' and 'timestamp',Chase,,2016-12-02T20:10:11.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,two-sigma-financial-modeling
+,,,,,0,pinocchio/tensorflow-lr,TensorFlow-LR,Hamed Seyed-allaei,,2017-02-24T21:22:17.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,two-sigma-financial-modeling
+,,,,,0,txtrouble/time-series-analysis-with-python,Time Series Analysis with Python,Jason McNeill,,2016-12-14T04:13:00.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,two-sigma-financial-modeling
+,,,,,0,rbauld/rebuilding-y-t-1,Rebuilding y(t-1),Reg Bauld,,2017-02-23T03:32:04.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,two-sigma-financial-modeling
+,,,,,0,armamut/about-technicals-19-21-27-35-and-36,"About Technicals 19,21,27,35 and 36",armamut,,2017-02-12T23:26:06.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,two-sigma-financial-modeling
+,,,,,0,cgump3rt/missing-values-continued,Missing values continued...,cgumpert,,2017-01-24T08:42:19.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,two-sigma-financial-modeling
+,,,,,0,yagays/python-package-list,Python Package List,yag_ays,,2016-12-02T05:48:31.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,two-sigma-financial-modeling
+,,,,,0,phegde/reinforcement-learning-private-lb-0-0333,Reinforcement Learning Private LB 0.0333,Pradeep Hegde,,2017-03-06T10:34:43.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,paulperry/technical-13-does-not-help-predict-y-hat,technical_13 does NOT help predict y_hat,paulperry,,2017-02-26T14:29:48.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,rdslater/understanding-the-kaggle-gym-and-scoring,Understanding the Kaggle Gym and scoring,Ronin,,2017-01-09T23:19:33.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,mchlkffl/data-exploration-panel-data-perspective,Data exploration - panel data perspective, Mkffl,,2017-01-08T20:59:00.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,luckylwk/moving-average-macd-analysis,Moving Average (MACD) Analysis,lucklylwk,,2016-12-26T22:19:37.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,poulet/closeup-to-timestamps-features-and-assets,"Closeup to timestamps, features and assets",Poulet,,2016-12-03T13:27:11.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,carloshenriquebaia/check-ram-cpu,Check RAM/CPU,Carlos Henrique Baia,,2016-12-01T20:24:58.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,two-sigma-financial-modeling
+,,,,,0,xchiron/using-moving-average-on-individual-id-timestamps,Using Moving Average on individual ID Timestamps,MZH,,2016-12-30T05:01:18.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,two-sigma-financial-modeling
+,,,,,0,chbimo/correlation-of-nan-structure-between-id,Correlation of NaN structure between Id,chbimo,,2016-12-12T14:38:44.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,two-sigma-financial-modeling
+,,,,,0,uditsaini/groups-of-highly-correlated-asset-s-ids,Groups of highly correlated asset's ids,udit,,2017-01-06T07:31:31.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,two-sigma-financial-modeling
+,,,,,0,stonematz/peeking-into-the-technical-indicators,Peeking into the technical indicators,Niko,,2016-12-18T23:23:55.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,two-sigma-financial-modeling
+,,,,,0,lesibius/financial-instrument-types,Financial Instrument Types,Clem Castellano,,2016-12-11T00:37:27.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,two-sigma-financial-modeling
+,,,,,0,sujeelee/plots-for-first-few-assets-price,Plots for first few assets' price,Soong,,2017-01-28T22:23:40.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,two-sigma-financial-modeling
+,,,,,0,bencopeland/xgb-lags-v2,xgb_lags_v2,BenCopeland,,2017-03-03T22:42:41.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,two-sigma-financial-modeling
+,,,,,0,kevinkirchhoff/polynomial-feature-example,Polynomial Feature Example,Kevin Kirchhoff,,2017-01-21T00:35:32.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,two-sigma-financial-modeling
+,,,,,0,devinanzelmo/kagglegym-emulation,kagglegym_emulation,Devin Anzelmo,,2016-12-03T19:40:00.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,two-sigma-financial-modeling
+,,,,,0,tks0123456789/outlier-distribution,Outlier distribution,tks,,2017-03-02T13:16:45.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,chrisw1/do-missing-values-indicate-different-asset-types,Do Missing Values Indicate Different Asset Types?,ChrisW,,2017-02-19T00:59:04.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,uditsaini/feature-distribution-for-ids,Feature_distribution_for_ids,udit,,2017-01-05T02:59:40.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,luckylwk/volatility-analysis,Volatility Analysis,lucklylwk,,2016-12-24T13:17:36.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,vsmolyakov/time-series-xgboost-lm,time series xgboost + lm,vsmolyakov,,2016-12-20T00:07:55.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,dremovd/synthetic-experiment-of-r-score-behaviour,Synthetic experiment of R score behaviour,Dmitry Dryomov,,2016-12-17T18:20:05.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,lesibius/clustering-on-missing-values,Clustering on Missing Values,Clem Castellano,,2016-12-13T19:44:19.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,halboffen/looking-at-trades,Looking at trades,Peter Bruhn,,2016-12-11T18:54:16.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,two-sigma-financial-modeling
+,,,,,0,ggrizzly/linear-bag-1-py,linear_bag_1.py,A_Elsheikh,,2017-03-02T13:48:54.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,tarobxl/the-power-of-less,The power of less,tarobxl,,2017-02-25T15:06:40.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,codynash/continuing-investigations-into-y-at-t-1,Continuing investigations into y at (t-1) ,CodyNash,,2017-02-23T16:33:19.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,armamut/some-insight-on-fundamental-data,Some insight on fundamental data.,armamut,,2017-02-13T17:46:44.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,ascending/why-overfitting,Why overfitting??,Suraj Sihag,,2017-02-03T03:48:22.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,rdslater/10-000-foot-view-of-data,"10,000 foot view of data",Ronin,,2017-01-04T18:52:40.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,scirpus/gp-model-iii,GP Model III,Scirpus,,2016-12-31T11:12:44.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,ymcdull/kaggle-gym-api-overview-1,Kaggle Gym API Overview 1,Yunfeng Zhu,,2016-12-02T17:21:37.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,two-sigma-financial-modeling
+,,,,,0,somnisight/univariate-linear-regresssion-with-trained-weights,Univariate Linear Regresssion with trained weights,Tianyi Miao,,2017-02-14T18:24:02.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,nshetty/xgboost-with-hyperopt-and-iterative-boosting,xgboost with hyperopt and iterative boosting,kaBung,,2017-02-24T10:23:03.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,cescfangs/mixed-ridge-etr-xgb-private0-0252120,mixed_ridge_etr_xgb-private0.0252120,Cesc,,2017-03-03T05:14:17.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,coolingozone/first-investigative-notebook,First  investigative notebook,TeoKokKeong,,2017-03-19T15:07:45.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,amlacorp/amla-twosigma,AMLA_TwoSigma,AMLA Corporation,,2017-03-09T20:06:22.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,plskgl3/emulate-the-enviroment-locally,Emulate the enviroment locally,m9798760,,2016-12-23T16:01:35.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,alijs1/plotting-some-features,Plotting some features,alijs,,2016-12-13T19:36:34.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,devinanzelmo/pandas-rolling-and-a-quick-look-at-missing-values,"Pandas rolling, and a quick look at missing values",Devin Anzelmo,,2016-12-07T16:34:11.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,anokas/xgboost-experiment,XGBoost Experiment,anokas,,2016-12-02T20:41:15.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,xingobar/simple-eda,Simple EDA,Gary Ng,,2016-12-05T14:02:03.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,two-sigma-financial-modeling
+,,,,,0,ocolegro/online-learning-027-offline-result,Online Learning (.027 offline result),ocolegro,,2017-03-03T01:00:04.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,willieliao/et1-ridge3-sd-adj,et1_ridge3_sd_adj,Willie Liao,,2017-03-01T01:39:48.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,ouranos/modelc,ModelC,Ouranos,,2017-03-03T13:35:39.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,fernandocanteruccio/twosigma-gradient-boosting-ensemble-model,TWOSIGMA Gradient Boosting Ensemble Model,Fernando Canteruccio,,2017-03-01T01:38:40.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,fernandocanteruccio/xgboost-ensemble-model-exploration,XGBoost Ensemble Model Exploration ,Fernando Canteruccio,,2017-02-16T18:57:54.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,grfiv4/y-s-have-peculiar-tails,y's have peculiar tails,George Fisher,,2017-02-05T02:05:36.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,aliajouz/time-travel-feature,Time Travel feature,Ali,,2017-01-23T12:30:56.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,scirpus/wood-for-the-trees,Wood for the Trees,Scirpus,,2016-12-26T12:34:05.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,taenareus/separating-predictions-from-submissions,Separating predictions from submissions,Miika Klemetti,,2016-12-23T15:56:27.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,freeman89/feature-reference-eda,Feature reference (EDA),Kostadinov,,2016-12-15T17:39:38.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,teramonagi/feature-importances-by-randomforest,Feature Importances by RandomForest,teramonagi,,2016-12-04T04:36:48.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,jaychung/exploring-time-series,Exploring time series,jaychung,,2016-12-02T04:57:38.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,tgogorza/exploratory-data-analysis,Exploratory Data Analysis,TomasGogorza,,2016-12-07T12:16:32.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,two-sigma-financial-modeling
+,,,,,0,happycube/lightly-annotated-final-submission-13-51,(lightly) annotated final submission (#13/#51?),happycube,,2017-03-03T07:24:09.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,fernandocanteruccio/xgboost-feature-importance-analysis,XGBoost feature importance analysis,Fernando Canteruccio,,2017-02-16T18:07:10.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,grfiv4/does-a-random-walk-go-up-more-often-than-down,does a random walk go up more often than down?,George Fisher,,2017-02-12T03:40:35.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,shuaiwang/lars-regression-0-0095463,lars-regression-0.0095463,shuai,,2017-02-03T20:26:30.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,yuanwang688/yuan-basic-models,Yuan Basic Models,YuanWang,,2017-02-05T18:40:32.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,justinnafe/correlate-features-of-each-id-with-y,Correlate features of each id with y,Justin Nafe,,2017-01-09T23:49:24.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,perrydgreenwood/initial-script-xgb,initial_script_xgb,PerryGreenwood,,2017-01-08T19:38:26.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,richardmore/a-small-time-series-analysis-for-the-market,a small time series analysis for the market,fu miao,,2016-12-31T14:57:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,hhllcks/fill-nas-depending-on-id,Fill NAs depending on ID,Hendrik Hilleckes,,2016-12-21T17:33:39.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,danijelk/simple-xgboost-starter,Simple XGBoost Starter,Danijel Kivaranovic,,2016-12-16T17:30:57.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,slothouber/symmetry-between-y-and-factor-values-over-time,Symmetry between Y and Factor values over time,Frans Slothouber,,2016-12-12T15:56:40.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,carrdelling/python-3-template,Python 3 Template,CarrDelling,,2016-12-10T18:33:28.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,vigilanf/heat-maps,Useful Heat Maps ,Frank V,,2016-12-14T20:58:45.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,devinanzelmo/kagglegym-emulation-fork,kagglegym_emulation_fork,Devin Anzelmo,,2016-12-04T01:27:22.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,halboffen/exploring-instruments,Exploring Instruments,Peter Bruhn,,2016-12-04T15:42:05.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,joconnor/id-exploration-notebook,ID Exploration Notebook,joconnor,,2016-12-02T12:23:13.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,two-sigma-financial-modeling
+,,,,,0,pgorshenin/technical-16-friend-of-time,technical 16 - friend of  time,PGorshenin,,2017-03-16T07:40:43.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,qingnan/public-private-lb-correlation,Public/Private LB correlation,QingnanTang,,2017-03-03T11:46:40.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,happycube/two-sigma-03-shorter-version,two-sigma-03 (shorter version),happycube,,2017-03-03T15:39:22.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,mohmmedshoeb/relation-bw-id-and-timestamp,Relation bw id and timestamp,mohmmed shoeb,,2017-02-24T05:43:23.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,dataer/eda-data-frame-hd5-vs-first-half,EDA:  Data frame(HD5)  vs.  first half,KrishnaprabhaChari,,2017-03-03T01:28:16.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,wangruixin/etr-15-maxdepth10-0-034,etr-15_maxdepth10_0.034,RX_wang,,2017-02-22T12:48:07.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,nshetty/grouping-data-based-on-missing-values,Grouping data based on missing values,kaBung,,2017-02-07T11:15:08.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,johnlovelove/financial-time-series-2s,Financial time series 2s,Dragos C.,,2017-02-06T20:18:49.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,fbykov/rolling-regression,Rolling Regression_,Filipp Bykov,,2017-02-07T10:15:29.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,yyakaule/kaggle,Kaggle,Yauheni Yakauleu,,2017-03-04T02:31:58.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,richardmore/about-overfitting,About Overfitting ,fu miao,,2017-01-10T02:03:51.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,abhilashawasthi/initial-script-xgb,initial_script_xgb,Abhilash Awasthi,,2017-01-08T12:42:37.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,hsliuustc/twosigma-trial,twosigma_trial,hsliu,,2016-12-28T02:54:36.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,ajoo88/mean-baseline,Mean Baseline,ajoo,,2016-12-27T22:47:53.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,luckylwk/relative-strenght-index-rsi-analysis,Relative Strenght Index (RSI) Analysis,lucklylwk,,2016-12-28T22:36:39.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,byfone/triple,strongwind,Byfone,,2017-02-19T17:17:10.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,dremovd/y-clips,"y ""clips""",Dmitry Dryomov,,2016-12-16T21:18:05.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,priyaranade/test-again,test again,novice,,2016-12-11T15:55:02.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,keijiyoshida/check-env,check-env,keijiyoshida,,2016-12-05T07:48:08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,junfeng/xgb-run,XGB Run,junfeng,,2016-12-05T03:07:21.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,slothouber/apitest,APITest,Frans Slothouber,,2016-12-04T10:23:32.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,two-sigma-financial-modeling
+,,,,,0,samericksondev/splitting-on-tech-20-30,Splitting on tech_20_30,Sam Erickson,,2017-03-12T00:06:24.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,tks0123456789/xgb-905-001,xgb_905_001,tks,,2017-02-27T16:46:51.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,savvok/2spgs3,2spgs3,sswt,,2017-02-23T21:20:49.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,tarobxl/notebook0abb3636db,Notebook0abb3636db,tarobxl,,2017-02-23T21:50:33.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,maheshak04/extract-important-features,#extract important  features ,Mahesh Kulkarni,,2017-02-08T05:14:49.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,dave4ml/financial-time-series,Financial time series,Sam,,2017-02-06T18:00:03.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,gouxute1/the-number-of-new-instruments-in-test-data,The number of new instruments  in test data ,gouxute,,2017-02-03T07:26:20.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,nikhilhegde9/run-time-issue,Run_Time_issue,NikhilHegde,,2017-01-31T14:52:08.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,clientno23/simple-exploration-notebook,Simple Exploration Notebook,Sarthak Agarwal,,2017-01-30T23:04:27.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,happycube/cliptest,cliptest,happycube,,2017-01-23T01:26:42.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,sshleifer/change-random-state,change_random_state,Sam Shleifer,,2017-02-07T06:23:31.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,yuanwang688/yuan-exploratory,Yuan Exploratory,YuanWang,,2017-02-05T17:29:53.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,chengde001/data-overview-for-beginer,data overview for beginer,ChengdePiao,,2017-01-03T10:11:25.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,aliajouz/changing-the-active-model-using-reward,Changing the active model using reward ,Ali,,2016-12-31T22:50:21.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,scirpus/gp-model-ii,GP Model II,Scirpus,,2016-12-31T08:53:52.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,alemozz/visualisation-focus-on-timestamps-ids,"Visualisation, focus on timestamps IDs",Alessandro,,2016-12-30T14:26:35.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,elguille/regression-on-2nd-diff-on-tech20-sub,Regression on 2nd diff on tech20 sub,Guille Rmo,,2016-12-13T18:44:34.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,keijiyoshida/visualization-of-the-time-series-training-data,Visualization of the Time Series Training Data,keijiyoshida,,2016-12-09T03:58:49.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,franklinma/warriors-playground-1,Warriors Playground_1,FranklinMa,,2016-12-06T03:29:48.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,freeman89/id-and-timestamp-structure-eda,Id and Timestamp structure (EDA),Kostadinov,,2016-12-05T21:40:47.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,leadbest/xgboost-experiment,XGBoost Experiment,HDKIM,,2016-12-15T09:38:36.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,tobikaggle/univariate-model,Univariate model,DDgg,,2016-12-14T07:05:46.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,yhyu13/univariate-analysis-regression-forked,Univariate Analysis & Regression (forked),Hang(Yohan) Yu,,2016-12-18T18:14:24.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,richardmore/model1-5,Model1.5,fu miao,,2016-12-31T15:29:52.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,yhyu13/kaggle-gym-api-overview-forked,Kaggle Gym API Overview (forked),Hang(Yohan) Yu,,2016-12-01T23:18:01.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,two-sigma-financial-modeling
+,,,,,0,rahulsen0/simple-exploration-notebook,Simple Exploration Notebook,rahul sen0,,2020-04-26T13:32:04.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,pickou/team-rocket-13,Team Rocket #13,pickou,,2017-10-26T07:46:14.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,webraai/two-sigma-initial-script,two sigma initial script,Webra,,2017-06-12T22:21:38.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,sealuxh/notebookaad103e4e5,Notebookaad103e4e5,sealuxh,,2017-06-09T09:38:13.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,sealuxh/two-sigma,two sigma,sealuxh,,2017-06-09T09:35:00.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,galeiva2002/notebook8ce3a2d913,Notebook8ce3a2d913,GLG2014,,2017-06-02T15:59:44.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,galeiva2002/notebooke2346e1afc,Notebooke2346e1afc,GLG2014,,2017-06-02T15:54:21.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,galeiva2002/firstsub,FirstSub,GLG2014,,2017-06-02T14:25:39.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,nyaonyao/notebook1d7e4adfe1,Notebook1d7e4adfe1,nyaonyao,,2017-06-02T08:50:29.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,machinesearch/test1,Test1,MachineSearch,,2017-05-29T16:22:42.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,lucidus21/notebook00f1f3e286,Notebook00f1f3e286,Beomjun Shin,,2017-05-26T10:10:37.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,harshdeep/notebook6f6bcbdb83,Notebook6f6bcbdb83,Harshdeep Singh,,2017-05-21T10:12:29.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,lillyx/notebook689b2838f6,Notebook689b2838f6,LillyXia,,2017-05-15T20:12:13.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,wangruixin/two-sigma-2017-5-14,two_sigma 2017-5-14,RX_wang,,2017-05-14T05:59:55.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,ganakar/eda-for-sigma-financial-model,EDA for Sigma Financial Model,ganakar,,2017-05-15T06:33:36.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,jeffmoser/notebookcb27654726,Notebookcb27654726,Jeff Moser,,2017-05-11T17:09:08.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,mohmmedshoeb/notebook6c08b33a0e,Notebook6c08b33a0e,mohmmed shoeb,,2017-05-05T05:31:16.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,mohmmedshoeb/notebook71ba5859e1,Notebook71ba5859e1,mohmmed shoeb,,2017-05-04T06:37:03.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,tracy717/notebookaab1bc122c,Notebookaab1bc122c,Tracy,,2017-05-04T03:29:12.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,mohmmedshoeb/notebook4b42931667,Notebook4b42931667,mohmmed shoeb,,2017-05-03T16:44:47.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,nikepupu/notebookc8cc8ffd7d,Notebookc8cc8ffd7d,nikepupu,,2017-05-03T01:53:09.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,ikmalpani/notebook66a68eff9e,Notebook66a68eff9e,KeshavMalpani,,2017-04-11T23:12:03.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,pgorshenin/technical-20-and-technical-30-again,technical_20 and technical_30 again,PGorshenin,,2017-03-17T07:54:18.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,paulperry/technical-16-friend-of-time,technical 16 - friend of  time,paulperry,,2017-03-15T21:11:23.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,dataer/arima-modeling-assetid-based-timeseries,ARIMA  Modeling AssetID-based Timeseries,KrishnaprabhaChari,,2017-03-09T01:35:25.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,dataer/dictbasedassetidtimeseriesgeneration,DictbasedAssetIDTimeseriesGeneration,KrishnaprabhaChari,,2017-03-08T00:31:34.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,akilaw/twosigma-pg-elasticnetcv-and-id-level-avg,Twosigma PG + ElasticNetCV and ID level avg,Akila Wajirasena,,2017-03-03T05:30:35.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,kahuna/use-of-correlation-over-short-time-periods,Use of correlation over short time periods?,Kahuna,,2017-03-03T00:17:27.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,republic966/online-learning-027-offline-result,Online Learning (.027 offline result),Ahmed Mostafa,,2017-03-01T21:10:11.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,republic966/univariate-linear-regresssion-with-trained-weights,Univariate Linear Regresssion with trained weights,Ahmed Mostafa,,2017-03-01T20:58:34.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,den3b81/simple-autoregressive-pub-score-0-025-submit-fail,"simple_autoregressive Pub.Score~0.025,Submit=FAIL",den3b,,2017-03-01T17:07:45.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,happycube/202-with-two-feature-xgb,.202 with two-feature xgb,happycube,,2017-03-01T08:27:24.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,paulperry/test-kernel,test_kernel,paulperry,,2017-02-28T20:43:00.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,kma053/nu-kenia-mazier-predict2013-mid,NU-Kenia_Mazier_Predict2013_Mid,Kenia Mazier,,2017-03-08T01:32:52.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,republic966/kaggle-gym-api-overview-1,Kaggle Gym API Overview 1,Ahmed Mostafa,,2017-02-27T22:44:34.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,fernandocanteruccio/twosigma-xgboost-sklearn-pipeline,TWOSIGMA XGBoost Sklearn Pipeline,Fernando Canteruccio,,2017-03-04T14:32:51.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,kangminyoo/tensorflow-feed-forward-neural-network,Tensorflow Feed Forward Neural Network,Kang Min Yoo,,2017-02-28T08:45:27.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,chelimin/twosigma-ch-xgboost,TwoSigma_CH_XGBoost,Catherine,,2017-02-27T03:27:06.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,republic966/sample,Sample,Ahmed Mostafa,,2017-03-01T23:09:01.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,gosh76/scriptn41,ScriptN41,gosh76,,2017-02-24T13:05:22.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,tobikaggle/two-sigma-playground,Two sigma playground,DDgg,,2017-02-23T05:45:26.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,adolphe/two-sigma,two sigma,lakaz,,2017-03-01T21:45:57.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,namesj/arbit20,arbit20,Nim J,,2017-03-01T06:52:09.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,lightone/testing-pca,Testing PCA ,PauloEstebanOlveira,,2017-02-16T21:41:39.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,kwantdaataa/testscript,testScript,KwantDaataa,,2017-02-14T16:11:43.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,tukichen/financial-modeling,Financial Modeling,ChenTuki,,2017-02-01T14:33:13.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,mbiardzka/fork-of-notebook891fb75eb1,Fork of Notebook891fb75eb1,SW,,2017-01-30T00:50:04.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,dysonlin/two-sigma-financial-modeling-challenge,Two Sigma Financial Modeling Challenge,林湧森 (Dyson Lin),,2017-01-29T18:18:59.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,andreibalandin/jan-27-decor,jan-27-decor,Andrei Balandin,,2017-01-27T20:21:32.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,andreibalandin/feb-23-comb,feb-23-comb,Andrei Balandin,,2017-03-01T17:52:38.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,amazone/gaussian-process-regression-non-linear-kernels,Gaussian Process regression: non-linear Kernels,hawks10,,2017-02-04T20:08:45.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,rcasellas/descriptive-statistics-and-dealing-with-dirty-data,Descriptive Statistics and Dealing with Dirty Data,Rafael Casellas,,2017-01-28T19:26:16.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,olegmelnikov/issue-fixed,issue fixed...,Oleg Melnikov,,2017-01-23T23:15:50.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,wenyafan/two-sigma-linear-function,Two Sigma - Linear function ,wenyafan,,2017-01-30T19:15:00.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,wenyafan/test2,test2,wenyafan,,2017-01-20T17:58:48.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,pranavj/rl-with-laws-of-physics,RL_with_laws_of_physics,Pranav Jindal,,2017-02-28T07:20:08.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,anandjeyahar/lassoregression-with-y-cut-all-features,LassoRegression with y_cut all features,Anand Jeyahar,,2017-01-20T11:53:22.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,kuzn137/simpleridge,SimpleRidge,Inga Kuznetsova,,2017-01-19T09:24:04.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,kamilsa/why-i-obtain-an-error,why I obtain an error,Kamil' Salakhiev,,2017-01-17T20:04:29.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,ysharma1126/univariate-analysis-regression-lb-0-006,Univariate Analysis & Regression (LB : 0.006),Yash Sharma,,2017-01-16T06:50:19.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,ysharma1126/simple-exploration-notebook,Simple Exploration Notebook,Yash Sharma,,2017-01-16T00:15:04.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,longint/winter-n120,WinteR-n120,longint,,2017-02-13T03:50:48.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,rcasellas/multiple-regression-analysis-test,Multiple Regression Analysis Test,Rafael Casellas,,2017-02-07T23:41:53.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,jasonlei/investigating-data,Investigating data,JasonLei,,2017-01-13T14:13:37.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,mikekutzma/notebookaa24238dad,Exploration,Mike Kutzma,,2017-01-02T16:30:14.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,binilg/newyeargift,NewYearGift,Binil,,2016-12-31T23:15:58.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,grfiv4/notebook57bf6ac8e4,Notebook57bf6ac8e4,George Fisher,,2016-12-31T19:37:12.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,ysharma1126/cooper,Cooper,Yash Sharma,,2017-01-05T18:22:15.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,threecourse/assertion-script,assertion script,threecourse,,2017-01-02T15:02:12.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,scirpus/gp-model,GP Model,Scirpus,,2016-12-30T12:56:35.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,amanrana20/arana-mlp-regression,arana_mlp_regression,Aman Rana,,2017-01-25T03:09:43.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,vivekka93/exploration-of-time-stamp,Exploration of time stamp,Vivek Karna,,2016-12-21T12:21:25.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,degraw/xnnauenc1x,XNNAuEnc1X,double-d,,2016-12-31T07:25:50.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,paolobozzola/two-sigma-v2-pb,Two_Sigma_v2_PB,Paolo Bozzola,,2016-12-19T08:07:57.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,lzbthb/two-sigma-exploratory,Two Sigma Exploratory,ElizabethBaumeister,,2016-12-15T03:47:41.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,mtinti/combined-1,combined_1,MT,,2016-12-16T11:57:22.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,impulsecorp/linear-regression,Linear regression,impulsecorp,,2016-12-25T03:35:02.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,priyaranade/differencing-and-stationarity-across-time,Differencing and stationarity (across time),novice,,2016-12-13T00:28:36.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,raistorx/xgboost,xgboost ,Alex B,,2016-12-11T08:28:47.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,priyaranade/correlation-across-means,correlation across means,novice,,2016-12-09T14:22:08.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,simonhefl/test-1,test_1,Simon,,2016-12-07T10:56:40.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,slothouber/model-avg2,Model_Avg2,Frans Slothouber,,2016-12-07T19:17:07.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,halboffen/prova3,prova3,Peter Bruhn,,2016-12-07T22:23:26.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,pjbutcher/notebook89371d62f0,Notebook89371d62f0,Phil Butcher,,2016-12-06T05:25:05.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,leadbest/univariate-model-with-clip,Univariate model with clip,HDKIM,,2016-12-13T22:42:01.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,devinanzelmo/bug-kagglegym-reset,bug kagglegym reset,Devin Anzelmo,,2016-12-04T17:36:11.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,paolom67/prova3,prova3,Paolo M.,,2016-12-06T10:34:41.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,richjohnson/lasso-submission-1,Lasso Submission 1,Dick Johnson,,2016-12-03T21:48:40.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,poulet/local-kagglegym-fakegym,Local kagglegym (FakeGym),Poulet,,2016-12-04T21:47:42.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,spikyspider/two-sigma-time-travel-eda,Two Sigma Time Travel (EDA),Yeshwanth,,2016-12-02T09:12:01.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling
+,,,,,0,keithbaum/notebooka804b58274,TestNB,Nicolas Baum,,2016-12-01T19:51:38.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,two-sigma-financial-modeling

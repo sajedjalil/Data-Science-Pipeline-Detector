@@ -1,0 +1,19 @@
+# This Python 3 environment comes with many helpful analytics libraries installed
+# It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
+# For example, here's several helpful packages to load in 
+
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+
+# Input data files are available in the "../input/" directory.
+# For example, running this (by clicking run or pressing Shift+Enter) will list the files in the input directory
+
+from subprocess import check_output
+print(check_output(["ls", "../input"]).decode("utf8"))
+
+submission = pd.read_csv("../input/stage2_sample_submission.csv")
+
+submission.Probability = np.random.rand(submission.shape[0])
+submission.to_csv("random_submission.csv", index=False)
+
+# Any results you write to the current directory are saved as output.

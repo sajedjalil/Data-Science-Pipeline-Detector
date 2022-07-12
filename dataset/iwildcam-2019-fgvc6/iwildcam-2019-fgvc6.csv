@@ -1,0 +1,45 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,zfturbo/benchmark-2019-speed-of-image-reading,Benchmark 2019: Speed of image reading,ZFTurbo,,2019-07-08T18:36:07.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,iwildcam-2019-fgvc6
+,,,,,0,seriousran/image-pre-processing-for-wild-images,Image Pre-processing for Wild Images,Chanran Kim,,2019-03-27T02:01:12.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],95,iwildcam-2019-fgvc6
+,,,,,0,gpreda/iwildcam-2019-eda-and-prediction,iWildCam 2019 EDA and Prediction,Gabriel Preda,,2019-05-21T19:31:45.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,iwildcam-2019-fgvc6
+,,,,,0,ateplyuk/iwildcam2019-pytorch-starter,iWildCam2019 PyTorch Starter,Alexander Teplyuk,,2019-04-12T05:38:45.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,iwildcam-2019-fgvc6
+,,,,,0,ateplyuk/iwildcam2019-keras-efficientnet,iWildCam2019 Keras Efficientnet,Alexander Teplyuk,,2019-03-27T05:54:01.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,iwildcam-2019-fgvc6
+,,,,,0,xhlulu/densenet-transfer-learning-iwildcam-2019,DenseNet Transfer Learning - iWildCam 2019,xhlulu,,2019-03-29T00:02:13.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,iwildcam-2019-fgvc6
+,,,,,0,xhlulu/reducing-image-sizes-to-32x32,Reducing Image Sizes to 32x32,xhlulu,,2019-03-27T01:59:14.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,iwildcam-2019-fgvc6
+,,,,,0,artgor/iwildcam-basic-eda,iWildCam basic EDA,Andrew Lukyanenko,,2019-03-26T04:35:16.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,iwildcam-2019-fgvc6
+,,,,,0,tanlikesmath/fastai-starter-iwildcam-2019,fastai starter - iWildCam 2019,ilovescience,,2019-05-26T01:45:45.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,iwildcam-2019-fgvc6
+,,,,,0,xhlulu/cnn-baseline-iwildcam-2019,CNN Baseline - iWildCam 2019,xhlulu,,2019-03-27T18:01:55.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,iwildcam-2019-fgvc6
+,,,,,0,akumaldo/resnet-from-scratch-keras,RESNET from scratch - KERAS ,Bruno Aldo Lunardi,,2019-05-19T14:11:11.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,iwildcam-2019-fgvc6
+,,,,,0,bonhart/pytorch-eda-and-resnet,[PyTorch] EDA and ResNet,Bonhart,,2019-05-08T16:23:52.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,iwildcam-2019-fgvc6
+,,,,,0,joocheol/train-on-pretrained-model,Train on pretrained model,Joocheol,,2019-05-11T02:51:09.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,iwildcam-2019-fgvc6
+,,,,,0,a45632/eda-iwildcam-2019-v1-1,EDA iWildCam 2019 v1.1,Eric Vos,,2019-03-27T06:12:21.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,iwildcam-2019-fgvc6
+,,,,,0,kokecacao/a-brief-data-exploration-for-iwildcam,A Brief Data Exploration for iWildCam,Hanke Chen,,2019-03-25T22:12:33.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,iwildcam-2019-fgvc6
+,,,,,0,benjibb/fastai-with-senet154,fastai with senet154,Ben Fung,,2019-06-01T11:48:12.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,iwildcam-2019-fgvc6
+,,,,,0,twhitehurst3/keras-transfer-learning-iwildcam-2019,Keras Transfer Learning - iWildCam 2019,Terrance Whitehurst,,2019-04-04T00:20:38.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,iwildcam-2019-fgvc6
+,,,,,0,rbarman/iwildcam-2019-inat-idaho-resized,iWildCam 2019 + iNat Idaho - Resized,rwx_rwx,,2019-04-01T00:37:20.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,iwildcam-2019-fgvc6
+,,,,,0,a03102030/simple-cnn-for-top-10000-data,simple CNN for Top 10000 data,Jensen,,2019-09-21T06:35:54.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2019-fgvc6
+,,,,,0,aditya100/iwildcam-2019,iWildCam -2019,Aditya Dehal,,2019-07-08T13:15:25.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2019-fgvc6
+,,,,,0,shahkan/classification-of-wild-animals,Classification of wild animals,Kanish Shah,,2019-06-19T11:11:14.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2019-fgvc6
+,,,,,0,autuanliuyc/iwildcam-2019-densenet-se-resnet152,iwildcam-2019-Densenet/se_resnet152,云不懂风吹,,2019-05-21T06:42:44.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2019-fgvc6
+,,,,,0,hrush777/data-processing-iwildcam-2019,Data_Processing (iWildCam 2019),Hrushikesh Vitthal Vanga,,2019-04-06T16:35:40.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2019-fgvc6
+,,,,,0,qaqwsw123/fastai-starter-iwildcam-2019-ad561b,fastai starter - iWildCam 2019 ad561b,Stan_Lin,,2019-07-26T03:57:18.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,s3chwartz/iwildcam-2019,iWildCam 2019,singing man,,2019-06-03T17:36:17.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,vinommathewz/iwildcam-2019-pucho-internship-task,iWildCam 2019 - Pucho Internship Task,Vino M  Mathew,,2019-05-28T16:20:37.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,sofyafenicheva/kernele92a7946e4,kernele92a7946e4,Sofya  Fenicheva,,2019-05-21T08:43:22.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,khiwila/kernelb5c64454eb,kernelb5c64454eb,Jose Muñoz,,2019-05-17T08:23:55.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,cedriclacrambe/autokeras-iwildcvam,autokeras iwildcvam,Cédric Lacrambe,,2020-12-15T20:17:05.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,joocheol/let-s-make-tfrecord-simple-version,Let's make TFRecord - Simple Version,Joocheol,,2019-04-23T01:15:04.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,madisonchung/fri12apr-qrm,Fri12Apr_QRM,YUJ,,2019-04-12T07:58:47.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,hrush777/densenet121-transfer-learning,Densenet121_Transfer_Learning,Hrushikesh Vitthal Vanga,,2019-04-07T09:37:28.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,bostoncp/kernel228a58319c,kernel228a58319c,Christian Boston,,2019-04-30T23:27:50.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2019-fgvc6
+,,,,,0,cptfoobar/eda-iwc19,EDA-iWC19,Sidhant Sharma,,2021-01-25T06:30:40.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,shelvia/deeper-tl-iwildcam2019-effnetlite-b0,Deeper_TL_iWildCam2019_EffNetLite_B0,shelvia,,2020-06-21T16:04:12.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,rudegs/competition-image-test,Competition image test,rudeg,,2019-08-23T15:06:10.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,aarthira/iwildcam-image-classification,iwildcam image classification,Aarthi Rajagopal,,2019-05-31T18:25:00.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,overload10/fastai,FastAI,Overfitting,,2019-05-13T12:18:19.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,madisonchung/fri19apr-qrm-imgconversion-tfrecord,Fri19Apr_QRM_ImgConversion&TFRecord,YUJ,,2019-04-19T06:31:49.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,joocheol/tfrecord,TFRecord,Joocheol,,2019-04-21T19:46:55.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,jy199412/fe-13th-april-yonsei,FE 13th April_YONSEI,cecil kim,,2019-04-13T10:17:47.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,ashyy1552/4-12-class-notes-with-competition-data,4-12 CLASS NOTES with Competition DATA,Najung Kim,,2019-04-12T06:43:34.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,kumar1541/resnet-in-keras,ResNet in keras,kumar,,2019-04-10T09:01:32.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6
+,,,,,0,kumar1541/wildcam-classification,wildcam_classification,kumar,,2019-04-12T05:15:10.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2019-fgvc6

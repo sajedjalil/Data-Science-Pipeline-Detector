@@ -1,0 +1,86 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,yegorbiryukov/gfootball-with-memory-patterns,GFootball with Memory Patterns,Yegor Biryukov,,2020-11-08T21:02:07.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],192,google-football
+,,,,,0,piotrstanczyk/gfootball-template-bot,GFootball Template Bot,Piotr Stanczyk,,2020-10-27T14:49:03.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],156,google-football
+,,,,,0,sx2154/gfootball-rules-from-environment-exploration,GFootball Rules from Environment Exploration,sx2154,,2020-10-01T16:28:58.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,google-football
+,,,,,0,piotrstanczyk/gfootball-train-seed-rl-agent,GFootball - train SEED RL agent,Piotr Stanczyk,,2020-10-27T14:49:19.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],86,google-football
+,,,,,0,jaronmichal/human-readable-visualization,Human readable visualization,jaron_michal,,2020-10-09T10:15:45.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],78,google-football
+,,,,,0,garethjns/convolutional-deep-q-learner,Convolutional Deep-Q learner,GarethJones,,2020-11-01T16:25:08.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,google-football
+,,,,,0,tchaye59/gfootball-ppo-agent,GFootball PPO-Agent,Jude TCHAYE,,2020-11-14T04:48:37.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,google-football
+,,,,,0,robga/google-football-episode-scraper,Google Football Episode Scraper,robga,,2020-09-29T15:04:33.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,google-football
+,,,,,0,kwabenantim/gfootball-academy,GFootball Academy,Kwabena,,2020-11-10T22:40:49.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,google-football
+,,,,,0,eugenkeil/simple-baseline-bot,simple baseline bot,Eugen Keil,,2020-10-07T09:15:02.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,google-football
+,,,,,0,garethjns/gfootball-apis-and-linear-q-learner-example,GFootball APIs and linear Q-learner example,GarethJones,,2020-10-17T17:35:36.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,google-football
+,,,,,0,garethjns/deep-q-learner-starter-code,Deep Q-learner starter code,GarethJones,,2020-10-17T16:15:28.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,google-football
+,,,,,0,mlconsult/1149-ish-bot-rl-approximation,1149 ish bot RL approximation,Ken Miller,,2020-11-05T01:52:15.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,google-football
+,,,,,0,seriousran/ready-to-dev-gfootball-rl-agent-baseline-tf2,[Ready to DEV] GFootball - RL agent Baseline TF2,Chanran Kim,,2020-09-29T02:28:27.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,google-football
+,,,,,0,devanshu125/starter-notebook,Starter notebook,Devanshu Ramaiya,,2020-09-29T10:06:18.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,google-football
+,,,,,0,iiyamaiiyama/s-toppo-solution-lb-1400,s_toppo solution LB 1400,s_shohei,,2020-12-02T10:02:40.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,google-football
+,,,,,0,kwabenantim/gfootball-stable-baselines3,GFootball Stable-Baselines3,Kwabena,,2020-12-01T16:48:10.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,google-football
+,,,,,0,kuto0633/gfootball-modified-rainbow-dqn-pfrl,GFootball: Modified-Rainbow-DQN [PFRL],kuto,,2020-10-21T11:59:36.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,google-football
+,,,,,0,mlconsult/best-open-rules-bot-score-1020-7,best open rules bot score 1020.7,Ken Miller,,2020-10-17T13:15:24.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,google-football
+,,,,,0,digimagi/12th-place-solution-ml-approach-lb-1395,"12th Place Solution(ML approach, LB 1395)",digimagi,,2020-12-16T12:38:52.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,google-football
+,,,,,0,tomkelly0/lightgbm-10mins-940,LightGBM+10mins=940,Tom Kelly,,2020-10-27T16:01:26.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,google-football
+,,,,,0,shotaro/optimizing-tunable-bot-with-optuna,Optimizing Tunable Bot with Optuna,Shotaro Sano,,2020-10-19T13:26:35.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,google-football
+,,,,,0,kuto0633/gfootball-rainbow-dqn-pfrl,GFootball: Rainbow-DQN [PFRL],kuto,,2020-10-14T01:10:59.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,google-football
+,,,,,0,ringhilterra17/local-agent-evaluation-framework,Local Agent Evaluation Framework,ringhilterra17,,2020-11-08T20:43:50.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,google-football
+,,,,,0,taahakhan/vectorized-readable-agent-for-starting-out,Vectorized Readable Agent for Starting Out,Taaha Khan,,2020-11-27T05:09:26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,google-football
+,,,,,0,koza4ukdmitrij/smartcontrolstrategy,SmartControlStrategy,Dmitrij Kozachuk,,2020-09-30T16:21:40.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,google-football
+,,,,,0,rmibizet/convolutional-deep-q-learning-gfootball-agent,Convolutional Deep-Q-Learning GFootball Agent,Rémi Bizet,,2020-11-14T20:17:09.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,google-football
+,,,,,0,rmibizet/json-replay-file-to-v115-representation,JSON Replay File to v115 Representation,Rémi Bizet,,2020-11-19T17:46:55.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,google-football
+,,,,,0,rmibizet/fixed-google-football-episode-scraper,Fixed Google Football Episode Scraper,Rémi Bizet,,2020-11-21T11:16:32.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,google-football
+,,,,,0,yamatokataoka/train-agent-with-rl-replicas,Train agent with RL Replicas,yamato,,2020-11-18T09:59:50.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,google-football
+,,,,,0,gunhcolab/self-advancements-rn,self advancements RN,Gunjan Haldar,,2020-11-29T07:13:54.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,google-football
+,,,,,0,sgzou2000/reinforcement-learning-with-modified-rewards,Reinforcement Learning with Modified Rewards,Shou-JyunZou,,2021-01-26T08:31:53.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,google-football
+,,,,,0,felipebihaiek/google-football-episode-scraper-quick-fix,Google Football Episode Scraper quick fix,Felipe Bivort Haiek,,2020-11-17T16:13:07.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,google-football
+,,,,,0,huiunited/hui-gfootball-with-memory-patterns-from-yegor,Hui GFootball with Memory Patterns from Yegor,HuiUnited,,2020-12-17T06:32:27.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,google-football
+,,,,,0,jserenity/gfootball-env-observation-and-submit-tips,Gfootball env observation and submit tips,Shuai,,2020-10-14T06:13:58.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,google-football
+,,,,,0,jagdmir/let-s-play-football,Let's Play Football,Jagdish Mirchandani,,2020-10-09T13:13:32.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,google-football
+,,,,,0,yamatokataoka/how-to-continue-your-training-with-rl-replicas,How to continue your training with RL Replicas,yamato,,2020-11-18T11:16:32.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,google-football
+,,,,,0,imoore/football-simple-sample,Football-Simple Sample,Moore,,2020-11-01T18:02:53.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,google-football
+,,,,,0,antonioarci/clingo-agent-get-started,Clingo Agent Get Started,Antonio Arci,,2020-11-22T21:49:03.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,google-football
+,,,,,0,arunprathap/interpreting-replay-json,Interpreting Replay JSON,Arun P R,,2020-10-01T12:34:25.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,google-football
+,,,,,0,morizin/gfootball-train-seed-rl-agent,GFootball - train SEED RL agent,Mohammed Rizin V K,,2020-09-29T07:45:42.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,google-football
+,,,,,0,iiyamaiiyama/clustering-agents,clustering agents,s_shohei,,2020-12-02T10:16:26.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,google-football
+,,,,,0,bitcrunch/dqn-with-expanded-wrapper-115v3,DQN - with expanded wrapper - 115v3!,Sebastian S,,2020-11-03T16:29:03.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,google-football
+,,,,,0,illidan7/marauding-wingers-score-1041-1,Marauding wingers - Score 1041.1,Illidan7,,2020-11-09T17:14:26.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,google-football
+,,,,,0,denisvodchyts/dqn-tf-agent-with-rule-base-collection-policy,DQN TF-Agent with rule base collection policy,Denis Vodchyts,,2020-11-01T14:03:35.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,google-football
+,,,,,0,lumierebatalong/gfootball-machine-learning,gFootball Machine Learning,Massock Batalong Maurice Blaise,,2020-10-16T00:30:45.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,google-football
+,,,,,0,koza4ukdmitrij/what-s-wrong-with-y,What's wrong with y?,Dmitrij Kozachuk,,2020-10-02T11:29:32.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,google-football
+,,,,,0,arunprathap/a-traditional-data-science-approach,A Traditional Data Science Approach,Arun P R,,2020-10-01T13:26:14.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,google-football
+,,,,,0,wagnerikeda/game-visualization,Game Visualization,wagnerikeda,,2020-12-06T11:22:42.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,google-football
+,,,,,0,kuto0633/kutopon-s-pretrained-seed-rl-model-with-1625m,kutopon's pretrained SEED-RL model with 1625M,kuto,,2020-12-02T15:09:15.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,google-football
+,,,,,0,gshirato/very-first-beginner-kernel-for-overwhelmed-ones,Very first beginner kernel (for overwhelmed ones),gota,,2020-11-07T19:01:58.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,google-football
+,,,,,0,lviano/gail-football,GAIL_football,Luca Viano,,2020-11-18T12:17:08.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,google-football
+,,,,,0,arunprathap/replay-json-eda-i,Replay JSON EDA - I,Arun P R,,2020-10-02T16:41:24.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,google-football
+,,,,,0,sinaasappel/strange-behaviour-run-left-agent,Strange behaviour run_left agent,Anika,,2020-10-02T08:03:34.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,google-football
+,,,,,0,jazivxt/beautiful-bot-game,Beautiful Bot Game,Daniel Preciado,,2020-12-02T04:29:19.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,google-football
+,,,,,0,buraksimsek/gfootball,GFootball,Burak SIMSEK,,2020-11-23T11:30:16.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,google-football
+,,,,,0,bitcrunch/booster-pack-for-everyone,Booster pack for EVERYONE !,Sebastian S,,2020-12-02T12:07:07.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,google-football
+,,,,,0,swapnilbhange/baseline-bot,Baseline Bot,Swapnil Bhange,,2020-11-19T05:45:05.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,google-football
+,,,,,0,felipebihaiek/convolutional-deep-q-learner,Convolutional Deep-Q learner,Felipe Bivort Haiek,,2020-11-13T23:06:49.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,google-football
+,,,,,0,lolik228/a2c-try,A2C_try,Lolik,,2020-11-24T14:11:32.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,google-football
+,,,,,0,dzhonghua/gfootball,gfootball,dzhonghua,,2020-11-12T08:56:07.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,google-football
+,,,,,0,tchaye59/gfootball-ppo-simpleagent,GFootball PPO-SimpleAgent,Jude TCHAYE,,2020-11-14T04:30:13.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,google-football
+,,,,,0,marcusschaller/kutopon-s-pretrained-seed-rl-model-with-1625m,kutopon's pretrained SEED-RL model with 1625M,Marcus Schaller,,2021-03-18T17:59:16.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,oscargarciaf/gfootball-stable-baselines3,GFootball Stable-Baselines3,OscarGarciaF,,2020-12-09T01:14:55.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,vinnieantunes/train-agent-with-rl-replicas,Train agent with RL Replicas,Vinícius Antunes de Proença,,2020-12-02T18:21:31.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,digimagi/gf-get-episodes-18127517-nov28,gf_get_episodes_18127517_Nov28,digimagi,,2020-11-28T04:14:37.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,digimagi/gf-get-episodes-18239675-nov28,gf_get_episodes_18239675_Nov28,digimagi,,2020-11-28T04:14:17.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,s23deepak/gfootball-dqn,GFootball-DQN,Deepak Swaminathan,,2020-11-30T18:02:08.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,oscargarciaf/gfootball-modified-rainbow-dqn-pfrl,GFootball: Modified-Rainbow-DQN [PFRL],OscarGarciaF,,2020-11-26T18:07:48.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,wagnerikeda/get-game-history,get_game_history,wagnerikeda,,2020-11-17T21:38:00.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,jiahangtian/google-football-episode-scraper,Google Football Episode Scraper,Hank,,2020-11-17T08:09:21.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,gregschwartz18/hybrid-nn-defense-v2,Hybrid NN Defense v2,Greg Schwartz,,2020-12-08T04:33:19.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,wagnerikeda/is3d-episode,is3d_episode,wagnerikeda,,2020-11-15T10:06:30.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,akashsuper2000/deep-q-learner-starter-code,Deep Q-learner starter code,Akash G,,2020-11-11T03:13:03.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,akashsuper2000/1149-ish-bot-rl-approximation,1149 ish bot RL approximation,Akash G,,2020-11-11T03:07:56.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,kazumaitami/notebook93a09d0e2c,notebook93a09d0e2c,Kazuma Itami,,2020-11-06T00:00:52.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,mikezhang95/gfootball-with-memory-patterns,GFootball with Memory Patterns,Yuan Zhang,,2020-11-26T14:15:04.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,jcnunezmoreno/epv-pc-xg-metrica-release,EPV_PC_xG_Metrica_Release,jcnunezmoreno,,2020-10-27T13:43:24.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,akashsuper2000/gfootball-with-memory-patterns,GFootball with Memory Patterns,Akash G,,2020-10-27T03:36:53.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,liamblything/gfootball-template-bot-modified,GFootball Template Bot MODIFIED,Liam Blything,,2020-10-25T19:41:35.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,liamblything/gfootball-template-bot-oct,GFootball Template Bot OCT,Liam Blything,,2020-10-25T18:24:53.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,eladwar/dgl-football1,DGL Football1,Pythonian,,2020-10-27T21:43:49.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,mikezhang95/gfootball-template-bot,GFootball Template Bot,Yuan Zhang,,2020-11-04T18:51:52.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,harisme/gfootball-train-seed-rl-agent,GFootball - train SEED RL agent,haris,,2020-11-08T00:08:11.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football
+,,,,,0,goodisland/gfootball-template-bot,GFootball Template Bot,Ryo Shimada,,2020-10-04T00:42:38.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,google-football

@@ -1,0 +1,558 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,shahules/indian-way-to-learn-cnn,Indian way to learn CNN,Shahules,,2019-10-23T05:31:11.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],262,Kannada-MNIST
+,,,,,0,benanakca/kannada-mnist-cnn-tutorial-with-app-top-2,Kannada MNIST:CNN Tutorial with App.(Top %2),Benan AKCA,,2020-01-08T12:26:47.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,Kannada-MNIST
+,,,,,0,parulpandey/visualizing-kannada-mnist-with-t-sne,Visualizing Kannada MNIST with t-SNE,Parul Pandey,,2020-05-18T11:29:26.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],86,Kannada-MNIST
+,,,,,0,bustam/cnn-in-keras-for-kannada-digits,CNN in Keras for Kannada Digits,Ronald Bustamante,,2019-10-12T05:30:35.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,Kannada-MNIST
+,,,,,0,marcovasquez/basic-ml-logistic-dt-pca-xgboost,"Basic ML 🔢 Logistic, DT, PCA, XGBOOST",Marco Vasquez E,,2019-10-08T23:55:12.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,Kannada-MNIST
+,,,,,0,faressayah/tensorflow-2-tutorial-get-started-in-deep-learning,TensorFlow 2 Tutorial Get Started in Deep Learning,Fares Sayah,,2021-02-22T00:51:59.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,Kannada-MNIST
+,,,,,0,faressayah/fashion-mnist-classification-using-cnns,Fashion MNIST Classification using CNNs,Fares Sayah,,2021-12-22T12:35:58.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,Kannada-MNIST
+,,,,,0,abhinand05/k-mnist-ensemble-of-4-models-lb-0-985-starterkit,K-MNIST: Ensemble of 4 Models LB 0.985+ StarterKit,Abhinand,,2019-11-04T12:23:59.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,Kannada-MNIST
+,,,,,0,kenanajk/understanding-cnns-with-kannada-mnist,Understanding CNNs with Kannada-MNIST,Kenan Ajkunic,,2019-11-07T18:41:05.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,Kannada-MNIST
+,,,,,0,datahobbit/cnn-for-digit-recognition-in-the-kannada-script,CNN for Digit Recognition in the Kannada script ,MichaelP,,2020-01-03T00:04:12.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,Kannada-MNIST
+,,,,,0,nnquangw/kannanda-mnist-how-i-get-to-9th-position,Kannanda-MNIST - How I get to 9th position,Nhat Quang,,2019-12-20T04:37:32.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,Kannada-MNIST
+,,,,,0,parulpandey/part1-visualizing-kannada-mnist-with-pca,Part1: Visualizing Kannada MNIST with PCA,Parul Pandey,,2020-02-27T11:17:35.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,Kannada-MNIST
+,,,,,0,hocop1/manifold-mixup-using-pytorch,Manifold mixup using PyTorch,Ruslan Baynazarov,,2019-09-22T19:15:30.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,Kannada-MNIST
+,,,,,0,deepakdeepu8978/kannada-mnist-using-cnn-with-acc-98,Kannada MNIST using CNN with acc 98%,Deepak Deepu,,2019-10-07T09:07:56.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,Kannada-MNIST
+,,,,,0,jinbao/kannada-mnist-baseline,Kannada-MNIST-baseline,Jinbao,,2019-10-22T00:57:16.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,Kannada-MNIST
+,,,,,0,subinium/t-sne-viz-on-kannada-mnist,T-SNE & Viz on Kannada MNIST ,Subin An,,2020-01-30T04:55:31.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,Kannada-MNIST
+,,,,,0,kaushal2896/kannada-mnist-using-cnn,Kannada MNIST using CNN,Kaushal Shah,,2019-09-29T12:39:56.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,Kannada-MNIST
+,,,,,0,faizu07/kannada-mnist-with-fastai,Kannada-MNIST with FASTAI,Md Faizan Azim,,2019-11-23T11:08:47.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,Kannada-MNIST
+,,,,,0,faressayah/digit-recognizer-using-anns-cnns,Digit Recognizer Using ANNs & CNNs,Fares Sayah,,2020-05-06T12:28:56.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,Kannada-MNIST
+,,,,,0,yonminma/keras-easy-with-0-9892-score,"Keras, easy with 0.9892 score",YonminMa,,2019-12-14T04:06:13.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,Kannada-MNIST
+,,,,,0,subinium/shap-deep-explainer-pytorch-ver,SHAP Deep Explainer (Pytorch Ver),Subin An,,2019-11-20T00:57:50.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,Kannada-MNIST
+,,,,,0,demonplus/kannada-mnist-with-fast-ai-and-resnet,Kannada-MNIST with fast.ai and resnet,Anna Novikova,,2019-10-29T17:11:29.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,Kannada-MNIST
+,,,,,0,rhodiumbeng/kannada-mnist-convolutional-neural-network,Kannada MNIST - Convolutional Neural Network,Hoon Beng,,2019-10-09T11:52:46.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,Kannada-MNIST
+,,,,,0,namanj27/11th-place-solution-code,11th place solution code,Naman Jaswani,,2020-09-30T09:40:18.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,Kannada-MNIST
+,,,,,0,parulpandey/part3-visualising-kannada-mnist-with-umap,Part3: Visualising Kannada MNIST with UMAP ,Parul Pandey,,2020-02-27T11:17:20.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,Kannada-MNIST
+,,,,,0,martingorner/kannada-martin-keras-with-tf-data-augmentation,kannada-martin Keras with TF data augmentation,Martin Görner,,2019-12-11T01:34:04.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,Kannada-MNIST
+,,,,,0,josephvm/kannada-pytorch-visualizations,Kannada - PyTorch & Visualizations,Joseph Mohr,,2019-09-19T20:11:05.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,Kannada-MNIST
+,,,,,0,pulkitmehtawork1985/simple-model-to-start,Simple model to start ,Pulkit Mehta,,2019-09-19T05:01:08.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,Kannada-MNIST
+,,,,,0,xiejialun/deep-dive-in-kannadamnist-with-tfkeras,Deep Dive in KannadaMnist with tfkeras,Xie29,,2019-11-26T14:09:19.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,Kannada-MNIST
+,,,,,0,rhtsingh/tensorflow-2-0-kannada-mnist,TensorFlow 2.0 - Kannada MNIST,torch,,2019-10-31T13:03:43.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-logistic-regression-baseline,Kannada MNIST Logistic Regression Baseline,Bojan Tunguz,,2019-11-22T19:35:23.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,Kannada-MNIST
+,,,,,0,kumarvivek9097/crnn-cnn-rnn,CRNN: CNN + RNN,Vivek Kumar,,2019-11-04T06:38:42.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,Kannada-MNIST
+,,,,,0,jakelj/kannada-mnist-beginner-to,Kannada mnist: Beginner to ...,Jake,,2019-11-09T16:08:09.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,Kannada-MNIST
+,,,,,0,gabmars/pytorch-lenet5,PyTorch_LeNet5,gabmars,,2019-12-14T07:32:24.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,Kannada-MNIST
+,,,,,0,subinium/pytorch-1-ann-simple-cnn,[Pytorch] 1. ANN & Simple CNN,Subin An,,2019-11-09T04:53:46.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,Kannada-MNIST
+,,,,,0,parulpandey/kannada-mnist-with-h2o-deeplearning,Kannada MNIST with H2O DeepLearning,Parul Pandey,,2019-09-24T10:24:14.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,Kannada-MNIST
+,,,,,0,darthmanav/multilayer-perceptron-fine-tuning-pca-t-sne-mnist,"Multilayer Perceptron-Fine Tuning,PCA,t-SNE,Mnist",darth manav,,2020-09-27T08:42:35.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,Kannada-MNIST
+,,,,,0,srinathsrinivasan1/kannada-mnist,Kannada_MNIST,Srinath Srinivasan,,2021-04-12T12:43:15.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,Kannada-MNIST
+,,,,,0,vikassingh1996/simple-cnn-modeling-kannanda-mnist,Simple CNN Modeling: Kannanda MNIST,Vikas Singh,,2019-12-01T14:38:14.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,Kannada-MNIST
+,,,,,0,kurianbenoy/solving-kannada-mnist-with-fastai,Solving Kannada-MNIST with FASTAI,Kurian Benoy,,2019-10-06T16:59:06.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,Kannada-MNIST
+,,,,,0,melissarajaram/fastai-pytorch-with-best-original-mnist-arch,Fastai/Pytorch with 'Best' Original MNIST Arch,Melissa Rajaram,,2019-10-03T18:07:29.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,Kannada-MNIST
+,,,,,0,syamkakarla/kannada-mnist,Kannada MNIST,Syam kakarla,,2020-04-27T14:20:39.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,Kannada-MNIST
+,,,,,0,melissarajaram/model-ensembling-and-transfer-learning,Model Ensembling and Transfer Learning,Melissa Rajaram,,2019-12-05T18:46:56.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,Kannada-MNIST
+,,,,,0,c7934597/cnn-in-tensorflow-for-kannada-digits,CNN in TensorFlow for Kannada Digits,Weiming Lin,,2020-10-30T18:49:50.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,Kannada-MNIST
+,,,,,0,crysialucifer/kanada-mnist-tensorflow-keras,Kanada MNIST: Tensorflow Keras,David Port Louis,,2019-11-22T08:34:47.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,Kannada-MNIST
+,,,,,0,nulldata/umap-dim-reduction-viz-on-kannada-mnist,UMAP dim reduction Viz on Kannada MNIST,amrrs,,2019-10-04T05:47:13.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,Kannada-MNIST
+,,,,,0,danofer/pytorch-resnet34-starter-97-74-lb,Pytorch Resnet34 Starter [97.74 LB],Dan Ofer,,2019-09-19T06:50:55.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,Kannada-MNIST
+,,,,,0,sajidhussain3/kanadamnist-beginners-model,KanadaMNIST_beginners_model,Sajid Hussain,,2021-01-08T20:30:36.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,sauravjoshi23/kannada-mnist-comparing-accuracy-of-various-models,Kannada MNIST comparing accuracy of various models,Saurav Joshi,,2020-11-15T12:22:50.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-2d-umap-and-tsne-with-rapids,Kannada MNIST 2D UMAP and tSNE with RAPIDS,Bojan Tunguz,,2020-05-30T20:20:47.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,datahobbit/grandmaster-solution-adapted-from-mnist,Grandmaster solution adapted from MNIST,MichaelP,,2019-11-09T18:03:12.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,alexkct/kannadamnist-fast-ai-alexkct,[KannadaMNIST](Fast.AI)AlexKCT,AlexKCT,,2019-12-13T14:52:18.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,nachiket273/fastai-unfreeze,fastai_unfreeze,nachiket273,,2019-12-17T18:57:32.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,nicapotato/pytorch-cnn-kanada,Pytorch CNN Kanada,nicapotato,,2019-10-14T22:23:46.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,melissarajaram/mixup-augmentation-tta-fastai,"Mixup Augmentation, TTA (fastai)",Melissa Rajaram,,2019-12-06T22:54:08.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,marcthalen/mnist-cnn-99-top-30-using-keras,Mnist CNN 99% (top 30%) using Keras ,Marc Thalen,,2019-09-26T08:50:13.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,vitorgamalemos/using-cnn-in-kannada-digits-resolution,Using CNN in Kannada Digits Resolution,Vítor Gama Lemos,,2020-12-24T13:24:31.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,anshumandec94/6-layer-conv-nn-using-adam,6-Layer Conv NN using Adam,Anshuman Narayan,,2019-09-21T20:38:08.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,tunguz/truncatedsvd-t-sne-and-decision-tree-baseline,"TruncatedSVD, t-SNE and Decision Tree Baseline",Bojan Tunguz,,2019-10-01T16:09:30.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,rohan9889/kannada-mnist-cnn-keras,Kannada MNIST - CNN(Keras),Rohan Aggarwal,,2019-09-20T14:35:09.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,Kannada-MNIST
+,,,,,0,salmanhiro/efficientnet,EfficientNet,Salman Chen,,2020-06-20T16:04:48.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,joshuajhchoi/kannada-mnist-cnn-tutorial,Kannada MNIST:CNN Tutorial - 한국어,Joshua Choi,,2020-01-21T01:59:11.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,rainmaker29/kannada-mnist-98,kannada_mnist 98%,Amaan,,2020-05-05T15:00:51.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,nathanbruzat/base-cnn-in-keras-for-kannada-digits,Base CNN in Keras for Kannada Digits,Nathan Bruzat,,2020-01-14T15:13:54.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,alpertemel/atemel-kannada-mnist-with-keras,ATEMEL Kannada-MNIST with keras,Alper Temel,,2020-01-06T02:36:24.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,andrewgao/kannada-mnist-cnn-tutorial-with-app-top-2-cce7db,Kannada MNIST:CNN Tutorial with App.(Top %2 cce7db,Andrew Gao,,2019-12-17T16:55:40.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,namanj27/score-0-99-public-score,Score > 0.99 public score,Naman Jaswani,,2019-12-16T11:43:05.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,ozgurdogan646/kannada-mnist-cnn,Kannada MNIST CNN,ozgurdogan,,2019-12-07T23:18:49.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,hanjoonchoe/kannada-mnist-classification-with-cnn-pytorch,Kannada MNIST Classification with (CNN) Pytorch,Hanjoon Choe,,2019-11-23T05:31:13.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,polyzer/very-easy-kannada-mnist-dense-net,very easy Kannada Mnist dense Net,Igor Tokarev,,2019-11-17T09:51:38.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,xiaohuangji/kaggledays-kannada-mnist,KaggleDays-Kannada-MNIST,WillsFeng,,2019-10-28T02:56:54.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,chrisluo266/keras-for-kannada-mnist,Keras for Kannada MNIST,Chris luo,,2019-10-28T15:25:24.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,tunguz/pca-svm-baseline,PCA SVM Baseline,Bojan Tunguz,,2019-10-14T16:55:52.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,shaygu/kannada-mnist-simple-cnn,Kannada MNIST Simple CNN,Shay Guterman,,2019-09-19T08:33:24.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,Kannada-MNIST
+,,,,,0,tejasurya/kannada-character-recognition,Kannada ಕನ್ನಡ Character Recognition ,Teja Surya,,2022-06-22T13:15:54.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,mritunjaisingh/kannada-mnist,Kannada MNIST,Mritunjai Singh,,2020-09-02T16:13:17.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,fluffyhamster/kannada-mnist,Kannada-MNIST,Stacy,,2020-08-27T11:13:42.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,rahulbana/kannad-mnist,Kannad MNIST,Rahul Bana,,2021-12-27T11:47:14.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,chariots17/my-first-comptition,my_first_comptition,谁不重要,,2019-11-08T04:42:02.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,polyzer/hyperparameters-tuning-with-kerastuner-hyperresnet,Hyperparameters tuning with KerasTuner HyperResNet,Igor Tokarev,,2019-12-04T21:53:11.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,zmey56/kannada-mnist-ver4-randomforestclassifier,Kannada-MNIST-Ver4_RandomForestClassifier,AlexTUT56,,2019-10-04T19:25:59.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,drcapa/kannada-mnist-cnn,Kannada_MNIST_CNN,DrCapa,,2020-11-27T13:55:30.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,wojciech1103/kannada-mnist-activation-visualization,Kannada MNIST - activation visualization,Wojciech Łabuński,,2019-11-25T16:00:08.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,anuragnegi/30-epochs,30_epochs,AnuragNegi,,2019-10-01T12:54:31.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,zhizuijinmi/kannada-mnist-with-cnn,Kannada MNIST with CNN,Xiuxin Yang,,2019-10-19T15:10:22.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,tunguz/lightgbm-baseline,LightGBM Baseline,Bojan Tunguz,,2019-10-14T17:07:24.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,Kannada-MNIST
+,,,,,0,tharunnayak14/tensorflow-cnn-kannada-digit-classifier,Tensorflow CNN Kannada Digit Classifier ,tharun_nayak14,,2021-10-05T08:07:39.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,stpeteishii/kannada-mnist-conv2d,Kannada MNIST Conv2D,stpete_ishii,,2021-06-22T14:10:16.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,nguyncaoduy/kanada-mnist,Kanada MNIST,Nguyen Cao Duy ,,2020-03-13T14:02:58.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,anandsm7/basic-kannada-mnist-tensorflow-2-0-99,Basic - kannada mnist tensorflow 2.0 (99%),Anand_S_M,,2020-01-16T06:58:14.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,andrewgao/0-9880-public-accuracy-pytorch,0.9880 Public Accuracy! Pytorch,Andrew Gao,,2019-12-17T02:18:42.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,andrewgao/keras-easy-with-0-9892-score,"Keras, easy with 0.9892 score",Andrew Gao,,2019-12-13T22:27:20.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,liaodi/pytorchlenet,PytorchLenet,liaodi,,2019-12-17T11:52:20.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,ngupta23/kannada-mnist-digit-recognition-using-fast-ai,Kannada MNIST Digit Recognition (using fast.ai),Nikhil Gupta,,2019-11-03T17:57:52.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,airk0126/cnn-implementation-in-keras-for-beginners,CNN implementation in Keras for beginners,AirK,,2019-11-04T14:20:03.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,welgum/kohonen-self-organizing-map-som-on-kannada-mnist,Kohonen Self-Organizing Map (SOM) on Kannada MNIST,Aliaksei Welgum,,2019-11-03T15:34:11.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,ragnar123/cnn-baseline-3-shuffle-folds,CNN BASELINE 3 SHUFFLE FOLDS,Martin Kovacevic Buvinic,,2019-10-10T19:29:17.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,ragnar123/cnn-baseline-kfold,CNN BASELINE KFOLD ,Martin Kovacevic Buvinic,,2019-10-14T19:15:52.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,trolukovich/simple-models-benchmark-keras,Simple models benchmark (Keras),Alexander Antonov,,2019-10-05T11:38:01.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,hocop1/i-can-t-overfit,I can't overfit...,Ruslan Baynazarov,,2019-09-22T10:20:15.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,rohan9889/kannada-mnist-layers-visualization,Kannada MNIST - Layers visualization,Rohan Aggarwal,,2019-09-21T03:14:39.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,gmonge/pytorch-resnet34-augmentation-starter,Pytorch Resnet34&Augmentation Starter,StepD,,2019-09-19T13:20:24.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,revyung2017/kannada-mnist,Kannada MNIST,Neo Yung,,2020-04-18T15:10:04.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,Kannada-MNIST
+,,,,,0,alexanderyyy/kannada-mnist-fastai2,Kannada-MNIST-fastai2,Alexander Y.,,2022-06-15T12:29:36.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-mcc,Kannada MNIST & Tuned on MCC,Gaurav Dutta,,2021-07-18T03:09:18.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,alincijov/kannada-unsupervised-learning-autoencoders,Kannada  🇮🇳  Unsupervised Learning Autoencoders,Alin Cijov,,2021-02-05T03:23:51.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-recognizer-using-catboost,Kannada MNIST Recognizer using Catboost ,Gaurav Dutta,,2020-12-19T02:33:22.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,adhok93/simple-cnn-using-numpy,Simple CNN using numpy,AdhokshajaPradeep,,2020-08-23T18:10:48.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,bobbyscience/kannada-mnist-cnn-keras,Kannada MNIST CNN Keras,Yi Lan Ma,,2020-01-18T21:28:07.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,sidasj/visualization-of-kanadda-digits,Visualization of kanadda Digits,Sid,,2019-12-22T09:51:27.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,parmarsuraj99/kannadamnist-with-lstms,KannadaMNIST with LSTMs,Suraj Parmar,,2019-12-10T08:12:09.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,annaelshayeb/kannada-digit-recognition,Kannada Digit Recognition,Anna Elshayeb,,2019-12-17T03:39:22.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,luffy1105/kannada-mnist-by-kannadiga-using-pytorch,kannada MNIST by kannadiga using pytorch,Manoj Pawar SJ,,2019-12-02T05:06:54.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,khoongweihao/autokeras-kannada-mnist,AutoKeras Kannada MNIST,Wei Hao Khoong,,2019-11-24T11:23:24.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,adarshbiradar/kannada-mnist,Kannada_Mnist,Adarsh Biradar,,2019-11-18T02:43:57.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,nanditab35/kannada-mnist-pytorch,kannada mnist pytorch,Nandita B,,2019-11-13T08:00:22.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,joatom/kannada-mnist-speed-up-fastai-image-processing,[Kannada_MNIST] Speed Up Fastai Image Processing,Jo Tom,,2019-11-25T22:26:41.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,nicapotato/pytorch-resnet-kanada,Pytorch Resnet Kanada,nicapotato,,2019-10-15T21:58:30.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,jsvishnuj/kannada-language-recognizer-deep-learning,Kannada Language Recognizer - Deep Learning,Sabari Vishnu Jayanthan Jaikrishnan,,2019-10-15T08:12:19.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,iavinas/basics-of-cnn,Basics of CNN,Avinash Kumar,,2019-10-10T17:33:18.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,kaushal2896/kannada-mnist-using-different-cnn-architectures,Kannada MNIST using different CNN architectures,Kaushal Shah,,2019-10-01T18:22:49.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,pavanbagli/kannadamnist-with-lenet,KannadaMNIST with LeNet,PavanBagli,,2019-09-29T07:41:38.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,mtszkw/kannada-mnist-eda-visualization-and-resources,"Kannada MNIST: EDA, visualization and resources",mtszkw,,2020-03-20T09:27:37.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,heckinbamboozle/simple-capsule-net-ensemble,simple-capsule-net+ensemble,Anurag Malyala,,2019-09-24T17:08:22.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,melissarajaram/simple-fastai-pytorch-example,Simple Fastai/Pytorch Example,Melissa Rajaram,,2019-09-19T21:10:22.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-kappa,Kannada MNIST & Tuned on Kappa,Gaurav Dutta,,2021-07-18T03:09:05.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-f1-score,Kannada MNIST & Tuned on F1 Score,Gaurav Dutta,,2021-07-18T03:08:58.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-precision,Kannada MNIST & Tuned on Precision,Gaurav Dutta,,2021-07-18T03:08:00.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-recall,Kannada MNIST & Tuned on Recall,Gaurav Dutta,,2021-07-18T03:07:49.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-accuracy,Kannada MNIST & Tuned on Accuracy,Gaurav Dutta,,2021-07-18T01:51:57.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-tuned-on-auc,Kannada MNIST & Tuned on AUC,Gaurav Dutta,,2021-07-18T01:11:45.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,gauravduttakiit/xbnet-on-kannada-mnist,XBNet on Kannada MNIST,Gaurav Dutta,,2021-07-17T18:25:21.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,adhok93/cnn-using-numpy-new-version,CNN using Numpy (New Version),AdhokshajaPradeep,,2021-06-20T04:13:36.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,ajinkyaabhang/kannada-mnist-using-cnn-acc-98-5,Kannada MNIST using CNN acc: 98.5%,ajinkya abhang,,2020-06-27T12:10:33.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,adhok93/submission-pytorch-simple-example,Submission Pytorch Simple Example,AdhokshajaPradeep,,2020-06-21T10:02:13.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,toreleon/mnist-kannada-with-cnn,MNIST Kannada with CNN,Le Viet Thang,,2020-01-23T05:42:19.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,blambert/quick-and-easy-keras-cnn,Quick and Easy Keras CNN,Ben Lambert,,2019-12-15T00:55:59.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,andrewgao/kannada-mnist-cnn-tutorial-with-app-top-2-11a1f5,Kannada MNIST:CNN Tutorial with App.(Top %2 11a1f5,Andrew Gao,,2019-12-14T07:35:44.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,ccchang801023/se-net-my-top1-baseline-model-with-pytorch,SE Net (my top1% baseline model) with pytorch,ccchang,,2019-12-15T15:30:49.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,mswieton/2019-12-12-kannada-cnn-with-augmentation,2019_12_12_Kannada_CNN with augmentation,Marek Swieton,,2019-12-14T22:36:47.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-histgradientboostingclassifier,Kannada MNIST HistGradientBoostingClassifier,Bojan Tunguz,,2019-12-07T16:32:55.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,grvgtm/regression-keras-kanada-mnist-cnn,Regression Keras Kanada mnist CNN,Gaurav Gautam,,2019-11-26T12:38:42.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,nandor65/kmnist-trio,KMNIST Trio,Nandor Balogh,,2019-11-23T23:22:04.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-mlpclassifier-baseline,Kannada MNIST MLPClassifier Baseline,Bojan Tunguz,,2019-11-23T16:09:05.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,marstebi/cnn-with-batch-normalization-and-data-augmentation,CNN with batch normalization and data augmentation,Ammar Syatbi,,2019-11-14T19:26:34.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,chariots17/first-submit,first_submit,谁不重要,,2019-11-08T09:18:25.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,nikhil2381/kannadamnist-fast-ai,KannadaMnist(Fast.AI),Nikhil Kumar,,2019-11-01T19:46:24.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,ajithvallabai/kaggle-kannada-mnist-made-simple,Kaggle_Kannada_MNIST_made_simple,ajithvallabai,,2019-11-04T08:30:08.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,kocayinana/solution-with-resnet-50,Solution with Resnet-50,KonG,,2019-10-22T08:36:16.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,plarmuseau/mnist-cossim,mnist cossim,Paul Larmuseau,,2019-10-18T06:52:49.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,rhysie/cnn-ensemble-98-6,CNN Ensemble! (98.6%) ,Rhysie,,2019-11-08T10:03:29.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,douglascamargo/kannada-mnist,kannada_mnist,Douglas R Camargo,,2019-10-14T22:21:33.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,iamsiddhant/kannada-mnist-dataset,kannada mnist dataset,siddhant ranjan,,2020-01-24T07:53:58.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,hanjoonchoe/kannada-mnist-simple-neural-net,Kannada MNIST SIMPLE NEURAL NET,Hanjoon Choe,,2019-10-05T19:10:29.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,ankur1401/kannada-digit-recognizer,Kannada Digit Recognizer,Ankur Goswami,,2019-10-05T12:11:50.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,cuuuurry/let-s-try-some-dataaugumentation-on-kannada-mnist,Let's try some DataAugumentation on Kannada MNIST,cuuuurry,,2019-10-04T03:10:31.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,polunwang/a-simple-model-with-10-layer-cnns,A simple model with 10-layer CNNs,Po-Lun Wang,,2019-10-01T04:38:15.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,arjunsinghrathod/trying-hands-on-cnn,Trying Hands on  CNN ,Arjunsingh Rathod,,2019-09-27T01:16:03.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,prtkmeh/kannada-mnist-with-keras-cnn,Kannada MNIST with keras CNN,Prateek Mehta,,2019-09-27T08:24:33.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,abhishekhegde1998/kannada-mnist-v1-0,Kannada MNIST v1.0 ,Abhishek Hegde,,2019-09-24T07:55:44.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,robertopreste/kannada-mnist-with-keras-v1,Kannada_MNIST_with_Keras_v1,Roberto Preste,,2019-09-20T17:30:19.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,aditya100/kannada-mnist-using-keras,Kannada MNIST using Keras,Aditya Dehal,,2019-10-18T16:51:01.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,vaidyaprasad84/simple-nn-no-cnn-very-basic-model,Simple NN - no CNN - very basic model,Prasad,,2019-09-19T23:30:47.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,eeshsingh/mnist-with-keras-and-basic-cnn-lb-0-97,MNIST with Keras and basic CNN (LB 0.97),Eesh Singh,,2019-09-26T09:47:07.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,mlneo07/kannada-mnist-linear-svm,Kannada MNIST linear SVM,Neo,,2019-09-20T15:09:58.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,Kannada-MNIST
+,,,,,0,joonasyoon/kannada-mnist-classification,Kannada-MNIST classification,Joonas,,2022-03-27T07:40:17.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,ganeshishwarpatil/kannada-mnist-with-randomforest-ann,Kannada-MNIST with RandomForest & ANN ,G P,,2021-09-03T21:09:39.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,amritpal333/dataloaders-in-pytorch-image-data,Dataloaders in Pytorch - Image data,Dr. Amritpal Singh,,2021-07-18T11:52:12.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,gauravduttakiit/kannada-mnist-using-pycaret,Kannada MNIST using Pycaret,Gaurav Dutta,,2021-07-18T05:23:54.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,praveenmaripeti/kannada-mnist-with-pytorch-accuracy-98-5,Kannada MNIST with PyTorch (Accuracy 98.5%),Praveen Maripeti,,2021-02-09T17:12:37.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,fanbyprinciple/kannada-mnist-fastai-pixel-to-image-conv,Kannada mnist fastai: pixel to image conv,Ami,,2020-09-14T18:36:08.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,dongshengcheng/kannadamnistcnn,KannadaMNISTCNN,Dongsheng Cheng,,2020-08-29T03:27:10.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,alshautsou/shevsubmission,ShevSubmission,Al-Shautsou,,2020-06-10T14:15:29.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,rahulkusuma99/kannada-mnist,kannada-MNIST,RahulKusuma99,,2020-06-03T18:37:25.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-2d-umap,Kannada MNIST 2D UMAP,Bojan Tunguz,,2020-03-19T22:02:20.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,gurujaing/kannada-mnist,Kannada-Mnist,Aman Jain,,2021-05-20T10:53:06.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,arpithaananth/my-first-cnn-project-kannada-mnist,My First CNN Project- Kannada MNIST,Arpitha Ananth,,2020-02-06T21:49:31.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,anjanatiha/kannada-mnist-classification-with-deep-learning,Kannada MNIST Classification with Deep Learning,Anjana Tiha,,2020-02-09T23:44:50.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,zohaibmohd/kannada-mnist,Kannada MNIST,Zohaib Mohd,,2020-01-23T13:12:07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,mylee2009/kannada-building-some-noob-dnn-on-keras,Kannada - Building some noob DNN on Keras,MyleeSG,,2020-01-17T03:34:38.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,cumhuralper/atemel-kannada-mnist-with-keras,ATemel - Kannada MNIST with keras,Cumhur,,2020-01-06T18:36:29.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,nickteim/kannada-mnist-1,Kannada MNIST_1,NickTeim,,2019-12-31T21:57:50.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,rahulharlalka/kannada-mnist-svm,kannada mnist svm,Rahul,,2019-12-25T07:02:23.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,rahulharlalka/kannada-mnist,kannada-MNIST,Rahul,,2019-12-25T12:50:06.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,nibba2018/kannada-mnist,Kannada-MNIST,Soham Biswas,,2020-02-18T12:47:53.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,andrewgao/deep-dive-in-kannadamnist-with-tfkeras,Deep Dive in KannadaMnist with tfkeras,Andrew Gao,,2019-12-17T02:11:11.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,blambert/keras-functional-api-small-resnet,Keras Functional API small ResNet,Ben Lambert,,2019-12-15T19:54:26.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,jagdeesh1009/kannada-mnist-check-ebe6f1,kannada-mnist-check ebe6f1,jagdeesh1009,,2019-12-15T20:06:01.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,andrewgao/kannada-mnist,kannada-mnist,Andrew Gao,,2019-12-14T20:55:20.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,andrewgao/kannada-mnist-cnn-tutorial-with-app-top-2-17ff12,Kannada MNIST:CNN Tutorial with App.(Top %2 17ff12,Andrew Gao,,2019-12-13T23:24:56.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,kabilan45/kannadamnist,KannadaMnist,kabilan,,2019-12-10T04:51:43.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,nicodem/kannada-mnist-by-cnn,kannada MNIST by CNN,Nitin Mukesh,,2019-12-15T04:24:35.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,scirpus/basic-genetic-programming,Basic Genetic Programming,Scirpus,,2019-11-28T14:14:43.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,scirpus/gp-clustering-with-knn-classifier,GP Clustering with KNN Classifier,Scirpus,,2019-11-28T11:21:50.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,sharif485/the-more-you-teach-me-the-more-i-learn,"The more you teach me, the more I learn!",Sharif Ahamed,,2019-11-26T17:31:39.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,econccb/kannada-cnn-w-keras,Kannada CNN w/ Keras,econccb,,2019-12-03T21:00:54.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,billynguyen/begin-with-tensorflow-2,Begin with Tensorflow 2,Billy Nguyen,,2019-12-17T13:59:04.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,abhilashtensor/simple-cnn-rmsprop-learningratereduction,Simple CNN(RMSProp/LearningRateReduction),Abhilash Pal | আভিলাষ পাল,,2019-12-10T18:28:59.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,chandraroy/vgg-16-mnist-classification,VGG-16 MNIST classification,CBR,,2019-11-21T06:55:59.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,lgh7654/kernel5700d56d55,kernel5700d56d55,21jun,,2019-11-20T09:36:53.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,emilianogl/kannada-mnist-keras-cnn,Kannada MNIST Keras CNN,Emiliano Guerrero,,2019-11-21T03:07:56.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,barabashkkka/kernel55d927b991,kernel55d927b991,barabash,,2019-11-19T21:51:57.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,infhyroyage/investigation-about-dig-mnist-csv,Investigation about Dig-MNIST.csv,KIDO Takeru,,2019-12-16T17:38:48.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,amneves/kannada-with-tensorflow-keras-83-7-dig,Kannada with Tensorflow-Keras 83.7% Dig,André Neves,,2019-11-12T10:24:12.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,joatom/kannada-mnist-inside-a-neural-net,[Kannada MNIST] Inside a neural net,Jo Tom,,2019-11-10T22:50:55.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,pseroul/cnn-on-kannada-mnist,CNN on Kannada MNIST,Pierre Seroul,,2019-11-07T18:46:41.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,qz701731tby/improvement-of-kannada-mnist-made-simple,improvement of Kannada_MNIST_made_simple,Clark,,2019-11-27T11:49:40.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,chmarco97/kannada-mnist,Kannada_MNIST,MarcoChilese,,2019-12-17T15:50:02.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,pranitbankar/keras-conv2d-kannada-digits,Keras_Conv2D_Kannada_Digits,Pranit Bankar,,2019-11-03T06:45:54.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,rdenadai/kannada-mnist,Kannada MNIST,Rodolfo De Nadai,,2020-01-13T18:17:17.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,airk0126/my-first-kaggle-kernels-only-competition-keras,My First Kaggle Kernels-only Competition (Keras),AirK,,2019-11-02T10:29:04.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,qz701731tby/kannada-mnist-selfcnn-test, Kannada MNIST SelfCnn test,Clark,,2019-11-02T04:06:40.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,mengcius/pytorch-kanada-mnist,PyTorch Kanada MNIST,Mengcius,,2019-12-09T06:30:50.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,imdevskp/kannada-mnist-classifying-kannada-digits,Kannada MNIST : Classifying Kannada Digits,Devakumar K. P.,,2019-12-21T08:22:49.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,kliu1892/kannada-digits-recognition-go-for-better-ranking,Kannada Digits Recognition - Go for better ranking,kliu1892,,2019-12-17T15:31:07.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,yiranupup/kannada-mnist,Kannada-MNIST,竹亦然,,2019-11-17T12:46:24.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,kxvptev/pytorch-cnn-with-spatial-transform-network,PyTorch CNN with Spatial transform network,Koptev Gleb,,2019-10-29T11:34:37.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,tiannnn/visualising-kanada-mnist,Visualising Kanada MNIST,Daniel,,2019-10-16T02:55:38.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-xgboost-baseline,Kannada MNIST XGBoost Baseline ,Bojan Tunguz,,2019-10-15T23:51:26.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,gearlem/kannada-mnist-gear,kannada_mnist_gear,Gearlem Camargo,,2019-10-14T23:26:19.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,ashwin89872/kannada-mnist-in-keras,Kannada mnist in keras,Ashwin Ghagre,,2019-10-14T08:48:41.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,rincewind007/mnist-resnet-bigger-mish-in-shortcut-transforms,MNIST Resnet_bigger+Mish_in_shortcut+transforms,BjörnBerglund,,2019-11-21T08:35:02.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,hanjoonchoe/some-explorations-in-outliers,Some explorations in outliers,Hanjoon Choe,,2019-10-10T12:44:24.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,pieterblomme/kannada-v0-1,Kannada_v0.1,PieterBlomme,,2019-10-23T17:05:43.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,ananthreddy/kannada,Kannada ,Ananth Reddy,,2019-11-23T21:26:42.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,omerbeden/cnn-classifier,Cnn Classifier,omerBeden,,2019-12-08T13:46:56.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,rohitgadhwar/kannada-mnist-dataset,Kannada MNIST dataset,Rohit Gadhwar,,2020-02-13T04:09:14.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,nicapotato/dense-digit-classifier-kanada-simple-cpu-pytorch,Dense Digit Classifier Kanada - Simple CPU PyTorch,nicapotato,,2019-10-14T13:36:29.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,huangyifan/kernel3a15c9b2c1,kernel3a15c9b2c1,CVXIV,,2019-09-29T07:45:58.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,shaunthesheep/mnist-kannada,MNIST KANNADA,Sachin,,2020-03-14T07:24:34.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,melissarajaram/fastai-pytorch-implementation-of-6-layer-convnet,Fastai/Pytorch - Implementation of 6 Layer Convnet,Melissa Rajaram,,2019-09-27T03:53:25.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,tunguz/pca-nusvm-baseline,PCA NuSVM Baseline,Bojan Tunguz,,2019-09-27T16:08:41.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,darkrubiks/kannada-mnist-keras-cnn-98,kannada MNIST Keras CNN 98%,darkrubiks,,2019-09-28T22:02:50.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,iamsiddhant/kannada-mnist-data,kannada mnist data,siddhant ranjan,,2019-09-25T19:51:14.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,cantaoml/lightgbm,LightGBM ,Zerol-TC,,2019-09-24T05:55:01.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,nubatama/trial-simple-model-with-gelu-and-relu-by-keras,Trial Simple Model with gelu and relu by Keras,nubatama,,2019-11-05T12:24:37.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,matheuseduardo/kannada-mnist-convnet,Kannada MNIST ConvNet,Matheus Eduardo,,2021-05-01T00:43:19.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,leighplt/pytorch-arcmargin,PyTorch | ArcMargin,Leigh,,2019-09-21T10:00:08.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,wakamezake/kannada-mnist-efficientnet,Kannada-MNIST_EfficientNet,wakame,,2019-09-24T08:07:51.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,Kannada-MNIST
+,,,,,0,saidohamouddou/kannada-mnist-cnn-and-random-forest,kannada mnist CNN and random forest,SAID OHAMOUDDOU,,2022-01-22T16:37:30.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,f23296/gan-kannada-mnist,GAN Kannada MNIST,FS,,2021-08-28T02:57:03.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,dhanalakshmik24/kannada-mnist-random-forest,Kannada Mnist Random forest,Dhanalakshmi K24,,2021-07-02T03:04:35.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,burakerdoan/kannada-mnist,Kannada_MNIST,Burak Erdoğan,,2021-06-22T20:55:12.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,naokiokada/kannada-mnist,Kannada MNIST,nao,,2021-04-27T03:00:08.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,handerblue/kd-minist,KD_MINIST,blue,,2021-02-16T08:33:26.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,mischva11/cnn-small-try-on-kannada-mnist,CNN - Small try on Kannada MNIST,Mischva11,,2020-12-23T13:58:29.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,cristianfat/kannada-digit-recogniser,Kannada Digit recogniser,Daniel Fat,,2020-10-04T18:26:22.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,chitramdasgupta/desi-mnist,Desi MNIST!,Chitram Dasgupta,,2020-10-03T10:20:26.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,thayashi02/kernel53353043d7,kernel53353043d7,T.Hayashi,,2020-07-17T18:56:15.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,erickortegadn/proyecto-kannada-mnist,Proyecto Kannada MNIST,Erick Ortega,,2020-06-25T04:27:29.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,sinchubhat/kannada-mnist-using-monk,Kannada mnist using Monk,Sinchana S R,,2020-05-25T17:29:11.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,kondratyonok/1-homework,#1_HomeWork,Кондратёнок Никита (ШАД Минск),,2020-04-27T20:11:53.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,tunguz/kannada-mnist-2d-t-sne,Kannada MNIST 2D t-SNE,Bojan Tunguz,,2020-03-19T22:01:16.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,kojiiwase/kernel74c205f3f1,kernel74c205f3f1,koji iwase,,2020-02-25T10:03:05.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,abhisheksinghblr/kannada-mnist-using-fast-ai,Kannada MNIST Using Fast AI,Abhishek Singh,,2020-02-24T12:45:21.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,jugglingsnakeboarder/kannadamnistwithcnnontpu,KannadaMNISTwithCNNonTPU,juggling snakeboarder,,2020-02-22T13:34:04.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,dangerx/kernel255b69025c,kernel255b69025c,dangerx,,2020-02-21T13:31:44.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,venkateshprabhug/let-s-teach-kannada-to-the-machines,Let's teach Kannada to the machines,Venkatesh Prabhu,,2020-02-17T19:45:58.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,tejaskhanna/tk-update,tK-Update,Tejas Khanna,,2020-02-17T10:06:33.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,vahidsa/kaanada-pca-svc,kaanada-PCA-SVC,Vahid Saadat,,2020-02-09T10:44:17.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,sureshkothakota/kanada-number-recognization,kanada number recognization,Suresh Kothakota,,2020-02-04T07:27:23.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,oliversoptq/kernel11f803ba74,kernel11f803ba74,Oliver Soptq,,2020-01-20T17:05:39.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ajax0564/kernel7318a9713a,kernel7318a9713a,Ankit Maurya,,2020-01-11T16:00:47.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,scirpus/begin-with-tensorflow-2-but-use-haar,Begin with Tensorflow 2 but use Haar,Scirpus,,2020-01-07T11:58:45.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,shravanc/kernel7de05e6660,kernel7de05e6660,shravanc,,2020-01-05T17:03:22.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,scirpus/begin-with-tensorflow-2-but-use-dct,Begin with Tensorflow 2 but use DCT,Scirpus,,2020-01-04T11:36:28.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,sabya40/cnn-image-classification-with-keras-beginner,CNN Image Classification With Keras Beginner,Sabya,,2019-12-30T17:17:28.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,nitwmanish/kannada-mnist-simple-cnn-in-keras,Kannada-MNIST-Simple-CNN-in-Keras,Manish Nayak,,2020-01-01T08:05:38.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,felipeapgarcia/kannada-mnist-classification,Kannada MNIST Classification,Felipe Ap Garcia,,2020-01-10T11:23:51.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,cbarburescu/pytorch-ftw,pytorch-ftw,Calin Barburescu,,2019-12-27T20:29:25.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,knnagele/first-competition-mnist,first competition mnist,mike,,2019-12-26T15:23:41.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,denisow/excel-mnist,Excel-MNIST,Nick Denisov,,2019-12-21T16:18:59.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,tt195361/my-best-private-score-model-for-kannada-mnist,My best private score model for Kannada MNIST,tt195361,,2019-12-21T01:52:45.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,nicodem/kannada-mnist-cnn-98-5,kannada MNIST CNN >98.5℅,Nitin Mukesh,,2019-12-17T05:15:23.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,bigcaij/lengai,lengai,bigcaij,,2019-12-17T06:12:50.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ricardoamferreira/tf-keras-cnn-with-kannada-mnist-top-9,Tf.keras CNN with Kannada-MNIST - Top 9%,Ricardo Ferreira,,2019-12-14T15:09:30.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,jagdeesh1009/kannada-mnist-check,kannada-mnist-check,jagdeesh1009,,2019-12-13T20:29:56.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,digantpatel/kernel6b4c433629,kernel6b4c433629,Digant Patel,,2019-12-17T09:07:59.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,randomoverlord2/kannada-mnist,Kannada-MNIST,Abhay Fernandes,,2019-12-08T23:00:14.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,shinebalance/kannada-mnist-simple-cnn-with-chainer,Kannada MNIST simple CNN with chainer,hook.tack,,2019-12-10T07:20:41.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ehtishamkhan/kannada-mnist,Kannada_MNIST,Ehtisham,,2019-12-04T19:15:42.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,chenchanggen/kernel1a934f9e51,kernel1a934f9e51,super-magnet,,2019-12-16T08:23:28.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,radream/cnn-in-pytorch-fastai-for-kannada-digits,CNN in PyTorch/Fastai for Kannada digits,Yu-ray Li,,2019-12-06T10:48:25.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,scirpus/fork-of-basic-genetic-programming,Fork of Basic Genetic Programming,Scirpus,,2019-12-04T16:19:51.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,simonthesidekick/a-grid-search-like-approach,a grid-search-like approach ,SimonTheSidekick,,2019-12-09T14:49:55.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,aliakseidziadziuk/bsu-dziadziuk-aliaksei,BSU_DZIADZIUK_ALIAKSEI,Aliaksei Dziadziuk,,2019-12-02T17:16:11.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,gtnikito/kannada-mnist-hw2-bestnet,Kannada-MNIST-HW2-BestNet,Nikita Mishchenko,,2019-12-02T20:10:30.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,tippu89/kannada-mnist-keras-cnn-y-network,kannada-mnist-keras-cnn-Y-network,Tippu Shaik,,2019-12-01T10:22:59.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,virajdattt/kannada-minst,Kannada MINST,Virajdattt,,2019-12-10T23:02:53.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,rugan01/fastai-resnet34and50,fastai-resnet34and50,BalaMurugan,,2019-12-08T07:59:37.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,kashyapmehta/ee258-kannada-dataset,EE258 Kannada Dataset,Kashyap Mehta,,2020-01-07T22:43:06.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,jjbuchanan/learning-rate-tuning-kannada-mnist,Learning Rate Tuning: Kannada-MNIST,jjbuchanan,,2019-11-20T08:27:11.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,chandraroy/mnist-classification-cnn,MNIST classification CNN,CBR,,2019-11-22T18:38:36.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,hankovich/kernel4b60a7b069,kernel4b60a7b069,hankovich,,2019-11-19T20:24:02.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,mswieton/2019-11-28-kannada-densenn,2019_11_28_Kannada_DenseNN,Marek Swieton,,2019-11-29T09:30:28.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,anastasiyaartsiom/kernel5279381f17,kernel5279381f17,Anastasiya Artsiom,,2019-11-19T13:00:41.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,shuangmingma/kernel66b294b638,kernel66b294b638,ShuangmingMa,,2019-11-17T14:35:01.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,gtnikito/kannada-mnist-hw1,Kannada-MNIST-HW1,Nikita Mishchenko,,2019-11-17T20:55:17.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,larandaa/aryzhevich-nn-1,aryzhevich_nn_1,Alexandra Ryzhevich,,2019-11-16T21:40:06.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,utsavnandi/k-mnist-first-kernel,K-MNIST first kernel,Utsav Nandi,,2019-12-14T15:48:26.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,elgendy5576/using-image-data-generator,using image data generator,islamelgendy,,2019-11-20T23:01:12.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,arishp/kernel70c8f3681a,kernel70c8f3681a,arish,,2019-11-15T18:31:34.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,flyingmuttus/kannada,kannada,Mallikarjun v Sajjan,,2019-11-14T10:53:47.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,rspmodels/kernel67c2db6e62,kernel67c2db6e62,r-s-p-models,,2019-11-13T20:45:20.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,priteshshrivastava/kannada-mnist-simple-cnn-using-fastai,[Kannada MNIST] Simple CNN using fastai,Pritesh Shrivastava,,2019-11-10T11:00:02.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ajayramesh/cnn-for-kannada-mnist,CNN for Kannada MNIST ,Ajay Ramesh,,2019-11-20T17:50:23.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,kristogj/basic-cnn-with-kannada-mnist,Basic CNN with Kannada-MNIST,Kristoffer Gjerde,,2019-11-21T07:56:34.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,pranitbankar/keras-conv2d-kannada,Keras_Conv2D_Kannada,Pranit Bankar,,2019-11-03T05:48:15.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,poornachandvanga/kannada-mnist-cnn-accuracy-99,Kannada MNIST - CNN Accuracy 99+,POORNA CHAND VANGA,,2019-11-02T08:22:11.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,humblefool786/mnistkannada,mnistkannada,humblefool,,2019-10-29T13:27:19.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,okeaditya/keras4kannada,Keras4Kannada,Aditya Oke,,2019-12-16T18:28:59.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,tippu89/kannada-mnist-lgb,kannada-mnist-lgb,Tippu Shaik,,2019-10-27T09:13:56.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,slowlyfadinglight/ktzs-nn,ktzs_nn,SlowlyFadingLight,,2019-10-20T06:03:19.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,lilydong/kannada-mnist-lilydong,kannada-mnist-lilydong,Lily Dong,,2019-10-20T04:37:58.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,al4win/kernel-kannada-01,kernel_Kannada_01,alants,,2019-12-14T12:01:30.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,mateusz8005/kannada-digits-recognition-using-cnn-keras,Kannada Digits Recognition using CNN Keras,Mateusz Budnik,,2020-03-26T19:20:55.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,eurismarpires/kannadamnist2,KannadaMnist2,EurismarPiresBorges,,2019-10-23T14:15:21.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,aleksimu/kannada,Kannada,Aleksi Mustonen,,2019-11-25T08:33:48.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,tiannnn/keras-starter-kit-kanada-mnist,Keras starter kit - Kanada MNIST -,Daniel,,2019-10-16T04:12:53.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ashishbarvaliya/kannada-mnist-simple-cnn,Kannada Mnist simple CNN,Ashish Barvaliya,,2019-10-15T14:12:55.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,thomasschafer97/keras-kannada-mnist,Keras - Kannada MNIST,Thomas Schafer,,2019-10-22T18:01:15.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,rubenscastro/kannada-mnist-beginner-by-rubens,Kannada mnist: Beginner by Rubens,Rubens de Castro Pereira,,2019-10-14T19:40:02.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,gsdeepakkumar/yet-another-mnist,Yet Another MNIST !!!,GSD,,2019-10-28T03:39:41.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ramanarvind/kannada-mnist,Kannada_MNIST,Arvind Raman,,2019-10-09T03:56:36.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,myasincifci/kernel4676acd02d,kernel4676acd02d,Yasin Cifci,,2019-10-06T12:42:01.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,gesamr/kannada-submissions,Kannada_Submissions,GeorgiSamardzhiev,,2019-10-08T11:30:03.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,japanese910/kannnada-mnist,kannnada_MNIST,japanese910,,2019-10-20T10:53:08.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,msl007/kernel54cfb2863b,kernel54cfb2863b,Manish_Kumar_Yadav,,2019-10-02T20:40:47.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,plarmuseau/simple-regression,simple regression,Paul Larmuseau,,2019-10-02T16:57:31.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,darshaanjay/kannada-mnist-digit-recognize-99-75-accuracy,Kannada-MNIST-Digit-Recognize-99.75% Accuracy,Darshan Jayanna,,2019-10-02T15:41:34.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,sathkrith/cnn-for-digits,CNN for digits,kitty_paws,,2019-10-09T17:51:55.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,mak4alex/kannada-mnis-competition,Kannada MNIS competition,Ales,,2019-10-12T19:13:36.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ahmedzeiri/kernela851d83a3e,kernela851d83a3e,ahmedzeiri,,2019-10-01T09:19:39.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,sanath123/easy-and-quick-keras-model-for-kannada-mnist,Easy and quick Keras model for Kannada MNIST,Sanath,,2019-10-10T13:05:16.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,ahmedzeiri/kernel244a1c5670,kernel244a1c5670,ahmedzeiri,,2019-09-30T22:24:49.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,kshitijsutar/kernelbefbda66b7,kernelbefbda66b7,Kshitij Sutar,,2019-09-26T20:08:16.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,gray98/kannada-pytorch,Kannada+pytorch,gray98,,2019-10-12T10:39:37.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,plarmuseau/pca-svm-baseline,PCA SVM Baseline,Paul Larmuseau,,2019-09-26T07:14:10.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,vaidyaprasad84/3-layer-cnn-simple-data-augmentation,3 layer CNN + simple data augmentation,Prasad,,2019-09-24T17:45:37.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,zhizuijinmi/kernel2,kernel2,Xiuxin Yang,,2019-09-21T14:36:29.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,plarmuseau/mnist-test-script,mnist test script,Paul Larmuseau,,2019-09-20T16:39:28.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,cdonohue/kannadamnist,kannadamnist,Chris,,2019-09-26T14:08:59.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,Kannada-MNIST
+,,,,,0,chengjianjun/full-version,full_version,ChengJianJun,,2022-05-01T11:32:24.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ashentoo/full-version,full_version,Ashentoo,,2022-05-02T13:03:06.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,marutcomp/geez-digit-handwritten,Geez digit handwritten,Maru,,2022-06-26T19:31:00.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,matkemscienov/notebook35a9b1ce9d,notebook35a9b1ce9d,Matkem Scienov,,2022-04-06T22:09:38.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,szlsidvid/notebook5af3b08c3f,notebook5af3b08c3f,Szőlősi Dávid,,2022-04-06T20:30:54.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,szlsidvid/szd-boosting,SzD-Boosting,Szőlősi Dávid,,2022-04-06T19:53:26.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,szbela87/xgb-v2,xgb_v2,Bela,,2022-04-06T20:58:38.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,szbela87/cnn-final,cnn_final,Bela,,2022-04-05T11:37:29.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,szigsoma/teszt-pretrained-nn2,teszt_pretrained_nn2,Sosoma,,2022-04-03T12:39:33.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,szigsoma/teszt1,teszt1,Sosoma,,2022-03-29T04:16:21.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,kataibence/002-kannada-minst-boost,002-Kannada-MINST_boost,Bence Katai-Pal,,2022-04-06T05:29:22.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,heggadal/kannada-mnist-eng-accuracy-98,Kannada MNIST (Eng + ಕನ್ನಡ) Accuracy: 98%,Sagar,,2022-06-15T08:03:34.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,changfeng0012/notebook519acc47c5,notebook519acc47c5,changfeng,,2022-01-21T03:05:12.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,xsh2021/notebook8556bb5e6b,notebook8556bb5e6b,XSHN,,2021-11-08T04:21:13.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,trngvnnguyn/hog-svm-for-kannada-mnist,Hog+SVM for Kannada MNIST,Trọng Văn Nguyễn,,2021-09-20T13:16:36.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aayushkubba/tensorflow-2-tutorial-get-started-in-deep-learning,TensorFlow 2 Tutorial Get Started in Deep Learning,Aayush Kubba,,2021-09-04T10:30:37.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,barejaa/kannada-mnist,kannada_mnist,Akshay Bareja,,2021-09-18T21:30:10.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,xiangyuhe2021/kannada-mnist-neural-network-5-hdl-and-20-neurons,Kannada MNIST Neural Network 5 HDL and 20 Neurons,Xiangyu He2021,,2021-08-09T00:39:10.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,imanmkhamis/randomforestwithpca,RandomForestWithPCA,Iman M Khamis,,2021-08-01T19:01:46.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ochi0411arata/usingaveragepooling,usingAveragepooling,ochi0411arata,,2021-07-24T06:05:08.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,kaundanyachinmaya07/cnn-with-keras-it-is,CNN with keras it is,chinya07,,2021-07-05T08:02:58.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,abandonblue1015/2021-07-03-mnist,2021-07-03-mnist,Aaron Yang,,2021-07-02T18:54:29.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,virjakawade/digit-recognition-on-kannada-mnist-with-cnns,Digit Recognition on Kannada MNIST with CNNs,Virja Kawade,,2021-06-29T11:40:21.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,loiccoquerelle/kannada-recognition-mnist,Kannada Recognition MNIST,loic coquerelle,,2021-06-07T08:23:08.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,dongjai04/se-net-baseline-eesm5720-inf,SE-Net Baseline EESM5720 Inf,dongdong,,2021-05-02T13:05:18.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ryanmburns93/randomforest2-wpca-kannada-mnist,RandomForest2_wPCA_Kannada-MNIST,Ryan Burns,,2021-05-06T22:07:58.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ryanmburns93/randomforest1-kannada-mnist,RandomForest1_Kannada-MNIST,Ryan Burns,,2021-04-30T23:10:56.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nudatanuts/nb-chunyin-chang,NB_ChunYin Chang,Chun Yin(Paquita)Chang,,2021-05-28T16:24:44.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,elvanselvano/kannada-mnist,Kannada-MNIST,Elvan Selvano,,2021-04-23T01:59:08.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,hasanmoni/ml-dl-2,ML_DL_2,hasan moni,,2021-02-13T16:58:07.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,alexisvannaire/notebookb56e2d9f2c,notebookb56e2d9f2c,AlexisVannaire,,2021-01-25T23:45:03.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pingan001/kannada-mnist,Kannada-MNIST,Ping An,,2021-02-09T03:30:57.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nadezdascosyrskih/notebookbd02afb681,notebookbd02afb681,Nadezda Scosyrskih,,2020-12-24T18:45:49.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,razintailor/kannada-mnist-resnet34,Kannada MNIST Resnet34,Razin Tailor,,2020-12-22T21:27:55.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,duygudulger/kannada-mnist,kannada_mnist,DuyguDulger,,2021-01-12T19:24:54.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,gexueren/kannada,Kannada,gexueren,,2020-12-16T05:40:26.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,caiqingyang/201212mnist,201212mnist,caiqingyang,,2020-12-12T03:14:43.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yusufsalcan/kannada-mnist-classifier,kannada_mnist_classifier,Yusuf Salcan,,2020-12-09T07:41:39.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yuemengzhang/mobilenet2-2,MobileNet2-2,Yuemeng Zhang,,2020-12-02T02:12:55.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,vineethvc/kannadadigits,KannadaDigits,Vineeth V.C,,2020-11-20T22:09:13.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,biswadeep20/notebookb804f19c0b,notebookb804f19c0b,Biswadeep20,,2020-11-18T20:49:57.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,patrickcy/kannadaminst-transferlearning-mobilenet,kannadaMINST_TransferLearning_MobileNet,Patrickcy,,2020-11-09T23:57:57.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,iamshl/notebook82d4f1b490,notebook82d4f1b490,LS,,2020-11-08T18:27:42.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,iamshl/notebook405dc4a0e4,notebook405dc4a0e4,LS,,2020-11-08T18:21:33.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,iamshl/notebook3bb2278fb8,notebook3bb2278fb8,LS,,2020-11-08T18:23:37.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yuemengzhang/cnn-version2,CNN_version2,Yuemeng Zhang,,2020-12-01T05:55:33.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,gyengera/kannada-mnist,Kannada-MNIST,Gaurav Yengera,,2020-10-25T23:50:37.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,patrickcy/kannadaminst-cnn,kannadaMINST_CNN,Patrickcy,,2020-10-24T09:32:25.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,qiruisun/kannada-digit-cnn,kannada_digit_CNN,Qirui Sun,,2020-10-23T23:08:09.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,furiouscool/minist-dataset-using-cnn,MINIST-DATASET-Using-CNN,Akash Modi,,2021-02-18T07:31:40.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,technofille/notebook967835f4dd,notebook967835f4dd,Seda Şenbol,,2020-10-21T11:24:04.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aibeats/kannadamnist-cnn-funjavasf,KannadaMNIST-cnn-funjavasf,ai beats,,2020-11-07T05:14:40.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,iamshl/notebook23d127ece1,notebook23d127ece1,LS,,2020-10-17T19:19:18.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mkgpgroup/kannada-mnist-accuracy-resent,Kannada_MNIST_accuracy_resent,MKGP Group,,2020-10-16T14:47:35.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,patrickcy/kannada-mnist-knn,Kannada-MNIST-KNN,Patrickcy,,2020-10-16T08:18:28.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nehakumarithakur/kannada-mnist,kannada_MNIST,Neha Kumari thakur,,2020-10-16T05:16:39.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,qiruisun/digit-knn,digit_knn,Qirui Sun,,2020-10-15T14:31:35.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aibeats/kannadamnist-knn-funjavasf,KannadaMNIST-Knn-funjavasf,ai beats,,2020-10-15T23:17:08.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,luantrinhthanh/mysolution,mysolution,Jack Trinh,,2021-10-11T05:57:29.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,canaldaciencia/otimizadores,Otimizadores,AI Science,,2020-08-30T11:22:52.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,amanatman/kernel742737c8c4,kernel742737c8c4,Aman Atman,,2020-08-13T14:48:30.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,tokuntokum/kernel67c5a2b3ed,kernel67c5a2b3ed,tokuNtokuM,,2020-07-28T06:03:24.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,thayashi02/kernel45dbe365f1,kernel45dbe365f1,T.Hayashi,,2020-07-24T03:42:59.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aishwaryshukla/kernel3952add23c,kernel3952add23c,Aishwary Shukla,,2020-07-23T03:52:05.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,thayashi02/kernelbf26be97e2,kernelbf26be97e2,T.Hayashi,,2020-07-22T08:03:19.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ratul6/kannada-mnist-using-cnn-acc-98-5,Kannada MNIST using CNN acc: 98.5%,Ratul,,2020-07-20T11:55:53.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,hideyukimimura/kernel5da7524d2a,kernel5da7524d2a,HideyukiMimura,,2020-07-16T07:30:03.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,muhhamedarslanishaq/kernel1303f86d76,kernel1303f86d76,MUHHAMED ARSLAN Ishaq,,2020-07-09T06:19:04.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,muhhamedarslanishaq/kernel504743c51c,kernel504743c51c,MUHHAMED ARSLAN Ishaq,,2020-07-02T17:32:16.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,barracoda/kannada-mnist,kannada mnist,Sauban Musaddiq,,2020-06-30T05:57:10.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,shengmincui/cnn-model,cnn model,ShengminCui,,2020-06-14T08:10:58.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,epdrumond/simple-cnn-classification,Simple CNN Classification,Edilson Drumond,,2020-06-07T11:00:43.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,abnersuniga/trying-fast-ai,trying fast.ai,Abner Suniga,,2020-05-27T23:46:38.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nannigalaxy/kannada-mnist-pytorch,kannada-mnist-pytorch,Nandan M,,2020-09-28T11:01:42.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,chinmaygopal/kernel2b45797b35,kernel2b45797b35,Chinmay Gopal,,2020-05-16T01:53:36.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pradneshmhatre/kannada-mnist-cnn-with-keras,Kannada MNIST | CNN with Keras,Pradnesh Mhatre,,2020-05-15T17:49:41.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ashishsinha29/keras-cnn,keras - CNN,Ashish_Sinha29,,2020-05-17T19:29:52.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,dmitriybaranov/kernel42113ced1b,kernel42113ced1b,Dmitriy Baranov,,2020-05-08T16:24:23.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,swatoplus/kernel330d0bfd5e,kernel330d0bfd5e,S.W.A.T.  O.  P.L.U.S.,,2020-05-31T18:00:18.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,iljailya/kernel4cdacc46d4,kernel4cdacc46d4,ilja_ilya,,2020-05-07T14:03:04.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,opalle/kernel10ecde5976,kernel10ecde5976,Лапо Елизавета (Шад Минск),,2020-05-26T20:08:09.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,gaponeo/kernel7b0330bf6e,kernel7b0330bf6e,Aleksey Gaponenko,,2020-05-07T09:02:43.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,sneha5gsm/kannada-mnist,kannada_mnist,Sneha Ghantasala,,2020-05-02T15:31:26.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,saravananoppila/cnn-kannada-mnist,CNN Kannada Mnist,saravanan oppila,,2020-04-28T20:23:33.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,achyutsrivastava/toyresnet-svm,ToyResnet+SVM,Achyut,,2020-04-27T15:27:35.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,kevinelong/kannada-mnist-mlpclassifier-baseline,Kannada MNIST MLPClassifier Baseline,Kevin Ernest Long,,2020-04-23T20:29:19.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aladdint/cnn-with-data-augmentation-and-lr-reduction,CNN with data augmentation and LR reduction,Aladdin Obeid,,2020-04-21T01:51:14.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nishanthnrn/kannada-mnist,Kannada MNIST,NISHANTH N R Ni,,2020-04-14T13:04:56.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nayaksowrabh/kannada-notebook,Kannada Notebook,Nayak Sowrabh,,2020-04-01T17:32:14.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nitinmahajan20/nm0326-1,nm0326_1,NitinMahajan20,,2020-03-28T05:15:38.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,deeprajbasu/cnn-withkeras,Cnn_withKeras,Deepraj Basu,,2020-03-28T09:21:51.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,giniya/giniya-1,Giniya_1,Giniya,,2020-03-25T02:01:29.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,joesmithkaggle/the-simple-kernel-for-kannada-mnist,The Simple Kernel for Kannada MNIST,Amir Hossein Alikhah Mishamandani,,2020-02-19T09:32:13.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,hsaeme/mnist-cnn,mnist CNN,Seam Chung,,2020-02-21T06:26:37.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,xerous/weareready,Weareready,Xerous,,2020-04-07T14:55:20.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,dimafurs1337/kannada-mnist-cnn,Kannada MNIST CNN,Dima Furs,,2020-02-15T12:27:36.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,abbbhishekkk/kannadamnist,kannadaMNIST,Abhishek Srivastava,,2020-02-11T19:18:44.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,siddheshsathe/kannada-mnist,Kannada MNIST,Siddhesh Sathe,,2020-02-17T06:53:33.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,bhaveshpanchal13/kernel7d7ed6ec5c,kernel7d7ed6ec5c,BhaveshPanchal13,,2020-02-11T08:42:08.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,anku5hk/kannada-mnist,Kannada_mnist,Ankush kuwar,,2020-02-15T17:00:18.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,sasa99/kernel1a9e717818,kernel1a9e717818,Mohammad Saneian,,2020-02-07T23:06:52.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,tadehalexani/kannada-mnist-using-pca,Kannada MNIST using PCA,Tadeh Alexani,,2020-02-07T06:20:38.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mchavoshi/rahnema-new-mnist,rahnema_new_mnist,M Chav,,2020-02-06T21:17:03.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pallavisonagote/kernel36170b7657,kernel36170b7657,Pallavi Sonagote,,2020-02-05T06:27:54.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yazeenyuvvh/kannada-mnist,kannada mnist,Yazeen Yuvvh,,2020-02-04T06:20:07.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,lxd941213/kernel5bd9022c7c,kernel5bd9022c7c,Retry Lou,,2020-02-04T04:16:03.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,kimeg7/kannada-mnist-data-recognizer,Kannada MNIST Data Recognizer,Kimeg,,2020-02-05T05:25:44.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,bilokin/kannada,Kannada,Sviatoslav Bilokin,,2020-02-02T16:54:24.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yettellasiva/kannada-mnist-cnn,Kannada_MNIST_CNN,siva,,2020-02-02T17:40:56.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,gundamb2/simple-eda-and-tf-keras-cnn,Simple EDA and Tf.keras CNN ,Shannon Chowdhury,,2020-01-31T01:30:18.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,bmk007/kannada-mnist,Kannada_MNIST,bmk007,,2020-01-25T07:14:02.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,dviswana/kernel1e63885e19,kernel1e63885e19,Dviswana,,2020-01-16T17:29:35.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,thetrueharvey/kannada-mnist-tensorflow,Kannada MNIST TensorFlow,Nick Harvey,,2020-01-16T14:32:24.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,dviswana/kannada-mnist,Kannada_MNIST,Dviswana,,2020-01-16T17:16:04.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,prashanthprao/linear-regression-to-kannada-minst,Linear Regression to Kannada MINST,Prashanth Rao,,2020-01-11T16:36:01.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,thetrueharvey/kannada-mnist,Kannada MNIST,Nick Harvey,,2020-01-30T16:22:43.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,danielkurniadi/kannada-pytorch-with-cnn,Kannada Pytorch with CNN,Daniel Kurniadi,,2020-01-06T05:50:40.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,abhishek4273/building-cnns-while-visualizing-with-monk,Building CNNs while visualizing with Monk,AbhishekAnnamraju,,2020-01-04T21:58:36.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,cyzhou99/coincidance-xgboost,Coincidance_XGBoost,Cy,,2020-01-05T06:45:26.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,cyzhou99/coincidance-lr-lbp,Coincidance_LR+LBP,Cy,,2020-01-05T07:40:26.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,liuyuanzhao/kernel22067ddf63,kernel22067ddf63,liuyuanzhao,,2020-01-04T13:30:49.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mlosthread/kernelsvm-hog,kernelSVM+HOG,MLOSTHREAD,,2020-01-03T06:18:49.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nitwmanish/kannada-mnist-simple-densenet-in-keras,Kannada-MNIST-Simple-DenseNet-in-Keras,Manish Nayak,,2020-01-01T00:16:17.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ngbihu/kernel1210d3ca2d,kernel1210d3ca2d,Đăng Bùi Hữu,,2019-12-30T00:50:31.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,anayad/baseline-cnn,BaseLine CNN,AnandYadav,,2019-12-25T06:04:15.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,sharmaalok/kannada-mnist,Kannada-MNIST,Allo,,2019-12-24T04:12:47.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,vladislavdzeikun/kannada-mnist-lab-2-cgan-dzeikun,Kannada-MNIST. Lab 2. cGan. Dzeikun,Vladislav Dzeikun,,2019-12-23T23:29:03.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,infhyroyage/apply-stn-to-dig-mnist-csv,Apply STN to Dig-MNIST.csv,KIDO Takeru,,2019-12-22T05:35:49.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,fernandoeac/kannada-mnist,kannada mnist,Fernando Carvalho,,2020-02-28T11:57:03.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,alosat/kernel74f06a0753,kernel74f06a0753,Maciej Alosat,,2020-01-03T07:32:56.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mswieton/2019-12-17-kannada-cnn-with-augmentation-lrr,2019_12_17_Kannada_CNN with augmentation LRR,Marek Swieton,,2019-12-17T18:45:43.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,rezedamindubaeva/kernel12cd3c885b,kernel12cd3c885b,Rezeda Mindubaeva,,2019-12-17T15:46:42.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,viacheslavdedik/kernelcc708fd95f,kernelcc708fd95f,Viacheslav Dedik,,2019-12-17T12:44:15.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,toraveng/kamyno-kannada,Kamyno_Kannada,Victoria,,2019-12-20T09:49:24.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,numan947/vggnet-13-with-train-digit-training,"VGGNet 13 with ""Train+Digit"" training ",numan947,,2019-12-19T09:39:51.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,valerias/kernel608f2a4198,kernel608f2a4198,Valeria S,,2019-12-17T11:51:24.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,akashkumarmallick/kernel235306077e,kernel235306077e,Akashkumar Mallick,,2019-12-17T09:05:13.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,meymchen/cnn-with-mxnet-gluon-api,CNN with MXNet Gluon API,Yuming Chen,,2019-12-17T08:40:48.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,jd81197/capsule-kannad,capsule_kannad,Jaydeep,,2019-12-30T06:31:25.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,parikshitbangde/kannad-mnist,kannad_mnist,Parikshit Bangde,,2019-12-17T08:14:41.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,leonyangyu/kannada-mnist-leonyu,Kannada MNIST_LeonYu,Yang Yu,,2019-12-18T07:29:27.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ibraheemmoosa/kannada-mnist-fully-conv-with-dropout,Kannada MNIST Fully Conv With Dropout,ibraheemmoosa,,2019-12-16T18:08:01.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,test19644/kernel7525df35e3,kernel7525df35e3,plz.enjoy,,2019-12-17T10:40:13.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pikkupr/kannadamnist-cnn-dataaugmentation,KannadaMNIST-CNN-DataAugmentation,Prateek Jain,,2019-12-17T17:32:03.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,amitjslearn/transfer-learning-using-mnist-vgg-like,Transfer_learning_using_MNIST_VGG-like,S amit,,2019-12-17T20:15:28.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pikkupr/kannadamnist-cnn-with-hyperparameters-tuning,KannadaMNIST-CNN-with Hyperparameters tuning,Prateek Jain,,2019-12-15T12:35:50.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,r4rajaa/tensorflow2-simple-nn-models,tensorflow2 - simple NN models,Raja,,2019-12-14T23:36:56.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,vivekvashista/kannada-mnist-check,kannada-mnist-check,vivekvashista,,2019-12-14T20:52:43.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,eugenesg/kannada-digits-kernel,Kannada_digits_kernel,Eugene Golovachev,,2019-12-14T20:24:40.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,sophiasusanraju/kannadamnist-v3-team-niso,KannadaMNIST_v3_team_niso,SOPHIA SUSAN RAJU,,2019-12-15T08:09:52.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,frolui/knnd-mnst,knnd_mnst,Andrey Fro,,2019-12-18T19:42:38.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,maguser/my-kannada-mnist,my_Kannada-MNIST,Eugen Kirichenko,,2020-11-02T10:13:00.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pratikchoudhari/kannada-mnist,kannada_mnist,Pratik.Choudhari,,2020-05-20T18:44:30.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,peterpetrov826/kernel6ca0aa874d,kernel6ca0aa874d,petrov,,2019-12-15T13:41:29.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,alekseykobylin/pytorch-cnn-kannada-mnist,PyTorch CNN Kannada MNIST,Aleksey Kobylin,,2019-12-16T11:48:56.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,fkdplc/kannada-mnist-keras-cnn,Kannada MNIST: keras CNN,fkdplc,,2020-01-12T19:16:15.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,rugan01/fastai-resnet50,fastai-resnet50,BalaMurugan,,2019-12-12T04:45:05.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,r4rajaa/logistic-regression-with-different-solvers,logistic regression with different solvers,Raja,,2019-12-11T03:33:53.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,olegshamanin/kernel7c12d21063,kernel7c12d21063,Oleg Shamanin,,2019-12-10T15:53:49.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,bigcaij/lenet,lenet,bigcaij,,2019-12-07T08:17:07.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,scirpus/genetic-programming-with-whitening,Genetic Programming with Whitening,Scirpus,,2019-12-06T14:01:18.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,hanwenzhu/kannada-mnist,Kannada-MNIST,Hanwen Zhu,,2019-12-10T07:45:02.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,cahein1371/simple-cnn-by-keras,simple_cnn_by_keras,cahein,,2019-12-14T05:18:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,amal19/kannada-mnist,Kannada MNIST,Amal Jayaranga,,2019-12-05T15:38:03.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,partha1189/kannada-fastai-1,kannada-FastAI-1,Partha Sen,,2019-12-17T11:16:19.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,valeriyarudikova/kernel14c6d795d2,kernel14c6d795d2,Valeriya Rudikova,,2019-12-03T10:38:23.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,five555/kernel2fa0f8591c,kernel2fa0f8591c,Five555,,2019-12-02T08:41:27.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,cyzhou99/coincidance-lr,Coincidance_LR,Cy,,2020-01-05T08:18:05.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,tippu89/kannada-mnist-keras-cnn-starter,kannada-mnist-keras-cnn-starter,Tippu Shaik,,2019-11-30T20:22:04.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mswieton/2019-11-29-kannada-simple-cnn,2019_11_29_Kannada_simple_CNN,Marek Swieton,,2019-11-29T17:35:50.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,toraveng/kernel632409fc29,kernel632409fc29,Victoria,,2019-11-28T14:22:36.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,zmiecerbyl/task-2,Task 2,Dzmitry Bylinovich,,2019-11-28T16:11:10.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nkuchenb/kernel3d8d56809a,kernel3d8d56809a,NKU_Chenb,,2019-11-28T15:13:15.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,julianli0220/kannada-mnist,Kannada MNIST,JulianLi,,2019-12-16T05:49:19.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,valuimnee/simple-dnn,Simple DNN,Valuimnee,,2019-11-26T22:17:10.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,jerwinwieser/kannada-mnist,Kannada_MNIST,Jerwin,,2019-11-26T00:04:41.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,ritzjain/kannada-digit-recognition,Kannada Digit Recognition ,Ritik ,,2019-11-25T20:29:28.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,larandaa/aryzhevich-nn-2-lenet,aryzhevich_nn_2_lenet,Alexandra Ryzhevich,,2019-11-24T19:58:18.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,jjbuchanan/pretrained-on-full-data-kannada-mnist,Pretrained on full data: Kannada-MNIST,jjbuchanan,,2019-11-21T12:24:53.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,jjbuchanan/full-dataset-training-kannada-mnist,Full dataset training: Kannada-MNIST,jjbuchanan,,2019-11-21T00:38:54.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,alexanderzhidkov/kernel25b6f0c072,kernel25b6f0c072,Alexander Zhidkov,,2019-11-19T14:26:53.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,zeeeeey/pytorch-cnn-kanada,Pytorch CNN Kanada,zeeeey,,2019-11-22T11:11:14.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yuki19940627/neural-nets-cnn,Neural Nets/CNN,Yuki ,,2019-12-13T16:15:18.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,zanin259/kannda-mnist,Kannda Mnist ,Fuad Zaneen,,2019-11-17T15:31:51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,antoninavertinskaya/kernel281a8dfa55,kernel281a8dfa55,Antonina Vertinskaya,,2019-11-14T18:48:33.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,nikitaatroshenko/kernel3fff1d0236,kernel3fff1d0236,Nikita Atroshenko,,2019-11-14T16:41:58.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,flyingmuttus/kannada-mnist-with-fastai,Kannada-MNIST with FASTAI,Mallikarjun v Sajjan,,2019-11-22T04:39:00.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aabhi202/only-submissions,only submissions,Abhi Kumar,,2019-11-14T05:13:31.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aabhi202/using-monk-low-code-transfer-learning-toolkit,Using Monk: Low code transfer learning toolkit,Abhi Kumar,,2019-11-13T17:05:29.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,chariots17/try-again,Try_again,谁不重要,,2019-11-08T12:33:27.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mahmoudvaziri/kannadamnist,KannadaMNIST,mahmoudvaziri,,2019-11-12T09:16:27.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,zmiecerbyl/zyanon-nash-kandydat,ZYANON NASH KANDYDAT,Dzmitry Bylinovich,,2019-11-17T19:56:06.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,kdorichev/my-kannada-mnist,My Kannada MNIST,Konstantin Dorichev,,2019-11-05T11:03:15.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,shrishahs/kannadamnistbeginnerstry,KannadaMNISTBeginnersTry,Shrisha h s,,2019-11-14T09:23:37.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,niteshksingh/kannada-mnist-acc-0-97,Kannada_MNIST_Acc-0.97,Nitesh Kumar Singh,,2020-04-09T16:06:03.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,manugondssg/kannada-mnist-with-custom-cnn-in-pytorch,Kannada MNIST with custom CNN in PyTorch,3Zade_SSG,,2019-10-25T17:17:20.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,yufengg/kannada-automl-csv-maker,kannada - automl csv maker,Yufeng Guo,,2019-10-25T02:44:27.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,pieterblomme/kannada-v0-3,Kannada_v0.3,PieterBlomme,,2019-10-23T19:59:33.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,sagardeshmukh01/kannada-mnist-fastai-resnet30,Kannada MNIST Fastai Resnet30,Sagar Deshmukh,,2019-10-29T06:56:08.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,duvictorsc/keras-load-model-with-learning-rate,Keras Load Model with Learning Rate,Paulo Victor,,2019-10-21T19:59:07.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,natavidad/kaggle-day-1,kaggle_day_1,Kelly,,2019-10-20T05:14:08.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,dingding123/kaggledays-china-novice-comp1,kaggledays-china-novice-comp1,mandy,,2019-10-20T04:40:52.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,zainmar/kannada-kaggle-days-china,Kannada Kaggle days china,kurniawan zainmar,,2019-10-20T06:23:12.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,mrugeles/kannada-mnist,Kannada MNIST,Mario Rugeles,,2019-10-20T02:37:10.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,duvictorsc/kannada-mnist-convolutional-neural-network,Kannada MNIST - Convolutional Neural Network,Paulo Victor,,2019-10-29T10:46:14.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,duvictorsc/transfer-learning,transfer learning,Paulo Victor,,2019-10-15T11:44:53.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,geochatz/kannada-mnist-recognizer-cnn,Kannada MNIST Recognizer - CNN,Georgios Chatzis,,2021-10-31T16:34:43.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,harshavardhanbabu/kannadamnist-catalyst-pytorch,KannadaMNIST_Catalyst_PyTorch,HarshaVardhanBabu,,2019-10-19T11:43:38.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,joaoluizsouzatorres/kannada-mnist-v02,Kannada-MNIST_v02,João Luiz de Souza Torres,,2019-10-23T05:50:02.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,bobforli/kernel74e059b74b,kernel74e059b74b,Bob.Li,,2019-10-11T07:03:07.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,aniketmm98/kernel432b47a074,kernel432b47a074,Aniket Mahindrakar,,2019-10-16T09:29:15.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,greatgamedota/kannada-mnist-cnn,Kannada MNIST CNN,GreatGameDota,,2019-10-04T22:12:00.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,fyuta24/kannada-mnist-cnn-achived-0-988-private-score,Kannada-MNIST CNN achived 0.988 Private Score ,yuta,,2020-01-14T07:47:29.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,montimirko/kannada-mnist,Kannada-MNIST,Monti,,2019-12-18T09:13:25.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST
+,,,,,0,grecs2001/kannada-mnist-keras-cnn,Kannada MNIST Keras CNN,Fabien M.,,2019-12-17T20:56:34.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,Kannada-MNIST

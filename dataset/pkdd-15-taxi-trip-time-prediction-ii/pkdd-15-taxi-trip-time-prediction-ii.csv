@@ -1,0 +1,14 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,wikunia/speed-visualization,Speed visualization ,Ole Kröger,,2015-05-30T08:12:20.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,willieliao/beat-the-benchmark,Beat The Benchmark,Willie Liao,,2015-07-07T19:40:28.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,benhamner/speed-visualization,Speed visualization ,Ben Hamner,,2015-05-29T07:26:04.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,dataista/0-60-on-lb-w-max-mean-time-plus-trick,"0,60 on LB w/ max(mean,time) plus trick",Dataista,,2015-06-19T14:28:24.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,dataista/time-prob-density-plot,TIME prob density plot,Dataista,,2015-06-15T09:02:15.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,chevli/polylinelength,PolyLineLength,vrajs5,,2015-07-01T04:29:10.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,jihyeseo/trip-eda-rda-unzip,trip eda rda unzip,Jihye Sofia Seo,,2018-05-08T15:46:05.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,darshanbutiya/darshan1,darshan1,darshanbutiya,,2015-09-06T05:29:42.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,hansolo/beat-the-benchmark,Beat The Benchmark,ShortBusDataScience,,2015-07-02T00:01:01.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,drvivi/add-a-constant-value-score-0-5995,Add a constant value - score 0.5995 ,DrVivi,,2015-06-27T19:34:45.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,ykwon0407/test-python,Test_python,yongyong,,2015-06-27T04:23:08.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,wenson/test33,test33,Wenson,,2015-06-21T18:09:54.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii
+,,,,,0,eduardw/speed-visualization,Speed visualization ,EduardW,,2015-06-02T20:49:11.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,pkdd-15-taxi-trip-time-prediction-ii

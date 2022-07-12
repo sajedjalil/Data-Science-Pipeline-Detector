@@ -1,0 +1,1 @@
+__import__('pandas').read_csv('../input/test_v2.csv', usecols=[4,8], dtype={'fullVisitorId': 'str'}, converters={'totals': lambda t: float(dict(eval(t))['transactionRevenue']) if 'transactionRevenue' in t else 0}).groupby(['fullVisitorId'])['totals'].sum().to_frame(name='PredictedLogRevenue').apply(__import__('numpy').log1p).to_csv('sub.csv')

@@ -1,0 +1,100 @@
+
+"""
+Based on Vladimir Iglovikov' script 
+https://www.kaggle.com/iglovikov/allstate-claims-severity/xgb-1114/discussion
+"""
+import pandas as pd
+import numpy as np
+import xgboost as xgb
+
+from sklearn.metrics import mean_absolute_error
+
+train = pd.read_csv('../input/train.csv')
+test = pd.read_csv('../input/test.csv')
+
+#N_tr = train.shape[0]
+#Y_sorted = train.loss.sort_values()
+#goodRows = Y_sorted.index.values[np.int(N_tr*0.00005):np.int(N_tr*1)]
+#train = train.iloc[goodRows]
+
+from sklearn import preprocessing
+polyas = preprocessing.PolynomialFeatures(2)
+asdf = pd.DataFrame(polyas.fit_transform(train[np.arange(117,131)]))
+train = pd.concat([train,asdf], axis=1)
+asdf2 = pd.DataFrame(polyas.fit_transform(test[np.arange(117,131)]))
+test = pd.concat([test,asdf2], axis=1)
+
+test['loss'] = np.nan
+joined = pd.concat([train, test])
+def logregobj(preds, dtrain):
+    labels = dtrain.get_label()
+    con =2
+    x =preds-labels
+    grad =con*x / (np.abs(x)+con)
+    hess =con**2 / (np.abs(x)+con)**2
+    return grad, hess 
+
+
+def evalerror(preds, dtrain):
+    labels = dtrain.get_label()
+    return 'mae', mean_absolute_error(np.exp(preds), np.exp(labels))
+
+if __name__ == '__main__':
+    for column in list(train.select_dtypes(include=['object']).columns):
+        if train[column].nunique() != test[column].nunique():
+            set_train = set(train[column].unique())
+            set_test = set(test[column].unique())
+            remove_train = set_train - set_test
+            remove_test = set_test - set_train
+
+            remove = remove_train.union(remove_test)
+            def filter_cat(x):
+                if x in remove:
+                    return np.nan
+                return x
+
+            joined[column] = joined[column].apply(lambda x: filter_cat(x), 1)
+            
+        joined[column] = pd.factorize(joined[column].values, sort=True)[0]
+
+    train = joined[joined['loss'].notnull()]
+    test = joined[joined['loss'].isnull()]
+
+    shift = 500
+    y = np.log(train['loss'] + shift)
+    ids = test['id']
+    X = train.drop(['loss', 'id'], 1)
+    X_test = test.drop(['loss', 'id'], 1)
+
+    from sklearn.model_selection import train_test_split
+    x_train, x_valid, y_train, y_valid =train_test_split(X, y, test_size=0.2, random_state=2016)
+    RANDOM_STATE = 2016
+    params = {
+        'min_child_weight': 0.25,
+        'eta': 0.05,
+        'colsample_bytree': 1,
+        'max_depth': 10,
+        'subsample': 0.75,
+        'alpha': 1,
+        'gamma': 5,
+        'silent': 1,
+        'verbose_eval': True,
+        'seed': RANDOM_STATE,
+        'nthread':7,
+        'base_score':7.76
+    }
+
+    xgtrain = xgb.DMatrix(x_train, label=y_train)
+    xgval = xgb.DMatrix(x_valid, label=y_valid)
+    xgtest = xgb.DMatrix(X_test)
+    watchlist = [ (xgtrain,'train'),(xgval,'eval')]
+    model = xgb.train(params, xgtrain,5000,watchlist,obj=logregobj,feval=evalerror,early_stopping_rounds=10)
+
+    prediction = np.exp(model.predict(xgtest)) - shift
+
+    submission = pd.DataFrame()
+    submission['id'] = ids
+    submission['loss'] = prediction
+    submission.to_csv('sub_fair_obj.csv', index=False)
+    
+    

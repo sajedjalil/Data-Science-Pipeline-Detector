@@ -1,0 +1,327 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,bgmello/neural-networks-feature-engineering-for-the-win,neural networks + feature engineering for the win,Bruno Gorresen Mello,,2019-10-29T18:38:23.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],510,nfl-big-data-bowl-2020
+,,,,,0,dster/nfl-big-data-bowl-official-starter-notebook,NFL Big Data Bowl Official Starter Notebook,DJ Sterling,,2019-10-09T21:26:21.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],317,nfl-big-data-bowl-2020
+,,,,,0,robikscube/nfl-big-data-bowl-plotting-player-position,NFL Big Data Bowl - Plotting Player Position,Rob Mulla,,2020-10-14T20:42:50.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],310,nfl-big-data-bowl-2020
+,,,,,0,cpmpml/initial-wrangling-voronoi-areas-in-python,initial wrangling & Voronoi areas in Python,CPMP,,2019-11-14T19:49:41.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],276,nfl-big-data-bowl-2020
+,,,,,0,tombresee/next-gen-eda,Next Gen EDA,TexasTom,,2021-05-18T21:21:42.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],248,nfl-big-data-bowl-2020
+,,,,,0,hukuda222/nfl-simple-model-using-lightgbm,NFL simple model using lightGBM,hukuda222,,2019-10-14T03:12:44.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],188,nfl-big-data-bowl-2020
+,,,,,0,fatihbilgin/nfl-big-data-visualization,NFL Big Data Visualization,Fatih Bilgin,,2019-11-20T17:16:54.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],167,nfl-big-data-bowl-2020
+,,,,,0,cpmpml/graph-transfomer,Graph Transfomer,CPMP,,2020-01-08T19:30:34.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],162,nfl-big-data-bowl-2020
+,,,,,0,sryo188558/cox-proportional-hazard-model,Cox proportional hazard model,sryo,,2019-11-02T05:19:05.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],157,nfl-big-data-bowl-2020
+,,,,,0,mrkmakr/neural-network-with-mae-objective-0-01381,"neural network, with mae objective, 0.01381",mrkmakr,,2019-10-24T15:39:31.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],156,nfl-big-data-bowl-2020
+,,,,,0,robikscube/big-data-bowl-comprehensive-eda-with-pandas,🏟️ Big Data Bowl - Comprehensive EDA with Pandas,Rob Mulla,,2019-10-22T17:57:08.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],120,nfl-big-data-bowl-2020
+,,,,,0,ryches/model-free-benchmark,Model-Free Benchmark,ryches,,2019-10-15T06:48:21.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],116,nfl-big-data-bowl-2020
+,,,,,0,sudalairajkumar/simple-exploration-notebook-nfl,Simple Exploration Notebook - NFL,SRK,,2019-10-16T07:44:39.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],114,nfl-big-data-bowl-2020
+,,,,,0,coolcoder22/nn-19-features,NN-19 features,zoro,,2019-11-05T18:02:45.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,nfl-big-data-bowl-2020
+,,,,,0,kingychiu/keras-nn-starter-crps-early-stopping,🏈 Keras NN Starter &  CRPS & Early Stopping 🏈,nlgn,,2019-10-15T05:00:14.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,nfl-big-data-bowl-2020
+,,,,,0,pednt9/vip-hint-coded,VIP Hint coded,Paul Dnt,,2019-11-12T15:14:58.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,nfl-big-data-bowl-2020
+,,,,,0,bestpredict/location-eda-8eb410,Location EDA 8eb410,DIKW,,2019-11-07T01:25:16.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],89,nfl-big-data-bowl-2020
+,,,,,0,gogo827jz/blending-nn-and-lgbm-rf,Blending NN and LGBM/RF,Yirun Zhang,,2020-12-23T02:00:50.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],80,nfl-big-data-bowl-2020
+,,,,,0,jpmiller/nfl-1standfuture-report,NFL 1standFuture Report 🏈,JohnM,,2020-04-14T18:39:00.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],76,nfl-big-data-bowl-2020
+,,,,,0,mrkmakr/lgbm-multiple-classifier,"lgbm, multiple classifier ",mrkmakr,,2019-10-25T12:04:43.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],72,nfl-big-data-bowl-2020
+,,,,,0,hukuda222/nfl-simple-evluation-trick,NFL simple evluation trick,hukuda222,,2019-10-11T12:08:10.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,nfl-big-data-bowl-2020
+,,,,,0,tarunpaparaju/nfl-competition-eda-pytorch-cnn,NFL Competition : EDA + PyTorch CNN 🔥,Tarun Paparaju,,2020-02-24T07:05:40.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,nfl-big-data-bowl-2020
+,,,,,0,dandrocec/location-eda-with-rusher-features,Location EDA with rusher features,Darko Androcec,,2019-11-19T08:59:18.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,nfl-big-data-bowl-2020
+,,,,,0,jastornaut/nfl-eda-ftw-lean-clean-and-astroturf-green,"NFL EDA FTW - Lean, Clean, and AstroTurf Green",Jeff Astor,,2019-10-11T07:06:51.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,nfl-big-data-bowl-2020
+,,,,,0,kusunokichihiro/description-in-japanese-and-first-model-example,Description in Japanese and First Model Example,Kusunoki Chihiro,,2019-10-17T10:56:08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,nfl-big-data-bowl-2020
+,,,,,0,prashantkikani/nfl-starter-mlp-feature-engg,NFL Starter. MLP + Feature Engg. ,Prashant Kikani,,2019-10-14T03:54:19.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,nfl-big-data-bowl-2020
+,,,,,0,miklgr500/fork-of-neural-networks-radam-repeatkfold,fork of neural networks... + RAdam & RepeatKfold,Welf Crozzo,,2019-10-21T04:23:56.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,nfl-big-data-bowl-2020
+,,,,,0,pradeepmuniasamy/extensive-eda-fe-models-on-nfl-big-data-bowl,Extensive EDA +FE+Models on NFL Big Data Bowl,Pradeep Muniasamy,,2019-11-13T06:24:02.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,nfl-big-data-bowl-2020
+,,,,,0,scirpus/hybrid-gp-and-nn,Hybrid GP and NN,Scirpus,,2019-10-26T12:25:00.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,nfl-big-data-bowl-2020
+,,,,,0,peterhurford/something-is-the-matter-with-orientation,Something is the Matter with Orientation,Peter Hurford,,2019-10-19T02:30:03.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,nfl-big-data-bowl-2020
+,,,,,0,ryancaldwell/location-eda,Location EDA,RyanCaldwell,,2019-10-26T20:55:13.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,nfl-big-data-bowl-2020
+,,,,,0,ryches/cnn-on-the-playing-field,CNN on the playing field,ryches,,2019-10-25T19:37:34.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,nfl-big-data-bowl-2020
+,,,,,0,kenmatsu4/nn-outputs-gaussian-distribution-directly,NN outputs gaussian distribution directly.,kenmatsu4,,2019-11-03T15:34:22.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,nfl-big-data-bowl-2020
+,,,,,0,coolcoder22/nfl-001-random-forest,[NFL] - [001]- [Random Forest],zoro,,2019-11-03T18:29:40.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,nfl-big-data-bowl-2020
+,,,,,0,ben519/understanding-x-y-dir-and-orientation,"Understanding X, Y, Dir and Orientation",Ben Gorman,,2019-10-30T18:40:08.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,nfl-big-data-bowl-2020
+,,,,,0,gpreda/accelerated-data-analytics-using-pandas-profiling,Accelerated Data Analytics using Pandas-Profiling,Gabriel Preda,,2019-12-22T11:27:45.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,nfl-big-data-bowl-2020
+,,,,,0,rooshroosh/fork-of-neural-networks-different-architecture,fork of neural networks + different architecture,Ruslan  Talipov,,2019-10-21T17:15:23.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,nfl-big-data-bowl-2020
+,,,,,0,shahules/how-about-some-nn-keras-starter,How about some NN? Keras Starter,Shahules,,2019-10-20T10:54:03.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,nfl-big-data-bowl-2020
+,,,,,0,gertjac/regression-approach,Regression approach,Gert,,2019-11-12T18:13:21.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,nfl-big-data-bowl-2020
+,,,,,0,prashantkikani/nfl-starter-lgb-feature-engg,NFL Starter. LGB + Feature Engg. ,Prashant Kikani,,2019-10-12T02:43:18.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,nfl-big-data-bowl-2020
+,,,,,0,vbmokin/lgbm-multiple-classifier-with-max-depth-6,"lgbm, multiple classifier with max_depth=6",Vitalii Mokin,,2019-11-21T04:15:27.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,nfl-big-data-bowl-2020
+,,,,,0,coolcoder22/nfl-001-neural-network,[NFL] - [001]- [Neural Network],zoro,,2019-11-02T09:47:51.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,nfl-big-data-bowl-2020
+,,,,,0,aerdem4/nfl-lofo-importance,NFL LOFO Importance,Ahmet Erdem,,2019-11-01T19:56:57.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,nfl-big-data-bowl-2020
+,,,,,0,subinium/i-want-to-see-all-features-eda-visualization,I Want to See All Features 🏈 (eda&visualization),Subin An,,2019-10-10T22:09:40.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,nfl-big-data-bowl-2020
+,,,,,0,tnmasui/nfl-eda-on-train-test-fe-correlation-anova,"NFL EDA on Train & Test / FE, Correlation, ANOVA",Tomonori Masui,,2019-10-13T17:19:51.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,nfl-big-data-bowl-2020
+,,,,,0,lovedm/fork-of-neural-networks-feature-luck-computer,fork of neural networks + feature luck computer?,安静,,2019-10-12T02:30:50.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,nfl-big-data-bowl-2020
+,,,,,0,rooshroosh/continue-tune-hybrid-gp-and-nn,continue tune Hybrid GP and NN,Ruslan  Talipov,,2019-11-03T13:58:27.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,nfl-big-data-bowl-2020
+,,,,,0,rgoodman/nfl-01393-with-ridge-regres-no-nn-or-boost,NFL .01393 with Ridge Regres (No NN or Boost),RyanGoodman,,2019-11-02T09:02:31.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,nfl-big-data-bowl-2020
+,,,,,0,ryches/nfl-feature-engineering-v2,NFL Feature Engineering v2,ryches,,2019-10-21T00:45:44.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,nfl-big-data-bowl-2020
+,,,,,0,nyanpn/pytorch-transformer-public-14th-private-22nd,Pytorch Transformer (public 14th / private 22nd),nyanp,,2020-01-31T14:32:21.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,nfl-big-data-bowl-2020
+,,,,,0,muhakabartay/update-of-hybrid-gp-and-nn,"Update of ""Hybrid GP and NN""",Mukharbek Organokov,,2020-06-28T23:01:51.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,nfl-big-data-bowl-2020
+,,,,,0,tnmasui/standardizing-s-by-seasons,Standardizing S by Seasons,Tomonori Masui,,2019-10-18T06:40:18.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,nfl-big-data-bowl-2020
+,,,,,0,mervesarac/voronoi-plays,voronoi_plays,Merve,,2019-11-04T04:48:27.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,nfl-big-data-bowl-2020
+,,,,,0,tunguz/adversarial-nfl,Adversarial NFL,Bojan Tunguz,,2019-10-13T23:19:21.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,nfl-big-data-bowl-2020
+,,,,,0,robikscube/the-race-for-nfl-big-data-bowl-2020,🏎️ 🏈 The Race for NFL Big Data Bowl 2020,Rob Mulla,,2019-11-16T14:47:05.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,nfl-big-data-bowl-2020
+,,,,,0,s903124/ngboost-for-nfl-data,NGBoost for NFL data,903124,,2019-10-13T14:38:01.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,nfl-big-data-bowl-2020
+,,,,,0,kashnitsky/nfl-median-baseline-0-01457,NFL median baseline (0.01457),Yury Kashnitsky,,2019-10-12T22:39:13.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,nfl-big-data-bowl-2020
+,,,,,0,hamditarek/eda-to-prediction-features-analysis-engineering,EDA To Prediction: Features analysis & Engineering,Tarek Hamdi,,2019-10-10T08:35:02.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,nfl-big-data-bowl-2020
+,,,,,0,sasrdw/zoo-keras,zoo_keras,Russ Wolfinger,,2019-12-13T11:07:25.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,nfl-big-data-bowl-2020
+,,,,,0,truenikita/neural-networks-multiple-output-stadium-clean,"Neural networks, multiple output + stadium clean",Nikita Ageev,,2019-10-21T22:19:00.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,nfl-big-data-bowl-2020
+,,,,,0,takuok/1st-place-reproduction-10feats-dev,1st place reproduction 10feats dev,takuoko,,2019-12-17T03:38:21.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,nfl-big-data-bowl-2020
+,,,,,0,davidcairuz/nfl-neural-network-w-softmax,NFL Neural Network w/ Softmax,David Cairuz,,2019-10-17T13:26:09.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,nfl-big-data-bowl-2020
+,,,,,0,rdizzl3/nfl-big-data-bowl-classification-perspective,NFL Big Data Bowl - Classification Perspective ,RDizzl3,,2019-10-11T17:04:19.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,nfl-big-data-bowl-2020
+,,,,,0,kenmatsu4/animation-of-field-data-player-position-yards,Animation of field data (Player position & Yards),kenmatsu4,,2019-10-19T02:55:36.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,nfl-big-data-bowl-2020
+,,,,,0,code1110/eda-optimizing-lightgbm-hyperparameters,EDA & optimizing lightGBM hyperparameters,katsu1110,,2019-10-24T22:39:58.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,nfl-big-data-bowl-2020
+,,,,,0,gertjac/is-online-training-allowed,is online training allowed?,Gert,,2019-10-30T21:34:39.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,nfl-big-data-bowl-2020
+,,,,,0,anandavati/ngboost-for-nfl,NGBoost for NFL,avati,,2019-11-16T08:17:23.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,vbmokin/lgbm-multiple-classifier-with-max-depth-5,"lgbm, multiple classifier with max_depth=5",Vitalii Mokin,,2019-11-03T18:42:10.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,tuttifrutti/voronoi-diagram-in-python,Voronoi diagram in Python,tuttifrutti,,2019-10-31T14:00:35.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,datahobbit/hybrid-gp-and-nn-slightly-tuned,Hybrid GP and NN slightly tuned,MichaelP,,2019-10-27T07:25:02.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,hamditarek/squad-visualization-xy-coordinate,Squad Visualization (XY Coordinate),Tarek Hamdi,,2019-10-15T00:58:22.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,jpmiller/simple-distribution,Simple Distribution,JohnM,,2019-10-28T02:38:03.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,hamditarek/neural-networks-feature-engineering-for-the-win,neural networks + feature engineering for the win,Tarek Hamdi,,2019-10-13T12:33:09.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,gunesevitan/nfl-big-data-bowl-test-set,NFL Big Data Bowl - Test Set,Gunes Evitan,,2019-10-10T12:23:03.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,ryches/nfl-big-data-bowl-team-feature-simple-model,NFL Big Data Bowl Team Feature Simple Model,ryches,,2019-10-21T01:37:54.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,nfl-big-data-bowl-2020
+,,,,,0,wimwim/nfl-transformer-final-run,NFL-transformer-final-run,Patrick Yam,,2019-11-27T18:56:37.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,nfl-big-data-bowl-2020
+,,,,,0,muhakabartay/update-on-nn-multiple-output-stadium-clean,"Update on ""NN, multiple output + stadium clean""",Mukharbek Organokov,,2020-09-08T19:51:42.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,nfl-big-data-bowl-2020
+,,,,,0,vbmokin/nfl-feature-importance-xgb-lgbm-linreg,"NFL feature importance - xgb, lgbm, linreg",Vitalii Mokin,,2019-12-06T15:35:09.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,nfl-big-data-bowl-2020
+,,,,,0,hamditarek/fork-of-neural-networks-feature-luck-computer,fork of neural networks + feature luck computer?,Tarek Hamdi,,2019-10-13T17:36:17.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,nfl-big-data-bowl-2020
+,,,,,0,enzoamp/nfl-lightgbm,[NFL] - [LightGBM],Lorenzo Ampil,,2019-11-03T13:23:40.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,nfl-big-data-bowl-2020
+,,,,,0,manojprabhaakr/hybrid-gp-nn-with-feature-engineering,Hybrid GP NN with Feature Engineering,Manoj Prabhakar,,2019-10-28T15:27:15.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,nfl-big-data-bowl-2020
+,,,,,0,kyonaganuma/hierarchical-bayesian-modeling-using-pystan,Hierarchical Bayesian Modeling using pystan,Rigel,,2019-10-28T00:13:17.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,nfl-big-data-bowl-2020
+,,,,,0,gopidurgaprasad/feature-by-feature-explained-in-detailed,Feature by Feature Explained in detailed ,Gopi Durgaprasad,,2019-10-18T15:49:18.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,nfl-big-data-bowl-2020
+,,,,,0,truenikita/gradbm11,GradBM11,Nikita Ageev,,2019-10-11T08:46:51.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,nfl-big-data-bowl-2020
+,,,,,0,go5kuramubon/nfl-mixturedensitynetworks-output-gmm-param-nn,[NFL]MixtureDensityNetworks(output GMM param NN),pao,,2019-11-10T05:35:42.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,nfl-big-data-bowl-2020
+,,,,,0,steubk/simulate-iter-test-on-train,Simulate iter_test on train,steubk,,2019-10-30T20:57:48.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,nfl-big-data-bowl-2020
+,,,,,0,ben519/empirical-cdfs-benchmark,Empirical CDFs Benchmark,Ben Gorman,,2019-10-17T19:30:57.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,nfl-big-data-bowl-2020
+,,,,,0,davidcairuz/i-hope-eda-comes-with-practice,I hope EDA comes with practice,David Cairuz,,2019-11-15T16:41:29.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,nfl-big-data-bowl-2020
+,,,,,0,sinchir0/nfl-simple-eda,NFL - Simple EDA,sinchir0,,2019-10-11T16:59:02.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,nfl-big-data-bowl-2020
+,,,,,0,gertjac/final-leaderboard-predictions,final leaderboard predictions,Gert,,2019-12-11T21:12:33.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,nfl-big-data-bowl-2020
+,,,,,0,sharmistha96/next-gen-eda,Next Gen EDA,Sharmistha Ghosh,,2019-11-26T06:29:35.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,nfl-big-data-bowl-2020
+,,,,,0,apoorvaappz/next-gen-eda-sample,Next Gen EDA Sample,Apoorva Mahalingappa,,2019-11-10T05:47:25.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,nfl-big-data-bowl-2020
+,,,,,0,btatkinson/corrected-orientation-dir-vectors-python,[Corrected] Orientation/Dir Vectors Python,Blake Atkinson,,2019-10-17T14:52:55.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,nfl-big-data-bowl-2020
+,,,,,0,aleksthegreat/lstm-final-working,LSTM Final Working,Aleksthegreat,,2019-11-24T20:58:11.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,nfl-big-data-bowl-2020
+,,,,,0,gogo827jz/bayesian-hyperparameter-tuning-nn-rf,Bayesian Hyperparameter Tuning (NN&RF),Yirun Zhang,,2019-11-20T16:19:58.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,nfl-big-data-bowl-2020
+,,,,,0,holoong9291/nfl-tracking-wrangling-voronoi-and-sonars-python,"NFL tracking: wrangling,Voronoi,and sonars-Python",Ho Loong,,2019-11-28T08:24:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,nfl-big-data-bowl-2020
+,,,,,0,axzhang/nn-no-player-specific-feature,NN-no-Player-Specific-Feature,BiteMe,,2019-11-02T15:51:59.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,nfl-big-data-bowl-2020
+,,,,,0,rodrigolima82/nfl-simple-eda,NFL Simple EDA,Rodrigo Lima,,2019-10-30T14:08:41.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,nfl-big-data-bowl-2020
+,,,,,0,hatunina/nfl-simple-pytorch-by-16-feats,NFL Simple PyTorch by 16 feats,hatunina,,2019-10-18T17:54:57.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,nfl-big-data-bowl-2020
+,,,,,0,christoffer/random-walk-feature-selection,Random Walk Feature Selection,Christoffer Karlsson,,2019-11-13T13:29:56.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,nfl-big-data-bowl-2020
+,,,,,0,juhi1994/next-gen-eda,Next Gen EDA,Juhi Badiyani,,2019-11-10T05:45:45.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,nfl-big-data-bowl-2020
+,,,,,0,coolcoder22/nfl-001-feature-selection,[NFL] - [001]- [Feature selection],zoro,,2019-11-05T04:49:34.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,nfl-big-data-bowl-2020
+,,,,,0,tlegrand/end-to-end-sklearn-pipeline-with-feature-cleaning,End-to-end Sklearn Pipeline with feature cleaning,Thomas Legrand,,2019-11-06T15:52:03.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,nfl-big-data-bowl-2020
+,,,,,0,iaarod/nfl-data-visualizing-acceleration,NFL Data: Visualizing Acceleration,Ivan,,2019-10-20T15:27:04.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,nfl-big-data-bowl-2020
+,,,,,0,jccampos/nfl-2020-winner-solution-the-zoo,NFL-2020-Winner-Solution(The Zoo),Juan Camilo Campos,,2020-04-27T12:12:28.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,kaushal2896/nfl-big-data-bowl-fe-catboost,NFL Big Data Bowl: FE + CatBoost,Kaushal Shah,,2019-11-17T06:28:35.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,cpmpml/save-test,save test,CPMP,,2019-11-02T16:56:09.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,l0lbeattango3/voronoi-diagram-on-football-field-using-scipy,Voronoi diagram on Football Field Using Scipy,LJL,,2019-11-01T11:00:12.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,hookbook/plays-visualization-with-pitch-control,Plays Visualization with Pitch Control,hookbook,,2019-10-25T15:35:00.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,hookbook/nfl-data-visualization-of-plays,NFL Data: Visualization of Plays,hookbook,,2019-10-24T08:53:41.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,donkeys/keras-multi-input,Keras Multi-Input,averagemn,,2019-10-16T20:35:21.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,nfl-big-data-bowl-2020
+,,,,,0,sryo188558/how-to-evaluate-nfl-player-s-contribution,How to evaluate NFL player's contribution ?,sryo,,2020-01-31T18:08:28.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,nfl-big-data-bowl-2020
+,,,,,0,robikscube/0-01348-stage-1-exploding-lightgbm-solution,[0.01348 Stage 1] - Exploding LightGBM Solution ,Rob Mulla,,2019-11-27T21:58:24.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,nfl-big-data-bowl-2020
+,,,,,0,scirpus/location-eda-8eb410-556827,Location EDA 8eb410 556827,Scirpus,,2019-11-19T17:35:54.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,nfl-big-data-bowl-2020
+,,,,,0,amulyamanne/next-gen-eda-sample,Next Gen EDA-Sample,Amulya,,2019-11-10T05:46:59.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,nfl-big-data-bowl-2020
+,,,,,0,harshitholmes/nfl-trial6,NFL-Trial6,Harshit,,2019-11-28T11:58:24.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,nfl-big-data-bowl-2020
+,,,,,0,scirpus/location-eda,Location EDA,Scirpus,,2019-11-16T15:11:45.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,nfl-big-data-bowl-2020
+,,,,,0,s13658695/nfl-xgboost-simple,NFL_XGBoost_Simple,AI Penguin,,2019-11-14T10:21:06.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,nfl-big-data-bowl-2020
+,,,,,0,shishu1421/nfl-bowl-with-location,NFL Bowl with Location,itsshavar,,2019-11-28T05:34:00.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,nfl-big-data-bowl-2020
+,,,,,0,mconway/sarimax,SARIMAX,Mark Conway,,2019-11-06T15:05:01.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,nfl-big-data-bowl-2020
+,,,,,0,somnambwl/nfl-basic-player-information,NFL - Basic Player Information,somnambWl,,2019-10-10T14:03:56.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,nfl-big-data-bowl-2020
+,,,,,0,chabir/eda-3-lines,EDA - 3 lines,eagle4,,2019-10-10T12:22:42.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,nfl-big-data-bowl-2020
+,,,,,0,elvinagammed/simple-automl-eda,Simple AutoML EDA,Elvin Aghammadzada,,2020-09-09T22:15:21.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,aksha17/next-gen-eda,Next Gen EDA,Akaanksha Mishra,,2019-11-26T09:12:22.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,oliveia/nfl-big-data-bowl-with-nn-keras,NFL Big Data Bowl with NN [keras],André Oliveira,,2019-11-26T16:25:06.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,sanshengshi/lightgbm-clean-stadiumtype,LightGBM+clean StadiumType,ren lei,,2019-12-29T06:46:27.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,antoniorivero/nfl-v2,NFL v2,Antonio Rivero,,2019-11-06T21:31:37.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,gertjac/just-to-show-why-i-wonder-about-online-learning,just to show why I wonder about online learning,Gert,,2019-10-30T22:45:36.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,ucfaibot/data-science-fa19-nfl-intro,data-science-fa19-nfl-intro,AI@UCF,,2019-11-07T21:22:28.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,miklgr500/tabular-data-image,Tabular data - > Image,Welf Crozzo,,2019-10-13T14:05:31.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,ksooklall/nfl-bdb-eda,NFL BDB: EDA,Sonetta,,2019-10-10T00:26:46.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,nfl-big-data-bowl-2020
+,,,,,0,pirogovskiy/course-project-nfl,Course project (NFL),Andrew,,2021-05-13T10:59:44.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,nidaguler/eda-nfl-big-data-bowl,EDA NFL Big Data Bowl ,Nida Güler,,2020-04-27T23:35:24.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,scirpus/kullbach-leibler-genetic-programming-gubbins,Kullbach Leibler Genetic Programming Gubbins,Scirpus,,2019-11-19T12:36:30.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,nickyg/nfl-pytorch-fastai-one-cycle-policy-training,NFL Pytorch/fastai --One cycle policy training,NicholasGuerrero,,2019-11-20T23:49:53.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,s13658695/xgboost-earlystopping-no-cv,XGBoost_EarlyStopping (NO CV) ,AI Penguin,,2019-11-15T17:46:47.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,abhikjha/cox-proportional-hazard-model,Cox proportional hazard model,Abhik Jha,,2019-11-02T17:42:08.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,aleksthegreat/tfp-gaussian-distribution-nn,TFP + gaussian distribution NN,Aleksthegreat,,2019-11-08T03:12:30.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,fallen123/nfl-big-data-bowl,NFL Big Data Bowl,Hiten Patel,,2019-10-26T11:50:17.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,truenikita/cleaning-of-the-stadium-feature,"Cleaning of the ""Stadium"" feature",Nikita Ageev,,2019-10-16T20:19:36.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,miliman13/nfl-plotting-play-situation,NFL Plotting Play Situation,Maximilian Nitsche,,2019-10-13T14:04:17.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,kunqi77/eda-all-columns,EDA (all columns),Kunqi,,2019-10-16T07:59:19.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,pedrofraz/missing-values-analysis,Missing Values Analysis,Pedro Frazão,,2019-10-10T21:23:39.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,nfl-big-data-bowl-2020
+,,,,,0,holoong9291/eda-for-nfl-have-fun,"EDA for NFL, have fun",Ho Loong,,2020-02-05T16:24:26.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,yawata/voronoi-area-in-front-of-the-rusher,Voronoi area in front of the rusher,kyoukuntaro,,2019-11-29T10:22:20.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,authman/lgbbbbbb,LGBBBBBB,عثمان,,2019-11-27T23:22:27.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,sherkt1/final-hole-metric-features-v5-0,"Final Hole Metric Features, v5.0",Thomas Sherk,,2019-11-26T02:38:33.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,shozendan/davis-ds-club-a-neural-network-approach,Davis DS Club: a Neural Network Approach,Shozen Dan,,2019-11-27T23:22:48.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,funaki/fork-of-random-forest-classifier-of-funaki-optuna,Fork of Random_forest_classifier of funaki Optuna,asami,,2019-11-22T06:51:43.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,holoong9291/nfl-preprocessing-missing-value-and-outlier,NFL Preprocessing : missing value and outlier,Ho Loong,,2019-11-17T11:06:26.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,abugim/nfl-gameplay-visualization,NFL GamePlay Visualization,Yuri Thomas,,2019-11-09T15:24:46.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,ekhtiar/features-features-features,"Features, Features, Features",Ekhtiar Syed,,2019-11-09T21:36:24.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,funaki/random-forest-classifier-of-funaki-nfl-3-tuning,Random_Forest_Classifier of funaki_NFL_3 tuning,asami,,2019-11-11T08:22:27.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,ivakat/replacing-rusher-characteristics-with-1-number,Replacing rusher characteristics with 1 number,Ivo,,2019-11-26T12:35:03.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,robertehshi/nfl-big-data-bowl-physics-model,NFL_Big_Data_Bowl_Physics_Model,RobertLutz,,2019-11-27T23:13:32.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,joocheol/qrm20191030,QRM20191030,Joocheol,,2019-11-02T03:28:38.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,truenikita/very-newbie-notebook,Very Newbie Notebook,Nikita Ageev,,2019-10-17T22:51:22.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,ajsteele/nfl-big-data-bowl-highlighting-line-of-scrimmage,NFL Big Data Bowl - Highlighting Line of Scrimmage,Anthony Steele,,2019-10-17T13:41:10.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,donghoonoh/2018195017-qrm,2018195017 QRM,godymevol,,2019-11-06T07:18:26.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,thehemen/nn-feature-engineering-with-genetic-programming,NN + Feature Engineering with Genetic Programming ,Vladimir Zhuravlev,,2019-11-04T19:18:43.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,snakayama/nfl-interactive-graph-using-bokeh,NFL interactive graph using bokeh,makogarei,,2019-10-14T09:55:18.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,carlossouza/model-by-runner,Model by runner?,Carlos Souza,,2019-10-13T20:18:41.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,xwxw2929/nn-kfold,NN+KFold,Aicanghai_Smile,,2019-10-15T08:57:38.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,nikhil04/nfl-big-data,NFL Big Data,Nikhil Gupta,,2019-10-16T14:22:33.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,bbissey/nfl-big-data-bowl-official-starter-notebook,NFL Big Data Bowl Official Starter Notebook,bbissey,,2019-10-10T23:19:58.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,nfl-big-data-bowl-2020
+,,,,,0,vaibhavsxn/the-talented,The Talented,Vaibhav Saxena,,2020-01-21T10:50:04.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,authman/nofe-final,NoFE FINAL,عثمان,,2019-11-27T23:07:47.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,gdpsgdps/location-eda-8eb410,Location EDA 8eb410,Jun-Ho KWAK,,2019-11-22T16:36:25.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,ucfaibot/data-science-fa19-nfl-deep-dive,data-science-fa19-nfl-deep-dive,AI@UCF,,2019-11-07T21:22:32.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,baghirli/nfl-big-data-bowl-keras-nn-pooling-resnet,NFL Big Data Bowl - KERAS NN + Pooling + ResNet,Orkhan Baghirli,,2019-11-27T08:56:00.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,youwbpyr/nfl-test-data-for-local-devlop,NFL test data for local devlop,Orange,,2019-10-22T06:47:27.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,joocheol/fe20191019,FE20191019,Joocheol,,2019-10-19T03:48:52.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,zlindsey/nfl-data-cleaning-and-regression,NFL Data Cleaning and Regression,Zach Lindsey,,2019-10-25T03:38:40.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,jy199412/18th-of-october,18th of October,cecil kim,,2019-10-18T06:50:08.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,takaishikawa/very-newbie-notebook,Very Newbie Notebook,Tak,,2019-10-18T03:27:59.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,joocheol/20191017,20191017,Joocheol,,2019-10-17T08:15:30.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,bensdm/eda-profile-report,EDA profile report,Benoit de Menthiere,,2019-10-11T02:58:46.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,nfl-big-data-bowl-2020
+,,,,,0,righthandflag/nfl-simple-model-using-lightgbm,NFL simple model using lightGBM,RightHandFlag,,2021-06-20T23:25:03.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,pburke1977/nfl-big-data-bowl-plotting-player-position,NFL Big Data Bowl - Plotting Player Position,Patrick Burke,,2021-05-23T18:23:32.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,s903124/fork-of-pytorch-transformer-public-14th-private,Fork of Pytorch Transformer (public 14th / private,903124,,2020-05-24T01:47:19.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,mojopriest/running-back-vs-linebacker-a-practice-notebook,Running Back vs. Linebacker: A Practice Notebook,Jari Peltola,,2020-03-10T11:07:37.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,robertehshi/basics-of-nfl-expost,Basics_of_NFL_expost,RobertLutz,,2020-01-31T03:40:18.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,jtrotman/save-nfl-leaderboard,Save NFL Leaderboard,James Trotman,,2020-01-06T20:02:02.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,masasuke/can-we-calculate-a-public-lb-score,Can we calculate a Public LB score?,masa-suke,,2019-12-07T13:25:36.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,matheuspush/rushin-to-the-top,Rushin' to the top!,Matheus Push,,2019-11-27T19:43:16.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,nisheethjaiswal/nfl-eda-nn-analysis,NFL - EDA & NN Analysis,Nisheeth Jaiswal,,2019-11-27T23:59:41.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,krammerg/nfl-baseline-nn-v4,NFL Baseline NN v4,Bluering Data Octopus,,2019-11-27T11:58:14.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,jagannathrk/nfl-big-data-bowl-model-using-lightgbm,NFL Big Data Bowl model using LightGBM,Kranti Kumar,,2019-11-24T09:39:11.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,ivakat/mainn,Mainn,Ivo,,2019-11-27T09:29:27.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,enzoamp/location-eda-with-combined-rusher-features,Location EDA with combined rusher features,Lorenzo Ampil,,2019-11-23T07:33:26.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,stefancurtress/nfl-simplified-v1,NFL_Simplified_v1,Stefan C,,2019-11-25T18:04:13.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,chichengzhang/gary-nfl-big-data-bowl,Gary - NFL Big Data Bowl,Gary Zhang,,2019-11-27T18:14:35.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,adityakumarsinha/firstkernel,FirstKernel,adityasinha,,2019-11-27T19:59:29.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,holoong9291/nfl-big-data-bowl,NFL Big Data Bowl,Ho Loong,,2019-11-22T18:32:29.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,blazejd/nfl-fixed-bugs,NFL fixed bugs,Blazej Dolicki,,2019-11-13T10:43:44.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,nuthisriram/next-gen-eda,Next Gen EDA,Nuthi Sriram,,2019-11-10T05:44:45.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,yathishnv/next-gen-eda-66b064,Next Gen EDA 66b064,Yathishnv,,2019-11-10T05:50:58.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,kidrulit/nfl-big-data-feature-engineering-and-encoding,NFL Big Data - Feature Engineering and Encoding  ,Danya Chepenko,,2019-11-27T09:31:32.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,gerwynng/nfl-bdb-starter-fe,[NFL-BDB] Starter FE,Gerwyn Ng,,2019-11-06T09:59:35.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,joocheol/fe-lecture-20191109,FE_Lecture_20191109,Joocheol,,2019-11-16T03:16:31.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,yukomiya/komiya-nfl-class3-submit,Komiya_NFL_class3_submit,Yutaka Komiya,,2019-11-07T06:57:32.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,funaki/random-forest-classifier-of-funaki-nfl-3,Random_Forest_Classifier of funaki_NFL_3,asami,,2019-11-06T00:56:50.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,jjs2434/nfl-big-bowl-data-iteration-for-good-model,NFL Big Bowl Data(Iteration for good model),jjs2434 ,,2019-11-03T13:51:23.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,sa0987/play-viz-modified-w-play-zoom-inset,Play viz  - Modified w/ play zoom inset ,SA0987,,2020-11-17T20:49:10.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,scirpus/fork-of-hybrid-gp-and-nn,Fork of Hybrid GP and NN,Scirpus,,2019-11-02T08:46:04.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,code1110/let-s-ask-catboost-about-cat-s,Let's ask CatBoost about cat(s),katsu1110,,2019-10-31T13:28:28.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,shubham2306/nfl-big-bowl-data-iteration-for-good-model,NFL Big Bowl Data(Iteration for good model),Shubham Kumar,,2019-11-01T05:38:55.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,ksayantani/understanding-variables,Understanding variables,ksayantani,,2020-01-15T07:12:05.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,funaki/fork-of-funaki-nfl-2,Fork of funaki_NFL_2,asami,,2019-10-30T07:43:18.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,arihantkumarjain/nfl-preprocesisng-eda,NFL - Preprocesisng & EDA,Tinku,,2019-11-09T11:56:55.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,threecourse/initial-wrangling-voronoi-areas-in-python,initial wrangling & Voronoi areas in Python,threecourse,,2019-10-26T10:02:18.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,rx74tsns/simple-nn,Simple NN,Taipon,,2019-10-26T02:26:48.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,yukomiya/komiya-nfl1,Komiya_NFL1,Yutaka Komiya,,2019-10-31T07:19:17.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,fattycat/nfl-big-data-bowl-official-starter-notebook,NFL Big Data Bowl Official Starter Notebook,FatCat,,2019-10-22T02:16:08.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,puneetgrover/ensembling-nns-and-lightgbm,Ensembling NNs and LightGBM,Puneet Grover,,2019-11-29T08:04:59.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,eristoddle/fork-of-neural-networks-different-2-comm,fork of neural networks + different 2 comm,eristoddle,,2019-10-18T15:04:14.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,truenikita/try-of-nfl-id-binarization,Try of NFL ID binarization,Nikita Ageev,,2019-10-17T16:49:36.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,miklgr500/fork-neural-networks-adversarial-validation,fork neural networks... Adversarial Validation,Welf Crozzo,,2019-10-17T06:23:58.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,econjt/simple-regression-first-submission,Simple Regression(First Submission),JumpeiT,,2019-10-16T07:54:45.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,evazhang43/nfl-eda,NFL EDA,Evazhang,,2019-11-05T01:01:25.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,muxiaobai/my-npl-submit-demo,my-NPL-submit-demo,Mu Xiaobai,,2019-10-14T09:26:51.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,zlindsey/nfl-eda-1,NFL EDA 1,Zach Lindsey,,2019-10-17T22:22:38.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,adam1brownell/visualizing-plays-and-a-simple-proximity-nn,Visualizing Plays (and a simple proximity NN),Adam1Brownell,,2019-11-28T16:59:16.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,scirpus/gradbm11,GradBM11,Scirpus,,2019-10-18T09:20:04.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,snehalsandri007/kernel1e0cf41817,kernel1e0cf41817,snehal,,2019-10-11T08:34:43.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,ankittomar1/nbl-pandas-profiling,NBL_Pandas-profiling,Ankit,,2019-10-11T04:08:01.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,nfl-big-data-bowl-2020
+,,,,,0,linsistx/nfl-simplified-v1,NFL_Simplified_v1,linsist x,,2021-12-28T13:55:11.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,linsistx/data-science-fa19-nfl-intro,data-science-fa19-nfl-intro,linsist x,,2021-06-12T03:51:35.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,linsistx/nfl-simple-model-using-lightgbm-from-scratch,NFL simple model using lightGBM(from scratch),linsist x,,2021-12-10T02:17:45.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,liueee/1nfl-simplified-v1-train,1NFL_Simplified_v1_train,liueee,,2021-06-10T13:34:06.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,ionlights/projects-fa19-nfl-deep-dive,projects-fa19-nfl-deep-dive,ionlights,,2021-01-18T16:24:27.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,ionlights/projects-fa19-nfl-intro,projects-fa19-nfl-intro,ionlights,,2021-01-18T16:24:16.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,srlee6/fork-of-neural-networks-different-2-comm,fork of neural networks + different 2 comm,Seregy Lebedev,,2020-12-23T04:04:37.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,gabrielpinheiropires/nfl-rushing-yards,NFL Rushing Yards,Gabriel Pinheiro Pires,,2020-09-25T15:08:15.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,s903124/visualize-nfl-run-play-with-captum,Visualize NFL run play with captum,903124,,2020-05-26T08:07:51.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,arrowheadanalytics/ethan-model,Ethan_Model,Ethan Douglas,,2021-08-11T19:43:37.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,s903124/fast-pitch-control,Fast Pitch Control,903124,,2020-04-21T15:44:52.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,eitharalfatih/eda-and-model,EDA and Model,Eithar Elbasheer,,2020-03-22T05:50:56.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,s903124/pytorch-fixed-random-synthesizer,Pytorch fixed random synthesizer,903124,,2020-05-23T16:12:33.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,ttya16/nfl-challenge-notebook-latesub,nfl_challenge_notebook_latesub,ttya16,,2020-01-28T20:18:53.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,nitindig/neural-networks-feature-engineering-for-the-win,neural networks + feature engineering for the win,Nitin Digraje,,2019-12-29T06:55:55.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,rishabhds/eda-nfl,EDA NFL,Rishabh Pandey,,2019-12-17T05:45:43.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,charlessuhartanto/graph-transfomer-from-cpmp-s-kernel,Graph Transfomer_from CPMP's kernel,charlie_s,,2019-12-07T00:28:46.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jackruggiero/submission,Submission,John R,,2019-12-14T04:14:50.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,somnambwl/nfl-2019-nn,NFL 2019 - NN ,somnambWl,,2019-11-28T06:32:18.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,artemshramko/voronoi-pc-def-pos-nn,Voronoi + PC+Def+Pos | NN,Artem Shramko,,2019-11-27T19:42:24.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,cadeknox/model-and-explanation,Model and Explanation,Cade Knox,,2019-12-03T13:19:20.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,samtaylor54321/nfl-big-data-bowl-2019,NFL Big Data Bowl 2019,Sam Taylor,,2019-11-27T21:18:28.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,pashadude/catboost,catboost,Pavle Dušmani,,2019-11-27T22:24:32.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,lazyer/nfl-pipeline-v4,NFL_pipeline_v4,InJu Kim,,2019-11-26T16:34:22.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,artemshramko/voronoi-play-control-fe,Voronoi + Play Control + FE,Artem Shramko,,2019-11-26T09:20:11.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,sylvainmichel/nfl202-swish,nfl202 swish,SylvainMichel,,2020-01-13T20:49:19.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/cat-boost-of-funaki-optuna,Cat boost of funaki Optuna,asami,,2019-11-27T08:14:13.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,masasuke/nfl0708,nfl0708,masa-suke,,2019-11-24T17:53:24.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jinangefrank/nfl-lgb-adjust-params-based-on-xingyuan,NFL - LGB - adjust params based on xingyuan - 这个能跑,Ange (Frank) Jin,,2019-12-02T20:22:37.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,s13658695/simple-xgb-simple-fe,Simple XGB + Simple FE,AI Penguin,,2019-11-25T12:23:07.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,hozhen/kernel31436ca839,kernel31436ca839,HOZHEN,,2019-11-27T07:12:31.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,oliveia/nfl-big-data-bowl-with-random-forests-k-fold,NFL Big Data Bowl with Random Forests k-Fold,André Oliveira,,2019-11-23T17:51:42.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,yuminson/neural-network-with-mae-objective-0-01385,"neural network, with mae objective, 0.01385",2019195084,,2019-11-27T05:16:08.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,yukomiya/komiya-nfl-catboost,Komiya_NFL_CatBoost,Yutaka Komiya,,2019-11-27T08:33:32.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,pwendel3/generational-talent,generational talent,PeterWendel,,2019-12-03T04:28:04.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,aimlanalytics/kernel1bcd254968,kernel1bcd254968,Phani Karnati,,2019-11-28T15:09:20.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,dmintry/stack-rf-cb,"Stack rf, cb",Manualmsdos,,2019-11-27T21:19:19.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,oliveia/nfl-big-data-bowl-with-random-forests,NFL Big Data Bowl with Random Forests,André Oliveira,,2019-11-18T13:25:30.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,oliveia/nfl-big-data-bowl-with-knn,NFL Big Data Bowl with kNN,André Oliveira,,2019-11-18T00:12:13.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,gdpsgdps/nfl-001-neural-network,[NFL] - [001]- [Neural Network],Jun-Ho KWAK,,2019-11-18T11:33:09.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,alexgeiger/the-official-nfl-solution,The Official NFL Solution,AlexanderGeiger,,2019-11-27T21:43:14.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,mtodisco10/2019-big-data-bowl-submission,2019 Big Data Bowl Submission,mtodisco10,,2020-09-24T00:44:22.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,dmintry/catboost,catboost,Manualmsdos,,2019-11-16T12:32:15.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,danoff/neural-networks-isaih-divya-charlie-version,neural networks - isaih divya charlie version,danoff,,2019-11-27T21:32:59.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/random-forest-classifier-of-funaki-optuna,Random_forest_classifier of funaki Optuna,asami,,2019-11-20T06:47:31.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jasonrockphelps/best-etc-on-cdf-model,Best ETC on CDF Model,JasonRockPhelps,,2019-11-27T23:42:00.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jpmary/lgbm-f,lgbm F,Jean-Philippe MARY,,2019-11-27T21:43:24.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/cat-boost-regressor-of-funaki,Cat_Boost_Regressor of funaki,asami,,2019-11-13T08:25:34.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,charlessuhartanto/nfl-voronoi,NFL_Voronoi,charlie_s,,2019-11-14T12:05:51.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,arihantkumarjain/nfl-fe,NFL-FE,Tinku,,2019-11-28T05:08:51.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,arun051298/next-gen-eda,Next Gen EDA,Arun051298,,2019-11-10T06:15:49.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,frkfaiz/next-gen-eda,Next Gen EDA,Faiz ur Rehman,,2019-11-10T05:53:38.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,sakshi7896/next-gen-eda,Next Gen EDA,sakshijain,,2019-11-10T05:45:57.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,pavitraaritas/next-gen-eda,Next Gen EDA,Aritas,,2019-11-10T05:49:47.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,sahanabalappa/next-gen-eda,Next Gen EDA,Sahana Balappa,,2019-11-10T05:44:55.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,infinitevictory/next-gen-eda,Next Gen EDA,Annant Vijay,,2019-11-10T05:44:59.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,vensadk/next-gen-eda,Next Gen EDA,Venkatesh Cresa,,2019-11-10T05:44:46.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,kamalbannuru/next-gen-eda,Next Gen EDA,Kamal Bannuru,,2019-11-10T05:48:15.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,rakeshmariyaplar/next-gen-eda,Next Gen EDA,rakesh-mariyaplar,,2019-11-10T05:44:27.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,pratikgarg02/next-gen-eda,Next Gen EDA,Pratik Garg@02,,2019-11-10T05:44:40.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,nikhilbhat06/next-gen-eda,Next Gen EDA,Nikhil Bhat06,,2019-11-10T05:48:41.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,enamkaggle/next-gen-eda,Next Gen EDA,Enamul Hasan,,2019-11-10T05:48:01.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,adithyabalakumar/next-gen-eda,Next Gen EDA,Adithya Balakumar,,2019-11-10T05:44:34.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,sameerkashya/next-gen-eda,Next Gen EDA,sameer kashyap,,2019-11-10T05:44:35.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,dilipchaudhary/next-gen-eda,Next Gen EDA,Dilip Chaudhary,,2019-11-10T05:44:56.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,hemanthkumarr/next-gen-eda,Next Gen EDA,Hemanth Kumar R,,2019-11-10T05:45:29.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,ashish1732/next-gen-eda,Next Gen EDA,ashish1732,,2019-11-20T04:11:28.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,preethamms/next-gen-eda,Next Gen EDA,Preetham M S,,2019-11-10T05:44:59.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,rajesh372/kernel-final,kernel_final,thumurajesh,,2019-11-27T23:09:11.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jonbown/simple-keras-nn,Simple Keras NN,Jonathan Bown,,2019-11-26T16:01:37.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,peacemaket/nfl-data-bowl,NFL Data bowl,eb1c0n,,2020-05-19T14:38:30.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,yukomiya/komiya-nfl-lgbm,Komiya_NFL_lgbm,Yutaka Komiya,,2019-11-12T03:21:30.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jasonrockphelps/tracking-preprocessing-py,tracking_preprocessing.py,JasonRockPhelps,,2019-11-27T15:55:00.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,adibpriatama/nn-19-features,NN-19 features,Adib Priatama,,2019-11-04T21:40:09.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,kmtopel/kernel3555cf0128,kernel3555cf0128,Kevin Topel,,2019-11-06T20:24:49.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,otzhora/nfl-big-data-bowl,NFL Big Data Bowl,otzhora,,2019-11-16T16:43:52.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,mehrler/dataminingproject,DataMiningProject,mehrler,,2019-11-30T20:30:14.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,yukomiya/komiya-nfl1-class-submit,Komiya_NFL1_class_submit,Yutaka Komiya,,2019-11-01T14:45:13.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/fork-of-fork-of-fork-of-funaki-nfl-3,Fork of Fork of Fork of funaki_NFL_3,asami,,2019-11-01T08:25:52.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/fork-of-fork-of-funaki-nfl-3,Fork of Fork of funaki_NFL_3,asami,,2019-11-01T01:59:19.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/fork-of-funaki-nfl-3,Fork of funaki_NFL_3,asami,,2019-10-31T09:34:27.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jasonrockphelps/convex-hull-feature-development,Convex Hull Feature Development,JasonRockPhelps,,2019-11-13T01:22:06.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/funaki-nfl-3,funaki_NFL_3,asami,,2019-10-31T05:52:00.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,sa0987/nfl-big-data-bowl-saman,NFL Big Data Bowl Saman,SA0987,,2019-11-27T02:11:41.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,yangsaewon/pandas,Pandas 병합 실습,saewonYang,,2019-10-28T13:25:04.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/funaki-nfl-2,funaki_NFL_2,asami,,2019-10-29T03:39:23.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,nicodre/nfl-comp-v3,NFL comp v3,Nicolas Drewniak,,2019-10-25T12:58:44.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,funaki/funaki-nfl,funaki_NFL,asami,,2019-10-28T03:13:45.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,jmaslek/nflbowl-nearestdefender-myfirstnn,NFLBOWL_nearestdefender_myfirstNN,GoSabres,,2019-10-25T20:15:50.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,rutviklathiya/nfl-starter-mlp-feature-engg,NFL Starter. MLP + Feature Engg. ,Rutvik Lathiya,,2019-10-24T05:06:11.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,ananthreddy/big-data-bowl,Big Data Bowl,Ananth Reddy,,2019-12-04T23:31:36.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,manish25297/nfl-league,nfl_league,manish kumar singh,,2019-10-22T21:02:31.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,freelancerfel/utility-nflcleaning,Utility - NFLCleaning,Aritad Choicharoon,,2019-10-21T21:54:37.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,heye0507/eda-demo,EDA_demo,Hao He,,2019-10-20T23:01:56.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,errolpereira/fork-of-starter-submission,Fork of Starter Submission,Errol Pereira,,2019-10-18T11:52:02.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,econjt/first-submission,First_submission ,JumpeiT,,2019-10-18T04:50:54.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,arindam235/andy-s-draft,Andy's Draft,Andy_M,,2019-12-12T05:39:14.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,akashii99/nfl-analysis,NFL Analysis,Akash Agrawal,,2019-12-18T18:41:37.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,alexanderdbooth/nfl-big-data-bowl-wooooo,NFL Big Data Bowl wooooo,Alexander Booth,,2019-10-12T03:37:30.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020
+,,,,,0,adibpriatama/pipeline-design-simple,Pipeline_design_simple,Adib Priatama,,2019-10-16T22:41:03.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,nfl-big-data-bowl-2020

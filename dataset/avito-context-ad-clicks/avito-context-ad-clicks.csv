@@ -1,0 +1,51 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,abhishek/beating-the-benchmark-1,Beating the Benchmark ;),Abhishek Thakur,,2015-06-05T22:40:10.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,avito-context-ad-clicks
+,,,,,0,tinoswe/split-python-dataframe,.tsv/.csv files to pandas dataframe,tinoswe,,2015-06-29T15:37:35.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,avito-context-ad-clicks
+,,,,,0,rahulpatel11315/read-data-from-tsv-file-using-pandas-dataframe,Read Data from TSV file using pandas DataFrame,The Black Knight,,2019-02-15T17:26:12.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,avito-context-ad-clicks
+,,,,,0,datayo/python-data-explorer,Python Data Explorer,Vu Anh,,2015-07-21T01:09:51.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,avito-context-ad-clicks
+,,,,,0,alledluviette/ctr-test,CTR test,Alled Luviette,,2015-07-17T17:44:22.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,avito-context-ad-clicks
+,,,,,0,yejiming/combining-datasets,Combining datasets,Jiming Ye,,2015-07-09T13:13:57.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,avito-context-ad-clicks
+,,,,,0,satomacoto/logistic-regression,Logistic Regression,stmct,,2015-07-10T06:59:19.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,avito-context-ad-clicks
+,,,,,0,tinoswe/split-of-python-dataframe-chunk,chunks of large .sqlite to dataframes,tinoswe,,2015-07-08T15:12:47.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,avito-context-ad-clicks
+,,,,,0,brianbai/inspect-tables-with-pandas,Inspect tables with pandas,Brian Bai,,2015-06-19T16:27:15.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,avito-context-ad-clicks
+,,,,,0,rootua/apache-spark-scala-logistic-regression,Apache Spark (Scala) Logistic regression,Vit D,,2015-07-14T12:54:59.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,avito-context-ad-clicks
+,,,,,0,gshguru/logistic-regression,Logistic Regression,Gurupad Hegde,,2015-07-10T13:48:11.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,avito-context-ad-clicks
+,,,,,0,rootua/logistic-regression-sgd-scikit-learn,Logistic Regression SGD scikit-learn,Vit D,,2015-07-14T10:37:38.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-context-ad-clicks
+,,,,,0,buntha/apache-spark-sql-script-using-pyspark,Apache Spark SQL script using pyspark,Abhishek choudhary,,2015-06-29T10:29:37.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-context-ad-clicks
+,,,,,0,anadil/beating-the-benchmark,Beating the Benchmark ;),Aboubakeur Namous,,2015-06-10T12:51:02.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-context-ad-clicks
+,,,,,0,jihyeseo/avito-tsv-csv-sqlite,avito tsv csv sqlite,Jihye Sofia Seo,,2018-05-08T17:18:02.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,wangwei123/notebook1cf274395a,Notebook1cf274395a,wangwei123,,2017-06-04T03:07:38.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,rinalin/notebookfb9fc8c339,Notebookfb9fc8c339,RinaLin,,2017-03-14T04:52:10.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,vamreddy123/notebooke7c8ae08a2,Notebooke7c8ae08a2,Vamshi,,2016-09-30T00:35:33.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,brandonsangsoolee/notebooka89a21f65c,Notebooka89a21f65c,BrandonSangsooLee,,2016-08-16T07:27:16.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,zhangjunw/tensorflowtest,tensorflowTest,张俊,,2016-04-23T12:20:53.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,gangiettiarjun/logistic-regression-on-histctr,Logistic Regression on HistCTR,Arjun Gangisetty,,2016-04-11T22:47:07.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,guangzhan/randomforestclassifier-1,RandomForestClassifier,Guangzhan,,2015-09-30T03:17:26.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,guangzhan/logistic-regression,Logistic Regression,Guangzhan,,2015-09-30T02:18:34.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,alledluviette/to-csv,linear regres 4 arg,Alled Luviette,,2015-07-24T20:41:45.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,deepcnn/btb-ftrl,BTB FTRL,Deep,,2015-07-24T07:03:22.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,alledluviette/logistic-regression-on-ctr-pt-2,Logistic Regression on CTR pt 2,Alled Luviette,,2015-07-22T15:36:15.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,goldenbearami/python-data-explorer,Python Data Explorer,Adam Bayrami,,2015-07-21T18:38:12.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,datayo/logistic-regression,Logistic Regression,Vu Anh,,2015-07-21T04:00:54.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,nkhuyu/ultra-logreg-clicks,ultra logreg clicks,nkhuyu,,2015-07-18T15:20:02.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,soundwaveli00/logistic-regression,scikit learn models,Hang,,2015-07-15T05:32:40.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,denniskaggle/data-explorations-v2,Data Explorations v2,Dennis Stetsenko,,2015-07-14T09:05:00.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,clustifier/combining-datasets,Combining datasets,clustifier,,2015-07-21T07:19:50.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,nkhuyu/logistic-regression,Logistic Regression,nkhuyu,,2015-07-14T22:33:02.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,woters/logistic-regression-on-ctr,Logistic Regression on CTR,Roman,,2015-07-22T09:59:22.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,ceshine/beating-the-benchmark,Beating the Benchmark ;),Ceshine Lee,,2015-07-12T08:40:50.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,skorsun/logistic,Logistic,Serhii Korsunenko,,2015-07-10T00:25:06.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,skorsun/beating-the-benchmark,Beating the Benchmark ;),Serhii Korsunenko,,2015-07-09T23:08:06.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,jpopham91/logistic-regression,Logistic Regression,jpopham91,,2015-07-09T18:41:12.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,albertium/beating-the-benchmark,Beating the Benchmark ;),Albert Wong,,2015-07-04T14:40:13.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,betterplace/chunks-of-large-sqlite,chunks of large .sqlite ,noooooo,,2015-07-03T13:16:59.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,betterplace/apache-spark-pyspark,Apache Spark pyspark,noooooo,,2015-07-03T10:03:25.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,mas313/merge-all-the-files-into-one-data-frame,Merge all the files into one data frame,MAS,,2015-07-02T10:21:19.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,betterplace/tesdata,tesDATA,noooooo,,2015-07-01T09:29:42.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,korayp/beating-the-benchmark-2000,Beating the Benchmark ;) 2000,kp,,2015-06-24T18:10:35.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,kavadikirajesh/mine1234,mine1234,Rajesh,,2015-06-12T07:42:28.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,dfjmulder/subquery-s-are-fun-for-subsets,test1,David,,2015-06-08T14:21:48.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,alkrot/beating-the-benchmark,Beating the Benchmark ;),akrot,,2015-06-05T14:38:29.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,huhugravity/select,Select context ads from training dataset,Hu Wang,,2015-06-05T23:01:01.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,gshguru/beating-the-benchmark-20000,Beating the Benchmark ;) 2000,Gurupad Hegde,,2015-06-03T20:15:54.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks
+,,,,,0,gshguru/beating-the-benchmark-1,Beating the Benchmark ;),Gurupad Hegde,,2015-06-03T19:44:20.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-context-ad-clicks

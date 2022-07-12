@@ -1,0 +1,491 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,beyondbeneath/data-exploration-and-visualisations,Data exploration and visualisations,BeyondBeneath,,2016-05-13T05:22:07.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],84,facebook-v-predicting-check-ins
+,,,,,0,leonlu/another-way-to-know-the-time-definition,Another Way to Know the Time Definition,Leon,,2016-05-13T09:06:18.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,facebook-v-predicting-check-ins
+,,,,,0,andersonk/timestamps-structure,Timestamp structure,kris,,2016-05-16T20:07:06.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,facebook-v-predicting-check-ins
+,,,,,0,svpons/grid-knn,grid_knn,Sandro,,2016-06-08T15:52:25.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,facebook-v-predicting-check-ins
+,,,,,0,anokas/quick-look-at-the-data,Quick look at the data,anokas,,2016-06-08T14:26:52.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,facebook-v-predicting-check-ins
+,,,,,0,svpons/grid-plus-classifier,grid_plus_classifier,Sandro,,2016-05-31T15:00:59.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/mad-scripts-battle-z,Mad Scripts Battle Z,Michael Hartman,,2016-06-30T06:17:27.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,facebook-v-predicting-check-ins
+,,,,,0,zfturbo/mad-scripts-battle,Mad scripts battle,ZFTurbo,,2016-05-13T11:47:21.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,facebook-v-predicting-check-ins
+,,,,,0,sakvaua/animated-check-ins,Animated check-ins,DennisSakva,,2016-05-19T20:03:56.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,facebook-v-predicting-check-ins
+,,,,,0,navoshta/grid-knn,grid_knn,Alex Staravoitau,,2016-06-26T10:38:24.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,facebook-v-predicting-check-ins
+,,,,,0,overfit/grid-knn,grid_knn,David,,2016-06-19T04:51:30.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,facebook-v-predicting-check-ins
+,,,,,0,beyondbeneath/testing,Exploring accuracy,BeyondBeneath,,2016-05-18T09:34:23.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,facebook-v-predicting-check-ins
+,,,,,0,jsab16/on-time,On Time,JSab,,2016-05-12T23:20:00.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,facebook-v-predicting-check-ins
+,,,,,0,chopra/logistic-regression-to-find-knn-weights,Logistic Regression to find KNN weights,AnujChopra,,2016-06-27T07:05:17.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,facebook-v-predicting-check-ins
+,,,,,0,valeriur/python-starter-0-55,python starter ~0.55,Valeriu Radu,,2016-05-27T06:19:22.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,facebook-v-predicting-check-ins
+,,,,,0,senorcampos/on-weeks,On Weeks,senorcampos,,2016-05-13T01:11:44.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,facebook-v-predicting-check-ins
+,,,,,0,kennmyers/exploring-accuracy,Exploring Accuracy,Ken Myers,,2016-05-16T16:23:45.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,facebook-v-predicting-check-ins
+,,,,,0,suryavan/knn-and-probability-lookup-script,knn and probability lookup script,Abhi,,2016-07-02T01:54:18.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,facebook-v-predicting-check-ins
+,,,,,0,suryavan/day-and-month-patterns-in-timestamp,day and month patterns in timestamp,Abhi,,2016-05-19T06:22:09.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,facebook-v-predicting-check-ins
+,,,,,0,zfturbo/msb-with-validation,MSB with Validation,ZFTurbo,,2016-05-19T20:52:43.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,facebook-v-predicting-check-ins
+,,,,,0,yrevar/fb-check-in-data-exploration,FB Check-in Data Exploration,﻿yrevar,,2016-06-02T00:30:10.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,facebook-v-predicting-check-ins
+,,,,,0,drarfc/script-competition-facebook-v,Script_Competition_Facebook_V,Alex,,2016-06-28T13:43:16.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,facebook-v-predicting-check-ins
+,,,,,0,brandao/facebook-test-1,facebook test #1,"Humberto Brandão, Ph.D.",,2016-05-25T06:02:37.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,facebook-v-predicting-check-ins
+,,,,,0,valeriur/process-grid-in-parallel,process grid in parallel ,Valeriu Radu,,2016-06-28T06:55:13.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,ma350365879/script-competition-facebook-v,Script_Competition_Facebook_V,YijunMa,,2016-06-19T22:47:27.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,loikaggle/grid-knn-acc,grid_knn_acc,Laggle,,2016-06-18T02:57:24.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,brandao/grid-knn-mins,Facebook new test #1,"Humberto Brandão, Ph.D.",,2016-06-13T04:06:39.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,rshekhar2/xgboost-cv-example-with-small-bug,XGBoost_CV_Example_with_small_bug,Ravi S.,,2016-06-10T17:26:18.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/openboundary,OpenBoundary,Hamed Seyed-allaei,,2016-06-14T10:48:25.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/finding-the-limits,TheTime,Hamed Seyed-allaei,,2016-05-25T11:58:06.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,breakfastpirate/msb-with-validation-v2-0,MSB with Validation v2.0,BreakfastPirate,,2016-05-16T15:02:26.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,sbykau/1-nn-benchmark,1-NN Benchmark,Sergey Bykau,,2016-05-12T21:55:37.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,facebook-v-predicting-check-ins
+,,,,,0,carloshuertas/randomforest-x3,RandomForest x3,NxGTR,,2016-05-27T08:02:17.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/thespace,TheSpace,Hamed Seyed-allaei,,2016-06-15T15:23:44.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,facebook-v-predicting-check-ins
+,,,,,0,citynight/validaing-seasonality-using-autocorrelat,Validaing seasonality using Autocorrelat,citynight,,2016-07-20T14:00:29.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,drarfc/knn-accelerated-v3,KNN accelerated V3,Alex,,2016-07-05T08:59:38.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,tlehman/voronoi-diagrams-of-place-locations,Voronoi diagrams of place locations,Tobi Lehman,,2016-05-20T05:27:17.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,radustoicescu/10080-timestamps-in-a-day-78-days,1 timestamp = 1 minute,Radu Stoicescu,,2016-05-19T03:17:18.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,tunguz/msb-with-validation-v3-0,MSB with Validation v3.0,Bojan Tunguz,,2016-05-18T23:41:45.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,marekkowalski/accuracy,Accuracy,MarekKowalski,,2016-05-20T18:06:34.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,bunny01/data-exploration-and-visualisations,Data exploration and visualisations,TusharGupta,,2016-05-16T16:17:50.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,anokas/mad-scripts-battle-analysis,Mad scripts battle analysis,anokas,,2016-05-13T15:58:14.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,facebook-v-predicting-check-ins
+,,,,,0,chopra/better,Better,AnujChopra,,2016-07-05T13:17:37.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/grid-gaussiannb,Grid_GaussianNB,Hamed Seyed-allaei,,2016-07-06T21:30:53.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,piushvaish/quick-data-exploration,Quick Data Exploration,piushvaish,,2016-06-25T15:05:28.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,armanform/facebook-v-random-forest-grid,Facebook_V: Random Forest Grid,arreqe,,2016-06-23T06:32:22.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/theaccuracy,TheAccuracy,Hamed Seyed-allaei,,2016-06-22T10:52:55.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,overfit/exploring-random-forest-on-a-grid,Exploring Random Forest on a grid,David,,2016-07-03T05:12:38.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,suryavan/event-count-per-place-in-test-data,event count per place in test data,Abhi,,2016-05-29T18:55:54.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,breakfastpirate/mad-scripts-battle-v2,Mad scripts battle v2,BreakfastPirate,,2016-05-14T12:10:46.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,tlehman/visualize-number-of-check-ins-over-time,Visualize number of check-ins over time,Tobi Lehman,,2016-05-11T22:29:12.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,facebook-v-predicting-check-ins
+,,,,,0,jareddeguzman/fb-competition,FB Competition,Jared de Guzman,,2020-11-15T08:28:49.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,freyman/facebook-v-competition,Facebook V competition,Evgeny Freyman,,2017-02-06T14:57:37.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,chrisgundling/feature-visualization-with-matplotlib,Feature visualization with matplotlib,ChrisG,,2016-07-25T02:44:13.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,stabilowl/notebook-1-data-exploration,Notebook#1: Data Exploration,WCT Lee,,2016-07-04T12:50:30.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/knn-accelerated-v3,KNN accelerated V3,Michael Hartman,,2016-07-11T08:06:33.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,rakhlin/ultra-fast-grid-knn-model,Ultra fast grid KNN model,rakhlin,,2016-07-02T19:09:27.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,valadi/mad-scripts-battle-z,Mad Scripts Battle Z,Jayaraman,,2016-06-30T07:26:38.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,drarfc/fastest-way-to-write-the-csv,fastest way to write the csv,Alex,,2016-07-05T10:17:47.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,aldente/grid-knn,grid_knn,aldente,,2016-06-16T03:11:27.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,apapiu/grid-knn-mins,grid_knn_mins,Alexandru Papiu,,2016-06-12T20:00:13.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,valeriur/python-started-using-knn-classifier,python started using knn classifier,Valeriu Radu,,2016-06-10T18:40:16.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,overfit/python-starter-0-55,python starter ~0.55,David,,2016-06-05T18:50:13.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,howardxie/get-nbym-grid,get_NbyM_grid,jasoos,,2016-05-23T01:01:27.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,sklotz/timestamp-offset-analysis,Timestamp offset analysis,Simon,,2016-05-22T20:08:46.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,cwenboshi/firsttry,FirstTry,Wenbo,,2016-05-25T18:43:42.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,praveenhegde/location-cluster,location cluster,Praveen Hegde,,2016-05-16T08:37:58.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,tlehman/centroids-of-places-in-fb-check-in-data,Centroids of places in FB check-in data,Tobi Lehman,,2016-05-14T04:35:28.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,company/facebook-pci,Facebook_PCI,Ravi Chandibhamar,,2016-07-04T09:54:17.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,marcpuig/exploring-data,Exploring Data,Marc Puig,,2016-05-13T09:07:26.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/gaussianmixturemodel,GaussianMixtureModel,Hamed Seyed-allaei,,2016-07-05T22:58:32.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,nikolayburlutskiy/modified-grid-knn,Modified grid kNN ,NikolayBurlutskiy,,2016-07-06T22:29:17.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,paullo0106/knn-accelerated-v3,KNN accelerated V3,Paul,,2016-07-05T10:21:03.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,stabilowl/notebook-4-improving-models,Notebook #4: Improving models,WCT Lee,,2016-07-05T04:46:12.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,tunguz/script-competition-facebook-v-2-2,Script_Competition_Facebook_V_2.2,Bojan Tunguz,,2016-07-03T17:53:41.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/modified-grid-knn-17-alex2,Modified grid kNN  17 Alex2,Michael Hartman,,2016-07-02T07:12:03.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,balajibi/facebook-solution-bi-1,Facebook Solution BI 1,Balaji N,,2016-07-01T03:59:24.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/modified-grid-knn-17-z,Modified grid kNN  17 z,Michael Hartman,,2016-07-01T00:49:00.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,rshekhar2/bayesian-hyperparameter-optimization,Bayesian Hyperparameter Optimization,Ravi S.,,2016-06-30T20:15:11.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,rajat8878/random-forest-on-small-block,Random Forest on small Block,RajatKumar,,2016-06-30T05:54:17.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,blindape/mad-scripts-battle-z,Mad Scripts Battle Z,José A. Guerrero,,2016-06-30T23:12:22.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,drarfc/script-competition-facebook-v-2-1,Script_Competition_Facebook_V_2.1,Alex,,2016-07-03T17:43:25.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,ma350365879/outlier-analysis,Outlier Analysis,YijunMa,,2016-06-28T18:01:25.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,aikinogard/grid-nb,grid_NB,Li Li,,2016-06-28T15:07:23.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,agalea91/place-id-frequency,Frequency of place_id occurrences,Alexander Galea,,2016-06-28T01:22:32.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,pietromarinelli/script-competition-facebook-vi,Script_Competition_Facebook_VI,Pietro Marinelli,,2016-06-27T13:23:30.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,devendramittal/xgboost,Xgboost,DEVENDRA MITTAL,,2016-06-26T18:03:17.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,pibiflex/extended-grid-knn,Extended grid KNN,Pibiflex,,2016-06-25T17:24:17.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,gospursgo/modified-grid-knn-without-month-year,Modified grid kNN(without month&year),Jiahuan He,,2016-06-25T04:38:54.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,sadz2201/click-submit-repeat,click_submit_repeat,Siddharth Chandrakant,,2016-06-26T13:57:16.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,toonday/testing-testing-facebook-v,Testing Testing Facebook V,Toonday,,2016-06-29T22:15:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,pulkitrebel/fbcheckin2,fbcheckin2,PulkitAgrawal(पुलकितअग्रवाल),,2016-07-03T07:54:39.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,loikaggle/test-write,test write,Laggle,,2016-06-18T02:51:24.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,condereis/exploratory-data-analysis,Exploratory Data Analysis,Rafael Reis,,2016-06-16T20:22:24.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,loikaggle/menlo-park,Notebook,Laggle,,2016-06-17T21:08:52.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,loikaggle/grid-knn-mins,grid_knn_mins,Laggle,,2016-06-17T23:39:06.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,loikaggle/grid-knn,grid_knn,Laggle,,2016-06-10T17:47:05.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,loikaggle/split-learn-join,Grids to csv,Laggle,,2016-06-17T21:08:23.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,balajibi/entry-solution-fb-bi,Entry Solution FB BI,Balaji N,,2016-06-07T09:52:33.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,hardyce/plots-with-accuracy-based-alpha,Plots with accuracy based alpha,light0,,2016-06-06T18:31:54.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,leeguoo/time-fft,time_fft,GuoLi,,2016-06-04T22:02:34.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,namra42/gridwise-open-boundary,Gridwise open boundary,Namra,,2016-06-04T07:21:32.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,nachilieder/fb-algorithm,FB Algorithm,Marc Lieder,,2016-06-02T08:15:36.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,xmarvin/python-starter-0-55,python starter ~0.55,Alexey Kisel,,2016-06-21T19:00:30.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,krishnamadgula/python-starter-0-55,python starter ~0.55,KrishnaMadgula,,2016-05-28T12:25:20.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,larryfreeman/python-starter-0-55,python starter ~0.55,Larry Freeman,,2016-05-31T04:33:41.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,nikolayburlutskiy/randomforest-test,RandomForest Test,NikolayBurlutskiy,,2016-06-07T17:03:24.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,valeriur/randomforest-x3,RandomForest x3(bug fix),Valeriu Radu,,2016-05-27T08:45:18.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,lalmanisha/timestamp-structure,Timestamp structure,Manisha Lal,,2016-05-27T04:59:03.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,chomolungma/time-is-min-simple-reasoning,"Time is min, simple reasoning",Zhenjie Zhang,,2016-05-25T21:17:18.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,prakashpvss/testscript,TestScript,Prakash PVSS,,2016-05-25T04:03:05.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,mengtihlam/tests-01,Tests 01,Meng-tih LAM,,2016-05-23T21:12:02.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,vagrawal/data-analysis,Data analysis,Vishal,,2016-06-25T16:01:42.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,mohamedali/exploring,exploring.. ,Mohamed Ali,,2016-05-24T18:20:40.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,alexzhang/naive-knn,naive_knn,OrganicOrigin,,2016-05-18T09:23:59.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,justdoit/msb-with-validation-v2-0,MSB with Validation v2.0,justdoit,,2016-05-16T14:57:19.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,threecifanggen/an-overlook-using-bokeh,An Glance,cube root,,2016-05-16T06:40:04.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,srimalj/analyse-time-2,Analyse Time 2,dingo,,2016-05-17T01:14:52.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,johnsavageireland/first-pass-analysis,first pass analysis,John Savage,,2016-05-20T19:42:57.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,hadigoody/day-of-week-time-of-day,day of week - time of day,goody,,2016-05-16T19:40:13.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,hitheone/explore-data-place-are,Explore data & place area,nptd,,2016-05-15T02:13:58.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/fb-time,fb-time,Karthik Appadurai,,2016-05-25T16:12:43.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,jturkewitz/mad-script-battle-pandas-version,Mad Script Battle - Pandas Version,Jared Turkewitz,,2016-05-14T21:02:38.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,celticmajora/mad-scripts-battle-v2,Mad scripts battle v2,CelticMajora,,2016-05-14T16:20:26.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,jturkewitz/mad-scripts-battle-v1-3,Mad scripts battle v1.3,Jared Turkewitz,,2016-05-13T17:22:02.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,tricky11/visualize-all-locations-for-a-place,Visualize all locations for a place,Harish Reddy,,2016-05-13T06:46:32.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,jhanni/trying-out-script,Trying out script,János Róbert Gub,,2016-05-12T13:34:27.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,eliiee/prediction,prediction,Elie Ladias,,2016-05-12T06:40:48.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,praveenhegde/10-nearest-neighbour,10-Nearest neighbour,Praveen Hegde,,2016-05-12T06:17:49.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,towhid1/1st-look,1st look,Nurul Akter Towhid,,2016-05-12T06:00:32.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,jsab16/exploration,Exploration,JSab,,2016-05-12T00:50:17.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-v-predicting-check-ins
+,,,,,0,willemdafoe/facebook-v-prediction-check-ins,Facebook V: Prediction check ins,Willem Dafoe,,2021-11-29T19:24:25.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,indrajitswain/xgboost-model-on-facebook-checkins,Xgboost model on Facebook checkins,INDRAJIT SWAIN,,2020-08-16T10:48:44.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,snkey01/kernel565c2febb1,kernel565c2febb1,Snkey,,2019-06-28T09:34:09.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jihyeseo/fb-chck-in-predict-eda,fb chck in predict eda,Jihye Sofia Seo,,2018-05-08T13:33:05.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,fuluves/notebook710e357ea7,Notebook710e357ea7,fuluves,,2017-04-17T22:12:06.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jiayel/notebookc726021b19,Notebookc726021b19,jiayeliu,,2017-04-08T18:27:14.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yeepom/notebooka1617c3048,Notebooka1617c3048,yeepom,,2017-03-17T15:53:54.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,kvishakha10/notebook745b3a03dd,Notebook745b3a03dd,Vishakha Kharpate,,2017-02-26T21:50:46.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,beefinbj/mad-scripts-battle-z,Mad Scripts Battle Z,AngusNing,,2017-02-11T09:37:53.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,freyman/facebook-5-competition,Facebook 5 competition,Evgeny Freyman,,2017-02-06T10:48:50.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,maver1ck/quick-look-at-the-data,Quick look at the data,maverick,,2017-02-05T01:48:24.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,namluu/notebook602123d423,Notebookad39ccc9a3,Luu,,2017-01-13T02:23:40.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,nsknsl/notebookc2d9248340,Notebookc2d9248340,nsknsl,,2016-12-26T04:39:44.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,beefinbj/pulled-script,Pulled Script,AngusNing,,2016-12-26T13:02:03.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,fitiavana/data-exploration-and-visualisations,Data exploration and visualisations,Fitiavana,,2016-12-13T11:19:40.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zrythpzhl/notebook49348bbd4f,Notebook49348bbd4f,runyao zhang,,2016-12-12T01:13:26.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zrythpzhl/grid-knn1,grid_knn1,runyao zhang,,2016-12-11T05:12:14.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zrythpzhl/notebook1890c7d5ee,Notebook1890c7d5ee,runyao zhang,,2016-12-12T01:56:38.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zrythpzhl/first-try-validation,first_try_validation,runyao zhang,,2016-12-12T19:39:36.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zrythpzhl/grid-knn,grid_knn,runyao zhang,,2016-12-10T07:01:59.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/notebook4df10ba779,Notebook4df10ba779,LL,,2016-12-03T16:51:08.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/notebook854cb3bbff,Notebook854cb3bbff,LL,,2016-12-03T16:31:08.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/notebook4bb211b594,Notebooka275be1719,LL,,2016-12-01T18:48:35.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ather123/exploring-fb,Exploring fb,AtherRizvi,,2016-11-27T06:38:46.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,cambomb/notebook84551cd7fb,Notebook98f8e34173,CamAdams,,2016-11-19T22:11:23.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,gweijie/notebookcfc23830e9,Notebookcfc23830e9,Erik Gao,,2016-11-19T09:09:42.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ahmedpyarali/notebook8bf9871af8,Notebook8bf9871af8,Mr.PyCharm,,2016-11-14T18:32:48.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/notebookc6626dc033,Notebookc6626dc033,LL,,2016-11-05T16:59:29.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/testest,testest,LL,,2016-11-03T17:46:42.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mikhailyurasov/notebook560c4b2631,Notebook560c4b2631,MY,,2016-11-03T02:17:52.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/preprocess,Preprocess,LL,,2016-10-29T16:01:04.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/notebook0a9b63a69b,Notebook0a9b63a69b,LL,,2016-10-27T17:48:34.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ghaidaelsaied/notebook116e4de7d7,Notebook116e4de7d7,Ghaida El-Saied,,2016-10-24T05:15:48.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,itownleys/grid-knn3,grid_knn3,Isabelle T-S,,2016-10-23T01:21:53.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,serenajiang/notebookea4eace7d1,Notebookea4eace7d1,Serena,,2016-10-23T03:14:49.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,datadong/data-exploration-and-visualisations-f4546a14,Data exploration and visualisations f4546a14,dataDong,,2016-10-20T03:14:52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tennissuperstar/basic-knn,Basic KNN,AiswaryaSankar,,2016-10-13T02:56:21.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,datadong/data-exploration-and-visualisations,Data exploration and visualisations,dataDong,,2016-10-11T18:28:27.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ishaanv/quick-look-at-the-data,Quick look at the data,ishaan,,2016-10-08T12:59:13.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,llbestmvp/notebook20b29b9c34,Notebook20b29b9c34,LL,,2016-09-29T18:22:28.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,chopra/fork-of-better,Fork of Better,AnujChopra,,2016-09-27T13:35:47.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,xingobar/notebook48e47ac67b,Notebook48e47ac67b,Gary Ng,,2016-09-26T08:34:04.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,roggin/quick-look-at-the-data,Quick look at the data,rogginHuang,,2016-09-21T05:15:52.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,bharat77/notebook8770d7507b,Notebook8770d7507b,bharatwaja,,2016-09-20T23:03:00.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ildiii05/notebookb2d748bbb3,Notebookb2d748bbb3,Ildi Madák,,2016-09-20T14:54:14.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,gkvignesh/notebook279bd35e5b,Notebook279bd35e5b,thesecretminer,,2016-09-18T17:14:51.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,hao2016/notebook41d82e0cd9,Notebook41d82e0cd9,Hao Wang,,2016-08-25T04:33:39.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,wangbo/notebook8ccda5926b,Notebook8ccda5926b,Bob,,2016-08-24T20:32:59.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,kimishpatel/notebook6df0ee2420,Notebook6df0ee2420,Kimish Patel,,2016-08-23T02:18:00.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sweetsyrup/notebook2a29d97296,Notebook2a29d97296,Hongtae Kim,,2016-08-22T08:33:22.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,stlstl/65854,65854,stlstl,,2016-08-21T14:46:37.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zishan/check,check,ZishanAhmad,,2016-08-19T10:34:43.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sweetsyrup/notebook1f46597be5,Notebook1f46597be5,Hongtae Kim,,2016-08-18T08:11:55.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,luokai/kg-0818-grid-knn,kg_0818_grid_knn,dolly,,2016-08-18T07:38:53.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,imvemuri47/fb-check-in-data-exploration,FB Check-in Data Exploration,krish vemuri,,2016-08-15T02:40:50.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,imvemuri47/data-exploration-and-visualisations-aeecf17b,Data exploration and visualisations aeecf17b,krish vemuri,,2016-08-15T02:40:09.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,imvemuri47/data-exploration-and-visualisations,Data exploration and visualisations,krish vemuri,,2016-08-10T23:16:41.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,vikrambahl/notebook39919cefb9,Notebook489e89d029,winger,,2016-08-04T19:00:12.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mtharz/test-libraries,test libraries,MarkusHarz,,2016-08-01T15:02:26.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dmburt/baseline,Baseline,dburt,,2016-07-16T14:47:41.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,xzhang7/test01huib,test01huib,XxxX,,2016-07-09T19:05:43.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,chrisgundling/anyone-else-try-using-svm,Anyone else try using SVM?,ChrisG,,2016-07-08T05:37:53.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/grid-gaussiannb-testing-weights,Grid_GaussianNB - Testing Weights,Michael Hartman,,2016-07-07T17:03:29.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jeansoula/accuracy-explained,Accuracy Explained,Jean Soula,,2016-07-07T14:18:56.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,hardyce/testing-mapk,testing mapk,light0,,2016-07-06T10:14:52.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,armanform/modified-grid-knn-v2,Modified grid kNN v2,arreqe,,2016-07-06T09:49:18.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,valadi/modified-grid-knn-1-2,Modified grid kNN -1-2,Jayaraman,,2016-07-06T15:02:30.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/random-forest-5,Random forest 5,Keshav Sehgal,,2016-07-06T11:52:47.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/random-forest-4,Random Forest 4,Keshav Sehgal,,2016-07-06T11:52:50.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/random-forest-3,Random forest 3,Keshav Sehgal,,2016-07-06T11:51:37.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/random-forest-2,Random Forest 2,Keshav Sehgal,,2016-07-06T11:51:08.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/newscript2,newscript2,Anup,,2016-07-06T06:38:06.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abhilashawasthi/newscript2,newscript2,Abhilash Awasthi,,2016-07-06T04:16:51.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yadavsarthak/newscript2,newscript2,SarthakYadav,,2016-07-06T00:05:45.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rafaelmm/modified-grid-knn-v0-1,Modified grid kNN v0.1,Rafael Moraes,,2016-07-05T23:29:00.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,vishallakha/modified-grid-knn-v10,Modified grid kNN v10,vishallakha,,2016-07-05T22:55:05.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pulkitrebel/fbcheckin4,fbcheckin4,PulkitAgrawal(पुलकितअग्रवाल),,2016-07-06T04:23:05.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/knn-feature-weight-finder,KNN Feature Weight finder,Michael Hartman,,2016-07-05T17:52:41.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rahimi/modified-grid-knn,Modified grid kNN ,mashdi,,2016-07-05T15:15:59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dieepbapat/starting-a-test-for-testing-the-test,starting a test for testing the test,dileep,,2016-07-05T17:16:39.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,guppsy/knn-accelerated-v3,KNN accelerated V3,Abhishek Gupta,,2016-07-05T09:29:14.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,adityap31/locationdata,LocationData,Aditya Padwal,,2016-07-05T09:00:42.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sandeeptammu/knn-accelerated-v3,KNN accelerated V3,Sandeep42,,2016-07-05T05:16:21.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karimouda/modified-grid-knn-2,Modified grid kNN 2,karimo,,2016-07-05T04:17:21.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/modified-grid-knn-change3,Modified grid kNN -change3,Anup,,2016-07-06T10:42:53.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,valadi/modified-grid-knn-1-1,Modified grid kNN-1-1,Jayaraman,,2016-07-05T09:24:56.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yadavsarthak/minute-changes,Minute changes,SarthakYadav,,2016-07-04T22:01:08.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,lishan/calculate-feature-weight,calculate_feature_weight,Lishan Zhang,,2016-07-05T00:49:18.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rahimi/modified-grid-knn-change3,Modified grid kNN -change3,mashdi,,2016-07-04T19:49:12.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,nilotpal/modified-grid-knn-change2,Modified grid kNN -change2,Nilotpal Sinha,,2016-07-04T18:12:07.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rahimi/modified-grid-knn-change2,Modified grid kNN -change2,mashdi,,2016-07-04T17:38:31.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rahimi/modified-grid-knn-change,Modified grid kNN -change,mashdi,,2016-07-04T16:46:21.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,valadi/modified-grid-knn-change,Modified grid kNN -change,Jayaraman,,2016-07-04T15:33:23.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,lishan/grid-knn-inherit-from-many-others,grid_knn_inherit_from_many_others,Lishan Zhang,,2016-07-05T18:40:08.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,kirkir/script-competition-cacebook-v-2-1,Script_Competition_Cacebook_V_2.1,Danlu Wang,,2016-07-04T22:52:29.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rahimi/facebook-pci2,Facebook_PCI2,mashdi,,2016-07-03T18:43:51.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,toonday/timmy-tom-fb-v,Timmy Tom FB V,Toonday,,2016-07-04T14:09:54.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,root1729/fb-predictions,FB.predictions,Root,,2016-07-03T11:31:00.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/logistic-regression-to-find-knn-weights,Logistic Regression to find KNN weights,Anup,,2016-07-30T11:42:47.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/random-forest,Random forest,Keshav Sehgal,,2016-07-06T11:50:49.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/script-competition-facebook-v-2-1,Script_Competition_Facebook_V_2.1,Keshav Sehgal,,2016-07-06T12:45:12.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,nilotpal/script-competition-cacebook-v-2-1,Script_Competition_Cacebook_V_2.1,Nilotpal Sinha,,2016-07-03T04:17:19.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yadavsarthak/just-trying,just_trying,SarthakYadav,,2016-07-03T01:49:49.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yadavsarthak/my-first-script,my_first_script,SarthakYadav,,2016-07-03T00:57:26.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,justfor/grid-knn,grid-knn,Justfor,,2016-07-05T20:51:01.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,radvin/modified-grid-knn,Modified grid kNN ,radvin,,2016-07-05T11:36:12.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dmitrdv/model-hist,model_hist,dmitrdv,,2016-07-03T17:36:43.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,thedarkl0rd/modified-grid-knn-17-z,Modified grid kNN  17 z,The_DarkLord,,2016-07-01T14:45:37.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/modified-grid-knn-17-alex,Modified grid kNN  17 Alex,Michael Hartman,,2016-07-01T14:57:19.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,drarfc/modified-grid-knn-17-z,Modified grid kNN  17 z,Alex,,2016-07-01T14:50:54.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keshavsehgal/modified-grid-knn,Modified grid kNN ,Keshav Sehgal,,2016-07-01T09:19:06.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,datenkieker/modified-grid-knn-17,Modified grid kNN  17,qudade,,2016-07-01T05:06:29.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,nilotpal/modified-grid-knn,Modified grid kNN ,Nilotpal Sinha,,2016-06-30T18:47:47.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,gopalsharma2001/inspired-script,inspired_script,GopalS,,2016-07-01T06:02:07.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yangminreal/test-python,test_python,Myang,,2016-07-01T07:51:56.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,beedata/mad-scripts-battle-zda,Mad Scripts Battle Zda,FengLi,,2016-06-30T04:40:55.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,aldente/mad-scripts-battle-zzz,Mad Scripts Battle Zzz,aldente,,2016-06-30T03:55:00.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,etherqua/mad-scripts-battle-z,Mad Scripts Battle Z- models,Etherqua,,2016-06-29T22:26:37.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,toonday/new-new-facebook-v,New New Facebook V,Toonday,,2016-07-03T17:23:33.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ccccat/fv5-script-58251-v01,FV5-script-58251-v01,Sergey Yurgenson,,2016-06-29T16:56:05.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ccccat/fv5-script-58251-v00,FV5-script-58251-v00,Sergey Yurgenson,,2016-06-29T16:28:19.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sundong/test-sdk,Test_SDK,Sundong Kim,,2016-06-29T13:01:46.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,toonday/facebook-v-test,Facebook V Test,Toonday,,2016-07-03T17:33:24.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abiirokzz/pci-2,PCI 2,Abhijeet Panda,,2016-07-02T07:20:37.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abhilashawasthi/trying,trying,Abhilash Awasthi,,2016-06-29T04:54:05.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,gradient88/eeee111,eeee111,艾盟（meng ai）,,2016-10-21T02:47:04.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,makismarketos/myattempt,myAttempt,makismarketos,,2016-06-29T04:00:34.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abhilashawasthi/mad-scripts-battle-z-2,Mad Scripts Battle Z_2,Abhilash Awasthi,,2016-06-29T06:49:19.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abhilashawasthi/mad-scripts-battle-z,Mad Scripts Battle Z,Abhilash Awasthi,,2016-06-29T03:03:00.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,aychies/knn-trial,knn_trial,Vaishnavi Ravi,,2016-06-29T00:50:08.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mohitkhatri88/grid-knn-acc,grid_knn_acc,Mohit Khatri,,2016-06-28T17:47:27.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/fastest-way-to-write-the-csv,fastest way to write the csv,Michael Hartman,,2016-06-28T14:32:45.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,agalea91/custom-sklearn-map-3-scoring-function,Custom sklearn MAP@3 scoring function,Alexander Galea,,2016-06-28T01:12:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,larryzh/data-visualization,data visualization,larry zhou,,2016-06-27T21:35:15.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karimouda/modified-grid-knn,Modified grid kNN ,karimo,,2016-07-04T00:01:37.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeyingguo/script,script,MichelleGuo,,2016-06-27T02:08:07.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,datadave/modified-grid-knn-sans-month-year,Modified grid kNN - sans Month Year,Dave Hurst,,2016-06-26T18:14:06.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/testing-knn,Testing KNN,Michael Hartman,,2016-07-06T21:30:24.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jianpingl/first-version,test_test,Jianping Liu,,2016-06-25T23:26:25.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,xiaoyuwang/xgboost,xgboost,Xiaoyu Wang,,2016-06-25T17:04:18.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,nikhilkishore18/randomforestmodel,RandomForestModel and Clustering,NikhilKishore,,2016-06-27T05:06:23.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pibiflex/test01,Test01,Pibiflex,,2016-06-25T14:36:59.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ramanand/fbquest,FbQuest,Ramanandan ,,2016-06-25T13:32:39.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,etherqua/cross-validation,cross validation,Etherqua,,2016-06-29T19:00:29.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,alexcaron/data-exploration,Data Exploration,Alex C.,,2016-06-24T18:20:02.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,gopalsharma2001/first-try,first_try,GopalS,,2016-06-29T07:03:35.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,amdouni/gridknn,Gridknn,AMDOUNIRaouf,,2016-06-24T11:10:35.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,anirudhsharma/proper2,proper2,AnirudhSharma,,2016-06-23T17:29:16.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,anirudhsharma/proper,Proper,AnirudhSharma,,2016-06-23T17:26:09.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/test-import,Test import,Michael Hartman,,2016-06-26T11:12:11.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abiirokzz/facebook-pci,Facebook_PCI,Abhijeet Panda,,2016-06-28T05:38:00.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,leo2610/timestamp-structure,Timestamp structure,phongvu95,,2016-06-23T04:02:48.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zeroblue/mad-scripts-battle,Mad Scripts battle,Michael Hartman,,2016-06-22T20:08:21.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,arifazizkaggle/test-1-1,Test_1_1,ArifAziz,,2018-11-20T07:57:35.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,larryfreeman/accuracy-and-std-dev-of-x-y,"Accuracy and std dev of x,y",Larry Freeman,,2016-06-22T18:46:37.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,roryhr/data-analysis,Data Analysis,Rory,,2016-06-23T03:19:25.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,srimalj/accuracy,Accuracy,dingo,,2016-06-23T04:48:31.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,akvachov/akvavhov,akvavhov,AndreyKvachov,,2016-06-21T12:21:05.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,wolfmessing/my-first-script,My first script,Wolf Messing,,2016-06-21T09:22:39.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pulkitrebel/fbcheckin1,fbcheckin1,PulkitAgrawal(पुलकितअग्रवाल),,2016-06-21T05:31:47.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,evaita1/facebook,Facebook,EE2L,,2016-06-21T04:42:28.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,navoshta/yet-another-knn-with-a-grid,Yet another KNN with a grid.,Alex Staravoitau,,2016-06-20T16:17:46.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yatinece/explore-python,explore_python,TADA,,2016-06-20T08:53:32.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rtuhin/fb-check-ins,fb_check_ins,Tuhin,,2016-06-22T21:51:43.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,hardyce/xgb-fb,xgb fb,light0,,2016-06-18T16:53:00.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ma350365879/gaussian,Naive Bayies,YijunMa,,2016-06-18T13:25:53.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,defninja/model-attempts,Model_Attempts,Chris Ball,,2016-06-18T10:55:19.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ishaanv/grid-knn,grid_knn,ishaan,,2016-06-18T10:38:40.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,drarfc/grid-knn-add-accuracy,grid_knn_add_accuracy,Alex,,2016-06-18T08:25:15.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,chrisgundling/grid-knn,grid_knn,ChrisG,,2016-06-18T19:10:39.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ma350365879/grid-knn-add-accuracy,grid_knn_add_accuracy,YijunMa,,2016-06-18T03:26:57.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,aldente/grid-knn-test-only,grid_knn_test_only,aldente,,2016-06-17T21:24:34.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zhenjuan/grid-knn-different-k-value,grid_knn-different-k_value,zhenjuan,,2016-06-18T20:47:06.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sino30535/facebook-v-script,facebook V script,Darren Lee,,2016-06-17T19:41:01.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pandevirus/grid-plus-classifier-pan,grid_plus_classifier_pan,Junwei Pan,,2016-06-17T22:32:02.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,datenkieker/grid-knn-7,grid_knn_7,qudade,,2016-06-17T18:53:01.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,badat0202/playground,Playground,dathuynh,,2016-06-17T15:54:28.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,anirudhsharma/first,First,AnirudhSharma,,2016-06-17T22:05:39.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zhenjuan/grid-knn,grid_knn,zhenjuan,,2016-06-17T03:26:23.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,hardyce/fb-knn,fb knn,light0,,2016-06-16T12:44:14.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,benhamner/lasttry3,lasttry3,Ben Hamner,,2016-06-16T06:41:34.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,johnnytorres83/exploratory-analysis,Exploratory analysis ,jt,,2016-06-16T04:37:36.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/lasttry3,lasttry3,Anup,,2016-07-06T04:48:59.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/lasttry2,lasttry2,Anup,,2016-06-16T01:56:00.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,lishan/data-exploration-fb,data_exploration_fb,Lishan Zhang,,2016-07-02T17:54:16.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,drarfc/grid-knn,grid_knn,Alex,,2016-06-18T00:32:36.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/lasttry,lasttry,Anup,,2016-06-16T01:37:10.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abgoswam/datapeek,datapeek,abgoswam,,2016-06-15T00:19:22.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pandevirus/test-23,Test 23,Junwei Pan,,2016-06-14T15:16:32.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/newbee,newbee,Anup,,2016-06-14T15:20:24.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/trial4,trial4,Anup,,2016-06-14T09:20:37.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pandevirus/grid-plus-classifier,grid_plus_classifier,Junwei Pan,,2016-06-14T05:14:16.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,starwar/trial-1,trial,Anup,,2016-06-14T02:39:27.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,revenxiang/justa,JustA,Reven,,2016-06-13T19:47:37.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,apapiu/grid-knn-fine,grid_knn_fine,Alexandru Papiu,,2016-06-13T20:25:51.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,waysonkong22/temp1,temp1,WaysonKong,,2016-06-13T11:53:55.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,chiggypk/firstscript,FirstScript,ChiragBhatia,,2016-06-13T05:34:57.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,badat0202/testing-101,Testing 101,dathuynh,,2016-06-13T03:09:27.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,badat0202/grid-knn,grid_knn,dathuynh,,2016-06-17T04:24:25.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,silwals/initial-test-of-script,initial_test_of_script,Sneha,,2016-06-12T17:51:08.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,maidou/ftt-analysis,FTT-analysis,Bincheng Li,,2016-06-13T08:42:41.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ethannguyen/facebook-competition,Facebook competition,Ethan Ng,,2016-06-12T16:19:03.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,marcpuig/grid-plus-classifier,grid_plus_classifier,Marc Puig,,2016-06-11T18:29:00.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,itenyh/python-starter-0-55,python starter ~0.55,Itenyh,,2016-06-11T01:20:27.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mlbeaver/testing,Looking at Data,mlbeaver,,2016-06-10T04:46:17.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jashimbd/predicting-check-ins,Predicting Check-ins,jashim Uddin,,2016-06-09T05:39:47.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mutouman/hotel-check-in-prediction,Hotel_Check_In_Prediction,MutouMan,,2016-06-07T21:54:21.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,echamp/normxy-bint,normxy_bint,Elio Champenois,,2016-06-07T22:07:41.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,camdenclark/what-does-accuracy-mean,What does Accuracy mean?,CamdenClark,,2016-06-08T17:18:00.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,wenbochang/initial,Initial,Wenbo Chang,,2016-06-06T18:47:54.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,overfit/grid-plus-classifier,Random Forest Feature Importance,David,,2016-06-28T02:02:08.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mjchao/testing,Effect of Accuracy on my Classifier,Mickey Chao,,2016-06-05T00:44:41.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,smaran/feature-relevance,Feature_Relevance,smaran,,2016-06-04T14:55:11.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sokian/experiment,experiment,Sergei Kiian,,2016-06-04T11:42:04.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sokian/test-io,test_io,Sergei Kiian,,2016-06-04T08:45:14.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pyrite/fbcomp,FBComp,buzz,,2016-06-04T01:43:49.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,swoolery/sw-locations-160603,SW_Locations_160603,StephenWoolery,,2016-06-03T21:11:08.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,vksengr/tester,tester,Vikas Saxena,,2016-06-03T14:37:13.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,malice/data-analysis,Data_Analysis ,Shivanth M P,,2016-06-03T11:41:16.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,arcarchit/first-notebook,First Notebook,ArchitVora,,2016-06-03T09:41:36.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,arcarchit/first-script,First Script ,ArchitVora,,2016-06-03T09:29:54.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dkozyr/cell-experiments-with-cv,Cell experiments with CV,Kozyr,,2016-06-02T11:59:30.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,arvingopi/facebook-checkin-predictions,facebook_checkin_predictions,Arvindhen Gopichandran,,2016-06-01T22:09:51.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,arvingopi/facebook-checkin-prediction,facebook_checkin_prediction,Arvindhen Gopichandran,,2016-06-01T18:56:24.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karandewan/facebook-predict-checkins,facebook-predict-checkins,KaranDewan,,2016-06-01T15:38:04.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,xfconnie/first-test,first test,FanXing,,2016-06-01T02:39:11.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,wooliekyat/wooliekyat-1,wooliekyat,WoolieKyat,,2016-05-31T20:40:55.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sarvajith/facebook-entry-1,facebook entry 1,Sarva,,2016-05-31T10:29:38.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mkesselaers/facebook-checkin,Facebook_Checkin,MKesselaers .,,2016-06-01T07:28:48.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,westhyena/pojpojpojpojiokpj,pojpojpojpojiokpj,JungwooChae,,2016-05-31T07:42:32.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rglebov/testnotebook,TestNotebook,Roman G.,,2016-05-31T05:11:43.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,janoshoener/basictest,BasicTest,János,,2016-05-30T17:20:27.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,venkyb/test1,test1,tyler_durden,,2016-05-30T10:21:18.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,diogojapinto/test1,test1,DiogoPinto,,2016-05-29T18:53:31.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,chekunkov/first-notebook,First notebook,Alex Chekunkov,,2016-05-29T22:20:03.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,keldlundgaard/data-exploration-and-visualisations,Data exploration and visualisations,KeldLundgaard,,2016-05-29T04:00:22.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ntuloser/random-forest-on-a-few-blocks-with-day,Random Forest on small Block,ShengHsuanLin,,2016-05-31T00:49:53.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jackdaw/checkins,checkins,Svetlana Galkina,,2016-05-28T11:12:13.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zhenjuan/data-exploration-and-visualization,data exploration and visualization,zhenjuan,,2016-05-28T22:02:25.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,chuhimself/exploring-time,Exploring Time,Charles Chu,,2016-05-27T20:28:04.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,liuyihunter/this-is-an-test,This is an test,lyHunter,,2016-05-27T16:49:21.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,liuyihunter/this-is-a-test,This is a test,lyHunter,,2016-05-27T16:39:13.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jingweishen/fb-eda,FB_EDA,cjw09,,2016-05-27T06:58:40.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,satomacoto/kdtree3,KDTree3,stmct,,2016-05-27T02:24:34.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ruktech/mad-script-battle-in-pandas,Mad Script Battle in Pandas,Farrukh,,2016-05-27T00:06:01.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,wing00/hello-world,hello world,wing00,,2016-05-26T12:22:46.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,satomacoto/timestamp-distribution-for-each-place,Timestamp distribution for each place,stmct,,2016-05-26T10:13:23.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,camdenclark/testingmore,Testingmore,CamdenClark,,2016-05-26T08:36:04.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,camdenclark/testing-4,Testing,CamdenClark,,2016-05-26T08:30:21.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,caldas/data-exploration,Data exploration,fcaldas,,2016-06-21T15:02:34.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ciphurus/fbook-test,fbook_test,ciphur,,2016-05-25T19:44:13.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pappukrjha/latlon-range-by-place-ids,latlon_range_by_place_ids,Pulkit Jha,,2016-05-25T10:14:19.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ma350365879/a-tutorial-to-rank-top-30,A tutorial to rank top 30,YijunMa,,2016-05-25T00:25:00.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rayed19/facebook-script,facebook-script,Rayed Bin Wahed,,2016-05-24T20:42:16.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,bharathipriyaa/facebook-kaggle-ml-bharathi,Facebook Kaggle ML- Bharathi ,BharathipriyaaThangamani,,2016-05-25T01:25:42.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pinocchio/model-00,Model_00,Hamed Seyed-allaei,,2016-06-22T11:16:37.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ivanfoong/explore,explore,ivanfoong,,2016-05-25T09:26:02.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,deekaushal/temp1,Temp1,DeepakKaushal,,2016-05-24T11:58:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zenabk/firstscriptinpython,FirstScriptInPython,ZnbCrypt,,2016-05-26T16:36:10.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,deekaushal/test1,Test1,DeepakKaushal,,2016-05-24T11:36:50.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,satomacoto/kdtree,KDTree,stmct,,2016-05-24T09:34:39.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tuehvo/example-py,example.py,lemontreecmta,,2016-05-24T18:54:05.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tuevo21/example-py,example.py,Tue Vo,,2016-05-23T22:52:22.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yuebanguo/facebook-pci-origin,Facebook_PCI_origin,keguoh,,2016-05-30T04:42:17.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,pappukrjha/understanding-data,understanding_data,Pulkit Jha,,2016-05-23T18:03:25.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rahulreddyv/the-one-with-data,the_one_with_data,RahulReddy,,2016-05-23T04:44:42.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,davidkunio/recruiting-challenge,Exploration,davidkunio,,2016-05-23T04:13:12.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,swchen0215/testfb,testFB,Sue,,2016-05-22T22:54:56.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,antsek/testing-py,testing.py,AndreSe,,2016-05-22T11:07:50.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tunguz/facebook-pci,Facebook_PCI,Bojan Tunguz,,2016-05-22T22:41:08.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,allenwhale/this-is-a-test-script,this is a test script,allenwhale,,2016-05-21T15:07:16.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,namra42/accuracy-vs-distance-running,accuracy vs distance running,Namra,,2016-05-22T16:13:47.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tomvars/facebook-first-script,naive 3-NN with KD-tree search,ThomasVarsavsky,,2016-05-22T16:06:20.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ntuloser/naive-knn,naive kNN ,ShengHsuanLin,,2016-05-24T16:33:34.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,omarelgabry/facebook-check-ins-analysis-prediction,Facebook Check Ins Predictions,OMAR ELGABRY,,2016-05-20T14:52:09.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,abeedam/my-script-01,my_script_01,AbeedaMohammed,,2016-05-19T18:09:05.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,acelikkaya/testing,testing,Sultan,,2016-05-19T12:33:40.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rsbkr333/exploratory-data-analysis,Exploratory Data Analysis,napster333,,2016-05-19T22:23:05.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,limowankenobi/facebook1,Facebook1,Edhzsz,,2016-05-18T19:49:33.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,raguram/data-exploration-and-visualisations,Data exploration and visualisations,Raguram Ramamoorthy,,2016-05-18T14:03:24.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,cwenboshi/exploring-accuracy,Exploring Accuracy,Wenbo,,2016-05-17T16:03:34.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ivintik/fbcheckin,fbcheckin,Vintik,,2016-05-17T15:16:49.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jane522/exploring-data,exploring_data,Zheng Wang,,2016-06-12T13:55:46.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,praveenhegde/time-and-no-time,time and no time,Praveen Hegde,,2016-05-17T12:19:55.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,kngoyal/test1-py,test1.py,Kamal Nayan Goyal,,2016-05-17T10:59:24.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,breakfastpirate/msb-with-validation-v3-0,MSB with Validation v3.0,BreakfastPirate,,2016-05-18T01:11:32.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,isawjet/facebook-random-forest,Facebook Random Forest,isawjet,,2016-05-16T21:00:59.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,lakinsm/multiprocessing-template-py-1,multiprocessing_template.py,Steven Lakin,,2016-05-16T16:47:09.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,namra42/accuracy-exploration,Accuracy vs Distance,Namra,,2016-05-21T12:46:49.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jjhuang/facebook-v-script,Facebook V Script,黃 致善,,2016-05-16T01:09:07.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jjhuang/facebook-v,Facebook V,黃 致善,,2016-05-16T01:06:43.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,srimalj/analyse-time,Analyse 'time',dingo,,2016-05-16T00:55:06.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mightyroy/facebook-runner,Facebook Runner,RoyChan,,2016-05-16T01:33:49.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,leosellam/dataexploration-py,dataExploration.py ,LeonardSellam,,2016-05-15T23:02:37.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,kubera/myfirstscript,MyFirstScript,kubera,,2016-05-17T01:06:41.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,mightyroy/testing-first,testing first,RoyChan,,2016-05-15T14:21:08.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,innerproduct/msb-with-validation-v2-1,MSB with Validation v2.1,Alexander Pushkin,,2016-05-15T13:31:05.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sbairishal/test2-fb,test2 fb,Geeko,,2016-05-15T08:57:39.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dumbris/tensorflow,tensorflow,Algis,,2016-05-15T06:15:26.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dumbris/skflow-test,skflow test,Algis,,2016-05-15T06:07:40.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/kfb-test,kfb_test,Karthik Appadurai,,2016-05-16T02:02:31.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/tryfb,tryfb,Karthik Appadurai,,2016-05-15T00:18:16.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/kar-fb,kar-fb,Karthik Appadurai,,2016-05-14T23:56:17.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,bowendeng/nearestneighbor,NearestNeighbor,BowenDeng,,2016-05-14T23:13:54.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rplaca/wasting-time-on-kaggle,Wasting time on Kaggle,Johan Lindberg,,2016-05-15T10:45:10.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,marx94/closestlog,ClosestLog,Marcelo Fornet,,2016-05-14T20:49:20.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,umenon/umtest2,UMtest2,Jyotishi,,2016-05-14T20:03:15.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,devendramittal/centroid-kdtree,Centroid_KDTree,DEVENDRA MITTAL,,2016-05-15T17:10:04.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,umenon/umtest,UMtest,Jyotishi,,2016-05-14T17:51:07.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,umenon/another-way-to-know-the-time-definition,Another Way to Know the Time Definition,Jyotishi,,2016-05-14T17:39:07.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,juanlopez/first-data-view,First Data View,Juanpa,,2016-05-14T17:06:37.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,srimalj/investigate-time,Investigate Time,dingo,,2016-05-14T12:59:30.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,aikinogard/playground,playground,Li Li,,2016-05-16T00:49:31.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dilipkomar/pandas,Pandas,DK,,2016-05-17T17:50:14.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,bochocki/data-exploration-and-visualisations,Data exploration and visualisations,yunque,,2016-05-14T00:17:45.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,purblue/first-glimpse-of-data,First glimpse of data,Seungbum Park,,2016-05-13T22:43:06.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,millerintllc/max-2,Max 2,Jason Miller,,2016-05-13T21:12:22.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,valery123/facebook-test,Facebook test,Valery,,2016-05-13T19:26:28.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,gguliash/mad-scripts-battle-v1-1-p,Mad scripts battle v1.1 p,Giorgi Guliashvili,,2016-05-13T18:33:36.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,alexeybubuka/alec-on-time,alec_on_time,bubuka,,2016-05-13T18:09:05.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,alexeybubuka/time-series,time series,bubuka,,2016-05-13T16:56:50.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jturkewitz/mad-scripts-battle-v1-1,Mad scripts battle v1.1,Jared Turkewitz,,2016-05-13T16:37:25.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tonygracious/data-analysis,Data_analysis,Tony Gracious,,2016-06-04T13:23:44.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zhuhaow/some-guess,naive kNN,Zhuhao Wang,,2016-05-14T07:00:51.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,amilgeorge/test1,Test1,AmilGeorge,,2016-05-13T14:12:39.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,rsalaschile/mad-scripts-battle-v1-1,Mad scripts battle v1.1,Rodrigo Salas,,2016-05-16T03:01:16.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ntzortzis/temp2,temp2,ntzortzis,,2016-05-13T12:11:35.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,hulkbulk/mad-scripts-battle-v1-1,Mad scripts battle v1.1,HulkBulk,,2016-05-13T11:48:16.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,thakurrajanand/mad-scripts-battle,Mad scripts battle,DataGeek,,2016-05-13T08:41:43.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,fabmilo/data-exploration,Data exploration,Fabrizio Milo,,2016-05-14T00:10:19.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,violinbeats/1nn-test-run,1NN Test Run,Violinbeats,,2016-05-13T16:07:31.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,moyphilip/fb-script0,fb_script0,Philip Moy,,2016-05-13T03:37:00.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,analitiq/facebook-checkins,Facebook checkins,Priya Desai,,2016-05-13T02:22:07.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,flyingmeatball/fbcode,fbCode,Flyingmeatball,,2016-05-13T00:58:44.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,violinbeats/knn-test-run,KNN Test Run,Violinbeats,,2016-05-13T16:15:03.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,granit/testme,testme,Tinarg,,2016-05-12T22:17:14.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/trial,trial,Karthik Appadurai,,2016-05-12T20:54:02.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/facebook-test,Facebook-test,Karthik Appadurai,,2016-05-14T23:36:07.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,karthikuic/facebook,Facebook ,Karthik Appadurai,,2016-05-12T19:35:34.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ppinoli/script-fb-test,script_fb_test,Pietro Pinoli,,2016-05-16T12:17:28.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,davidalarrea/exploration,Exploration,David Larrea,,2016-05-12T17:59:17.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,vrdhananj/testscript00-for-fb,testscript00_for_fb,Dhananjay,,2016-05-12T17:22:59.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,darshanms1991/analyzing-the-data,Analyzing the data,M S Darshan,,2016-05-21T13:36:32.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,juanlopez/data-analysis,Data Analysis,Juanpa,,2016-05-12T15:38:33.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,badend/quick-look-at-the-datat,Quick look at the datat,jihoon Kang,,2016-05-12T09:46:50.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,manuskc/data-analysis-2,Data analysis 2,manuskc,,2016-05-12T08:36:51.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,yermouth/testing,Preprocessing,sunnylai,,2016-05-12T18:25:04.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,attila007/first-attempt,First attempt. ,Attila,,2016-05-12T07:42:59.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,forainychen/testing-script,Testing_script,forainy,,2016-05-16T05:26:53.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,ppoddar/test-run,test_run,PinakiPoddar,,2016-05-12T00:28:47.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,swatipatel/test-view,test_view,SwatiPatel,,2016-05-13T15:10:47.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,sureshshanmugam/first-script,First Script,varanid,,2016-05-12T00:38:04.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,guangwei1982/facebook-script,facebook_script,光伟张,,2016-05-11T22:31:47.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zfturbo/test-data,Test data,ZFTurbo,,2016-05-11T22:28:18.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,jonlee317/checkdata,checkData,jonlee317,,2016-05-11T22:16:17.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,dev123/fb-run,fb_run,mdev,,2016-05-11T22:02:33.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,tlehman/count-distinct-place-ids,count_distinct_place_ids,Tobi Lehman,,2016-05-11T22:12:57.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,wydzilla/hello-everyone,hello everyone,wydzilla,,2016-05-11T20:58:58.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins
+,,,,,0,zhuming0828/test1,test1,mingzhu,,2016-05-11T20:48:30.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,facebook-v-predicting-check-ins

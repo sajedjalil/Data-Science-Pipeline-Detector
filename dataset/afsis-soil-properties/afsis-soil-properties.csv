@@ -1,0 +1,3 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,chachiawacef/africa-soil-property-prediction-0-6-mse,Africa_Soil_Property_Prediction_0.6_MSE,Chachia Mohamed Wacef,,2021-02-26T17:28:40.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,afsis-soil-properties
+,,,,,0,datubadiver/notebookd328f54f81,notebookd328f54f81,SUNGSOOLEE,,2021-09-01T08:14:15.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,afsis-soil-properties

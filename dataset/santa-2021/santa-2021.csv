@@ -1,0 +1,75 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,cdeotte/santa-2021-tsp-baseline-2500,Santa 2021 TSP Baseline - [2500],Chris Deotte,,2021-11-18T20:41:28.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],240,santa-2021
+,,,,,0,ryanholbrook/getting-started-with-santa-2021,Getting Started with Santa 2021,Ryan Holbrook,,2021-11-19T13:51:43.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],128,santa-2021
+,,,,,0,ilialar/santa-2021-baseline-and-optimization-ideas,Santa 2021 baseline and optimization ideas,Ilia Larchenko,,2021-11-18T01:57:19.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],124,santa-2021
+,,,,,0,yosshi999/wildcard-postprocessing-using-dynamic-programming,Wildcard Postprocessing Using Dynamic Programming,Yosshi999,,2022-01-13T04:08:20.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,santa-2021
+,,,,,0,kostyaatarik/colored-traveling-salesman-problem,Colored Traveling Salesman Problem,Kostya Atarik,,2021-12-03T10:12:22.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],99,santa-2021
+,,,,,0,kostyaatarik/permutations-rebalancing,Permutations Rebalancing,Kostya Atarik,,2021-11-26T12:27:21.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],87,santa-2021
+,,,,,0,ks2019/santa-baseline-2481,Santa Baseline - 2481,KS,,2021-12-09T17:47:04.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],85,santa-2021
+,,,,,0,subinium/merry-christmas,🎅 Merry Christmas!! 🎅,Subin An,,2021-12-20T10:16:52.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,santa-2021
+,,,,,0,kishalmandal/santa-particle-swarm-optimisation-2548,Santa : Particle Swarm Optimisation [2548],Kishal Mandal,,2021-12-28T11:22:49.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,santa-2021
+,,,,,0,sidett/kaggle-santa-2021-for-japanese,Kaggle Santa 2021 for Japanese (日本語解説),TT,,2021-11-18T07:07:14.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,santa-2021
+,,,,,0,chaudharypriyanshu/st-21-a-perm-rebalancing-wildcard-optimization,ST_21-a+ Perm. Rebalancing + wildcard_optimization,Priyanshu Chaudhary,,2022-01-02T09:07:31.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],71,santa-2021
+,,,,,0,kostyaatarik/minmax-ctsp,MinMax CTSP,Kostya Atarik,,2021-12-05T09:47:58.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,santa-2021
+,,,,,0,tensorchoko/santa-2021-eda-for-beginner-jp-en,🟩santa 2021 EDA for Beginner(JP/EN),tensor choko,,2021-12-29T10:06:54.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,santa-2021
+,,,,,0,xuxu1234/santa-ctsp-2,[Santa]  CTSP_2,xuxu_sky,,2021-12-07T15:47:36.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,santa-2021
+,,,,,0,starohub/st-21-a-minmax-ctsp,ST_21-a: MinMax CTSP,Staro Hub,,2021-12-14T18:14:40.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,santa-2021
+,,,,,0,ulrich07/thanks-to-best-public-kernel,Thanks to best public Kernel,Ulrich G.,,2021-12-17T13:39:34.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,santa-2021
+,,,,,0,joatom/santa-2021-build-superpermutation-5913,Santa 2021 - Build Superpermutation 5913,Jo Tom,,2021-11-23T07:46:51.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,santa-2021
+,,,,,0,kmldas/baseline-rebalance-wildcard-postprocessing-2490,Baseline +Rebalance+ Wildcard Postprocessing =2490,Kamal Das,,2021-12-05T14:11:21.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,santa-2021
+,,,,,0,yosshi999/just-split-the-known-minimum-solution-for-n-7,Just split the known minimum solution for n=7,Yosshi999,,2021-11-17T08:27:36.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,santa-2021
+,,,,,0,kostyaatarik/santa-2021,Santa 2021,Kostya Atarik,,2021-11-17T01:46:40.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,santa-2021
+,,,,,0,seshurajup/visualize-with-without-wildcard-sol-300-clones,Visualize With/Without Wildcard Sol +300 Clones🔥 ,SeshuRajuP 🧘‍♂️,,2021-12-26T18:08:59.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,santa-2021
+,,,,,0,cashfeg/4th-place-solution-code,4th place solution code,hoxosh,,2022-01-19T14:41:25.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,santa-2021
+,,,,,0,katsuomi/santa-baseline-2481-2-charas-loss,Santa Baseline - 2481 2 charas loss,k.n.,,2021-12-08T18:20:41.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,santa-2021
+,,,,,0,mpwolke/watch-out-santa-is-coming-to-kaggle,Watch out! Santa is coming to Kaggle,Marília Prata,,2021-11-17T01:10:51.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,santa-2021
+,,,,,0,skril31/generating-a-2428-solution-in-100-lines-of-code,🎅 Generating a 2428 solution in 100 lines of code,Skril,,2022-01-16T09:21:34.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,santa-2021
+,,,,,0,saijashwanthreddy/2446-score,2446 score,Sai Jashwanth Reddy,,2022-01-04T05:25:19.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,santa-2021
+,,,,,0,starohub/st-21-a-wildcard-filling,ST_21-a: Wildcard Filling,Staro Hub,,2021-12-26T16:55:46.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,santa-2021
+,,,,,0,jazivxt/winter-fun,Winter Fun,Daniel Preciado,,2021-11-28T07:15:44.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,santa-2021
+,,,,,0,felipefonte99/santa-2021-with-google-or-tools,Santa 2021 With Google OR-Tools,Felipe Loque,,2022-01-04T17:24:16.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,santa-2021
+,,,,,0,adrienbouvais/santa-schedule-verification,Santa schedule verification,Adrien Bouvais,,2021-12-06T15:40:36.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,santa-2021
+,,,,,0,atamazian/santa-2021-tsp-baseline-with-concorde,Santa 2021 TSP Baseline with Concorde,Araik Tamazian,,2022-01-01T10:53:26.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,santa-2021
+,,,,,0,w3579628328/mathematic-laws-about-super-permutation,Mathematic laws about super permutation,DiamondH,,2021-12-04T21:26:39.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,santa-2021
+,,,,,0,atmguille/santa-2021-best-place-for-wildcards,[Santa 2021] Best place for wildcards,Guillermo García Cobo,,2022-01-13T12:17:28.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,santa-2021
+,,,,,0,sgreiner/santa-shuffle-solution-from-scratch,Santa Shuffle (solution from scratch),Arc,,2021-12-31T13:01:56.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,santa-2021
+,,,,,0,ks2019/santa-5th-place-2428,Santa 5th Place 2428,KS,,2022-01-13T08:06:06.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,santa-2021
+,,,,,0,solverworld/distribution-of-duplicates-and-mandatories,Distribution of Duplicates and Mandatories,SolverWorld,,2021-11-22T00:20:56.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2021
+,,,,,0,ravishah1/superpermutation-w-custom-tsp-graph-heuristics,Superpermutation w/ Custom TSP Graph & Heuristics,Ravi Shah,,2021-11-22T01:19:15.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santa-2021
+,,,,,0,adrienbouvais/ants-for-santa-an-ant-colony-optimization,Ants for santa - An ant colony optimization,Adrien Bouvais,,2021-12-10T11:13:23.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,santa-2021
+,,,,,0,ted0071/santa-2021-starter,Santa 2021 - Starter,Roland Abel,,2021-11-29T01:00:41.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,santa-2021
+,,,,,0,anjum48/going-from-superpermutation-permutation-format,Going from superpermutation ➡️ permutation format,datasaurus,,2021-11-22T11:26:47.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,santa-2021
+,,,,,0,rdizzl3/christmas-movie-marathon,Christmas Movie Marathon,RDizzl3,,2021-11-17T00:09:38.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,santa-2021
+,,,,,0,xuxu1234/santa-rebalancing-1,[Santa] Rebalancing_1,xuxu_sky,,2021-12-07T15:38:51.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santa-2021
+,,,,,0,jazivxt/brute-force-recursion-with-reduction-limits,Brute Force Recursion with Reduction Limits,Daniel Preciado,,2021-12-12T21:05:50.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santa-2021
+,,,,,0,xuxu1234/santa-baseline,[Santa] Baseline,xuxu_sky,,2021-12-07T14:37:58.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santa-2021
+,,,,,0,raresbarbantan/visualize-solution,Visualize solution,Rares Barbantan,,2021-12-07T14:30:44.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santa-2021
+,,,,,0,aniketsharma00411/santa-2021-local-search,Santa 2021 - Local Search,Aniket Sharma,,2021-12-15T11:24:04.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santa-2021
+,,,,,0,w3579628328/2440-2428-easy-to-understand,🌟2440->2428🌟 Easy To Understand,DiamondH,,2022-01-13T01:07:09.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santa-2021
+,,,,,0,aniketsharma00411/santa-2021-sample-submission,Santa 2021 - Sample Submission,Aniket Sharma,,2021-11-23T05:33:07.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2021
+,,,,,0,aniketsharma00411/santa-2021-problem-analysis,Santa 2021 - Problem Analysis,Aniket Sharma,,2021-11-23T05:26:41.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2021
+,,,,,0,solverworld/statistics-of-costs-in-best-superpermutation,Statistics of Costs in Best Superpermutation,SolverWorld,,2021-11-22T22:57:01.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2021
+,,,,,0,katsuomi/solving-without-optimization-methods,Solving without optimization methods,k.n.,,2022-01-13T01:57:24.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santa-2021
+,,,,,0,neelakashchatterjee/merry-christmas-6985-to-2623-without-wildcards,Merry Christmas ! 6985 to 2623 without wildcards ,Neelakash Chatterjee,,2021-12-24T07:20:21.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santa-2021
+,,,,,0,szabo7zoltan/santa-2021-getting-to-2428-in-four-steps,Santa 2021 Getting to 2428 in four steps,Zoltan,,2021-12-18T23:24:13.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santa-2021
+,,,,,0,miguelgonzalez2/santa-2021-wildcard-insertion-lkh,[Santa 2021] Wildcard Insertion LKH,Miguel González González,,2022-01-13T12:54:46.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2021
+,,,,,0,saijashwanthreddy/minmax-ctsp,MinMax CTSP,Sai Jashwanth Reddy,,2021-12-17T06:09:12.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2021
+,,,,,0,chinta/simplenearestneighbour,SimpleNearestNeighbour,Chinta,,2021-11-29T08:57:51.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2021
+,,,,,0,ranbato/sample-submission-in-8-lines,Sample Submission in 8 lines,RobertAltena,,2021-11-20T10:14:16.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2021
+,,,,,0,miguelgonzalez2/santa-2021-wildcard-longer-patterns-groups,[Santa 2021] Wildcard Longer Patterns / Groups,Miguel González González,,2022-01-13T13:03:54.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2021
+,,,,,0,haozhang607/santa-2021-the-merry-movie-montage,Santa 2021 - The Merry Movie Montage,Hao_ZHANG,,2022-01-17T17:16:22.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2021
+,,,,,0,icaram/st-21-a-wildcard-filling,ST_21-a: Wildcard Filling,I Chetan Anand Ram,,2021-12-27T15:36:00.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2021
+,,,,,0,icaram/santa,santa,I Chetan Anand Ram,,2021-12-20T12:42:25.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2021
+,,,,,0,renokan/kaggle-santa-2021-solution-2440-38-35-34-33-30,Kaggle Santa-2021 | Solution 2440 > 38-35-34-33-30,Anatoly Burenok,,2022-01-16T11:25:31.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2021
+,,,,,0,osamaneamah/notebook12bd039d04,notebook12bd039d04,Osama Neamah,,2021-11-23T00:03:20.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2021
+,,,,,0,mviola/santa-2021-randomized-wildcard-postprocessing,Santa 2021 - Randomized Wildcard Postprocessing,Massimiliano Viola,,2022-01-10T22:07:07.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2021
+,,,,,0,renokan/kaggle-santa-2021-create-solution-2440,Kaggle Santa-2021 | Create solution 2440,Anatoly Burenok,,2022-01-13T07:43:43.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2021
+,,,,,0,aniketsharma00411/santa-2021-local-cheapest-arc-or-tools,Santa 2021- Local Cheapest Arc OR Tools,Aniket Sharma,,2021-12-04T10:09:52.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2021
+,,,,,0,neelakashchatterjee/santa-coming-from-6985-to-2647-naive-approach,"Santa Coming ! From 6985 to 2647 , Naive Approach",Neelakash Chatterjee,,2021-12-06T21:26:33.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2021
+,,,,,0,saraswatitiwari/santa-2021-the-merry-movie-montage,Santa 2021- The Merry Movie Montage,Saraswati Tiwari,,2021-11-19T04:26:15.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2021
+,,,,,0,taanieluleksin/wilcard-optimization-with-acvrp-up-to-2430,Wilcard optimization with ACVRP - up to 2430,Taaniel Uleksin,,2022-01-12T21:10:13.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2021
+,,,,,0,atmguille/kaggle-2021-global-optimizer,[Kaggle 2021] GLOBAL OPTIMIZER,Guillermo García Cobo,,2022-01-13T00:56:31.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2021
+,,,,,0,atmguille/santa-2021-print-perms-distance,[Santa 2021] Print perms (distance),Guillermo García Cobo,,2022-01-10T02:02:37.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2021
+,,,,,0,aishikai/santa-2021-tsp-baseline-2500,Santa 2021 TSP Baseline - [2500],Aishik Rakshit,,2021-11-19T16:40:27.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2021
+,,,,,0,aishikai/santa-2021,Santa 2021,Aishik Rakshit,,2021-11-17T12:32:21.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2021
+,,,,,0,blankaf/my-santa-vol-3,my Santa vol.3,Allie K.,,2021-12-28T22:00:09.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santa-2021

@@ -1,0 +1,2 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,tombalu/event-recommendation-mldm-eda,event-recommendation-mldm-EDA,Balaji R K,,2020-10-05T14:55:58.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,event-recommendation-engine-challenge

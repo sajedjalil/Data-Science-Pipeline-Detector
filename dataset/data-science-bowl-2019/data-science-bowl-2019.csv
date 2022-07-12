@@ -1,0 +1,484 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,artgor/quick-and-dirty-regression,Quick and dirty regression,Andrew Lukyanenko,,2019-11-21T15:10:59.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],628,data-science-bowl-2019
+,,,,,0,robikscube/2019-data-science-bowl-an-introduction,🚸 2019 Data Science Bowl - An Introduction,Rob Mulla,,2019-10-26T04:05:00.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],493,data-science-bowl-2019
+,,,,,0,erikbruin/data-science-bowl-2019-eda-and-baseline,Data Science Bowl 2019 EDA and Baseline,Erik Bruin,,2019-12-15T09:49:54.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],438,data-science-bowl-2019
+,,,,,0,gpreda/2019-data-science-bowl-eda,2019 Data Science Bowl EDA,Gabriel Preda,,2019-12-20T07:44:46.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],345,data-science-bowl-2019
+,,,,,0,braquino/convert-to-regression,Convert to Regression,Bruno Aquino,,2019-12-15T23:39:16.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],327,data-science-bowl-2019
+,,,,,0,mhviraf/a-new-baseline-for-dsb-2019-catboost-model,A new baseline for DSB 2019 - Catboost model,Massoud Hosseinali,,2019-10-28T15:34:42.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],318,data-science-bowl-2019
+,,,,,0,shahules/xgboost-feature-selection-dsbowl,XGBoost & Feature Selection DSBowl 🥣 🥣,Shahules,,2019-10-30T17:58:58.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],309,data-science-bowl-2019
+,,,,,0,vipulgandhi/how-to-choose-right-metric-for-evaluating-ml-model,How to Choose Right Metric for Evaluating ML Model,Vipul Gandhi,,2020-01-06T08:04:50.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],220,data-science-bowl-2019
+,,,,,0,mhviraf/a-baseline-for-dsb-2019,A baseline for DSB 2019,Massoud Hosseinali,,2019-10-25T21:11:32.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],212,data-science-bowl-2019
+,,,,,0,caesarlupum/ds-bowl-start-here-a-gentle-introduction,📒👦👧 DS Bowl - Start here: A GENTLE Introduction,Caesar Lupum,,2020-01-20T12:40:21.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],194,data-science-bowl-2019
+,,,,,0,abhinand05/catboost-a-deeper-dive,CatBoost: A Deeper Dive,Abhinand,,2020-01-12T07:35:48.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],189,data-science-bowl-2019
+,,,,,0,artgor/oop-approach-to-fe-and-models,OOP approach to FE and models,Andrew Lukyanenko,,2019-11-18T03:13:16.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],165,data-science-bowl-2019
+,,,,,0,fatihbilgin/data-science-bowl-2019-data-visualization,🏃Data Science Bowl 2019- Data Visualization,Fatih Bilgin,,2020-01-21T06:45:31.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],155,data-science-bowl-2019
+,,,,,0,cpmpml/ultra-fast-qwk-calc-method,Ultra Fast QWK Calc Method,CPMP,,2019-10-25T13:04:44.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],146,data-science-bowl-2019
+,,,,,0,ragnar123/feature-engineering-v-1-0,Feature Engineering V_1.0,Martin Kovacevic Buvinic,,2019-11-14T15:27:43.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],125,data-science-bowl-2019
+,,,,,0,hengzheng/bayesian-optimization-seed-blending,Bayesian Optimization Seed Blending,Heng Zheng,,2019-12-10T03:29:28.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],119,data-science-bowl-2019
+,,,,,0,subbuvolvosekar/eda-visualization-story-dsb-2019,EDA_Visualization_Story_DSB_2019,Subbu Vidyasekar,,2020-01-02T08:21:59.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],116,data-science-bowl-2019
+,,,,,0,vbmokin/convert-to-regression-with-tuning,Convert to Regression with tuning,Vitalii Mokin,,2020-09-06T21:24:05.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],115,data-science-bowl-2019
+,,,,,0,limerobot/dsb2019-v77-tr-dt-aug0-5-3tta,DSB2019_V77_TR_DT_AUG0.5_3TTA,Limerobot,,2020-01-23T08:19:04.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],114,data-science-bowl-2019
+,,,,,0,poteman/sampling-train-data-and-use-prediction-as-feature,sampling train data and use prediction as feature,poteman,,2019-12-23T05:16:38.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],114,data-science-bowl-2019
+,,,,,0,gpreda/data-science-bowl-fast-compact-solution,data_science_bowl_fast_compact_solution,Gabriel Preda,,2019-10-29T09:03:57.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],113,data-science-bowl-2019
+,,,,,0,xhlulu/dsb-2019-simple-lgbm-using-aggregated-data,DSB 2019: Simple LGBM using aggregated data,xhlulu,,2019-12-10T00:19:36.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],110,data-science-bowl-2019
+,,,,,0,braquino/catboost-some-more-features,Catboost - Some more features,Bruno Aquino,,2019-11-04T14:36:46.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],104,data-science-bowl-2019
+,,,,,0,braquino/890-features,890 features,Bruno Aquino,,2019-11-21T13:10:55.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],103,data-science-bowl-2019
+,,,,,0,bhavikapanara/2019-dsb-with-more-features-qwk-0-549,2019 DSB - With more features (QWK-0.549),Bhavika,,2019-12-31T13:35:31.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,data-science-bowl-2019
+,,,,,0,hidehisaarai1213/dsb2019-baseline,DSB2019-baseline,Hidehisa Arai,,2019-11-09T18:06:41.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,data-science-bowl-2019
+,,,,,0,hmendonca/kaggle-pytorch-utility-script,Kaggle pytorch utility script,Henrique Mendonça,,2020-01-28T19:29:23.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,data-science-bowl-2019
+,,,,,0,pradeepmuniasamy/data-science-bowl-tricks-for-uncovering-the-data,Data Science Bowl : Tricks for Uncovering the Data,Pradeep Muniasamy,,2019-12-18T05:16:05.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],84,data-science-bowl-2019
+,,,,,0,toshik/37th-place-solution,37th_place_solution,toshi_k,,2020-01-24T13:40:35.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],82,data-science-bowl-2019
+,,,,,0,sergeifironov/bowl-stabilize-coefs-cntrs-all5,bowl_stabilize_coefs_cntrs_all5,Sergei Fironov,,2020-01-10T07:19:48.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,data-science-bowl-2019
+,,,,,0,hidehisaarai1213/be-cautious-on-some-features,Be Cautious on some features,Hidehisa Arai,,2019-11-17T12:28:10.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,data-science-bowl-2019
+,,,,,0,manyregression/fastai-2019-data-science-bowl, Fastai 2019 Data Science Bowl,Valeriy Mukhtarulin,,2019-12-23T21:16:45.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],76,data-science-bowl-2019
+,,,,,0,ragnar123/simple-exploratory-data-analysis-and-model,Simple exploratory data analysis and model,Martin Kovacevic Buvinic,,2019-10-27T13:10:32.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,data-science-bowl-2019
+,,,,,0,ragnar123/adversarial-validation-and-model,Adversarial Validation and Model,Martin Kovacevic Buvinic,,2019-12-21T06:35:56.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,data-science-bowl-2019
+,,,,,0,ragnar123/truncated-val,Truncated Val,Martin Kovacevic Buvinic,,2020-01-01T17:16:32.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,data-science-bowl-2019
+,,,,,0,fatsaltyfish/convert-to-regression-feature-test,convert to regression feature test,FatSaltyFish,,2020-01-18T15:35:38.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,data-science-bowl-2019
+,,,,,0,wuwenmin/dnn-and-effective-soft-quadratic-kappa-loss,DNN and Effective Soft Quadratic Kappa Loss,William Wu,,2019-12-22T11:12:06.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,data-science-bowl-2019
+,,,,,0,carlolepelaars/understanding-the-metric-quadratic-weighted-kappa,Understanding The Metric: Quadratic Weighted Kappa,Carlo Lepelaars,,2019-11-23T11:27:34.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],56,data-science-bowl-2019
+,,,,,0,satsaras/data-bowl-let-s-regress-now,Data Bowl: Let's Regress Now ,sagar pundir,,2020-01-14T14:22:05.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,data-science-bowl-2019
+,,,,,0,yasufuminakama/public-dsb2019-lgbm-regression-sample, [Public] DSB2019 LGBM Regression Sample,Y.Nakama,,2019-10-28T20:08:39.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,data-science-bowl-2019
+,,,,,0,pestipeti/memory-efficient-faster-way-to-extract-json-data,"Memory efficient, faster way to extract JSON data",Peter,,2019-12-08T19:45:17.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,data-science-bowl-2019
+,,,,,0,braquino/catboost-model-massoud-hosseinali-full-commented,Catboost model Massoud Hosseinali - Full Commented,Bruno Aquino,,2019-10-28T21:28:12.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,data-science-bowl-2019
+,,,,,0,nikitagrec/bowl-lstm-prediction,Bowl LSTM prediction,Grecnik,,2019-12-21T18:57:17.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,data-science-bowl-2019
+,,,,,0,pestipeti/probing-private-lb,Probing Private LB,Peter,,2019-12-15T20:08:29.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,data-science-bowl-2019
+,,,,,0,irochka/bayesian-opt-seed-blending-with-tuning,Bayesian Opt Seed Blending with tuning,Iryna,,2019-12-07T07:17:36.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,data-science-bowl-2019
+,,,,,0,barnwellguy/eye-candy-player-activity-sequence-visualization,Eye Candy: Player Activity Sequence Visualization,Buffalo Spdwy,,2019-12-29T17:14:10.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,data-science-bowl-2019
+,,,,,0,ranjeetjain3/introduction-to-2019-dsb,Introduction to 2019 DSB,Ranjeet Jain,,2020-01-13T15:20:15.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,data-science-bowl-2019
+,,,,,0,tarandro/regression-with-less-overfitting,Regression with less overfitting,Alexis Gassmann,,2020-01-23T08:06:05.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,data-science-bowl-2019
+,,,,,0,onodera/confusion-matrix,Confusion Matrix,ONODERA,,2019-11-12T07:16:33.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,data-science-bowl-2019
+,,,,,0,ragnar123/deeper-feature-engineering-fr,Deeper Feature Engineering FR,Martin Kovacevic Buvinic,,2019-11-02T12:55:31.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,data-science-bowl-2019
+,,,,,0,zgzjnbzl/visualizing-distraction-and-misclicking,Visualizing Distraction and Misclicking,LeiZhou,,2019-11-21T01:36:06.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,data-science-bowl-2019
+,,,,,0,onodera/skip-1st-run,skip 1st run,ONODERA,,2019-11-17T08:04:31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,data-science-bowl-2019
+,,,,,0,khoongweihao/bayesian-opt-seed-blending-with-tuning-69,Bayesian Opt Seed Blending with tuning 69,Wei Hao Khoong,,2019-12-12T14:44:55.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,data-science-bowl-2019
+,,,,,0,zakopur0/dsb-classfication,DSB_Classfication,zakopuro,,2020-01-01T07:21:59.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,data-science-bowl-2019
+,,,,,0,khoongweihao/data-science-bowl-2019-regression-to-convert-lb,[Data Science Bowl 2019] Regression To Convert LB,Wei Hao Khoong,,2020-01-13T01:36:00.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,data-science-bowl-2019
+,,,,,0,roydatascience/data-science-bowl-data-minification,Data Science Bowl Data Minification,Ashish Gupta,,2020-01-10T14:48:15.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,data-science-bowl-2019
+,,,,,0,hengzheng/bayesian-optimization-optimizedrounder,Bayesian Optimization OptimizedRounder,Heng Zheng,,2019-11-25T09:46:49.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,data-science-bowl-2019
+,,,,,0,greenart/parsing-json-event-data,Parsing json (event_data),Dmitry Alekseev,,2019-10-29T19:26:43.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,data-science-bowl-2019
+,,,,,0,bhavikapanara/2019-data-science-bowl-some-interesting-features,2019 Data Science Bowl - Some interesting features,Bhavika,,2019-12-24T13:18:45.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,data-science-bowl-2019
+,,,,,0,vzaguskin/never-trust-lb,Never trust LB,Victor Zaguskin,,2019-12-16T11:56:16.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,data-science-bowl-2019
+,,,,,0,pestipeti/simple-feature-selection-techniques,Simple feature selection techniques,Peter,,2019-12-05T17:24:08.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,data-science-bowl-2019
+,,,,,0,jiweiliu/qwk-cupy-vs-numpy-vs-numba,qwk: cupy vs numpy vs numba,Jiwei Liu,,2019-10-25T21:41:12.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,data-science-bowl-2019
+,,,,,0,hamditarek/playing-with-score,Playing with score,Tarek Hamdi,,2019-10-25T04:49:05.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,data-science-bowl-2019
+,,,,,0,philippsinger/lgb-catboost-17-10fold-15bag-3k-majority-rank-v4,lgb+catboost 17 10fold 15bag 3k majority rank v4,Psi,,2020-01-22T09:38:20.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,data-science-bowl-2019
+,,,,,0,sheriytm/fastai2-2019-data-science-bowl, Fastai2 2019 Data Science Bowl,YaGana Sheriff-Hussaini,,2020-01-22T09:47:35.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,data-science-bowl-2019
+,,,,,0,carlossouza/cleaning-useless-data-to-load-train-csv-faster,Cleaning useless data to load train.csv faster,Carlos Souza,,2019-10-26T19:57:58.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,data-science-bowl-2019
+,,,,,0,harupy/score-distribution-of-the-public-lb,Score distribution of the public LB,harupy,,2020-01-22T15:45:00.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,data-science-bowl-2019
+,,,,,0,servietsky/xgb-simple-and-efficient,XGB Simple and Efficient,Mehdi GASMI,,2019-12-18T06:50:21.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,data-science-bowl-2019
+,,,,,0,steubk/dsb2019-bs-26-lgb-auc-xgb,DSB2019 - BS 26 (lgb/auc+xgb),steubk,,2020-01-22T09:00:03.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,data-science-bowl-2019
+,,,,,0,gpreda/data-science-bowl-2019-public-leaderboard,Data Science Bowl 2019 - Public Leaderboard,Gabriel Preda,,2021-03-08T15:19:52.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,data-science-bowl-2019
+,,,,,0,ragnar123/lgbm-feature-selection,LGBM Feature Selection,Martin Kovacevic Buvinic,,2019-10-31T11:42:22.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,data-science-bowl-2019
+,,,,,0,rodrigolima82/using-neural-network,Using Neural Network,Rodrigo Lima,,2019-12-12T12:34:34.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,data-science-bowl-2019
+,,,,,0,ajay19/base-model-with-xgboost,Base Model with XGBoost,Ajay Chaudhary,,2020-06-08T12:22:15.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,data-science-bowl-2019
+,,,,,0,khahuras/bowl-2201-a,bowl_2201_A,Kha Vo,,2020-02-06T19:33:26.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,data-science-bowl-2019
+,,,,,0,gopidurgaprasad/datahack-amma,datahack-amma,Gopi Durgaprasad,,2020-01-16T11:00:44.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,data-science-bowl-2019
+,,,,,0,hidehisaarai1213/dsb2019-nn-ovr-reduce-90-val-60-percentile,DSB2019 NN OvR reduce 90% val 60 percentile,Hidehisa Arai,,2020-01-13T12:40:35.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,data-science-bowl-2019
+,,,,,0,tarandro/threshold-visualization,Threshold visualization,Alexis Gassmann,,2020-01-19T03:18:25.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,data-science-bowl-2019
+,,,,,0,afajohn/quadratic-weighted-kappa-with-numpy-flavor,Quadratic Weighted Kappa with Numpy flavor,Dorukhan Afacan,,2019-10-24T13:59:36.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,data-science-bowl-2019
+,,,,,0,barnwellguy/when-kids-play,When Kids Play,Buffalo Spdwy,,2020-01-03T04:00:35.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,data-science-bowl-2019
+,,,,,0,challenge1a3/convert-to-regression,Convert to Regression,challenge_1a3,,2019-12-30T12:54:48.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,data-science-bowl-2019
+,,,,,0,safikk/lstm-rnn-with-feature-engineering,LSTM RNN with feature engineering,safk,,2019-12-12T09:23:35.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,data-science-bowl-2019
+,,,,,0,vbmokin/quick-and-dirty-regression-other-pred-coeffs,Quick and dirty regression - other-pred-coeffs,Vitalii Mokin,,2019-12-23T17:30:35.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,data-science-bowl-2019
+,,,,,0,shivyshiv/lightgbm-regression-and-xgboost-regression,LightGBM regression and XgBoost regression,shivyshiv,,2019-11-19T05:12:22.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,data-science-bowl-2019
+,,,,,0,amanooo/dsb-2019-regressors-and-optimal-rounding,DSB_2019 Regressors and Optimal Rounding,K.Amano,,2019-12-27T16:32:32.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,data-science-bowl-2019
+,,,,,0,akashram/introduction-to-boosting-models,Introduction to Boosting Models,AR,,2020-06-07T12:56:37.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,data-science-bowl-2019
+,,,,,0,tanreinama/ds-bowl-2019-simple-lgbm-aggregated-data-with-cv,DS Bowl 2019: Simple LGBM aggregated data with CV,Tanrei(nama),,2019-10-25T06:14:54.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,data-science-bowl-2019
+,,,,,0,kst6690/make-your-xgboost-model-awesome-with-optuna,Make your XGBOOST Model awesome with OPTUNA,Krishanu Singh,,2020-01-24T06:56:41.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,data-science-bowl-2019
+,,,,,0,manojprabhaakr/feature-engineering-and-model-890-features,Feature Engineering and Model - 890 Features,Manoj Prabhakar,,2019-11-20T16:57:57.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,data-science-bowl-2019
+,,,,,0,binaicrai/dsb-v1-0,DSB v1.0,DtneSEffct,,2019-11-07T15:43:22.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,data-science-bowl-2019
+,,,,,0,ragnar123/truncated-train-ensemble,Truncated train ensemble,Martin Kovacevic Buvinic,,2019-12-24T19:20:50.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,data-science-bowl-2019
+,,,,,0,nandhuelan/dsbowl-v5-blending,Dsbowl_V5_blending,Nandhu Elango,,2019-12-19T14:07:09.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,data-science-bowl-2019
+,,,,,0,damienpark/baseline-dnn-first,Baseline-DNN(First),Damien Park,,2019-12-10T03:32:11.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,data-science-bowl-2019
+,,,,,0,aksha17/2019-data-science-bowl-eda,2019 Data Science Bowl-EDA,Akaanksha Mishra,,2019-11-30T07:07:08.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,data-science-bowl-2019
+,,,,,0,sp1thas/dsb2019-catboost-lgbm-blending,DSB2019: catboost + lgbm + blending = 🚀,Panagiotis Simakis,,2019-11-27T21:38:05.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,data-science-bowl-2019
+,,,,,0,adambanham/dsb-2019-feature-engineering,DSB 2019 Feature Engineering ,Adam Banham,,2019-11-16T03:39:27.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,data-science-bowl-2019
+,,,,,0,mnassrib/convert-to-regression-random-score,Convert to Regression->random score!?,Baligh Mnassri,,2020-01-16T16:29:27.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,data-science-bowl-2019
+,,,,,0,yawata/visualzing-game-transition-by-networkx,Visualzing Game Transition by networkx,kyoukuntaro,,2019-12-07T19:11:27.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,data-science-bowl-2019
+,,,,,0,bibhasmondal96/2019-data-science-bowl,2019 Data Science Bowl,Bibhas Mondal,,2019-10-26T04:06:16.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,data-science-bowl-2019
+,,,,,0,hukuda222/very-simple-benchmark,Very simple benchmark,hukuda222,,2019-10-24T15:48:13.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,data-science-bowl-2019
+,,,,,0,akashram/intro-to-boosting-models-categorical-data-nlp,Intro to Boosting Models + Categorical data + NLP,AR,,2021-03-02T18:33:31.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,data-science-bowl-2019
+,,,,,0,subinium/little-faster-io-use-pickle-format-2,Little Faster IO : Use pickle format (2),Subin An,,2019-10-30T03:25:30.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,data-science-bowl-2019
+,,,,,0,subinium/little-faster-io-use-pickle-format,Little Faster IO : Use pickle format,Subin An,,2019-10-30T03:24:43.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,data-science-bowl-2019
+,,,,,0,drcapa/2019-bowl-analysis-feature-engineering-xgb,2019_Bowl_analysis_feature_engineering_XGB,DrCapa,,2020-10-17T07:46:56.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,data-science-bowl-2019
+,,,,,0,rishabhiitbhu/dsb-2019-simple-eda,DSB 2019 - Simple EDA,Rishabh Agrahari,,2019-10-24T16:25:32.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,data-science-bowl-2019
+,,,,,0,negi009/data-science-bowl-2019-team-lufoto,Data Science bowl 2019 - Team Lufoto,ADITYA KUMAR  (Negi),,2020-01-23T12:52:03.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,shimizumasaki/lstm-time-series-of-sessions,LSTM : time-series of sessions ,Masaki Shimizu,,2020-03-02T07:06:12.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,yuujinnai/kaggle-notebook,Kaggle入門者向け解説Notebook [銅メダル],Yuu Jinnai,,2020-01-24T20:32:16.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,wyl1997/ngboost-for-convert-to-regression,Ngboost for Convert to Regression ,wyl1997,,2020-01-10T12:43:56.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,xubujie/yet-another-feature-aggregation-starter,Yet Another Feature aggregation starter,Xu,,2020-01-09T11:44:14.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,rutviklathiya/catboos-datascience,Catboos-DataScience,Rutvik Lathiya,,2019-11-05T07:10:21.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,creatrol/let-s-see-what-attributes-in-event-data,Let's see what attributes in event_data,Jacob,,2019-11-04T03:34:53.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,data-science-bowl-2019
+,,,,,0,roydatascience/a-z-in-data-science-bowl-bayesian-elastic-net,A-Z in Data Science Bowl [Bayesian | Elastic Net],Ashish Gupta,,2020-01-22T20:30:34.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,servietsky/convert-to-regression-with-stacking,Convert to Regression With Stacking,Mehdi GASMI,,2020-01-18T15:37:56.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,shippeng/convert-to-regression-classification,Convert to Regression + classification,PengXu,,2020-01-12T09:01:35.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,lextoumbourou/dsb-2019-eda-and-data-preparation,DSB 2019: EDA and Data Preparation,Lex Toumbourou,,2019-12-09T03:15:01.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,harupy/pretty-print-json-column,pretty-print-json-column,harupy,,2019-11-10T16:38:12.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,yassinealouini/accuracy-group-computation,Accuracy group computation,Yassine Alouini,,2019-11-14T19:52:46.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,shishu1421/lightgbm-using-hyperopt,LightGBM Using HyperOpt,itsshavar,,2019-10-25T19:14:18.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,seriousran/2019-data-science-bowl-eda-v1,2019 Data Science Bowl EDA v1,Chanran Kim,,2019-10-25T08:00:13.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,chizuchizu/features-selection-using-permutation-importance,Features selection using Permutation Importance,Chizuchizu,,2019-12-25T09:42:45.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,data-science-bowl-2019
+,,,,,0,badamnarendra/eda-dsb,EDA_DSB,NB,,2020-01-23T01:46:43.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,data-science-bowl-2019
+,,,,,0,superant/bowl19-state-transfers,Bowl19 State transfers,Ant 🐜,,2019-12-16T14:34:03.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,data-science-bowl-2019
+,,,,,0,teejmahal20/dsb-lofo-importance,DSB LOFO Importance,TJ Klein,,2019-12-17T18:15:25.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,data-science-bowl-2019
+,,,,,0,dianepage/knn-means-model,KNN Means Model,Diane Page,,2019-11-08T14:59:23.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,data-science-bowl-2019
+,,,,,0,aleksandradeis/2019-ds-bowl-eda,2019 DS Bowl EDA,Aleksandra Deis,,2019-11-10T16:49:59.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,data-science-bowl-2019
+,,,,,0,corochann/2019-data-science-bowl-exploratory-data-analysis,2019 Data Science Bowl: Exploratory Data Analysis,corochann,,2019-10-26T09:56:00.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,data-science-bowl-2019
+,,,,,0,kaerunantoka/dsb-transformer-with-pytorch-cpu,DSB Transformer with PyTorch : cpu,kaerururu,,2020-01-30T06:38:36.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,data-science-bowl-2019
+,,,,,0,harupy/scores-on-top-public-kernels,Scores on top public kernels,harupy,,2020-01-12T16:40:06.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,data-science-bowl-2019
+,,,,,0,mikeholcomb/how-to-recreate-train-labels-dsb-2019,How to recreate train_labels - DSB 2019,Mike Holcomb,,2019-12-28T21:38:06.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,data-science-bowl-2019
+,,,,,0,thehawkgriffith/let-s-vizualize-and-extract-features-2019-ds-bowl,Let's Vizualize and Extract Features-2019 DS Bowl,Shahbaz Khan,,2020-01-15T11:16:36.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,data-science-bowl-2019
+,,,,,0,rsesha/autoviz-on-900-variables-feature-selection,AutoViz on 900 Variables - Feature Selection,RSESHA,,2020-11-21T12:06:34.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,data-science-bowl-2019
+,,,,,0,niranjankumarc/ds-bowl-2019-boosting-shap-explanation,DS Bowl 2019 Boosting & SHAP Explanation,Niranjan_NKC,,2019-11-04T17:52:50.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,data-science-bowl-2019
+,,,,,0,zgzjnbzl/dsb-mlp-216-feature,DSB MLP 216 feature,LeiZhou,,2020-01-23T16:48:28.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,xinruchen0724/my-analysis-about-data-science-bowl,My analysis about data science bowl,Xinru Chen,,2020-01-09T21:47:51.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,aitude/2019-data-science-bowl-out-of-box-eda, 2019 Data Science Bowl  - Out of Box EDA,Sandeep Kumar,,2019-12-26T12:42:36.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,keremt/fastai-feature-engineering-part1-6160-features,Fastai Feature Engineering (part1) - 6160 features,Kerem Turgutlu,,2019-12-17T06:31:26.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,rsesha/2019-data-science-bowl-via-autoviml,2019 Data Science Bowl via AutoViML  ,RSESHA,,2020-11-23T19:17:15.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,williamhuybui/investigation-on-players-that-are-not-recorded,Investigation on players that are not recorded,Huy Bui,,2019-11-26T22:03:01.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,tarobxl/quick-and-dirty-regression-semi,Quick and dirty regression - semi,tarobxl,,2019-11-27T10:22:42.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,kenmatsu4/structure-of-event-data-for-each-title,Structure of event_data for each title,kenmatsu4,,2019-11-16T04:07:31.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,iprapas/visualizing-sequences-of-activities,Visualizing sequences of activities,iprapas,,2019-11-15T23:30:03.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,namepen/2019-dsb-eda-world-and-title-sequence,2019 DSB EDA : World and Title sequence,eun yong ,,2019-11-08T16:26:29.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,superant/minify-data,Minify Data,Ant 🐜,,2019-10-29T16:02:36.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,pednt9/dsb-2019-data-minification,DSB 2019 – Data Minification,Paul Dnt,,2019-11-01T14:56:53.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,nikitagrec/pbs-kids-product-analysis-eda,PBS KIDS Product analysis + EDA,Grecnik,,2019-11-01T08:52:59.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,data-science-bowl-2019
+,,,,,0,mikeholcomb/path-maximum-a-posteriori-dsb-2019,Path maximum a posteriori - DSB 2019,Mike Holcomb,,2019-12-31T17:01:04.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,jyesawtellrickson/drawing-pictures-with-coordinate-events,Drawing Pictures With Coordinate Events,JyeSR,,2019-12-28T10:27:11.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,xxbxyae/2-steps-regression-predict-to-accuracy,"2 steps regression(predict to ""accuracy"")",Kien,,2019-12-29T11:42:21.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,jyesawtellrickson/sessions-eda,Sessions EDA,JyeSR,,2019-12-23T11:13:15.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,chandraroy/data-understanding-cautionary-tale-from-my-mistake,Data Understanding-cautionary tale from my mistake,CBR,,2019-11-28T21:00:41.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,gurinderdev/deep-dive-exploratory-data-analysis-part-1,Deep Dive - Exploratory Data Analysis- Part 1,Gurinderdev,,2019-11-08T02:14:55.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,yassinealouini/median-benchmark-model,Median Benchmark Model,Yassine Alouini,,2019-11-09T17:25:21.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,neibyr/target-encoding-public-kernel,Target Encoding + public kernel,Kirill Tushin,,2019-10-25T15:17:57.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,shishu1421/naive-approach,Naive Approach,itsshavar,,2019-10-24T18:20:00.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,data-science-bowl-2019
+,,,,,0,vlpavlov/silver-medal-solution-for-2019-data-science-bowl,Silver Medal Solution for 2019 Data Science Bowl ,Vlad Pavlov,,2020-02-05T07:59:33.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,gopidurgaprasad/fork-of-datahack-amma,Fork of datahack-amma,Gopi Durgaprasad,,2020-01-22T18:07:32.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,snakayama/dsb-2019-ensemble-of-xgb-lgb,【DSB_2019】Ensemble of XGB + LGB,makogarei,,2020-01-23T03:18:36.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,nxrprime/simple,simple,Trigram,,2020-01-13T15:17:14.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,namepen/some-logs-in-assessment-are-gone,Some logs in Assessment are gone!,eun yong ,,2020-01-07T20:10:21.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,jyesawtellrickson/even-faster-submit,Even Faster Submit,JyeSR,,2019-12-27T13:31:48.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,yassinealouini/simple-features-engineering,Simple Features Engineering,Yassine Alouini,,2019-12-01T20:11:19.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,christoffer/event-descriptions-per-code-type-and-event-id,"Event descriptions (per code, type, and, event_id)",Christoffer Karlsson,,2019-11-29T22:36:13.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,data-science-bowl-2019
+,,,,,0,izmaylov/silver-singlelgbm,Silver SingleLGBM,Izmaylov Konstantin,,2020-01-18T22:33:13.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,justinmulli/fixup,fixup,justusm,,2020-01-08T16:43:12.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,jyesawtellrickson/events-data-missing-values-analysis,Events Data Missing Values Analysis,JyeSR,,2019-12-25T10:50:16.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,tsmith26/lightgbm-custom-objective-for-weighted-kappa,LightGBM Custom Objective for Weighted Kappa,Thomas Smith,,2019-12-18T02:24:40.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,harupy/lgbm-regression-with-assessment-attempts-features,LGBM Regression with assessment attempts features,harupy,,2019-12-07T14:45:08.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,oluwaody/albert-brain-in-kids,Albert Brain In Kids,Oluwabi Oluwaseyi,,2019-11-21T14:57:32.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,olafmat/leaderboard-score-confidence-interval,leaderboard score confidence interval,olaf,,2019-11-25T01:15:09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,amanooo/dsb-2019-catboost-with-voting,DSB_2019_CatBoost_with_Voting,K.Amano,,2019-11-21T11:47:59.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,nikitagrec/bowl-best-fitting-stacking,BOWL Best fitting stacking,Grecnik,,2019-11-17T12:57:06.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,arafathhossain/feature-engineering-made-easy,Feature Engineering Made Easy,Curious Joe,,2019-11-01T21:51:44.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,plasticgrammer/dsb2019-eda,DSB2019: EDA,plasticgrammer,,2019-11-18T03:57:01.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,khairulislam/a-gentle-introduction-to-the-game,A gentle introduction to the game,Khairul Islam,,2019-10-24T19:22:54.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,ekhtiar/let-s-quickly-learn-the-data,Let's Quickly Learn The Data! ,Ekhtiar Syed,,2019-10-24T21:31:35.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,tenffe/eda-starter,EDA starter,zhangxin,,2019-10-24T15:35:42.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,data-science-bowl-2019
+,,,,,0,kranthi9/convert-to-regression-bf75e3,Convert to Regression bf75e3,Kranthi Kumar,,2020-01-15T16:46:25.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,mrhassanfadi/train-dist-and-test-dist-are-not-identical,Train dist. and Test dist. are not identical,Hassan,,2020-01-14T17:37:27.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,danbzl/event-data-engineering-and-function-parallelism,Event data engineering and function parallelism,Dan Bzl,,2020-01-10T22:50:59.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,pgalindo11322/data-science-bowl-k-nearest-neighbor,Data_Science_Bowl: k-Nearest Neighbor,Paloma,,2020-01-08T08:20:50.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,shinogi/open-event-data,open_event_data,sogi,,2020-01-06T18:57:49.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,ash16win/python-h2o-ensemble-xgb-rf-and-dl,"python h2o ensemble XGB, RF and DL",ash16win,,2020-01-01T16:41:55.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,keremt/fastai-model-part1-regression,Fastai Model (part1) - Regression,Kerem Turgutlu,,2019-12-17T06:46:04.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,kst6690/dsb2019-tuning-lightgbm-parameter-using-optuna,#DSB2019:Tuning LightGBM Parameter Using OPTUNA,Krishanu Singh,,2020-01-23T20:03:25.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,lextoumbourou/dsb-2019-lstm-with-embeddings-fast-ai,DSB 2019: LSTM with embeddings (Fast.ai),Lex Toumbourou,,2019-12-10T12:49:04.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,jagannathrk/data-science-bowl-lgbm,Data Science Bowl -LGBM,Kranti Kumar,,2019-11-30T17:14:24.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,ucfaibot/data-science-fa19-data-sci-bowl,data-science-fa19-data-sci-bowl,AI@UCF,,2019-11-07T21:22:38.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,jackluu/2019-data-science-bowl-it344-jack-and-isaac,🚸 2019 Data Science Bowl - IT344: Jack and Isaac,Jack Luu,,2019-11-13T17:50:18.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,harupy/base-line-without-model2,base_line_without_model2,harupy,,2019-11-04T07:32:56.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,iprapas/dsb-2019-eda-goal-explanation,DSB 2019: EDA + Goal explanation,iprapas,,2019-10-28T14:19:52.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,harupy/lazy-base-line-without-model,lazy_base_line_without_model,harupy,,2019-10-27T15:52:58.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,data-science-bowl-2019
+,,,,,0,a763337092/3models-add-feat-clip-time,3models add feat clip_time,Lindada,,2020-01-20T10:57:29.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,sourabhchauhan/regression-with-event-data,Regression with event_data,sourabhsc,,2020-01-07T18:28:40.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,krammerg/dsb19-baseline-catboost,DSB19_Baseline_CatBoost,Bluering Data Octopus,,2020-01-10T22:59:07.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,code1110/dsb19-lgb-hyperparameter-tuning-optuna,[DSB19] LGB hyperparameter tuning (Optuna),katsu1110,,2020-01-05T23:45:11.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,keremt/fastai-lgbm-model-part3,Fastai + LGBM Model (part3),Kerem Turgutlu,,2020-01-08T10:41:34.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,ns8drw/append-world-to-media-sequence,Append world to media_sequence,NS,,2019-12-12T13:39:26.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,muke5hy/load-data-fast,Load data Fast  ,Mukesh Yadav,,2019-12-10T06:23:18.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,datajang/my-dsb-eda,My DSB EDA,Data_Jang,,2019-12-03T08:31:44.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,hengzheng/890-feature-bayesian-optimization-params,890 Feature - Bayesian Optimization params,Heng Zheng,,2019-11-21T15:25:32.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,seraphwedd18/2019-dsb-with-keras,2019 DSB with Keras,Venturillo JE,,2019-10-30T16:26:57.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,martin1234567890/data-reduction,data reduction,Martin Matta,,2019-10-26T19:51:32.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,data-science-bowl-2019
+,,,,,0,bhavikapanara/dsb-2019-single-lightgbm,DSB 2019: Single LightGBM,Bhavika,,2020-01-23T04:35:47.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,skotee/dsb-2019-firstdraw,DSB_2019_FirstDraw,Radoslaw Wojaczek,,2020-01-21T17:45:32.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,yeonmin/simple-get-event-data,simple get event data,ym,,2020-01-07T15:50:16.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,pgalindo11322/data-science-bowl-v2,Data_Science_Bowl_V2,Paloma,,2020-01-08T12:29:03.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,harikishanm96/swiggy-workshop,swiggy_workshop,Harikishan M,,2019-12-15T11:22:57.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,arhink/going-for-simplicity,Going for Simplicity,Kofi,,2019-12-13T06:39:16.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,l0new0lf/data-science-bowl-2019,Data-science-bowl-2019,Asapanna Rakesh,,2019-11-30T16:24:05.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,nadarsubash/data-sci-bowl-2019-basic-eda,Data Sci Bowl 2019 - Basic EDA,Subash Nadar,,2019-12-09T17:02:12.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,johnxuu/cv0-94,cv0.94,Huaqing Xu,,2019-11-24T03:29:42.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,ashleshaprix/kernel1204aef437,kernel1204aef437,Ashlesha P D,,2019-11-20T05:22:30.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,jakeshi/dsb-eda-naive-baseline,DSB EDA & Naive Baseline,Jake Shi,,2020-01-03T21:15:48.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,ebobette/dsb-data-exploration,DSB data exploration,Vanessa Chantreau,,2019-12-06T12:44:05.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,parksangheon/ensemble-of-xgboost-and-lgbm,Ensemble of Xgboost and LGBM,ParkSangheon,,2019-11-18T00:51:11.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,damienpark/baseline-dnn,Baseline-DNN,Damien Park,,2020-02-18T05:13:05.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,harupy/joint-confusion-matrix-plot,Joint Confusion Matrix Plot,harupy,,2019-11-12T14:01:13.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,prarit/initial-eda-data-science-bowl-2019,Initial EDA data-science-bowl-2019,Prarit,,2019-11-10T18:04:17.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,harupy/train-labels-reconstruction,train_labels_reconstruction,harupy,,2019-11-10T14:52:40.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,greenart/parsing-data-and-reducing-the-size-of-the-sets,Parsing data and reducing the size of the sets,Dmitry Alekseev,,2019-11-09T08:53:33.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,saurabh502/adversarial-validation-2019-data-science-bowl,Adversarial validation-  2019 Data Science Bowl ,Saurabh Kumar,,2019-10-30T14:17:15.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,hakeem/comparison-of-different-algorithms-v1-0,Comparison of different algorithms V1.0,H4k333m,,2019-10-27T23:41:53.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,anuraglahon/datasciencebowl-introduction,DataScienceBowl Introduction,Anurag,,2019-10-26T09:34:14.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,frenzykryger/event-specifications,Event specifications,Boris Filippov,,2019-10-24T21:00:48.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,data-science-bowl-2019
+,,,,,0,rohandeysarkar/data-science-bowl-2019-eda-feature-engineering,Data Science Bowl 2019(EDA + Feature Engineering),RohanDeySarkar,,2020-04-09T13:22:07.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,khahuras/dsb2019-v77-tr-dt-aug0-5-3tta-8a1f46,DSB2019_V77_TR_DT_AUG0.5_3TTA 8a1f46,Kha Vo,,2020-02-29T00:14:44.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,danechen/dsb-2019-eda-fe-and-model,DSB 2019 EDA FE and Model,Shouqing Chen,,2020-02-04T05:15:38.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,khaitov/a-different-way-of-processing-data,A different way of processing data,Khaitov Roman,,2020-01-23T07:19:20.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,shaswat1/base-model,Base_Model,Shaswat Rajput,,2020-01-29T17:14:43.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,karankrishna/xgboost-feature-selection-dsbowl,XGBoost & Feature Selection DSBowl 🥣 🥣,karankrishna,,2020-01-22T09:48:39.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,khoongweihao/top-5-pub-to-top-53-priv-convert-disaster,Top 5% Pub to Top 53% Priv - Convert Disaster,Wei Hao Khoong,,2020-01-23T00:38:24.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,mrhassanfadi/estimate-clip-duration,Estimate clip duration,Hassan,,2020-01-15T10:50:17.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,skylord/data-science-bowl-2019-regression-to-convert-lb,[Data Science Bowl 2019] Regression To Convert LB,SkyLord,,2020-01-14T07:48:09.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,pgalindo11322/data-science-bowl-xgbregressor,Data_Science_Bowl: XGBRegressor,Paloma,,2020-01-10T11:26:08.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,tpmeli/dsb-2019-finalizing,DSB 2019 - Finalizing,tpmeli,,2020-01-10T07:21:31.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,prasunmishra/multiclass-classification-nn-softmax-no-fe-agg,Multiclass_Classification_NN_Softmax_No_FE_AGg,PrasunMishra,,2020-01-04T07:54:05.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,saeedtqp/datascience-bowl,DataScience_Bowl,Saeed Taghipour,,2019-12-28T23:56:52.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,amineteffal/understanding-event-data,understanding_event_data,Amine TEFFAL,,2019-12-24T15:04:29.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,keremt/fastai-model-part2-upgraded,Fastai Model (part2 - upgraded),Kerem Turgutlu,,2019-12-23T05:16:46.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,manyregression/private-fastai-2019-data-science-bowl,Private fastai 2019 Data Science Bowl,Valeriy Mukhtarulin,,2020-01-23T13:07:23.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,muhammadurrehman/lgbm-regressor,LGBM Regressor,Muhammad ur Rehman,,2019-12-16T07:50:40.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,niteshsethia/nitesh-notebook,Nitesh_Notebook,nitesh sethia,,2019-12-15T11:22:52.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,satya288/swiggy-workshop,Swiggy_Workshop,Satyabrata Majhi,,2019-12-15T11:22:24.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,mraghav/kernel1e3d28ed81,kernel1e3d28ed81,Raghav Maheshwari,,2019-12-15T11:29:26.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,andrewgao/bayesian-optimization-seed-blending-897d0b,Bayesian Optimization Seed Blending 897d0b,Andrew Gao,,2019-12-12T06:01:25.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,amitush/data-science-bowl-2019-eda-and-model-phase-1,Data Science Bowl 2019 - EDA and model - phase 1,Amit Rappel,,2020-01-01T10:43:52.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,daisy9197/2019-data-science,2019 Data Science,Chen,,2020-01-07T02:42:32.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,chriscc/bo-tuned,BO_tuned,ChrisCC,,2019-12-07T20:44:53.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,morenoh149/autoviml-quickstart,AutoViML Quickstart ,morenoh149,,2019-12-06T17:26:22.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,vh1981/lgb-bayesian-blending,lgb + bayesian + blending,vh1981,,2020-01-08T17:18:27.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,paulkoer/2019-dsb-eda-exploring-game-sessions,2019_DSB_EDA_exploring_game_sessions,Paul,,2019-11-28T21:00:03.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,aspgvu/misclick-study,Misclick Study,Aspgvu,,2020-01-05T17:06:54.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,vh1981/2019-data-science-bowl-catboost,2019 Data Science Bowl - Catboost,vh1981,,2019-12-03T05:29:52.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,declot/ds-bowl-study-initial-data,DS bowl: study initial data,Nadezda Kashirina,,2020-06-22T12:08:33.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,s13658695/xgboost-no-cv,XGBoost No CV,AI Penguin,,2019-11-12T05:08:46.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,mpekalski/pandas-group-by-category-vs-object,Pandas - Group By - Category vs Object,Marcin Pękalski,,2019-11-05T20:23:07.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,vsesham/measure-up,Measure Up!!,VinayBhargav,,2019-12-06T21:01:57.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,lpdataninja/data-science-bowl-baseline,data_science_bowl_baseline,Ladle Patel,,2019-11-05T13:26:22.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,zscansorted/2019-dsb-baseline,2019 DSB - Baseline ,Arie Sutiono,,2019-11-03T13:11:01.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,ted8080/another-way-of-parsing-json-file,another way of parsing json file,ted8080,,2019-10-31T19:49:42.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,hxshine/still-confused-about-the-label,still confused about the label,ShineHx,,2019-10-28T15:07:18.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,adarshchavakula/no-machine-learning-baseline,No Machine Learning Baseline,Adarsh Chavakula,,2019-10-28T18:51:16.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,huikang/pbs-dsb-complete-starter-code,PBS-DSB-complete-starter-code,Tong Hui Kang,,2019-11-05T16:13:33.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,vaibhavmathur96/best-lgbm-score-using-aggregated-data,Best LGBM Score using aggregated data,VAIBHAV MATHUR,,2019-10-25T05:50:18.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,data-science-bowl-2019
+,,,,,0,kens3i/beginner-freindly-great-energy-predictor-with-lgbm,Beginner Freindly Great Energy Predictor With LGBM,Koustav Banerjee,,2020-10-28T07:13:08.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,uskcse/pbs-feature-engineering,PBS_Feature Engineering,Surya_Kumar,,2020-06-28T06:57:11.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,andriiluchko/convert-to-regression-with-tuning,Convert to Regression with tuning,Andrii Luchko,,2020-06-17T18:26:23.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,moiseenko/fork-of-data-science-bowl-project,Fork of Data Science Bowl Project,Moiseenko Irina,,2020-01-31T09:20:37.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,qkrwlsdn96/0-599-0-4-0-2-0-2-0-2,0.599_0.4_0.2_0.2_0.2,JIN WOO,,2020-01-22T19:33:25.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,ricardo13/fork-of-final-with-out-embedding-max-processing,"Fork of Final(With out embedding,max,processing)",Ricardo Lee,,2020-01-22T06:22:42.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,omarmorsli/2019-data-science-bowl-data-viz,"2019 Data Science Bowl, Data Viz",Omar Morsli,,2020-01-21T19:14:03.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,meanwesha/data-science-bowl-19-eda-and-bernoulli-naive-bayes,Data Science Bowl'19-EDA and Bernoulli Naive Bayes,Anwesha Ghosh,,2020-01-23T07:32:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,somnambwl/bdb19,BDB19,somnambWl,,2020-01-23T20:08:29.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,marcogorelli/fork-of-quick-and-dirty-regression,Fork of Quick and dirty regression,Marco Gorelli,,2020-01-21T14:57:58.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,yuooka/dsb2019-xgb-c08-01-adv-2,DSB2019_XGB_c08-01_adv_2,Y. O.,,2020-01-19T09:47:30.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,snakayama/dsb-2019-stratifiedkfold-lgb-xgb,【DSB_2019】Stratifiedkfold + Lgb + Xgb,makogarei,,2020-01-19T15:27:16.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,mickykumar/2019-data-science-bowl-data-cleaning,2019 Data Science Bowl: Data Cleaning,Micky,,2020-01-22T01:57:14.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,adamsaltz/models-for-data-science-bowl,Models for data science bowl,Adam Saltz,,2020-02-19T16:36:24.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,lair0826/new-version-v0-0-2,New version v0.0.2,Jeong hyeon Kwon,,2020-01-15T14:34:50.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,abhijitd16/data-science-bowl-2019-draft,Data Science Bowl 2019 draft,Ab Avenger,,2020-01-18T13:36:54.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,emekaboris/2019-data-science-bowl,2019 Data Science Bowl ,Emeka Boris Ama,,2020-01-12T11:58:55.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,manishkumarnaik999/manishfirst,manishfirst,DarkMode~On,,2020-01-09T12:28:16.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,iamwesleyclark/dsb-v1,DSB_V1,iamwesleyclark,,2020-01-13T14:09:37.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,yawata/regression-without-accumulate-feature,Regression without accumulate feature,kyoukuntaro,,2020-01-12T12:03:59.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,skeller/sprawling-cup,sprawling_cup,Stephen Keller,,2020-01-17T18:59:44.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,haojianqiao/starter-codes-without-parameter-tuning,Starter Codes without Parameter Tuning,Jianqiao Hao,,2020-01-19T00:02:51.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,vportnov/dsb19,DSB19,Vladimir Portnov,,2020-01-08T18:59:09.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,revoltmoon/kernel608b588315,kernel608b588315,Revolt Moon,,2020-01-08T06:40:03.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,ekaterinabay/new-attempt,new attempt,EkaterinaBay,,2020-01-07T16:01:12.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,vasar007/second-attempt,second_attempt,Vasily Vasilyev,,2020-01-06T18:40:03.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,ohtpei/feature-engineering-lgbm,"Feature Engineering, LGBM",Haotian Pei,,2020-01-01T18:16:16.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,greenpow/kernel-add-catboost,kernel add_catboost,greenpow,,2020-01-01T12:03:36.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,applehph/kernel118a089f73,kernel118a089f73,NorwayPing,,2020-01-28T16:52:11.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,tomgaava/dsb-leaking-overfitting-why,DSB - Leaking/Overfitting - Why?,chmtomasz,,2019-12-28T15:47:49.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,rokiso/dsb-kernel,DSB kernel,rokiso,,2020-01-22T14:34:36.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,abhijitd16/data-science-bowl-2019-v2,Data Science Bowl 2019 v2,Ab Avenger,,2020-01-19T05:35:17.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,mhaupt/pbs-kids-in-pyspark-part-1-exploration,PBS Kids in Pyspark - Part 1 Exploration,Michael Hauptman,,2019-12-26T06:45:34.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,talk2ranjanktr/2019-data-science-bowl,2019-data-science-bowl,Ranjan Kumar Jha,,2019-12-21T05:56:53.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,keremt/fastai-feature-engineering-part2-46-features,Fastai Feature Engineering (part2) - +46 features ,Kerem Turgutlu,,2019-12-18T09:19:48.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,superstraw/one-code-for-baseline-random,One code for baseline!!!!==random==,MoneyMachine,,2019-12-18T12:05:46.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,runningz/fast-public,fast_public,RunningZ,,2019-12-17T05:22:44.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,jiachengyou/ml-final-v2,ML final_v2,Chris,,2019-12-17T19:35:55.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,deeptichourasia/myfirst-kernel,myfirst kernel,deepti chourasia,,2019-12-15T11:21:40.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,grapestone5321/2019-data-science-sample-submission,2019 Data Science_sample_submission,Naruhiko Nakanishi,,2019-12-15T10:15:10.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-fork-of-fork-of-fork-of-fork-of-fork-of-tr,Fork of Fork of Fork of Fork of Fork of Fork of Tr,lolaya,,2019-12-14T22:58:25.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,jozefc/voting-models,Voting models,jozefc,,2020-01-12T19:34:07.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-fork-of-trunc-train-dcf361,Fork of Fork of Trunc train dcf361,lolaya,,2019-12-13T04:00:30.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,lolaya/trunc-train,Trunc train,lolaya,,2019-12-12T19:49:09.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,morenovanton/kernel7828582544,kernel7828582544,Anton Morenov,,2019-12-08T17:02:36.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,eguegu/lightgbm-model,lightgbm model,eguegu,,2020-01-06T06:21:45.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,zain1317/using-ann,Using ANN,Zain,,2019-12-09T17:30:05.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,jozefc/stacked-models,Stacked models,jozefc,,2020-01-12T19:34:42.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,vadimmalykh/bowl2019-simple-baseline,bowl2019_simple_baseline,VadimMalykh,,2019-11-24T19:07:42.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,barnwellguy/submit-assessment-mean-rounded,submit assessment mean rounded,Buffalo Spdwy,,2019-11-25T13:18:52.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,jagannathrk/data-science-bowl-2019,Data Science Bowl 2019,Kranti Kumar,,2019-11-24T08:57:32.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,kotanishimura/quick-and-dirty-regression,Quick and dirty regression,niko02,,2020-01-19T17:14:28.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,dayeonlee/kernelb0fb8b9268,kernelb0fb8b9268,dayoen,,2019-11-21T04:51:44.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,jmorleywilkinson/understanding-quadratic-weighted-kappa-scoring,Understanding quadratic weighted kappa scoring,James Morley-Wilkinson,,2019-11-20T09:14:23.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,sagarsorout/kernel76b5f06a60,kernel76b5f06a60,Sagar Sorout,,2019-11-18T17:01:26.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,paklong/ann-in-tf2-with-kappa-loss-as-loss-function,ANN in TF2 with Kappa Loss as loss function,PakLong,,2020-02-03T17:27:01.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,yathishnv/next-gen-eda-66b064,Next Gen EDA 66b064,Yathishnv,,2019-11-10T05:50:58.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,ayush51379/demo-simple-8,demo simple 8,Ayush GUPTA,,2019-11-06T12:16:56.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,veroderberg/kernel355bac0a27,kernel355bac0a27,Véronique Lamontagne,,2020-01-21T19:20:49.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,ab971631/dsb2019-baseline-for-feature-engineering,DSB2019-Baseline for feature Engineering,Abhishek Kumar,,2019-11-30T18:51:58.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,vamsikalyan/data-science-bowl-compitition,data_science_bowl_compitition,JUPUDI VAMSI KALYAN,,2019-10-26T19:51:07.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,huikang/pbs-dataframe,pbs-dataframe,Tong Hui Kang,,2019-10-26T18:56:13.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,hakeem/comparison-of-different-algorithms,Comparison of different algorithms,H4k333m,,2019-10-27T03:50:45.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,riadalmadani/eda-starter-e5eb65,EDA starter e5eb65,Riad,,2019-10-25T13:22:37.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,takaishikawa/qwk-calc-method-comparison,QWK Calc Method Comparison,Tak,,2019-10-24T23:54:41.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,data-science-bowl-2019
+,,,,,0,ionlights/projects-fa19-data-sci-bowl-continued,projects-fa19-data-sci-bowl-continued,ionlights,,2021-01-18T16:24:58.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ionlights/projects-fa19-data-sci-bowl,projects-fa19-data-sci-bowl,ionlights,,2021-01-18T16:24:48.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,wilderjoseth/clasification-datasciencebowl,Clasification - DataScienceBowl,WilderJoseth,,2020-08-28T02:47:22.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jiianhui/kernel321a36183a,kernel321a36183a,Jian Hui,,2020-07-10T11:09:37.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,niteshkumardew/submission-14may,submission@14may,Nitesh,,2020-05-14T18:45:02.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,niteshkumardew/submissionkernel,submissionkernel,Nitesh,,2020-05-13T17:41:00.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,brahma0545/test-bowl,test_bowl,BrahmaReddy,,2020-05-13T03:22:34.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,niteshkumardew/testsubmission,TestSubmission,Nitesh,,2020-05-10T17:27:41.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,niteshkumardew/quickxgbclassifier,QuickXGBClassifier,Nitesh,,2020-05-11T13:31:48.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,declot/ds-bowl-2019-specs,DS_bowl_2019: specs,Nadezda Kashirina,,2020-05-01T12:04:44.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,skylerroh/2019dsb-ordinalregression-ensemble,2019DSB-ordinalregression-ensemble,Skyler Roh,,2020-04-15T17:55:03.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,devchriscross/2019-data-science-bowl-phase-iii,2019 Data Science Bowl: Phase III,Christian Noel Molina,,2020-04-10T11:11:13.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,devchriscross/2019-data-science-bowl-phase-ii,2019 Data Science Bowl Phase II,Christian Noel Molina,,2020-04-04T11:58:06.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,skylerroh/feats-v2-4-10-ordinalregressor-ensemble,feats_v2_4.10_ordinalregressor_ensemble,Skyler Roh,,2020-04-15T16:12:00.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yunishi0716/dbs-my-solution,DBS my solution,ynjp,,2020-02-21T00:15:12.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,bookerd/2019-data-science-bowl-final,2019 Data Science Bowl final,Akhat Rakishev,,2020-02-21T08:27:44.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,tomokikmogura/kaggler-meeting,Kaggler meeting ,Quvotha,,2020-02-17T03:55:44.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rohinik/measureup-learning-analytics-part1,measureup_learning_analytics_part1,LernRyte,,2020-02-11T03:19:53.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,mhaupt/pbs-kids-in-pyspark-part-2-feature-engineering,PBS kids in Pyspark - Part 2 feature engineering,Michael Hauptman,,2020-02-03T10:18:45.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,demetrius/data-science-bowl-2019-1-data-processing,data_science_bowl_2019_1_data_processing,Dmitry Kulikov,,2020-02-23T17:15:05.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,moiseenko/fork-of-fork-of-data-science-bowl-project,Fork of Fork of Data Science Bowl Project,Moiseenko Irina,,2020-01-31T18:40:23.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,toruhasegawa/low-overfitting-single-model,Low_overfitting_single_model,Toru Hasegawa,,2020-01-31T10:58:56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,defileroff/improving-winners-model,Improving winners' model,petya,,2020-01-30T05:58:34.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,necrobs/data-camp,Data Camp,Samuel Amoyal,,2020-04-04T19:57:45.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yyll008/fork-of-datahack-amma-private-score-0-554,Fork of datahack-amma(Private Score ：0.554),yyll008,,2020-01-23T00:25:07.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adamsaltz/predictions-for-data-science-bowl-2019,Predictions for Data Science Bowl 2019,Adam Saltz,,2020-02-19T19:55:04.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ignatovdv/pytorch-ensemble,PyTorch ensemble,Ignatov Dmitriy,,2020-01-22T21:17:34.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,maxyar123/kernel7d11ade303,kernel7d11ade303,maxyar,,2020-01-23T15:51:44.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,annasavinova/kernel784e8fdf13lgb,kernel784e8fdf13LGB,Anna Savinova,,2020-01-22T20:03:39.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yunishi0716/final-note,final note,ynjp,,2020-01-22T18:28:10.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,maxyar123/kernel22d3969a56,kernel22d3969a56,maxyar,,2020-01-22T03:20:42.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,maxyar123/kernel7df39ce53f,kernel7df39ce53f,maxyar,,2020-01-22T02:06:57.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,genelee1/data-science-bowl,Data Science Bowl,Gene Lee1,,2020-01-22T04:57:56.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,sunilmistri/dsc-regression,DSC_regression,Sunil Mistri,,2020-01-22T04:25:48.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,damienpark/lstm-for-bowl,LSTM for Bowl,Damien Park,,2020-02-07T16:26:31.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,edeanf/2019datasciencebowl-xgb,2019DataScienceBowl_XGB,Dean Fung,,2020-01-22T06:27:50.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rpcsvm/xgr-gpc,xgr_gpc,Veeramanikandan,,2020-01-21T11:30:41.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,danechen/convert-to-regression-fe,Convert to Regression+FE,Shouqing Chen,,2020-01-21T09:01:57.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,maxyar123/kernel26f75eee6c,kernel26f75eee6c,maxyar,,2020-01-21T00:44:01.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,maxyar123/kernel228f9b5b1e,kernel228f9b5b1e,maxyar,,2020-01-20T21:40:30.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,maxyar123/kernel49f76b9f54,kernel49f76b9f54,maxyar,,2020-01-20T20:52:52.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,hanjoonchoe/fork-of-fork-of-fork-of-convert-to-regression-ran,Fork of Fork of Fork of Convert to Regression->ran,Hanjoon Choe,,2020-01-21T23:59:40.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,tomokikmogura/lightgbm-classification-use-important-features,LightGBM Classification (Use important features),Quvotha,,2020-01-22T04:07:33.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,dougforrest/gantt-charts,Gantt Charts,Doug Forrest,,2020-01-21T02:54:27.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,hotessy/trousers-bronzey-score-baseline-dsb-1,[[Trousers 👖]] Bronzey Score 🥉 Baseline DSB'1,Divyanshu Sharma,,2020-04-22T07:39:22.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yuooka/dsb2019-xgb-c08-01-adv,DSB2019_XGB_c08-01_adv,Y. O.,,2020-01-19T08:17:04.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yusuf287/mode-method-0-6-1-1-2-02-bagging-3,"mode method [0.6, 1.1, 2.02], bagging=3",Yusuf,,2020-01-21T03:07:41.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,xiaosilasliu/data-science-bowl-public-result,Data Science Bowl -- Public Result,Silas,,2020-01-18T20:21:33.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,damienpark/refine-dataset,Refine_dataset,Damien Park,,2020-01-18T23:37:06.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,shiyongpang/python-pandas-data-reading-speed,Python Pandas Data Reading Speed,shiyong pang,,2020-01-19T12:22:27.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rpcsvm/fancy-few-features-3f,fancy_few_features(3F),Veeramanikandan,,2020-01-16T09:46:04.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,talexeyft/fork-of-f-fff-bo-0-15-to-0-10,Fork of F FFF BO 0.15 to 0.10,AlTer,,2020-01-15T20:16:53.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,psmirnov0/regression-ranker,Regression Ranker,psmirnov,,2020-01-20T07:55:39.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,simpletonwang/full-code,full code,Tianqi Wang,,2020-01-21T16:31:32.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,vh1981/single-lgbm-model-with-bayesian-optimization,single lgbm model with bayesian optimization,vh1981,,2020-02-18T03:40:47.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,oleggribanov/kernel2a0967f8e6,kernel2a0967f8e6,Oleg Gribanov,,2020-01-13T10:28:52.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,plasticgrammer/dsb2019-lgbm-kfold-2-n,DSB2019: lgbm+kfold(2)*n,plasticgrammer,,2020-01-23T11:20:07.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rpcsvm/3-ml-cnn-meta-prob,3_ml_cnn_meta_prob,Veeramanikandan,,2020-01-12T10:01:45.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,danofer/dsb19-baseline-catboost,DSB19_Baseline_CatBoost,Dan Ofer,,2020-01-12T09:11:04.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,gr8ergood/2019-data-science-bowl-a-possible-solution,2019 Data Science Bowl - A Possible Solution,Ravi K,,2020-01-26T19:51:00.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,keyurparalkar/data-science-bowl-2019-prototype-1,Data Science Bowl 2019_Prototype_1,Keyur Paralkar,,2020-02-06T02:39:06.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,benayas/cleaning-dataset,Cleaning Dataset,Alberto Benayas,,2020-01-25T19:52:08.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,hanjoonchoe/dsb2019-baseline,DSB2019-baseline,Hanjoon Choe,,2020-01-16T16:07:56.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,egor98/datasciencebowl,DataScienceBowl,Egor Glushkov,,2020-01-10T05:40:45.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jonathanbaptiste/cc2020-project,CC2020 Project,Jonathan Baptiste,,2020-01-14T20:55:13.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rpcsvm/6-ml-meta-rf,6_ml_meta_rf,Veeramanikandan,,2020-01-11T10:30:34.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,eligeti/catboost-01-pretrained,catboost_01-pretrained,Aravind,,2020-01-08T15:28:23.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,imarevic/2019-dsb-data-tree-structure-visualization,2019 DSB Data Tree Structure Visualization,Ivan Marevic,,2020-01-08T15:22:23.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,altimofeevm/datasciencebowl,DataScienceBowl,Alexander TImofeev,,2020-01-08T15:11:09.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,eligeti/catboost-01,catboost_01,Aravind,,2020-01-08T07:12:15.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ghassent/cat-lgb1,Cat&lgb1,ghassent,,2020-01-07T20:33:42.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jaysoncunanan/wahhhhh,wahhhhh,jayson cunanan,,2020-01-09T01:08:36.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,daisy9197/2019-data-science-second-try,2019 Data Science--Second Try,Chen,,2020-01-11T16:20:51.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jimmy18/stacking,Stacking,Jimmy Yin,,2020-01-21T00:40:47.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,kudryavtcev/kernel16c7c8ac39,kernel16c7c8ac39,Kudryavtcev,,2020-01-09T07:28:43.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,shubhampandey27/regclass,RegClass,Shubhamkumar Pandey,,2020-01-06T13:32:56.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ddlddd/tezheng550,tezheng550,ddlDDD,,2020-01-05T11:30:17.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,naive666/data-science-bowl-2019,data_science_bowl_2019,Naive,,2020-01-13T23:55:17.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,kanchannannavare/kernel4c2a0fd51b,kernel4c2a0fd51b,Kanchan Nannavare,,2020-01-05T08:22:02.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yankai19/convert-to-regression-f4585b,Convert to Regression f4585b,Daokai Qiu ,,2020-01-02T15:02:44.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,guoyuechao/0-559-10fold-add-cat-feature-remove,0.559-10fold-add_cat-feature_remove,victory,,2020-01-21T05:26:46.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,joey234/catboost-model,Catboost model,Thinh Truong,,2020-01-08T04:02:19.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adisrinu/kernel62f3faa435,kernel62f3faa435,ASN,,2020-01-01T13:56:42.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,icewind2/kernel20d3e9c87c,kernel20d3e9c87c,Anton Glazyrin,,2020-01-04T15:38:43.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,devchriscross/2019-data-science-bowl-phase-i,2019 Data Science Bowl Phase I,Christian Noel Molina,,2020-03-25T16:52:09.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,arindam235/catboost-dsbowl,CatBoost - DSBowl,Andy_M,,2020-01-11T01:00:10.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,mikeholcomb/assessments-type-to-predict-dsb-2019,Assessments Type to Predict - DSB 2019,Mike Holcomb,,2019-12-30T00:38:11.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yankai19/convert-to-regression,Convert to Regression,Daokai Qiu ,,2019-12-29T16:01:54.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rpcsvm/xboost-grid-search,xboost_grid_search,Veeramanikandan,,2020-01-12T06:39:51.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,edeanf/2019datasciencebowl-featureengineering-raw,2019DataScienceBowl_FeatureEngineering_Raw,Dean Fung,,2020-01-21T04:32:03.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ash16win/python-feature-data-bowl,python_feature_data_bowl,ash16win,,2020-01-02T06:33:47.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,srikarg/regression,regression,SrikarGottiparthi,,2020-01-22T19:15:38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,wyl1997/dsb-classfication,DSB_Classfication,wyl1997,,2020-01-16T09:32:43.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,danvm90/ds-bowl-train,DS_Bowl_Train,Daniel Conrad,,2020-01-10T23:52:47.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,mansionkevin/kernel52fffbced5,kernel52fffbced5,kevin,,2020-01-08T05:12:06.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lanzalibre/data-science-bowl,Data Science Bowl,lanzalibre,,2019-12-27T23:50:59.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,onodera/publiclb-is-dummy-test,publicLB is dummy test?,ONODERA,,2019-12-24T08:03:53.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,minhle1994/eda-data-science-bowl,EDA - Data Science Bowl,hawkeye123232,,2019-12-23T20:29:04.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,shengtanwusorc/classification-and-regression,Classification and Regression,wushengtan,,2019-12-29T12:54:40.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,edeanf/2019datasciencebowl-dataexploration,2019DataScienceBowl_DataExploration,Dean Fung,,2020-01-01T10:42:41.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,nickshow11/pbskid,PBSKID,Nick Showalter,,2020-01-15T18:16:13.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,mickykumar/2019-data-science-bowl,2019 Data Science Bowl,Micky,,2020-01-22T01:28:33.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,subhayo/ds-bowl-extensive-eda-draft,DS Bowl - extensive EDA draft,Subha Yoganandan,,2020-01-23T11:48:13.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,alamjane61/data-science-bowl,Data Science Bowl,Jane,,2019-12-19T18:16:05.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,llljjjyyy/fastai-2019-data-science-bowl, Fastai 2019 Data Science Bowl,Lin JY,,2020-01-09T05:20:55.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,keremt/fastai-model-part2-regression,Fastai Model (part2) - Regression,Kerem Turgutlu,,2019-12-18T09:31:42.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rkjiwa/kernel773761685d,kernel773761685d,Rahim Jiwa,,2020-01-04T19:04:58.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adamsaltz/preprocessor-for-data-bowl-2019,preprocessor for data bowl 2019,Adam Saltz,,2020-02-19T16:03:09.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,damienpark/glance-at-type,Glance at Type,Damien Park,,2020-01-08T09:44:01.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jake126/test-data-reshaping-and-model-testing,Test data reshaping and model testing,Jake126,,2019-12-18T15:52:08.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,vh1981/catboost-bayesian-voting,catboost + bayesian + voting,vh1981,,2019-12-23T16:59:46.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jyesawtellrickson/data-reduction-less,Data Reduction (less),JyeSR,,2019-12-17T14:11:15.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,artinn/minimalizm,minimalizm,Islam Jambeev,,2019-12-15T09:09:09.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-fork-of-fork-of-fork-of-fork-of-trunc-trai,Fork of Fork of Fork of Fork of Fork of Trunc trai,lolaya,,2019-12-14T20:26:42.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-fork-of-fork-of-fork-of-trunc-train-3a8d32,Fork of Fork of Fork of Fork of Trunc train 3a8d32,lolaya,,2019-12-14T20:21:17.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/kernel20f1b1ce66,kernel20f1b1ce66,lolaya,,2019-12-14T01:12:59.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-fork-of-fork-of-trunc-train-dcf361,Fork of Fork of Fork of Trunc train dcf361,lolaya,,2019-12-13T16:19:47.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-fork-of-fork-of-fork-of-trunc-train-dcf361,Fork of Fork of Fork of Fork of Trunc train dcf361,lolaya,,2019-12-13T15:44:48.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jiachengyou/ml-final,ML final,Chris,,2019-12-15T06:28:06.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/testtmp,testtmp,lolaya,,2019-12-13T04:44:08.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lolaya/fork-of-trunc-train-dcf361,Fork of Trunc train dcf361,lolaya,,2019-12-13T03:48:58.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,hxshine/no-duration-submit,no_duration_submit,ShineHx,,2019-12-13T07:13:01.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jonnoklis/kernel5f1d4f9f2e,kernel5f1d4f9f2e,JonnoKlis_STU,,2020-01-31T13:56:20.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jake126/data-reshaping-and-rudimentary-models,Data reshaping and rudimentary models,Jake126,,2019-12-18T13:34:45.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,lukaspumas/start-baseline-01,Start_baseline_01,Lukas,,2019-12-09T08:52:22.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,datajang/dsb-catboost,DSB Catboost ,Data_Jang,,2019-12-12T16:22:59.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adambang/model-and-predict-to-2019-data-science-bowl,model and predict to 2019 Data Science Bowl,unirabbit,,2019-12-24T15:09:10.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,eliasgreen/2019-data-science-bowl-competition,2019 Data Science Bowl [Competition],Elias Green,,2019-12-20T15:11:08.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adambang/2019-data-science-bowl-for-baseline,🚸 2019 Data Science Bowl for baseline,unirabbit,,2019-12-07T00:42:25.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,felcyjenolin/kernel7b484621de,kernel7b484621de,Felcy Jenolin,,2019-11-29T04:54:21.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,niveshathersa/kernel36f917ff83,kernel36f917ff83,Nivesha Thersa,,2019-11-29T04:55:24.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,vigneshvittal/kernel46460b0f31,kernel46460b0f31,vignesh,,2019-11-29T04:54:22.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,leoclinton/myfirstkernell,MyfIRSTkERNELL,leo_clinton_97,,2019-11-29T04:50:22.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,runthis/oh-this-is-public,oh_this_is_public,Maheshwaran Umapathy,,2019-11-29T04:40:09.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,stvbex/dsb2019-011-lightgbm-reg,DSB2019_011_lightgbm_reg,svars,,2019-12-11T20:09:25.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,chinmayejain0091/dsb-simple-eda,DSB Simple EDA,Chinmaye Jain ,,2019-11-30T04:25:00.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,sarapena/sarapena-data-science-bowl-exploration,SaraPena_Data_Science_Bowl_Exploration,Sara Pena,,2019-11-25T16:42:29.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,eguegu/bowl-game,bowl-game,eguegu,,2019-11-25T05:15:29.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,pandamia92/dsb-kernel-1,DSB_Kernel_1,Алексей Тепляков,,2020-01-22T16:06:34.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,sankara1996/kernel1772224679,kernel1772224679,sankar,,2019-11-23T08:41:14.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ruhong/dsbowl19-preprocess,dsbowl19-preprocess,ruhong,,2020-01-22T13:13:18.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ayush51379/a-star-is-born-with-this-idea,A STAR IS BORN WITH THIS IDEA :-),Ayush GUPTA,,2019-11-19T22:00:47.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,siyuansh/simple-feature-engineering-and-random-forest-model,Simple Feature Engineering and Random Forest Model,Lisa,,2020-01-23T03:50:37.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,hanjstest/hanjstest-notebook,hanjstest_notebook,hanjstest,,2019-11-20T07:02:43.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,jackluu/jack-s-submission,Jack's Submission,Jack Luu,,2019-11-18T10:37:40.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,asahak/tutorial-dsb,tutorial_DSB,hiroyuki_asai,,2019-11-26T02:00:54.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,yharuna/2019-data-science-bowl,2019 Data Science Bowl,Yutaro Haruna,,2019-11-30T23:34:24.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,karunamay15/lightgbmmv1,LightGBMMV1,KarunamayPathak,,2019-11-12T14:26:16.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adibpriatama/deeper-feature-engineering-fr,Deeper Feature Engineering FR,Adib Priatama,,2019-11-04T23:21:03.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,ayush51379/ds-short-ana5-feature-extraction,DS SHORT ANA5 - FEATURE EXTRACTION,Ayush GUPTA,,2019-11-01T18:50:17.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,rookie4/ds-bowl-2019-fourth-cut,DS Bowl 2019 : Fourth cut,rookie,,2019-11-22T03:46:56.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,adibpriatama/data-science-bowl-fast-compact-solution,data_science_bowl_fast_compact_solution,Adib Priatama,,2019-10-27T11:29:24.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,vvijaybabu/dsb-gbclassifier-basic-features,DSB_GBClassifier Basic Features ,Vijay Babu,,2020-01-01T04:11:36.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019
+,,,,,0,bamps53/kernel-random10,kernel-random10,Camaro,,2019-12-18T21:49:44.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,data-science-bowl-2019

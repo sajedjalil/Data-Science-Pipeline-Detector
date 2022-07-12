@@ -1,0 +1,26 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,mks2192/stumbleupon-eda-and-model-baseline,StumbleUpon EDA and Model BaseLine,Manoj,,2019-06-25T08:58:17.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,stumbleupon
+,,,,,0,yahyaouiachraf/stumbleupon-classification-randomforest,StumbleUpon_Classification_RandomForest,Yahyaoui Achraf,,2022-05-20T10:23:10.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,stumbleupon
+,,,,,0,raj401/baseline-evergreen,baseline_evergreen,AKR,,2021-11-19T16:57:44.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,stumbleupon
+,,,,,0,razerspeed/bertforsequenceclassification-pytorch,BertForSequenceClassification_Pytorch,rohit,,2021-04-27T16:19:38.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,stumbleupon
+,,,,,0,adishah3103/stumbleupon-challenge-using-bert,Stumbleupon Challenge using BERT,Aditya Shah,,2021-02-19T18:52:43.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,stumbleupon
+,,,,,0,sumeetsawant/stumble-upon-challenge-auc-private-lb-0-85,Stumble Upon Challenge AUC Private LB 0.85 ,Sumeet Sawant ,,2021-02-01T21:01:01.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,stumbleupon
+,,,,,0,sravanneeli/stumble-upon,stumble-upon,M.D.Luffy,,2021-11-18T14:57:13.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,stumbleupon
+,,,,,0,rahools/huggingface-bert-model,Huggingface BERT Model,Rahul Singh,,2021-03-01T01:49:40.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,stumbleupon
+,,,,,0,mohamedelatillah/notebook5fb8cf81f1,notebook5fb8cf81f1,Mohamed ELATILLAH,,2022-03-13T12:40:53.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,stumbleupon
+,,,,,0,sachinsachan2021/logistic-regression-with-kfold,logistic_regression with Kfold,Sachin sachan2021,,2021-12-10T17:31:18.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,stumbleupon
+,,,,,0,prithvijaunjale/huggingface-accelerate-tpu-text-classification,HuggingFace Accelerate TPU Text Classification,Prithvi Jaunjale,,2021-08-11T12:14:02.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,stumbleupon
+,,,,,0,oussamaouardini/notebooka9ff694d7d,notebooka9ff694d7d,Oussama Ouardini,,2021-03-28T18:03:19.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,stumbleupon
+,,,,,0,imabhilash/classifier-stubmpleupon-comp,Classifier StubmpleUpon Comp,Abhilash V Gopal,,2021-01-30T19:58:47.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,stumbleupon
+,,,,,0,gulshanmishra/feedforward-neural-network-feature-engineering,Feedforward Neural Network | Feature Engineering,Gulshan Mishra,,2022-03-07T16:40:50.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,stumbleupon
+,,,,,0,shabnamse/stumbleupon-evergreen-classification-with-bert,StumbleUpon Evergreen Classification with Bert,Shabnam Sedghi,,2022-02-10T17:28:10.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,stumbleupon
+,,,,,0,assivanurul/evergreeen,Evergreeen,Assiva Nurul,,2021-08-25T16:39:58.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,stumbleupon
+,,,,,0,taru58/tulsi-assignment,Tulsi Assignment,Tarun kumar,,2021-02-20T06:24:53.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,stumbleupon
+,,,,,0,nrcgsharma/evergreen,evergreen,nikhil sharma,,2021-02-16T13:10:15.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,stumbleupon
+,,,,,0,danurahul/stumble-upon-challenge-precision-recall,Stumble Upon Challenge_Precision&Recall,Danu rahul,,2021-02-17T14:56:04.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,stumbleupon
+,,,,,0,hengwdai/stumbleupon-data-split,Stumbleupon-data-split,Hengw Dai,,2022-05-09T07:10:03.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,stumbleupon
+,,,,,0,hengwdai/stumbleupon-autogluon,Stumbleupon-AutoGluon,Hengw Dai,,2022-05-08T15:34:25.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,stumbleupon
+,,,,,0,hengwdai/stumbleupon-h2o,Stumbleupon-H2O,Hengw Dai,,2022-05-08T15:18:28.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,stumbleupon
+,,,,,0,hengwdai/stumbleupon-auto3ml,Stumbleupon-Auto3ML,Hengw Dai,,2022-05-25T08:46:53.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,stumbleupon
+,,,,,0,redwanemahjoubi/stumbleupon-evergreen-classification-challenge,StumbleUpon Evergreen Classification Challenge,Redwane mahjoubi,,2022-05-23T17:02:45.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,stumbleupon
+,,,,,0,danurahul/transfer-learning-for-nlp,Transfer Learning for NLP,Danu rahul,,2021-02-11T23:55:43.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,stumbleupon

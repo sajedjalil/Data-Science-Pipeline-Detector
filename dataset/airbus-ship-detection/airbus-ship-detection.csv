@@ -1,0 +1,240 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,inversion/run-length-decoding-quick-start,Run Length Decoding - Quick Start,inversion,,2018-07-30T17:45:35.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],344,airbus-ship-detection
+,,,,,0,kmader/baseline-u-net-model-part-1,Baseline U-Net Model (Part 1),K Scott Mader,,2018-10-19T09:51:40.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],283,airbus-ship-detection
+,,,,,0,meaninglesslives/airbus-ship-detection-data-visualization,Airbus Ship Detection: Data Visualization,Siddhartha,,2018-09-20T14:10:17.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],156,airbus-ship-detection
+,,,,,0,iafoss/unet34-submission-tta-0-699-new-public-lb,Unet34 submission TTA (0.699 new public LB),Iafoss,,2018-10-09T14:16:52.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],154,airbus-ship-detection
+,,,,,0,iafoss/unet34-dice-0-87,Unet34 (dice 0.87+),Iafoss,,2018-09-10T20:56:00.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],142,airbus-ship-detection
+,,,,,0,hmendonca/u-net-model-with-submission,U-Net Model with submission,Henrique Mendonça,,2018-10-02T18:16:13.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],132,airbus-ship-detection
+,,,,,0,kmader/transfer-learning-for-boat-or-no-boat,Transfer Learning for Boat or No-Boat,K Scott Mader,,2018-10-19T10:05:07.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,airbus-ship-detection
+,,,,,0,voglinio/from-masks-to-bounding-boxes,From masks to bounding boxes,Costas Voglis,,2018-10-16T07:11:46.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],113,airbus-ship-detection
+,,,,,0,iafoss/fine-tuning-resnet34-on-ship-detection,Fine-tuning ResNet34 on ship detection,Iafoss,,2018-08-26T15:35:12.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],111,airbus-ship-detection
+,,,,,0,hmendonca/airbus-mask-rcnn-and-coco-transfer-learning,Airbus Mask-RCNN and COCO transfer learning,Henrique Mendonça,,2018-11-15T00:28:26.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],98,airbus-ship-detection
+,,,,,0,ezietsman/airbus-eda,Airbus EDA,EZ,,2018-08-03T21:29:58.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],89,airbus-ship-detection
+,,,,,0,julian3833/2-understanding-plotting-rle-bounding-boxes,🚢 2 - Understanding & plotting rle bounding boxes,dataista0 (Julián Peller),,2018-10-30T00:38:41.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,airbus-ship-detection
+,,,,,0,rackovic1994/convolutional-neural-network,Convolutional Neural Network,Stevo Rackovic,,2018-08-16T17:12:02.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,airbus-ship-detection
+,,,,,0,hmendonca/classification-and-segmentation-fp,Classification and Segmentation (-FP),Henrique Mendonça,,2018-11-08T03:12:27.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,airbus-ship-detection
+,,,,,0,windsurfer/baseline-u-net-on-pytorch,Baseline U-Net on PyTorch,Igor Ivaskiv,,2018-08-06T05:10:40.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,airbus-ship-detection
+,,,,,0,kmader/from-trained-u-net-to-submission-part-2,From Trained U-Net to Submission (Part 2),K Scott Mader,,2018-10-19T13:21:02.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,airbus-ship-detection
+,,,,,0,leighplt/pytorch-tutorial-dataset-data-preparetion-stage,PyTorch Tutorial: Dataset. Data preparetion stage.,Leigh,,2018-08-26T21:25:49.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,airbus-ship-detection
+,,,,,0,npatta01/naive-model,Naive Model,Nidhin Pattaniyil,,2018-08-01T03:07:36.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,airbus-ship-detection
+,,,,,0,julian3833/4-exploring-public-models,🚢 4 - Exploring public models,dataista0 (Julián Peller),,2021-08-14T16:36:24.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,airbus-ship-detection
+,,,,,0,kotarojp/first-step-for-submission-u-net-tta,"First Step for Submission(U-net, TTA)",kotaro,,2018-11-06T10:14:28.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,airbus-ship-detection
+,,,,,0,julian3833/5-submitting-the-test-file-1-0-public-lb,🚢 5 - Submitting the test file (1.0 public LB),dataista0 (Julián Peller),,2021-09-07T01:12:05.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,airbus-ship-detection
+,,,,,0,julian3833/1-loading-and-visualizing-the-images,🚢 1 - Loading and visualizing the images,dataista0 (Julián Peller),,2018-09-10T18:57:17.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,airbus-ship-detection
+,,,,,0,julian3833/3-basic-exploratory-analysis,🚢 3 - Basic exploratory analysis,dataista0 (Julián Peller),,2018-09-10T18:57:47.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,airbus-ship-detection
+,,,,,0,manuscrits/create-a-validation-dataset-correcting-the-leak,Create a validation dataset - Correcting the leak,Maxime Riché,,2018-10-20T08:10:28.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,airbus-ship-detection
+,,,,,0,frappuccino/from-masks-to-rotating-bounding-boxes-using-opencv,From Masks to Rotating Bounding Boxes using OpenCV,Shigabeev,,2018-11-08T20:52:34.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,airbus-ship-detection
+,,,,,0,iafoss/rotating-bounding-boxes-ship-localization,Rotating Bounding Boxes (Ship Localization),Iafoss,,2018-09-05T15:12:49.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,airbus-ship-detection
+,,,,,0,witwitchayakarn/u-net-with-pytorch,U-Net with Pytorch,witwitchayakarn,,2018-09-03T12:13:37.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,airbus-ship-detection
+,,,,,0,sgalwan/airbus-ship-detection-challenge-eda-metrics,Airbus Ship Detection Challenge: EDA & Metrics,Safwan Alwan,,2018-08-17T08:34:17.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,airbus-ship-detection
+,,,,,0,paulorzp/1-line-base-model-v2,1 line Base Model v2,Paulo Pinto,,2018-10-08T21:27:41.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,airbus-ship-detection
+,,,,,0,super13579/u-net-base-on-resnet34-transfer-learning-keras,U-Net base on ResNet34 Transfer learning (Keras),funkyboy,,2018-11-07T07:47:34.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,airbus-ship-detection
+,,,,,0,super13579/simple-transfer-learning-detect-ship-exist-keras,Simple transfer Learning detect Ship exist (Keras),funkyboy,,2018-11-05T02:11:35.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,airbus-ship-detection
+,,,,,0,iafoss/remove-overlap,Remove overlap,Iafoss,,2018-10-17T01:47:29.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,airbus-ship-detection
+,,,,,0,raresbarbantan/f2-metric,F2 metric,Rares Barbantan,,2018-08-30T14:17:06.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,airbus-ship-detection
+,,,,,0,iafoss/fine-tuning-resnet34-on-ship-detection-new-data,Fine-tuning ResNet34 on ship detection (new data),Iafoss,,2018-10-09T00:58:06.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,airbus-ship-detection
+,,,,,0,krishanudb/keras-based-unet-model-construction-tutorial,Keras based UNet Model Construction Tutorial,Krishanu Das Baksi,,2018-08-06T13:59:32.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,airbus-ship-detection
+,,,,,0,rackovic1994/feature-engineering,Feature Engineering,Stevo Rackovic,,2018-08-11T14:07:15.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,airbus-ship-detection
+,,,,,0,nafisur/airbus-ship-detection,Airbus Ship Detection,Nafisur Rahman,,2018-07-31T06:49:26.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,airbus-ship-detection
+,,,,,0,ashishpatel26/u-net-model-with-abstract-layer-submission,U-Net Model with Abstract layer submission,NowYSM,,2018-08-14T13:23:34.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,airbus-ship-detection
+,,,,,0,iafoss/list-of-overlapping-images-for-validation-set,List of overlapping images (for validation set),Iafoss,,2018-10-15T04:50:02.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,airbus-ship-detection
+,,,,,0,ashishpatel26/unet34-submission,Unet34 submission,NowYSM,,2018-09-04T19:31:46.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,airbus-ship-detection
+,,,,,0,plarmuseau/airbus-improving-images,Airbus improving images,Paul Larmuseau,,2018-07-31T19:25:26.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,airbus-ship-detection
+,,,,,0,ashishsinhaiitr/airbus-yaeda,Airbus  YAEDA,AshishSinha,,2018-08-10T20:20:45.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,airbus-ship-detection
+,,,,,0,super13579/unet34-predict-result,Unet34 + Predict result,funkyboy,,2018-11-07T07:29:47.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,airbus-ship-detection
+,,,,,0,lifa08/run-length-encode-and-decode,Run-Length Encode and Decode,Lifang Zhang,,2018-09-19T12:27:39.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,airbus-ship-detection
+,,,,,0,markup/f2-metric-optimized,F2 metric: optimized,Mark Ayzenshtadt,,2018-08-27T09:53:51.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,airbus-ship-detection
+,,,,,0,ashishpatel26/airbus,Airbus ,NowYSM,,2018-07-31T09:10:00.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,airbus-ship-detection
+,,,,,0,yassinealouini/f2-score-per-epoch-in-keras,F2 score per epoch in Keras,Yassine Alouini,,2018-08-26T16:10:56.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,airbus-ship-detection
+,,,,,0,yassinealouini/mlflow-hyperopt-u-net-workflow,MLflow + Hyperopt + U-net workflow,Yassine Alouini,,2018-08-25T11:19:19.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,airbus-ship-detection
+,,,,,0,deyury/visual-analysis-of-failures,Visual Analysis of Failures,Yury  Dzerin,,2018-10-01T17:25:10.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,airbus-ship-detection
+,,,,,0,voglinio/from-masks-to-rotated-bounding-boxes,From masks to ROTATED bounding boxes,Costas Voglis,,2018-09-12T15:34:10.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,airbus-ship-detection
+,,,,,0,voglinio/airbus-ship-detection-clustering-no-ship-images,Airbus Ship Detection: Clustering no-ship images,Costas Voglis,,2018-08-03T16:38:25.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,airbus-ship-detection
+,,,,,0,alexj21/pytorch-eda-unet-from-scratch-finetuning,[PyTorch] - EDA - UNet - From Scratch & Finetuning,Alex,,2020-04-26T08:55:52.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,airbus-ship-detection
+,,,,,0,ashuta03/ship-segmentation-with-retinanet-and-mask-rcnn,Ship segmentation with RetinaNet and Mask-rcnn,Ashuta Bhattarai,,2018-11-21T06:10:18.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,airbus-ship-detection
+,,,,,0,nikhilroxtomar/unet34-submission,Unet34 submission,Nikhil Tomar,,2018-09-04T17:26:03.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,airbus-ship-detection
+,,,,,0,witwitchayakarn/airbus-ship-detection-eda,Airbus Ship Detection: EDA,witwitchayakarn,,2018-08-22T10:15:14.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,airbus-ship-detection
+,,,,,0,meaninglesslives/vgg-net-feature-extraction-and-visualization,VGG Net Feature Extraction and Visualization,Siddhartha,,2018-08-02T13:59:13.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,airbus-ship-detection
+,,,,,0,mingruimingrui/finally-ship-detection,Finally Ship Detection!,MingRuiWang,,2018-10-03T06:59:22.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbus-ship-detection
+,,,,,0,shin2ro/airbus-ship-detection-eda,Airbus Ship Detection EDA,shin2ro,,2018-09-17T07:00:02.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbus-ship-detection
+,,,,,0,rupeshwadibhasme/mobilenet-model-with-submission,Mobilenet Model with submission,Rupesh Wadibhasme,,2018-08-26T15:24:50.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbus-ship-detection
+,,,,,0,yassinealouini/idiomatic-pandas-processing,Idiomatic Pandas Processing,Yassine Alouini,,2018-08-25T11:11:15.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbus-ship-detection
+,,,,,0,burcuamirgan/airbus-mask-rcnn-and-coco-transfer-learning,Airbus Mask-RCNN and COCO transfer learning,Burcu Amirgan,,2021-11-26T07:12:29.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbus-ship-detection
+,,,,,0,pesssinaluca/ship-detection-visualizations-and-eda,🚢 Ship Detection || Visualizations and EDA,Pessina Luca,,2021-09-24T10:14:13.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbus-ship-detection
+,,,,,0,samlin001/mask-r-cnn-ship-detection-minimum-viable-model-1,Mask R-CNN Ship Detection Minimum Viable Model - 1,Sam Lin,,2018-11-18T20:11:52.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbus-ship-detection
+,,,,,0,pedrodiamel/airbus-ship-detection-load-data,airbus ship detection load data,Pedro Marrero Fernández,,2018-08-01T04:46:39.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbus-ship-detection
+,,,,,0,voluch346/airbus-ship-detection-eda,Airbus Ship Detection (EDA),Volodymyr Dubyna,,2021-11-16T11:40:05.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,eigrad/convert-rle-to-bounding-box-x0-y0-x1-y1,"Convert RLE to bounding box (x0, y0, x1, y1)",Andrew Grigorev,,2018-12-20T13:47:25.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,yassinealouini/airbus-quick-eda-mask-r-cnn-annotated,Airbus quick EDA + Mask R-CNN annotated,Yassine Alouini,,2018-11-10T20:34:10.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,smuehling/watershed-with-k-means,Watershed...with K-Means,Stefan Mühling,,2018-09-11T19:52:10.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,virksaab/airbus-ship-detection-eda-and-introduction,Airbus Ship Detection EDA and Introduction,Virksaab,,2018-08-23T10:55:35.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,santosh17/elaboratingtransfer-learning-for-boat-or-no-boat,ElaboratingTransfer Learning for Boat or No-Boat,A Santosh Kumar,,2018-08-18T08:56:38.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,dmitrykonovalov/convert-run-length-encoding-to-png-mask-images,Convert-run-length-encoding-to-png-mask-images ,dmitrykonovalov,,2018-08-04T05:20:50.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,kmader/package-segmentation-images,Package Segmentation Images,K Scott Mader,,2018-08-02T08:30:12.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbus-ship-detection
+,,,,,0,bgoldfe2/mask-rcnn-coco-transfer-learning-ship-detection,Mask-RCNN - COCO transfer learning ship detection,bgoldfe2,,2022-04-14T14:55:26.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,sohansp/ship-detection-final-iit,Ship Detection Final IIT,Sohan Puthran,,2020-09-18T03:48:23.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,debasisdotcom/ship-detection-from-satellite-image,Ship detection from satellite image,Debasis Samal,,2020-09-28T23:59:59.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,marvelousninja/kaggle-airbus-3-96-minutes,Kaggle Airbus - 3.96 minutes,Alex Sologub,,2018-12-14T17:17:33.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,danil328/unet34-submission-with-new-data,Unet34 submission with new data,Danil Akhmetov,,2018-10-29T05:56:09.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,alexanderliao/no-mask-prediction,No Mask Prediction,Liao,,2018-10-28T00:05:44.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,uysimty/ship-detection-using-keras-u-net,Ship Detection Using Keras U-Net,Uysim,,2019-04-20T10:08:20.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,tcapelle/fastai-airbus-binary,fastai_airbus_binary,Cape,,2018-08-27T13:20:27.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,hugolapointe/airbus-ship-detection-challenge,Airbus - Ship Detection Challenge,hugolapointe,,2018-08-05T23:55:54.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,deekshithbg/naive-model,Naive Model,Deekshith,,2018-08-01T06:09:43.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,zhixinzhang/eda-for-airbus-ship-detection-challenge,EDA for Airbus Ship Detection Challenge,zxzhang_hust,,2018-07-31T16:08:22.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbus-ship-detection
+,,,,,0,aryadhorajiya/maskrcnn-retinanet-implementation,MaskRcnn- RetinaNet Implementation,Arya Dhorajiya,,2022-05-09T07:39:17.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,sulinary/draft-airships,Draft - AirShips,NirBD,,2021-01-05T17:58:29.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,debasisdotcom/ship-classification-from-satellite-images,Ship classification from satellite images,Debasis Samal,,2020-09-29T00:10:06.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,alexj21/fastai-unet-finetuning-0-823-lb,[Fastai] - UNet - Finetuning : 0.823 LB,Alex,,2020-04-27T18:38:04.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,alexj21/fastai-resnet34-classifier-acc-0-975,[Fastai] - Resnet34 - Classifier - acc ~0.975,Alex,,2020-04-27T14:16:25.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,aditya100/airbus-ship-detection-unet,Airbus Ship Detection- UNet,Aditya Dehal,,2019-06-18T04:31:45.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,seesee/se-resnet50-vs-vgg-16,SE-ResNet50 vs VGG-16,See--,,2018-12-12T15:11:02.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,abimannan/airship-deep-detection,AIRSHIP deep detection,Senna,,2018-11-06T05:57:40.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,oneraghavan/airbus-ship-detection-eda-101,Airbus ship detection EDA 101,raghavan,,2018-11-08T04:27:05.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,frlhell/ship-detection-with-pytorch-unet,Ship detection with Pytorch Unet,Franz Hell,,2018-11-04T20:09:26.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,amneves/u-net-segmentation-oom-i-need-a-better-gpu-help,U-net segmentation (OOM I need a better gpu help),André Neves,,2018-10-17T20:54:53.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,deepak112/kernelea4b6a30f5,kernelea4b6a30f5,DeepakBirla,,2018-10-17T10:57:22.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,chandyalex/masks-to-bounding-and-generate-tf-csv-file,Masks to bounding and generate TF CSV file,alex,,2018-08-16T09:33:42.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,snig12swain/airbus-ship-detector,Airbus Ship Detector,Snigdha Swain,,2019-08-22T08:57:43.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbus-ship-detection
+,,,,,0,rainahuc/unet34-dice-0-87-rotation-testing,Unet34 (dice 0.87+) ROTATION TESTING,Raina Cheung,,2021-05-18T13:28:46.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,jarutis/fastai-unet-basic,fastai unet basic,Jonas Jarutis,,2021-01-26T14:10:41.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,starbuucks/to-make-bounding-box,To make bounding box,starbuucks,,2019-11-26T09:45:50.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,marvelousninja/pytorch-synchronization-issue-1-0,PyTorch Synchronization Issue 1.0,Alex Sologub,,2018-12-14T15:54:36.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,ruchibahl18/run-length-encoding-airbus-challenge,Run length encoding : Airbus challenge,ruchibahl,,2018-11-26T10:52:52.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,samlin001/mask-r-cnn-ship-detection-minimum-viable-model-1a,Mask R-CNN Ship Detection Minimum Viable Model-1a,Sam Lin,,2018-11-18T03:39:54.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,qaiser43/using-cnn-detect-ship-or-no-ship,Using CNN - Detect ship or no ship,Qaiser,,2018-11-14T19:25:39.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,prath01/airbus-decode-all-masks,Airbus Decode All Masks,Paddy Rath,,2018-11-19T17:49:56.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,dvizcaya/visualization-of-training-data,Visualization of training data,Daniel ,,2018-11-07T12:51:00.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,shunjiangxu/func-to-convert-rle-to-vertices-for-localization,Func to convert RLE to vertices for localization,S.Xu,,2018-11-07T19:31:30.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,jeffaudi/create-a-submission-with-no-ship-masks,Create a submission with no ship masks,Jeff Faudi,,2018-11-13T06:28:55.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,iafoss/unet34r-ship-detection,Unet34r (ship detection),Iafoss,,2018-11-06T06:17:11.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,sureshsuri/airbus-pre,airbus pre,suri@7,,2018-08-20T14:16:37.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,zclarkwilliams/airbus-rev1,AirBus_rev1,Zack C.W.,,2018-08-15T02:12:39.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,zclarkwilliams/airbus-ship-detection-rev1,Airbus Ship Detection_rev1,Zack C.W.,,2018-08-08T02:44:57.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,pickthorns/run-length-decoding-quick-start,Run Length Decoding - Quick Start,ScottPickthorn,,2018-08-15T01:55:13.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbus-ship-detection
+,,,,,0,glebelushov/notebooka13048a655,notebooka13048a655,Gleb Elushov,,2022-05-22T23:59:02.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,thepavtiger/airbus-kaggle-competition,airbus-kaggle-competition,Pavel,,2022-05-03T15:16:42.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,ampotdar/transfer-learning-for-boat-or-no-boat-dfy-techno,Transfer Learning for Boat or No-Boat - DFY Techno,Amit Potdar,,2021-02-14T20:19:38.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,mrdvneltmz/yolov3-ship-detection,YOLOV3 ship detection,Rıdvan Elitemiz,,2020-12-24T15:19:30.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,junkanggu/airbus-ship-detection-with-tf-object-detection-api,Airbus Ship Detection With TF Object Detection API,Junkang Gu,,2020-11-20T03:43:26.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,nikhilrayaprolu1/airbus-mask-rcnn-and-coco-transfer-learning,Airbus Mask-RCNN and COCO transfer learning,Nikhil Rayaprolu,,2020-06-24T10:21:55.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,liranzxc/ship-detection-by-pytorch-segmentation,Ship detection by PyTorch segmentation,Liran NH,,2020-06-06T16:14:49.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,drobchak1988/understand-dataset,understand _dataset,Maksim Drobchak,,2020-02-12T23:44:27.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,drobchak1988/u-net-train-jaccard-distance,U-net_train_jaccard_distance,Maksim Drobchak,,2020-02-13T00:04:11.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,drobchak1988/u-net-dice-coef-with-binary-cross-loss,U-net_dice_coef_with_binary_cross_loss,Maksim Drobchak,,2020-01-31T19:47:04.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,drobchak1988/submission-comb-losses-diec-binary-crossentropy,submission_comb_losses_diec_binary_crossentropy,Maksim Drobchak,,2020-02-15T00:18:41.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,drobchak1988/u-net-dice-comb-binary-crossentropy,U-net_dice_comb_binary_crossentropy,Maksim Drobchak,,2020-02-14T21:31:33.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,drobchak1988/u-net-train-dice-coef,U-net_train_dice_coef,Maksim Drobchak,,2020-02-01T15:16:38.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,sohaibanwaar1203/u-net-train-your-data-set,U-net: train your data-set,Sohaib Anwaar,,2020-06-24T13:57:06.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,adldotori/basic-image-segmentation,[basic] Image Segmentation,adldotori,,2019-12-03T11:51:41.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,valcoder/ship-detection-using-keras-u-net,Ship Detection Using Keras U-Net,'val',,2019-04-19T00:08:52.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,litt4343/group-project,Group_Project,Victoria Littlefield,,2018-11-14T00:19:00.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,samlin001/mask-r-cnn-ship-detection-minimum-viable-model-2,Mask R-CNN Ship Detection Minimum Viable Model - 2,Sam Lin,,2018-11-17T21:54:27.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,jinglebot/eda-by-a-beginner,EDA by a Beginner,jinglebot,,2018-10-26T20:36:48.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,luksal/airbus-ship-detection-uxception-384x384,Airbus Ship Detection - UXception 384x384,Lukáš Salvet,,2018-11-15T12:14:47.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,liuchuanloong/airbus-ship-detection-challenge-map,Airbus Ship Detection Challenge(mAP),Daniel lau,,2018-10-30T12:44:59.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,rupeshs/basic-eda-train-data-v2,Basic EDA [Train data v2],Rupesh Sreeraman,,2018-10-14T06:30:07.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,ankitjaadoo/run-length-decoding-quick-start,Run Length Decoding - Quick Start,AnkitJaadoo,,2018-10-12T22:44:28.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,alexcampos4/eda-airbus-ship-detection-challenge,EDA - Airbus Ship Detection Challenge,Alex Campos,,2018-10-03T16:55:07.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,abhisheksss/model-ship-detection,model ship detection,abhishek singh,,2018-10-03T09:33:27.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,weilinku/modified-u-net-model-with-hyperparameter-tuning,Modified U-Net Model with hyperparameter tuning,Wei-Lin Ku,,2018-09-29T12:18:31.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,rupeshs/unet34,Unet34 ++,Rupesh Sreeraman,,2018-09-05T01:17:32.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,netzkontrast/convinient-train-test-repack-features,Convinient Train+Test - Repack (+Features),Michael Schimmer,,2018-09-02T10:09:31.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,grigorbezirganyan/detect-if-there-is-a-ship-by-cnn-base-model,Detect if there is a ship by CNN (base model) ,Grigor Bezirganyan,,2018-09-05T18:07:21.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,rloury/channel-difference-creation-of-bounding-box, Channel difference + creation of bounding box,Romain LOURY,,2018-08-23T07:55:43.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,qgh1223/airbus-yaeda-c49f76,Airbus  YAEDA c49f76,qiuguhao,,2018-08-17T07:45:06.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,markhacker/shippy-macshippyface,Shippy MacShippyface,MarkHacker,,2018-08-01T09:45:03.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbus-ship-detection
+,,,,,0,jsxyhelu2019/airbus-ship-detection-challenge-fastai-v2,Airbus Ship Detection Challenge FastAI V2,jsxyhelu2019,,2022-04-21T22:04:36.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,tanguanquan/detr-airbus-detection-attempt-2,DETR Airbus Detection (Attempt 2),Tan Guan Quan,,2021-12-19T12:54:54.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,aryadhorajiya/masks-to-bounding-boxes, masks to bounding boxes,Arya Dhorajiya,,2021-11-08T07:05:21.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,lukapaladin/segmentacija-plovila-projekt,Segmentacija plovila_projekt,Luka Paladin,,2021-08-27T09:35:49.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,dibyasadhukhan/masks-to-rotating-bounding-boxes-using-opencv,Masks to Rotating Bounding Boxes using OpenCV,Dibya Sadhukhan,,2021-05-31T05:14:11.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,siripornkongrat/sk-airbus-ship-detection,SK_AIRBUS_SHIP_DETECTION,SIRIPORN KONGRAT,,2021-05-01T07:37:04.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,siripornkongrat/airbus-ship-detection-sk,Airbus_ship_Detection_SK,SIRIPORN KONGRAT,,2021-04-30T05:42:52.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,chisanchensc/unet34-dice-0-87-rotation-testing,Unet34 (dice 0.87+) ROTATION TESTING,Chi San Chen,,2021-05-18T01:13:04.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,pedrobeltrnguerra/fastai-submission-cropping-imgs,FASTAI Submission cropping imgs,Pedro Beltrán Guerra,,2022-01-22T23:56:09.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,pedrobeltrnguerra/fastai-train-unet-over-256-crops-segmentation,FASTAI-Train-unet over 256 crops [segmentation],Pedro Beltrán Guerra,,2021-05-21T11:21:45.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,pedrobeltrnguerra/fastai-train-resnet-classification-256crops,FASTAI-Train-Resnet [classification] 256crops,Pedro Beltrán Guerra,,2021-08-31T11:34:09.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,chisanchensc/run-length-decoding-quick-start,Run Length Decoding - Quick Start,Chi San Chen,,2021-04-07T00:02:21.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,abhishekchopra/ship-detection-try,ship detection try,Abhishek Chopra,,2021-01-29T17:09:33.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,pfribeiro/u-net-using-gdice-and-sgdice,U-Net using GDICE and SGDICE,Pedro Ribeiro,,2020-11-18T17:12:15.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,smrutiranjanparida/yolov3-ship-detection,YOLOV3 ship detection,insmran,,2020-09-28T21:09:05.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,mathieuxboss/pytorch-eda-unet-from-scratch-finetuning,[PyTorch] - EDA - UNet - From Scratch & Finetuning,Imad SOUFYAN,,2020-07-14T07:42:39.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,mathieuxboss/classification-and-segmentation-fp,Classification and Segmentation (-FP),Imad SOUFYAN,,2020-07-13T11:33:02.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,hamiddd/masks-to-rotating-bounding-boxes-using-opencv,Masks to Rotating Bounding Boxes using OpenCV,hamid ahaggach,,2020-07-07T01:25:46.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,sermelo/poc-3-u-net,POC_3_U-NET,sergio merino,,2020-06-01T18:22:16.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,sermelo/poc-2-cnn,POC_2_CNN,sergio merino,,2020-05-28T20:27:25.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,sermelo/poc-2,POC_2,sergio merino,,2020-05-12T19:09:16.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy8/focal-tversky-loss,focal-tversky-loss,Qiuzy8,,2020-03-23T14:58:59.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/focal-tversky-loss2,focal-tversky-loss2,Qiuzy1,,2020-03-23T02:23:47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy8/resnet50focal,resnet50focal,Qiuzy8,,2020-03-23T13:42:47.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/focal-tversky-loss,focal-tversky-loss,Qiuzy1,,2020-03-22T15:19:39.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/resnet50unet-iou,resnet50unet-iou,Qiuzy4,,2020-03-22T12:34:44.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/focal-iou-loss,focal-iou-loss,Qiuzy2,,2020-03-22T04:18:50.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy8/qzy-iou,qzy-iou,Qiuzy8,,2020-03-21T15:38:13.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/u-net-tversky,U-Net tversky,Qiuzy1,,2020-03-21T15:30:30.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/focaldice-loss,focaldice-loss,Qiuzy2,,2020-03-21T14:02:56.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/sub-tversky-qzy,sub-tversky-qzy,Qiuzy2,,2020-03-21T10:34:40.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/qzy-tversky,qzy-tversky,Qiuzy4,,2020-03-21T02:31:43.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/qzy-tversky-40,qzy-tversky-40,Qiuzy2,,2020-03-21T02:04:00.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/1unet-iou-b,1unet-iou-b,Qiuzy2,,2020-03-20T13:30:26.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/unet-b,Unet-b,Qiuzy4,,2020-03-21T15:20:43.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy8/qzy-tversky,qzy-tversky,Qiuzy8,,2020-03-20T02:21:35.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/u-net-bceloss,U-Net bceloss,Qiuzy2,,2020-03-20T08:14:16.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy8/ceshitpu,ceshitpu,Qiuzy8,,2020-03-19T07:07:12.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/unet-dice,unet-dice,Qiuzy2,,2020-03-19T02:11:49.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/unet-1,unet-1,Qiuzy4,,2020-03-19T02:00:53.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,blainerothrock/u-net-model-with-dropout,U-Net Model with Dropout,Blaine Rothrock,,2020-03-16T13:37:16.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/newqzylast,newqzylast,Qiuzy1,,2020-03-15T07:22:22.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/u-net-model-with-abstract-layer-submission,U-Net Model with Abstract layer submission,Qiuzy4,,2020-03-14T08:27:18.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy8/fork-of-qzynet-profect1,Fork of qzynet_profect1,Qiuzy8,,2020-03-11T06:22:55.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/densenetlast,Densenetlast,Qiuzy2,,2020-03-11T04:35:24.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/inceptionv3last,Inceptionv3last,Qiuzy4,,2020-03-10T23:54:07.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/vgg16last1,Vgg16last1,Qiuzy4,,2020-03-11T03:05:08.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy4/vgg16last,vgg16last,Qiuzy4,,2020-03-10T10:57:09.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy2/resnet-50,Resnet-50,Qiuzy2,,2020-03-10T23:29:30.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/inception-resnetv2,inception-resnetv2,Qiuzy1,,2020-03-11T02:10:13.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/fork-of-qzynet-profect1,Fork of qzynet_profect1,Qiuzy1,,2020-03-10T09:34:53.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/jpu-unet-last,jpu_unet_last,Qiuzy1,,2020-03-05T05:37:08.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/vgg-16,vgg-16,Qiuzy1,,2020-03-09T02:09:40.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/unet-normal,unet-normal,Qiuzy1,,2020-01-30T08:28:26.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qiuzy1/resnet50,resnet50,Qiuzy1,,2020-01-28T05:41:09.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,bbrunch/kernel196109ac6c,kernel196109ac6c,Kyuhwan Cho,,2019-11-30T15:35:20.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,choi98/airbus-ship-detection,Airbus_ship_detection,choi98,,2019-11-30T09:04:53.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,esrever98/draft2,Draft2,d0r6y,,2019-12-01T11:43:26.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,starbuucks/first-approach,First Approach,starbuucks,,2019-11-25T19:36:55.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,maxboels/airbus-ship-detection-from-satellite-imagery,Airbus Ship Detection from Satellite Imagery,Maxence Boels,,2019-10-26T19:24:01.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,awater1223/unet-resnet34-for-ships,Unet_ResNet34_for_Ships,hoho,,2019-08-20T00:24:57.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,theneck/airbus-segmentation-fastai,Airbus Segmentation fastai,Danni Dromi,,2019-08-07T14:38:35.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,manchans/kernel55be1d36df,kernel55be1d36df,Sanjeev M,,2019-07-15T09:36:33.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,xuanhungho/ship-detection-u-net-model,Ship-Detection_U-Net-Model,Hồ Xuân Hùng,,2019-05-19T15:35:19.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,xfireberg/transfer-learning-for-boat-or-no-boat,Transfer Learning for Boat or No-Boat,FireBerg,,2019-05-13T06:05:16.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,valcoder/mask-r-cnn-ship-detection-minimum-viable-model-1,Mask R-CNN Ship Detection Minimum Viable Model - 1,'val',,2019-04-18T22:36:39.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,rijuldhir/img-seg-new,img-seg new,Rijul,,2019-04-20T03:57:09.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,anil777/transfer-learning-for-boat-or-no-boat,Transfer Learning for Boat or No-Boat,anil777,,2019-04-17T07:08:51.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,ingbiodanielh/airbus-ship-detection,Airbus Ship Detection ,Danielh Carranza,,2019-03-31T23:22:40.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,heerman/airbus-sat-image-seg-model-u-net-10b,AirBus Sat Image Seg Model U-Net 10b,heerman,,2019-01-16T20:50:36.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,phmagic/data-exploration,Data Exploration,phun,,2019-01-09T08:26:58.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,tongzeyud/kernel71cb77e66e,kernel71cb77e66e,ZeyuTong,,2018-12-17T19:45:32.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,cattnb/ece6258-final-project,ECE6258 - Final Project,Nate,,2018-12-07T04:38:21.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,johnnyjana730/ensemble-lafoss-and-keras-model,Ensemble lafoss and keras model,johnnyjana730,,2018-11-16T14:36:20.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qaiser43/using-resnet-detect-ship-or-no-ship,Using Resnet- Detect ship or no ship,Qaiser,,2018-11-14T10:04:41.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,mgsykora/airbus-mask-r-cnn,AirBus - Mask R-CNN,MartinSykora,,2018-11-13T21:50:31.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,qaiser43/resnet50-cnn-ship-or-no-ship,Resnet50 + CNN - ship or no ship,Qaiser,,2018-11-15T04:16:58.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,hrishiballal/modified-u-net-model,Modified U-Net model,Hrishi Ballal,,2018-11-13T18:34:17.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,heerman/airbus-sat-image-eda,AirBus Sat Image EDA,heerman,,2019-01-10T23:40:08.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,eyobwg/airbus-ship-detection,Airbus Ship Detection,Eyob,,2018-11-13T13:02:41.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,zitorelova/airbus-final-prediction-kernel-ensemble-1-and-11,Airbus Final Prediction Kernel Ensemble 1 and 11,Zito Relova,,2018-11-09T09:33:31.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,tianxi/unet34-submission-tta-new-data-c7f1c3,Unet34 submission (TTA + new data) c7f1c3,Tian Xi,,2018-10-29T10:26:50.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,lucasastorian/airbus-final-submission,Airbus Final Submission,Lucas Astorian,,2018-10-18T10:07:33.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,helibu/ship-detection-data-visualization-and-analysis,Ship detection data visualization and analysis,helibu,,2018-10-15T21:32:11.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,renatoh/airbus-ship-detection-read-data-pucp,Airbus-ship-detection read data PUCP,Renato,,2018-10-02T05:57:24.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,abbracadabra/various-loss,various loss,gong yu lin,,2018-09-28T14:41:09.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,mbonardi/transfer-learning-for-boat-or-no-boat-767abc-mab,Transfer Learning for Boat or No-Boat 767abc-mab,Martin Bonardi,,2018-09-26T22:25:35.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,ibouazizi/pytorch-dataset,PyTorch Dataset,ImedBouazizi,,2018-09-26T04:37:11.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,baranwal/ship-detection-challenge,Ship Detection Challenge,ShwetaBaranwal,,2018-10-02T06:46:32.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,maheshmeleti350/first-model,first_model,mahesh_meleti,,2019-05-03T03:23:58.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,peacebowl/airbus-challenge-noob-team,Airbus_Challenge_Noob_team,RajatAgarwal,,2018-09-08T13:01:53.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,henningyan/introduction-to-image-classification,Introduction to image classification,Yan Henning,,2018-09-11T02:07:15.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,mvsfnig/com-ml-airbus,COM - ML - Airbus,Marcos Vinícius,,2018-11-06T01:48:57.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection
+,,,,,0,karamelsutra/airbus-ship-detection-yet-another-eda-v2,Airbus Ship Detection: Yet Another EDA (v2),Karamel Sutra,,2018-10-16T09:39:16.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbus-ship-detection

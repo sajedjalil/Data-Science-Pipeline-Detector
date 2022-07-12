@@ -1,0 +1,14 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,group16/cracking-the-code-difficulty-1,Cracking the code: difficulty 1,Gilles Vandewiele,,2019-04-09T09:50:57.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,ciphertext-challenge-ii
+,,,,,0,group16/cracking-the-code-difficulty-3,Cracking the code: difficulty 3,Gilles Vandewiele,,2019-04-14T20:30:35.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ciphertext-challenge-ii
+,,,,,0,bsteenwi/cracking-the-code-difficulty-2,Cracking the code: difficulty 2,Bram Steenwinckel,,2019-04-09T12:27:14.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ciphertext-challenge-ii
+,,,,,0,jazivxt/difficulty-2,Difficulty 2,Daniel Preciado,,2019-03-31T07:40:09.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ciphertext-challenge-ii
+,,,,,0,jazivxt/the-crypto-keeper,The Crypto Keeper,Daniel Preciado,,2019-03-29T08:27:04.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ciphertext-challenge-ii
+,,,,,0,lemonkoala/cipher-difficulty-1-solution,Cipher Difficulty 1 Solution,Lem Ko,,2019-04-21T19:25:58.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ciphertext-challenge-ii
+,,,,,0,jshen97/a-glance-to-ciphertext-level-4,A Glance to Ciphertext Level 4,Jason Shen,,2019-03-28T07:34:34.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ciphertext-challenge-ii
+,,,,,0,kaggleuser58/how-to-get-started-with-level-4,How to get started with level 4,Robin Hood,,2019-04-03T15:58:42.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ciphertext-challenge-ii
+,,,,,0,ahmedehsan1993/aiproject,AIProject,Ahmed Ehsan,,2019-07-04T09:07:16.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ciphertext-challenge-ii
+,,,,,0,junkoda/finding-a-pattern-in-difficulty-2,Finding a pattern in difficulty 2,🐢 Jun Koda,,2019-04-02T21:00:20.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ciphertext-challenge-ii
+,,,,,0,qaziahmed/the-crypto-keeper,The Crypto Keeper,Qazi Ahmed,,2019-06-24T11:37:39.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ciphertext-challenge-ii
+,,,,,0,qaziahmed/qaziahmedpaper,QaziAhmedPaper,Qazi Ahmed,,2019-06-24T10:08:11.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ciphertext-challenge-ii
+,,,,,0,maxlincoln/circuitos-digitais-2,Circuitos Digitais 2,Maxwell Lincoln,,2019-12-01T00:33:42.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ciphertext-challenge-ii

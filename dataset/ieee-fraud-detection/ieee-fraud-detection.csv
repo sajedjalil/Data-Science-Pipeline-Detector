@@ -1,0 +1,837 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,artgor/eda-and-models,EDA and models,Andrew Lukyanenko,,2019-09-03T02:24:55.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1085,ieee-fraud-detection
+,,,,,0,kabure/extensive-eda-and-modeling-xgb-hyperopt,Extensive EDA and Modeling XGB Hyperopt,Leonardo Ferreira,,2019-08-06T15:21:20.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],963,ieee-fraud-detection
+,,,,,0,shahules/tackling-class-imbalance,Tackling  Class imbalance ,Shahules,,2019-07-19T16:07:57.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],519,ieee-fraud-detection
+,,,,,0,cdeotte/xgb-fraud-with-magic-0-9600,XGB Fraud with Magic - [0.9600],Chris Deotte,,2020-02-01T23:12:38.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],434,ieee-fraud-detection
+,,,,,0,jesucristo/fraud-complete-eda,Fraud complete EDA,Nanashi,,2019-07-18T07:27:34.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],431,ieee-fraud-detection
+,,,,,0,robikscube/ieee-fraud-detection-first-look-and-eda,🕵️ IEEE Fraud Detection - First Look and EDA,Rob Mulla,,2019-07-17T01:32:22.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],397,ieee-fraud-detection
+,,,,,0,alijs1/ieee-transaction-columns-reference,IEEE Transaction columns Reference,alijs,,2019-07-18T17:35:06.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],282,ieee-fraud-detection
+,,,,,0,davidcairuz/feature-engineering-lightgbm,Feature Engineering & LightGBM,David Cairuz,,2019-09-01T15:03:39.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],278,ieee-fraud-detection
+,,,,,0,nroman/lgb-single-model-lb-0-9419,LGB Single model [LB 0.9419],Roman,,2019-08-07T11:31:32.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],262,ieee-fraud-detection
+,,,,,0,nroman/eda-for-cis-fraud-detection,EDA for CIS Fraud Detection,Roman,,2019-09-17T09:49:33.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],261,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-gb-2-make-amount-useful-again,IEEE - GB-2 (make Amount useful again),Konstantin Yakovlev,,2019-08-23T08:13:51.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],257,ieee-fraud-detection
+,,,,,0,paulorzp/gmean-of-low-correlation-lb-0-952x,GMEAN of low correlation (LB: 0.952x),Paulo Pinto,,2019-09-19T01:22:33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],225,ieee-fraud-detection
+,,,,,0,xhlulu/ieee-fraud-xgboost-with-gpu-fit-in-40s,IEEE Fraud: XGBoost with GPU (Fit in 40s),xhlulu,,2019-07-24T15:32:39.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],216,ieee-fraud-detection
+,,,,,0,kabure/almost-complete-feature-engineering-ieee-data,~Almost~ complete Feature Engineering IEEE data,Leonardo Ferreira,,2019-08-08T01:28:44.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],214,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-internal-blend,IEEE - Internal Blend,Konstantin Yakovlev,,2019-08-31T23:47:11.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],198,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-fe-with-some-eda,IEEE - FE with some EDA,Konstantin Yakovlev,,2019-08-28T16:29:27.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],197,ieee-fraud-detection
+,,,,,0,vincentlugat/ieee-lgb-bayesian-opt,IEEE - LGB + Bayesian opt.,Vincent Lugat,,2019-08-04T15:20:50.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],196,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-lgbm-with-groupkfold-cv, IEEE - Lgbm with GroupKFold CV,Konstantin Yakovlev,,2019-08-30T09:49:48.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],185,ieee-fraud-detection
+,,,,,0,jazivxt/safe-box,Safe Box,Daniel Preciado,,2019-09-18T03:54:24.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],174,ieee-fraud-detection
+,,,,,0,tunguz/adversarial-ieee,Adversarial IEEE,Bojan Tunguz,,2019-08-02T20:20:54.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],164,ieee-fraud-detection
+,,,,,0,ysjf13/cis-fraud-detection-visualize-feature-engineering,CIS Fraud Detection(Visualize+Feature Engineering),Yasaman,,2019-09-14T14:28:44.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],149,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-fe-for-local-test,IEEE - FE for Local test,Konstantin Yakovlev,,2019-08-28T17:23:45.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],143,ieee-fraud-detection
+,,,,,0,mjbahmani/reducing-memory-size-for-ieee,Reducing  Memory Size for IEEE  ,MJ Bahmani,,2019-07-24T20:35:34.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],141,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-simple-lgbm,IEEE - simple LGBM ,Konstantin Yakovlev,,2019-08-28T20:44:06.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],131,ieee-fraud-detection
+,,,,,0,plasticgrammer/ieee-cis-fraud-detection-eda,IEEE-CIS Fraud Detection : EDA,plasticgrammer,,2019-10-02T08:58:38.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],129,ieee-fraud-detection
+,,,,,0,fchmiel/day-and-time-powerful-predictive-feature,Day and Time - powerful predictive feature?,FChmiel,,2019-07-18T10:24:43.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],129,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-data-minification,IEEE Data minification,Konstantin Yakovlev,,2019-09-17T09:39:38.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],127,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-cv-options,IEEE - CV options,Konstantin Yakovlev,,2019-08-26T10:45:29.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],123,ieee-fraud-detection
+,,,,,0,iasnobmatsu/xgb-model-with-feature-engineering,XGB model with feature engineering,Avocado Avogadro,,2019-08-13T12:44:02.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],123,ieee-fraud-detection
+,,,,,0,nroman/recursive-feature-elimination,Recursive feature elimination,Roman,,2019-08-02T10:45:33.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],122,ieee-fraud-detection
+,,,,,0,roydatascience/light-gbm-with-complete-eda,Light GBM with Complete EDA,Ashish Gupta,,2019-09-17T01:01:43.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],120,ieee-fraud-detection
+,,,,,0,cdeotte/eda-for-columns-v-and-id,EDA for Columns V and ID,Chris Deotte,,2019-10-04T17:28:13.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],118,ieee-fraud-detection
+,,,,,0,whitebird/a-method-to-valid-offline-lb-9506,A method to valid offline. lb 9506,bird,,2019-09-17T01:32:23.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,ieee-fraud-detection
+,,,,,0,inversion/ieee-simple-xgboost,IEEE Simple XGBoost,inversion,,2019-07-15T03:49:54.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,ieee-fraud-detection
+,,,,,0,tolgahancepel/lightgbm-single-model-and-feature-engineering,LightGBM Single Model and Feature Engineering,tolgahancepel,,2019-09-26T17:15:40.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],110,ieee-fraud-detection
+,,,,,0,mpearmain/extended-timeseriessplitter,Extended TimeSeriesSplitter,Mike Pearmain,,2019-07-22T06:38:39.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],106,ieee-fraud-detection
+,,,,,0,artkulak/ieee-fraud-simple-baseline-0-9383-lb,IEEE Fraud Simple Baseline [0.9383 LB],Art,,2019-07-16T08:16:47.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],106,ieee-fraud-detection
+,,,,,0,kanberburak/advanced-eda,Advanced EDA,Burak K.,,2022-01-23T08:00:19.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,ieee-fraud-detection
+,,,,,0,akasyanama13/eda-what-s-behind-d-features,EDA what's behind D features?,Akasyanama,,2019-09-08T14:27:05.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-basic-fe-part-1,IEEE - Basic FE - part 1,Konstantin Yakovlev,,2019-10-04T12:03:36.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],95,ieee-fraud-detection
+,,,,,0,paulorzp/gmean-of-light-gbm-models-lb-0-951x,GMEAN of Light GBM Models (LB: 0.951x),Paulo Pinto,,2019-09-09T12:27:43.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],94,ieee-fraud-detection
+,,,,,0,abazdyrev/keras-nn-focal-loss-experiments,Keras NN + Focal Loss experiments,Anton Bazdyrev,,2019-08-10T19:30:08.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],93,ieee-fraud-detection
+,,,,,0,viswajithkn/fraud-detection,Fraud Detection,Viswajith,,2019-09-27T05:17:31.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],93,ieee-fraud-detection
+,,,,,0,kevinbonnes/transactiondt-starting-at-2017-12-01,TransactionDT starting at 2017-12-01?,Kevin,,2019-07-17T08:08:49.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],86,ieee-fraud-detection
+,,,,,0,cdeotte/rapids-feature-engineering-fraud-0-96,RAPIDS - Feature Engineering - Fraud - [0.96],Chris Deotte,,2020-02-01T23:41:03.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,ieee-fraud-detection
+,,,,,0,timon88/lgbm-baseline-small-fe-no-blend,lgbm_baseline + small fe(no blend),Lyalikov Artyom,,2019-08-08T12:15:35.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,ieee-fraud-detection
+,,,,,0,tarunpaparaju/ieee-cis-competition-how-to-survive-the-shakeup,IEEE-CIS Competition : How to survive the shakeup,Tarun Paparaju,,2020-02-21T18:16:05.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],80,ieee-fraud-detection
+,,,,,0,alexanderzv/find-unique-clients,Find unique clients,Alex Zverkov,,2019-10-01T14:22:44.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,ieee-fraud-detection
+,,,,,0,ryches/keras-nn-starter-w-time-series-split,Keras NN Starter w/time-series split,ryches,,2019-08-08T17:20:27.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,ieee-fraud-detection
+,,,,,0,smerllo/identify-unique-cards-id,Identify unique cards ID,sm_erlo,,2019-10-04T20:09:04.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],78,ieee-fraud-detection
+,,,,,0,kirankunapuli/ieee-fraud-lightgbm-with-gpu,IEEE Fraud: LightGBM with GPU,Kiran Kunapuli,,2019-08-01T11:00:09.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,ieee-fraud-detection
+,,,,,0,tunguz/ieee-with-h2o-automl,IEEE with H2O AutoML,Bojan Tunguz,,2020-07-22T02:34:29.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,ieee-fraud-detection
+,,,,,0,suoires1/fraud-detection-eda-and-modeling,Fraud Detection EDA and Modeling,Thien Nghiem,,2019-09-15T03:32:16.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,ieee-fraud-detection
+,,,,,0,nicapotato/gpyopt-hyperparameter-optimisation-gpu-lgbm,Gpyopt Hyperparameter Optimisation - GPU LGBM,nicapotato,,2019-09-08T10:52:53.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,ieee-fraud-detection
+,,,,,0,roydatascience/ieee-fraud-detection-aggregating-lightgbm-models,IEEE Fraud Detection : Aggregating LightGBM Models,Ashish Gupta,,2021-06-05T01:00:48.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],71,ieee-fraud-detection
+,,,,,0,tarunpaparaju/ieee-cis-competition-fresh-eda-and-modeling,IEEE-CIS Competition : Fresh EDA and Modeling,Tarun Paparaju,,2020-02-10T12:07:08.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,ieee-fraud-detection
+,,,,,0,dataraj/eda-and-decision-tree-with-data-imbalancetackling,EDA and Decision Tree with Data ImbalanceTackling,Raju Kumar Mishra,,2019-07-18T23:20:27.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,ieee-fraud-detection
+,,,,,0,rajeshcv/unique-card-identifier-features-from-c-d-columns,Unique Card Identifier features from C & D Columns,Rajesh Vikraman,,2019-09-28T06:14:47.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,ieee-fraud-detection
+,,,,,0,pabloinsente/ieee-fraud-detailed-exploration-plots-all-var,IEEE Fraud - Detailed exploration/plots all var,Pablo Caceres,,2019-07-30T03:54:36.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,ieee-fraud-detection
+,,,,,0,alexeykupershtokh/safe-memory-reduction,Safe memory reduction,Alexey Kupershtokh,,2019-09-18T03:54:55.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-catboost-baseline-with-groupkfold-cv,IEEE - Catboost baseline with GroupKFold CV,Konstantin Yakovlev,,2019-08-31T21:20:13.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,ieee-fraud-detection
+,,,,,0,yw6916/lgb-xgb-ensemble-stacking-based-on-fea-eng,LGB/XGB +ensemble + stacking based on fea.eng,Raymond Wang,,2019-08-26T10:02:06.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,ieee-fraud-detection
+,,,,,0,carlolepelaars/ensembling-with-stacknet,Ensembling with StackNet,Carlo Lepelaars,,2019-09-03T06:58:59.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,ieee-fraud-detection
+,,,,,0,rajeshcv/understanding-v-columns,Understanding V columns ,Rajesh Vikraman,,2019-10-02T02:15:18.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,ieee-fraud-detection
+,,,,,0,robikscube/the-race-to-detect-fraud-final-lb,🏎️ The Race to Detect Fraud - Final LB,Rob Mulla,,2019-10-26T14:31:29.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,ieee-fraud-detection
+,,,,,0,terrypham/transactiondt-timeframe-deduction,TransactionDT Timeframe Deduction,Terry Pham,,2019-08-15T03:33:13.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,ieee-fraud-detection
+,,,,,0,jtrotman/ieee-fraud-time-series-heatmaps,IEEE Fraud - Time Series Heatmaps,James Trotman,,2019-08-31T19:55:20.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,ieee-fraud-detection
+,,,,,0,gunesevitan/ieee-cis-fraud-detection-lightgbm,IEEE-CIS Fraud Detection - LightGBM,Gunes Evitan,,2019-08-23T04:29:29.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,ieee-fraud-detection
+,,,,,0,yasagure/places-after-the-decimal-point-tell-us-a-lot,Places after the decimal point tell us a lot,yasagure,,2019-09-24T06:04:36.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,ieee-fraud-detection
+,,,,,0,vaishvik25/ensemble,Ensemble ?,Vaishvik,,2019-08-09T04:03:04.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,ieee-fraud-detection
+,,,,,0,iggisv9t/search-data-hidden-structure-with-autoencoder,Search data hidden structure with autoencoder,IggiSv9t,,2019-09-16T16:24:10.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,ieee-fraud-detection
+,,,,,0,haataa/complete-eda-with-background-knowledge,Complete EDA with Background Knowledge,haataa,,2019-08-31T17:17:15.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,ieee-fraud-detection
+,,,,,0,youwbpyr/ieee-cbt-9600-lb-solution,IEEE cbt 9600 LB solution,Orange,,2019-10-04T01:42:42.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,ieee-fraud-detection
+,,,,,0,pipboyguy/catboost-and-eda,Catboost and EDA,The Bird,,2019-08-28T14:42:21.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-ground-baseline-make-amount-useful-again,IEEE - Ground Baseline (make Amount useful again),Konstantin Yakovlev,,2019-08-22T22:23:18.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,ieee-fraud-detection
+,,,,,0,chizuchizu/japanese-python-first-code,(Japanese) Python first code,Chizuchizu,,2019-07-22T07:19:16.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-uid-detection-v6,IEEE - uid detection - v6,Konstantin Yakovlev,,2019-10-04T11:37:26.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,ieee-fraud-detection
+,,,,,0,yasagure/fraud-makers-may-be-earnest-people-about-browser,Fraud makers may be earnest people about browser,yasagure,,2019-09-24T03:54:28.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,ieee-fraud-detection
+,,,,,0,grazder/filling-card-nans,Filling card NaNs,Grazder,,2019-08-31T06:54:20.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,ieee-fraud-detection
+,,,,,0,jtrotman/ieee-fraud-adversarial-lgb-split-points,IEEE Fraud - Adversarial LGB Split Points,James Trotman,,2019-10-05T10:02:04.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,ieee-fraud-detection
+,,,,,0,madiyar/ieee-fraud-lightgbm-split-value-histogram,IEEE Fraud: LightGBM Split Value Histogram,Madiyar Aitbayev,,2019-09-30T09:28:56.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-v-columns-pv,IEEE - V columns pv,Konstantin Yakovlev,,2019-09-11T17:23:20.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,ieee-fraud-detection
+,,,,,0,ratan123/lgb-data-augmentation-starter,LGB+Data Augmentation Starter,ratan rohith,,2019-08-10T08:48:17.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,ieee-fraud-detection
+,,,,,0,vincentlugat/ieee-catboost-gpu-baseline-5-kfold,IEEE - Catboost GPU baseline (5 Kfold),Vincent Lugat,,2019-08-11T15:27:27.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,ieee-fraud-detection
+,,,,,0,wti200/xgboost-with-binning-and-imputaion,Xgboost with Binning and Imputaion,wti 200,,2019-08-22T11:15:21.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,ieee-fraud-detection
+,,,,,0,stocks/stacking-higher-and-higher,Stacking Higher and Higher,Mycroft Holmes,,2019-07-31T01:50:55.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,ieee-fraud-detection
+,,,,,0,rajeshcv/features-based-on-nulls-and-lgbm-model,Features based on Nulls and LGBM Model,Rajesh Vikraman,,2019-09-14T15:25:36.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,ieee-fraud-detection
+,,,,,0,jtrotman/ieee-fraud-lgb-split-points,IEEE Fraud - LGB Split Points,James Trotman,,2019-10-05T10:00:41.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,ieee-fraud-detection
+,,,,,0,nroman/tracking-experiments-with-neptune,Tracking experiments with neptune,Roman,,2019-07-31T09:20:08.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-columns-scaling,IEEE - columns scaling ,Konstantin Yakovlev,,2019-09-03T10:32:04.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,ieee-fraud-detection
+,,,,,0,muhakabartay/0-8518-what-proper-weights-give-ieee-int-blend,0.8518+ What proper weights give? IEEE-Int. Blend,Mukharbek Organokov,,2020-06-28T23:01:53.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-experimental,IEEE - Experimental,Konstantin Yakovlev,,2019-08-23T22:14:54.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,ieee-fraud-detection
+,,,,,0,vaishvik25/ieee-exploratory-data-analysis,IEEE Exploratory Data Analysis,Vaishvik,,2019-08-08T03:05:49.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,ieee-fraud-detection
+,,,,,0,arnocandel/python-datatable,python datatable,Arno Candel,,2020-02-05T07:41:26.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,ieee-fraud-detection
+,,,,,0,krishonaveen/xtreme-boost-and-feature-engineering,Xtreme Boost and feature engineering,Navaneetha Krishnan,,2019-08-12T15:46:12.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,ieee-fraud-detection
+,,,,,0,rajwardhanshinde/stackers-blend-top-4,Stackers Blend (Top 4%),Raj Shinde,,2019-07-25T10:27:25.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,ieee-fraud-detection
+,,,,,0,sunilsj99/fraud-detection-ieee,Fraud Detection - IEEE,Sunil Kumar Jain,,2019-09-13T06:25:33.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,ieee-fraud-detection
+,,,,,0,dott1718/ieee-userid-proxy,ieee userid proxy,dott,,2019-10-04T08:55:28.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-ground-baseline,IEEE - Ground Baseline,Konstantin Yakovlev,,2019-08-14T16:55:37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,ieee-fraud-detection
+,,,,,0,kabure/baseline-fraud-detection-eda-interactive-views,Baseline Fraud Detection EDA - Interactive views,Leonardo Ferreira,,2019-08-13T14:19:32.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-small-tricks,IEEE - Small tricks,Konstantin Yakovlev,,2020-04-17T23:13:52.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-card1-card6,IEEE - card1-card6,Konstantin Yakovlev,,2019-09-13T18:09:52.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,ieee-fraud-detection
+,,,,,0,ryches/keras-nn-autoencoder,Keras NN Autoencoder,ryches,,2019-08-25T18:45:39.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,ieee-fraud-detection
+,,,,,0,kirankunapuli/ieee-fraud-stacknet-on-gpu-lgb-xgb-cb,"IEEE Fraud: StackNet on GPU [LGB, XGB, CB]",Kiran Kunapuli,,2019-08-02T11:55:16.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,ieee-fraud-detection
+,,,,,0,fchmiel/fe-counting-duplicate-transactions,FE: Counting duplicate transactions,FChmiel,,2019-08-22T11:01:21.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,ieee-fraud-detection
+,,,,,0,yoongkang/beginner-s-random-forest-example,Beginner's Random Forest example,Yoong Kang Lim,,2019-08-08T17:59:09.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,ieee-fraud-detection
+,,,,,0,ljjblackpig/3-steps-to-reduce-memory-size-for-the-dataset,3 Steps to Reduce Memory Size for the Dataset,JJ,,2019-07-29T12:51:58.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,ieee-fraud-detection
+,,,,,0,fchmiel/eda-of-missing-data,EDA of Missing data,FChmiel,,2019-07-18T09:59:05.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,ieee-fraud-detection
+,,,,,0,navneetkr123/ieee-fraud-play-with-count-lightgbm,IEEE_fraud_Play_with_Count_lightGbm,Navneet Kumar,,2019-10-01T15:30:14.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,ieee-fraud-detection
+,,,,,0,pocketsuteado/adversarial-ieee-without-date,Adversarial IEEE (without date),pocket,,2019-07-16T02:45:06.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,ieee-fraud-detection
+,,,,,0,super13579/find-client-by-d1-and-card-leak-use-on-submit,Find client by D1 and Card (Leak use on submit),funkyboy,,2019-10-04T10:24:11.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,ieee-fraud-detection
+,,,,,0,ebouteillon/dating-dataset-creation-with-a-browser,Dating Dataset Creation with a Browser,Eric Bouteillon,,2019-09-05T01:07:56.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,ieee-fraud-detection
+,,,,,0,pavelvpster/ieee-fraud-features-interaction,IEEE Fraud: Features interaction,Pavel Prokhorov,,2019-09-30T05:40:41.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,ieee-fraud-detection
+,,,,,0,vaishvik25/nn-conv1d,NN Conv1D,Vaishvik,,2019-09-22T07:18:31.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,ieee-fraud-detection
+,,,,,0,pavelvpster/ieee-fraud-eda-lightgbm-baseline,"IEEE Fraud: EDA, LightGBM baseline",Pavel Prokhorov,,2019-10-03T16:37:31.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,ieee-fraud-detection
+,,,,,0,kingychiu/adversarial-validation-on-ieee-fe-with-some-eda,Adversarial Validation on IEEE - FE with some EDA ,nlgn,,2019-09-12T17:24:06.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,ieee-fraud-detection
+,,,,,0,tharug/ieee-fraud-detection,IEEE Fraud Detection,Tharindu Gangoda,,2019-10-02T07:11:02.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-check-noise,IEEE - Check Noise,Konstantin Yakovlev,,2019-08-15T17:29:17.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-cv-options-with-gap,IEEE - CV options (with gap),Konstantin Yakovlev,,2019-08-24T12:52:48.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,ieee-fraud-detection
+,,,,,0,tony321/almost-all-devices-info-usage-with-web-scraping,Almost All Devices Info Usage With Web-Scraping,Tony,,2019-08-14T15:09:25.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,ieee-fraud-detection
+,,,,,0,rodgomrod/very-simple-nn-in-pytorch-with-sparsetensor,Very Simple NN in PyTorch with SparseTensor,Rodrigo Gómez,,2019-08-23T07:46:40.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-ground-baseline-deeper-learning,IEEE - Ground Baseline (deeper learning),Konstantin Yakovlev,,2019-08-14T18:47:40.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,ieee-fraud-detection
+,,,,,0,mhviraf/reducing-memory-size-an-alternative,Reducing Memory Size - An alternative,Massoud Hosseinali,,2019-07-30T20:13:40.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,ieee-fraud-detection
+,,,,,0,silverstone1903/simple-xgboost-with-feature-interactions,Simple XGBoost with Feature Interactions,silverstone,,2019-10-03T18:31:59.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,ieee-fraud-detection
+,,,,,0,zikazika/could-we-predict-fraud-solely-based-on-nan,Could we predict Fraud solely based on NAN?,Noah Weber,,2019-08-28T09:48:30.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,ieee-fraud-detection
+,,,,,0,hamditarek/ensemble-0-9429,Ensemble ? 0.9429,Tarek Hamdi,,2019-07-24T15:58:10.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,ieee-fraud-detection
+,,,,,0,rajwardhanshinde/stacking,Stacking?,Raj Shinde,,2019-07-22T04:33:28.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,ieee-fraud-detection
+,,,,,0,ab90hi/a-time-series-perspective-and-insights,A Time-Series perspective and insights,ab90hi,,2019-07-19T04:16:24.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,ieee-fraud-detection
+,,,,,0,raddar/adversarial-ieee,Adversarial IEEE,raddar,,2019-09-25T11:53:18.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,ieee-fraud-detection
+,,,,,0,philippsinger/simple-post-processing-trick-to-boost-score,Simple post-processing trick to boost score,Psi,,2019-10-07T14:03:18.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,ieee-fraud-detection
+,,,,,0,whitebird/ieee-internal-blend,IEEE - Internal Blend,bird,,2019-09-29T09:17:20.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,ieee-fraud-detection
+,,,,,0,grantgasser/fraud-detection,Fraud Detection,Grant Gasser,,2019-08-19T00:34:47.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,ieee-fraud-detection
+,,,,,0,stocks/under-sample-with-multiple-runs,Under-sample with multiple runs,Mycroft Holmes,,2019-07-31T22:32:39.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,ieee-fraud-detection
+,,,,,0,philippsinger/blend-the-zoo-fraudsquad,Blend The Zoo + FraudSquad,Psi,,2019-10-07T07:50:40.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,ieee-fraud-detection
+,,,,,0,artkulak/use-only-5-of-0-labels-get-negligible-lb-drop,Use only 5% of 0 labels -> Get negligible LB drop,Art,,2019-07-18T13:18:53.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,ieee-fraud-detection
+,,,,,0,robikscube/baseline-catboost-feat-importance,Baseline Catboost & Feat Importance,Rob Mulla,,2019-07-16T13:53:56.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,ieee-fraud-detection
+,,,,,0,scirpus/50-features-with-target-encoding,50 features with Target Encoding,Scirpus,,2019-09-14T08:25:23.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,ieee-fraud-detection
+,,,,,0,zikazika/should-you-care-about-imputations,Should you care about imputations?,Noah Weber,,2019-08-17T16:45:25.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,ieee-fraud-detection
+,,,,,0,trolukovich/vxxx-features-eda,Vxxx features EDA,Alexander Antonov,,2019-08-17T11:46:39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,ieee-fraud-detection
+,,,,,0,nicapotato/tree-split-feature-selection-lgbm-gpu-earlystop,Tree Split Feature Selection - LGBM GPU EarlyStop,nicapotato,,2019-08-06T18:19:05.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,ieee-fraud-detection
+,,,,,0,rimon57/fraudster-with-light-gbm,Fraudster with Light GBM,Md. Rezaul Karim,,2020-02-12T11:23:30.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,ieee-fraud-detection
+,,,,,0,tuttifrutti/isolating-a-cardid,Isolating a cardID,tuttifrutti,,2019-10-04T05:10:06.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,gunesevitan/ieee-cis-fraud-detection-dependency-check,IEEE-CIS Fraud Detection Dependency Check,Gunes Evitan,,2019-09-25T18:53:52.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,nolank/internal-blend-0-9525,Internal Blend  0.9525,BNake,,2019-09-08T19:01:40.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,yasagure/contrive-usage-of-v-features-in-official-xgboost,Contrive usage of V-features in official XGBoost,yasagure,,2019-09-24T08:01:56.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,georsara1/d15-seems-important-remove-it,D15 seems important: Remove it,Georgios Sarantitis,,2019-08-13T08:39:42.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,yasagure/classify-country-of-addr2-addr2-usage,classify country of addr2 --addr2 usage,yasagure,,2019-08-15T10:12:18.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,danofer/ieee-fraud-new-features-export-0-94-lb,IEEE Fraud : New Features Export [0.94+ LB],Dan Ofer,,2019-09-18T13:48:44.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,hamditarek/deep-learning-for-ieee-fraud-detection-problem,Deep Learning for IEEE Fraud Detection Problem,Tarek Hamdi,,2019-07-17T04:03:15.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ieee-fraud-detection
+,,,,,0,manishkc06/dealing-with-imbalanced-class,Dealing with imbalanced class,Manish KC,,2020-07-16T04:57:40.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,ieee-fraud-detection
+,,,,,0,kimchiwoong/simple-eda-ensemble-for-xgboost-and-lgbm,Simple EDA & Ensemble for XGBoost and LGBM,kimchiwoong,,2019-09-17T00:12:38.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,ieee-fraud-detection
+,,,,,0,pradeepmuniasamy/extensive-eda-fe-models-ieee-fraud-detection,Extensive EDA + FE + Models - IEEE Fraud Detection,Pradeep Muniasamy,,2019-11-05T08:46:33.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,ieee-fraud-detection
+,,,,,0,ryches/forecasting-fraud-with-prophet,Forecasting Fraud With Prophet,ryches,,2019-08-30T19:27:17.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,ieee-fraud-detection
+,,,,,0,pavelvpster/ieee-fraud-feature-selection-rfecv,IEEE Fraud: Feature selection (RFECV),Pavel Prokhorov,,2019-08-21T10:48:57.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,ieee-fraud-detection
+,,,,,0,jingobox/filling-nan-based-on-the-patterns,Filling NaN based on the patterns,Aleksandr Kosolapov,,2019-10-03T04:17:35.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,ieee-fraud-detection
+,,,,,0,tuttifrutti/creating-features-from-d-columns-guessing-userid,Creating features from D columns (guessing userID),tuttifrutti,,2019-09-20T23:48:16.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-hour-solo-feature,IEEE - Hour solo feature,Konstantin Yakovlev,,2019-09-12T08:08:03.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,ieee-fraud-detection
+,,,,,0,stocks/u2-can-be-a-winner,U2 Can be a Winner,Mycroft Holmes,,2019-07-29T00:51:51.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,ieee-fraud-detection
+,,,,,0,burgalon/ieee-fraud-detection-fast-ai-deep-learning-nn,ieee fraud detection fast.ai deep learning NN,Alon Burg,,2019-07-22T19:29:35.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,ieee-fraud-detection
+,,,,,0,konradb/can-we-beat-it,can_we_beat_it,Konrad Banachewicz,,2019-07-15T21:23:39.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,ieee-fraud-detection
+,,,,,0,jeongwonkim10516/ieee-cis-fraud-detection-eda,IEEE-CIS Fraud Detection-EDA,Kingthegarden,,2021-02-22T07:31:42.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,jonas0/ieee-fraud-detection-tutorial,IEEE fraud detection tutorial,jonas albrecht,,2020-12-12T22:29:12.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,mervebdurna/ieee-fraud-detection-model,IEEE Fraud Detection - MODEL,Merve Bayram Durna,,2020-06-01T07:20:04.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,zeus75/easy-blending,Easy_Blending,Claudio Giorgio Giancaterino,,2019-09-28T13:36:39.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,kjkr73/fraud-detection-light-gbm-and-visualizations,Fraud-Detection Light-gbm and Visualizations,KJKR,,2019-10-03T14:37:30.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,ppicheta/anomaly-detection-with-autoencoders,Anomaly detection with autoencoders,Piotr Picheta,,2019-08-25T13:26:52.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,jolasa/stacking-higher-every-time-0-9427,Stacking Higher Every Time - 0.9427,JasonX,,2019-07-24T09:54:45.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,tunguz/standalone-train-and-test-preprocessing,Standalone train and test preprocessing,Bojan Tunguz,,2019-07-15T22:48:51.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,smerllo/lgbm-baseline-features-importance,LGBM baseline + Features Importance,sm_erlo,,2019-07-16T00:35:48.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ieee-fraud-detection
+,,,,,0,enesztrk/fraud-detection-with-machine-learning,Fraud Detection with Machine Learning,Enes Öztürk,,2021-12-16T15:38:13.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,sukrullex/lightgbm-with-downsampling,LightGBM with Downsampling,Sukru Yavuz,,2019-10-08T14:58:06.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,kurupical/postprocess-19th-place-solution-team,postprocess (19th place solution team-クソザコちゃうねん),kurupical,,2019-10-05T09:11:50.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,akasyanama13/magic-that-worked-for-me,Magic that worked for me,Akasyanama,,2019-10-04T06:06:06.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,gpreda/ieee-cis-fraud-detection-eda-model,IEEE-CIS Fraud Detection EDA & Model,Gabriel Preda,,2019-09-25T08:23:52.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,sundaramoorthyks/base-model-level-0,Base model-LEVEL-0,Sundara Moorthy K S,,2020-02-18T07:53:37.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,gisbee/comparing-different-validation-split-strategies,Comparing different validation split strategies,OwenFlanagan,,2019-08-12T08:32:04.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,ryches/keras-nn-starter-shuffle-split,Keras NN Starter shuffle split,ryches,,2019-08-07T03:28:34.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,danofer/xgboost-using-optuna-fastauc-features,xgboost using optuna +FastAUC + Features,Dan Ofer,,2019-07-25T13:13:05.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,ryches/ieee-ensemble-xgboost-lgbm-w-earlystopping,IEEE Ensemble XGBoost + LGBM w/earlystopping,ryches,,2019-07-16T04:34:38.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,ieee-fraud-detection
+,,,,,0,omerparlak/6-different-scenarios-and-final-model,6- Different Scenarios and Final Model,Omer Parlak,,2022-03-11T18:29:46.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,kirshoff/fraud-detection-lightgbm-xgboost,Fraud_Detection_LightGBM_XGBoost,Fatih Fidan,,2021-09-15T02:00:56.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,mervebdurna/ieee-fraud-detection-eda,IEEE Fraud Detection - EDA,Merve Bayram Durna,,2020-06-01T06:52:35.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,muhakabartay/ieee-push-0-9530-all-weighted,IEEE Push 0.9530+ ALL Weighted,Mukharbek Organokov,,2020-06-28T23:03:01.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,raghaw/ensemble-on-fire,Ensemble on fire,Raghawendra Singh,,2019-08-09T09:54:44.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,superant/color-of-fraud,Color of Fraud,Ant 🐜,,2019-07-30T16:17:10.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,chizuchizu/japanese-extraction-of-importance,(Japanese)Extraction of importance,Chizuchizu,,2019-08-07T03:50:44.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,phoenix9032/ieee-fraud-my-first-ml-trial,IEEE Fraud  -My First ML trial,Doomsday,,2019-07-25T10:17:10.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,ieee-fraud-detection
+,,,,,0,chandrimad31/ieee-competition-predicting-fraud-with-lightgbm,IEEE Competition : Predicting Fraud with LightGBM,Chandrima D,,2020-06-08T06:52:21.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,mustafabozkurt/fraud-final,Fraud_final,Mustafa Bozkurt,,2020-05-24T12:21:03.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,rsmits/keras-cnn-1d-fraud-detector,Keras CNN 1D Fraud Detector,Robin Smits,,2019-10-01T17:37:58.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,ragnar123/e-d-a-and-baseline-mix-lgbm,E.D.A AND BASELINE MIX LGBM,Martin Kovacevic Buvinic,,2019-09-13T16:06:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,yasagure/id-31-data-usage-doubtful-chrome-user,id_31 data usage -- doubtful chrome user,yasagure,,2019-08-12T07:37:50Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,bootiu/eda-ieee-cis,EDA - IEEE CIS,navi,,2019-09-12T11:31:10.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,jeongyoonlee/kaggler-s-autolgb,Kaggler's AutoLGB,Jeong-Yoon Lee,,2019-08-05T07:14:00.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,stocks/can-we-beat-it,can_we_beat_it,Mycroft Holmes,,2019-07-17T01:07:25.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ieee-fraud-detection
+,,,,,0,gogo827jz/deep-learning-fraud-with-magic,Deep Learning Fraud with Magic,Yirun Zhang,,2020-09-04T14:20:48.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,mustafabozkurt/fraud-base,FRAUD BASE,Mustafa Bozkurt,,2020-05-15T00:42:51.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,dyyalex/what-feature-we-should-create-maybe-pnn-can-do-it,What feature we should create?Maybe PNN can do it ,Alex David,,2019-10-04T06:37:33.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,hatunina/ieee-fraud-detection-v-columns-fe, IEEE Fraud Detection V columns FE,hatunina,,2019-09-23T06:28:56.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,makin119/ieee-fraud-detection-novice,IEEE fraud detection (novice ),Frank_Li,,2019-09-30T05:41:20.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,maherdeebcv/ml-navigator-standardizes-knowledge-exchange,ML-Navigator standardizes knowledge exchange,Maher Deeb,,2019-10-02T21:20:16.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,aussie84/time-series-eda-of-fraud-variables,Time Series EDA of Fraud Variables,Rafael,,2019-09-03T11:54:46.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,sundaramoorthyks/eda-feature-engineering,EDA & Feature Engineering,Sundara Moorthy K S,,2019-08-22T04:22:43.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,yasagure/how-do-we-treat-with-similar-columns-v319-v321,How do we treat  with similar columns? -V319-V321,yasagure,,2019-08-16T13:37:42.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,wti200/xgboost-and-class-imbalance,Xgboost and class imbalance,wti 200,,2019-08-17T20:03:38.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,tanyildizderya/ieee-exploratory-data-analysis,IEEE Exploratory Data Analysis,Derya Tanyıldız,,2019-09-11T10:44:37.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,superant/eda-loop,EDA loop,Ant 🐜,,2019-08-04T13:20:04.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,aaaanhnht/lazy-eda-isfraud-distributions,Lazy EDA - 'isFraud' Distributions,Tuấn Anh,,2019-07-25T04:13:41.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,terminate9298/ieee-fraud-baseline,IEEE Fraud Baseline,Kaustubh Pathak,,2019-08-06T09:38:18.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,andres137/gpu-cb-xgb-lgb-reduce-memory,"GPU (CB, XGB, LGB) + Reduce_memory ",AndresHernández-Serna,,2019-07-18T14:48:45.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,priteshshrivastava/ieee-cis-fraud-random-forest-0-90-lb,[IEEE-CIS fraud] Random Forest [0.90 LB],Pritesh Shrivastava,,2019-09-08T14:18:36.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,hallohj/fraud-detection-simple-eda,Fraud Detection simple EDA,HyunJung Song(Korea),,2019-07-16T14:54:08.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ieee-fraud-detection
+,,,,,0,omerparlak/1-fraud-detection-eda,1- Fraud Detection EDA,Omer Parlak,,2022-03-11T17:19:24.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,durgeshrao9993/eda-exploratory-data-analysis-on-titanic,EDA [Exploratory Data Analysis] on Titanic,Durgesh Rao,,2022-01-28T18:38:42.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,jonas0/reduce-memory-usage-tutorial,Reduce memory usage tutorial,jonas albrecht,,2021-06-26T08:53:41.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,jt120lz/vxxx-importance,vxxx importance,liuze,,2019-09-25T01:32:33.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,kyakovlev/ieee-data-minification-private,IEEE - Data Minification Private,Konstantin Yakovlev,,2019-09-18T14:12:47.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,a03102030/eda-for-train-data-and-lgbm-lr,EDA for train data and LGBM /LR,Jensen,,2019-09-17T05:41:40.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,aussie84/quick-xgb-model-diagnostics,Quick XGB + Model Diagnostics,Rafael,,2019-09-06T13:20:40.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,yasagure/classify-devices-device-info-usage,classify devices--device info usage,yasagure,,2019-08-18T08:53:47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,superant/categorical-map,Categorical map,Ant 🐜,,2019-08-05T08:23:12.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,virajbagal/feature-selection-using-null-importance,Feature Selection using Null importance,Viraj Bagal,,2019-08-02T07:26:52.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,lopost/ieee-fraud-analysis,IEEE Fraud analysis,Lorenz Postner,,2019-08-26T14:13:05.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,xhlulu/ieee-fraud-efficient-grid-search-with-xgboost,IEEE Fraud: Efficient Grid Search with XGBoost,xhlulu,,2019-07-30T16:13:47.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,robikscube/ieee-fraud-plotting-every-feature-by-date,IEEE Fraud - Plotting Every Feature by Date ,Rob Mulla,,2019-07-18T17:31:10.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,aussie84/eda-starter-wip,EDA Starter (WIP),Rafael,,2019-08-29T12:33:30.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ieee-fraud-detection
+,,,,,0,omerparlak/5-different-scenarios,5- Different Scenarios,Omer Parlak,,2022-03-11T18:29:14.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,kyakovlev/tps-mar-adversarial-validation,TPS - MAR - Adversarial Validation,Konstantin Yakovlev,,2021-03-03T01:58:14.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,kickitlikeshika/fraud-detection-with-92-acc,Fraud Detection with 92% Acc,Ahmed Khaled,,2020-11-30T12:22:59.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,loveall/fraud-detection-using-a-neural-autoencoder,Fraud Detection Using a Neural Autoencoder,Gokagglers ,,2020-07-15T01:11:07.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,mustafabozkurt/fraud-corr,fraud_Corr,Mustafa Bozkurt,,2020-05-21T23:10:30.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,pramod44/fraud-detection-with-lightgbm,Fraud Detection With LightGBM,Pramod Gaikwad,,2020-01-12T19:02:02.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,sarmat/lgbm-permutation-importance,LGBM permutation importance,Mykhailo Nedodai,,2019-09-14T22:40:48.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,errolpereira/lgbm-blend,LGBM blend,Errol Pereira,,2019-09-29T03:39:48.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,kulkarnivishwanath/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Vishwanath R Kulkarni,,2019-10-01T09:04:45.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,kulsumsiddique/eda-ieee-cis,EDA IEEE-CIS,Kulsum Siddique,,2019-09-04T05:54:05.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,farzadhabibi/fraud-detection-feature-eng-selection-xgb-eda,Fraud Detection:Feature Eng. & Selection-XGB-EDA,Farzad Habibi,,2019-09-14T17:25:29.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,priteshshrivastava/ieee-cis-blend,[IEEE CIS] Blend,Pritesh Shrivastava,,2019-08-30T19:21:39.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,ppicheta/ieee-fraud-category-encoders-benchmark,[IEEE-Fraud] Category encoders benchmark,Piotr Picheta,,2019-08-30T13:49:32.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,timdzh93/catboost-baseline-with-correlated-features-filter,Catboost baseline with correlated features filter,Timur Dzhumakaev,,2019-10-02T20:44:41.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,mshahabi/ieee-fraud-randomforrest-eda,IEEE-Fraud-RandomForrest-EDA,Mehrdad,,2019-08-29T03:41:40.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,sagar100rathod/ready-pickeled-data-set-of-reduced-size,Ready Pickeled Data set of Reduced Size,Sagar Rathod,,2019-08-16T05:39:48.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,tikedameu/anomaly-detection-with-autoencoder-pytorch,Anomaly Detection with AutoEncoder (pytorch),motacapla,,2019-07-22T14:59:37.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,makalesta2/fraud-detection-randomforest,Fraud-Detection-RandomForest,Gürbüz KAYHAN,,2019-07-29T08:30:56.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ieee-fraud-detection
+,,,,,0,omerparlak/3-choose-base-model,3- Choose Base Model,Omer Parlak,,2022-03-11T18:14:42.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,chitwanmanchanda/fraud-detection-using-pca-and-xgboost,Fraud_Detection_Using_PCA_and_XGBoost,Chitwan Manchanda,,2021-10-09T14:13:47.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,divyareddyyeruva/tabnet-fraud-detection,TabNet_fraud_detection,divya,,2020-12-03T14:20:13.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,pavan1512/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Pavan Reddy,,2020-11-06T12:30:45.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,sonannguyenngoc/fraud-detection-using-a-neural-autoencoder,[Fraud]- Detection Using a Neural Autoencoder,so NaN,,2020-09-14T10:51:30.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,indranilbhattacharya/private-lb-be-like,Private LB be like,Indranil Bhattacharya,,2019-10-01T05:25:36.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,holenwu/interesting-findings-in-the-d-features, Interesting findings in the D features,Holen Wu,,2019-09-24T13:25:05.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,scirpus/50-parameters-with-frequency-analysis,50 parameters with frequency analysis,Scirpus,,2019-09-19T11:04:00.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,silantev/vesta-does-0-s-in-cxx-features-mean-nan,Vesta: does 0's in Cxx features mean NaN?,Boris Silantev,,2019-09-05T08:12:20.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,ys19931006/ieee-infernal-blend,IEEE-infernal Blend,yshan,,2019-09-05T08:46:43.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,eligijus/lgb-boosting-using-a-custom-pipeline,LGB boosting using a custom pipeline,Eligijus Bujokas,,2019-09-29T19:32:06.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,amirhmi/a-comperhensive-guide-to-fraud-detection,A Comperhensive Guide to Fraud Detection,Amirhossein Ahmadi,,2019-08-28T10:22:31.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,kimchiwoong/simple-fast-check-xgboost-prediction-performance,Simple & Fast Check XGBoost Prediction Performance,kimchiwoong,,2019-09-04T14:51:00.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,nanditab35/ieee-fraud-detect-eda,ieee_fraud_detect_eda,Nandita B,,2019-09-02T05:37:28.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,sanjusci/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Sanju Sci,,2019-07-30T05:14:54.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,trolukovich/univariate-eda-with-seaborn,Univariate EDA with seaborn,Alexander Antonov,,2019-08-19T11:35:05.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,prazhant/h2o-automl-tutorial-ieee-cis-fraud-detection,H2o AutoML tutorial - IEEE-CIS Fraud Detection,Ritisha Jaiswal,,2019-07-26T05:12:13.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,virajbagal/ieee-eda-dropping-cols-and-xgb-with-earlystopping,"IEEE EDA, Dropping cols and XGB with earlystopping",Viraj Bagal,,2019-07-20T02:32:55.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,takedown/starter-code-fraud-detection,Starter code Fraud detection,FkrForThink,,2019-08-06T14:01:28.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,hatunina/ieee-fraud-detection-first-puzzle,IEEE Fraud Detection First Puzzle,hatunina,,2019-07-19T18:10:45.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,ricardtrinchet/ieee-eda-random-forest-model,IEEE EDA & Random Forest Model,Ricard Trinchet,,2019-07-22T12:04:16.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ieee-fraud-detection
+,,,,,0,omerparlak/4-random-under-sampling-scores,4- Random Under Sampling Scores,Omer Parlak,,2022-03-11T17:20:16.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,omerparlak/2-correlation-analysis-and-feature-importance,2- Correlation Analysis and Feature Importance,Omer Parlak,,2022-03-11T17:19:45.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,thinlcl/19021324-xgboost,19021324_XGBoost,Thiên Lực Lê,,2022-01-08T15:40:21.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,gersonrabelo/initial-eda-for-fraud-detection,Initial EDA for Fraud Detection,Gerson Rabelo,,2021-10-03T04:29:13.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,possiblemanjr/anomaly-detection-unsupervised-learning,Anomaly Detection _ Unsupervised Learning,SeungWon Kim,,2020-07-28T05:54:40.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,prathikkaundinya/ieee-fraud-detection-project,IEEE-Fraud-Detection-Project,Prathik Kaundinya,,2020-07-15T02:47:34.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,naimensucares/fraud,fraud,Naimens Ucares,,2020-06-28T07:02:46.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,polmast/demin-av-eee-cis,Demin-AV_EEE_CIS,Alexandre Demin,,2019-12-01T17:46:36.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,govind555/ieee-eda-lgbm,IEEE EDA + LGBM,govindam,,2019-10-14T19:37:12.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,carpediemamigo/atboost-tuned-by-skopt-on-gpu-publ-0-9424,сatboost_tuned_by_Skopt_on_GPU_PubL-0.9424,Alexander Lyubchenko,,2019-10-03T13:41:48.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,somnambwl/automatic-adversarial-validation,Automatic adversarial validation,somnambWl,,2019-09-26T13:45:24.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,frank518/install-mysql-for-eda,install-mysql-for-eda,Frank Jing,,2019-09-13T08:22:25.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,cyberia/heatmaps-contingency-tabs,heatmaps_contingency_tabs,cyberia,,2019-09-09T15:23:15.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,kartikathale/fraud-detection-eda-basic-logistic-regression,Fraud Detection EDA basic Logistic Regression,Kartik Athale,,2019-09-16T17:31:32.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,jrw2200/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Andrew W,,2019-09-25T04:29:55.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,scirpus/a-wee-bit-of-stats,A wee bit of stats,Scirpus,,2019-08-30T15:54:51.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,plasticgrammer/ieee-cis-fraud-detection-gbdt,IEEE-CIS Fraud Detection : gbdt,plasticgrammer,,2019-10-23T12:48:30.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,satyakapoor/ieee-fraud-detection-eda,IEEE fraud detection EDA,Satya kapoor,,2020-04-13T19:43:57.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,superant/golden-tree-tune,✨ Golden Tree Tune ✨,Ant 🐜,,2019-09-04T10:15:58.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,jackdry/ieee-fraud-detection-exploratory-data-analysis,IEEE fraud detection: exploratory data analysis,Jack Dry,,2019-08-14T16:29:00.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,a18974761777/kernel38a9909bae,kernel38a9909bae,Linger,,2019-07-27T13:02:06.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,snakayama/xgboost-using-optuna,xgboost using optuna,makogarei,,2019-07-18T16:46:03.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,wajihullahbaig/grouped-feature-accuracy,Grouped feature accuracy,WajihullahBaig,,2019-07-19T10:53:25.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,takanobu0210/ieee-visualization-and-xgboost-model,IEEE Visualization and xgboost model,takapy,,2019-07-20T06:35:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ieee-fraud-detection
+,,,,,0,ujjwalchowdhury/ieee-preprocessing,IEEE Preprocessing,Ujjwal Chowdhury,,2022-06-30T04:31:50.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,chitwanmanchanda/fraud-detection-using-xgboost,Fraud_Detection_Using_XGBoost,Chitwan Manchanda,,2021-10-09T13:45:57.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,aakashveera/kernel-sample,kernel sample,Aakash V,,2020-09-15T12:42:59.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,oddtrick/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,jean,,2020-06-07T19:49:43.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,jafarib/ieee-cis-fraud-detection-good-score,IEEE-CIS Fraud Detection-good-score,Jason Jafari,,2020-04-26T07:28:38.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,xzdatascience/eda-feature-engineering-prediction,EDA + Feature Engineering + Prediction,xzDS,,2019-10-02T16:28:12.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,rohan9889/best-params-lightgbm-ieee-fraud,Best params LightGBM IEEE Fraud,Rohan Aggarwal,,2019-09-26T00:02:21.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,ananthreddy/ensemble-algorithms,Ensemble Algorithms,Ananth Reddy,,2019-09-28T19:27:30.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,gautham11/catboost-xgboost-lightgbm-ensemble,"Catboost, XGBoost, LightGBM Ensemble",GauthamKumaran,,2019-09-25T19:24:09.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,xwxw2929/lgb-kfold-newfeatures,lgb+kfold+newfeatures,Aicanghai_Smile,,2019-09-24T14:01:44.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,atikahamed/cis-fraud-detection,CIS Fraud Detection,Md. Atik Ahamed,,2019-09-30T05:26:52.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,aleksthegreat/keras-t-sne,Keras T-SNE,Aleksthegreat,,2019-09-29T20:27:37.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,xwhuaduo/reduce-memory-usage-by-64-before-analysis,Reduce memory usage by 64% before analysis,Wei Xu,,2019-08-29T02:06:22.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,trolukovich/comprehensive-data-size-optimization-guide,Comprehensive data size optimization guide,Alexander Antonov,,2019-08-22T19:45:56.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,syumei/fraud-detection-using-a-neural-autoencoder,Fraud Detection Using a Neural Autoencoder,takahashihideaki,,2019-08-20T09:35:04.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,adldotori/fraud-detection-eda,fraud_detection  EDA,adldotori,,2019-09-15T07:27:24.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,luisfredgs/ieee-cis-fraud-detection-catboost,IEEE-CIS Fraud Detection CatBoost,Luís Fred,,2019-08-18T21:40:55.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,mreeb2/ieee-python,IEEE_Python,Melinda Reeb,,2019-08-15T20:28:34.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,grroverpr/ieee-catboost-baseline,IEEE Catboost Baseline,Prince Grover,,2019-07-26T18:19:27.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,yskn67/productcd-x-identfy-eda,ProductCD x identfy EDA,yskn67,,2019-07-19T09:08:31.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,danofer/ieee-fraud-features-xgboost-0-934-lb,IEEE Fraud - Features + XGboost [0.934 LB],Dan Ofer,,2019-07-21T11:05:45.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,vchulski/ieee-simple-models-comparison,IEEE Simple Models Comparison,Vadim Shestopalov,,2019-07-16T08:09:18.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ieee-fraud-detection
+,,,,,0,luckypen/credit-card-fraud-detection,Credit Card Fraud Detection,Penny Li,,2022-02-25T22:13:47.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,antonsruberts/basic-preprocessing,Basic Preprocessing,Antons Rubert,,2021-11-16T11:48:02.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,sveneschlbeck/ieee-fraud-detection-with-random-forest,IEEE Fraud Detection with Random Forest,Sven Eschlbeck,,2021-09-18T20:01:36.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,sonannguyenngoc/fraud-extensive-eda-and-modeling-xgb-hyperopt,[Fraud]Extensive EDA and Modeling XGB Hyperopt,so NaN,,2020-08-31T13:03:47.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,manishkc06/model-optimization-with-random-forest,Model Optimization With Random forest,Manish KC,,2020-08-17T02:24:53.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,fatiherik/ieee-fraud,ieee-fraud,Fatiherik,,2020-08-18T12:16:51.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,yurimuniz/predicting-frauds-step-by-step,Predicting frauds step by step,Yuri Muniz,,2020-07-22T03:40:19.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,daishu/10th-submission-part-daishu,10th-submission-part-daishu,daishu,,2019-10-17T12:01:37.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,naikparag/multi-model-xgb-average-fraud-detection,Multi model XGB average- Fraud Detection,ParagNaik,,2019-10-05T14:36:48.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,bhavesh09/by-product,By-product,Bhavesh Ghodasara,,2019-09-19T22:27:19.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,aliakay8/mixed-kernel-ieee-miss-val-fea-eng-base-models,"[Mixed Kernel]-IEEE Miss Val, Fea Eng, Base Models",Ali Akay,,2019-09-11T10:00:59.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,nikhilkasturi/lightgbm-top-features-94-38,LightGBM + Top features - 94.38,Nikhilesh Kasturi,,2019-08-29T22:15:44.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,igauty/gmean-of-light-gbm-models-lb-0-9484,GMEAN of Light GBM Models (LB: 0.9484),Vishwadeep,,2019-08-28T08:53:57.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,drexpz/ieee-xgboost-baseline-feature-import-0-92x,"IEEE - XGBoost, baseline  + feature import (0.92X)",Ivan de los Santos,,2019-09-01T10:03:26.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,yuewangmoophy/fraud-detection-adaboost,Fraud Detection : AdaBoost,Yue Wang,,2019-08-23T02:29:14.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,med92amine/keras-ensure-class-balenced-batches-while-training,Keras:Ensure class-balenced Batches while training,Amine 🇩🇿 ,,2019-08-22T12:54:00.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,daviddobr/fastai-2019-functional-tabular-template,fastai 2019 functional tabular template,David Dobrinskiy,,2019-08-19T10:38:12.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,bvenkatreddy/beeram,Beeram,beeram,,2019-09-03T14:16:53.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,zakrea/a-neural-network-approach-for-fraud-detection,A Neural Network Approach For Fraud Detection,Zakrea Almansouri,,2019-08-08T23:52:15.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,toto07/modeling-xgb-hyperopt-submit-test,Modeling XGB Hyperopt- submit test,Toto07,,2019-09-03T05:21:19.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,yoongkang/beginner-memory-reduction-techniques,Beginner memory reduction techniques,Yoong Kang Lim,,2019-08-05T03:07:28.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,moonlight314/baseline-model-of-ieee-cis-fraud-detection,Baseline Model of IEEE-CIS Fraud Detection,Yi Chang Sic,,2019-08-06T11:19:54.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,mhviraf/why-i-wouldn-t-use-reduce-mem-usage,Why I wouldn't use reduce_mem_usage() ,Massoud Hosseinali,,2019-07-30T19:04:02.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,nicapotato/auc-performance-vs-training-size-gpu-catboost,AUC Performance vs. Training Size - GPU CatBoost  ,nicapotato,,2019-07-30T00:03:10.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,phoenix9032/gensim-lda-for-creating-new-features-my-ml-trial,Gensim LDA for Creating New Features -My ML Trial,Doomsday,,2019-07-25T20:59:00.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,nicapotato/fraud-shap-xgboost,Fraud SHAP XGBOOST,nicapotato,,2019-07-29T18:42:43.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,nagamanir/ieee-fraud-detection-eda,IEEE Fraud Detection - EDA,Nagamani Rayudu,,2019-07-25T09:20:43.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,danofer/ieee-with-h2o-automl-fork,IEEE with H2O AutoML - Fork,Dan Ofer,,2019-07-17T09:15:22.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,indranilbhattacharya/simple-eda-3d-plots,Simple EDA + 3D plots,Indranil Bhattacharya,,2019-07-16T11:35:37.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,rstogi896/lightgbmx,lightgbmx,DEEPAK KUMAR RASTOGI,,2019-07-25T10:52:54.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,takaishikawa/adversarial-ieee-remove-transactiondt,Adversarial IEEE: Remove TransactionDT,Tak,,2019-07-16T08:24:43.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ieee-fraud-detection
+,,,,,0,duongoku/data-fraud,data_fraud,duongoku,,2022-01-08T05:19:30.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,anqiwu85/eda-and-xgboost-on-fraud-detection,EDA and XGBoost on Fraud Detection,Anqi Wu,,2021-11-13T11:37:28.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,homiarafarhana/frud-detection-3,Frud detection_3,Homiara Farhana,,2021-06-17T18:12:37.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,pyonemyatmaw/ieee-cis-xgb-lgb,IEEE-CIS_XGB_LGB ,Pyone Myat Maw,,2021-05-04T23:34:05.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,jirakst/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Stanislav Jirák,,2020-10-22T18:48:06.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,ersinsen/fraud-3-eda,Fraud_3- (EDA) ,livetoworldlife,,2020-08-12T16:06:34.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,affanamin/is-it-fraud-transaction-eda-fe-and-lgb,"Is it Fraud transaction? [EDA, FE and lgb]",affanamin,,2020-07-11T18:28:42.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,vivekwadhwani/complete-pipeline-on-ieee-fraud-data,Complete Pipeline on IEEE Fraud data,vivekwadhwani,,2020-06-30T21:06:44.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,muhammetcimci/credit-card-fraud-lightgbm-with-gridsearch,Credit_Card Fraud LightGBM with GridSearch ,Muhammet Cimci,,2020-06-09T22:08:48.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,ismailkaya83/xgboost-gridsearch-kfold,XGBoost_GridSearch_Kfold,ismail kaya,,2020-06-06T23:01:11.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,ismailkaya83/lightgbm-gridsearch,LightGBM_gridsearch,ismail kaya,,2020-06-06T22:55:13.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,mustafabozkurt/fraud-pca,fraud PCA,Mustafa Bozkurt,,2020-05-16T03:45:16.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,halilhp/pred-fraud,Pred.-Fraud,Halil Hopa,,2020-05-13T14:56:00.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,slatawa/basic-data-cleaning-with-lgb-xgboost,Basic data cleaning with LGB/XGBOOST,SL,,2020-03-06T03:59:55.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,weikai/data-preprocessing-random-forest-gbdt-xgboost,"Data preprocessing. Random forest, GBDT, XGBoost.",Weikai Mao,,2019-11-20T20:09:07.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,davidcairuz/data-1-2-the-power-of-feature-engineering,DATA 1.2 | The power of Feature Engineering,David Cairuz,,2019-10-30T13:54:16.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,muke5hy/modeling-and-training-ieee-cis-fraud-detection,Modeling and Training: IEEE-CIS Fraud Detection,Mukesh Yadav,,2019-10-29T07:26:00.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,sheriytm/find-client-by-d1-and-card-leak-use-on-submit,Find client by D1 and Card (Leak use on submit),YaGana Sheriff-Hussaini,,2019-10-05T08:40:38.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,yushg123/mostly-feature-selection,Mostly feature selection,Ayush Goel,,2019-10-03T08:21:13.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,xwxw2929/data-preparation,Data Preparation,Aicanghai_Smile,,2019-10-01T13:33:42.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,rohan9889/final-submission-ieee-fraud,Final Submission - IEEE Fraud,Rohan Aggarwal,,2019-09-26T08:46:09.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,yokotani/ieee-fraud-detection-feature-engineering,IEEE Fraud Detection (Feature Engineering),Yokotani,,2019-10-05T12:51:40.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,kamaljain77/cis-fraud-detection-gmean,CIS Fraud Detection - GMEAN,Kamal Jain,,2019-09-22T08:24:51.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,darshanpatel11/iee-fraud-detection,IEE Fraud Detection,Darshan Patel,,2019-09-27T09:55:30.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,pipboyguy/smooth-like-peanut-butter-ieee,Smooth like peanut butter IEEE,The Bird,,2019-09-27T15:01:59.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,fluxqubit/ieee-fraud,IEEE fraud,Ashish Kumar Tiwari,,2019-09-18T17:44:33.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,orianao/kernel3b4ba15f54,kernel3b4ba15f54,Oriana Oniciuc,,2019-09-29T21:14:47.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,nikhilbalwani/fraud-detection-xgb,Fraud-detection-XGB,Nikhil Balwani,,2019-09-15T16:22:07.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,alexandrerays/simple-logistic-regression-baseline,Simple Logistic Regression Baseline,Alexandre Ray,,2019-09-14T21:02:44.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,mohammadeslim/kernel48c73d1a3d,kernel48c73d1a3d,Mohammad Isleem,,2019-09-05T06:53:42.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,cyberia/eda-logisticreg,EDA_Logisticreg,cyberia,,2019-09-09T13:56:38.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,venkig/ieee-step-by-step-implementation,IEEE Step by Step Implementation,Venkatadri Naidu Gunturu,,2019-09-01T03:56:17.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,scirpus/what-happened,What happened,Scirpus,,2019-09-01T12:33:30.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,iameleven/ieee-cis-fraud-detection-datareport-yao,IEEE-CIS Fraud Detection-DataReport-YAO,Yao11,,2019-08-29T02:10:41.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,barindersingh/fraud-detection,Fraud detection,Barinder Singh,,2019-09-15T03:33:24.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,pavelvpster/ieee-fraud-feature-aggregates,IEEE Fraud: Feature aggregates,Pavel Prokhorov,,2019-08-23T14:34:28.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,yuewangmoophy/fraud-detection-xgboost,Fraud Detection : XGBoost,Yue Wang,,2019-08-25T23:13:29.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,plsjlq/ieee-cis-fraud-detection-test-a-no-fraud,IEEE-CIS Fraud Detection(test A:no Fraud),Denny Hwang,,2019-08-26T01:35:02.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,osprangers/parallel-pandas-dataframe-memory-optimization,Parallel Pandas Dataframe memory optimization,Olivier,,2019-08-22T10:59:46.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,themonologue/higher-aggregation-best-kernel-score-0-9471,Higher Aggregation - Best Kernel Score (0.9471),Manraj Singh,,2019-08-15T15:38:37.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,shubham219/basic-eda,Basic EDA,ShubhamChauhan,,2019-08-18T17:00:47.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,nanditab35/ieee-fraud-detection-feature-reduction,IEEE Fraud Detection-Feature Reduction,Nandita B,,2019-08-24T04:16:13.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,bootiu/simple-lightgbm-ieee-cis,Simple LightGBM - IEEE CIS,navi,,2019-08-10T02:38:35.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,novuskazai/basic-data-analysis-kernel-for-cis-fraud-detection,Basic Data Analysis Kernel for CIS Fraud Detection,Kaz-U,,2019-08-13T07:32:51.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,marcocarnini/building-a-first-model,Building a First Model,MarcoCarnini,,2019-08-05T15:01:24.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,nirite/need-help-with-tensorflow-kernel-public,need help with Tensorflow kernel (public),Nirite,,2019-07-28T10:50:35.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,cemyusufayd/reconstructing-data-with-variational-autoencoder,Reconstructing Data with Variational Autoencoder,cem y ayd,,2019-07-21T20:46:24.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,saurabh502/adversarial-validation-ieee,Adversarial validation- IEEE,Saurabh Kumar,,2019-07-18T05:02:54.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,mastergogo/fraud-detection,Fraud Detection,Ashish Tiwari,,2019-07-18T11:58:02.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,pouryaayria/let-data-speak-quick-eda,"Let Data Speak, Quick EDA",PIR,,2019-07-17T01:33:19.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,shivamanhar/fraud-detection,Fraud-Detection,Shiva Manhar,,2019-07-22T11:22:49.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ieee-fraud-detection
+,,,,,0,drbeane/ieee-fraud-feature-engineering,IEEE Fraud Feature Engineering,Robbie Beane,,2022-04-07T16:20:33.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,derrickmwiti/xgboost-classification-with-dask, XGBoost Classification with Dask,Derrick Mwiti,,2022-02-09T13:19:14.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,rocklen/final-ieee-cis-fraud-detection,Final IEEE-CIS Fraud Detection,Prakhar Jain,,2022-02-04T18:30:53.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,yuki1920/kaggle,kaggle課題,yuki1920,,2022-01-26T06:05:45.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,atenagm/ieee-fraud-detection-eda-ml,IEEE-Fraud Detection EDA&ML,Atena Mohammadi,,2021-11-15T07:01:01.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,makatronium/fraud-detection-xgboost-with-gpu,Fraud Detection XGBoost with GPU,Maksudur Rahman,,2021-06-15T07:31:35.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,akashmathur2212/comprehensive-ieee-cis-eda,Comprehensive IEEE CIS EDA,Akash Mathur,,2021-05-22T11:58:39.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,elifkaraktk/ieee-cis-fraud-detection-eda,IEEE-CIS Fraud Detection (EDA),Elif Karakutuk,,2021-05-26T08:01:20.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,hyeonjin6/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Hyeonjin Kim,,2021-02-23T08:46:51.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,thejravichandran/fraud-detection-v16-new-pipleline-and-testing,fraud detection v16 --> New pipleline and testing,thej ravichandran,,2021-02-21T10:54:00.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,thejravichandran/fraud-detection-v10-pipeline,fraud detection v10 --> pipeline,thej ravichandran,,2021-01-30T22:57:23.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,grishmamodi/fraud-prediction-eda, Fraud Prediction EDA,Grishma Modi,,2020-10-22T08:27:44.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,vaishnavkapil/ieee-cis-fraud-detection,IEEE-CIS fraud detection,kapil vaishnav,,2020-11-01T11:03:22.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ajaykgp12/ieee-cis-fraud-detection-eda-lgb,IEEE-CIS Fraud Detection_EDA_LGB,Ajay,,2020-10-05T19:11:51.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,yashsaxena2003/basic-scikit-learn-fraud-detection,Basic Scikit-Learn Fraud Detection,Yash Saxena,,2020-08-02T02:10:43.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ichijo/use-lightgbm,Use lightGBM,hiroyuki ichijo,,2020-07-29T05:59:24.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,vikramdutt/ieee-with-h2o-automl,IEEE with H2O AutoML,Vikram Dutt,,2020-07-22T05:33:14.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,vivekwadhwani/hyper-parameter-tuning-on-rfc,Hyper Parameter tuning on RFC,vivekwadhwani,,2020-07-12T05:30:20.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,vivekwadhwani/rfc-on-ieee-fraud-detection,RFC on IEEE Fraud Detection,vivekwadhwani,,2020-06-23T19:14:36.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,vernondsouza123/eda-feature-engineering-and-anomaly-detection,"EDA, Feature Engineering and Anomaly Detection",Vernon D Souza,,2020-06-28T18:28:13.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ismailkaya83/lightgbm-gridsearch-kfold,LightGBM_gridsearch_kfold,ismail kaya,,2020-06-06T22:57:13.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ismailkaya83/catboost-gridsearch-kfold,Catboost_gridsearch_kfold,ismail kaya,,2020-06-06T22:53:16.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,alex478/ieee-cis-fraud-detection,IEEE-CIS_Fraud_Detection_тренировка,Alex478,,2020-12-10T16:15:10.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,vedato/card-fraud,Card Fraud,vozkan,,2020-05-29T03:39:21.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,darwinwin/adversarial-validation-on-ieee-fe-with-some-eda,Adversarial Validation on IEEE - FE with some EDA ,darwinwin,,2020-02-29T13:19:21.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,darwinwin/eda-and-models,EDA and models,darwinwin,,2020-02-29T12:24:11.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,darwinwin/h2o-automl-tutorial-ieee-cis-fraud-detection,H2o AutoML tutorial - IEEE-CIS Fraud Detection,darwinwin,,2020-03-01T05:31:44.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,darwinwin/ieee-with-h2o-automl,IEEE with H2O AutoML,darwinwin,,2020-02-26T01:58:17.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,darwinwin/ieee-with-h2o-automls,IEEE with H2O AutoMLs,darwinwin,,2020-02-26T01:58:10.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,homelesssandwich/ml-challenge-day,ML Challenge Day,Oliver Wilkins,,2020-01-22T17:27:29.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ahmedehabessa/kernel-1,kernel 1,Ahmed Ehab,,2020-01-14T14:53:23.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,sishihara/ieee-decimal-point,ieee_decimal_point,u++,,2019-12-02T05:27:01.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,deepak1011/fraud-detection,Fraud Detection,Deepak,,2019-11-05T13:17:03.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,surananitish/tarp-neural-network,TARP Neural Network,Nitish Surana,,2019-11-05T11:21:12.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,weifangai/a-top-100-2-solution-with-stacking-0-93,A Top 100 (2%) Solution with Stacking (0.93),Weifang Ai,,2019-11-03T04:50:33.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,davidcairuz/data-1-1-the-power-of-feature-engineering,DATA 1.1 | The power of Feature Engineering,David Cairuz,,2019-10-30T13:17:51.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jirakst/ieee-fraud-detection,IEEE Fraud Detection,Stanislav Jirák,,2020-08-16T11:49:41.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,tuttifrutti/find-users-multiple-cardids-from-the-same-user,Find Users (multiple cardIDs from the same user),tuttifrutti,,2019-10-04T19:09:16.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,rayan2015/ieee-fraud-feature-interactions,IEEE Fraud: Feature interactions,Mohammed AlGhzawi,,2019-09-30T18:09:48.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,xwxw2929/model-training,Model Training,Aicanghai_Smile,,2019-10-01T17:01:50.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jt120lz/simple-lr,simple_lr,liuze,,2019-09-27T10:15:10.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,nanditab35/ieee-fraud-combine-2models-regression,ieee_fraud_combine_2models_regression,Nandita B,,2019-09-27T15:02:19.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,alexgomes3/fraud-detection-dataprep,Fraud_Detection_dataprep,AlexandreGomes,,2019-09-22T17:57:11.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jacobgreen4477/9519-normal,9519_normal,Jacob(현종열),,2019-09-20T17:49:30.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jaehyeongan/ieee-fraud-detection-lightgbm-0-938,IEEE Fraud Detection LightGBM-0.938,JAEHYEONG AN,,2019-09-22T15:10:14.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,rafay12/is-it-really-fraud,Is it really Fraud?,Rafay,,2019-09-17T10:00:58.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,errolpereira/exploring-identity-dataset,Exploring Identity Dataset.,Errol Pereira,,2019-09-24T09:47:19.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,hogehogewhale/new-features-lightgbm,New Features + LightGBM,Tsuchiya,,2019-09-18T11:22:55.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,priteshshrivastava/ieee-pipeline-2-c-model-c-xgboost,[IEEE Pipeline] 2.c Model C - XGBoost,Pritesh Shrivastava,,2019-09-08T13:50:34.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,priteshshrivastava/ieee-pipeline-2-b-model-b-random-forest,[IEEE Pipeline] 2.b Model B - Random Forest,Pritesh Shrivastava,,2019-09-08T13:50:26.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,priteshshrivastava/ieee-pipeline-3-stacking-with-meta-model,[IEEE Pipeline] 3 - Stacking with meta model,Pritesh Shrivastava,,2019-09-08T14:10:06.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,priteshshrivastava/ieee-pipeline-0-reduce-memory-size,[IEEE Pipeline] 0 - Reduce Memory Size,Pritesh Shrivastava,,2019-09-08T05:31:55.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,salahuddinemr/kernel3ce3b28d5a,kernel3ce3b28d5a,Salahuddin T. Abu Shaar,,2019-09-07T06:33:06.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,baghirli/ieee-fraud-detection-fe-lightgbm-lb-0-929,IEEE - Fraud Detection + FE + LightGBM [LB 0.929],Orkhan Baghirli,,2019-10-04T07:50:41.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jzhangj/kernel5afa366333,kernel5afa366333,Junjie Zhang,,2019-09-11T00:02:42.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,dunaizhuan/test-on-timesplit,Test on timeSplit,yunhu ye,,2019-09-06T02:53:40.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,nicktg/an-intro-to-automunge,an intro to Automunge,Nicholas Teague,,2019-09-22T20:52:38.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,suoires1/ieee-boruta-feature-elimination,IEEE - Boruta Feature Elimination,Thien Nghiem,,2019-09-04T05:40:42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,mubasharnazarawan/cis-fraud-detection,CIS Fraud detection,Mubashar Nazar Awan,,2019-09-15T07:09:18.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,gmannella/eda-focused-on-finding-correlation-with-isfraud,EDA focused on finding correlation with isFraud,Gianluca Mannella,,2019-08-27T21:27:16.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ioohooi/eda-modeling-post-models-analysis-are-ongoing,EDA (modeling + post models analysis are ongoing),Efim Golovin,,2019-09-11T17:54:15.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,wrecked22/xgboost-tutorial,XGBoost Tutorial ,Shashank Gupta,,2019-08-30T13:23:23.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,shadowfish/why-not-use-whether-has-identity-or-not-feature,Why not use whether has identity or not feature?,liubo,,2019-08-23T09:29:46.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jacksmengel/fraud-detection,Fraud Detection,Jack Mengel,,2019-09-03T13:38:46.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,laurencelin/xgboost-and-eda,Xgboost and EDA,lawrence,,2021-08-22T14:43:50.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,a45632/ieee-fastai-v4,IEEE FastAI v4,Eric Vos,,2019-09-29T06:22:55.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,gyani78/top-10-question-s-answer-by-eda-ieee-fraud,Top 10 question's answer by EDA_IEEE_Fraud,Gyanendra Singh,,2019-09-12T20:53:56.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,wajihullahbaig/up-sampling-on-every-hour,Up-sampling on every hour,WajihullahBaig,,2019-07-30T12:53:53.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,alongigi/data-exploration,Data Exploration,Alon,,2019-07-25T15:02:10.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,cchadha/what-can-we-quickly-infer,What can we quickly infer?,Chirag,,2019-07-22T23:37:27.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,tikedameu/simple-visualization-via-t-sne-pca-tuncatedsvd,Simple Visualization via t-SNE/PCA/TuncatedSVD,motacapla,,2019-07-21T13:39:27.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,om1042/ieee-lgb-bayesian-opt-pca,IEEE - LGB + Bayesian opt.+ PCA,ompanda,,2019-07-18T08:46:24.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,jakubczakon/how-to-add-experiment-management-to-your-kernels,How to add experiment management to your kernels,Jakub Czakon,,2019-07-19T06:54:16.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,virajbagal/ieee-complete-eda-of-all-features,IEEE complete EDA of all features,Viraj Bagal,,2019-07-16T18:08:02.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,ryches/trying-to-remove-toxic-features,Trying to remove toxic features,ryches,,2019-07-16T18:00:09.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ieee-fraud-detection
+,,,,,0,peretang/notebook317f8b1708,notebook317f8b1708,Pere Tang,,2022-06-15T10:35:10.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-lgbm-optuna-all-features,[ABA]IEEE-CIS: LGBM Optuna (All features),Araba Budu,,2022-04-07T18:23:07.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,gamzebayir/fraud-detection-eda,Fraud Detection EDA,Gamze BAYIR,,2022-04-27T11:21:27.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,arnaslaurinaviius/beat-my-score,Beat my score ,Šarūnas Laurinavičius,,2022-03-12T11:29:01.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,doananh020418/creditcardfrauddetection,CreditCardFraudDetection,chinhcp,,2022-01-09T04:35:39.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,duongoku/train-fraud,train_fraud,duongoku,,2022-01-08T12:55:00.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,nguyenmaicg/btl-notebook,BTL_notebook,NguyenMai,,2022-01-06T09:15:04.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,flafuji/fraud-detection-eda-model-top20-explained,Fraud Detection-EDA/Model/Top20 Explained 💥,flafuji,,2021-12-04T21:12:26.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,gutierrezmatias/tp3-2c2021-parte-ii,TP3 2c2021 Parte II,Matias Gutierrez,,2021-11-28T18:45:18.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,gutierrezmatias/tp3-2c2021-parte-i,TP3 2c2021 Parte I,Matias Gutierrez,,2021-11-28T18:45:35.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,imranozdemiryilmaz/fraud-detection,Fraud Detection,imran ozdemir yilmaz,,2021-09-01T12:49:40.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,burakaslann/fraud-detection-final,fraud_detection_final,Burak Aslan,,2021-08-22T19:46:12.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,lima21bd/fraud-detection-with-92-95-accuracy,Fraud Detection With 92.95% Accuracy,Khadija Akter Lima,,2021-06-18T02:56:57.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,raisulju/fraud-detection-with-catboost-lgb-5-fold-cv-94,Fraud Detection with CatBoost+LGB+5_fold CV (94%),Raisul Islam Shuvo,,2021-06-18T22:06:04.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,haiduc/new-92,new_92,Pham Duc Hai,,2021-07-01T09:25:26.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,huysonnguyen/ieee-cis-fraud-detection-part-01,IEEE-CIS Fraud Detection Part 01,Huy-Son Nguyen,,2021-06-10T21:46:49.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ntdat0411/fraud-detection-xgb-lgbm,Fraud Detection - XGB & LGBM,Đạt Nguyễn,,2021-06-11T00:23:07.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,drbeanesp21/moon-final-ieee-cis-fraud-detection, [Moon_FINAL] IEEE-CIS fraud Detection  ,DrBeaneSP21,,2021-05-02T18:12:36.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,anonyhost/ieee-eda-v-id,IEEE - EDA V-ID,anonyhost,,2021-05-23T16:04:51.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,evgeniipavlusenko/model-for-project,Model for project,Evgenii Pavlusenko (132947),,2021-03-18T07:21:22.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,pavitrasprabhu/eda-on-fraud-detection-dataset-in-python,EDA on Fraud Detection dataset in Python,PSP,,2021-02-01T22:46:48.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,thejravichandran/fraud-detection-v4-small-data-experiments,fraud detection v4 --> small data experiments,thej ravichandran,,2021-01-04T15:15:02.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,thejravichandran/fraud-detection-v3-cleaning-and-rf,fraud detection v3 --> cleaning and rf,thej ravichandran,,2020-12-30T09:43:33.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,dorsaalh/using-transaction,using transaction,Dorsaalh,,2021-01-15T08:57:24.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,juanjohernandez/1-fraud-detection-memory-reduction,1. FRAUD_DETECTION: Memory Reduction,Juanjo Hernandez,,2020-12-21T15:37:07.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,aakashveera/ieee-modelling,IEEE Modelling,Aakash V,,2020-12-12T16:39:16.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,shiva20/ieee-fraud-lgb-split-points,IEEE Fraud - LGB Split Points,Shivam Chauhan,,2020-12-06T18:05:22.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,fanbyprinciple/ieee-cis-fraud-fastai-v4,IEEE-CIS Fraud FastAi v4 ,Ami,,2020-11-14T08:08:22.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ajaykgp12/ieee-cis-fraud-detection-lgb-with-fe,IEEE-CIS Fraud Detection_LGB_WITH_FE,Ajay,,2020-10-10T20:37:11.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,kappilan/ieee-cis-fraud-detection-eda-and-model-building,IEEE-CIS Fraud Detection EDA and Model building,CK,,2020-09-28T08:46:13.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,fatiherik/ieee-fraud-2,ieee-fraud-2,Fatiherik,,2020-08-22T18:30:55.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,brijesh0808/ieee-eda-visualization,ieee eda visualization,Brijesh Goyal,,2020-07-09T21:12:14.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,muhammetcimci/fraud-lightgbm-kfold-and-gridsearch,Fraud_LightGBM_Kfold_and_GridSearch,Muhammet Cimci,,2020-06-07T10:48:34.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ismailkaya83/xgboost-gridsearch,XGBoost_GridSearch,ismail kaya,,2020-06-06T22:59:30.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ismailkaya83/catboost-gridsearch,Catboost_gridsearch,ismail kaya,,2020-06-06T22:49:55.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,vedato/cardfraud-fillna-ml,cardfraud_fillna_ML,vozkan,,2020-05-21T20:49:29.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,halilhp/fraud-base,FRAUD BASE,Halil Hopa,,2020-06-09T18:18:45.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,sukruaras/fraud-detection-sukru01,Fraud Detection Sukru01,sukru aras,,2020-05-25T16:35:47.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,marloz/sankey-diagrams,Sankey Diagrams,Martynas Lozys,,2020-05-08T09:06:23.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,homydata/fraud-detection-homy-agg,Fraud Detection Homy agg,Mustafa YILDIRIM,,2020-05-22T15:19:37.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,slatawa/first-model-submission-with-basic-eda,First Model Submission with basic EDA,SL,,2020-02-20T08:51:48.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,amukhoti/web-club-kaggle-session-3-eda,Web Club Kaggle Session 3-EDA,Arunava Mukhoti,,2020-01-31T13:10:13.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,alessandrot/ml-challenge-day,ML Challenge Day,AlessandroT,,2020-01-22T12:03:39.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,kleytontorikai/kaggle-fraud-detection,kaggle_fraud_detection,Kleyton Torikai,,2019-12-03T22:24:30.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,durvesh1/kernel43376f6126,kernel43376f6126,Durvesh Deshmukh,,2019-11-05T12:36:48.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,muke5hy/eda-ieee-cis-fraud-detection,EDA: IEEE-CIS Fraud Detection,Mukesh Yadav,,2019-10-28T19:06:18.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,mukunde/pdssc-lab-session-anomaly-detection,PDSSC - Lab session – anomaly detection,Mukunde Gael,,2019-11-05T11:25:11.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ssvitian/simpleieeehack,SimpleIEEEHack,RadOne,,2019-10-27T17:54:01.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,seshurajup/leaderboard-shakeup-analysis,Leaderboard Shakeup Analysis,SeshuRajuP 🧘‍♂️,,2019-10-04T00:39:44.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,rebeccanbryant/fraud-detection-models,Fraud Detection Models,Rebecca Bryant,,2019-12-05T01:08:32.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,gpreda/ieee-cis-fraud-detection-model4,ieee_cis_fraud_detection_model4,Gabriel Preda,,2019-10-04T07:30:24.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,folderplus/some-features-and-eda-xgb-catboost-model-fyi,Some features and EDA(XGB&CatBoost model FYI),Duncan Chang,,2019-10-03T10:06:13.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,dhyeok1996/xgb-groupkfold,xgb_groupkfold,Donghyeok,,2019-10-01T08:18:53.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,nevret93/lgb-single-model-with-fe,LGB Single Model with FE,nevret,,2019-10-07T06:07:50.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,suecooper/tuned-xgboostclassifier,tuned_xgboostClassifier,SueCooper,,2019-10-01T12:57:57.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,srishti280992/model-building-for-fraud-detection,Model building for fraud detection,Srishti Saha,,2019-10-02T02:21:09.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,roshantanisha/simple-easy-features,Simple_Easy_Features,Tanisha Bhayani,,2019-10-04T03:31:52.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,alexgomes3/fraud-detection-0-dataprep,Fraud-Detection-0-dataprep,AlexandreGomes,,2019-09-25T22:53:19.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ahmadnasereddin/frauddetectionprep,FraudDetectionPrep,Ahmad,,2019-09-25T23:02:45.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,rohan9889/minify-feature-engineering-ieee-fraud,Minify+Feature_Engineering IEEE Fraud,Rohan Aggarwal,,2019-09-25T22:10:54.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,gerwynng/feature-selection-with-l1-l2-rff,Feature Selection with L1/L2 RFF,Gerwyn Ng,,2019-09-24T09:18:46.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,vignesh1609/fraud-detection-model,Fraud Detection Model,Vignesh Gopalakrishnan,,2019-09-29T16:11:50.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,zollkron/lightgbm-fe-imps-3folds-exec-time-34-aprox-0-938,LightGBM+FE+Imps+3Folds|Exec.Time:34'aprox|0.938,Zollkron,,2019-09-26T18:19:25.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,alexishchenko/iee-cis-fraud-detection,IEE-CIS Fraud Detection,Alex Ishchenko,,2019-10-28T14:46:13.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,lluissalord/fraud-detection-catboost-and-bayesian-search,Fraud Detection - CatBoost and Bayesian Search,Lluis Salord,,2019-10-02T15:20:02.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ananthreddy/catching-the-frauds-lgbm-smote,Catching the Frauds (LGBM + SMOTE),Ananth Reddy,,2019-09-23T03:03:41.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,possiblemanjr/making-cents,Making_cents,SeungWon Kim,,2019-09-22T13:13:49.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,frank518/pre-compile-lgbm-to-save-gpu-quota,pre-compile-lgbm-to-save-gpu-quota,Frank Jing,,2019-09-23T03:20:10.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,wodlfrh/baseline-wt-useful-feature,baseline wt useful feature,JAY GO,,2019-09-20T12:20:02.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,denkimagic/remake-eda-and-models,Remake- EDA and models,denkimagic,,2019-09-20T02:05:25.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,satyadhyan/simple-kernel-for-fraud-detection,Simple Kernel for Fraud Detection ,Satyadhyan,,2019-09-19T04:52:03.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,yosefrahimi/ieee-cis-fraud-detection-yosef,IEEE-CIS Fraud Detection : YOSEF,yosef rahimi,,2019-09-19T01:57:13.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,dunaizhuan/ieee-v-columns-pv,IEEE - V columns pv,yunhu ye,,2019-09-18T09:51:10.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,alexeykupershtokh/concat-dataframes,Concat dataframes,Alexey Kupershtokh,,2019-09-17T03:36:39.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,naikparag/simple-xgb-fraud-detection,Simple XGB - Fraud Detection,ParagNaik,,2019-09-24T08:43:35.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,yuxuanj320/review1-infrastructure,Review1-infrastructure,Yuxuan Jiang,,2019-09-28T06:07:18.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,xwxw2929/which-one-is-the-best,which one is the best,Aicanghai_Smile,,2019-09-14T16:44:47.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,xwxw2929/catboost-kfold,catboost+kfold,Aicanghai_Smile,,2019-09-15T14:10:49.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,xwxw2929/xgb-kfold,xgb+kfold,Aicanghai_Smile,,2019-09-14T12:47:41.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,xwxw2929/lgb-kfold, lgb+kfold,Aicanghai_Smile,,2019-09-16T05:35:16.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,marcushorn/sklearn-random-forest-visualizations,SKLearn Random Forest + Visualizations,Marcus Horn,,2019-10-04T00:05:23.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,amanacden/fraud-detection,Fraud Detection,Aman Jain,,2019-09-11T02:31:46.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,cyberia/joined-id-tr,joined_id_tr,cyberia,,2019-09-12T14:53:53.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,sabiipoks/fraud-detection-benchmark-model,Fraud Detection - Benchmark model,sabiipoks,,2019-09-09T10:35:03.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,plarmuseau/what-if-we-focus-on-the-user,what if we focus on the user,Paul Larmuseau,,2019-09-09T09:55:03.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,cpicon/data-exp,Data_Exp,Christian Picon,,2019-09-08T16:14:55.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ashleshaprix/kernel3ddf40385d,kernel3ddf40385d,Ashlesha P D,,2019-09-07T06:57:32.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,inspi101/frauddetection,FraudDetection,inspi,,2019-10-03T13:05:16.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,harshitt21/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Harshit Gupta,,2019-09-04T05:38:05.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ttunjic/eda-fraud-detection,EDA - Fraud Detection,TMTC,,2020-09-24T19:02:20.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,kimjihoo/all-in-one-for-ieee-cis-fraud-detection-korean,All in One for 'IEEE-CIS Fraud Detection'(+Korean),datartist,,2019-09-15T08:51:25.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,steboss/keras-nn-autoencoder,Keras NN Autoencoder,StefanoBosisio,,2019-09-04T14:50:07.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,jazmad/developing-an-understanding-of-the-data,Developing an understanding of the data,Stephen Howard,,2019-08-30T20:17:32.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,swarupghad/kernel5baa1a445e,kernel5baa1a445e,swarup damodar,,2019-08-24T17:44:46.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,yuewangmoophy/fraud-detection-random-forest,Fraud Detection : Random Forest,Yue Wang,,2019-08-23T01:36:41.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,dinu1763/ieee-fraud-detection,ieee Fraud Detection,Dinesh,,2019-08-27T15:37:24.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,slivka83/plotly-eda,Plotly EDA,slivka83,,2019-09-03T06:36:52.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,prasadkevin/extensive-eda-and-modeling-xgb-hyperopt,Extensive EDA and Modeling XGB Hyperopt,prasad kevin,,2019-08-19T10:56:34.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,himnashukumar199795/cis-fraud-detection,CIS_fraud_detection,HIMANSHU KUMAR,,2019-09-25T19:48:59.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,jolly2136/fe-xgb,FE+XGB,jolly2136,,2019-08-21T06:40:37.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,datajang/ieee-eda,IEEE EDA,Data_Jang,,2019-09-25T08:32:49.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,zzerozz/folk-ieee-lgb-bayesian-opt,Folk IEEE - LGB + Bayesian opt.,Nghia Duong,,2019-08-08T03:54:12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,mohdsohaib/nn-for-beginners,NN for beginners,Mohammad Sohaib,,2019-08-08T07:23:19.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,patilsumeetv/ieee-fraud-detection-lightgbm-baseline,IEEE-Fraud-Detection-LightGBM-Baseline,Sumeet Patil,,2019-08-04T14:10:03.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,musti12/fraud-analysis,Fraud Analysis,Mustafa Ali Bilkay,,2019-08-02T14:10:07.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,purudataminer/let-s-predict-fraud-in-c-with-93-auc,Let's predict fraud in 'C' with .93 AUC,PuruYadav,,2019-08-01T13:52:29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,jakubczakon/running-code-from-github-in-kernels,running-code-from-github-in-kernels,Jakub Czakon,,2019-08-01T09:38:49.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,virajbagal/distance-between-importances,Distance between Importances,Viraj Bagal,,2019-07-29T16:46:53.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,mishra5001/improvise-fraud-detection,Improvise Fraud Detection!,Mishra5001,,2019-07-29T14:03:40.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,caneiro/ieee-fraud-detection-eda-v1,IEEE-Fraud-Detection-EDA_v1,Caneiro,,2019-08-01T01:32:46.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,acruve15/ieee-fraud-xgboost-with-kfold,IEEE Fraud: XGBoost with KFold,Acruve15,,2019-07-27T08:57:38.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,firmai/firmai-20-of-data-used,FirmAI | 20% of Data Used ,FirmAI,,2019-07-25T00:58:33.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,tboyle10/01-ieee-cis-fraud-detection-baseline-models,01 IEEE-CIS Fraud Detection Baseline Models,Tara Boyle,,2019-08-25T19:57:29.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,niteshhalai/first-look-ieee-fraud-detection,First look - IEEE Fraud Detection,Nitesh Halai,,2019-07-22T19:59:53.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,hbquoc29/eda-and-models-5e0d92,EDA and models 5e0d92,Quoc,,2019-07-22T08:46:31.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,vaibhavmathur96/stacking-the-4-outputs-lb-score-0-9425,Stacking the 4 outputs LB Score - 0.9425,VAIBHAV MATHUR,,2019-07-22T06:07:21.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,hassanamin/eda-for-cis-fraud-detection-solution,EDA for CIS Fraud Detection Solution,Hassan Amin,,2020-02-07T16:06:19.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,jakubczakon/training-and-validation-schema,training and validation schema,Jakub Czakon,,2019-07-20T08:23:21.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,om1042/lgb-xgb,LGB + XGB,ompanda,,2019-07-18T13:25:17.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,ankittomar1/quick-insight-ieee,Quick Insight_IEEE,Ankit,,2019-07-17T19:41:56.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,om1042/ieee-fraud-xgboost-with-gpu-pca,IEEE Fraud: XGBoost with GPU_PCA,ompanda,,2019-07-18T05:21:44.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,takaishikawa/simple-sampling-approach,Simple Sampling Approach,Tak,,2019-07-18T00:18:41.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,dcdh123/eda-ieee-fraud-data,EDA - IEEE Fraud Data ,divya,,2020-03-14T14:33:06.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,moizzz/idee-eda-transactiondt,IDEE-EDA TransactionDT,Bruce,,2019-07-17T17:18:51.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ieee-fraud-detection
+,,,,,0,gamersblended/rapids-template,RAPIDS_template,Gamer's Blended,,2022-05-29T13:52:11.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gamersblended/fraud-detection-with-rapids-hands-on,Fraud_Detection_with_RAPIDS_Hands-On,Gamer's Blended,,2022-05-29T13:40:52.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-project-summary,[ABA]IEEE-CIS : Project Summary ,Araba Budu,,2022-05-03T19:08:06.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-eng-imp-drop-bottom-40,[ABA]: IEEE-CIS - Feature Eng/Imp (Drop bottom 40),Araba Budu,,2022-04-19T18:57:35.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-eng-imp-drop-bottom-20,[ABA]: IEEE-CIS - Feature Eng/Imp (Drop bottom 20),Araba Budu,,2022-04-26T00:35:37.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gianistatie/notebook12f3f673d2,notebook12f3f673d2,2 Bytes Goat,,2022-04-20T10:10:36.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-x,[ABA]IEEE-CIS: Feature Engineering (X),Araba Budu,,2022-04-14T18:50:06.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-tramt-logamt,[ABA]IEEE-CIS: Feature Engineering(TrAmt + LogAmt),Araba Budu,,2022-04-14T18:32:00.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-logamt,[ABA]IEEE-CIS: Feature Engineering(LogAmt),Araba Budu,,2022-04-14T18:41:25.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-time-only,[ABA]IEEE-CIS: Feature Engineering (Time only),Araba Budu,,2022-04-14T18:31:47.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-x-only,[ABA]IEEE-CIS: Feature Engineering (X only),Araba Budu,,2022-04-14T18:23:33.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-logamt-only,[ABA]IEEE-CIS: Feature Engineering (logAmt only),Araba Budu,,2022-04-14T18:10:47.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-tramt-only,[ABA]: IEEE-CIS - Feature Engineering(TrAmt Only),Araba Budu,,2022-04-14T18:11:24.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-time,[ABA]: IEEE-CIS - Feature Engineering(Time),Araba Budu,,2022-04-14T17:56:16.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-feature-engineering-all,[ABA]: IEEE-CIS - Feature Engineering (ALL),Araba Budu,,2022-04-25T23:40:22.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/ieee-fraud-feature-engineering,IEEE Fraud Feature Engineering,Araba Budu,,2022-04-12T02:03:36.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-lgbm-optuna-best-model-submission,[ABA]IEEE-CIS:  LGBM(Optuna) Best Model Submission,Araba Budu,,2022-03-31T19:20:32.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-rf-optuna-best-model-submission,[ABA]IEEE-CIS:  RF(Optuna) Best Model Submission,Araba Budu,,2022-03-31T19:37:07.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-dt-optuna-best-model-submission,[ABA]IEEE-CIS:  DT(Optuna) Best Model Submission,Araba Budu,,2022-03-31T18:12:31.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gamzebayir/fraud-detection-different-scenarios-final-model,Fraud Detection Different Scenarios & Final Model,Gamze BAYIR,,2022-04-27T11:15:31.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gamzebayir/fraud-detection-random-under-sampling,Fraud Detection-Random Under Sampling,Gamze BAYIR,,2022-04-27T10:58:14.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gamzebayir/fraud-detection-choosing-base-model,Fraud Detection Choosing Base Model,Gamze BAYIR,,2022-04-27T11:16:35.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gamzebayir/fraud-detection-correlation-anly-and-feature-imp,Fraud Detection Correlation Anly. and Feature Imp.,Gamze BAYIR,,2022-04-27T11:21:01.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,asswin07/ensembling-with-stacknet,Ensembling with StackNet,Asswin C.R,,2022-03-14T13:32:41.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gbecon/fraud-detection-ensemble,Fraud Detection  Ensemble,Giedrius Blazys,,2022-03-14T21:32:42.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jaquelinenoonan/autogluon-on-fraud-detection,autogluon on fraud detection,Jaqueline Noonan,,2022-03-08T09:08:49.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-submission,[ABA]IEEE-CIS: Submission,Araba Budu,,2022-03-08T03:45:19.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gbecon/beat-my-score,Beat my score ,Giedrius Blazys,,2022-03-12T08:12:29.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arababudu/aba-ieee-cis-eda,[ABA]IEEE-CIS : EDA,Araba Budu,,2022-05-03T16:45:19.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,hiroto1979/ieee-fraud-detection-baseline,ieee-fraud-detection_baseline,hiroto,,2022-01-31T00:49:22.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-training-cnn,XGB Fraud with Magic training CNN,903124,,2022-04-05T05:41:57.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,flafuji/ieee-fraud-eda-visualization-model-explained,IEEE Fraud EDA/Visualization/Model Explained,flafuji,,2021-12-08T23:52:01.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,alejandro95/notebook646e8852c6,notebook646e8852c6,Alejandro95,,2021-12-03T05:39:32.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,sndngonbo/ieee-xgb,IEEE-XGB,Sơn Dương Đoàn Bảo,,2022-01-07T16:10:37.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,nhungng/ieee-xgb,IEEE-XGB,NhungNg,,2021-12-02T02:54:34.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gutierrezmatias/tp3-2c2021-keras,TP3 2c2021 Keras,Matias Gutierrez,,2021-11-29T03:44:42.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-training-mlp,XGB Fraud with Magic training MLP,903124,,2022-04-03T03:12:28.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-training-rf, XGB Fraud with Magic training RF,903124,,2022-04-10T04:47:18.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gutierrezmatias/tp3-2c2021-parte-iii-rf,TP3 2c2021 Parte III RF,Matias Gutierrez,,2021-11-29T01:14:20.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gutierrezmatias/tp3-2c2021-parte-iii-xgb,TP3 2c2021 Parte III XGB,Matias Gutierrez,,2021-11-29T00:45:12.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-training-logistic,XGB Fraud with Magic training logistic,903124,,2022-04-16T09:20:33.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-training-untuned,XGB Fraud with Magic training untuned,903124,,2022-04-16T07:15:16.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shashreddy/fraud-detection-sol,Fraud Detection sol,ShashReddy,,2021-11-10T03:08:07.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,trangtrnhthuhuyn/ieee-catboost-baseline-with-groupkfold-cv,IEEE - Catboost baseline with GroupKFold CV,Trang Trịnh Thu Huyền,,2021-10-05T16:31:36.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ohseongyeon/notebook82013e18ef,notebook82013e18ef,Oh Seong-yeon,,2021-09-13T12:49:18.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ahnsehun/max-o-simple-lgbm,max_O - simple LGBM ,Ahnsehun,,2021-09-13T10:00:26.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,taewonkimzad/choice-2,CHOICE_2,TaewonKIMzad,,2021-09-13T11:54:38.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ym7079/notebook82013e18ef,notebook82013e18ef,ym7079,,2021-10-05T18:03:10.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,datasoin/eda-team-o,EDA_Team_O,laure,,2021-09-13T11:45:18.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,marcokang/fraud-detection-eda,Fraud Detection EDA,Marco Kang,,2021-09-12T10:13:15.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ohseongyeon/ieee-hyperparmeter-tuning,IEEE hyperparmeter tuning,Oh Seong-yeon,,2021-09-13T12:38:15.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-training,XGB Fraud with Magic training,903124,,2022-04-09T06:28:36.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ifakat/fraud-04,Fraud_04,İfakat Yurt,,2021-08-27T19:56:25.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ifakat/fraud-02,Fraud_02,İfakat Yurt,,2021-08-27T19:06:25.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ifakat/notebookea4450e9f4-d17afe,notebookea4450e9f4 d17afe,İfakat Yurt,,2021-08-27T09:57:35.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,burakaslann/fraud,fraud,Burak Aslan,,2021-08-27T11:54:34.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,zleyhaakr/notebookea4450e9f4-d17afe,notebookea4450e9f4 d17afe,Züleyha Çakır,,2021-08-26T21:58:04.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ifakat/notebookea4450e9f4,notebookea4450e9f4,İfakat Yurt,,2021-08-26T17:46:48.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,s903124/xgb-fraud-with-magic-0-9600,XGB Fraud with Magic - [0.9600],903124,,2021-09-04T12:28:02.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,skloveyyp/fraud-detection-xgb-lgbm,Fraud Detection - XGB & LGBM,Kai Shu,,2021-07-10T12:36:38.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dahyun3422/kaggle-week1,kaggle_week1_이다현,dahyun,,2021-06-25T14:32:44.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,nhduong1203/s-ieee,S_IEEE,Hải Dương Nguyễn,,2021-06-24T10:40:46.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,lima21bd/fraud-detection-with-93-64-accuracy,Fraud Detection With 93.64% Accuracy,Khadija Akter Lima,,2021-06-17T16:43:23.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,viethoang303/iee-modeling-pca,IEE-modeling-PCA,Việt Hoàng Nguyễn,,2021-06-10T18:51:10.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,tunnguynnhanh/ml-assignment-data-analysis,ML Assignment (Data analysis),Tuấn Nguyễn Đình Anh,,2021-06-10T22:41:25.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,tunnguynnhanh/ml-assignment-modeling,ML Assignment (Modeling),Tuấn Nguyễn Đình Anh,,2021-06-10T22:40:05.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mouli123/eda-bta,EDA_BTA,krishnamouli,,2021-06-08T13:07:58.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,nqk18020710/ieee-baseline,IEEE_baseline,18020710 ,,2021-06-11T05:23:29.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,viethoang303/ieee-modeling,IEEE-Modeling,Việt Hoàng Nguyễn,,2021-06-10T18:16:29.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,kunalgaurav18/fraud-detection,fraud_detection,Kunal Gaurav,,2021-05-22T19:26:55.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ntdat0411/fraud-detection-data-exploration,Fraud Detection - Data Exploration,Đạt Nguyễn,,2021-06-11T00:15:22.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,adriancantu/fraud-detection-lightgbm,Fraud_Detection_LightGBM,Adrian Cantu,,2021-05-07T21:34:01.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ntdat0411/fraud-detection-decision-tree-random-forest,Fraud Detection - Decision Tree & Random Forest ,Đạt Nguyễn,,2021-06-11T00:21:44.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,viethoang303/ieee-fraud-detection,IEEE Fraud Detection,Việt Hoàng Nguyễn,,2021-06-10T18:16:45.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,viethoang303/ieee-fraud-detection-with-nn,IEEE-Fraud-Detection with NN,Việt Hoàng Nguyễn,,2021-04-22T17:41:01.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,graykun/ieee-cis-fraud-detection-submission, IEEE-CIS fraud Detection (Submission) ,Trường Nguyễn Xuân,,2021-05-26T08:36:23.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,anonyhost/ieee-fraud-detection-nh-m-8,IEEE - Fraud-Detection - Nhóm 8,anonyhost,,2021-05-22T21:45:36.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,atszholi/ieee-fraud-detection-model,ieee-fraud-detection-Model,Alfred,,2021-04-24T15:11:29.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,barryc7/data-mining-pj,data mining pj,BarryC7,,2021-04-23T05:01:54.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mjasengmoon78/moon-final-ieee-cis-fraud-detection, [Moon_final] IEEE-CIS fraud Detection  ,JA SENG MOON,,2021-05-02T06:35:34.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,maximmezhov/ieee-cis-fraud-detection-eda,IEEE-CIS Fraud Detection - EDA,Maxim Mezhov,,2021-04-30T17:37:05.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,atszholi/ieee-fraud-detection-eda,ieee-fraud-detection-EDA,Alfred,,2021-04-30T06:00:18.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,sergeysib/catboost-and-eda,Catboost and EDA,Sergey,,2021-03-03T08:49:21.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,oleksiibernatskyi/git-fully-conected-nn-fraud,GIT Fully CONECTED NN FRAUD,Oleksii Bernatskyi,,2021-02-14T17:26:20.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,youngminpark2559/eda-correlation-kolmogorov-smirov-relationship,"EDA:Correlation, Kolmogorov_Smirov, Relationship",YoungMin Park,,2021-01-15T09:41:22.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dorsaalh/using-identity-transaction,using identity & transaction,Dorsaalh,,2021-01-15T08:57:38.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mrizwansaeed/ieee-cis-fraud-detection-eda-and-models,IEEE-CIS Fraud Detection - EDA and Models,RzS,,2020-12-12T18:05:14.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shafqaatahmad/ieee-cis-fraud-detection-random-forest,ieee-cis-fraud-detection-random-forest,Shafqaat Ahmad,,2020-11-02T15:57:05.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shafqaatahmad/ieee-cis-fraud-detection-xgboost,ieee-cis-fraud-detection-xgboost,Shafqaat Ahmad,,2020-11-02T15:53:37.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shafqaatahmad/ieee-cis-fraud-detection-lgb-with-fe,ieee-cis-fraud-detection-lgb-with-fe,Shafqaat Ahmad,,2020-11-02T15:50:50.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shafqaatahmad/ieee-cis-fraud-detection-eda-lgb,ieee-cis-fraud-detection-eda-lgb,Shafqaat Ahmad,,2020-11-02T15:46:35.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mlpract/eda-ieee-fraud-detection,EDA  - IEEE Fraud Detection,Thasni,,2020-10-27T07:04:23.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,hardikmochi123/notebookaa52823f70,notebookaa52823f70,mochi hardik,,2020-10-27T15:01:51.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arshizaidi/ieee-cis-fraud,ieee_cis_fraud,Arshi Zaidi,,2020-10-14T13:49:02.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shreyauniyal19/ieee-cisfraud,ieee_cisfraud ,Shreya Uniyal ,,2020-10-14T11:41:04.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,esteinberg/secu-tp2,Secu Tp2,E. Steinberg,,2020-11-03T10:49:44.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,rz384365/sampling-methods-for-imbalanced-data,Sampling methods for imbalanced data,rz384365,,2020-10-06T20:21:17.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,danielpearson7/incomplete-bayesian-optimisation-lgbm-classifier,Incomplete Bayesian Optimisation LGBM Classifier,Daniel Pearson,,2020-09-28T12:30:59.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,tusharkale/eda-and-models,EDA and models,Tushar Kale,,2020-09-15T17:41:06.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,praveennmp/ieee-fraud-detection,IEEE-Fraud_Detection,Praveen N.M.P,,2020-09-10T14:54:17.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,divyadhamija/xgb-model,XGB model,Divya Dhamija,,2020-09-11T09:47:52.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,bangoc/eda-2,EDA 2,bangoc,,2020-08-31T12:31:38.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,khannamohit/mohitkhanna-comp9417,mohitkhanna-comp9417,Mohit Khanna,,2020-08-04T11:18:23.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mohamedbadr8817/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Mohamed Badr,,2020-07-27T01:44:35.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,rishabh279/iee-fraud-detection,iee_fraud_detection,Rishabh,,2020-11-14T09:07:05.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ivaneroshkin/eda-and-models,EDA and models,Ivan_Eroshkin,,2020-08-03T05:52:54.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,vivekwadhwani/gradient-boosted-trees,Gradient Boosted Trees,vivekwadhwani,,2020-07-12T08:33:14.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,thitiwat/keras-cnn,Keras CNN,THITIWAT RUANGSAKORN,,2020-07-01T08:30:25.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,leylatorlar/final-catboost-gridsearch-kfold,Final_Catboost_gridsearch_kfold,leylatorlar,,2020-06-04T22:45:04.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,leylatorlar/final-catboost-gridsearch,Final_Catboost_gridsearch,leylatorlar,,2020-06-05T10:38:29.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mustafaalkan/final-catboost-gridsearch,Final_Catboost_gridsearch,Mustafa Çalışkan,,2020-06-03T06:45:14.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,chemeng1/fraud-detection-with-xgboost,Fraud_Detection_with_XGBoost,Chem Eng1,,2020-06-03T11:03:09.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,chemeng1/final-xgboost,Final_XGBoost,Chem Eng1,,2020-06-02T09:40:21.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,tuhinatta/eda-and-modeling-xgb,EDA and Modeling XGB,Tuhin Atta,,2020-05-26T19:47:47.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,devchriscross/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Christian Noel Molina,,2020-06-21T01:21:40.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,aaron35/transaction-fraud-detection,Transaction Fraud Detection,Aaron,,2020-08-21T16:54:27.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,arjunmann73/tree-boosting-algorithms-lgbd-xgboost-cat,"Tree Boosting Algorithms - LGBD, XGBoost, CAT",Arjun Singh,,2020-05-01T10:48:18.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,soheilhosseini/fraud-eda-classification,Fraud EDA / classification ,Soheil Hosseini,,2020-04-29T23:25:07.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,santhoshdatasc/ysk-ieee-fraud-transaction,ysk-IEEE - Fraud Transaction,Y Santhosh DS,,2020-04-19T11:23:28.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,wakamezake/autogluon-tabular-for-ieeefraud,AutoGluon-Tabular for IEEEfraud,wakame,,2020-03-18T05:36:00.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,trouser/kernel4939a06af8,kernel4939a06af8,QiuHaohao,,2020-03-12T02:16:55.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,joshuajhchoi/ieee-cis-fraud-detection-2020,IEEE-CIS Fraud Detection (2020),Joshua Choi,,2020-08-10T06:57:52.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,slatawa/basic-eda-and-catboost,Basic EDA and CatBoost,SL,,2020-03-12T06:14:43.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,foodaholic/cis-fraud-detection-lightgbm,cis_fraud_detection_lightgbm,Tobias Kreiter,,2020-02-14T18:14:12.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,antoniomontilla/antonio-proyecto-neoland,Antonio_proyecto_Neoland,Antonio Montilla,,2020-03-19T18:36:38.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,keyurparalkar/fraud-detection-with-fastai-data-interpret-viz,Fraud detection with fastai - Data interpret & viz,Keyur Paralkar,,2020-04-02T01:10:27.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,rohith464/fraud-detection-rf-xgb-lightgbm,Fraud detection RF-XGB-LIGHTGBM ,rohith,,2019-12-22T07:56:24.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,keyurparalkar/ieee-cis-fraud-detection-with-fastai-submissions,IEEE-CIS fraud detection with fastai - submissions,Keyur Paralkar,,2019-12-30T10:05:15.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,hassanamin/modelling-for-cis-fraud-detection,Modelling for CIS Fraud Detection ,Hassan Amin,,2020-01-13T12:37:58.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,titouanluciani/kernel446dd87018,kernel446dd87018,Titouan Luciani,,2019-11-25T13:54:40.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jcmiii/cc-fraud-email-one-hot,CC Fraud - Email + One-hot,John Merkel,,2019-12-31T19:16:20.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,zenelson/fraud-xgboost-v1,Fraud XGBoost V1,zenelson,,2019-11-14T21:40:31.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jcmiii/cc-fraud-one-hot-encoding,CC Fraud : one-hot encoding,John Merkel,,2019-11-18T03:04:25.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,hashtagkehl/kernel42b698e5e5,kernel42b698e5e5,Chris Kehl,,2019-10-24T01:11:38.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,vishnupy/onlinetransfrauddetection-eda-hyperopt-lxgb-93-ac,"OnlineTransFraudDetection EDA, Hyperopt LXGB 93%Ac",Vishnu,,2019-10-18T10:18:29.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,thierryhjm/comprehensive-feature-engineering-learning,Comprehensive Feature Engineering & Learning,ThierryH,,2021-10-15T00:55:31.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,anastasia484/ieee-cis-fraud-detection-first-model-w-o-eda,IEEE-CIS Fraud Detection: first model (w/o EDA),Anastasia S,,2019-10-05T21:12:29.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,marquis08/permutation-importance-lgbm-kernel,Permutation Importance LGBM Kernel,YGSEO,,2019-10-04T14:24:41.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,oalvay/fun-feature-from-amt-and-dt,Fun feature from Amt and DT,Black,,2019-10-04T07:25:40.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,egolinko/dimension-reduction-and-xgboost-train,dimension reduction and xgboost train,Eric G,,2019-10-03T15:59:27.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,rikuogura/adversarial-ieee,Adversarial IEEE,Riku Ogura,,2019-10-02T03:02:09.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,rikuogura/baseline-mix-lgbm-not-fillna-pos-w-27-58,"baseline-mix-lgbm [not_fillna, pos_w=27.58]",Riku Ogura,,2019-10-01T22:04:47.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,nevret93/xgb-single-model-with-fe,XGB Single Model with FE,nevret,,2019-10-07T06:39:13.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,realzhou/kernel7648fb513f,kernel7648fb513f,JY Zhou,,2019-09-30T21:54:55.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gk5894/xgboost-with-optimized-parameters,XGBoost with optimized parameters,Gaurav Kshirsagar,,2019-09-29T22:17:59.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,prasadkevin/ieee-fraud-detection,IEEE Fraud Detection,prasad kevin,,2019-09-27T16:42:49.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,haylmg/periodicity-in-transactions,Periodicity in Transactions,Vikas Dhyani,,2019-09-27T03:52:12.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,somnambwl/ieee-the-most-basic-preprocessing,IEEE - The most basic preprocessing,somnambWl,,2019-09-26T09:22:47.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,teresascholz/reduced-memory-pickles,Reduced_memory_pickles,Teresa Scholz,,2019-09-28T14:44:08.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,sheriytm/standalone-train-and-test-preprocessing,Standalone train and test preprocessing,YaGana Sheriff-Hussaini,,2019-09-25T00:26:25.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shinpete/kernel397251a321,kernel397251a321,ShinPete,,2019-09-24T01:45:42.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,raxtemur/ieee-eda-transactionamt,IEEE - EDA-TransactionAmt,Temurbek,,2019-09-25T04:48:37.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,golion/abhaygoyal-dsf,AbhayGoyal_DSF,Abhay Goyal,,2019-09-26T05:22:43.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,raxtemur/ieee-eda-time,IEEE - EDA-Time,Temurbek,,2019-09-28T15:29:16.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jingtying/assignment3,Assignment3,JingTying Yap,,2019-09-20T21:43:17.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gauravdhama11/catboost-and-eda,Catboost and EDA,Gaurav Dhama,,2019-09-21T18:27:41.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,rashmiranjan00/fraud-detection-with-xgboost,Fraud detection with XGBoost,Rashmiranjan Pradhan,,2019-09-20T06:40:07.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,hemantdata/trail-1,Trail_1,HemantAHK,,2019-09-20T11:39:33.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,abhishek9599/fraud,Fraud,Abhishek Prasad,,2019-09-29T17:46:53.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,tanmayi/fraud1,fraud1,Tanmayi,,2019-10-01T04:46:02.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,zahid1/lgbm-scale-pos-weight,LGBM: Scale Pos Weight,zpanj,,2019-09-28T17:04:27.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-keras,ieee-fraud-detection-keras,ruhong,,2019-10-04T12:47:32.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,filemide/parasitism-of-fraud-t-sne-pca,PARASITISM of Fraud(t-SNE/PCA),Filemide,,2019-09-19T18:31:05.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,denkimagic/kernel2320531053,kernel2320531053,denkimagic,,2019-09-19T15:25:11.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,robinchao/ensemble-lightgbm-xgboost,ensemble lightgbm&xgboost ,Robin,,2019-09-17T03:10:32.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,deeplearn1/logistic-kfold,Logistic_KFold,Manirajan,,2019-09-18T03:13:55.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,deeplearn1/logistic-learning,Logistic_learning,Manirajan,,2019-09-16T06:01:35.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,errolpereira/ieee-fraud-detection-eda,IEEE-Fraud Detection EDA,Errol Pereira,,2019-09-17T04:48:33.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,himaoka/rough-data-cleaning-and-prediction,Rough Data Cleaning and Prediction,Jun Imaoka,,2019-09-26T09:53:29.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,utiancarter/feature-engineered-lightgbm,Feature-Engineered LightGBM,Ian Carter,,2019-09-19T01:56:41.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,karthikcs1/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Karthik Sunil,,2019-09-19T13:21:25.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,muhakabartay/g-mean-model-stacking, G_Mean Model Stacking,Mukharbek Organokov,,2019-09-16T19:58:15.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dhakshiin1601/2-data-minifaction,2_Data_Minifaction,Balaji Selvaraj,,2019-09-12T11:50:04.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-xgb,ieee-fraud-detection-xgb,ruhong,,2019-09-17T13:38:43.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-adab, ieee-fraud-detection-adab,ruhong,,2019-09-17T13:34:29.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-et-leafwise, ieee-fraud-detection-et-leafwise,ruhong,,2019-09-18T00:02:27.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-et, ieee-fraud-detection-et,ruhong,,2019-09-17T13:33:28.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dcstang/ieee-lgbm-with-groupkfold-cv-2, IEEE - Lgbm with GroupKFold CV - 2,David Tang,,2019-09-11T08:24:05.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-rf-leafwise,ieee-fraud-detection-rf-leafwise,ruhong,,2019-09-17T13:40:40.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-blend,ieee-fraud-detection-blend,ruhong,,2019-09-18T00:22:39.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-rf,ieee-fraud-detection-rf,ruhong,,2019-09-17T13:41:18.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,chdhatri/cis-fraud-detection,CIS Fraud Detection,DhatriChennavajula,,2019-09-20T19:38:27.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,pankajsoni12/ieee-cis-fraud-detection-notebook,IEEE-CIS Fraud Detection_Notebook,Pankaj Soni,,2019-09-15T10:39:49.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-logistic,ieee-fraud-detection-logistic,ruhong,,2019-09-17T13:22:14.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,nickthegreek82/fraud-detection,Fraud Detection,Nick Koumaris,,2019-09-12T13:56:46.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dunaizhuan/no-fe-baseline,No_Fe_Baseline,yunhu ye,,2019-09-14T10:49:37.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-lgb,ieee-fraud-detection-lgb,ruhong,,2019-09-17T13:15:31.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mohammadeslim/kernel24ec824421,kernel24ec824421,Mohammad Isleem,,2019-09-09T08:10:06.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,anshulgupta96/kernel1c20173d51,kernel1c20173d51,Anshul,,2019-09-08T09:27:37.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ruhong/ieee-fraud-detection-preprocess,ieee-fraud-detection-preprocess,ruhong,,2019-09-17T01:09:41.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,tboyle10/00-ieee-cis-fraud-detection-eda,00 IEEE-CIS Fraud Detection EDA,Tara Boyle,,2019-09-09T19:37:53.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dymodi/ieee-cis-fraud-detection,IEEE-CIS-Fraud-Detection,Yi Ding,,2019-09-06T07:12:31.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,fferrero/pondered-prediction-v3,Pondered prediction v3,Franco Ferrero,,2019-09-05T15:39:31.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mohammadeslim/kernel634d9da253,kernel634d9da253,Mohammad Isleem,,2019-09-05T06:50:08.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,lviola/ieee-simple-xgboost-w-outliers-feature,IEEE Simple XGBoost w/ Outliers Feature,LViola,,2019-09-09T13:12:42.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jobzhf88/ieee-train,IEEE-train,Wizard,,2019-09-04T07:01:39.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,augustinechang/ieee1,IEEE1,Augustine,,2019-09-05T20:18:39.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jiaofenx/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Jofen,,2019-09-18T05:58:50.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,alexgeiger/v-features,V Features,AlexanderGeiger,,2019-09-21T14:39:40.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,brodzik/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Adrian Brodzik,,2019-10-02T19:22:22.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,laleeth/kernel4b276dba21,kernel4b276dba21,Lalith,,2019-09-01T09:55:42.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,shalind/extensive-data-exploration-and-eda-using-sns-ieee,Extensive Data Exploration and EDA using sns IEEE,Shalin,,2019-09-10T04:44:28.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,filemide/ieee-cv-options,IEEE - CV options,Filemide,,2019-08-30T17:35:52.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,dunaizhuan/myeda,MYEDA,yunhu ye,,2019-09-02T14:13:58.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,lucasgiutavares/ieee-validation,IEEE - Validation,Lucas Tavares,,2019-09-16T22:33:46.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,gordtwo/ieee-baseline,IEEE baseline,gordtwo,,2019-09-23T01:44:26.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,yuewangmoophy/fraud-detection-majority-voting,Fraud Detection : Majority Voting,Yue Wang,,2019-08-24T03:09:19.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,steboss/flavour-of-autoencoder-0-0,flavour_of_autoencoder_0.0,StefanoBosisio,,2019-08-26T15:54:03.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,l16phill/final-submission,Final Submission,Leonard Phillips,,2019-08-21T21:34:08.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,kausik123/fraud-detection,Fraud Detection,KausikChattapadhyay,,2019-08-17T13:51:49.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ramonboucas/ramon-pr-processamento-id,Ramon - Pré Processamento - ID,Ramon Bouças,,2019-08-28T10:51:15.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,caprabianca/ieee-comp-identity-transaction-datasets,IEEE Comp - Identity & Transaction datasets,Federico Nada,,2019-08-18T09:17:43.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,yyyzzzwww/recursive-feature-elimination,Recursive feature elimination,Yao Zhongwei,,2019-08-14T06:14:33.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,yangam/kernel1a76f4bb95,kernel1a76f4bb95,Yi ,,2019-10-07T23:45:22.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,utiancarter/minimalist-lightgbm,Minimalist LightGBM,Ian Carter,,2019-08-13T11:05:31.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,nicapotato/gpyopt-gpu-xgb,Gpyopt GPU Xgb,nicapotato,,2019-08-20T06:37:54.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,venkateshprabhug/fraud-detection,Fraud Detection,Venkatesh Prabhu,,2019-08-13T08:24:57.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,woaisxxd/keras-nn-starter-shuffle-split,Keras NN Starter shuffle split,saaaaber,,2019-08-12T06:25:09.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,prateek91/estimator,Estimator,Prateek Agarwal,,2019-08-10T20:04:55.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,sijiahuang/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,SijiaHUANG,,2019-08-15T03:01:22.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ajaykgp12/ieee-catboost,IEEE_catboost,Ajay,,2019-09-02T09:33:51.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,knightwisdom/ieee-simple-eda,IEEE Simple EDA,Karthik Kumar Billa,,2019-08-10T16:32:44.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,peterbon/ieeecs,ieeeCS,Peter_Sang,,2019-08-05T06:43:45.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,wajihullahbaig/blockwisetimeseries,BlockwiseTimeSeries,WajihullahBaig,,2019-08-04T10:51:31.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,misclassifi3d/starter-kernel,starter_kernel,misclassified,,2019-08-01T21:08:23.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jakubczakon/run-repo-in-kernel,run-repo-in-kernel,Jakub Czakon,,2019-07-31T19:35:29.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,imvignesh/ieee-fraud-attempt-with-tpot-automl-beginner-ds,IEEE Fraud: Attempt with TPOT AutoML (Beginner DS),imVignesh,,2019-08-13T22:18:56.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,anuraglal1/ieee-fraud-detection-1,IEEE_Fraud_Detection_1,Anurag Lal,,2019-08-09T06:22:31.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,joaopcnogueira/rf-tscv-5-folds,RF + tscv 5 folds,João Nogueira,,2020-02-20T15:01:15.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,mahoto0523/ieee-cis-fraud-detection,IEEE-CIS Fraud Detection,Mahoto,,2019-07-26T04:01:32.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ukveteran/starter-jma-ieee-cis-fraud-detection,Starter: JMA-IEEE CIS Fraud Detection,Johar M. Ashfaque,,2019-07-26T05:15:13.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jogin213/fork-of-kernelf1af6ba42c-ac59aa,Fork of kernelf1af6ba42c ac59aa,Jakub Ciborowski,,2019-12-20T07:44:46.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,thaer2018/xgboost-ieee-vesta-frauds,XGBoost_IEEE_VESTA_Frauds,Thaer Hani,,2019-07-25T17:32:39.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,celestialbeing/ieee-fraud-detection-via-xgboost-remake,IEEE Fraud Detection via XGBOOST Remake,Nedino Lester Cayetano,,2019-07-25T06:45:55.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,chocolapple/reducing-memory-function-explanation,reducing memory function explanation,chocolapple,,2019-07-25T02:33:22.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,thaer2018/automlclassifierforfrauds-usingtpot,AutoMLClassifierForFrauds_UsingTPOT,Thaer Hani,,2019-07-23T19:58:22.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,airplane2230/shc-ieee-toy,shc_IEEE_toy,hwiyong joe,,2021-04-03T09:36:29.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,hassanamin/fraud-complete-eda,Fraud complete EDA,Hassan Amin,,2019-07-20T15:24:23.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,jakubczakon/features-v0,features_v0,Jakub Czakon,,2019-07-21T11:41:20.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,abimannan/ieee-fraud-detection,IEEE fraud detection,Senna,,2019-07-17T09:38:34.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,frizzles7/fraud-detection-preliminary-analysis,Fraud Detection - Preliminary Analysis,Megan McGee,,2019-07-17T23:44:55.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,snakayama/ieee-eda-simple-logisticregression-cv-0-72091,IEEE_EDA_simple_LogisticRegression[cv=0.72091],makogarei,,2019-07-18T14:25:23.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,sarahxue/fraud-detection,Fraud Detection,SarahXu,,2019-07-24T08:22:11.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection
+,,,,,0,ahmadjordan/ieee-ensemble-xgboost-deeper-version,IEEE Ensemble XGBoost deeper version ,Ahmad Jordan,,2019-07-17T01:56:12.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ieee-fraud-detection

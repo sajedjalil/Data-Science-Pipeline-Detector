@@ -1,0 +1,403 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,shawamar/product-recommendation-system-for-e-commerce,Product Recommendation System for e-commerce,Amar Shaw,,2019-08-30T19:21:59.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],140,home-depot-product-search-relevance
+,,,,,0,wenxuanchen/sklearn-random-forest,sklearn_random_forest,Moomin,,2016-01-21T18:32:26.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,home-depot-product-search-relevance
+,,,,,0,steubk/fixing-typos,Fixing Typos,steubk,,2016-03-13T17:22:05.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,home-depot-product-search-relevance
+,,,,,0,keithtrnka/data-exploration,data exploration,Keith Trnka,,2016-01-23T00:03:38.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,home-depot-product-search-relevance
+,,,,,0,remap1/get-train-validation-indices,Get Train Validation Indices,Gerard Toonstra,,2016-01-27T11:32:30.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,home-depot-product-search-relevance
+,,,,,0,tennissuperstar/data-exploration-1,Data Exploration,AiswaryaSankar,,2016-12-21T17:31:14.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,home-depot-product-search-relevance
+,,,,,0,olest1980/clustering-of-product-descriptions,Clustering of product descriptions,ole.st1980,,2016-02-13T17:57:59.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,home-depot-product-search-relevance
+,,,,,0,yowtshjhj/hdp-search-relevant-from-doananh020418,HDP Search Relevant from Doananh020418,yowtshjhj,,2022-01-08T09:17:39.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,home-depot-product-search-relevance
+,,,,,0,maggielavery2/home-depot-competition,home_depot_competition,Mairead Lavery,,2021-06-29T19:16:40.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,home-depot-product-search-relevance
+,,,,,0,ritvik1909/neural-collaborative-filtering,Neural Collaborative Filtering,Ritvik Rastogi,,2021-11-22T11:16:37.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,home-depot-product-search-relevance
+,,,,,0,hellozeyu/test-script-1,test_script_1,hellozeyu,,2016-03-10T03:44:36.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,home-depot-product-search-relevance
+,,,,,0,ryabokonroman/thehomedepot,TheHomeDepot,Roman Ryabokon. Ezetech LLC.,,2016-04-25T21:18:27.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,home-depot-product-search-relevance
+,,,,,0,buinyi/disclosing-external-data,Disclosing external data,Igor Buinyi,,2016-04-17T19:16:33.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,home-depot-product-search-relevance
+,,,,,0,khaoticmind/deep-learning-regression,Deep Learning Regression,Antonio Augusto Santos,,2016-03-31T18:48:22.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,home-depot-product-search-relevance
+,,,,,0,anttip/first-xgb-script,First XGB Script,anttip,,2016-02-25T08:19:26.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,home-depot-product-search-relevance
+,,,,,0,mindcool/rf-mean-squared-error,RF Mean_Squared_Error,Luis,,2016-02-15T05:50:46.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,home-depot-product-search-relevance
+,,,,,0,khaledfayed/rf-mean-squared-error,RF Mean_Squared_Error,Khaled Fayed,,2016-01-25T20:06:37.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,home-depot-product-search-relevance
+,,,,,0,thep200/18021206-ho-van-thep,18021206 Ho Van Thep,TheP200,,2021-06-10T16:08:22.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,id18020047/btl-home-depot-product-search-relevance,BTL_Home Depot Product Search Relevance,qmeru,,2021-05-20T17:46:47.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,yuriicojocari/eda-analysis,EDA analysis,Iurii Cojocari,,2019-02-03T13:36:56.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,anokas/spellchecked-xgb,Spellchecked RFR,anokas,,2016-04-06T08:43:51.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,yassinealouini/first-xgb-script,First XGB Script,Yassine Alouini,,2016-03-05T20:06:32.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,omarelgabry/predict-search-relevance-by-count-words,Predict Search Relevance By Count Words,OMAR ELGABRY,,2016-02-17T21:30:41.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,tunguz/test-script-2,test_script_2,Bojan Tunguz,,2016-02-15T18:56:13.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,anokas/create-pandas-dataframe-for-train-valid,Create pandas dataframe for train/valid,anokas,,2016-02-06T18:29:26.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,junfeng/sklearn-random-forest-merge-attributes,sklearn_random_forest(merge attributes),junfeng,,2016-02-04T03:29:18.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,zhugds/test-script-1-2,test_script_1,pongba,,2016-03-18T17:14:02.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,home-depot-product-search-relevance
+,,,,,0,phamvinh/final-project,Final Project,Pham Thanh Vinh,,2022-01-08T03:31:57.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,xingobar/simple-random-forest,Simple Random Forest,Gary Ng,,2016-10-31T13:44:02.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,samrotashoka/trying2new,trying2new,Ashok kumar ,,2016-04-25T20:27:59.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,blackcore/rfr-mse,RFR_MSE,BlackCore,,2016-03-11T20:05:09.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,stprior/cross-reference-sparse-vectors,Cross Reference Sparse Vectors,Stephen Prior,,2016-03-14T23:20:57.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,jiweiliu/test-script-1,test_script_1,Jiwei Liu,,2016-02-16T03:50:51.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,raghparihar/rf-mean-squared-e,RF Mean_Squared_E,raghvendra singh,,2016-01-31T03:14:24.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,home-depot-product-search-relevance
+,,,,,0,lthhngthm/hdp-search-relevance,HDP-search-relevance,Lê Thị Hồng Thắm,,2022-01-08T10:04:16.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,tranthanhlong130201/home-depot-product-search-relevance-final,Home_Depot_Product_Search_Relevance_Final ,19021323 Trần Thành Long,,2022-01-08T05:30:07.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,imyourjoy/home-depot-product-search-relevance-ntko29,Home Depot Product Search Relevance|NTKO29,Nguyễn Thị Kim Oanh,,2022-01-08T08:32:01.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,xuanbachtran/home-depot-search-relevance-19021222,Home Depot Search Relevance - 19021222,Xuan-Bach Tran,,2022-01-07T02:38:58.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,hunnguynduy/home-depot,Home Depot,Huân Nguyễn Duy,,2022-01-05T08:44:17.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,navalchand/home-depot-product-search-using-rf-xgb,Home Depot Product Search -- Using RF & XGB,NavalChand,,2017-11-05T08:38:40.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,techiefort/mygbrtest,myGBRtest,Techie Fort,,2016-05-08T18:28:03.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,techiefort/mydataclean,myDataClean,Techie Fort,,2016-05-08T18:25:55.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,dmytrolystopad/test-22-4,test_22_4,Dmytro Lystopad,,2016-04-23T08:39:11.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,apartmentguru/snowballs-chance-in-hell,Snowballs chance in hell,Jorellano,,2016-04-21T05:41:43.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,nicolasgomezparra/trying2,trying2,Nicolás Gómez Parra,,2016-04-25T16:12:35.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc-alldata,preproc_alldata,Alexander  Larko,,2016-02-29T09:14:46.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,signochastic/rf-commonword-pipleline,RF_CommonWord_pipleline,Reza,,2016-02-26T21:07:27.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,signochastic/rf-1602-01,rf_1602_01,Reza,,2016-02-20T14:19:06.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,weiqingy/rfr-features-0-47203,RFR Features (0.47203),Wayne,,2016-02-19T21:52:43.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,jmjnob/home-depot-string-matching,home-depot-string-matching,jmj,,2016-02-18T13:58:17.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,thakurrajanand/cooking-something,cooking something,DataGeek,,2016-02-17T07:46:02.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/rf-1602-01,rf_1602_01,Alexander  Larko,,2016-02-16T03:47:23.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,tunguz/playin,Playin,Bojan Tunguz,,2016-02-15T17:58:12.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,anthonyyeo/homedepotnew,homedepotnew,Antster,,2016-02-16T02:50:13.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,millerintllc/data-mining,Data Mining?,Jason Miller,,2016-02-15T06:05:41.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,ys19931006/rf-mean-squared-error111111,RF Mean_Squared_Error111111,yshan,,2016-02-15T01:51:01.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,millerintllc/random-forest-depot,Random Forest Depot,Jason Miller,,2016-02-15T05:34:04.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,millerintllc/rf-rules-gradient-boosting-drools,RF rules Gradient Boosting Drools,Jason Miller,,2016-02-15T00:03:40.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,ys19931006/dffffff,dffffff,yshan,,2016-02-13T13:59:57.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,chenglongchen/rf-mean-squared-error,RF Mean_Squared_Error,ChenglongChen,,2016-02-13T12:39:25.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,ys19931006/rf-mean-squared-error22,RF Mean_Squared_Error22,yshan,,2016-02-08T07:39:24.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,ys19931006/rf-mean-squared-error,RF Mean_Squared_Error,yshan,,2016-02-05T01:48:02.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,manueldiaz/ridge,Ridge,Manuel Díaz,,2016-02-01T11:17:05.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,tunguz/rf-mean-squared-error2,RF Mean_Squared_Error2,Bojan Tunguz,,2016-01-26T21:05:23.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,avi9999/try-skimiarity,try_skimiarity,Avijit Dasgupta,,2016-01-26T04:24:07.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,justfor/homedepot-playground,HomeDepot_Playground,Justfor,,2016-02-06T10:56:12.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/rf-ext2101,rf_ext2101,Alexander  Larko,,2016-01-21T10:02:48.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,ashishdutt/exploratory-data-analysis-1,exploratory_data_analysis,mnm,,2016-01-22T08:11:38.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,amielm/trying-it-out,Trying it out,amiel meiseles,,2016-01-20T09:24:45.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,khanenko/search-terms-statistics,Search terms statistics,rokh,,2016-01-19T07:44:38.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,dsoreo/testing-python,Testing Python,RG,,2016-01-18T21:23:41.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,home-depot-product-search-relevance
+,,,,,0,aanyaraj/product-recommendation-system-for-e-commerce,Product Recommendation System for e-commerce,Aanya Raj Singh,,2022-05-16T17:35:41.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,namvt01/home-depot,Home Depot,NamVu01,,2022-01-08T13:13:06.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,trangtranmy/home-depot-product-search-relevance-tmht,Home Depot Product Search Relevance TMHT,Trang Trần Mỹ Hiền,,2022-01-08T04:57:38.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hoangbui171/home-depot-final,Home_Depot_final,lmao,,2022-01-08T08:31:02.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,darthreaver21/home-depot-int3405-19021268,home_depot_INT3405_19021268,Hien Vu,,2022-02-06T15:10:53.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nmanhhung/home-depot-product-search-relevance,Home depot product search relevance,Nguyễn Mạnh Hùng,,2022-01-08T03:00:34.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ngthhonganh/home-depot-product-search-relevance-ml,Home Depot Product Search Relevance ML,Đặng Thế Hoàng Anh,,2022-01-07T20:59:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ungdng/18020363,18020363,Uông Dũng,,2022-01-07T08:49:39.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hiromisnase/home-depot-int3405,Home_Depot_INT3405,2h43m.am,,2022-01-07T11:17:11.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,clemaldy/home-depot-product,home depot product,Clemaldy,,2021-12-27T09:57:37.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,marinagorbacheva/dss-model,DSS model,Marina Gorbacheva,,2021-12-28T17:33:40.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,quangnguyntrn/home-depot-product-search-relevance,Home Depot Product Search Relevance,Quang Nguyên Trần,,2021-12-27T18:21:56.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,phmngchiu/17020025-ph-m-ng-c-hi-u,17020025 - Phạm Ngọc Hiếu,Phạm Ngọc Hiếu,,2021-06-10T05:02:41.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hoang1706/version5,version5,hoang1706,,2021-05-24T20:33:16.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,id18020047/btl-neural-net,BTL_Neural_Net,qmeru,,2021-06-10T11:38:41.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sukhanshudukare/product-recommendation-system-edi,Product Recommendation System EDI,SUKHANSHU DUKARE,,2020-12-21T16:37:23.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nathanjosephjacob/location-recommendation-system,Location Recommendation System,NATHAN JOSEPH JACOB,,2020-11-07T10:05:57.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yanivrotaru/assignment-4-q-1,Assignment_4_Q_1,Yaniv Rotaru,,2020-08-06T19:18:14.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,avrahamcalev/product-search-relevance-ass4,Product Search Relevance - Ass4 ,avraham calev,,2020-07-08T12:50:59.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,richii/matchzoo-test,MatchZoo test,richi,,2021-01-31T23:50:08.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ohsaeyoon/home-depot-p-s-r-final-version,Home Depot P.S.R(Final Version),miedlev,,2019-07-24T16:52:15.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jihyeseo/home-depot-prod-search-relevance-eda-sqlite,home depot prod search relevance eda sqlite,Jihye Sofia Seo,,2018-05-08T17:18:51.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,smenon8/home-depot-product-search-mynb,Home Depot Product Search - MyNB,SreejithMenon,,2018-05-10T18:58:55.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ravarora/notebookb221bc1b54,Notebookb221bc1b54,RavneetSinghArora,,2017-11-13T05:35:46.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,harycane/notebookacf4e5c563,Notebookacf4e5c563,Hary Krishnan,,2017-05-29T14:26:12.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,thomasvdb/notebookb4304d31ab,Notebookb4304d31ab,Thomas VANDENBOGAERDE,,2017-05-26T02:03:26.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,berton/home-depot-product-search-relevance,Home Depot Product Search Relevance,berton,,2017-05-17T08:31:43.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,chuhaoda/test-count-vector,Test Count vector,chuhaoda,,2017-05-11T18:09:52.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sunder/notebook001a8f85db,Notebook001a8f85db,Sony,,2017-04-23T21:00:54.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sunder/notebook9a70306d88,Notebook9a70306d88,Sony,,2017-04-23T20:50:48.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sanjivkarani/notebooka846c8690d,Notebooka846c8690d,Sanjiv Karani,,2017-04-23T16:52:54.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sanjivkarani/notebook1ad649703f,Notebook1ad649703f,Sanjiv Karani,,2017-04-22T21:19:42.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yijiajin/notebook029d7ae357,Notebook029d7ae357,HaoHaoZuoRenHaoHaoXueXi,,2017-04-21T22:01:49.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,coffeepot/home-depot-product-relevance-competition,Home Depot Product Relevance Competition,RyanCox,,2017-09-18T16:18:12.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,akilesh/notebook42edfc4912,Notebook42edfc4912,AkileshRaj,,2017-04-07T15:02:50.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kakuxiaohe/notebook13e60d2fbf,Notebook13e60d2fbf,kaku,,2017-04-06T15:35:55.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kakuxiaohe/notebookbee51bbfe5,Notebookbee51bbfe5,kaku,,2017-04-06T15:29:08.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,christina233/notebook5f5d6f6f1b,Notebook5f5d6f6f1b,xiangleiyu,,2017-04-06T14:42:32.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,xiangwenning/notebookd1ad193c3a,Notebookd1ad193c3a,XiangwenNing,,2017-04-05T21:22:04.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,chenbotang/notebooka36c5d0c61,Notebooka36c5d0c61,ChenboTang,,2017-04-05T13:34:15.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yimanzhang222/notebook8d568a178d,Notebook8d568a178d,Yiman Zhang,,2017-04-03T23:08:07.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yutinghao/notebookab21319c2d,Notebookab21319c2d,Yuting,,2017-03-17T19:11:31.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yimanzhang222/notebook4c861eccd3,Notebook4c861eccd3,Yiman Zhang,,2017-03-17T13:15:33.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,stayalone/notebook6876c13d9f,Notebook6876c13d9f,Stayalone,,2017-03-17T19:24:32.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,saltfish/notebookb191b2d950,Notebookb191b2d950,ChenZB,,2017-03-07T10:05:24.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/notebookfbc1a763aa,Notebookfbc1a763aa,GUO Yiru,,2017-02-24T21:05:27.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/notebookc206f904bf,Notebookc206f904bf,GUO Yiru,,2017-02-24T20:32:07.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/notebookae2f8f4eef,Notebookae2f8f4eef,GUO Yiru,,2017-02-24T19:55:46.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/notebooka174527f3a,Notebooka174527f3a,GUO Yiru,,2017-02-24T19:20:11.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/notebookca83f06a5a,Notebookca83f06a5a,GUO Yiru,,2017-02-24T00:51:09.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/notebook5ef3b21e33,Notebook5ef3b21e33,GUO Yiru,,2017-02-24T00:33:35.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/fork-of-homedepot-fixtypo-4d6774,Fork of homedepot_fixtypo 4d6774,GUO Yiru,,2017-02-23T20:56:12.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/fork-of-homedepot-fixtypo,Fork of homedepot_fixtypo,GUO Yiru,,2017-02-23T20:55:44.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hanaatucl/data-exploration,Data Exploration,GUO Yiru,,2017-02-23T20:49:23.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,mounika5/relevance-of-a-search-result,Relevance Of A Search Result,GNMounika,,2017-01-17T11:22:15.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jana36/notebookb13c87c9b3,Notebookcfd7c6cd00,jana,,2017-01-16T02:33:07.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,fuyajing/data-exploration,data exploration,fuyajing,,2017-01-11T10:08:32.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,fuyajing/home-depot,Home Depot,fuyajing,,2017-01-11T02:29:35.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,demoleo/notebook2ea1a92078,Notebook2ea1a92078,demoleo,,2017-01-10T13:23:47.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,demoleo/notebook8f00a22bc2,Notebook9504bf507d,demoleo,,2017-01-10T13:18:13.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,demoleo/notebooke5c5b13d3e,Notebooke5c5b13d3e,demoleo,,2017-01-10T13:06:07.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nicolasbourbakis/notebook2587971c70,Notebook2587971c70,NicolasBourbakis,,2017-01-03T15:43:13.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,demoleo/notebook58dbfd3382,Notebook58dbfd3382,demoleo,,2017-01-03T13:05:53.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,demoleo/notebookd25cbe56f5,Notebookd25cbe56f5,demoleo,,2017-01-03T08:35:07.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,rmalshe/notebook6fcdb2b3b1,Notebook6fcdb2b3b1,RohitM,,2017-01-01T03:29:32.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,am0506/notebook6fdfde3940,Notebook6fdfde3940,Alon Mengi,,2016-12-21T22:48:55.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,afrato/notebook1161197044,Notebook1161197044,afrato,,2016-12-18T04:10:52.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,afrato/notebooke131e661f4,Notebooke131e661f4,afrato,,2016-12-16T11:07:02.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,afrato/notebook4943a0174f,Notebookeeac5b3e59,afrato,,2016-12-16T11:08:55.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,rohansadale/notebook7cdf3bcb0c,Notebook7cdf3bcb0c,Ro,,2016-12-11T01:38:00.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,rohansadale/notebook3787b51408,Notebook1966963561,Ro,,2016-12-10T18:01:53.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sogandbabaee/notebook67eb8bce93,Notebook67eb8bce93,SogandBabaee,,2016-11-30T13:14:52.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,barryscott/fixing-typos-f41f470f,Fixing Typos f41f470f,Barry Scott,,2016-11-23T19:56:30.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sogandbabaee/notebookb8985c7d6e,Notebookb8985c7d6e,SogandBabaee,,2016-11-18T17:28:56.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,aaron7sun/fixing-typos,Fixing Typos,Aaron7sun,,2016-10-31T21:58:46.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,duanxian/notebook1e327d8e40,Notebook1e327d8e40,duanxian,,2016-09-27T10:31:13.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,walijia/notebook62b9bfd55c,Notebook62b9bfd55c,Wali+,,2016-09-19T13:37:21.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dixonhu/notebook6c636e7835,Notebook6c636e7835,Dixon,,2016-08-29T03:13:32.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jsulem/notebook63d5970c40,Notebook63d5970c40,Jared,,2016-08-21T06:04:25.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,web8341/try-123,try_123,web8341,,2016-07-25T02:53:25.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,wooliekyat/this-is-a-test-file,This is a test file,WoolieKyat,,2016-07-19T17:18:24.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,zavodrobotov/deep-learning-regression,Deep Learning Regression,ZavodRobotov,,2016-07-09T15:57:39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,chimera2016/data-exploration,data exploration,RuiXiong,,2016-05-15T17:02:00.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,aeros15/abcdss,abcdss,Aeros,,2016-05-04T20:24:21.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,prasanna26/workf,workf,Prasanna,,2016-05-05T23:37:51.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jypucca/testing,testing,JennyYu,,2016-04-25T22:48:04.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jypucca/homedepot-contest,HomeDepot contest,JennyYu,,2016-04-25T22:47:09.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yaojenchang/rfr-features-0-47203-test,RFR Features (0.47203) test,Yao-Jen Chang,,2016-04-26T04:51:26.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kumareshd/test-script-gradboost,test_script_gradboost,Kumaresh,,2016-04-25T23:21:31.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yaojenchang/test-script-2,test_script_2,Yao-Jen Chang,,2016-04-26T02:34:40.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dixitgaurav/rfr-features-0-47203-gd,RFR Features (0.47203) - gd,Gaurav Dixit,,2016-04-25T15:36:38.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dmytrolystopad/trying2,trying2,Dmytro Lystopad,,2016-04-24T17:29:32.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,goncalo/xgboost01,exp01,Goncalo Gordo,,2016-04-24T16:09:36.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,adnene/first-try,first_try,AdneneTekaya,,2016-09-25T18:20:46.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dmytrolystopad/test-script-apr-m1,test_script_Apr_M1,Dmytro Lystopad,,2016-04-24T09:57:13.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,philliplemons/test-script,Test Script,PhillipLemons,,2016-04-24T03:07:17.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dmytrolystopad/test-script-m,test_script_M,Dmytro Lystopad,,2016-04-23T21:10:46.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,skyjiao/testtest,testtest,sky,,2016-04-23T21:15:29.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,united/test-script-apr-23,test_script_Apr_23,Ivan,,2016-04-23T20:47:17.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,signochastic/test-script-apr-23,test_script_Apr_23,Reza,,2016-04-25T19:32:20.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,cast42/test-script-1,test_script_1,cast42,,2016-04-25T20:42:37.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kotomord/test-22-4,test_22_4,Kotomord,,2016-04-23T11:14:34.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,united/home-depot-2,home_depot_2,Ivan,,2016-04-23T09:40:47.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,signochastic/test-22-4,test_22_4,Reza,,2016-04-22T20:48:16.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,united/random-forest-regressor-v1,Fixed Typos (RFR) v2,Ivan,,2016-04-22T14:07:10.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,cj87holler/beginning-analysis,Beginning Analysis,C.J.Holler,,2016-04-22T04:55:12.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nirupamkar/thehomedepot-py,thehomedepot.py,Nirupam Kar,,2016-04-21T23:08:48.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,itodorovic/missing-script,Missing Script,itod,,2016-04-21T17:18:38.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dmytrolystopad/test-script-1,test_script_1,Dmytro Lystopad,,2016-04-21T16:15:54.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,coolife/preprocessing-1,preprocessing_1,Kalyan,,2016-04-21T06:39:00.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,coolife/preprocessing,preprocessing,Kalyan,,2016-04-20T22:55:28.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,scirpus/attribute-metrics,Attribute Metrics,Scirpus,,2016-04-20T13:44:25.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sarora6/newproductsearch,newProductSearch,SrishtiArora,,2016-04-21T05:11:01.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sarora6/my-script,My Script,SrishtiArora,,2016-04-19T21:38:45.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,arjundatt/trial1,Trial1,arjun sharma,,2016-04-19T21:39:44.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,tunguz/rfr-features,RFR Features,Bojan Tunguz,,2016-04-19T15:16:37.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,tunguz/rfr-features-0-47203,RFR Features (0.47203),Bojan Tunguz,,2016-04-19T14:16:25.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,prateekbhat/decision-tree-relevance1,Decision Tree Relevance1,Prateek,,2016-06-20T22:22:28.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,falconzyx/test-code,test_code,falconzyx,,2016-04-19T15:51:29.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,falconzyx/initial,Initial,falconzyx,,2016-04-19T15:30:32.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,chirz8/cjk1404-1,cjk1404,Chiranjeev,,2016-04-14T10:38:17.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,techiefort/todiscard,todiscard,Techie Fort,,2016-04-12T12:43:22.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,techiefort/mytest,mytest,Techie Fort,,2016-04-11T18:46:43.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,soumyasmruti/test-script-1,test_script_1,Soumya Smruti Mishra,,2016-04-09T12:13:42.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sundancekid/suitablestrategies,suitablestrategies,sundancekid,,2016-04-08T23:06:46.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,wooliekyat/wooliekyat,wooliekyat,WoolieKyat,,2016-04-08T03:06:27.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ronyrozas/seach-relevance,seach_relevance,Rony Rozas,,2016-04-08T10:31:25.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jwegas/functions-and-imports,functions_and_imports,Evgenii Zhukov,,2016-04-07T03:58:22.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jwegas/test-2,test_2,Evgenii Zhukov,,2016-04-07T03:44:44.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jwegas/test-1,test_1,Evgenii Zhukov,,2016-04-07T03:25:02.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jwegas/asdsad,asdsad,Evgenii Zhukov,,2016-04-07T01:58:12.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,antgoldbloom/aaaaa,aaaaa,Anthony Goldbloom,,2016-04-05T16:35:31.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dyfrigmon/submission1,Submission1,diggymon,,2016-04-04T13:09:01.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,howardxie/readfiletest,readfiletest,jasoos,,2016-04-02T20:45:22.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,naheed/fixing-typos,Fixing Typos,Naheed,,2016-03-31T11:32:24.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,praveen24kumar/fixing-typos,Fixing Typos,StillTrying,,2016-03-31T09:53:40.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,cleobatista/working-with-relationship-between-words,working with relationship between words,Cleo Batista,,2016-03-30T23:25:55.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,extraequal/testhomedepot,testHomedepot,bojan sovilj,,2016-03-30T07:58:40.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yonzhang/hello-world,"hello, world",YongZhang,,2016-03-28T12:34:12.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kevings14/kevin-testing,kevin_testing,KevinGarcia,,2016-03-23T21:34:57.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,traviswww/aaaweqweqw,aaaweqweqw,Travis Wu,,2016-03-23T12:43:01.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,howardxie/testing-script1,testing_script1,jasoos,,2016-03-22T15:51:07.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,howardxie/testing-script,testing_script,jasoos,,2016-03-22T15:49:32.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,soumyajitdas/sklearn-random-forest,sklearn_random_forest,dunzanburren,,2016-03-22T06:15:18.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,benhamner/quick-demo,quick demo,Ben Hamner,,2016-03-21T17:45:09.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,xauen1980/firsttest1-1,firsttest1,xauen,,2016-03-18T17:53:45.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,albinocordeiro/exploring,Exploring,AlbinoCordeiroJr,,2016-03-15T03:30:41.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jontrabai/hdsearch,hdsearch,jtb,,2016-08-14T17:33:21.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,mhkane/rf-mean-squared-error,RF Mean_Squared_Error,Mohamed Kane,,2016-03-13T03:38:03.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,zczlzti/rfr-features-0-47203,RFR Features (0.47203),huluhulu,,2016-03-12T08:57:19.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,mishravarun/rfr-features-0-47203,RFR Features (0.47203),mishravarun,,2016-03-12T00:30:01.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,aerohead/hd-notebook,HD_notebook,Aerohead,,2016-03-12T00:10:57.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,beteemde/test-script-1,test_script_1,btmd,,2016-03-10T09:10:19.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,teemuk/testi,testi,Teemu,,2016-03-10T08:05:06.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,andrewdumit/test-for-home-depot,Test_for_Home_Depot,AndrewD,,2016-03-08T11:08:11.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,mayukh18/formatting,formatting,Mayukh Bhattacharyya,,2016-03-07T18:53:00.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,mayukh18/rf-mean-squared-error,RF Mean_Squared_Error,Mayukh Bhattacharyya,,2016-03-07T12:13:27.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,fordants/hdepot,hdepot,ngram,,2016-03-06T05:29:54.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sray1234/first-test,first_test,sray1234,,2016-03-06T04:20:15.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,teppeikns/testcodes,testcodes,TEPPEI_KNS,,2016-03-12T08:10:29.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dartcs74jst/rfr-features-0-47203,RFR Features (0.47203),Jonathan Huang,,2016-03-05T21:36:26.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,buaahsh/rfr-features,RFR Features,buaahsh,,2016-03-05T15:31:40.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jonathan1182/home-depot-data-prep,Home Depot Data Prep,Datawonk,,2016-03-07T13:31:11.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,abhishm/rfr-features-0-47203,RFR Features (0.47203),abhishek mishra,,2016-03-03T17:59:52.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,renvaldas/testing,Testing,renvaldas,,2016-03-03T09:46:25.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,m00nlight/rfr-features-0-47203,RFR Features (0.47203),m00nlight,,2016-03-01T05:50:20.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,yueyang85/test123,test123,yueyang,,2016-02-28T22:08:15.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,rafaelcosman/rf-mean-squared-error,RF Mean_Squared_Error,Rafael Cosman,,2016-02-29T01:24:31.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,rafaelcosman/homedepotsolution,HomeDepotSolution,Rafael Cosman,,2016-02-29T01:24:29.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,starsdeep/rfr-features-0-47203,RFR Features (0.47203),starsdeep,,2016-02-28T09:52:33.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,soundwaveli00/rfr-features-0-47203,RFR Features (0.47203),Hang,,2016-02-28T06:17:01.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jlecoq/homee,HomeE,Jérôme Lecoq,,2016-02-28T06:05:47.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,scrivna/sklearn-random-forest,sklearn_random_forest,Ross Scrivener,,2016-02-27T22:08:59.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,morgan201602/rf-mean-squared-error,RF Mean_Squared_Error,morgan,,2016-02-27T16:29:51.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,vincentf/test-package,test_package,Vincent Firmansyah,,2016-02-27T11:57:18.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,scirpus/test-script-1,test_script_1,Scirpus,,2016-02-27T11:40:03.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,luoql1986/rfr-features-0-47203,RFR Features (0.47203),luoql1986,,2016-02-27T04:35:03.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dartcs174sudimaster/testtest,TestTest,DartCS74_sudimaster,,2016-02-27T03:00:12.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dartcs174sudimaster/testonlytoday,TestOnlyToday,DartCS74_sudimaster,,2016-02-27T02:51:07.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,aliangng/lianghd,LiangHD,liangL,,2016-02-26T23:33:44.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,guyserbun007/samplecode,SampleCode,Kai Wong,,2016-02-26T22:33:58.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sundancekid/rfr-features-0-47203,RFR Features (0.47203),sundancekid,,2016-02-25T20:39:50.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,shuvayan/rfr-features-0-47203,RFR Features (0.47203),Shuvayan Das,,2016-02-25T13:57:15.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,neoterics/rf-mean-squared-error,RF Mean_Squared_Error,nEO,,2016-02-25T13:51:49.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,zhlykan/haveatry,haveatry,lykan,,2016-06-03T03:15:22.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,fnogueira/testing,testing,fernando nogueira,,2016-02-24T20:21:37.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,bofial/testinge,testinge,CarlosLoureiro,,2016-02-24T17:54:11.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,sravanb/rfr-features-0-47203,RFR Features (0.47203),Sravan Babu Bodapati,,2016-02-24T11:54:11.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,flyingmeatball/sklearn-random-forest,sklearn_random_forest,Flyingmeatball,,2016-02-24T04:31:51.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jiajiaxingxing/rf-mean-squared-error-test,RF Mean_Squared_Error_test,AustinSi,,2016-02-24T02:14:21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,guaiguai/first,first,guaiguai,,2016-02-23T15:07:52.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jiajiaxingxing/rf-mean-squared-error,RF Mean_Squared_Error,AustinSi,,2016-02-23T14:28:59.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nebulous/rf-mean-squared-error4,RF Mean_Squared_Error4,nebulous,,2016-02-23T01:00:32.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nebulous/rf-mean-squared-error3,RF Mean_Squared_Error3,nebulous,,2016-02-23T00:22:38.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ntejada/rf-mean-squared-error,RF Mean_Squared_Error,ntejada,,2016-02-22T23:57:57.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nebulous/rf-mean-squared-error2,RF Mean_Squared_Error2,nebulous,,2016-02-22T23:54:25.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nebulous/rf-mean-squared-error1,RF Mean_Squared_Error1,nebulous,,2016-02-22T23:32:21.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nebulous/rf-mean-squared-error,RF Mean_Squared_Error,nebulous,,2016-02-22T23:30:31.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,uditsaini/temp-test-1,temp_test,udit,,2016-02-22T17:46:49.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nlothian/rfr-features-0-47203,RFR Features (0.47203),nickl,,2016-02-22T10:50:30.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,eeriee/system-version,system version,eeriee,,2016-03-08T06:38:17.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,signochastic/random-forest-depot,Random Forest Depot,Reza,,2016-02-21T22:46:07.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,raghparihar/rfr-features-0-47203,RFR Features (0.47203),raghvendra singh,,2016-02-21T21:49:58.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,tamal059/rf-mean-squared-error,RF Mean_Squared_Error,TamalRoy,,2016-02-21T17:46:19.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,aksbond7/rfr-features-0-47203,RFR Features (0.47203),AkshayBhonde,,2016-02-21T17:55:41.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,oorion/rf-mean-squared-error,RF Mean_Squared_Error,OrionOsborn,,2016-02-21T06:46:08.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,lisabang/jkljk,jkljk,Lisa Bang,,2016-02-21T01:13:08.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,signochastic/rfr-features-try,RFR Features_try,Reza,,2016-02-20T13:31:33.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ezequielaguilar/rfr-features-0-47203,RFR Features (0.47203),Ezequiel Aguilar-Gonzalez,,2016-02-20T05:37:16.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,ezequielaguilar/rf-mean-squared-error,RF Mean_Squared_Error,Ezequiel Aguilar-Gonzalez,,2016-02-20T05:34:33.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,millerintllc/rf-depot,RF Depot,Jason Miller,,2016-02-20T23:19:44.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,mldude/testhd,TestHD,Brandon O,,2016-02-19T21:02:52.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kumareshd/test-script-2,test_script_2,Kumaresh,,2016-02-29T16:11:03.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,onepau/rfr-features-0-47203,RFR Features (0.47203),onepau,,2016-02-19T17:31:16.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,darraghdog/test-script-1,test_script_1,Darragh,,2016-02-19T15:52:18.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kishoreb4/rfr-features-0-47203,RFR Features (0.47203),kishore,,2016-02-19T14:08:50.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,burness/rfr-features-0-47203,RFR Features (0.47203),burness,,2016-02-19T12:14:54.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hemalthakkar/env-version,env version,GoogleDarling,,2016-02-19T03:47:23.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hswater1/rf-mean-squared-error,RF Mean_Squared_Error,ShenHuang,,2016-02-20T06:23:16.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc-4,preproc_4,Alexander  Larko,,2016-02-19T02:57:00.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/xgb-feats,XGB_feats,BlackCore,,2016-02-18T20:57:06.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,walkman/test-systemversion,test_systemversion,walkman,,2016-02-18T15:11:05.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,beteemde/rfr-test,RFR_test,btmd,,2016-02-18T10:14:09.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,tyskaj/rf-mean-squared-error,RF Mean_Squared_Error,Justyna,,2016-02-18T09:04:33.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,plewanda/rfr-features-0-47203,RFR Features (0.47203),PiotrLewanda,,2016-02-18T11:42:50.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,millerintllc/hd-rf,HD RF,Jason Miller,,2016-02-18T04:36:37.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hemalthakkar/rfr-features-0-47203,RFR Features (0.47203),GoogleDarling,,2016-02-19T03:36:40.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,bluebalam/rfr-features-0-47326,RFR Features (0.47326),bluebalam,,2016-02-17T23:46:12.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kperif/sklearn-random-forest,sklearn_random_forest,gand,,2016-02-17T23:09:15.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc-3,preproc_3,Alexander  Larko,,2016-02-17T14:47:19.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,shawnwang/searchmatch,SearchMatch,ShawnWang,,2016-02-17T11:40:45.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/rfr-features,RFR_Features,BlackCore,,2016-02-17T11:19:15.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,matrix007/rfr-features-0-47326,RFR Features (0.47326),CyberZhu,,2016-02-17T10:05:57.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,myloginid/rf-mean-squared-error,RF Mean_Squared_Error,Manish Maheshwari,,2016-02-17T03:35:43.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/stem-text,stem_text,Alexander  Larko,,2016-02-17T03:03:38.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,michaelpawlus/test-script-1,test_script_1,Michael Pawlus,,2016-02-17T02:12:41.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,wangjuan313/rf-mean-squared-error,RF Mean_Squared_Error,Juan Wang,,2016-02-17T00:43:06.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,walkman/rf-mean-squared-error,RF Mean_Squared_Error,walkman,,2016-02-16T21:13:19.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,niteloser/benchmarkscript,BenchMarkScript,Niteloser,,2016-02-16T17:57:43.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc-2new,preproc_2new,Alexander  Larko,,2016-02-16T15:25:02.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,imathur94/trialscript-im,trialscript_IM,IshitaMathur,,2016-02-16T16:03:54.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,burness/rf-mean-squared-error,RF Mean_Squared_Error,burness,,2016-02-16T12:18:44.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,myamaguchi/test-script-1,test_script_1,Masataka Yamaguchi,,2016-02-16T07:16:37.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,wangjuan313/test-py,test.py,Juan Wang,,2016-02-16T07:05:07.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,anthonyyeo/new-script-16feb,new script 16feb,Antster,,2016-02-16T06:32:23.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,smeschke/same-words,same words,smeschke,,2016-02-16T05:34:38.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nlothian/monkey-ngrams-notebook,monkey-ngrams-notebook,nickl,,2016-02-16T04:49:28.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,soundwaveli00/test-script-1,test_script_1,Hang,,2016-02-16T06:07:30.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,lvraikkonen/rf-commonword-pipleline,RF_CommonWord_pipleline,Claus,,2016-02-16T04:12:36.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,hansolo/rf-mean-squared-error,RF Mean_Squared_Error,ShortBusDataScience,,2016-02-16T01:43:00.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,signochastic/rf-mean-squared-error,RF Mean_Squared_Error,Reza,,2016-02-15T23:56:42.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,plewanda/test-script-1,test_script_1,PiotrLewanda,,2016-02-15T13:51:11.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,beteemde/grid-test,grid_test,btmd,,2016-02-15T08:03:26.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,fionachen/test-script-2,test_script_2,Fiona,,2016-02-15T05:19:26.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/rf-py-1502v1,rf_py_1502v1,Alexander  Larko,,2016-02-15T05:14:11.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,millerintllc/rf-mean-squared-error,RF Mean_Squared_Error,Jason Miller,,2016-02-14T06:18:25.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,raghparihar/rf-mean,RF Mean,raghvendra singh,,2016-02-13T19:46:00.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,amandus/rf-mean-squared-error,RF Mean_Squared_Error,amandus,,2016-02-13T13:59:17.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dimitrislev/rf-mean-squared-error,RF Mean_Squared_Error,Dimitris Leventis,,2016-02-13T13:07:47.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kesamet/rf-test1,rf_test1,Kok Meng Tan,,2016-02-12T07:51:02.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,samcharr/rf-mean-squared-error,RF Mean_Squared_Error,SamC,,2016-02-11T19:53:50.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc-2full,preproc_2full,Alexander  Larko,,2016-02-11T09:48:27.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,myamaguchi/rf-mean-squared-error2,RF Mean_Squared_Error2,Masataka Yamaguchi,,2016-02-11T08:46:36.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,afinefellow/rf-mean-squared-error,RF Mean_Squared_Error,Ed Fine,,2016-02-11T00:00:46.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,gprasa7s/some-checks,Some checks,Prasad Godbole.,,2016-02-10T12:24:36.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,myamaguchi/rf-mean-squared-error,RF Mean_Squared_Error,Masataka Yamaguchi,,2016-02-10T11:18:26.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jonsheller/n-grams-and-random-forest-grid-search,N-grams and random forest grid search,Jon Sheller,,2016-02-10T07:22:13.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,innerproduct/rf-mean-squared-error-orig,RF Mean_Squared_Error_orig,Alexander Pushkin,,2016-02-09T21:48:51.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,chaotic/rf-mean-squared-error,RF Mean_Squared_Error,Chaos,,2016-02-09T20:10:25.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexlzzz/rf-mean-squared-error,RF Mean_Squared_Error,==>(AL)<==,,2016-02-10T01:31:53.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dsiap2/testing-list,testing_list,dsiap2,,2016-02-10T00:22:51.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kyoshida/rf-mean-squared-error,RF Mean_Squared_Error,Kotaro,,2016-02-09T16:32:04.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,beteemde/rf-mean-squared-error,RF Mean_Squared_Error,btmd,,2016-02-09T10:01:59.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,raghparihar/rf-mean-s,RF Mean_S,raghvendra singh,,2016-02-08T20:25:30.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,iliasemenov/rf-mean-squared-error,RF Mean_Squared_Error,Ilia Semenov,,2016-02-08T16:24:35.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nanr1987/testing-py-script,testing_py_script,NanR,,2016-02-08T09:46:02.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,shuvayan/rf-attr,rf attr,Shuvayan Das,,2016-02-09T15:10:34.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc-2,preproc_2,Alexander  Larko,,2016-02-08T06:25:48.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,shawn775/rf-mean-squared-error,RF Mean_Squared_Error,shawn,,2016-02-07T14:10:19.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,husseinnegm/intermediate-no-model,intermediate (no model),Hussein Negm,,2016-02-05T13:57:08.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/rf-preproc-mse,RF_Preproc_MSE,BlackCore,,2016-02-04T23:35:08.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,stprior/homedepotscratch,HomeDepotScratch,Stephen Prior,,2016-03-02T21:23:53.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dimitrislev/homedepot-seeds2,homedepot_seeds2,Dimitris Leventis,,2016-02-04T09:39:49.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,closeapproximation/approx,approx,closeapproximation,,2016-02-04T23:31:59.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,gprasa7s/sklearn-random-forest,sklearn_random_forest,Prasad Godbole.,,2016-02-03T13:48:54.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,gprasa7s/asdfg,asdfg,Prasad Godbole.,,2016-02-03T13:47:28.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,srivaths/srivathsan-script,srivathsan_script,Srivathsan R,,2016-02-09T16:08:22.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,eeriee/home-depot,home_depot,eeriee,,2016-02-03T12:17:09.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/dt-ada-test,DT_Ada_test,BlackCore,,2016-02-02T22:26:25.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/nltk-stemmer-distance,NLTK Stemmer & Distance,BlackCore,,2016-02-02T22:27:30.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nkhuyu/rf-mean-squared-e,RF Mean_Squared_E,nkhuyu,,2016-02-02T06:47:29.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,lucienderubempre/rf-mean-squared-e,RF Mean_Squared_E,Lucien de Rubempre,,2016-02-02T01:50:11.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/rf-brand-test,RF_Brand_test,BlackCore,,2016-02-05T14:39:32.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,burningflame/rf-mean-squared-e,RF Mean_Squared_E,burningflame,,2016-02-01T21:32:34.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,dankolbman/rf-with-brands,RF with Brands,Dan Kolbman,,2016-02-01T16:18:58.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexlzzz/rf-mean-squared-al1,RF Mean_Squared_AL1,==>(AL)<==,,2016-01-29T07:19:19.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,khaledfayed/rf-mean-squared-e,RF Mean_Squared_E,Khaled Fayed,,2016-01-28T22:56:37.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,husseinnegm/rf-gridsearch,RF-gridSearch,Hussein Negm,,2016-01-30T13:59:19.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,biased/first,first,Kevin Mandich,,2016-01-27T23:42:53.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,juliendurand/exploration,Exploration,JulienDurand,,2016-01-27T21:23:15.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,juliendurand/exploration-notebook,Exploration Notebook,JulienDurand,,2016-01-27T22:33:31.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,abhilashawasthi/rf-mean-squared-e,RF Mean_Squared_E,Abhilash Awasthi,,2016-01-27T14:30:44.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexscheelmeyer/sklearn-random-forest,sklearn_random_forest,syntax,,2016-01-27T08:33:44.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kaggler110855/sample,Sample,Anonymous,,2016-01-28T06:46:46.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,scyllagist/sklearn-random-forest,sklearn_random_forest,Alistair McGregor,,2016-01-26T23:21:28.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,scyllagist/test1,test1,Alistair McGregor,,2016-01-26T21:25:04.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,avi9999/try-dekhi9,try_dekhi9,Avijit Dasgupta,,2016-01-26T04:49:19.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/rf-mean-squared-error2,RF Mean_Squared_Error2,BlackCore,,2016-01-29T20:56:19.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,blackcore/rf-mean-squared-error,RF Mean_Squared_Error,BlackCore,,2016-01-28T07:20:02.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,soundwaveli00/rf-mean-squared-error,RF Mean_Squared_Error,Hang,,2016-01-25T18:14:28.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,caaa81/otra-copia-mejorada,otra copia mejorada,Carlos A. del Álamo Alonso,,2016-01-26T16:59:23.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,avi9999/rf-mean-squared-error,RF Mean_Squared_Error,Avijit Dasgupta,,2016-01-25T17:40:27.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,jaredchung/testing-notebook,Testing Notebook,Jared Chung,,2016-01-25T11:34:39.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,liuyiqun/benchmark,benchmark,Violet Liu,,2016-01-24T04:12:37.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,saminiemi/sklearn-random-forest,sklearn_random_forest,Sammy,,2016-01-23T21:07:45.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,leftright/homedepot-seed-23-c-percentage,homedepot_seed_23_c_percentage,Left Right,,2016-01-23T17:14:16.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,leftright/sklearn-random-forest-percentage,sklearn_random_forest percentage,Left Right,,2016-01-23T15:47:32.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,zulanu/test123,test123,zulanu,,2016-01-23T14:18:00.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,datasj/xgboost-2,Xgboost,jigyasu10,,2016-01-23T07:13:15.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexlzzz/homedepot-seed-23-c,homedepot_seed_23_c,==>(AL)<==,,2016-01-22T16:33:10.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,caaa81/homedepot-seed-23-c,homedepot_seed_23_c,Carlos A. del Álamo Alonso,,2016-01-22T12:52:55.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,nester/checking,checking,Evgenii Nesterenko,,2016-01-22T05:51:53.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,alexxanderlarko/preproc,preproc,Alexander  Larko,,2016-01-22T02:28:40.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,tunguz/homedepot-seed-23,homedepot_seed_23,Bojan Tunguz,,2016-01-21T16:30:55.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,abhilashawasthi/homedepot-seed-23,homedepot_seed_23,Abhilash Awasthi,,2016-01-22T14:38:10.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,kumareshd/homedepot-seed-23,homedepot_seed_23,Kumaresh,,2016-01-22T14:54:35.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,tomvalh/demos,Demos,TomasVH,,2016-01-21T11:03:57.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,lvzhiqiang/testdata,testdata,lvzhiqiang,,2016-01-21T08:27:21.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,cleobatista/home-depot,home_depot,Cleo Batista,,2016-02-14T00:48:05.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,pyrite/testing-kaggle-notebooks,Testing Kaggle Notebooks,buzz,,2016-01-21T03:32:33.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance
+,,,,,0,stephenl/first-py,first.py,StephenLee,,2016-01-18T20:47:37.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,home-depot-product-search-relevance

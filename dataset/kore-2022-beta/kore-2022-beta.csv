@@ -1,0 +1,8 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,bovard/kore-fleets-intro-part-1-the-basics,Kore Fleets Intro Part 1: The Basics,Bovard,,2022-03-19T02:33:28.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,kore-2022-beta
+,,,,,0,bovard/basic-python-starter-notebook,Basic Python Starter Notebook,Bovard,,2022-03-21T21:04:13.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,kore-2022-beta
+,,,,,0,masaishi/kore2022-q-learning,kore2022 Q-learning,masaishi,,2022-04-01T00:40:36.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,kore-2022-beta
+,,,,,0,bovard/kore-intro-part-4-combat,Kore Intro Part 4: Combat!,Bovard,,2022-03-18T21:20:55.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,kore-2022-beta
+,,,,,0,masaishi/plot-of-mining-rate-and-distance,Plot of Mining rate and Distance ,masaishi,,2022-03-25T07:03:11.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,kore-2022-beta
+,,,,,0,bovard/kore-intro-part-3-expanding-the-empire,Kore Intro Part 3: Expanding the Empire!,Bovard,,2022-03-18T21:23:34.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kore-2022-beta
+,,,,,0,bovard/kore-intro-part-2-mining-kore,Kore Intro Part 2: Mining Kore,Bovard,,2022-03-31T19:53:50.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kore-2022-beta

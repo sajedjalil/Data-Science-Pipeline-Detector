@@ -1,0 +1,101 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,michalbrezk/denoise-images-using-autoencoders-tf-keras,"Denoise images using Autoencoders [TF, Keras]",Michal Brezak,,2020-11-09T08:19:42.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,denoising-dirty-documents
+,,,,,0,aakashnain/denoising-autoencoders-to-the-rescue,Denoising: Autoencoders to the rescue!!,NAIN,,2018-02-06T17:38:40.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,denoising-dirty-documents
+,,,,,0,rdokov/background-removal,Background removal,Rangel Dokov,,2015-06-08T15:27:16.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],56,denoising-dirty-documents
+,,,,,0,anmour/convolutional-autoencoder-with-keras,Convolutional Autoencoder with Keras,anmour,,2019-02-09T01:55:43.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,denoising-dirty-documents
+,,,,,0,palaksood97/image-denoising,Image Denoising,palak sood,,2019-03-17T12:31:06.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,denoising-dirty-documents
+,,,,,0,sushanth1995/image-augmentation-and-neural-encoder-decoder,Image-augmentation and Neural Encoder-Decoder,Susanth Dasari,,2020-05-05T05:36:54.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,denoising-dirty-documents
+,,,,,0,ahmedpyarali/autoencoded-denoising,Autoencoded denoising,Mr.PyCharm,,2016-12-25T10:48:57.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,denoising-dirty-documents
+,,,,,0,ritvik1909/denoising-autoencoder-image-augmentation,Denoising Autoencoder & Image Augmentation,Ritvik Rastogi,,2021-01-06T05:09:58.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,denoising-dirty-documents
+,,,,,0,rdokov/nn-starter-kit,NN starter kit,Rangel Dokov,,2015-06-14T18:39:59.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,denoising-dirty-documents
+,,,,,0,dchudz/clean-by-thresholding,Clean by Thresholding,David Chudzicki,,2015-05-28T18:01:39.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,denoising-dirty-documents
+,,,,,0,a7madmostafa/denoising-images-using-conv-autoencoders,Denoising Images Using Conv. Autoencoders,Ahmad Mostafa,,2021-10-29T05:43:22.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,denoising-dirty-documents
+,,,,,0,ngutten/high-pass-filter,High pass filter,Nicholas Guttenberg,,2015-06-10T02:35:17.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,denoising-dirty-documents
+,,,,,0,phylake1337/clear-it,Clear it!,Ahmed Saied,,2020-03-14T14:01:03.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,denoising-dirty-documents
+,,,,,0,uurdeep/document-cleaner-with-convolutional-autoencoder,Document-Cleaner With Convolutional AutoEncoder,Uğur Keskin,,2020-01-27T14:41:25.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,denoising-dirty-documents
+,,,,,0,zhoulingyan0228/denoising-documents-w-cnn,Denoising Documents w/ CNN,Lingyan Zhou,,2018-07-07T23:32:05.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,denoising-dirty-documents
+,,,,,0,takagiwa/predicting-background-image,predicting background image,M. Takagiwa,,2015-10-04T06:30:40.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,denoising-dirty-documents
+,,,,,0,mohamedahmedae/dae-denoiseautoencoders,DAE_DenoiseAutoencoders,Mohamed Ahmed,,2022-06-29T00:45:42.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,denoising-dirty-documents
+,,,,,0,oliversherouse/denoising-with-ransom-forests,Denoising with Random Forests,OliverSherouse,,2015-08-03T02:33:14.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,denoising-dirty-documents
+,,,,,0,shivamjohri/document-cleaner-with-cnn-autoencoder-rmsprop,Document-Cleaner With CNN Autoencoder-RMSprop,Shivam Johri,,2020-07-15T05:36:14.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,denoising-dirty-documents
+,,,,,0,johnlehmann/fastai-unet-denoiser,Fastai Unet Denoiser,John Lehmann,,2020-04-17T23:28:29.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,denoising-dirty-documents
+,,,,,0,dimakyn/keras-cnn-autoencoder,Keras CNN Autoencoder,DimaKyn,,2020-02-25T17:45:42.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,denoising-dirty-documents
+,,,,,0,atrisaxena/autoencoders-denoising-dirty-document,AutoEncoders: Denoising Dirty Document ,Atri Saxena,,2018-09-04T14:25:41.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,denoising-dirty-documents
+,,,,,0,vsmolyakov/fc-autoencoder,FC Autoencoder,vsmolyakov,,2016-12-10T20:37:30.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,denoising-dirty-documents
+,,,,,0,ajitmotra/denaoise-with-preserved-background-color,Denaoise with preserved background color,AjitMotra,,2015-06-20T09:27:20.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,denoising-dirty-documents
+,,,,,0,rebelgiri/document-denoising,Document_Denoising,Giriraj Pawar,,2021-02-24T07:31:34.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,denoising-dirty-documents
+,,,,,0,daenys2000/keras-denoising-autoencoders,Keras Denoising Autoencoders,Nitisha Singh,,2020-06-30T05:50:09.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,denoising-dirty-documents
+,,,,,0,laurauzcategui/denoising-dirty-docs,denoising_dirty_docs,Laura Uzcategui,,2020-05-17T19:05:57.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,denoising-dirty-documents
+,,,,,0,ahmedjimy/autoencoders-for-denoising-with-visualizations,Autoencoders for Denoising with Visualizations,Ahmed Gamaleldin,,2020-03-17T18:32:51.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,denoising-dirty-documents
+,,,,,0,mynameisvinn/foo123,foo123,mynameisvinn,,2015-07-09T19:54:44.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,denoising-dirty-documents
+,,,,,0,rajaraman6195/image-denoise,Image denoise,Rajaraman Ekambaram,,2020-09-18T03:56:11.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,denoising-dirty-documents
+,,,,,0,company/high-pass-filter-v1-1,High pass filter v1.5,Ravi Chandibhamar,,2015-07-08T13:47:31.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,denoising-dirty-documents
+,,,,,0,mattgenkin/background-removal,thresholds and morphology with skimage,Matvey Genkin,,2015-07-08T20:57:40.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,denoising-dirty-documents
+,,,,,0,maurizios/an-experience-with-adattati-thresholding,An experience with adattati thresholding,Maurizio Spadari,,2015-07-06T15:13:52.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,denoising-dirty-documents
+,,,,,0,maurizios/experimenting-with-skim-age,Experimenting with skim age,Maurizio Spadari,,2015-07-02T22:30:46.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,denoising-dirty-documents
+,,,,,0,benhamner/no-cleaning-benchmark-streaming,No Cleaning Benchmark (Streaming),Ben Hamner,,2015-07-27T21:37:03.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,denoising-dirty-documents
+,,,,,0,sunnynevarekar/denoising-dirty-documents-using-autoencoder,Denoising dirty documents using autoencoder,sunnynevarekar,,2020-02-19T18:32:14.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,vinayver/denoising-documents-using-autoencoder,Denoising documents using AutoEncoder,Vinay Kumar Verma,,2020-02-05T13:30:38.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,hahmed747/background-removal-using-fastai-unet-learner,Background Removal using Fastai Unet Learner,Haroon Ahmed,,2020-04-16T07:15:28.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,rakeshvd/cleaning-documents-using-autoencoder,Cleaning_documents_using_Autoencoder,Rakesh Dhotre,,2019-09-18T11:45:36.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,forhadsidhu/explanation-autoencoder-works-implementation,Explanation Autoencoder works & implementation,Sharif Ullah,,2019-04-21T14:24:28.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,aeter42/denoising-documents-with-conv-autoencoders,Denoising documents with Conv. Autoencoders,Carlos Gonzalez,,2018-09-03T06:49:44.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,erdoganb/recreating-images-with-autoencoder,Recreating images with AutoEncoder,Erdogan B,,2017-05-07T10:40:59.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,johnnystrings/denoising-with-random-forests,Denoising with Random Forests,Johnny Strings,,2015-08-31T01:21:09.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,toya92/subtract-noisy-background,Subtract Noisy Background   ,Prasetia Utama,,2015-08-19T07:32:03.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,company/high-pass-filter-v1-2,High pass filter v1.2,Ravi Chandibhamar,,2015-07-08T13:29:22.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,company/an-experience-with-adattati-thresholding,An experience with adattati thresholding,Ravi Chandibhamar,,2015-07-08T13:20:36.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,maurizios/comb-of-threshold-mask,Comb. of threshold+mask,Maurizio Spadari,,2015-07-08T12:24:31.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,maurizios/initial-testing-with-contour,Initial testing with contour,Maurizio Spadari,,2015-07-02T21:24:26.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,sunnymarius/try-to-see-best-one,try to see best one,Marius,,2015-06-11T04:44:29.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,emanuek/clean-by-thresholding,Clean by Thresholding,Emanuel Calvo,,2015-06-12T00:58:35.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,dchudz/no-cleaning-benchmark,No Cleaning Benchmark,David Chudzicki,,2015-05-29T13:01:18.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,denoising-dirty-documents
+,,,,,0,weisinx7/denoising-by-autoencoder-mixed-data,Denoising by Autoencoder (Mixed Data),ckwei,,2022-06-19T12:10:44.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,weisinx7/denoising-by-mprnet,Denoising by MPRNet,ckwei,,2022-06-19T06:32:46.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,nitin29/notebook110a9794e4,notebook110a9794e4,NitinKshatriya,,2021-01-12T17:26:22.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,ndl17020871/unzip-denoising-dirty-documents,unzip denoising-dirty-documents,NDL17020871,,2020-11-28T03:02:17.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,iamsaksham/denoising-dirt-documents,Denoising dirt documents,iamsaksham,,2019-11-08T11:08:22.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,shubham19934/image-prepocessing,image_prepocessing,Shubham,,2019-10-18T11:44:50.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,werty12121/data-lit-images-denoising,[Data-Lit] Images Denoising,Bartosz Przechera,,2019-06-08T05:55:29.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,ribhavs54/kernel784c307d6a,kernel784c307d6a,Ribhav Saini,,2019-05-27T16:12:22.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,ajithvajrala/convolutional-autoencoder-with-keras,Convolutional Autoencoder with Keras,Ajith Vajrala,,2019-04-10T19:28:56.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,ajithvajrala/auto-encoders-for-denoising,Auto Encoders for Denoising,Ajith Vajrala,,2019-04-09T16:03:19.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,muthukrishnan/removing-background-noise-from-dirty-documents,removing background noise from dirty documents,Muthukrishnan,,2019-01-06T02:13:59.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,zhoulingyan0228/denoising-documents-w-feature-engineered,Denoising Documents w/ Feature Engineered,Lingyan Zhou,,2018-07-09T11:52:00.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,zhoulingyan0228/dirty-documents-tuning-adaptive-threshold,Dirty Documents / Tuning Adaptive Threshold,Lingyan Zhou,,2018-07-05T00:02:09.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,jihyeseo/remove-noise-from-printed-text-image,remove noise from printed text image,Jihye Sofia Seo,,2018-05-08T17:44:08.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,arjunsurendran/image-painting-with-tensorflow,Image Painting with TensorFlow,Arjun Surendran,,2017-08-15T13:20:32.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,pankaj123/fc-autoencoder,FC Autoencoder,Chunchu ,,2017-06-26T10:54:46.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,piasyx/notebookba67f73979,Notebookba67f73979,Piasy,,2017-04-23T07:04:00.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,amitkumarjaiswal/notebook9710c540b4,Notebook9710c540b4,Amit Kumar Jaiswal,,2017-11-17T18:30:34.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,jasperwoo/notebook9192ea6e5b,Notebook9192ea6e5b,JasperWoo,,2017-03-01T00:07:00.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,arnaudreymond90/notebook47308b08e4,Notebook47308b08e4,ArnaudReymond,,2017-02-27T12:53:21.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,jokerchirs/notebook954d74920d,Notebook8a3942f0f8,jokerchirs,,2017-02-21T12:43:53.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,nadezhda94/autoencoded-denoising-39d0cec1,Autoencoded denoising 39d0cec1,NadezhdaKaratsapova,,2016-12-08T09:10:49.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,nadezhda94/autoencoded-denoising-a008b4bf,Autoencoded denoising a008b4bf,NadezhdaKaratsapova,,2016-12-08T07:11:43.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,nadezhda94/autoencoded-denoising-b9f60acc,Autoencoded denoising b9f60acc,NadezhdaKaratsapova,,2016-12-08T07:09:27.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,nadezhda94/autoencoded-denoising,Autoencoded denoising,NadezhdaKaratsapova,,2016-12-06T21:52:23.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,simmoncn/autoencoded-denoising,Autoencoded denoising,SimmonLiu,,2016-12-02T05:39:22.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,victorcantor/autoencoded-denoising,Autoencoded denoising,Sloth,,2016-12-01T09:52:38.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,snadeau/notebook95315fa636,Notebook95315fa636,snadeau,,2016-11-15T01:58:38.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,pranavsachdev05/notebooka831ab9611,Notebooka831ab9611,PranavSachdev,,2016-11-05T16:48:46.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,adg789/notebook08995b8733,Notebook08995b8733,DarkNight,,2016-11-02T02:13:07.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,ahmedpyarali/notebook1647724630,Notebook1647724630,Mr.PyCharm,,2016-10-17T03:31:06.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,jjough/khjkl,khjkl,jjough,,2016-02-28T07:49:00.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,peterkupfer/background-removal,Background removal,PeterKupfer,,2015-10-20T12:56:45.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,honeyext/dummy,Eroding,Aliaksei Halachkin,,2015-10-04T10:50:02.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,johnnystrings/denoise-with-random-forests,Denoise with Random Forests,Johnny Strings,,2015-09-29T03:45:58.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,bharathiitm/test1,Test1,BharathKumarBanoth,,2015-09-28T06:09:59.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,srujalsk/test1,TEST1,Srujal Kachhela,,2015-09-19T14:13:23.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,jsh127/test1,test1,Franck,,2015-09-15T07:04:42.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,rssalessio/test1,test1,AlessioRusso,,2015-08-13T14:56:51.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,jcase1988/testt,testt,jcase1988,,2015-08-06T02:19:00.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,oliversherouse/let-s-try-simple-linear-regression,Let's Try Simple Linear Regression,OliverSherouse,,2015-09-02T01:29:31.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,chenwenhu/havefun,havefun,ShannonChen,,2015-08-02T19:34:47.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,antonov/nn-starter-kit,NN starter kit,aantonov,,2015-07-14T20:50:26.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,mattgenkin/skimage-thresholding,sandbox,Matvey Genkin,,2015-07-10T08:28:26.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,chinnikrishna55/denoise-working,Denoise Working,Krishna,,2015-06-24T20:44:43.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,csmariasaadia/high-pass-filter,High pass filter,Maria Niaz,,2015-06-09T21:09:04.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,patelvi51/test-1,test_1,VishwajeetPatel,,2015-06-06T07:20:40.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,dchudz/no-cleaning-benchmark-streaming,No Cleaning Benchmark (Streaming),David Chudzicki,,2015-05-29T18:29:49.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents
+,,,,,0,dchudz/what-files-are-there,Example images & file list (Python),David Chudzicki,,2015-05-29T12:54:24.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,denoising-dirty-documents

@@ -1,0 +1,8 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ahernandez1/american-epilepsy-society-seizure-a-playground,American Epilepsy Society seizure; a playground,armhzjz,,2020-11-03T16:54:36.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,seizure-prediction
+,,,,,0,kiran3799/epilepsy-prediction-notebook,epilepsy-prediction-notebook,Kiran Puhazhenthi ,,2020-08-16T11:33:20.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,seizure-prediction
+,,,,,0,mpwolke/epilepsy-mat-file,Epilepsy Mat file,Marília Prata,,2022-05-01T16:28:28.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,seizure-prediction
+,,,,,0,nizarislah/american-epilepsy-society-seizure-prediction,American Epilepsy Society seizure prediction,Nizar Islah,,2021-03-17T04:55:28.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,seizure-prediction
+,,,,,0,m0nika/seizurecnn,seizureCNN,Monika Suresh,,2020-05-26T21:26:33.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,seizure-prediction
+,,,,,0,widhiwinata/seizurecnn,seizureCNN,Widhi Winata Sakti,,2020-08-22T11:27:03.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,seizure-prediction
+,,,,,0,lizelleniit/american-epilepsy-society-exploring-eeg-data,American Epilepsy Society - exploring EEG data,Lizelle Niit,,2022-04-02T19:16:54.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,seizure-prediction

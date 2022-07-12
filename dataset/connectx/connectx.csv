@@ -1,0 +1,360 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ajeffries/connectx-getting-started,ConnectX Getting Started,Adam,,2020-05-06T23:03:01.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],346,connectx
+,,,,,0,alexisbcook/play-the-game,Play the Game,Alexis Cook,,2022-02-09T17:34:43.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],210,connectx
+,,,,,0,phunghieu/connectx-with-q-learning,ConnectX with Q-Learning,Hieu Phung,,2020-07-08T00:14:47.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],137,connectx
+,,,,,0,phunghieu/connectx-with-deep-q-learning,ConnectX with Deep Q-Learning,Hieu Phung,,2020-05-19T00:24:54.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,connectx
+,,,,,0,alexisbcook/create-a-connectx-agent,Create a ConnectX agent,Alexis Cook,,2020-02-11T19:12:33.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],103,connectx
+,,,,,0,alexisbcook/deep-reinforcement-learning,Deep Reinforcement Learning,Alexis Cook,,2022-02-28T19:08:49.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],100,connectx
+,,,,,0,alexisbcook/one-step-lookahead,One-Step Lookahead,Alexis Cook,,2022-02-09T17:34:34.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,connectx
+,,,,,0,alexisbcook/n-step-lookahead,N-Step Lookahead,Alexis Cook,,2022-02-09T17:34:33.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,connectx
+,,,,,0,arjanso/reinforcement-learning-chess-1-policy-iteration,Reinforcement Learning Chess 1: Policy Iteration,ArjanGroen,,2020-01-04T09:54:07.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,connectx
+,,,,,0,brendan45774/connectx-baseline,ConnectX Baseline,Brenda N,,2021-06-24T14:11:21.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,connectx
+,,,,,0,jesperdramsch/intro-to-connextx-env-and-minimax,Intro to ConnextX Env and Minimax,Jesper Sören Dramsch,,2020-01-04T15:59:22.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],56,connectx
+,,,,,0,connect4alphazero/alphazero-baseline-connectx,AlphaZero baseline - ConnectX,Connect4-AlphaZero,,2020-07-02T07:33:55.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,connectx
+,,,,,0,phunghieu/connectx-with-deep-q-learning-pytorch,ConnectX with Deep Q-Learning (PyTorch),Hieu Phung,,2020-08-26T02:44:24.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,connectx
+,,,,,0,marcovasquez/how-to-play-with-computer-and-check-winner,How to Play with Computer and Check Winner 🎮 ,Marco Vasquez E,,2020-01-05T18:33:40.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,connectx
+,,,,,0,tahaakr/exercise-play-the-game,Exercise: Play the Game,Taha Çakır,,2021-09-28T20:27:28.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,connectx
+,,,,,0,matant/monte-carlo-tree-search-connectx,Monte Carlo Tree Search - ConnectX,Matan Tsipory,,2020-07-02T16:38:56.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,connectx
+,,,,,0,yegorbiryukov/cell-swarm,Cell Swarm,Yegor Biryukov,,2020-06-03T16:51:47.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,connectx
+,,,,,0,yegorbiryukov/connectx-rule-based,ConnectX Rule-Based,Yegor Biryukov,,2020-05-06T22:14:42.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,connectx
+,,,,,0,jamesmcguigan/connectx-mcts-bitboard-bitsquares-heuristic,ConnectX - MCTS Bitboard + Bitsquares Heuristic,James McGuigan,,2020-11-07T21:37:40.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,connectx
+,,,,,0,sidagar/getting-1000-score-using-only-minimax,Getting 1000+ score using only minimax,Sidhant Agarwal,,2020-09-27T08:20:36.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,connectx
+,,,,,0,groundhog/attacks,Attacks,TongLi,,2020-02-15T14:18:28.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,connectx
+,,,,,0,basu369victor/my-first-attempt-with-reinforcement-learning,My first attempt with Reinforcement Learning ,Victor Basu,,2020-02-09T02:35:57.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,connectx
+,,,,,0,tomo20180402/connectx-rule-based-easy-solution,ConnectX - rule based easy solution,tomo20180402,,2020-01-06T03:21:53.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,connectx
+,,,,,0,kwabenantim/simple-agent-in-a-matrix,Simple Agent in a Matrix,Kwabena,,2020-02-08T12:00:10.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,connectx
+,,,,,0,ldm314/connectx-greedy-agent,ConnectX greedy agent,Brian,,2020-01-04T02:11:56.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,connectx
+,,,,,0,matant/pytorch-dqn-connectx,Pytorch DQN - ConnectX,Matan Tsipory,,2020-04-16T20:30:23.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,connectx
+,,,,,0,yegorbiryukov/connectx-swarm-intelligence,ConnectX Swarm Intelligence,Yegor Biryukov,,2020-06-13T20:08:06.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,connectx
+,,,,,0,kongkanon/connect4-casino-style,Connect4: Casino Style!,kongkanon,,2020-01-19T05:07:49.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,connectx
+,,,,,0,alenic/serializing-q-table-into-submission-py,Serializing q-table into submission.py,Alessandro Nicolosi,,2020-01-05T14:32:23.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,connectx
+,,,,,0,lucabasa/a-shameless-journey-into-rl-from-scratch,A shameless journey into RL from scratch,Luca Basanisi,,2021-05-08T15:49:02.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,connectx
+,,,,,0,toshikazuwatanabe/connect4-make-submission-with-stable-baselines3,Connect4: make submission with stable-baselines3,noypeban,,2020-07-24T11:39:57.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,connectx
+,,,,,0,agade09/connectx-with-minimax-dqn,ConnectX with Minimax-DQN,Agade,,2020-02-06T10:23:05.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,connectx
+,,,,,0,shebinscaria/tutorial-connectx-minimax-pruning,[Tutorial]ConnectX_Minimax_αβpruning,luffy,,2020-06-25T10:06:58.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,connectx
+,,,,,0,jazivxt/sportsman,Sportsman,Daniel Preciado,,2020-01-06T08:31:16.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,connectx
+,,,,,0,arjanso/reinforcement-learning-chess-3-q-networks,Reinforcement Learning Chess 3: Q-networks,ArjanGroen,,2020-01-04T09:57:41.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,connectx
+,,,,,0,paulorzp/one-line-139-bytes-agent-1000,One line (139-bytes) Agent 1000+,Paulo Pinto,,2020-01-31T19:45:25.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,connectx
+,,,,,0,miguelbaigorri/n-step-lookahead-with-alpha-beta-prunning,N-Step Lookahead with alpha-beta prunning,Miguel Baigorri,,2021-01-25T09:33:47.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,connectx
+,,,,,0,piyushmishra1999/ai-to-play-connect-4-better-than-me,AI to Play Connect 4 Better than me,Piyush Mishra,,2020-06-21T11:58:46.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,connectx
+,,,,,0,gibrano/deep-neuroevolution-pytorch,Deep NeuroEvolution - PyTorch,Gibran Otazo,,2020-02-09T16:45:47.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,connectx
+,,,,,0,celiksemih/connectx-heuristic-reward,ConnectX - Heuristic-reward,SC,,2020-01-22T09:14:10.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,connectx
+,,,,,0,salmaneunus/one-step-lookahead-reinforcement-learning-1,One-Step Lookahead Reinforcement Learning 1,Salman Ibne Eunus,,2020-08-02T12:33:00.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,connectx
+,,,,,0,c7934597/getting-started-with-connectx,Getting Started with ConnectX,Weiming Lin,,2020-06-19T03:39:48.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,connectx
+,,,,,0,andrej0marinchenko/000-intro-kaggle-environment,000.intro Kaggle Environment,Andrej Marinchenko,,2022-02-20T19:44:45.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,connectx
+,,,,,0,jamesmcguigan/connectx-vectorized-bitshifting-tutorial,ConnectX - Vectorized Bitshifting Tutorial,James McGuigan,,2020-09-02T17:42:22.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,connectx
+,,,,,0,shoheiazuma/connectx-with-a2c,ConnectX with A2C,sazuma,,2020-04-20T07:23:45.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,connectx
+,,,,,0,jbj2505/submitting-more-than-one-python-file,Submitting more than one Python file,Jan-Benedikt Jagusch,,2020-04-06T15:18:01.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,connectx
+,,,,,0,arjanso/reinforcement-learning-chess-2-model-free-methods,Reinforcement Learning Chess 2: Model-free methods,ArjanGroen,,2020-01-04T09:50:25.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,connectx
+,,,,,0,martynovandrey/the-fast-mini-max-iv,The Fast mini Max IV,Martynov Andrey,,2022-06-02T04:06:19.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,connectx
+,,,,,0,mrgeislinger/connectx-getting-started-variant,ConnectX Getting Started - Variant,Victor Geislinger,,2020-11-14T20:35:19.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,connectx
+,,,,,0,tarunbisht11/get-started-with-kaggle-environment,Get Started with Kaggle Environment,Tarun,,2020-10-01T18:28:27.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,connectx
+,,,,,0,hubcity/a-more-useful-negamax-opponent-connectx,A More Useful Negamax Opponent (ConnectX),Hubcity,,2021-06-01T13:02:11.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,connectx
+,,,,,0,nxhong93/deep-q-learning,deep_q_learning,Eevee,,2020-02-08T02:09:05.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,connectx
+,,,,,0,gordotron85/teaching-an-agent-to-play-connect-4,Teaching an Agent to play Connect 4,Gordon Henderson,,2020-07-24T13:58:49.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,connectx
+,,,,,0,jtbontinck/deep-q-network-w-o-package-inference-only,Deep Q-Network (w/o package - inference only),jxtrbtk,,2020-01-05T21:36:26.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,connectx
+,,,,,0,andrej0marinchenko/002-q-learning-step-by-step-instruction,002. Q-Learning step-by-step instruction,Andrej Marinchenko,,2022-02-20T19:49:32.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,andrej0marinchenko/001-getting-started-connectx,001. Getting Started ConnectX,Andrej Marinchenko,,2022-02-20T19:47:38.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,kieranhobden/beginner-s-guide-to-connectx,Beginner's Guide to ConnectX,Kieran Hobden,,2020-12-02T12:23:15.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,elasmotherium/up-to-11-step-lookahead-for-training,Up to 11-Step Lookahead (for training),John,,2020-07-20T09:22:34.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,zanedurante/intelligent-monte-carlo,Intelligent Monte Carlo,ZaneDurante,,2020-05-02T22:27:59.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,aitude/connectx-hello-world-agent,ConnectX - Hello World Agent,Sandeep Kumar,,2020-01-04T13:01:37.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,tanreinama/simple-game-tree-max-depth-4,Simple Game Tree (max_depth=4),Tanrei(nama),,2020-01-04T05:09:43.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,connectx
+,,,,,0,andrej0marinchenko/05-fast-nstep-lookahead-agent,05.Fast Nstep lookahead agent,Andrej Marinchenko,,2022-02-20T19:52:29.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,andrej0marinchenko/01-simple-agent-negamax,01.simple_agent_negamax,Andrej Marinchenko,,2022-02-20T19:50:38.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,andrej0marinchenko/onnectx-second-step,СonnectX second step,Andrej Marinchenko,,2021-12-25T20:34:49.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,andrej0marinchenko/connectx-10it,Connectx-10it,Andrej Marinchenko,,2021-12-16T13:52:20.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,andrej0marinchenko/cell-swarm-draft,Cell Swarm (клеточный рой) # draft,Andrej Marinchenko,,2021-12-25T09:59:12.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,viznrvn/deep-q-learning-with-experience-replay-theory,Deep Q Learning with experience replay + Theory,Vishnu,,2021-05-16T05:58:59.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,jganjga/intro-to-game-ai-and-reinforcement-learning-1,Intro to Game AI and Reinforcement Learning: 1,Jeevan George Antony,,2021-02-13T07:56:23.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,kieranhobden/reinforcement-learning-in-connectx,Reinforcement Learning in ConnectX,Kieran Hobden,,2020-12-09T12:50:27.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,jamesmcguigan/connectx-implementing-functions-in-pytorch,ConnectX - Implementing Functions in Pytorch,James McGuigan,,2020-11-16T23:08:51.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,davidmis/connectx-beginner-tips-persistent-sate-timeouts,ConnectX Beginner Tips: Persistent Sate & Timeouts,David Mis,,2020-07-01T01:48:18.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,huhao05133/n-step-lookahead, N-Step Lookahead,Howard Hu,,2020-06-27T01:39:02.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,davidmis/connectx-monte-carlo,ConnectX: Monte Carlo,David Mis,,2020-06-29T15:46:37.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,ssk4988/connectx-minimax-approach,ConnectX Minimax Approach,Sachin S,,2020-07-22T18:25:25.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,alexisbcook/exercise-play-the-game,Exercise: Play the Game,Alexis Cook,,2022-06-09T21:13:18.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,mpetyak/basic-agent-simplifying-submission,Basic agent + simplifying submission,Maksym Petyak,,2020-01-04T03:07:59.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,connectx
+,,,,,0,andrej0marinchenko/04-nstep-lookahead-agent,04.Nstep_lookahead_agent,Andrej Marinchenko,,2022-02-20T19:52:02.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,lovroselic/connectx-ls,ConnectX (LS),Lovro Selic,,2022-04-17T07:18:06.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,aminuabdusalam/bot-smart,bot_smart,Aminu Abdusalam,,2021-11-17T01:46:59.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,riadalmadani/minimax-agnet-with-4-steps,αβMiniMax agnet with 4 steps ,Riad,,2021-03-17T13:06:33.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,kieranhobden/connectx-functions-explained,ConnectX - Functions Explained,Kieran Hobden,,2021-01-30T15:08:24.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,masurte/ppo-algorithm,PPO algorithm,Efremov Ivan,,2020-12-29T12:10:16.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,sagnikpatra/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Sagnik,,2020-08-03T01:52:30.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,sagnikpatra/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Sagnik,,2020-08-03T01:21:57.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,athews/connectx-getting-started-with-game-ai,ConnectX - Getting started with Game AI,Swetha,,2020-07-19T08:18:01.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,huhao05133/play-the-game, Play the Game,Howard Hu,,2020-06-26T05:53:19.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,nlebang/revised-exercise-n-step-lookahead,[Revised] Exercise: N-Step Lookahead,Bang Nguyen,,2020-06-22T16:15:55.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,jamesmcguigan/connectx-manually-coded-strategies,ConnectX - Manually Coded Strategies,James McGuigan,,2020-06-01T16:04:52.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,nahumsa/alpha-beta-prunning,Alpha-Beta Prunning,Nahum Sá,,2020-09-29T01:54:46.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,sagau5999/simple-q-learning-example,Simple Q-Learning example,Samuel Gauvreau,,2020-01-14T00:15:37.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,domcastro/connectx-rule-based-easy-solution-or-negamax,ConnectX - rule based easy solution or negamax,Bluefool,,2020-01-08T00:01:50.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,wjburns/connectx-agent,ConnectX Agent,William J. Burns,,2020-01-04T22:01:05.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,connectx
+,,,,,0,andrej0marinchenko/03-one-step-lookahead-agent,03.one_step_lookahead_agent,Andrej Marinchenko,,2022-02-20T19:51:37.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,andrej0marinchenko/02-initial-agent,02.initial_agent,Andrej Marinchenko,,2022-02-20T19:51:02.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,andrej0marinchenko/00-simple-agent-random,00.simple_agent_random,Andrej Marinchenko,,2022-02-20T19:50:05.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,drzhuzhe/reinforcement-learning-chess-3-q-networks,Reinforcement Learning Chess 3: Q-networks,Drzhuzhe,,2021-10-29T09:20:42.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,drzhuzhe/reinforcement-learning-chess-1-policy-iteration,Reinforcement Learning Chess 1: Policy Iteration,Drzhuzhe,,2021-10-28T08:07:38.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,pacomeperez/projet-8-connectx,Projet_8_connectX,Pacome Perez,,2021-08-30T08:12:18.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,ace147/connectx-practice-notebook1,ConnectX practice notebook1,Mohammed Yaseen,,2021-06-28T10:10:11.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,jwilliamhughdore/fastest-n-step-lookahead-minimax-agent-with-cython,Fastest N-step Lookahead Minimax Agent with CYTHON,J. William Hugh Dore,,2020-09-26T19:58:09.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,sadmanaraf/starter-connect-x,Starter_Connect_X,SADMAN ARAF,,2021-01-17T18:23:22.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,sadmanaraf/connect-x-starter,Connect_X_Starter,SADMAN ARAF,,2020-09-03T19:01:45.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,jamesmcguigan/connectx-numba-testcases,ConnectX - Numba Testcases,James McGuigan,,2022-06-26T22:25:47.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,kosta324/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Korotkov Konstantin,,2020-08-07T21:37:48.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,erdemerbaba/exercise-play-the-game,Exercise: Play the Game,Erdem Erbaba,,2020-07-18T12:14:08.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,ananyaroy1011/exercise-play-the-game,Exercise: Play the Game,Ananya Roy1011,,2021-01-19T11:26:49.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,yasunorisato/minimax-alphabeta,Minimax_alphabeta,Yasunori Sato,,2020-07-16T04:21:54.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,huhao05133/one-step-lookahead,One-Step Lookahead,Howard Hu,,2020-06-26T05:52:44.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,nlebang/revised-exercise-one-step-lookahead,[Revised] Exercise: One-Step Lookahead,Bang Nguyen,,2020-06-22T16:12:48.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,nlebang/connect-x-for-newbie,Connect X for Newbie,Bang Nguyen,,2020-06-22T19:01:01.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,jamesmcguigan/connectx-alphabeta-minimax,ConnectX - AlphaBeta Minimax,James McGuigan,,2020-12-30T02:01:33.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,timoboz/connectx-aotr-hackathon,[ConnectX AoTR] Hackathon,Timo Bozsolik,,2020-05-05T22:38:44.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,econjt/dqn-with-cnn-created-myagent-and-battled,DQN_with CNN(created myagent and battled ),JumpeiT,,2020-06-17T15:33:57.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,alexisbcook/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Alexis Cook,,2022-02-28T19:08:55.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,alexisbcook/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Alexis Cook,,2022-02-09T17:34:38.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,alexisbcook/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Alexis Cook,,2022-02-09T17:34:39.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,aritrase/deepqlearning-pytorch-starter-wip,DeepQLearning_Pytorch_Starter<WIP>,Aritra Sen,,2020-01-15T06:17:35.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,grapestone5321/connectx-getting-started-submission,ConnectX Getting Started_Submission,Naruhiko Nakanishi,,2021-06-27T02:43:00.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,connectx
+,,,,,0,arti1117/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Making TARS,,2022-04-07T00:10:33.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,sgreiner/starter-fork,Starter Fork,Arc,,2022-01-26T21:27:17.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,sorkun/5x-faster-heuristic,5x Faster Heuristic,Murat Cihan Sorkun,,2021-10-20T16:54:37.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,carlosmerino/exercise-play-the-game,Exercise: Play the Game,Carlos Merino,,2021-09-08T15:19:34.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,marcodepaolini/faster-alpha-beta-pruning-n-step-lookahead,Faster Alpha-Beta pruning N-Step Lookahead,Marco De Paolini,,2021-03-28T20:00:40.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,leonardoferigutti/minimax-algorithm-with-alpha-beta-prunning,Minimax Algorithm with alpha beta prunning,Leonardo Ferigutti,,2021-03-01T06:27:13.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,lbarbosa/connectx-deep-reinforcement-learning,ConnectX - Deep Reinforcement Learning,Leo Barbosa,,2020-12-14T04:45:19.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,davidabelin/heuristic,heuristic,David Abelin,,2020-11-11T03:06:27.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,davidabelin/alphabeta-agent,alphabeta_agent,David Abelin,,2020-11-04T20:08:33.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,koutetsu/connectx-multi-agent-reinforcement-learning-1,ConnectX: Multi-Agent Reinforcement Learning - 1 ,Anes.Benmerzoug,,2020-11-09T20:08:24.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,davidabelin/n-step-agent,N step agent,David Abelin,,2020-11-02T19:06:41.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,theuniversesd/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Subhodeep Das,,2020-10-06T05:09:06.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,higepon/interesting-side-effect-of-env-step-when-self-play,Interesting side effect of env.step when self play,higepon,,2020-10-04T08:27:32.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,tobiasbueck/connectx,ConnectX,Tobias Bueck,,2020-10-06T21:26:41.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,brandonnova/connect-x-v1,Connect X V1,BrandontheCoder,,2020-07-07T15:39:05.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,davidmis/connectx-monte-carlo-w-global-state,ConnectX Monte Carlo w/ Global State,David Mis,,2020-07-03T03:15:40.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,vatch123/connectx-minimax,ConnectX - Minimax,Vatsalya Chaubey,,2020-06-22T12:33:55.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,sklasfeld/connect4game-without-reinforcement-learning,connect4game_WITHOUT_reinforcement_learning,Sammy Klasfeld,,2020-06-26T03:27:50.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,priteshraj10/play-game,play_game,Pritesh Raj,,2020-04-20T20:37:46.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,jagannathrk/connectx-with-minimax-dqn,ConnectX with Minimax-DQN,Kranti Kumar,,2020-03-21T07:04:30.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,nickulus/connectx-with-stable-baselines,ConnectX with stable-baselines,Nick,,2020-01-29T17:11:34.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,kronossaurus/connectx-simple-rule-based-approach,ConnectX Simple Rule-Based Approach,Victor Carriço,,2020-03-13T13:20:52.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,mikeholcomb/connectx-variants,ConnectX Variants,Mike Holcomb,,2020-01-26T00:02:38.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,ivanshchukin/connectx-keras-rl,ConnectX Keras-rl,Ivan Shchukin,,2020-01-07T07:33:06.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,kambarakun/random-agent-w-o-invalid-choice,Random Agent w/o invalid choice,kambarakun,,2020-01-04T09:25:46.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,connectx
+,,,,,0,raj401/simple-baseline-connect-x,Simple Baseline Connect X,AKR,,2022-05-31T16:47:45.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,dmitrylessy/connectx-minimax-ab-pruning-5-steps,ConnectX: MiniMax + AB-Pruning (5 steps),dmitry_lessy,,2022-03-10T21:15:35.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,andrej0marinchenko/07-try-to-win-my-agent,07.try_to_win_my_agent,Andrej Marinchenko,,2022-02-18T16:29:54.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,andrej0marinchenko/06-play-with-me,06.play_with_me,Andrej Marinchenko,,2022-02-18T16:20:57.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,dsmeena/rl-with-connectx,RL with ConnectX,DSMeena,,2022-01-27T10:14:02.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,amanalisiddiqui/exercise-play-the-game,Exercise: Play the Game,Aman Ali Siddiqui,,2021-12-15T09:50:50.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,drzhuzhe/reinforcement-learning-chess-2-model-free-methods,Reinforcement Learning Chess 2: Model-free methods,Drzhuzhe,,2021-10-29T08:15:31.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,qlaudy/connect-x-heuristic,Connect X - Heuristic,Quentin Laudy,,2021-10-18T19:01:47.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,asadsabir2000/exercise-play-the-game,Exercise: Play the Game,Asad Sabir,,2021-09-23T20:51:00.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,mickaelfayeulle/exercise-play-the-game,Exercise: Play the Game,Mickael Fayeulle,,2021-06-25T08:13:32.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,gyozzza/pozero-approach,PoZero Approach,Hiroya Ijima,,2021-06-22T03:24:50.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,kishankartha/one-step-lookahead, One-Step Lookahead,Kishan Kartha,,2021-08-30T11:05:02.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,jennerbrandon/ml-batch-ms-connect,ML Batch MS Connect,Brandon Jenner,,2021-04-29T11:25:57.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,huangjiawei0824/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Jiawei_Huang,,2021-02-24T22:17:45.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,masurte/dueling-double-dqn,Dueling double DQN,Efremov Ivan,,2021-01-02T07:11:07.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,davidabelin/learner-save-model,learner save model,David Abelin,,2020-11-03T01:37:19.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,glazed/monte-carlo-w-adaptive-playouts,Monte Carlo w/ Adaptive Playouts,glazed,,2020-10-20T22:56:56.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,bakhshiyev/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Tofig Bakhshiyev,,2020-10-12T16:09:10.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,anweshasinha/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Anwesha Sinha,,2020-10-04T13:53:23.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,jwilliamhughdore/tactical-varying-step-minimax-gets-1065,Tactical Varying step Minimax gets 1065,J. William Hugh Dore,,2020-09-30T13:12:08.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,sidagar/making-minimax-20x-faster,Making Minimax 20x faster!!,Sidhant Agarwal,,2020-09-27T08:29:04.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,fauh45/connect-x-with-q-learning,Connect X with Q-Learning,Muhammad Fauzan Lubis,,2020-10-10T14:10:56.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,jamesmcguigan/connectx-monty-carlo-tree-search,ConnectX - Monty Carlo Tree Search,James McGuigan,,2022-05-23T18:38:36.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,brownliuinnz/exercise-play-the-game,Exercise: Play the Game,"Bo, Liu(BROWN)",,2020-07-30T10:03:04.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,nicolamignoni/connectx-pure-monte-carlo-tree-search,ConnectX: Pure Monte Carlo Tree Search,NM,,2020-11-10T16:35:59.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,babs28806/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,babs,,2020-07-29T02:24:25.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,mekhdigakhramanian/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Mekhdi Gakhramanian,,2020-07-15T13:40:13.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,saraswatitiwari/exercise-play-the-game,Exercise: Play the Game,Saraswati Tiwari,,2021-11-05T13:15:04.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,aman2000jaiswal/exercise-play-the-game,Exercise: Play the Game,aman2000jaiswal,,2020-08-08T05:57:33.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,yasunorisato/kernel3992c9f576,kernel3992c9f576,Yasunori Sato,,2020-07-16T04:30:46.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,nlebang/revised-exercise-play-the-game,[Revised] Exercise: Play the Game,Bang Nguyen,,2020-06-22T14:21:15.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,augustocorrea48/reinforcmentlearningtutorial,ReinforcmentLearningTutorial,Augusto Correa48,,2020-07-04T16:55:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,nitramj/double-q-learning-implementation,Double Q-Learning Implementation,Julien Martin,,2020-06-26T11:13:25.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,timoboz/connectx-aotr-agent-timo,[ConnectX AoTR] Agent_Timo,Timo Bozsolik,,2020-05-19T01:09:44.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,simeonlichtenstein/my-working-submission,My Working Submission,Simeon Lichtenstein,,2020-05-14T18:07:21.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,arateris/hard-check-2step-lookahead,Hard check + 2step Lookahead,Virgile,,2020-03-20T07:56:54.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,cponge/connectx-basic-agent-which-spots-obvious-moves,ConnectX - Basic Agent Which Spots Obvious Moves,cponge,,2020-02-10T21:30:59.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,imoisharma/connectx-variants,ConnectX Variants,Mohit Sharma (Moi),,2020-01-27T01:07:23.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,kongaevans/training-q-learning-agent-with-kaggle-environment,Training Q-learning agent with kaggle_environment,Evans Kiplagat,,2020-01-18T19:13:19.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,connectx
+,,,,,0,ngfkf1vv5ot6/connectx-dqn-minmax,ConnectX_DQN_MinMax,H.K,,2022-06-24T06:12:55.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,tracyporter/minimax-algorithm-with-alpha-beta-prunning,Minimax Algorithm with alpha beta prunning,Tracy Porter,,2022-03-11T00:40:04.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,martynovandrey/the-fast-mini-max-ii,The Fast mini Max II,Martynov Andrey,,2022-01-19T09:26:32.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,briansalamone/keras-rl-dqn-connectx,Keras-rl DQN ConnectX,Brian Salamone,,2021-12-29T22:07:02.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,oeyvindt/notebook3f60010bf4,notebook3f60010bf4,Oeyvind T,,2021-10-19T23:00:51.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,arontha/n-1-lookahead-using-classes-starter-template,n = 1 lookahead using classes - starter template,aron,,2021-10-17T15:33:04.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,kei456/notebookce9ad0f4cf,notebookce9ad0f4cf,kei_456,,2021-07-25T14:34:09.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,lizkrema/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Liz Krema,,2021-04-16T15:40:51.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,meghamgarg/exercise-play-the-game,Exercise: Play the Game,Megham Garg,,2021-03-09T14:20:49.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,georgezoto/game-ai-and-rl-deep-reinforcement-learning,Game AI and RL - Deep Reinforcement Learning,George Zoto,,2021-02-14T03:36:41.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,maffei2443/exercise-play-the-game,Exercise: Play the Game,Leonardo Maffei da Silva,,2021-01-19T17:05:41.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,tkarahan/connectx-rl-experiment,connectx-rl-experiment,Tolga Karahan,,2021-01-11T15:31:50.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,masurte/deep-q-learning-implementation,Deep Q Learning implementation,Efremov Ivan,,2020-12-29T12:01:54.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,masurte/deep-q-learning,Deep Q learning,Efremov Ivan,,2020-12-29T11:56:08.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,hak999/connect4-minmax-conventional-baseline,Connect4 MinMax Conventional Baseline,hak,,2020-11-18T20:40:13.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,koutetsu/connectx-multi-agent-reinforcement-learning-2,ConnectX: Multi-Agent Reinforcement Learning - 2,Anes.Benmerzoug,,2020-11-09T20:02:21.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,gamebo11/agent-vinod,Agent Vinod,gamebo11,,2020-11-06T13:52:38.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,mkahraman19/play-the-game,Play the Game,Murat Kahraman,,2020-09-19T02:21:26.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,louis925/connectx-with-q-learning,ConnectX with Q-Learning,Louis Yang,,2020-09-08T05:30:07.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,gatandubuc/exercise-play-the-game,Exercise: Play the Game,Gaétan Dubuc,,2020-08-31T15:21:47.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,garyongguanjie/mini-max-alpha-beta-no-np,mini_max_alpha_beta_no_np,garyong,,2020-08-23T09:58:01.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,metehankutlu/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Metehan Kutlu,,2020-08-30T08:56:42.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,poteman/exercise-play-the-game,Exercise: Play the Game,poteman,,2020-08-08T01:33:40.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,sagnikpatra/exercise-play-the-game,Exercise: Play the Game,Sagnik,,2020-07-16T18:56:23.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,ananyaroy1011/connect4,Connect4,Ananya Roy1011,,2020-07-14T06:37:33.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,nakamichi/exercise-one-step-lookahead,Exercise: One-Step Lookahead,nakamichi,,2020-07-14T08:57:05.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,mhyodo/connectx-with-deep-q-learning-ver,ConnectX with Deep Q-Learning_日本語ver,Makotu,,2020-07-15T06:18:53.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,yasunorisato/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Yasunori Sato,,2020-06-23T04:49:33.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,saraswatitiwari/kernel6d2e05b93b,kernel6d2e05b93b,Saraswati Tiwari,,2020-07-01T16:02:29.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,bkowshik/connect-four,Connect Four,Bhargav Kowshik,,2020-06-20T04:53:53.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,ekikagg/connect-x-practise,connect X Practise,Ekison,,2020-06-10T06:41:46.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,briansxu/connectx-w-pytorch-dqn,ConnectX w/ PyTorch DQN,Brian Xu,,2020-06-09T21:04:31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,maxr43/connect-4,Connect 4,Max R43,,2020-10-21T21:15:08.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,jamesmcguigan/connectx-random-agent,ConnectX - Random Agent,James McGuigan,,2021-01-22T10:21:30.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,choithuthoi/negamax-approach,negamax approach,Le Hai Chau,,2020-05-10T11:47:01.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,mahirahmzh/connectx-getting-started,ConnectX Getting Started,Mahira Hamzah,,2020-05-19T03:05:43.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,davidrodrod/exercise-play-the-game,Exercise: Play the Game,David Rodríguez,,2020-04-12T17:57:01.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,junichiromorita/hard-to-lose,Hard to lose,Junichiro Morita,,2020-03-30T12:19:39.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,dimka11/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Dmitry Sokolov,,2020-03-22T13:02:40.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,jagannathrk/reinforcement-learning-chess-3-q-networks,Reinforcement Learning Chess 3: Q-networks,Kranti Kumar,,2020-03-22T08:22:40.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,alex0404/markov-processes-rl-basics-theory,Markov Processes & RL Basics (theory),Alexander Levin,,2020-03-15T13:04:17.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,domcastro/connectx-heuristic-reward,ConnectX - Heuristic-reward,Bluefool,,2020-02-07T21:41:12.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,stetelepta/connectx-rule-based-0-3,ConnectX rule-based-0.3,Salomon Tetelepta,,2020-01-17T16:15:12.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,dysonlin/connectx-getting-started,ConnectX Getting Started,林湧森 (Dyson Lin),,2020-02-15T02:19:20.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,domcastro/connectx-agent,ConnectX Agent,Bluefool,,2020-01-07T21:23:28.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,ivanpanfilov/connectx-getting-started,ConnectX Getting Started,Ivan Panfilov,,2020-01-07T10:16:20.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,connectx
+,,,,,0,jiprud/connectx-agent,⭕✖ ConnectX agent,Jiri Prudky,,2022-05-08T13:35:28.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,prakhosha/exercise-play-the-game,Exercise: Play the Game,Angga Prakhosha,,2022-04-22T23:36:11.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,pulljosh/connect-4-workshop,Connect 4 Workshop,Josh Pullen,,2022-04-11T20:40:45.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,jamilahfoucher/create-a-connectx-agent,Create a ConnectX agent,Jamilah Foucher,,2022-03-10T23:20:45.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,tracyporter/connectx-agent-blocker,ConnectX - Agent Blocker,Tracy Porter,,2022-03-10T02:30:26.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,tracyporter/connectx-beginner,ConnectX - Beginner,Tracy Porter,,2022-03-09T10:50:54.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,tracyporter/connectx-random-centermost-col,ConnectX Random - Centermost Col,Tracy Porter,,2022-03-09T04:10:08.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,tracyporter/connectx-random,ConnectX Random,Tracy Porter,,2022-03-04T16:23:18.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,opkaggle123/g-a-r-3-exercise-n-step-lookahead,G.A.R.3.Exercise: N-Step Lookahead,OM PRAKASH MARWAL,,2022-03-03T06:36:03.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,opkaggle123/g-a-r-2-exercise-one-step-lookahead,G.A.R.2.Exercise: One-Step Lookahead,OM PRAKASH MARWAL,,2022-03-03T05:47:35.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,opkaggle123/g-a-r-1-exercise-play-the-game,G.A.R.1.Exercise: Play the Game,OM PRAKASH MARWAL,,2022-03-05T13:48:31.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,pierretihon/cnn-error-padding,CNN_error_padding,pierretihon,,2022-02-26T16:56:22.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,chasset/game-ai-and-reinforcement-learnin-n-step-lookahead,Game AI and Reinforcement Learnin N-Step Lookahead,Pierre-Olivier Chasset,,2022-03-06T09:02:28.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,chasset/game-ai-and-reinforcement-learn-one-step-lookahead,Game AI and Reinforcement Learn One-Step Lookahead,Pierre-Olivier Chasset,,2022-03-06T09:01:31.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,chasset/game-ai-and-reinforcement-learning-play-the-game,Game AI and Reinforcement Learning Play the Game,Pierre-Olivier Chasset,,2022-03-06T09:00:56.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,brellsanwouo/exercise-n-step-lookahead,Exercise: N-Step Lookahead,SANWOUO CHEKAM Brell P.,,2022-01-10T03:26:22.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,brellsanwouo/exercise-one-step-lookahead,Exercise: One-Step Lookahead,SANWOUO CHEKAM Brell P.,,2022-01-10T11:06:16.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,brellsanwouo/exercise-play-the-game,Exercise: Play the Game,SANWOUO CHEKAM Brell P.,,2022-01-10T02:44:36.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,filipinogambino/double-dqn,Double DQN,Nick Gorichs,,2022-02-07T16:35:42.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,alossimon/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Aloïs Simon,,2021-12-07T18:01:52.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,briansalamone/connectx-dqn,ConnectX DQN,Brian Salamone,,2021-12-20T06:55:42.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kagglesalmon/connect4,Connect4,KaggleSalmon,,2021-07-30T07:56:05.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,matsumoto1109/q-learning01,Q-learning01,matsumoto1109,,2021-07-29T08:43:11.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kawabatads/q-learning01-1,Q-learning01_1,kawabata_DS,,2021-07-27T07:25:09.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,koheiyamamoto0531/q-learning01,Q-learning01,KoheiYamamoto0531,,2021-07-22T15:52:08.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ace147/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Mohammed Yaseen,,2021-06-30T16:10:28.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ace147/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Mohammed Yaseen,,2021-06-29T09:37:27.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ace147/exercise-play-the-game,Exercise: Play the Game,Mohammed Yaseen,,2021-06-29T08:54:53.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,mickaelfayeulle/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Mickael Fayeulle,,2021-06-25T13:52:53.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,mickaelfayeulle/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Mickael Fayeulle,,2021-06-25T09:03:28.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,mickaelfayeulle/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Mickael Fayeulle,,2021-06-25T08:43:11.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kennych/exercise-play-the-game,Exercise: Play the Game,KennyChan,,2021-06-24T01:56:50.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,mariah2020/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,maria H,,2021-06-17T13:23:31.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,carlosesteves/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Carlos Esteves,,2021-06-04T20:27:34.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ertugrulakay/improved-deep-reinforcement-learning,Improved Deep Reinforcement Learning,Ertugrul Akay,,2021-05-04T12:25:58.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,lalonuez/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Lalo Nuñez,,2021-04-09T20:28:08.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,lalonuez/exercise-play-the-game,Exercise: Play the Game,Lalo Nuñez,,2021-04-09T19:14:00.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,jerinm/connectx-checkers-simulation,ConnectX - Checkers Simulation,Jerin M,,2021-03-18T13:01:01.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,vishnuravi99/notebook814d4b7eeb,notebook814d4b7eeb,Vishnu Ravi,,2021-03-10T09:09:04.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,wiwiteria/exercise-one-step-lookahead,Exercise: One-Step Lookahead,wiwiteria,,2021-02-26T18:10:26.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,wiwiteria/exercise-play-the-game,Exercise: Play the Game,wiwiteria,,2021-02-25T13:27:24.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,stuartmcintosh/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Stuart McIntosh,,2021-03-07T10:39:10.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,georgezoto/game-ai-and-rl-n-step-lookahead,Game AI and RL - N-Step Lookahead,George Zoto,,2021-02-08T03:20:08.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,georgezoto/game-ai-and-rl-one-step-lookahead,Game AI and RL - One-Step Lookahead,George Zoto,,2021-02-07T03:03:06.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,hendryr/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Hendry R,,2021-01-30T11:32:33.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,miguelbaigorri/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Miguel Baigorri,,2021-01-22T11:06:04.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,miguelbaigorri/exercise-play-the-game,Exercise: Play the Game,Miguel Baigorri,,2021-01-22T09:49:05.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,dennisho/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Dennis Ho,,2021-07-30T22:23:36.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,dennisho/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Dennis Ho,,2021-07-30T22:31:43.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,dennisho/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Dennis Ho,,2021-01-19T02:27:34.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,dennisho/exercise-play-the-game,Exercise: Play the Game,Dennis Ho,,2021-07-30T22:19:58.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,upsidedowncookie/does-connectx-env-run-not-allow-print-statements,Does ConnectX env.run not allow print statements?,Travis Sanders,,2021-01-23T18:57:35.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,georgezoto/play-the-game,Play the Game,George Zoto,,2021-02-06T21:30:05.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,georgezoto/game-ai-and-reinforcement-learning-play-the-game,Game AI and Reinforcement Learning - Play the Game,George Zoto,,2021-02-06T22:38:34.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ricardoalbertodata/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,ralberto,,2021-01-04T23:26:28.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,codenamekash/exercise-n-step-lookahead,Exercise: N-Step Lookahead,prakash,,2020-12-02T08:00:40.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,olivermoody/connectx-reinforcement-learning,ConnectX Reinforcement Learning,Oliver Moody,,2020-12-12T21:37:15.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,suegreen/exercise-play-the-game,Exercise: Play the Game,Susanna Gimaeva,,2020-11-09T19:10:31.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,joerakhimov/connectx-11,ConnectX 11,Joe Rakhimov,,2020-10-28T20:10:05.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,joerakhimov/connectx-10,ConnectX 10,Joe Rakhimov,,2020-10-20T08:46:43.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,bakhshiyev/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Tofig Bakhshiyev,,2020-10-11T17:08:08.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,joerakhimov/connectx-9,ConnectX 9,Joe Rakhimov,,2020-10-10T15:20:02.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,joerakhimov/connectx-6-custom-cnn,ConnectX 6 - Custom CNN,Joe Rakhimov,,2020-10-06T11:45:58.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,anweshasinha/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Anwesha Sinha,,2020-10-04T13:49:51.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,anweshasinha/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Anwesha Sinha,,2020-10-04T13:43:22.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,anweshasinha/exercise-play-the-game,Exercise: Play the Game,Anwesha Sinha,,2020-10-04T13:31:56.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ikechan/connectx-getting-started,ConnectX Getting Started,ikechan,,2020-09-28T14:02:35.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,joerakhimov/connectx-3,ConnectX 3,Joe Rakhimov,,2020-09-23T10:18:42.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,garyongguanjie/minimax-alphabeta-playable,minimax alphabeta playable,garyong,,2020-09-03T06:55:26.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,crazychild/connectx-agent-with-1-step-lookahead,ConnectX agent with 1 step Lookahead,Amina Khatun Mim,,2020-09-07T03:49:57.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,crazychild/connectx-agent-from-exercise-2,ConnectX agent from Exercise 2,Amina Khatun Mim,,2020-09-02T02:07:56.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,metehankutlu/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Metehan Kutlu,,2020-08-30T20:05:09.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,velenos14/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Iustin Ouatu,,2020-08-23T16:24:06.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,shams1/connectx,ConnectX ,Shams Sultan,,2020-08-19T07:00:17.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,garyongguanjie/numba-speedtest,numba_speedtest,garyong,,2020-08-18T11:30:56.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,garyongguanjie/alphazeroconnect4,AlphaZeroConnect4,garyong,,2020-08-16T09:46:44.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,metehankutlu/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Metehan Kutlu,,2020-08-01T22:56:06.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,shadowtime2000/connectx,ConnectX,shadowtime2000,,2020-07-31T00:44:32.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,syoyanakajima0428/kernel2153fea94e,kernel2153fea94e,SyoyaNakajima0428,,2020-07-17T08:03:34.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,metehankutlu/exercise-play-the-game,Exercise: Play the Game,Metehan Kutlu,,2020-07-20T10:34:59.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,fanbyprinciple/connectx-rule-based-easy-solution,ConnectX - rule based easy solution,Ami,,2020-07-09T12:28:47.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,danich329/connect4game-with-reinforcement-learning,connect4game_with_reinforcement_learning,David Nicholson,,2020-07-09T04:40:50.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,nakaokazuki/kernel55186e9127,kernel55186e9127,nakao kazuki,,2020-07-08T09:49:44.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,miteshkumar7/exercise-play-the-game,Exercise: Play the Game,miteshkumar7,,2020-07-06T23:00:47.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,naruho/kernel62d3793d3c,kernel62d3793d3c,Naruho,,2020-07-07T01:00:52.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kaitokawasaka/kernel4c5ca7c421,kernel4c5ca7c421,Kaito Kawasaka,,2020-07-03T07:45:17.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ellertsmari/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Ellert Smári Kristbergsson,,2020-06-27T04:46:46.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,vatch123/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Vatsalya Chaubey,,2020-06-21T08:09:31.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,jesusfernandezrevelles/exercise-play-the-game,Exercise: Play the Game,Jesús Fernández Revelles,,2020-06-20T07:58:31.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,jorgeavila1/create-a-connectx-agent,Create a ConnectX agent,Jorge Avila,,2020-06-18T08:59:06.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,gyozzza/alphazero-like-combination-of-mcts-and-dnn,AlphaZero-like combination of MCTS and DNN,Hiroya Ijima,,2021-06-22T03:26:16.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,aishwaryabala/exercise-play-the-game,Exercise: Play the Game,Aishwarya Bala,,2020-06-12T12:22:35.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,cbackes000/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Christian Backes,,2020-06-10T22:37:53.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,cbackes000/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Christian Backes,,2020-06-10T18:43:57.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,cbackes000/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Christian Backes,,2020-06-10T01:38:09.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,cbackes000/exercise-play-the-game,Exercise: Play the Game,Christian Backes,,2020-06-09T22:36:56.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,taiwokenny/exercise-one-step-lookahead,Exercise: One-Step Lookahead,taiwo kenny,,2020-05-29T13:19:32.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kuyantsevvp/kernel7b1790d15c,kernel7b1790d15c,Vladimir  Kuyantsev,,2020-05-25T14:48:05.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,indigosphinx/exercise-play-the-game,Exercise: Play the Game,Tim Fox,,2020-05-12T20:17:40.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,abdullatiftopu/connectx-getting-started,ConnectX Getting Started,Abdullatif topçu,,2020-05-10T13:20:38.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,roberthortonii/connectx-getting-started,ConnectX Getting Started,ROBERT HORTON II,,2020-05-08T23:15:27.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,peijenlin/peijen-connectx,Peijen-ConnectX,Peijen Lin,,2020-05-05T23:23:10.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,helloworld141/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Kyle Nguyen,,2020-04-28T13:03:37.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,aakashg1999/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Aakash Gupta,,2020-04-26T15:18:04.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,aakashg1999/exercise-play-the-game,Exercise: Play the Game,Aakash Gupta,,2020-04-24T15:58:59.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kintumiku/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Sankalp Sharma,,2020-04-22T08:46:43.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,helloworld141/exercise-play-the-game,Exercise: Play the Game,Kyle Nguyen,,2020-04-28T09:55:29.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,pablovallejo/exercise-play-the-game,Exercise: Play the Game,Pablo vallejo,,2020-04-18T16:34:56.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ismailcanga/n-step-lookahead-weighted-randomnes-via-counter,N-Step Lookahead weighted randomnes via Counter,Ismail Canga,,2020-04-18T10:05:07.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,jamesdavey/exercise-n-step-lookahead,Exercise: N-Step Lookahead,James Davey,,2020-04-12T12:49:10.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,oskarfirlej/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Oskar Firlej,,2020-04-14T12:45:38.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,oskarfirlej/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Oskar Firlej,,2020-04-14T12:45:29.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,oskarfirlej/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Oskar Firlej,,2020-04-14T12:45:48.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kirtibg/exercise-one-step-lookahead,Exercise: One-Step Lookahead,Kirti_bg,,2020-04-04T07:39:17.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,akashsuper2000/connectx-getting-started,ConnectX Getting Started,Akash G,,2020-04-03T06:44:10.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,hubcity/scraping-kaggle-for-submission-stats-connectx,Scraping kaggle for submission stats (ConnectX),Hubcity,,2020-04-11T12:06:03.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ekzemplaro/connectx-mar27-2020,connectX_mar27_2020,Uchida Masatomo,,2020-03-27T04:51:34.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,rutujarane1/exercise-n-step-lookahead,Exercise: N-Step Lookahead,Rutuja Rane,,2020-03-25T01:22:51.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,arateris/exercise-deep-reinforcement-learning,Exercise: Deep Reinforcement Learning,Virgile,,2020-03-18T14:27:59.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,arateris/2-step-lookahead,2-Step Lookahead,Virgile,,2020-03-18T16:25:15.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,rodrigollanes/exercise-play-the-game,Exercise: Play the Game,Rodrigo Llanes,,2020-03-18T11:45:47.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,arateris/create-a-connectx-agent,Create a ConnectX agent,Virgile,,2020-03-18T14:52:16.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,pierreguionnet/connectx-a-version,ConnectX - A* version,Pierre Guionnet,,2020-03-24T14:01:39.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,sisayie/connectx-with-cross-entropy,ConnectX with Cross-Entropy,Sisuka,,2020-03-10T10:00:06.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,yohanobadia/attention-connectx,Attention_ConnectX,Yohan Obadia,,2020-03-08T18:18:55.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,shupletsovm/first-commit-non-rl-agent,"First commit, non RL agent",Mikhail Shupletsov,,2020-02-21T18:35:42.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,kagglesilphf/connectx-replay,connectX_replay,kaggle silphf,,2020-02-11T07:42:08.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,nikamrupesh/my-first-attempt-with-reinforcement-learning,My first attempt with Reinforcement Learning ,nikamrupesh_ITB,,2020-02-09T08:11:03.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,bibhasmondal96/connectx-using-deep-q-learning,ConnectX using Deep Q Learning,Bibhas Mondal,,2020-02-09T08:04:24.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,ranggarppb/connectx-dengan-deep-q-learning,ConnectX dengan Deep Q-Learning,Rangga Putra Pertama,,2020-01-29T15:31:12.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx
+,,,,,0,aritrase/connectx-with-q-learning,ConnectX with Q-Learning,Aritra Sen,,2020-01-10T06:19:30.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,connectx

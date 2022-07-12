@@ -1,0 +1,241 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,rajmehra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Raj Mehrotra,,2019-01-06T07:02:19.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],657,word2vec-nlp-tutorial
+,,,,,0,nilanml/imdb-review-deep-model-94-89-accuracy,IMDB Review  - Deep Model ~ 94.89% Accuracy,Nilan,,2018-11-21T11:04:36.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],174,word2vec-nlp-tutorial
+,,,,,0,alexcherniuk/imdb-review-word2vec-bilstm-99-acc,IMDB review Word2Vec & BiLSTM - 99% acc,Alex Cherniuk,,2019-04-29T13:38:20.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,word2vec-nlp-tutorial
+,,,,,0,rohandx1996/google-movie-reviews-sentiment-deep-stack-models,Google movie reviews sentiment Deep stack models ,rohan,,2019-09-18T07:15:00.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,word2vec-nlp-tutorial
+,,,,,0,jayantmathur/imdb-review-data,IMDB Review Data,Jayant Mathur,,2020-11-11T12:40:51.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,word2vec-nlp-tutorial
+,,,,,0,xchmiao/popcorn-rnn-model,Popcorn RNN model,LambFish,,2018-10-02T01:21:09.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,word2vec-nlp-tutorial
+,,,,,0,harshitmakkar/nlp-word2vec,NLP - Word2Vec,HarshitMakkar,,2019-08-28T06:12:31.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,word2vec-nlp-tutorial
+,,,,,0,nishathakkar/bag-of-words,Bag of Words,Nirali Thakkar,,2022-06-06T02:28:25.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,word2vec-nlp-tutorial
+,,,,,0,sameerdev7/93-f-score-bag-of-words-m-bags-of-popcorn-with-rf,.93 f-score Bag of Words M Bags of Popcorn with RF,Sameer Dev,,2019-01-15T14:43:11.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,word2vec-nlp-tutorial
+,,,,,0,kobeerose/meets-bags-of-popcorn-a-beginner-s-notebook,Meets Bags of Popcorn - A Beginner's Notebook,KOBeerose,,2021-10-17T10:25:37.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,word2vec-nlp-tutorial
+,,,,,0,pranjalchatterjee/bag-of-words-word2vec-for-sentiment-analysis,Bag of Words/Word2Vec for Sentiment Analysis,Pranjal Chatterjee,,2021-06-29T23:17:02.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,word2vec-nlp-tutorial
+,,,,,0,jurk06/sentiment-analysis-part-i,Sentiment Analysis - Part-I,Rabi Kumar Singh,,2021-05-19T03:00:25.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,word2vec-nlp-tutorial
+,,,,,0,jatinmittal0001/word2vec,Word2Vec,Jatin0001,,2019-01-29T19:23:33.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,word2vec-nlp-tutorial
+,,,,,0,bell2psy/practicing-sentimental-analysis,Practicing Sentimental Analysis,SOYOUNG PARK,,2022-03-27T12:10:00.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,word2vec-nlp-tutorial
+,,,,,0,rawaaelghali/sentiment-analysis-101-using-word2vec,sentiment analysis 101 using Word2Vec,Rawaa Elghali,,2021-07-07T10:57:49.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,word2vec-nlp-tutorial
+,,,,,0,pratikbarua/bag-of-words-meets-bags-of-popcorn,Bag of Words Meets Bags of Popcorn,Pratik Barua,,2020-06-10T10:40:14.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,word2vec-nlp-tutorial
+,,,,,0,yepp2411/baseline-model-using-nn-for-movie-review,Baseline model using NN for movie review,SANGYEOP LEE,,2020-01-05T12:41:53.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,word2vec-nlp-tutorial
+,,,,,0,yasiradoan/bag-of-words-meets-bags-of-popcorn-randomforest,Bag of Words Meets Bags of Popcorn-RandomForest,Yasir Ağdoğan,,2021-11-01T08:18:33.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,word2vec-nlp-tutorial
+,,,,,0,revanthrex/sentiment-analysis-with-word2vec,Sentiment Analysis with Word2Vec,Revanth,,2019-11-17T17:48:42.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,word2vec-nlp-tutorial
+,,,,,0,theainerd/bag-of-words-meets-bag-of-popcorn,Bag of Words Meets Bag of Popcorn,Shyam Sunder Kumar,,2018-10-09T18:43:28.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,word2vec-nlp-tutorial
+,,,,,0,jkanthony/nlp-tutorial-for-beginners,NLP Tutorial for Beginners,Jatin,,2022-03-21T11:24:48.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,word2vec-nlp-tutorial
+,,,,,0,infrarosso/imdb-with-embedding-transfer-learning-lstm,IMDB with Embedding Transfer Learning & LSTM,Infrared,,2022-06-25T09:50:10.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,word2vec-nlp-tutorial
+,,,,,0,krishnamore/moviereview-simpleneuralnetwork,MovieReview+SimpleNeuralNetwork,Krishna More,,2021-07-11T09:15:28.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,word2vec-nlp-tutorial
+,,,,,0,jurk06/sentiment-analysis-part-ii,Sentiment Analysis - Part-II,Rabi Kumar Singh,,2021-05-22T03:54:43.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,word2vec-nlp-tutorial
+,,,,,0,jiaofenx/imdb-review-word2vec-rnn-tutorial,IMDB Review - Word2Vec RNN Tutorial,Jofen,,2019-08-01T04:13:07.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,word2vec-nlp-tutorial
+,,,,,0,amitkvikram/bag-of-words,bag_of_words,Amit,,2018-10-28T10:58:37.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,word2vec-nlp-tutorial
+,,,,,0,nehabansal/stacking-blending-and-ensemble-tutorial,"Stacking ,Blending and Ensemble Tutorial ",Neha,,2020-09-29T16:39:35.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,word2vec-nlp-tutorial
+,,,,,0,panditdandgule/a-detailed-explanation-of-keras-embedding,A Detailed Explanation of Keras Embedding,Pandit Dandgule,,2020-03-07T13:37:21.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,word2vec-nlp-tutorial
+,,,,,0,john77eipe/nlp-word2vec-bag-of-words-meets-bags-of-pop,NLP: Word2Vec (Bag of Words Meets Bags of Pop),John Eipe,,2019-12-17T10:28:22.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,word2vec-nlp-tutorial
+,,,,,0,vamsi1251/bag-of-words-model,Bag_of_Words_model,Vamsi,,2018-10-08T18:56:45.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,word2vec-nlp-tutorial
+,,,,,0,jiinpp/visualization-sentiment-analysis,Visualization & sentiment analysis,Jiin,,2022-04-02T10:06:41.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,word2vec-nlp-tutorial
+,,,,,0,rohitsaistark/model-mixing,Model Mixing,Rohit Sai Janga,,2021-10-03T10:06:38.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,word2vec-nlp-tutorial
+,,,,,0,rajspd/sentiment-analysis-in-20-lines-score-0-854,Sentiment Analysis - In 20 Lines - Score 0.854,Raj,,2019-11-20T02:36:59.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,word2vec-nlp-tutorial
+,,,,,0,yutanakamura/nlp-beginner-s-bow-model,NLP Beginner's BoW model,osakanachan,,2019-05-02T15:11:23.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,word2vec-nlp-tutorial
+,,,,,0,lxyuan0420/imdb-review-bag-of-words-xgboost,IMDB Review - Bag of Words + XGBoost,Lx,,2019-05-02T08:08:11.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,word2vec-nlp-tutorial
+,,,,,0,nichen301/movie-reviews-lstm-with-keras,Movie Reviews: LSTM with Keras,Chen Ni,,2019-02-17T04:55:36.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,word2vec-nlp-tutorial
+,,,,,0,abhinandanreddy/bow-bags-of-popcorn-part1,BoW - Bags of Popcorn - Part1,Abhi,,2022-03-31T11:37:19.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,gopalgoyal612002/sentiment-bag-of-words-tokenization,sentiment_bag_of_words_tokenization,Gopal Goyal,,2022-03-02T18:05:48.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,arti1117/hello-word2vec-part3,"Hello, word2vec_part3",Making TARS,,2021-11-03T15:17:22.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,kaitoshishido/bag-of-words-meets-bags-of-popcorn-nstb2,Bag of Words Meets Bags of Popcorn NSTB2,18036k,,2019-03-05T09:22:03.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,ganguly069/bag-of-words-with-naive-bayes,Bag of words with Naive Bayes,Trisha ,,2018-10-10T16:27:40.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,ganaidu707/bag-of-words-using-logisticregression,Bag_of_Words_Using_LogisticRegression,Appala Naidu,,2018-10-10T11:08:56.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,sumitdua10/cnn-notebook-on-text-classification,CNN Notebook on Text Classification,Sumit Dua,,2018-10-02T05:58:47.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,word2vec-nlp-tutorial
+,,,,,0,abhinandanreddy/bow-bags-of-popcorn-word2vec,BoW - Bags of Popcorn - Word2Vec,Abhi,,2022-04-01T14:29:18.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,nikosavgeros/sentiment-analysis-with-tensorflow-accuracy-87,Sentiment Analysis with TensorFlow - Accuracy 87%,Nikos Avgeros,,2022-01-03T20:13:28.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,withyourhappiness/word2vec-tutorial,Word2Vec Tutorial,WithYourHappiness,,2021-12-18T13:04:58.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,soloveve/nlp-8306,NLP_8306,solo_ve_ve,,2021-12-30T13:02:21.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,georgefourmouzis/review-sentiment-prediction-vader-bow-bert,"Review Sentiment Prediction (Vader, BoW, BERT)",George Fourmouzis,,2021-12-11T09:07:21.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,dmitryzaykov/nlp-random-forest,nlp random-forest,DmitryZaykov,,2021-10-13T20:03:24.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,rahulkumarp/sentiment-analysis,Sentiment_analysis,Rahul kumar,,2021-02-04T06:36:13.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,ravijain01/bag-of-words-using-random-forest-classifier,Bag of Words using Random Forest Classifier,Ravi Jain,,2020-11-27T17:40:54.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,kongnyooong/imdb-review-nlp-tutorial-part-1,IMDb review NLP Tutorial Part 1,HONG_YP,,2020-02-24T06:53:11.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,gavrilpetrov/tutorial-1-bag-of-words,Tutorial 1 Bag of words,Petroga,,2020-01-26T20:50:45.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,yeonseokjeong/imdb-movie-reviews-yeonseok,IMDB movie reviews_yeonseok,Yeonseok Jeong,,2020-05-20T07:05:07.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,byhoson/text-classification,text_classification,Bjong Son,,2019-11-09T09:36:05.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,chiranjeevbit/nlp-movies-review,NLP movies review,Chiranjeev,,2019-03-10T11:50:17.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,amreshtech/imdb-reviews-with-keras-95-58-accuracy,IMDb Reviews with Keras ~ 95.58% Accuracy,Amresh Mishra,,2019-01-29T23:13:32.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,necrospk/kaggle-words-train,Kaggle Words Train,Oskin Nikita,,2018-12-12T06:58:36.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,harpreethp/bag-of-words-meets-bag-of-popcorn,Bag of words meets bag of popcorn,Harpreet Singh,,2018-11-10T02:56:50.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,dhaka22/kernelffc6846ccb,kernelffc6846ccb,Deepak Dhaka,,2018-10-09T15:03:02.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,zachary3141/kernel426d47eb25,kernel426d47eb25,Zachary Shih,,2018-10-08T07:02:19.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,word2vec-nlp-tutorial
+,,,,,0,lucasrieutord/bags-of-popcorn-competition,bags_of_popcorn_competition,Lucas Rieutord,,2022-06-20T19:54:45.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,mikhailkovzalov/kaggle-nlp-try2,Kaggle_NLP_try2,Mikhail Kovzalov,,2022-01-16T15:45:23.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,mikhailutk/tresko8308-nlp,Tresko8308_nlp,MikhailUTK,,2022-01-13T05:38:50.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,miguelkorn/sentimentanalyse,SentimentAnalyse,Miguel Korn,,2022-01-11T10:03:25.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,kiernanmcguigan/sentiment-bag-of-words-tokenization,sentiment_bag_of_words_tokenization,Kiernan McGuigan,,2021-12-24T23:25:59.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,southeslem/taisumov-nlp,Taisumov - NLP,SouthEslem,,2021-12-19T18:51:57.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,durgeshmaurya/sentiment,sentiment,Durgesh maurya,,2021-12-19T07:07:36.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,nikitalukashov/nlplab,nlplab,Nikita Lukashov,,2021-11-27T16:14:02.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,saprykinalexander/nlp-films,nlp_films,Saprykin Alexander,,2021-11-28T08:33:34.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,grigorypetrov/nlp-with-forest,NLP with forest,Grigory Petrov,,2021-11-01T08:15:10.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,keivanipchihagh/bag-of-words-meets-bags-of-popcorn,Bag of Words Meets Bags of Popcorn,Keivan Ipchi Hagh,,2021-10-30T18:39:20.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,alexanderyemelyanov/notebooke4925d1ad4,notebooke4925d1ad4,newprolab.com.alexander.yemelyanov,,2021-10-25T19:44:15.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,aayushkubba/word2vec-tutorial,Word2Vec Tutorial,Aayush Kubba,,2021-09-12T03:28:29.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,andrii0yerko/imdb-sentiment-with-vowpal-wabbit,IMDB sentiment with Vowpal Wabbit,Andrii Yerko,,2021-09-19T09:55:51.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,foolchicken/word2vec-on-imdb,word2vec on IMDB,Andthen,,2021-05-10T06:37:12.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,blighpark/imdb-mlwave,IMDB_MLWave,Bligh Park,,2021-01-11T11:39:58.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,catholpython/nlp-part-3,NLP_Part_3,Whoops,,2020-12-08T22:50:45.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,jsyphil/part-3-bag-of-words-meets-bags-of-popcorn,Part 3 - Bag of Words Meets Bags of Popcorn ,jsyphil,,2020-10-23T15:19:43.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,farsanas/are-you-ready-to-build-your-own-word-embedding,Are you ready to build your own Word embedding,farsana s,,2020-10-20T15:45:26.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,rafanthx13/films-review-nlp-feeling-text-classification,Films Review: NLP Feeling Text Classification,Rafael Assis,,2020-09-14T00:49:34.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,oscarola/word2vec-tutorial,Word2Vec Tutorial,Oscar Olazabal,,2020-05-03T05:54:53.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,kategera06/comparing-svm-naivebayes-randomforest-knn-logreg,Comparing SVM NaiveBayes RandomForest KNN LogReg,Kateryna Herashchenko,,2020-04-10T16:05:00.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,kongnyooong/imdb-review-nlp-tutorial-part-3,IMDb review NLP Tutorial Part 3,HONG_YP,,2020-03-04T17:53:54.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,kongnyooong/imdb-review-nlp-tutorial-part-2,IMDb review NLP Tutorial Part 2,HONG_YP,,2020-02-26T09:37:17.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,adage14175/natural-language-processing,natural-language-processing,Shrihari Naik,,2020-01-06T15:32:40.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,bilalshahidqureshi/nlp-word2vec-07934b,NLP - Word2Vec 07934b,Bilal Shahid Qureshi,,2019-12-12T08:53:31.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,shrinidhin/bag-of-words-meets-bag-of-popcorn-mykernel,Bag Of Words meets Bag of Popcorn_mykernel,Shrinidhi Narasimhan,,2019-12-11T08:59:36.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,andraw/kernel137c3b5287,kernel137c3b5287,Andrey,,2019-12-01T06:40:51.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,viroviro/sentiment-analysis-tf-idf-logistic-regression,Sentiment analysis TF-IDF+Logistic regression,Victor Rodeño Sanchez,,2021-01-31T17:36:58.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,chaitanyagarikipati/popcorn-bicudnngru,Popcorn BiCuDNNGRU,Chaitanya Garikipati,,2019-09-30T03:29:53.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,khaledmgamal/bag-of-words-rnn-lstm-sentiment,bag_of_words_RNN(LSTM)_sentiment,khaled.M.gamal,,2019-08-28T10:23:02.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,mayankg/kernelf4f8b76d32,kernelf4f8b76d32,Mayank Garg,,2019-06-22T11:10:19.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,kimhansoo/word2vec-hskim,Word2Vec_Hskim,hskim,,2019-04-11T03:26:17.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,tharunreddy/tf-idf-0-89,TF-IDF -> 0.89,reddy_nt,,2018-12-09T11:15:44.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,lider123/sentiment-analysis-for-bags-of-popcorn,Sentiment Analysis for Bags of popcorn,Konstantin,,2018-11-23T06:30:13.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,xinruchen/my-nlp-excercises-on-movie-sentiment,My NLP Excercises on Movie Sentiment,Xinru,,2019-01-09T03:33:20.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,aamnafea/sklearn-countvectorizer,Sklearn CountVectorizer,Aamnafea,,2018-10-21T09:15:33.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,tusharchhajer/bag-of-words-with-random-forest,Bag of Words with Random Forest,Tushar Chhajer,,2018-10-11T06:48:04.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,snehabansod/bow-meets-bop-using-tfidf-and-svm,BOW meets BOP using TFIDF and SVM,Sneha Bansod,,2018-10-11T06:05:32.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,harpreethp/bag-of-words-assignment,Bag of Words assignment,Harpreet Singh,,2018-10-11T04:41:23.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,chaitanyapatil7/bag-of-words-meets-bag-of-popcorn-accuracy-of-86,bag of words meets bag of popcorn accuracy of 86%,Chaitanya Patil,,2018-10-10T13:33:50.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,rajatkatiyar/bag-of-words-with-svm,Bag Of Words With SVM,Rajat,,2018-10-10T10:13:33.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,lcukerd/rating-predictor,Rating predictor,lcukerd,,2018-10-09T17:32:27.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,word2vec-nlp-tutorial
+,,,,,0,janinvm/bag-of-words,Bag of Words,janinvm,,2022-06-19T14:51:36.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,fuyuky/fuyuki-s-first-nlp,Fuyuki's first nlp,Fuyuki,,2022-05-07T14:33:23.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kamaljp/learning-nlp-classification-spacy,Learning NLP_Classification_SPACY,Kamal,,2022-03-14T10:26:45.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,ominiv/sentiment-analysis-unsupervised-and-supervised,Sentiment Analysis |  unsupervised and supervised ,ominiv,,2022-01-27T07:37:36.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,lyudalapkina/8306-new,8306_new,Lyuda Lapkina,,2022-01-17T01:10:38.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,seregabdx/notebook82086ca53d,notebook82086ca53d,seregabdx,,2022-01-14T19:59:00.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,alex150293/bag-of-words-meets-bags-of-popcorn-part-1,Bag of Words Meets Bags of Popcorn Part 1,alex150293,,2022-01-13T11:44:22.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,valeriaoseneva/8306-oseneva-nlp,8306_Oseneva_NLP,ValeriaOseneva,,2022-01-06T15:52:37.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,dmtnikolaev/notebookbedeeca349,notebookbedeeca349,Dmitry Nikolaev,,2022-01-02T12:34:26.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,maloyy/word2vec,word2vec,MaloYY,,2021-12-29T15:46:42.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,juliavassilenko/notebookd1a59fac1e,notebookd1a59fac1e,Julia Vassilenko,,2021-12-27T16:51:43.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,antonsharandin/nlp-sharandin-anton,NLP_Sharandin_Anton,Anton Sharandin,,2021-12-27T15:51:23.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,batonny/notebookae11c003ca,notebookae11c003ca,Илья Баталев,,2021-12-26T17:46:11.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,aleksandrkolbin/kolbin-8305-nlp,Kolbin_8305_NLP,Aleksandr Kolbin,,2021-12-26T17:46:32.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,simonfedorov/fedorov-8305-nlp,Fedorov_8305_NLP,Simon Fedorov,,2021-12-26T17:33:21.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,gorodovleonid/8308gorodov-nlp,8308Gorodov_NLP,Gorodov Leonid,,2021-12-26T17:26:08.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,nikitadyagilev/nlp-dyagilev8305,NLP_Dyagilev8305,Nikita Dyagilev,,2021-12-25T14:55:41.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,denisshvetsov811/nlp-shvetsov8305,NLP_Shvetsov8305,Denis Shvetsov811,,2021-12-25T14:48:41.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kiernanmcguigan/sentiment-bag-of-words-naive-bayes,sentiment_bag_of_words_naive_bayes,Kiernan McGuigan,,2021-12-25T21:37:34.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kiernanmcguigan/sentiment-bag-of-words-gradient-boosting,sentiment_bag_of_words_gradient_boosting,Kiernan McGuigan,,2021-12-25T00:51:54.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kiernanmcguigan/sentiment-bag-of-words-random-forest,sentiment_bag_of_words_random_forest,Kiernan McGuigan,,2021-12-25T00:19:44.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,shustikovvladislav/notebook4ccf2c8e93,notebook4ccf2c8e93,Shustikov Vladislav,,2021-12-30T22:06:30.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,ivansmeyukha/smeyukha-8305-nlp,Smeyukha_8305_NLP,Ivan Smeyukha,,2021-12-22T19:56:13.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,alexanderkostin/kostinav-8305-nlp,KostinAV_8305_nlp,Alexander Kostin,,2021-12-22T20:14:17.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,egortuliandin/tenlp,TENLP,Egor_Tuliandin,,2021-12-22T13:08:58.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,dmirtyenikeev/notebookcd6ece3408,notebookcd6ece3408,Dmirty Enikeev,,2021-12-22T04:51:18.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,milenamiskevich/nlp-competition,NLP competition,Milena Miskevich,,2021-12-22T15:17:36.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,tkachevigor/nlp-tkachev,NLP_Tkachev,Tkachev Igor,,2021-12-20T23:20:03.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,elwinner23/nlp-bag-of-words,NLP_Bag_of_words,Elwinner23,,2021-12-20T22:56:46.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,akshinguseinov/nlepe,NLePe,Akshin Guseinov,,2021-12-20T22:04:00.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,chimchoppa/nlp-8308-smi,NLP_8308_SMI,ChimChoppa,,2021-12-20T15:08:52.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,rmnv1488/shubinov-nlp,shubinov_nlp,Rmnv1488,,2021-12-20T02:35:41.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,ivansibiryakov/nlp-sibiryakov-8305,nlp_Sibiryakov_8305,Ivan Sibiryakov,,2021-12-19T11:07:19.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,alinadovzhenko/notebook39b260815c,notebook39b260815c,Alina Dovzhenko,,2021-12-18T21:34:30.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,shprit/nlp-rfc,NLP_RFC,Ruslan Kerimov,,2021-12-18T19:22:49.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kirsonbrz/nlp-830804,NLP 830804,kirson_brz,,2021-12-18T17:17:32.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,mokhnatkinkirill/nlpword2vec,NLPword2vec,Mokhnatkin Kirill,,2021-12-18T12:40:56.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,aidachernyavskaya/bag-of-words,bag of words,Aida Chernyavskaya,,2021-12-17T23:05:54.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,lxxmik/ml-nlp,ML_NLP,Dmitrii Ovechko,,2021-12-17T21:16:45.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,leonidspiridonov/notebook218cd76846,notebook218cd76846,Leonid Spiridonov,,2021-12-17T00:03:59.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,nikitatsyganyuk/notebookword2vec,notebookWord2vec,Nikita Tsyganyuk,,2021-12-18T14:27:16.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,slavavolkonenkov/natlanguageproccessing,NatLanguageProccessing. Мешок слов,Slava Volkonenkov,,2021-12-17T23:13:03.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,andreyshestaev/labor4nlp,Labor4NLP,Andrey Shestaev,,2021-12-20T18:44:18.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,lebyby/ml-nlp-notebook,ML_NLP_Notebook,Nikita Dubinin,,2021-12-14T15:37:50.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,rusalnabdullin18/notebookdbc97e0401,notebookdbc97e0401,Rusaln_Abdullin_18,,2021-12-08T19:56:01.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,vladislavsemenyonok/notebookdf2b80fd2d,notebookdf2b80fd2d,Vladislav Semenyonok,,2021-12-06T21:03:44.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,anastasiyachapurina/nlp-n-ch,NLP_n.ch,Anastasiya Chapurina,,2021-12-05T20:36:14.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,polinamaltseva/nlp-bag-of-words-meets-bags-of-popcorn,NLP: Bag of Words Meets Bags of Popcorn,Polina Maltseva,,2021-12-04T21:08:29.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,veronikasmirnova/smirnovaveronikanlp,SmirnovaVeronikanlp,Veronika Smirnova,,2021-12-10T21:08:25.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,vladislavsergeev/nlp-with-randomforest,NLP with RandomForest,Vladislav Sergeev,,2021-11-29T17:55:42.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,veratumanova/nlp-vt,NLP - vt,Vera Tumanova,,2021-12-17T10:59:45.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,aershov/ml2021-nlp,ML2021 - NLP,A Ershov,,2021-11-22T07:06:40.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,alexanderbubnovman1/nlp-notebook,nlp notebook,Alexander Bubnov Man1,,2021-11-21T15:18:15.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kseniiaplatunova/nlp-lab,NLP Lab,Kseniia Platunova,,2021-11-17T16:09:34.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,alexandrpanarin/nlp-notebook,nlp notebook,Alexandr Panarin,,2021-11-14T16:54:21.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,stepanrepin/word2vec-lr,word2vec + LR,StepanRepin,,2021-11-14T09:07:15.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,annabelyaeva/belyaevanlp,BelyaevaNLP,Anna Belyaeva,,2021-11-03T20:07:25.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,arti1117/hello-word2vec-part1,"Hello, word2vec_part1",Making TARS,,2021-10-29T14:05:56.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,renatzemtsov/bag-of-words-nlp, Bag of words NLP,Renat Zemtsov,,2021-10-16T16:12:42.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,rowanjs/sentiment-analysis-word2vec-lstm,"Sentiment Analysis (Word2Vec, LSTM)",rowanjs,,2021-10-10T13:00:34.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,farhanmalik371/bag-of-words-attempt,Bag Of Words Attempt,Farhan Islam,,2022-06-22T23:34:38.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,jansirajendran/popcorn,popcorn ,Jansi Rajendran,,2021-09-13T06:46:18.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,yavuzselimkaraman/bag-of-words-meets-bags-of-popcorn,Bag of Words Meets Bags of Popcorn,Yavuz Selim Karaman,,2021-08-27T23:06:43.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,infrarosso/imdb-with-transfer-learning-from-tensorflow-hub,IMDB with Transfer Learning from TensorFlow Hub,Infrared,,2021-08-09T15:36:34.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,lilkaskitc/imdb-word-embeddings-neural-network,IMDB word embeddings neural network,lilkaskitc,,2021-07-26T08:28:55.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,girijeshcse/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Girijesh Prasad,,2021-05-09T05:24:14.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,zzz0534/gru-classify,gru_classify,zzz0534,,2021-04-17T05:04:10.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,soominsohn/mylove,myLove,SOOMIN SOHN,,2021-03-31T13:04:44.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,blighpark/imdb-part2-word2vec,IMDB_Part2_Word2Vec,Bligh Park,,2021-01-17T10:04:02.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,blighpark/imdb-part1-bow,IMDB_Part1_BOW,Bligh Park,,2021-01-16T11:03:06.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,playercjg/nlp-word2vec-082e7c,NLP - Word2Vec 082e7c,player_cjg,,2020-12-15T12:37:38.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,novikovmikhail/word2vec-evaluating-good-comments,Word2Vec evaluating good comments,mikhail.novikov,,2021-01-12T14:20:13.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,farsanas/challenges-in-text-analysis-fully-connected-nn,Challenges in Text Analysis - Fully connected NN,farsana s,,2020-11-09T12:28:43.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,jsyphil/part-2-bag-of-words-meets-bags-of-popcorn,Part 2 - Bag of Words Meets Bags of Popcorn,jsyphil,,2020-10-23T10:15:57.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,jsyphil/part-1-bag-of-words-meets-bags-of-popcorn,Part 1 - Bag of Words Meets Bags of Popcorn,jsyphil,,2020-10-23T09:27:19.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,nsj2018/text-classification-sentiment-analysis,Text Classification: Sentiment Analysis,NJ,,2020-09-14T19:27:14.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,ayano0412/imdb-review-fastest-model-88-f1,IMDB Review  - fastest Model ~ 88% F1,Naoya TAKIMOTO,,2020-08-05T02:05:51.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,chandra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Chandra Teja Reddy,,2020-05-14T06:26:56.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kerrigankelton/bagopopcorn,BagOPopcorn,Kerrigan Kelton,,2020-04-28T18:27:34.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kerrigankelton/bag-o-popcorn,Bag-O-Popcorn,Kerrigan Kelton,,2020-04-27T03:51:38.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,fizaazam/kernel502c9b3245,kernel502c9b3245,Fiza Azam,,2020-04-22T21:33:25.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,vladislavslevin/nltk-word2vec-bag-of-words-bags-of-popcorn,NLTK & Word2vec (Bag of Words + Bags of Popcorn),Vladislav Semin,,2020-05-06T18:45:15.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,tobbyrui/kernel52b27e1931,kernel52b27e1931,Tobby RUI,,2020-03-16T14:31:48.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,coolsidd14/bag-of-words-model,Bag of WORDS Model,Siddhant Khandelwal,,2020-02-09T18:47:14.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,hachemsfar/imdb-review,IMDB Review,Hachem SFAR,,2020-02-06T11:24:14.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,evelynchin/bag-of-words-meets-bags-of-popcorn,Bag of Words Meets Bags of Popcorn,Evelyn Chin,,2020-01-29T02:50:50.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,anupriyo/movie-analysis-using-lstm,Movie Analysis using LSTM ,anupriyo,,2020-02-10T17:02:28.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,zanin259/bag-of-words,Bag of Words,Fuad Zaneen,,2019-11-09T12:59:37.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,protiknag08/kernel244177553f,kernel244177553f,Protik Nag,,2019-09-16T10:46:16.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,yukikitayama/nlp-for-imdb-reviews,NLP for IMDb reviews,Yuki Kitayama,,2019-09-13T16:04:26.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,stasler/filmabend,Filmabend,Sabine Tasler,,2019-08-27T08:11:27.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,handerblue/movie-sentimental-analysis-naivebayes-tfidf,Movie Sentimental analysis - NaiveBayes TFIDF,blue,,2019-07-19T20:14:11.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,apoorvm/bag-of-words-learning,Bag_of_words_learning,Ryujin_AM,,2019-07-08T15:35:21.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,minjipark/bagofwords-bilstm,bagofwords_BiLSTM,MinjiPark,,2019-06-24T10:11:54.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,pyy0715/bag-of-words,bag of words,yyeon2,,2019-05-27T09:18:14.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,abppyo/naive-bayes-moviereview,Naive_Bayes_Moviereview,abpp,,2019-04-14T09:48:16.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,justk1/bow-part1,BOW-part1 ,K Bhambare,,2019-04-09T23:18:22.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,dajiaoyang/kernele51f4e5b6e,kernele51f4e5b6e,Da_Jiao_Yang,,2019-03-26T05:22:09.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,abhijeet0101/imdb-review-deep-model-93-51-accuracy,IMDB Review  - Deep Model ~ 93.51% Accuracy,Abhijeet Das,,2019-03-26T11:22:05.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,nmm33342/kernel3988ecf775,kernel3988ecf775,Никита Мещанинов,,2019-03-15T15:26:45.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,yutauchino/bag-of-words-meets-bags-of-popcorn-for-nst-b-1,Bag of Words Meets Bags of Popcorn for NST B-1,YutaU,,2019-03-04T10:35:58.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kaitoshishido/bag-of-words-meets-bags-of-popcorn-nst2,Bag of Words Meets Bags of Popcorn　NST2,18036k,,2019-03-04T09:23:23.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,devsanjay/bag-of-words-meets-bag-of-popcorn,Bag of Words Meets Bag of Popcorn,Sanjay Dev,,2019-02-26T12:17:20.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,puneetsingla17/bow-preprocessing-beautifulsoup,BOW+ preprocessing+beautifulSoup,puneet,,2019-02-15T01:28:23.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,agrawalsagar178/nlp-on-movie-review-version1,NLP  on movie Review version1,Sagar Agrawal ,,2019-01-29T19:13:48.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,aakashjhawar/imdb-bag-of-words,IMDB: Bag of Words,Aakash Jhawar,,2019-01-21T08:51:18.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,thripthi/bag-of-words-meets-bags-of-popcorn-model-using-rf,Bag of Words Meets Bags of Popcorn Model using RF,Thripthi Raj,,2018-12-30T05:43:06.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,jingbinxu/imdb-review-deep-model-93-51-accuracy-c935d8,IMDB Review  - Deep Model ~ 93.51% Accuracy c935d8,EleanorXu,,2018-12-15T04:34:20.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,dishkakrauch/first-blood,First blood,Dmitry Kravchuk,,2018-12-12T09:02:10.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,khaitov/word2vec,Word2Vec,Khaitov Roman,,2018-12-12T05:30:04.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,jungan/naivebayes-tf-idf-movie-review,NaiveBayes_TF-IDF_Movie_Review,jungan,,2018-12-09T00:15:52.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,lamdang/tutorial-imdb,Tutorial IMDB,Lam Dang,,2018-12-03T22:00:54.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,magic9800/kernel2bc4481284,kernel2bc4481284,Jcode,,2018-11-28T01:33:22.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,rhkdtjqql/bag-of-words2,Bag of words2,SSub90,,2018-12-16T09:13:26.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,rhkdtjqql/nltk-data-install-practice,NLTK DATA INSTALL PRACTICE,SSub90,,2018-11-27T11:50:16.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,isabeltseng/bag-of-words-meets-bags-of-popcorn,bag of words meets bags of popcorn,Isabel Tseng,,2018-11-06T05:27:30.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,sumitdua10/imdb-text-classification-ensemble,IMDB Text Classification Ensemble,Sumit Dua,,2018-11-03T10:02:33.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,sumitdua10/imdb-text-classification-dropout-comparison,IMDB Text Classification Dropout Comparison,Sumit Dua,,2018-11-03T08:27:59.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,jayasilan/sentiment-analysis-with-nn-lstm-glove,"Sentiment Analysis with NN, LSTM,Glove",Jayasilan,,2018-10-12T12:41:29.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,aamnafea/nltk-bag-of-words,NLTK Bag of words,Aamnafea,,2018-10-13T17:58:44.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,pbot83/assignment-logisticregression-with-doc2vec,assignment_logisticregression_with_doc2vec,Prasanna Kumar,,2018-10-10T15:42:38.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,rk1403/bag-of-words-dataset,Bag_of _words_Dataset,RK1403,,2018-10-10T15:03:37.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,janjali/bag-of-word-simple-countvectorizer,bag_of_word_simple_CountVectorizer,Anjali  selokar,,2018-10-10T08:23:54.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,eddyctid/bow-meets-bop,bow_meets_bop,Eddy,,2018-10-10T08:15:39.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,gradder/bags-of-words-meet-bags-of-challenge,bags of words meet bags of challenge,Himanshu Mehra,,2018-10-09T20:09:59.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,kriteshsingh/assignment-09-10-2018,Assignment_09_10_2018,Kritesh Singh,,2018-10-09T07:48:48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,khushboosrivastava2/assignment-09-oct-2018,Assignment_09-Oct-2018,Khushboo,,2018-10-09T08:30:42.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,shwetabh123/assignementproblem,AssignementProblem,shwetabh123,,2018-10-08T17:59:59.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,salmanasylum/kernele31207751b,kernele31207751b,Salman Pathan,,2018-10-09T07:43:58.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,iaroslavai/ed3s2018-day3-rnn,ED3S2018_Day3_RNN,Iaroslav Shcherbatyi,,2018-09-19T15:39:10.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,vincenzh/naivebayesii-moviesentimentanalysis-adrew,NaiveBayesII.MovieSentimentAnalysis.Adrew,Vincent,,2018-09-12T03:24:05.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,hudanivy/movie-sentiment-baseline-stop-words,Movie Sentiment--Baseline+stop words,dandan,,2018-09-06T06:05:27.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,galenchen90/kernel2e7f28b792,kernel2e7f28b792,galen chen,,2018-09-05T17:24:14.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,luckyboy1220/movie-sentiment-analysis-using-beautifulsoup,Movie Sentiment Analysis using beautifulsoup,kerkerker,,2018-09-05T10:30:38.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,annatu/movie-sentiment-analysis,Movie Sentiment Analysis,Anna Tu,,2018-09-05T04:48:58.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial
+,,,,,0,linhliu/movie-reviews,Movie Reviews,LLLIU,,2018-09-05T04:28:06.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,word2vec-nlp-tutorial

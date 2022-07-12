@@ -1,0 +1,244 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jesucristo/gan-introduction,GAN Introduction,Nanashi,,2019-07-01T09:10:43.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],593,generative-dog-images
+,,,,,0,cdeotte/supervised-generative-dog-net,Supervised Generative Dog Net,Chris Deotte,,2019-07-11T04:00:25.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],237,generative-dog-images
+,,,,,0,cdeotte/dog-memorizer-gan,Dog Memorizer GAN,Chris Deotte,,2019-07-06T14:06:08.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],231,generative-dog-images
+,,,,,0,wendykan/gan-dogs-starter,GAN dogs starter,Wendy Kan,,2019-06-21T21:56:57.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],150,generative-dog-images
+,,,,,0,phoenix9032/gan-dogs-starter-24-jul-custom-layers,GAN dogs starter 24-Jul -Custom Layers,Doomsday,,2019-08-02T02:17:48.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],125,generative-dog-images
+,,,,,0,roydatascience/introduction-to-generative-adversarial-networks,Introduction to Generative Adversarial Networks,Ashish Gupta,,2019-08-15T21:21:04.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],120,generative-dog-images
+,,,,,0,cdeotte/dog-autoencoder,Dog Autoencoder,Chris Deotte,,2019-07-23T15:21:34.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,generative-dog-images
+,,,,,0,speedwagon/ralsgan-dogs,RaLSGAN dogs,Vladislav Bakhteev,,2019-07-13T11:13:16.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],106,generative-dog-images
+,,,,,0,bestfitting/i96-1e-4-6e-4-bs32-195,i96_1e-4_6e_4_bs32_195,bestfitting,,2019-08-07T16:27:30.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],101,generative-dog-images
+,,,,,0,jesucristo/memorizer-cgan-for-dummies,Memorizer CGAN for dummies,Nanashi,,2019-07-12T05:09:57.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],90,generative-dog-images
+,,,,,0,jesucristo/introducing-dcgan-dogs-images,Introducing DCGAN Dogs Images,Nanashi,,2019-07-23T13:00:10.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],90,generative-dog-images
+,,,,,0,cdeotte/dog-breed-acgan-lb-52,Dog Breed ACGAN - [LB 52],Chris Deotte,,2019-08-16T17:09:08.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],78,generative-dog-images
+,,,,,0,cdeotte/big-gan-128-lb-12,Big GAN 128 - [LB 12],Chris Deotte,,2019-08-17T05:03:07.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,generative-dog-images
+,,,,,0,paulorzp/show-annotations-and-breeds,Show Annotations and Breeds,Paulo Pinto,,2019-07-01T19:12:58.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,generative-dog-images
+,,,,,0,artgor/dcgan-baseline,DCGAN baseline,Andrew Lukyanenko,,2019-07-18T04:33:49.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,generative-dog-images
+,,,,,0,whizzkid/crop-images-using-bounding-box,Crop images using bounding box,Ashutosh Chandra,,2019-07-02T02:49:24.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,generative-dog-images
+,,,,,0,wendykan/demo-mifid-metric-for-dog-image-generation-comp,Demo MiFID metric for Dog image generation comp,Wendy Kan,,2020-09-26T21:08:30.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,generative-dog-images
+,,,,,0,timetraveller98/memorizer-cgan-pytorch-version,Memorizer CGAN - pyTorch version,timetraveller,,2019-08-04T06:18:54.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,generative-dog-images
+,,,,,0,speedwagon/variational-autoencoder-dogs-generation,Variational Autoencoder - dogs generation,Vladislav Bakhteev,,2019-07-13T19:20:48.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,generative-dog-images
+,,,,,0,tikutiku/gan-dogs-starter-biggan,GAN dogs starter BigGAN,Tom,,2019-08-14T13:55:42.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,generative-dog-images
+,,,,,0,mpalermo/pytorch-rals-c-sagan,Pytorch RaLS-C-SAGAN,Palermo,,2019-08-12T11:07:08.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,generative-dog-images
+,,,,,0,jesucristo/private-lb-simulation-i,Private LB Simulation I,Nanashi,,2019-07-18T02:19:28.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,generative-dog-images
+,,,,,0,dvorobiev/doggies-biggan-sub-data-aug-3,doggies BigGAN sub - data_aug_3,Dmitry Vorobiev,,2019-08-14T07:28:48.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,generative-dog-images
+,,,,,0,guillaumedesforges/loading-the-cropped-dogs-seamlessly-with-pytorch,Loading the cropped dogs seamlessly with Pytorch,Guillaume Desforges,,2019-07-02T14:38:22.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,generative-dog-images
+,,,,,0,speedwagon/ram-dataloader,RAM DataLoader,Vladislav Bakhteev,,2019-07-16T21:16:57.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,generative-dog-images
+,,,,,0,sakami/ralsgan-dogs-cropping-random,RaLSGAN dogs cropping random,sakami,,2019-07-24T07:51:15.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,generative-dog-images
+,,,,,0,jesucristo/animation-gan-latent-walk,Animation - GAN Latent Walk,Nanashi,,2019-07-08T00:52:42.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,generative-dog-images
+,,,,,0,cafeal/cropping-dog-faces-using-opencv,Cropping Dog Faces using OpenCV,cafeal,,2019-07-30T08:55:11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,generative-dog-images
+,,,,,0,rsmits/keras-dcgan-with-weight-normalization,Keras DCGAN with Weight Normalization,Robin Smits,,2019-08-13T01:36:44.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,generative-dog-images
+,,,,,0,yukia18/sub-rals-ac-biggan-with-minibatchstddev,[Sub] RaLS AC-BigGAN with MinibatchStddev,yabea,,2019-08-15T01:49:36.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,generative-dog-images
+,,,,,0,jazivxt/imitation-game,Imitation Game,Daniel Preciado,,2019-07-06T00:52:15.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,generative-dog-images
+,,,,,0,guillaumedesforges/usable-complete-data-loading-utility,Usable & complete data loading utility,Guillaume Desforges,,2019-07-03T09:00:21.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,generative-dog-images
+,,,,,0,francoisdubois/ralsgan-dogs-improved-parameters,RaLSGAN dogs improved parameters,François,,2019-07-10T17:36:03.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,generative-dog-images
+,,,,,0,theoviel/conditional-progan-30-public,Conditional ProGan [30 public],Theo Viel,,2019-08-14T18:06:33.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,generative-dog-images
+,,,,,0,bestfitting/i96-crop-mode3-dstep1-1e-4-6e-4-bs32,i96_crop_mode3_dstep1_1e-4_6e-4_bs32,bestfitting,,2019-08-08T15:01:07.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,generative-dog-images
+,,,,,0,hirune924/handmade-dog-annotation,Handmade Dog Annotation ,hirune924,,2019-08-06T15:45:04.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,generative-dog-images
+,,,,,0,witold1/quick-data-explanation-and-eda,Quick data explanation and EDA,Vitaliy,,2019-06-29T08:48:06.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,generative-dog-images
+,,,,,0,cmalla94/dcgan-generating-dog-images-with-tensorflow,DCGAN Generating Dog Images with TensorFlow,Chad Malla,,2019-08-09T03:12:54.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,generative-dog-images
+,,,,,0,tenffe/vq-vae2-0-for-dog-image-generation,VQ-VAE2.0 for dog image generation,zhangxin,,2019-07-25T14:54:23.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,generative-dog-images
+,,,,,0,phoenix9032/simple-pytorch-wgan-div-for-dog-images,Simple Pytorch WGAN-DIV for Dog Images,Doomsday,,2019-07-17T09:01:57.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,generative-dog-images
+,,,,,0,yukia18/sub-rals-biggan-with-auxiliary-classifier,[Sub] RaLS BigGAN with Auxiliary Classifier,yabea,,2019-08-13T02:03:45.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,generative-dog-images
+,,,,,0,amanooo/wgan-gp-keras,WGAN-gp (keras),K.Amano,,2019-07-26T16:34:06.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,generative-dog-images
+,,,,,0,titericz/imitation-of-imitation-game,Imitation of Imitation Game,Giba,,2019-07-02T17:20:53.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,generative-dog-images
+,,,,,0,titericz/ralsgan-dogs-vladislav-bakhteev-kernel,RaLSGAN dogs - Vladislav Bakhteev Kernel,Giba,,2019-06-29T04:49:58.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,generative-dog-images
+,,,,,0,alvaroma/dcgan-lb-30-65,DCGAN LB 30.65,Alvaro,,2019-08-14T11:33:55.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,generative-dog-images
+,,,,,0,roydatascience/dcgan-with-weight-normalization-final-submission,DCGAN with Weight Normalization (Final Submission),Ashish Gupta,,2019-08-13T05:16:01.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,generative-dog-images
+,,,,,0,bitthal/understanding-input-data-and-loading-with-pytorch,Understanding Input Data and Loading with PyTorch,ShubhankarMohan,,2019-07-11T21:16:25.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,generative-dog-images
+,,,,,0,phoenix9032/fastai-wgan-for-dog-image-generation,fastai wgan for dog image generation ,Doomsday,,2019-07-05T03:47:32.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,generative-dog-images
+,,,,,0,shaygu/dogs-gan-starter-organized,Dogs GAN starter organized,Shay Guterman,,2019-08-02T13:21:41.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,generative-dog-images
+,,,,,0,tenffe/dcgan-with-tensorflow,DCGAN-with-tensorflow,zhangxin,,2019-07-21T23:04:21.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,generative-dog-images
+,,,,,0,super13579/dcgan-with-dog-generation-gif,DCGAN with DOG generation (GIF)!,funkyboy,,2019-06-30T01:42:26.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,generative-dog-images
+,,,,,0,leonshangguan/dcgan-data-cleaning-sub-v1,dcgan-data-cleaning-sub-v1,LeonShangguan,,2019-08-10T11:15:05.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,generative-dog-images
+,,,,,0,kuto0633/acgan-by-pytorch,ACGAN by PyTorch,kuto,,2019-08-04T00:44:16.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,generative-dog-images
+,,,,,0,johannl/sn-dcgan-style,SN-DCGAN Style,Johannl,,2019-08-14T16:37:01.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,generative-dog-images
+,,,,,0,rajwardhanshinde/simple-dcgan-pytorch,Simple DCGAN (Pytorch),Raj Shinde,,2019-07-23T04:08:03.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,generative-dog-images
+,,,,,0,ilu000/public-leaderboard-cleaned,Public leaderboard (cleaned),Ilu,,2019-07-06T14:17:51.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,generative-dog-images
+,,,,,0,francoisdubois/biggan-aaronleong-64,BIGGAN AaronLeong 64,François,,2019-08-18T17:08:13.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,generative-dog-images
+,,,,,0,sakami/mifid-evaluator-local-validation-framework,MiFID Evaluator: local validation framework,sakami,,2019-06-30T16:25:31.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,generative-dog-images
+,,,,,0,shaygu/t3h-d0g-mak3rz-public-43-fid,T3h d0g mak3rz public - 43 FID,Shay Guterman,,2019-08-14T17:17:51.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,generative-dog-images
+,,,,,0,hirune924/public-lb-5-17518-solution-memorizer-cgan,Public LB 5.17518 Solution (Memorizer CGAN),hirune924,,2019-08-14T22:32:48.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,generative-dog-images
+,,,,,0,yukia18/opencv-vs-pil-speed-comparisons-for-pytorch-user,OpenCV vs PIL - Speed Comparisons for Pytorch User,yabea,,2019-07-11T03:58:43.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,generative-dog-images
+,,,,,0,rhodiumbeng/crop-dog-images,Crop dog images,Hoon Beng,,2019-07-07T13:18:45.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,generative-dog-images
+,,,,,0,francoisdubois/dcgan-keras,DCGAN keras,François,,2019-07-02T11:31:05.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,generative-dog-images
+,,,,,0,mpalermo/remove-grideffect-on-generated-images,Remove GridEffect on Generated Images,Palermo,,2019-07-11T20:34:22.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,generative-dog-images
+,,,,,0,takumiito/commented-imitation-game,Commented Imitation Game,Ito Takumi,,2019-06-29T21:15:08.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,generative-dog-images
+,,,,,0,leonshangguan/dcgan-data-cleaning-sub-v2,dcgan-data-cleaning-sub-v2,LeonShangguan,,2019-08-03T14:41:17.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,generative-dog-images
+,,,,,0,kostyaatarik/take-a-look-at-all-these-lovely-puppies,Take a look at ALL THESE LOVELY PUPPIES,Kostya Atarik,,2019-08-02T00:55:19.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,generative-dog-images
+,,,,,0,francoisdubois/bidirectionnal-gan-keras,bidirectionnal GAN keras,François,,2019-07-01T12:25:21.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,generative-dog-images
+,,,,,0,jadeblue/dcgans-and-techniques-to-optimize-them,DCGANs and techniques to optimize them ,Konstantin Georgiev,,2019-08-28T06:11:53.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,generative-dog-images
+,,,,,0,jadeblue/dog-generator-starter-eda-preprocessing,Dog Generator - Starter EDA & Preprocessing,Konstantin Georgiev,,2019-07-24T15:40:34.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,generative-dog-images
+,,,,,0,jmcslk/pytorch-dcgan-doggo-generator,PyTorch DCGAN Doggo Generator,Marcin Pietrzycki,,2019-07-09T19:30:18.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,generative-dog-images
+,,,,,0,dvorobiev/doggies-biggan-sub-final,doggies BigGAN sub - final,Dmitry Vorobiev,,2019-08-13T06:41:59.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,generative-dog-images
+,,,,,0,drobchak1988/competition-generative-dog-images,Competition_Generative_Dog_Images,Maksim Drobchak,,2019-08-05T18:38:04.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,generative-dog-images
+,,,,,0,rhodiumbeng/prepare-load-and-save-dog-images,"Prepare, load and save dog images",Hoon Beng,,2019-07-09T00:46:34.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,generative-dog-images
+,,,,,0,hirune924/public-lb-38-92350-solution,Public LB 38.92350 Solution ,hirune924,,2019-08-15T00:10:51.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,generative-dog-images
+,,,,,0,momi64/kernel-standardgan,kernel_standardGAN,momi64,,2019-08-19T02:16:47.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,generative-dog-images
+,,,,,0,quangbk/stylegan-dog-pytorch,styleGAN_Dog (PyTorch),QuangTeo,,2019-07-21T17:49:46.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,generative-dog-images
+,,,,,0,selfishgene/gmm-in-convolutional-autoencoder-space,GMM in Convolutional Autoencoder space,David Beniaguev,,2019-08-10T14:42:55.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,generative-dog-images
+,,,,,0,snakayama/simple-keras-dcgan-v1,simple Keras dcgan_v1,makogarei,,2019-07-12T20:56:12.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,generative-dog-images
+,,,,,0,whizzkid/dcgan-on-cropped-dog-images,DCGAN on cropped dog images,Ashutosh Chandra,,2019-08-06T08:36:17.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,generative-dog-images
+,,,,,0,markpeng/small-stylegan-v6-higher-lr-v4-final,small-stylegan-v6-higher-lr-v4-final,Mark Peng,,2019-08-14T03:21:15.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,generative-dog-images
+,,,,,0,bitthal/rasl-dogs-gan-pixel,rasl Dogs GAN --pixel,ShubhankarMohan,,2019-08-14T09:20:47.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,generative-dog-images
+,,,,,0,timetraveller98/cgan-with-historical-weight-averaging,CGAN with historical weight averaging,timetraveller,,2019-08-15T04:14:10.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,generative-dog-images
+,,,,,0,javiermzll/gan-keras-dog-generator,GAN Keras Dog Generator,Javier Martínez,,2019-08-13T11:21:07.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,generative-dog-images
+,,,,,0,tenffe/vqvae-for-dog-image-generation,VQVAE-for-dog-image-generation,zhangxin,,2019-07-12T15:52:30.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,generative-dog-images
+,,,,,0,mightyrains/patchdogs-2x2,patchdogs_2x2,Mighty Rains,,2019-08-14T13:36:20.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,generative-dog-images
+,,,,,0,super13579/ralsgan-dogs-resnet-cbn,RaLSGAN dogs RESNET CBN,funkyboy,,2019-08-14T09:58:12.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,generative-dog-images
+,,,,,0,grapestone5321/semi-supervised-gan,semi-supervised GAN,Naruhiko Nakanishi,,2019-07-10T15:51:10.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,generative-dog-images
+,,,,,0,ddrbcn/counting-bounding-boxes,Counting  bounding boxes ,ddrbcn,,2019-07-02T20:30:21.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,generative-dog-images
+,,,,,0,shubham505/imitation-game-step-by-step,Imitation Game step by step,shubham goyal,,2019-07-01T08:35:45.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,generative-dog-images
+,,,,,0,johannl/sn-dcgan,SN-DCGAN,Johannl,,2019-08-14T00:51:04.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,generative-dog-images
+,,,,,0,grapestone5321/gan-basic-using-mnist,GAN Basic using MNIST,Naruhiko Nakanishi,,2019-07-08T12:46:14.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,generative-dog-images
+,,,,,0,tenffe/acgan-for-generating-dog-images,ACGAN for generating dog images,zhangxin,,2019-07-05T15:53:29.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,generative-dog-images
+,,,,,0,neonninja/keras-dcgan,Keras DCGAN,neonninja,,2019-07-17T00:54:53.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,generative-dog-images
+,,,,,0,hanminghu/gan01,GAN01,Hanming Hu,,2021-07-21T08:00:41.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,jpdurham/tensorflow-dcgan,TensorFlow - DCGAN,Josh Durham,,2019-08-24T22:02:47.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,saikalyan9981/trick-to-decrease-fid-58-to-50,Trick to decrease FID (58 to 50),Kalyan S.S,,2019-08-14T21:23:46.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,rhodiumbeng/dog-images-dcgan,Dog images - DCGAN,Hoon Beng,,2019-08-11T11:05:35.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,maxgarber/dogs-gan-keras-mg-v3,Dogs GAN keras MG v3,Max Garber,,2019-08-14T01:40:16.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,snakayama/lsgan-using-pytorch,LSGAN using Pytorch,makogarei,,2019-08-04T01:46:58.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,wrosinski/combining-gans,Combining GANs,Wojtek Rosinski,,2019-08-01T12:39:22.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,jadeblue/dogdeepdcgan-with-spectralnorm-tf-keras,DogDeepDCGAN with SpectralNorm (TF + Keras),Konstantin Georgiev,,2019-07-31T14:25:17.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,katotetsuro/stylegan-private-89,stylegan private 89,tkato,,2019-08-11T09:26:04.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,vaibhavmathur96/dog-memorizer-gan,Dog Memorizer GAN,VAIBHAV MATHUR,,2019-07-11T06:08:37.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,grapestone5321/dcgan-basic-using-svhn,DCGAN Basic using SVHN,Naruhiko Nakanishi,,2019-07-09T08:20:38.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,jobzhf88/generative-dog-images-dcgan-1-commit,Generative Dog Images -dcgan-1-commit,Wizard,,2019-08-10T20:01:35.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,mohitduklan/storing-bounding-box-image-and-labels,Storing Bounding Box Image and Labels,Mohit Duklan,,2019-07-04T05:53:49.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,felipefonte99/dcgan-with-comments-lb-47,DCGAN With Comments [LB 47],Felipe Loque,,2019-08-13T19:03:29.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,agatan/sagan-resnet-annots,SAGAN-ResNet-Annots,Naomichi Agata,,2019-07-08T00:56:41.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,shwetagoyal4/dcgan-using-pytorch,DCGAN using PyTorch,Shweta Goyal,,2019-07-17T12:32:33.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,generative-dog-images
+,,,,,0,lmyybh/pytorch-dcgan,pytorch-DCGAN,lmyybh,,2021-09-03T12:24:26.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,thomashuang2018/fork-of-kernel122785459c,Fork of kernel122785459c,Thomas Huang,,2019-08-14T12:33:06.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,bitthal/dogs-gan-pixel,Dogs GAN --pixel,ShubhankarMohan,,2019-08-14T02:17:06.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,selfishgene/gmm-in-cnn-ae-space-with-latent-aux-classifier,GMM in CNN AE space with latent aux classifier,David Beniaguev,,2019-08-12T21:25:19.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,joelhanson/dcgan-with-spectralnorm-dropout-avgpool,"DCGAN with spectralnorm,dropout,avgpool",Joel Hanson,,2019-08-13T04:15:35.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,nassimyagoub/simple-gan-dog-images,Simple GAN Dog Images,Nassim Yagoub,,2019-08-08T22:03:47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,tenffe/gan-dogs-starter-24-jul-custom-layers,GAN dogs starter 24-Jul -Custom Layers,zhangxin,,2019-08-13T11:51:35.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,maxgarber/dogs-gan-keras-mg,Dogs GAN keras MG,Max Garber,,2019-08-08T16:13:46.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,merckel/from-digits-to-overly-stylized-dogs,From Digits to Overly Stylized Dogs,Loic Merckel,,2019-07-25T21:06:19.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,amanooo/is-memorizer-gan-a-gan,Is Memorizer_GAN a GAN?,K.Amano,,2019-07-26T13:08:23.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,qinhui1999/fork-of-vq-vae2-0-for-dog-image-generation,Fork of VQ-VAE2.0 for dog image generation,huiqin,,2019-07-23T07:48:25.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,yk1598/c-sagan-ignite,C-SAGAN-ignite,quantumgeek,,2019-08-10T11:14:12.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,yonatanmedan/my-try-on-implementing-vq-vae,my try on implementing vq-vae,‫YonatanMedan,,2019-07-18T15:26:40.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,zning1994/generative-dog-learning-and-joining-the-contest,Generative Dog Learning and Joining The Contest,ZNing,,2019-07-06T03:26:54.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,eddididi/very-basic-gan-in-tensorflow,Very_Basic GAN_in_TensorFlow,EdDiDi,,2019-07-05T00:17:04.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,generative-dog-images
+,,,,,0,jamesstu/gan-introduction,GAN Introduction,Jamess.Tu,,2022-06-09T04:03:50.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,parmarsuraj99/gan-dogs-starter-biggan,GAN dogs starter BigGAN,Suraj Parmar,,2021-12-10T15:26:39.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,anhletuan/project2,Project2,Anh Le Tuan,,2021-05-17T17:25:40.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,kad99kev/selfattention-pytorch,SelfAttention-PyTorch,Kevlyn Kadamala,,2021-04-10T18:48:29.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,aligsaoud/dog-image-generator,Dog Image Generator,Allie G Saoud,,2021-03-17T21:49:25.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,anishmathewdev/vae-dog-images,vae_dog_images,203050066,,2020-12-07T18:34:04.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,sourav6633/ucs742-lab2-sourav,ucs742_lab2_sourav,sourav,,2020-11-20T14:54:41.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,vkhanduja/notebook2f07d322a1,notebook2f07d322a1,VIVEK KHANDUJA,,2020-11-19T08:40:06.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,tanayagarwal08111999/notebook1787eec81b,notebook1787eec81b,TANAY AGARWAL08111999,,2020-11-19T06:14:10.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,darthgera/ralsgan-dogs,RaLSGAN_dogs,darthgera123,,2020-04-08T04:53:07.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,econdata/ganadv,ganAdv,piAI,,2020-02-12T07:06:04.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,harishvutukuri/dcgan-dogs,DCGAN Dogs,Harish Vutukuri,,2019-12-30T13:51:12.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,eddididi/dogfaker1-cae,DogFaker1_CAE,EdDiDi,,2019-10-04T11:37:37.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,yukia18/reproduction-private-2nd-kernel,[Reproduction] Private 2nd Kernel,yabea,,2019-09-06T16:39:03.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,birdash/big-gan-256-lb-15,Big GAN 256 - [LB 15],Mark A. Stumbris,,2019-08-15T18:16:07.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,purplejester/good-old-dcgan-with-simple-tricks-lb-58,Good Old DCGAN with Simple tricks [LB 58] ,Ilia Z,,2019-08-15T12:17:01.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,tavoglc/classic-dog-imaginarium,Classic Dog Imaginarium  ,TavoGLC,,2019-08-14T02:52:08.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,matthiaspilz/fork96-0-00015-of-new-doggans-keras-r,Fork96+ 0.00015 of New DogGans - keras (R,Matthias,,2019-08-14T09:50:18.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,jadeblue/dogdcgan-v7-ksize-dropout-sub,DogDCGAN v7 ksize dropout sub,Konstantin Georgiev,,2019-08-13T16:53:21.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,pplrayang/dcgan-large-batch,dcgan-large-batch,kevin,,2019-08-14T13:21:51.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,blackitten13/best-gan-fork,Best GAN fork,Evgeny Kovalev,,2019-08-13T20:56:37.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,purplejester/gan-20-dcgan-avg,[gan_20] DCGAN++ avg,Ilia Z,,2019-08-12T05:40:03.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,chukurimu0903/dcgan-generating-dog-images-with-tensorflow,DCGAN Generating Dog Images with TensorFlow,chukurimu0903,,2019-08-10T02:25:11.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,joek47/supervised-generative-dog-net,Supervised Generative Dog Net,Joe K,,2019-08-12T15:38:32.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,jadeblue/dogdcgan-v6-ksize,DogDCGAN v6 ksize,Konstantin Georgiev,,2019-08-12T07:21:45.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,yutateranishi/gan-dog-only,GAN_dog_only,yuta,,2019-08-14T06:34:48.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,ishanamlekar/gan-bcelogitloss,GAN - BCELogitloss,Ishan Amlekar,,2019-08-09T18:00:57.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,drobchak1988/generative-dog-images,Generative_Dog_Images,Maksim Drobchak,,2019-08-09T11:41:12.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,khalidnass/spectral-norm-generative-dog-image-standard,spectral_norm generative_dog_image standard,Khalid Al Nasser ,,2019-08-07T11:38:54.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,jobzhf88/generative-dog-images-dcgan-pytorch-commit,Generative Dog Images -dcgan-pytorch-commit,Wizard,,2019-08-14T07:57:13.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,prasunroy/generative-dog-images-dcgan-pytorch,Generative-Dog-Images-DCGAN-PyTorch,Prasun Roy,,2019-08-14T19:50:04.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,gipark2001/gan-introduction,GAN Introduction,Kyung-Ik Park,,2019-08-03T09:18:16.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,sylvlej/gan-first-model,GAN-First Model,Sylvain L,,2019-09-04T09:08:40.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,returnofsputnik/gan-dogs-starter-24-jul-custom-layers,GAN dogs starter 24-Jul -Custom Layers,CoreyLevinson,,2019-08-01T15:42:28.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,artpro/kernele7c9368470,kernele7c9368470,ArtProsvetov,,2019-08-04T17:45:48.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,smartsn123/gans-for-dog,GANS_FOR_DOG,Smartsn123,,2019-07-25T18:37:11.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,gossan/ct-gan-with-pytorch,CT-GAN with pytorch ,GOSS,,2019-07-24T00:20:22.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,saneryee/tensorflow2-0-dcgan,Tensorflow2.0 + DCGAN,saneryee,,2019-07-29T04:16:43.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,kpriyanshu256/pytorch-rals-c-sagan,Pytorch RaLS-C-SAGAN,Priyanshu Kumar,,2019-08-12T13:07:06.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,snakayama/beginer-dcgan-lesson-using-pytorch,Beginer DCGAN lesson using Pytorch,makogarei,,2019-07-18T12:55:07.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,kpriyanshu256/dogdcgan,DogDCGAN,Priyanshu Kumar,,2019-08-14T08:49:26.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,toshikazuwatanabe/keras-generative-dog-images,keras/Generative Dog Images,noypeban,,2019-07-27T12:12:49.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,j98527852/dog-gan,DOG GAN,Wenxuan King,,2019-07-16T12:41:12.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,risperbevalyn/dcgan,DCGAN,risperpink,,2019-07-09T15:32:30.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,artpro/vae-gan-hd,VAE + GAN + HD,ArtProsvetov,,2019-08-14T14:40:57.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,benru89/dog-dcgan,dog DCGAN,Ruben,,2019-08-14T07:56:51.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,akashs2021/pytorch-beginner-code,Pytorch Beginner Code,Akash Singh,,2019-07-05T17:40:47.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,tenffe/dcgan-with-crop-image-by-tensorflow,DCGAN-with-crop-image-by-tensorflow,zhangxin,,2019-07-04T01:05:23.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,timdarcet/translated-commented-imitation-game,Translated Commented Imitation Game,Timothée Darcet,,2019-07-03T08:16:49.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,thanatoz/generating-dogs-with-dcgan,Generating Dogs with DCGAN,Tushar,,2019-07-17T03:18:27.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,generative-dog-images
+,,,,,0,lmyybh/pytorch-wgan-gp,pytorch-WGAN gp,lmyybh,,2021-09-05T13:31:52.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,szuwenjiehuang/landscape-gan-generator,Landscape GAN Generator,Wenjie_Huang,,2021-06-29T08:45:10.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,joshuasouter/gan-dogs-starter-fork-with-256x256-images,GAN Dogs Starter Fork With 256x256 Images,Joshua Souter,,2021-02-10T22:33:02.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,kbansal17/notebookcd5130248f,notebookcd5130248f,Keshav Bansal,,2020-11-25T23:46:28.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,shivamdrgb/ucs742-lab2-shivam,UCS742_Lab2_Shivam,frweevsv,,2020-11-25T17:39:44.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,nishantgoel195/101703376-nishantgoel,101703376_NishantGoel,Nishant Goel195,,2020-11-20T18:21:10.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,houssad/doggies-biggan-sub-data-aug-3,doggies BigGAN sub - data_aug_3,houssad,,2020-09-23T13:48:44.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,ssfailearning/animal-gan,animal_GAN,sun shuofeng,,2020-09-15T08:50:33.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,nkrishnanl/introducing-dcgan-dogs-images,Introducing DCGAN Dogs Images,Navaneetha Krishnan,,2020-06-30T18:09:46.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,tarachand/dog-img-gen-wgan,dog_img_gen_wgan,Tarachand,,2019-08-16T07:46:31.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,roshanalexwelikala/kernel58104786d5,kernel58104786d5,Roshan Welikala,,2019-08-15T10:02:31.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,dranzer/gan-baseline-v2-v4,GAN Baseline_v2_v4,Saqib Shamsi,,2019-08-14T12:43:19.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,gsakabe/fork-of-fork-61-02,Fork of Fork_61_02,Gennosuke,,2019-08-14T21:33:53.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,vitlinsh/dog-gan-baseline5-faces-center-crop-dropsm-wnorm,dog_GAN_baseline5_faces_center_crop_dropsm_wnorm,Vitalinsh,,2019-08-14T10:12:22.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,saneryee/memorizer-cgan-pytorch-version,Memorizer CGAN - pyTorch version,saneryee,,2019-08-13T11:27:41.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,mikeskim/gan-dogs-starter,GAN dogs starter,Mike Kim,,2019-08-13T08:18:09.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,manyfoldcv/fork-of-fork-of-gan-dogs-hflip,Fork of Fork of GAN dogs Hflip,Kulbear,,2019-08-12T22:13:35.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,kgeorge/gan-training-full,gan_training_full,Stanislau Fink,,2019-08-13T21:04:12.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,iiiklw/ragan,RaGAN,Thomas,,2019-08-14T12:13:07.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,joek47/introduction-to-generative-adversarial-networks,Introduction to Generative Adversarial Networks,Joe K,,2019-08-12T15:35:06.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,returnofsputnik/fork-of-fork-of-fork-of-fork-of-fork-of-fork-of-ac,Fork of Fork of Fork of Fork of Fork of Fork of AC,CoreyLevinson,,2019-08-12T13:21:05.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,sanjayjalex/ralsgan-dogs,RaLSGAN dogs,Sanjay J,,2019-08-12T12:01:19.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,purplejester/gan-xx-pgan-attempt,[gan_xx] PGAN attempt,Ilia Z,,2019-08-14T05:49:56.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,returnofsputnik/fork-of-fork-of-acgan-by-pytorch,Fork of Fork of ACGAN by PyTorch,CoreyLevinson,,2019-08-11T22:31:33.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,suryatejaachanta/kernel9a8f95f699,kernel9a8f95f699,Surya Teja Achanta ,,2019-08-13T11:08:39.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,tianyuz/fork-gan-introduction,fork (GAN introduction),TianyuZ,,2019-08-12T02:07:03.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,kshen3778/gan-57-crop-nz128-crop-randomapply,GAN 57 - Crop+nz128|Crop+randomapply,Kevin Shen,,2019-08-11T00:23:28.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,sanjayjalex/dog-generator,dog generator,Sanjay J,,2019-08-11T09:53:07.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,lognat0704/real-gan-dog-face,Real GAN Dog Face,Nelson Hong Ming Tseng,,2019-08-11T15:58:50.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,andreisun/gan-dogs-starter-24-jul-custom-layers,GAN dogs starter 24-Jul -Custom Layers,Andreisun,,2019-08-17T08:34:28.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,ms2019/memorizer-cgan-pytorch-version,Memorizer CGAN - pyTorch version,ma2019,,2019-08-12T12:56:25.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,gsakabe/fork-of-gan-dogs-starter-24-jul-custom-lay-61fc12,Fork of GAN dogs starter 24-Jul -Custom Lay 61fc12,Gennosuke,,2019-08-09T06:37:41.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,jackybored/kernel7f5daae71a,kernel7f5daae71a,Jackybored,,2019-08-09T10:59:47.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,rektmeister/dcgan,DCGAN,Imran Ibrahimli,,2019-08-10T17:22:07.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,gipark2001/supervised-generative-dog-net,Supervised Generative Dog Net,Kyung-Ik Park,,2019-08-07T07:23:10.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,conformal/ralsgan,RaLSGAN,conformal,,2019-08-15T15:26:56.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,dranzer/pixelshuffle-ralsgan,PixelShuffle RaLSGAN,Saqib Shamsi,,2019-08-05T17:32:32.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,osamaaref/dcgan-keras,DCGAN-Keras,Osama Ahmed,,2020-06-11T19:59:01.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,vamcochen/kernelbc004572a6,kernelbc004572a6,Vamco,,2019-08-14T16:02:08.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,asd336655/best-baseline,best_baseline,Chase Chen,,2019-08-12T09:46:23.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,hchaps/let-s-make-some-doggies-ralsgan,Let's make some doggies (RaLSGAN?),Harrison Chapman,,2019-08-02T04:10:26.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,lilanluo/wgan-gp,WGAN-gp,loliq,,2019-08-21T09:36:00.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,conformal/dcgan,DCGAN,conformal,,2019-08-02T03:29:02.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,sorzhe/gan-custom-layers,GAN Custom Layers,EugeneS,,2019-08-14T11:20:03.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,a11rand0m/optimize-threshold,optimize_threshold,all_random,,2019-08-08T09:08:29.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,arkachakraborty/kernel9a2386c710,kernel9a2386c710,escanor,,2019-07-26T15:32:19.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,bandyopadhyay/new-dogs,NEW_DOGS,avinandan,,2019-08-05T07:56:49.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,techytushar/dog-dcgan,dog_dcgan,Tushar Mittal,,2019-08-06T21:12:26.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,gnespatel/kernelee8ccd7fa5,kernelee8ccd7fa5,GaneshPatel,,2019-07-21T07:42:03.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,peraktong/20190719-toy-model,20190719_toy_model,Jason,,2019-07-20T17:44:35.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,ibansalankit/doggo-dcgan,Doggo_DCGAN,Ankit Bansal,,2019-07-24T04:55:46.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,eroswang/edited-dcgan-dogs-images,Edited DCGAN Dogs Images,Eros Wang,,2019-07-30T04:32:53.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,brandonyongys/generative-dogs-images-dcgan-tensorflow,Generative Dogs Images - DCGAN TensorFlow,Brandon Yong,,2019-07-22T08:05:33.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,tikerlade/dogs-gan,Dogs GAN ,Kuznetsov Ivan,,2019-07-14T20:04:06.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,vamcochen/kernele9c54ff2a3,kernele9c54ff2a3,Vamco,,2019-08-14T05:55:20.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,jobzhf88/generative-dog-images-memorizer-gan-commit,Generative Dog Images-Memorizer GAN-Commit,Wizard,,2019-07-28T08:26:18.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,wrosinski/gan-hacks-ralsgan-again,GAN Hacks - RaLSGAN again,Wojtek Rosinski,,2019-07-12T09:52:53.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,mjbrophy/kernel0c000e26a9,kernel0c000e26a9,mark B,,2019-07-11T11:16:43.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,mandar1010/gan-dogs,GAN dogs,Mandar,,2019-07-15T09:29:38.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,haataa/dcgan-first-try,DCGAN First Try,haataa,,2019-07-09T08:46:13.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,mohanaditya1074/gan-implementation,GAN implementation,mohanaditya,,2019-07-08T11:12:17.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,tanreinama/dcgan,DCGAN,Tanrei(nama),,2019-07-08T07:17:05.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,shubham505/imitation-game-2f436a,Imitation Game 2f436a,shubham goyal,,2019-08-09T09:08:25.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,a11rand0m/memorizer-v1,memorizer_v1,all_random,,2019-07-05T11:51:43.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,kostyaatarik/dcgan1,DCGAN1,Kostya Atarik,,2019-08-13T14:49:56.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,shubham505/supervised-generative-dog-net,Supervised Generative Dog Net,shubham goyal,,2019-08-16T05:13:14.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,atomichighfive/dog-factory,Dog Factory,atomichighfive,,2019-07-09T14:50:59.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images
+,,,,,0,mnpinto/gan-dogs-starter,GAN dogs starter,Miguel Pinto,,2019-07-01T08:38:52.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,generative-dog-images

@@ -1,0 +1,254 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,artgor/how-to-not-overfit,How to not overfit?,Andrew Lukyanenko,,2019-04-24T14:11:55.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],516,dont-overfit-ii
+,,,,,0,rafjaa/dealing-with-very-small-datasets,Dealing with very small datasets,Rafael Alencar,,2019-03-06T19:38:25.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],229,dont-overfit-ii
+,,,,,0,cdeotte/lb-probing-strategies-0-890-2nd-place,LB Probing Strategies - [0.890] - 2nd Place,Chris Deotte,,2019-05-18T01:00:48.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],128,dont-overfit-ii
+,,,,,0,featureblind/robust-lasso-patches-with-rfe-gs,"Robust, Lasso, Patches with RFE & GS",feature-blind,,2019-05-08T11:57:59.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],119,dont-overfit-ii
+,,,,,0,cdeotte/fun-data-animation,Fun Data Animation,Chris Deotte,,2019-04-24T17:27:55.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,dont-overfit-ii
+,,,,,0,ashishpatel26/model-interpretation-with-voting-classifier-hard,Model Interpretation with Voting Classifier(Hard),NowYSM,,2019-02-18T12:36:06.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,dont-overfit-ii
+,,,,,0,gkoundry/bayesian-logistic-regression-with-pystan,Bayesian Logistic Regression with PyStan,Glen Koundry,,2019-03-02T21:37:31.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],72,dont-overfit-ii
+,,,,,0,ateplyuk/dntoverfit-starter,DntOverfit_Starter,Alexander Teplyuk,,2019-04-21T11:18:54.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,dont-overfit-ii
+,,,,,0,vincentlugat/logistic-regression-rfe,Logistic Regression & RFE,Vincent Lugat,,2019-03-13T10:47:10.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,dont-overfit-ii
+,,,,,0,cdeotte/can-we-trust-cv-and-lb,Can we Trust CV and LB?,Chris Deotte,,2019-05-05T23:05:04.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,dont-overfit-ii
+,,,,,0,melondonkey/bayesian-spike-and-slab-in-pymc3,Bayesian Spike-and-Slab in PyMC3,melondonkey,,2019-03-24T22:50:05.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,dont-overfit-ii
+,,,,,0,ishivinal/feature-importance-techniques,⛮⛮ Feature Importance Techniques ⛮⛮,Ouassim Adnane,,2019-02-24T15:45:30.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,dont-overfit-ii
+,,,,,0,gpreda/overfitting-the-private-leaderboard,Overfitting the private leaderboard,Gabriel Preda,,2019-05-02T14:17:37.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,dont-overfit-ii
+,,,,,0,derekpowll/bayesian-lr-w-cauchy-prior-in-pymc3,Bayesian LR w/ Cauchy Prior in PyMC3,Derek Powell,,2019-05-01T05:10:06.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,dont-overfit-ii
+,,,,,0,iavinas/simple-short-solution-don-t-overfit-0-848,"Simple & Short solution , Don't Overfit [0.848]",Avinash Kumar,,2019-05-08T17:35:17.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,dont-overfit-ii
+,,,,,0,allunia/don-t-overfit-searching-true-distributions,Don't overfit! - Searching true distributions,Laura Fink,,2019-05-17T11:19:57.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,dont-overfit-ii
+,,,,,0,miroslavsabo/auc-0-844-in-11-loc,AUC 0.844 in 11 LOC,Miroslav Sabo,,2019-02-09T13:51:05.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,dont-overfit-ii
+,,,,,0,plasticgrammer/don-t-overfit-i-try,Don't Overfit! I Try!!,plasticgrammer,,2019-05-10T03:03:17.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,dont-overfit-ii
+,,,,,0,tunguz/just-some-overfitting-eda,Just some overfitting EDA,Bojan Tunguz,,2019-02-13T20:42:56.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,dont-overfit-ii
+,,,,,0,tboyle10/hyperparameter-tuning,Hyperparameter Tuning,Tara Boyle,,2019-02-16T18:37:53.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,dont-overfit-ii
+,,,,,0,georgyzubkov/dont-overfit-top-10-cor-params-and-pytorch,Dont overfit! Top 10 cor params and pytorch,Georgy Zubkov,,2022-04-14T10:06:16.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,dont-overfit-ii
+,,,,,0,tilii7/forward-feature-selection-with-linearsvc,Forward feature selection with LinearSVC,Tilii,,2019-05-03T07:25:28.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,dont-overfit-ii
+,,,,,0,robikscube/don-t-overfit-ii-first-look-and-eda,Don't Overfit II - First Look and  EDA,Rob Mulla,,2019-02-09T18:16:36.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,dont-overfit-ii
+,,,,,0,yasserhessein/don-t-overfit-eda-svm-knn-xgb,Don't Overfit!EDA+SVM+KNN+XGB,Yasir Hussein Shakir,,2021-05-08T15:00:14.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,dont-overfit-ii
+,,,,,0,nadare/simple-logistic-regression-with-l1-penalty,simple Logistic Regression with l1 penalty,nadare,,2019-02-08T14:40:43.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,dont-overfit-ii
+,,,,,0,ashishpatel26/which-model-is-best-check-out,Which model is best..Check out...!!!,NowYSM,,2019-02-20T06:29:12.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,dont-overfit-ii
+,,,,,0,aantonova/distribution-of-points-in-300d-space,Distribution of points in 300D space,Ann Antonova,,2019-04-24T12:53:54.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,dont-overfit-ii
+,,,,,0,aantonova/851-logistic-regression,[.851] Logistic regression,Ann Antonova,,2019-03-23T08:41:55.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,dont-overfit-ii
+,,,,,0,tboyle10/feature-selection,Feature Selection,Tara Boyle,,2019-03-25T17:15:21.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,dont-overfit-ii
+,,,,,0,mitjasha/don-t-overfit-2-linear-models-with-hyperopt,Don't overfit 2(linear_models with hyperopt),Dzmitry Shakhrai,,2019-05-07T19:08:20.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dont-overfit-ii
+,,,,,0,ashishpatel26/starter-automl-don-t-overfit,Starter AutoML Don't Overfit...!!!,NowYSM,,2019-02-20T07:46:26.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dont-overfit-ii
+,,,,,0,rehameltagoury/don-toverfit,Don'tOverfit,Reham ElTagoury,,2021-08-17T09:43:13.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,dont-overfit-ii
+,,,,,0,hebawaelr/don-t-overfit-1,Don't Overfit 1,Heba Wael.R,,2021-08-16T10:38:31.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dont-overfit-ii
+,,,,,0,adikeshri/logisticregression-dont-overfit-0-849,LogisticRegression - Dont' overfit[0.849],Aditya Keshri,,2019-05-03T13:43:45.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dont-overfit-ii
+,,,,,0,vivaroma/overfit-with-deep-learning-cv-vs-lb,Overfit with Deep Learning CV vs LB,Eric R,,2019-05-09T14:19:21.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dont-overfit-ii
+,,,,,0,praxitelisk/don-t-overfit-ii-eda-ml,Don't Overfit! II EDA + ML,Praxitelis Nikolaos Kouroupetroglou,,2019-09-05T22:58:30.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dont-overfit-ii
+,,,,,0,sovchinnikov/logistic-regression,Logistic Regression,Stan Ovchinnikov,,2019-02-12T12:33:21.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dont-overfit-ii
+,,,,,0,kholoudsayed/don-t-overfit,Don't Overfit!,Kholoud sayed,,2020-12-23T20:14:48.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-overfit-ii
+,,,,,0,vivaroma/simple-logistic-regression-0-862-122nd-place,simple logistic regression [0.862] (122nd place),Eric R,,2019-05-09T01:03:12.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-overfit-ii
+,,,,,0,qy2205/baseline-logistic-binning-feature-selection,baseline logistic + binning + feature selection,Quan Yuan,,2019-04-23T21:00:26.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-overfit-ii
+,,,,,0,trolukovich/keep-calm-and-make-it-simple-easy-0-847,Keep calm and make it simple - easy 0.847,Alexander Antonov,,2019-04-24T20:57:01.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-overfit-ii
+,,,,,0,wordroid/som-self-organizing-maps,som (self-organizing maps),nor,,2021-05-08T11:13:07.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-overfit-ii
+,,,,,0,cyones77/are-variables-independent-trying-an-autoencoder,Are variables independent? trying an autoencoder,Cristian Yones,,2019-02-27T15:09:49.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-overfit-ii
+,,,,,0,amalabdallah/don-toverfit,don'tOverfit ,Amal Abdallah,,2021-08-19T10:09:23.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,nayrouzhamdy/trial-10,Trial 10,Nayrouz Hamdy,,2021-08-15T10:41:16.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,tasneemmohamedsaad/don-t-overfit,Don't _overfit,Tasneem Mohamed Saad,,2021-08-17T10:42:26.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,mrinath/pytorch-cnn,pytorch cnn,DeepUnderstanding,,2020-09-23T05:56:04.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,mitjasha/pca-tsne-and-other-things,"PCA, tSNE and other things",Dzmitry Shakhrai,,2019-03-28T15:52:16.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,savannahar/feature-importance-reducing-overfitting,Feature Importance - Reducing Overfitting,Savan Nahar,,2019-03-05T04:04:33.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,rishrk007/don-t-overfit-contest,Don't Overfit (contest),Rishabh singh,,2019-03-17T07:23:30.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-overfit-ii
+,,,,,0,shreyatiwari/mse-rmse,MSE & RMSE,Shreya tiwari,,2020-09-03T18:35:12.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,pavelvpster/don-t-overfit-solution-3,Don't Overfit: Solution 3,Pavel Prokhorov,,2019-05-04T01:23:55.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,jamesdonconley/logistic-regression-and-rfe-pca,Logistic Regression and RFE/PCA,James Conley,,2019-05-01T00:04:27.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,dawood619/logisticregression-with-lasso-rfe,"LogisticRegression with Lasso,RFE",Dawood Hussain,,2019-04-14T12:11:03.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,shivamsarawagi/overfit,OverFit,Shivam,,2019-03-23T05:29:58.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,braquino/neural-net-experimentation,Neural Net Experimentation,Bruno Aquino,,2019-02-12T21:25:10.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,shadabhussain/avoid-overfitting,Avoid Overfitting,Shadab Hussain,,2019-02-11T18:12:27.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-overfit-ii
+,,,,,0,sarahesham/don-t-overfit,Don't OverFit,Sara Hesham,,2021-08-16T06:17:23.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,ahmedabuaba/don-t-overfit,Don't OverFit,Ahmed Abuaba,,2021-08-07T07:24:14.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,featureblind/robust-patches-with-rfe-gs-and-logreg,"Robust, Patches with RFE & GS and LogReg",feature-blind,,2019-05-09T06:48:04.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,pierresylvain/xgboost-lr-rfe,XGBoost+LR+RFE,PierreSylvain,,2019-05-06T11:19:13.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,srishilesh/don-t-overfit-solution,Don't Overfit Solution,Srishilesh P S,,2019-05-04T06:15:54.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,pradyumnakr/don-t-overfit,Don't Overfit,Pradyumna KR,,2019-05-06T13:54:32.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,longang/no-overfitting-elasticnet-auc-0-831,No Overfitting - ElasticNet (AUC = 0.831),long_ang,,2019-03-12T14:34:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,anermakov/fe-stability-selection-attempt,FE - stability selection attempt,jentleman_jux,,2019-03-07T15:26:30.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,takaishikawa/experiment02-corr-select-logistic-reg,experiment02 - CORR SELECT + LOGISTIC REG,Tak,,2019-02-08T22:58:28.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-overfit-ii
+,,,,,0,habibahafez/don-t-overfit,Don't overfit,habiba hafez,,2021-08-17T18:27:59.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,azizmousa/donot-overfit,Donot_overfit,Abdel-Aziz Gamal,,2021-08-16T16:24:52.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,tokaghaly/donot-overfit,donot overfit,Toka Ghaly,,2021-08-19T20:58:52.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,joshuajhchoi/don-t-overfit-ii-2020,Don't overfit II (2020),Joshua Choi,,2020-11-30T10:49:56.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,tilii7/create-synthetic-data-with-similar-properties,Create synthetic data with similar properties,Tilii,,2019-04-29T18:31:59.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,ramiiii/svm-logistic-regression,svm + Logistic Regression,Rami,,2019-04-25T19:42:40.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,shwetagoyal4/don-t-overfit-ii,Don't Overfit! II,Shweta Goyal,,2019-05-07T13:51:29.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,ricardorios/logistic-regression-with-lasso-don-t-overfit,Logistic Regression with Lasso (Don't Overfit),Ricardo Rios,,2019-04-09T17:13:00.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,esjyemkg/how-over-do-you-fit,How Over Do You Fit?,Tom,,2019-03-24T15:11:45.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,vukglisovic/iterative-modelling,Iterative Modelling,VukGlisovic,,2019-03-21T16:03:35.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,anand0427/overfit-submission,Overfit Submission,Anand Raparla,,2020-10-06T10:18:16.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,jazivxt/over-the-top-hawk-s-journey,Over the Top - Hawk's journey,Daniel Preciado,,2019-02-13T05:32:38.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-overfit-ii
+,,,,,0,nayrouzhamdy/trial-9,Trial 9,Nayrouz Hamdy,,2021-08-15T09:56:59.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,adamabidi/eda-not-overfit,EDA_Not_Overfit,Adam Abidi,,2020-12-25T10:59:37.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,darwinwin/starter-automl-don-t-overfit,Starter AutoML Don't Overfit...!!!,darwinwin,,2020-02-25T10:30:14.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,gokhangerdan/how-to-avoid-overfitting-for-beginners-keras,How To Avoid Overfitting [For Beginners] [Keras],ggerdan,,2019-12-09T13:04:52.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,agrover112/i-overfitted,I_Overfitted:/,agrover112,,2019-07-10T10:54:57.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,vkt706/don-t-over-fit,don't over fit,Vinay Turpati,,2019-09-30T05:30:05.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,ricardorios/lasso-don-t-overfit,Lasso (Don't Overfit),Ricardo Rios,,2019-05-02T20:21:29.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,jamesdonconley/clustering-improves-logistic-regression,Clustering Improves Logistic Regression,James Conley,,2019-05-02T16:53:22.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,ashish11701521/don-t-overfit2,Don't overfit2,Ashish Singh,,2019-04-30T10:00:12.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,kumarvivek9097/simple-solution-for-beginner,Simple solution for beginner,Vivek Kumar,,2019-05-01T15:01:34.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,wordroid/get-best-features-and-paramaters-at-the-same-time,get best features and paramaters at the same time,nor,,2019-05-05T13:01:41.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,benjibb/automated-gridsearch-ensemble-for-lazy-people,Automated Gridsearch Ensemble for lazy people,Ben Fung,,2019-03-28T17:44:46.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,ricardorios/decision-trees-don-t-overfit,Decision Trees (Don't Overfit),Ricardo Rios,,2019-03-19T02:45:17.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,feichin/svm-vs-logisticregression-feedback-welcome,SVM vs LogisticRegression - feedback welcome!,Florian Eichin,,2019-03-11T05:17:46.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-overfit-ii
+,,,,,0,mostafaemam0/dun-overfit-ii,Dun Overfit II,Mostafa Alemam,,2021-08-18T22:42:01.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,hazemhosny/don-t-overfit-ii,Don't Overfit! II,Hazem Hosny,,2021-08-19T01:46:50.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,mohammedabdulnaser/dof-mo,DOF | MO,Mohammed Abdulnaser,,2021-08-17T11:54:41.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,mahmoudtaha3/notebooka67327f8c0,notebooka67327f8c0,Mahmoud Taha,,2021-08-16T02:00:30.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,mohamedsalah5369/dnofkc,DNOFKC,Mohamed Salah-el-den,,2021-07-31T22:49:50.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,danilopaula/logistic-regression-for-dont-overfit-ii,Logistic Regression for Dont-Overfit-ii,Danilo de Paula Perl,,2021-07-25T01:41:56.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,snehashis1997/don-t-over-fit-part-2,Don't over-fit part 2,snehashis1997,,2020-06-26T18:39:24.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,lukemonington/don-t-overfit-ii-my-attempt,Don't Overfit II - My Attempt,Luke Monington,,2019-10-25T00:37:32.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,sameerdev7/84-9-simplest-solution-to-not-overfit,[84.9%] Simplest solution to not Overfit,Sameer Dev,,2019-05-23T05:38:17.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,monthepp/don-t-overfit-ii,don't_overfit_ii,Monthep Parimontonsakul,,2019-12-06T13:35:08.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,wajihullahbaig/stacked-classifiers-cv0-889-pu0-865-pr0-881,Stacked classifiers[cv0.889/pu0.865/pr0.881],WajihullahBaig,,2019-05-10T04:43:40.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,demonplus/blending-of-the-best-solutions,Blending of the best solutions,Anna Novikova,,2019-04-18T16:43:44.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,masayakondo/trying-don-t-overfit-ii,Trying Don't Overfit! II,m__k,,2019-04-07T08:08:54.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,shivamsarawagi/overfitwithrandomforrest,OverFitWithRandomForrest,Shivam,,2019-03-23T06:01:16.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,pidem2501/bayesian-approach-with-pymc3,Bayesian Approach with PyMC3,Pidem,,2019-03-05T02:24:50.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,levant/a-step-by-step-quest-to-solution,A step-by-step quest to solution,Boris Levant,,2019-02-21T12:01:59.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,xsakix/third-overfit,third overfit,Martin Seckar,,2019-02-28T10:41:31.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,nategg/don-t-overfit,Don't Overfit,Nate,,2019-03-03T12:57:57.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,somaktukai/72-roc-how-not-to-overfit,.72 ROC: How not to overfit,somaktukai,,2019-02-17T12:25:49.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,jasperkoops/logistic-model-with-pipeline,Logistic model with pipeline,Jasper,,2019-02-11T00:13:25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,lukebassett/do-2-corr-logistic-regression-experimentation,DO!2 - corr & logistic regression experimentation,Luke Bassett,,2019-02-09T03:43:59.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-overfit-ii
+,,,,,0,smita09/beginner-don-t-overfit,Beginner-Don't Overfit!,Smita Singh,,2021-09-11T16:08:29.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,amr611/fork-of-dont-over-fit-old-data,Fork of dont over fit old data ,Amr Abdelhamed,,2021-08-19T09:12:01.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,pro1amr/don-t-overfit,Don't overfit,Amr.Eid.Abdelgawad,,2021-08-17T15:42:12.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,mohamedmostafa335/don-t-overfit,Don't Overfit,Mohamed Mostafa,,2021-08-14T21:33:24.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,mohamedalkasaby/don-t-overfit-1,don't overfit 1,Mohamed El-Kasaby,,2021-08-16T13:46:55.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,ayadayem/dont-overfit,Dont_overfit,Aya Dayem,,2021-08-13T21:09:25.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,yjunwoo14/don-t-overfit-assessment-pvt-0-834-pub-0-844,Don't_overfit_assessment (Pvt 0.834 Pub 0.844),Yun Junwoo,,2021-03-17T17:22:01.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,danielpearson7/basic-attempt-at-don-t-overfit-2,Basic Attempt at Don't Overfit 2,Daniel Pearson,,2020-09-20T20:54:30.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,rajibstats/don-t-overfit-rajibstats,Don't Overfit-rajibstats,Rajib Kumar De,,2020-01-15T07:53:10.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,karnakarthoorpu/robust-to-overfit-using-dnn,Robust to Overfit using DNN,KarnakarReddy,,2019-12-29T05:45:37.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,lukemonington/don-t-overfit-ii-gridsearch,Don't Overfit II - GridSearch,Luke Monington,,2019-10-25T02:27:12.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,coffeeman123/overfittus-maximus,Overfittus Maximus,Will Z,,2019-08-19T03:04:12.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,sakaguti1211/lastone,Lastone,syoutaro,,2019-07-02T07:55:50.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,dalip98/dont-overfit,Dont Overfit!!,dalip98,,2019-06-28T12:54:08.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,lifehacker2601/data-ml,DATA-ML,Prakash Sinha,,2019-07-03T06:08:56.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,sheik0/logistic-regression,logistic_regression,Nikos Maroulis,,2019-06-11T19:20:20.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,octour/search-for-the-correlation-between-lb-and-cv,Search for the correlation between LB and CV,octour,,2019-05-12T20:39:29.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,tattaka/don-t-over-fit-by-nn,Don't over fit by NN,tattaka,,2019-05-07T11:09:30.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,ayang98/tutorial-on-ensemble-learning-don-t-overfit,Tutorial on Ensemble Learning (Don't Overfit),Alex Yang,,2019-05-06T16:13:59.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,plumeria/dont-overfit,Dont overfit,Mamta Sadani,,2019-05-06T19:46:22.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,pavelvpster/don-t-overfit-solution-2,Don't Overfit: Solution 2,Pavel Prokhorov,,2019-04-30T15:08:56.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,amundov/don-t-overfit-lgbm-xgboost,Don't overfit - LGBM/XGBoost,Amund,,2019-04-29T15:32:43.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,rishikoush/simple-eda-and-model,Simple EDA and Model,Rishi Koushal,,2019-04-19T21:22:33.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,kishor1210/withoutoverfit,withoutOverfit,kishorkumarJha,,2019-04-17T03:55:44.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,gabrielmv/dont-overfit-ii-neural-network,Dont Overfit II - Neural Network,Gabriel Vasconcelos,,2019-04-16T03:27:42.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,satyamsanu/don-t-overfit,Don't Overfit,Satyam,,2019-04-15T11:05:36.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,benjibb/automated-60-models-ensemble-h2o,Automated 60 models ensemble H2O,Ben Fung,,2019-03-29T17:57:18.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,benjibb/genetic-algorithm-model-selection,Genetic algorithm model selection,Ben Fung,,2019-03-29T17:57:47.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,ricardorios/linear-discriminant-analysis-i,Linear Discriminant Analysis I ,Ricardo Rios,,2019-03-30T02:24:04.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,ricardorios/random-forests-don-t-overfit,Random Forests (Don't Overfit),Ricardo Rios,,2019-03-25T21:31:55.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,oluwaody/the-parameter-measurement,The Parameter Measurement,Oluwabi Oluwaseyi,,2019-04-06T12:17:42.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,karthickkrishna/don-t-overfit,Don't Overfit,Karthick Krishna,,2019-03-18T10:12:36.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,abhigupta4981/dont-overfit-test-with-someone-s-elasticnet,"dont overfit, test with someone's elasticnet",Abhi Gupta,,2019-03-12T17:57:37.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,gdmacmillan/data-expo,data expo,gordonmacmillan,,2019-03-18T14:38:52.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,youngzn/a-easy-way-to-0-846-dont-overfit-ii,A easy way to 0.846 (dont-overfit-ii),tgfvs12q3w,,2019-03-10T15:43:18.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,niteshx2/kernel41b644f80d,kernel41b644f80d,Nitesh Chaudhry,,2019-03-09T19:57:47.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,leopoldosprandel/don-t-overfit-ii-choosing-a-model,Don't Overfit II - Choosing a Model,Sprandel,,2019-02-25T18:04:35.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,pwyatt521/wyatthw3,WyattHw3,Paul Wyatt,,2019-03-06T07:06:37.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,ahhjones/never-knowingly-overfitted,Never knowingly overfitted,Alistair Jones,,2019-02-16T20:21:59.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,gravix/elastic-fit,elastic_fit,gravix,,2019-02-13T11:39:36.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,enricospada/plotly-is-good,Plotly is good,Seymour,,2019-02-10T13:54:03.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,woshichendu/don-t-overfit-baseline,don't overfit baseline,chendu,,2019-02-10T14:36:04.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,suhail511/don-t-overfit,Don't Overfit!!,Suhail Ahamed,,2019-03-17T18:20:45.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,bigkizd/lightgbm-with-cross-validation,LightGBM with Cross Validation,toandaominh1997,,2019-02-08T17:59:55.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,rodasoares/correlation-matrix-randomforestregressor,Correlation Matrix + RandomForestRegressor,rodasoares,,2019-02-08T12:31:27.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-overfit-ii
+,,,,,0,yclaw0/overfit,overfit,YCLAW0,,2022-04-02T09:14:27.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,inf1delis/how-to-not-overfit,How to not overfit,inf1delis,,2021-12-22T09:00:26.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,wssamhassan/notebook91cb377708,notebook91cb377708,Wssam Hassan Ibrahim,,2021-08-19T21:56:33.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,mohamedkamalali/don-t-overfit,don't overfit!,mohamed kamal ali,,2021-08-19T20:09:52.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,suhaibalihassan/don-t-overfit,Don't OverFit,Suhaib Ali Hassan,,2021-08-20T01:22:18.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,mohammadjhanafy/don-t-overfit-mh,Don't Overfit | MH,Mohammad Hanafy,,2021-08-17T19:30:47.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,omarwael/don-toverfitwithsmoteoversampling,Don'tOverfitWithSmoteOverSampling,Omar Wael 96,,2021-08-18T01:43:02.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,amiramosa99/don-t-over-fit,don't over fit !!,Amira Mosa99,,2022-02-28T21:38:53.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ahmedhagras/don-t-over-fit,Don't_over_fit,Ahmed Abd-Elsattar,,2021-08-19T19:31:20.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ahmedmagdy96/handle-overfitting,handle_overfitting,Ahmed Magdy,,2021-08-16T18:48:32.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,danilopaula/lightgbm-w-regularization-for-dont-overfit-ii,LightGBM w/ Regularization for Dont-Overfit-II,Danilo de Paula Perl,,2021-08-31T00:00:48.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gregzi/notebookf51a0eea37,notebookf51a0eea37,Gregoire,,2021-04-10T11:03:14.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,victorduch/don-t-overfit-ii-vicduch,Don't Overfit II VicDuch,Victor Duch,,2021-04-09T15:05:48.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,deepakdodi/dont-overfit-dodi-research,Dont_Overfit_Dodi_Research,Deepak Dodeja,,2021-02-20T21:29:55.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,rishabh279/don-t-overfit,Don't Overfit,Rishabh,,2020-11-22T20:17:32.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,hiro1005/don-t-overfit-ii,Don't Overfit! II,Akihiro Kondo,,2020-10-26T07:09:28.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,abdullahzaid/kernele2507ae491,kernele2507ae491,Abdullah Zaid,,2020-08-09T10:56:10.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,abdullahzaid/kernelca36454739,kernelca36454739,Abdullah Zaid,,2020-08-09T08:10:33.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,darisdzakwanhoesien2/don-t-overfit-ii,Don't Overfit! II,Daris Dzakwan Hoesien,,2020-07-30T01:31:46.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,rahuldevyadav/kernel6ca06dee12,kernel6ca06dee12,RahulYadav,,2020-05-18T14:50:50.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,rahuldevyadav/kernel56834b154a,kernel56834b154a,RahulYadav,,2020-05-14T15:31:26.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ashishnnnnn/knnn-2,knnn_2,ASHISH KUMAR,,2020-05-05T11:20:28.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,sidagar/don-t-overfit-using-xgboost,Don't OverFit Using XGBoost,Sidhant Agarwal,,2020-05-24T07:42:52.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gustavorauscher/simple-logistic,simple-logistic,Gustavo Woiler Rauscher,,2020-03-29T21:11:20.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,danielalexander17/don-t-overfit-2,Don't Overfit 2 ,daniel_pnjt,,2020-03-29T12:26:36.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,arifali77/tutorial-on-ensemble-learning-don-t-overfit,Tutorial on Ensemble Learning (Don't Overfit),Arif Ali Khan,,2020-01-09T05:45:00.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,yahengwu/don-t-overfit,Don't Overfit!,Phoebe Yaheng Wu,,2019-11-11T03:59:03.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ujjwalxgarg/dont-overfit,Dont Overfit!!,Ujjwal Garg,,2019-10-21T15:57:51.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tamyiuchau/dntoverfit-starter,DntOverfit_Starter,Tam Yiu Chau,,2019-11-28T13:50:09.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,raghuvaranm/kernel22aa9f1cae,kernel22aa9f1cae,Raghu varan,,2019-08-09T08:21:48.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,siddhi17/kernel2850d82806,kernel2850d82806,Siddhi Brahmbhatt,,2019-08-03T04:07:58.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,saoodmohd/don-t-over-fit-starter,Don't over fit starter,Mohd Saood,,2019-08-01T08:56:47.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ssomers/maybe-overfit-ii,Maybe Overfit! II,Stein Somers,,2019-08-20T16:10:44.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,zhangwx95/add-noise-and-use-rfe,Add noise and use RFE,zhangwx,,2019-07-16T10:25:50.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ashishchauhan009/kernel9352a3085e,kernel9352a3085e,Ashish Chauhan,,2019-07-11T10:40:36.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,biswajitbanerjee/trying-to-overfit,Trying to overfit,Biswajit Banerjee,,2019-12-08T20:21:45.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,sakaguti1211/kernel3956095972,kernel3956095972,syoutaro,,2019-07-04T11:40:16.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,maukag/don-t-overfit-script,Don't Overfit Script!,Maukag,,2019-05-28T11:17:04.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,kshitijs2014/main-model,main_model,KSHITIJ SHARMA,,2019-05-26T16:29:42.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,aakankshaws/kernelee3337c0c7,kernelee3337c0c7,TheSleuth,,2019-05-10T09:44:37.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gdmacmillan/gp-logistic-regression,GP Logistic Regression,gordonmacmillan,,2019-05-14T04:42:00.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ichabuddaeta/i-tried-again,I Tried again. ,Michael Vine,,2019-05-05T05:08:03.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,alejandrocano/don-t-overfit-tpot,Don't Overfit - TPOT,Alejandro Cano,,2019-05-06T19:29:49.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,plehmann999/lightgbm-with-regularization,LightGBM with Regularization,plehmann,,2019-05-03T15:10:46.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,zscansorted/baseline-model-logistic-regression,Baseline Model - Logistic Regression,Arie Sutiono,,2019-04-30T13:49:24.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,anejad/how-not-to-over-fit-v1,How not to over fit -v1,anejad,,2019-05-01T04:50:06.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,jamesdonconley/pca-and-random-forests,PCA and Random Forests,James Conley,,2019-04-29T01:07:30.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,skotty971/kernel9ec4176339,kernel9ec4176339,IngridN,,2019-04-25T17:52:17.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tmkggl/don-t-overfit-ii,Don't Overfit! II ,Teemu,,2019-04-29T11:00:15.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,mriganksingh/dont-overfit-try,Dont Overfit Try,Mrigank,,2019-06-26T12:35:30.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,himadri1998/don-t-overfit-tryout,Don't Overfit Tryout,crazy_lazy_life,,2019-04-14T06:15:03.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,sphaso/don-t-overfit-ii,Don't overfit II,Giovanni,,2019-04-20T09:31:44.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/lasso-polynomial-features-don-t-overfit,Lasso + Polynomial Features (Don't Overfit),Ricardo Rios,,2019-04-09T21:35:54.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,hirotaka0122/don-t-over-fit,Don’t over fit!,Hirotaka Kawashima,,2019-05-14T07:34:47.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,claymoreriful/claymoreriful-don-t-overfit-ii,ClaymoreRiful.Don't Overfit II,Riful,,2019-04-05T13:03:59.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,titan23/logistic-regression,logistic regression,TITAN,,2019-05-20T09:23:44.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,julianfrank1/don-t-overfit-i-try,Don't Overfit! I Try!!,Julian Frank,,2019-04-15T10:55:22.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/logistic-regression-model-don-t-overfit,Logistic Regression Model (Don't Overfit),Ricardo Rios,,2019-03-31T01:36:38.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gangotrinvents/kernel7a64ec6b6e,kernel7a64ec6b6e,Gangotri Mishra,,2019-03-30T19:23:41.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/quadratic-discriminant-analysis,Quadratic Discriminant Analysis,Ricardo Rios,,2019-03-30T21:26:57.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/linear-discriminant-analysis-ii,Linear Discriminant Analysis II,Ricardo Rios,,2019-03-30T02:37:10.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gdmacmillan/ensemble-lasso-cv,Ensemble + Lasso CV,gordonmacmillan,,2019-03-28T16:06:47.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,athinkingneal/please-don-t-overfit,Please don't overfit,aThinkingNeal,,2019-04-01T07:12:55.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,bharatsingh213/donotrepeat,donotrepeat,Bharat Singh,,2019-12-12T12:20:28.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/decision-trees-improved-don-t-overfit,Decision Trees Improved (Don't Overfit),Ricardo Rios,,2019-03-24T01:48:45.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,shashanksai/dont-overfit,Dont Overfit!!,Shashank,,2019-03-21T11:08:51.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,leesungreong/i-used-nn-and-bayesian-optimization,I Used NN and Bayesian Optimization.,leesungreong,,2019-03-16T11:56:04.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/base-line-model-don-t-overfit,Base line model (Don't overfit),Ricardo Rios,,2019-03-19T02:24:12.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gauravkjain/logistic-regression-with-winsorization,Logistic Regression with Winsorization,Gaurav,,2019-03-14T05:46:46.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,dasilvacn/openkernel,openkernel,Ahmet CAN,,2019-03-13T11:39:13.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,vimlord/pca-w-logistic-regression,PCA w/ Logistic Regression,Christopher Hittner,,2019-03-06T01:45:21.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/bivariate-exploratory-analysis,Bivariate exploratory analysis,Ricardo Rios,,2019-03-12T03:48:10.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,swarnim97/logistic-regression-with-grid-searchcv,Logistic Regression with Grid SearchCV,Swarnim Kumar,,2019-03-04T07:42:54.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,hermesdt/synthetic-data,synthetic data,Alvaro Durán Tovar,,2019-03-03T21:04:53.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,ricardorios/univariate-exploratory-analysis,Univariate exploratory analysis ,Ricardo Rios,,2019-03-03T03:02:21.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,samshipengs/why-it-s-overfitting,Why it's overfitting?,samshipengs,,2019-02-27T16:10:24.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,siddhesh25/classification-using-xgbclassifier,Classification using XGBClassifier,Siddhesh Karanjkar,,2019-02-24T18:07:06.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tomehta/elastic-net-with-hyper-param-tuning-using-grid,Elastic Net with hyper param tuning using Grid,Rohit Mehta,,2019-02-20T01:43:31.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,sjeetm/dont-overfit,dont_overfit,Subhajeet,,2019-06-11T13:40:09.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gyodukoo/random-test,random test,gyodukoo,,2019-02-18T10:11:01.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tomehta/lasso-for-feature-selection-and-logreg,Lasso for Feature Selection and LogReg,Rohit Mehta,,2019-02-18T07:27:11.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,shashanksagarjha/feature-scaling-modelling-and-hyperparameter,"feature scaling, modelling and hyperparameter ",Shashankjha,,2019-02-17T06:02:15.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tomehta/logistic-with-grid-search,Logistic with Grid Search,Rohit Mehta,,2019-02-19T06:07:58.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,julio1397/don-t-overfit,DON'T OVERFIT?,GiulioSalierno,,2019-02-16T07:58:54.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,shahaffind/over-generalizing,over-generalizing,shahaf f,,2019-02-25T18:34:56.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,pk5097/don-t-overfit,DON'T_OVERFIT,PRADEEP KUMAR,,2019-02-24T18:12:40.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tomehta/underfitting-with-rf-and-lgbm,Underfitting with RF and LGBM,Rohit Mehta,,2019-02-16T18:58:15.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,tomehta/underfitting-with-svc,Underfitting with SVC,Rohit Mehta,,2019-02-14T03:53:49.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,xsakix/first-overfit,first overfit,Martin Seckar,,2019-02-15T13:21:36.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,huhulimaguli/exploring-covariance-shift,exploring covariance shift ,huguli maguli,,2019-02-10T22:12:49.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,karthikkannan/baseline,Baseline,Karthik Kannan,,2019-02-10T20:17:03.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,aatria/alemodel,AleModel,Alessandro Atria,,2019-02-26T21:59:30.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,magf46/can-we-predict-if-the-data-is-from-train-or-test,Can We Predict if the data is from Train or Test?,Muhammad Assagaf,,2019-02-09T13:52:19.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,gaurav146/don-t-overfit,don't overfit!,sharma_gs,,2019-03-22T11:31:13.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii
+,,,,,0,wakamezake/my-first-submit,My First Submit,wakame,,2019-02-08T05:30:21.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-overfit-ii

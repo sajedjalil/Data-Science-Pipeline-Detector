@@ -1,0 +1,5 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,fanbyprinciple/beginner-efficientnet-simple-inference,Beginner Efficientnet simple inference,Ami,,2021-10-13T09:49:07.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imagenet-object-localization-challenge
+,,,,,0,neerajnair/kernel76721cc377,kernel76721cc377,Mr.R0b0t,,2020-03-12T12:50:22.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,imagenet-object-localization-challenge
+,,,,,0,yhx003/googlenet,GoogLeNet,yhx-03,,2022-05-02T13:39:37.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imagenet-object-localization-challenge
+,,,,,0,rista5/compression-performance-run-on-pi4,Compression performance - Run on Pi4,Uros Vukic,,2022-05-05T22:06:36.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,imagenet-object-localization-challenge

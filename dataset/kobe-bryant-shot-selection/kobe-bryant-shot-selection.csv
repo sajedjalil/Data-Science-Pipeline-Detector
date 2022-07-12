@@ -1,0 +1,273 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,selfishgene/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,David Beniaguev,,2017-09-13T16:17:41.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],190,kobe-bryant-shot-selection
+,,,,,0,mpwolke/kobe-bryant-dear-basketball,Kobe Bryant - Dear Basketball ,Marília Prata,,2020-01-28T15:26:05.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],84,kobe-bryant-shot-selection
+,,,,,0,arjoonn/preliminary-exploration,Preliminary exploration,ArjoonnSharma,,2016-04-23T18:10:04.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,kobe-bryant-shot-selection
+,,,,,0,khozzy/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,Norbert Kozlowski,,2016-05-11T12:48:57.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,kobe-bryant-shot-selection
+,,,,,0,dixhom/data-analysis-for-beginners,Data analysis for beginners,dixhom,,2016-05-01T11:57:42.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,kobe-bryant-shot-selection
+,,,,,0,aakashkerawat/exploring-and-predicting-lb-score-0-60160,Exploring and predicting LB score 0.60160,Aakash Kerawat,,2017-05-01T10:26:29.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,kobe-bryant-shot-selection
+,,,,,0,bbx396/kobechart,KOBECHART,MichaelKrueger,,2016-04-18T00:05:10.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,kobe-bryant-shot-selection
+,,,,,0,jeongwonkim10516/kobe-bryant-shot-selection-increase-prediction,Kobe Bryant Shot Selection - Increase prediction,Kingthegarden,,2021-01-17T06:12:59.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,kobe-bryant-shot-selection
+,,,,,0,narimiran/absolute-beginner,Absolute beginner,narimiran,,2016-05-15T08:48:45.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,kobe-bryant-shot-selection
+,,,,,0,drgilermo/the-inevitable-aging-of-a-star,The inevitable aging of a star  ,Omri Goldstein,,2016-10-15T13:35:51.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kobe-bryant-shot-selection
+,,,,,0,anokas/implementing-xgboost,Implementing XGBoost,anokas,,2016-04-20T16:17:22.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kobe-bryant-shot-selection
+,,,,,0,kevins/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,仁,,2017-02-28T04:51:05.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kobe-bryant-shot-selection
+,,,,,0,brandao/winner-script,test #8,"Humberto Brandão, Ph.D.",,2016-05-25T02:12:26.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,kobe-bryant-shot-selection
+,,,,,0,isosnovik/xgbryant,XGBryant,Ivan Sosnovik,,2016-05-06T12:09:51.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,kobe-bryant-shot-selection
+,,,,,0,marinovik/kobe-bryant-shot-selection-analysis,Kobe Bryant Shot Selection Analysis,marinovik,,2021-04-19T18:43:36.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,kobe-bryant-shot-selection
+,,,,,0,agostontorok/kobe-shot-probability-plot,Kobe shot probability plot,Dr. James Bond,,2016-05-01T22:42:44.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kobe-bryant-shot-selection
+,,,,,0,yoonkanglow/kobe-s-shots-exploration,Kobe's Shots Exploration,yoonkang low,,2016-04-26T00:07:56.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kobe-bryant-shot-selection
+,,,,,0,marozet/kobe-bryant-shot-selection-charts-test,Kobe Bryant Shot Selection charts test,marozet,,2016-04-23T18:50:58.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kobe-bryant-shot-selection
+,,,,,0,riemann1859/shots-of-kobe-random-forest,shots of kobe - Random Forest,yunus karabulut,,2019-09-02T19:08:51.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,kobe-bryant-shot-selection
+,,,,,0,plasticgrammer/kobe-shot-selection-training,Kobe Shot Selection: training,plasticgrammer,,2019-08-21T06:36:25.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,kobe-bryant-shot-selection
+,,,,,0,hcuny0011/updating-xgboost-giving-logloss-around-0-602,updating--Xgboost: giving logloss around 0.602,Anthony Wong-CY,,2016-11-03T04:50:50.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,kobe-bryant-shot-selection
+,,,,,0,mattstringer/mapping-kobe-bryants-shots,Mapping Kobe Bryants Shots,MattStringer,,2016-04-19T23:26:11.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,kobe-bryant-shot-selection
+,,,,,0,liziyuann/thesis,thesis,richard_lzy,,2016-05-12T07:16:25.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,kobe-bryant-shot-selection
+,,,,,0,cdaacarlosaumente/caumente-kobe-competition,caumente_kobe_competition,caumente,,2019-12-08T21:00:16.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kobe-bryant-shot-selection
+,,,,,0,franciscodiogo/predicting-assists-would-be-easier,Predicting assists would be easier!,Francisco Diogo,,2017-12-07T02:06:40.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kobe-bryant-shot-selection
+,,,,,0,brandao/test-7,test #7,"Humberto Brandão, Ph.D.",,2016-05-25T00:59:32.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kobe-bryant-shot-selection
+,,,,,0,nachilieder/who-is-kobe-s-true-rival,Who is Kobe's true rival?,Marc Lieder,,2016-05-08T09:24:28.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kobe-bryant-shot-selection
+,,,,,0,saurabhg653/kobe-bryant,Kobe Bryant ,Saurabh,,2016-04-18T20:47:48.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kobe-bryant-shot-selection
+,,,,,0,chitramdasgupta/kobe-bryant-shot-analysis,Kobe Bryant Shot Analysis,Chitram Dasgupta,,2020-10-01T13:14:35.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,rchitic17/xgb-basket-or-not,xgb basket or not?,RalucaChitic,,2018-07-27T17:32:10.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,tsveaeia/kobe-first-steps-random-forest,Kobe First Steps (Random Forest),Tsveaeia,,2016-06-15T12:35:48.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,khozzy/sliding-windows-use-cases,Sliding Windows Use-Cases,Norbert Kozlowski,,2016-06-10T06:32:21.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,khozzy/spotting-great-features,Spotting great features,Norbert Kozlowski,,2016-05-27T12:15:14.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,brandao/teste-5,teste #5,"Humberto Brandão, Ph.D.",,2016-05-24T04:12:14.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,brandao/first-script-it-is-a-test,second script.... it is a test!,"Humberto Brandão, Ph.D.",,2016-05-24T03:58:14.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,benhamner/shot-probability,Shot probability,Ben Hamner,,2016-05-19T01:43:46.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,company/kbss1,KBSS1,Ravi Chandibhamar,,2016-05-08T17:08:08.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,liziyuann/feature-selection,feature selection,richard_lzy,,2016-05-14T04:28:02.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,openthings/data-analysis-for-beginners,Data analysis for beginners,openthings,,2016-05-01T15:07:52.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,isosnovik/preliminary-exploration,Preliminary exploration,Ivan Sosnovik,,2016-05-06T12:09:51.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kobe-bryant-shot-selection
+,,,,,0,ktykohbe/my-study-kobe-bryant-shot-selection,My_Study_Kobe_Bryant_Shot_Selection,kty ohbe,,2020-10-24T23:09:00.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,anilkay/kobeshot,kobeshot,anil kaynar,,2020-06-13T18:39:27.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,vasa137/black-mamba,Black Mamba,Nikola Vasovic,,2019-02-17T18:32:41.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,pauzzz/kobe-shot-predict-xgb-logisticregression-base,Kobe Shot Predict XGB (LogisticRegression base),Paul Wong,,2018-09-23T21:31:47.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,tejaeduc/kernelkobebryantanalysis,kernelkobebryantanalysis,Teja,,2018-06-09T06:29:40.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,aralnorman/neural-networks-tryouts-on-kobe,Neural Networks Tryouts on Kobe,Aralnorman,,2018-05-21T14:50:26.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,jeffsen/kobe-bryant-shot-selection-predict,Kobe Bryant Shot Selection Predict,jeff,,2017-03-28T03:19:04.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,kevins/fork-of-notebook55e4f6ba6a,Fork of Notebook55e4f6ba6a,仁,,2017-03-05T17:36:52.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,xxingzh/predict-shot,Predict Shot,XiaoXing Zhao,,2016-12-29T05:15:37.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,wywh1995/pandas-read-csv-filepath-or-buffer,pandas.read_csv(filepath_or_buffer,WuYuan,,2016-12-20T15:43:39.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,rinfosho/kobe-bryant-shot-analysis,Kobe bryant shot analysis,Rinnnn,,2016-07-28T22:57:13.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,tsveaeia/kobe-first-implementation,Kobe First Implementation,Tsveaeia,,2016-06-15T12:46:03.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,scirpus/gp-ii,GP II,Scirpus,,2016-06-14T09:57:00.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,davidreber/data-analysis-for-beginners,Data analysis for beginners,acmebot,,2016-06-13T18:31:58.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,myungsucha/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,MyungsuCha,,2016-06-13T03:52:21.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,mikevdickson/exploring-the-dataset,Exploring the Dataset,Mike D,,2016-06-06T02:02:24.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,marozet/kobe-shot-exploration-with-tableau,Kobe shot exploration with Tableau,marozet,,2016-06-07T12:44:45.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,brandao/test-6,test #6,"Humberto Brandão, Ph.D.",,2016-05-24T04:20:28.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,brandao/test-4,test #4,"Humberto Brandão, Ph.D.",,2016-05-24T04:06:17.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,nachilieder/back-to-back-game-shots,"""Back to Back"" Game shots",Marc Lieder,,2016-05-23T07:19:47.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,company/kbss-1,KBSS_1,Ravi Chandibhamar,,2016-06-13T08:18:00.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,narimiran/a-beginners-attempt-in-ml,A beginners attempt in ML,narimiran,,2016-05-16T16:02:25.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,awesomekris/shot-probability,Shot probability,KrissSing,,2016-05-16T08:52:53.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,jaycb26/xgbryant,XGBryant,Blurry_face,,2016-05-11T01:33:58.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,pgladkov/kobe24,Kobe24,Paul Gladkov,,2016-05-09T15:17:14.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,company/test2,Test2,Ravi Chandibhamar,,2016-05-07T19:41:52.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,company/test1,Test1,Ravi Chandibhamar,,2016-05-07T19:10:50.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,company/rf-testing,RF testing,Ravi Chandibhamar,,2016-05-07T19:05:13.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,wikunia/stacked-bar-by-season,Stacked Bar by Season,Ole Kröger,,2016-04-29T12:02:03.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,potterxu/sport,sport,potter xu,,2016-04-25T06:28:31.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kobe-bryant-shot-selection
+,,,,,0,onigatari/kobe-bryant-shot-selection,Kobe Bryant Shot Selection,Onigatari,,2021-01-27T23:06:29.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,arturszczotarski/kobe-bryant-shots,Kobe Bryant Shots,Artur Szczotarski,,2020-12-13T10:41:35.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,adityaajay05/kobe-bryant-shot-selection,Kobe Bryant Shot Selection,Aditya Ajay,,2020-07-06T20:59:15.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,patthoo/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Patrick_Hoo,,2020-02-27T03:38:44.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,eunjurho/kobe-bryant-shot-selection,kobe-bryant-shot-selection,EJ Rho,,2019-10-21T03:08:10.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jinxingw/kernel2a1f82dd2b,kernel2a1f82dd2b,jinxingw,,2019-06-28T01:08:42.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,arthurindigo/kernel69633e1180,kernel69633e1180,ArthurIndigo,,2019-05-18T10:50:27.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,himselfthedecker/aam-atividade-final-avalia-o-space-jaml,[AAM] - Atividade Final / Avaliação - Space JaML,Renan Renger,,2019-03-22T02:49:06.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,haticerat/kobe-bryant-shot-selection-exercise,Kobe Bryant Shot Selection exercise,hatice,,2018-10-18T11:04:15.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jaaahaaa/kobe-bryant,Kobe bryant,Daniel Åkesson,,2018-10-16T05:52:33.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,myxue4869/kobe-grid-search-hyperparameter-tuning,Kobe grid search hyperparameter tuning,Mingyi Xue,,2018-06-28T18:37:01.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,myxue4869/kobe-keras-loocv,Kobe keras loocv,Mingyi Xue,,2018-06-27T03:04:10.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,myxue4869/kobe-neural-network,Kobe Neural Network,Mingyi Xue,,2018-06-22T19:33:53.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,myxue4869/test-8,test #8,Mingyi Xue,,2018-06-21T17:11:03.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jihyeseo/koby-bryant-basketball-shot-eda,koby bryant basketball shot eda,Jihye Sofia Seo,,2018-05-08T16:49:17.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,sungminlee/simple-deep-learning-using-keras,simple deep learning using keras,leesungmin,,2018-03-18T05:38:06.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ctuckercva/messing-with-kobe-again,Messing with Kobe again,Chris Tucker,,2018-02-10T00:35:37.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ryad87/kobe-analysis,Kobe Analysis,Ryad El-Dajani,,2017-06-30T08:09:30.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,songxiaohui/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,songxh,,2017-06-22T11:46:44.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,hankpeng03/notebook87ba87fb11,Notebook87ba87fb11,HaoPeng,,2017-06-21T09:09:10.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,icedlattee/notebook1f3fc814d2,Notebook1f3fc814d2,icedlattee,,2017-05-31T10:16:29.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jinrui/kobyshoot,kobyshoot,jimmyjin,,2017-05-29T16:34:47.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jonathancham/kobe-bryant,kobe bryant,JonathanCham,,2017-05-16T15:40:25.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,xiaoranone/notebook9d97cefc4f,Notebook9d97cefc4f,xiaoran,,2017-05-02T04:50:52.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,lmfor3/notebook0976bb9698,Notebook0976bb9698,Liming Lau,,2017-04-27T09:50:01.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,fishugh/notebook3ec2cf180d,Notebook3ec2cf180d,Hugh周,,2017-04-18T03:02:38.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,skirsche/notebook97123f59bd,Notebook97123f59bd,Blocky007,,2017-04-13T13:21:08.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,grx123/notebook4d757fa035,Notebook4d757fa035,pamper,,2017-04-11T12:17:28.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jramirezv/notebook2f12cdfa30,Notebook2f12cdfa30,JavierRamírezValenzuela,,2017-04-05T15:59:35.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liyi1991/notebookbd079ab902,Notebookbd079ab902,liyi,,2017-03-19T13:11:08.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liyi1991/notebook40b3b98d3a,Notebook40b3b98d3a,liyi,,2017-03-19T13:06:29.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,aburkard/notebook0163cb2cc1,Notebook0163cb2cc1,AndrewBurkard,,2017-03-08T02:14:31.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kevins/notebook940019c959,Notebookb2f9276f30,仁,,2017-03-04T09:19:14.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kevins/tensorflow-notmnist,TensorFlow NOTMNIST,仁,,2017-03-02T09:02:34.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kevins/notebook55e4f6ba6a,Notebook55e4f6ba6a,仁,,2017-03-03T08:21:15.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kevins/notebooke0a9043de1,Notebooke0a9043de1,仁,,2017-02-28T10:45:44.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kevins/models-war,Models War,仁,,2017-03-01T03:51:24.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,goodlucky/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,Karen,,2017-02-23T01:51:19.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/testww,testWW,marzoukerberg,,2017-02-21T14:51:01.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/df-df-drop-shot-id-1,"df = df.drop('shot_id',1)",marzoukerberg,,2017-02-21T10:46:38.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/gradientboostingclassifier,GradientBoostingClassifier,marzoukerberg,,2017-02-21T10:09:40.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/test-submission,Test Submission ,marzoukerberg,,2017-02-21T09:36:04.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/submission10,Submission10,marzoukerberg,,2017-02-20T10:42:27.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/test-pou-0-6,test pou 0.6,marzoukerberg,,2017-02-20T10:08:44.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/lr-pour-le-0-6,LR pour le 0.6,marzoukerberg,,2017-02-20T09:38:48.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/lr-top-features,LR + top features,marzoukerberg,,2017-02-20T09:22:14.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,perryli/updating-xgboost-giving-logloss-around-0-602,updating--Xgboost: giving logloss around 0.602,PerryLi,,2017-02-19T03:20:22.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,andriuss/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,Andres Garcia,,2017-02-16T18:17:04.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/logistic-regression,Logistic Regression,marzoukerberg,,2017-02-15T15:46:51.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/regression-lin-aire,Regression Linéaire,marzoukerberg,,2017-02-15T12:29:30.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,perryli/lpf123,lpf123,PerryLi,,2017-02-14T19:31:27.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/submission-4,Submission 4,marzoukerberg,,2017-02-14T13:32:53.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/submission-3,Submission 3,marzoukerberg,,2017-02-14T13:27:22.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/submission2,Submission2,marzoukerberg,,2017-02-14T12:59:55.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,marzoukerberg/submission,Submission,marzoukerberg,,2017-02-13T15:51:47.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,alcaspar37/kobe-classification,Kobe Classification,alcaspar37,,2017-02-04T21:10:24.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,rakeshkasa/preliminary-exploration-8e03d8f6,Preliminary exploration 8e03d8f6,Rakesh,,2017-01-31T07:46:53.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,rakeshkasa/preliminary-exploration,Preliminary exploration,Rakesh,,2017-01-31T07:46:44.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,nana148/xgbryant,XGBryant,NanaBoateng,,2017-01-25T03:21:29.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,chenchaodev/notebook7b8b447f1d,Notebook7b8b447f1d,Tony Chen,,2017-01-24T01:14:49.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,andysheng/notebook8372b50209,Notebook8372b50209,AndySheng,,2017-01-22T17:03:03.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,architkhosla/data-analysis-for-beginners,Data analysis for beginners,Archit Khosla,,2017-01-21T06:50:07.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,vishvicky/notebookb5d7c538ae,Notebookb5d7c538ae,vishal sharma,,2017-01-20T01:41:45.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,sheshu/kobe-bb-prelimnary-exploration,Kobe - BB-Prelimnary-exploration,ChalamRatnala,,2017-01-19T12:31:16.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,davidhou/oneshot,OneShot,David Hou,,2017-01-23T03:50:05.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,willismax/notebook4b122d4506,Notebook4b122d4506,WiiMax,,2017-01-12T15:42:04.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,willismax/notebook18d97b0a64,Notebookff59b35d80,WiiMax,,2017-01-12T15:34:58.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,roger24/notebookf5c9ebff8c,Notebookf5c9ebff8c,roger,,2017-01-08T05:52:05.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,stansf/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,Stanislav,,2017-01-06T08:33:37.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,renkaipeng/notebook5673d1f010,Notebook5673d1f010,renkaipeng,,2017-01-05T13:01:34.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,seiching/data-analysis-for-beginners,Data analysis for beginners,leeseiching,,2017-01-04T03:36:15.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,mraykay/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,AkshayKumar,,2017-01-01T03:21:15.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,gzw8210/kobe-s-shots-exploration,Kobe's Shots Exploration,eric_guo,,2017-01-01T00:42:08.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,calvinjku/the-inevitable-aging-of-a-star,The inevitable aging of a star  ,OnionMonster,,2016-12-30T16:29:36.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,dmitriybulanov/notebook42c0b135ce,Notebookb5a3e07305,dimabulan,,2016-12-26T13:18:01.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,priyankar/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,priyankartalukdar,,2016-12-25T13:49:40.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,xxingzh/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,XiaoXing Zhao,,2016-12-21T22:50:17.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jing01/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,jing,,2016-12-16T01:51:13.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,yangfu/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Yang Fu,,2016-12-14T13:56:21.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,yangfu/notebook96400f2061,Notebook96400f2061,Yang Fu,,2016-12-14T13:53:02.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jing01/kobe-first-steps-random-forest-7674be12,Kobe First Steps (Random Forest) 7674be12,jing,,2016-12-12T08:46:18.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jing01/kobe-first-steps-random-forest,Kobe First Steps (Random Forest),jing,,2016-12-12T08:41:40.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jkfdre/psychology-of-a-professional-athlete-79d6ba22,Psychology of a Professional Athlete 79d6ba22,jkfdre,,2016-12-09T10:23:05.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jkfdre/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,jkfdre,,2016-12-09T10:09:43.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,pchandra/notebook7830250233,Notebook7830250233,Prakash Chandra,,2016-12-08T20:17:53.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,wendyliao/notebooke966ad2920,Notebooke966ad2920,WendyLiao,,2016-12-07T14:04:33.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,rocket1037/data-analysis-for-beginners,Data analysis for beginners,rocketLiu,,2016-12-05T07:14:43.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,yoavprei/notebookfb028f9b91,Notebook6dd5a4c242,YoavPreisler,,2016-12-04T08:36:50.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,yoavprei/notebook46810c8bbf,Notebook46810c8bbf,YoavPreisler,,2016-12-04T08:31:09.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jasonhejingang/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,jason,,2016-11-30T06:48:48.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,wangzhe/notebook54b42ff1ae,Notebook54b42ff1ae,WangZhe,,2016-11-29T03:28:21.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,deepakpunjabi/deepakpunjabi-kobe-bryant-shot-selection,deepakpunjabi/kobe-bryant-shot-selection,Deepak Punjabi,,2016-11-27T07:05:08.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,stigole/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Stig-OleGundersen,,2016-12-09T14:57:34.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jrphilippe/psychology-of-a-professional-athlete-d9564468,Psychology of a Professional Athlete d9564468,JR,,2016-11-25T22:36:54.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jrphilippe/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,JR,,2016-11-25T22:21:10.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,likaituo/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,likaituo,,2016-11-24T08:36:23.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,akaakaaka/notebook9efda574e9,Notebook9efda574e9,Krishna,,2016-11-22T21:01:09.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,hanx17/notebook59a40ca784,Notebook59a40ca784,CrystalHan,,2016-11-21T07:49:59.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,oceanbreaze/notebook61e23f271a,Notebook61e23f271a,yeongjun min,,2016-11-20T09:39:11.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,saeednouhi/notebooke26575a703,Notebooke26575a703,SaeedNouhi,,2016-11-18T05:17:15.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liang3164/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Xiaoming Liang,,2016-11-14T16:05:30.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,xiawei918/kobe-shots-show-me-your-best-model-4480a677,Kobe Shots - Show Me Your Best Model 4480a677,WeiXia,,2016-11-10T22:33:35.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,realbeck15/data-analysis-for-beginners,Data analysis for beginners,realbeck15,,2016-11-08T05:16:43.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jasonhejingang/notebook84626bc389,Notebook84626bc389,jason,,2016-11-05T00:48:13.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,franklinma/the-inevitable-aging-of-a-star,The inevitable aging of a star  ,FranklinMa,,2016-11-01T21:14:56.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,lukeandshuo/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,ShuoLiu,,2016-10-29T05:16:31.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ankushjain/test-813,test #813,AnkushJain,,2016-10-27T22:26:56.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ankushjain/test-812,test #812,AnkushJain,,2016-10-27T22:21:59.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,thomashan/notebookc64ab1f756,Notebookc64ab1f756,Thomas Han,,2016-10-27T09:46:23.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ankushjain/test-09,test 09,AnkushJain,,2016-10-24T20:36:32.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jafri123/notebooke42a51abef,Notebooke42a51abef,faizan jafri,,2016-10-23T14:22:22.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,king8023/data-analysis-for-beginners,Data analysis for beginners,Jason Yu,,2016-10-12T02:52:15.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,franklinma/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,FranklinMa,,2016-10-13T19:58:35.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,dpzhou/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Dominic,,2016-09-21T08:25:22.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,thomashan/initial-kobe-bryant-kaggle-challenge-notebook,Initial Kobe Bryant Kaggle Challenge Notebook,Thomas Han,,2016-09-19T05:42:27.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,chenchaodev/notebook4f1afb59a4,Notebook4f1afb59a4,Tony Chen,,2016-09-18T02:19:12.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,qualcom/mapping-kobe-bryants-shots,Mapping Kobe Bryants Shots,QualCom,,2016-09-06T12:34:12.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,architgarg1515/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,ArchitGarg,,2016-09-04T23:32:05.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,qq532933297/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Eric Dack,,2016-09-02T23:49:16.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,lightman/notebook1c82222538,Notebook1c82222538,Lightman,,2016-09-02T10:22:55.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ccuulinay/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,TeensJ,,2016-09-01T03:08:03.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ccuulinay/psychology-of-a-professional-athlete-9e62355f,Psychology of a Professional Athlete 9e62355f,TeensJ,,2016-09-01T03:05:44.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jth359/data-analysis-for-beginners,Data analysis for beginners,Jeff Herman,,2016-08-30T16:24:10.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,johnewz/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,WizardKingZ,,2016-08-29T19:54:02.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,joshmcq/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,JoshuaMcquiston,,2016-08-27T19:04:41.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ccuulinay/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,TeensJ,,2016-08-19T01:27:06.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,harlfoxem/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,harlfoxem,,2016-08-18T08:46:51.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,bar0cl33/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,K_Li,,2016-08-17T21:07:35.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,imagiciani/kobe-shots-show-me-your-best-model,Kobe Shots - Show Me Your Best Model,alari_integrify,,2016-08-14T13:31:16.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ekoduah12/notebook7b5001b0de,Notebook7b5001b0de,mannyk,,2016-08-08T23:24:24.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,hakabuk/notebook3ac3778702,Notebook3ac3778702,Zurda,,2016-08-07T12:17:02.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,satchel/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Satchel Chen,,2016-08-02T14:41:46.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,hmwang/post-competition-analysis,Post Competition Analysis,MichaelWang,,2016-07-22T01:46:26.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liushiqi9/koby-test,Koby Test,liushiqi9,,2016-07-07T21:20:27.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,anirudh2403/playin,playin',Anirudh Vyas,,2016-07-01T11:00:44.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,huitailang1991/practice,Practice,w23333333,,2016-06-16T10:21:26.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,litingfeng/script-py,script.py,AmberLi,,2016-06-15T16:12:35.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,thibalbo/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,Thiago Balbo,,2016-06-14T03:31:23.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,igorbpf/kobe1,kobe1,IgorSantos,,2016-06-13T21:13:53.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,sdcskaho/xgboost,xgboost,kaho,,2016-06-13T12:38:35.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,artemid/first,First,ArtemNemchenko,,2016-06-13T13:13:06.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,aymenzaghouani/scriptpp,scriptPP,Aymen Zaghouani,,2016-06-13T11:49:56.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,artemid/test2e,test2e,ArtemNemchenko,,2016-06-13T10:08:21.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,artemid/notebook-4c48609316f11f5022ac,TEST1,ArtemNemchenko,,2016-06-13T10:07:45.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,r45r54r45/fqwfqw,fqwfqw,y140056,,2016-06-11T06:57:47.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,r45r54r45/qdwqwd,qdwqwd,y140056,,2016-06-11T06:47:21.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,patanouk/kobee,kobee,Patanouk,,2016-06-10T12:37:43.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,slrsnpdla/parkscript2,ParkScript2,slrsnpdla,,2016-06-09T13:36:50.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,slrsnpdla/parkscript,ParkScript,slrsnpdla,,2016-06-09T09:44:10.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,yassin/testt,testt,Akhiat,,2016-06-08T23:23:51.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,andingo/andingo-kobe,andingo_kobe,andingo,,2016-06-08T19:08:55.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,holdonnn/gogogo,gogogo,y120007,,2016-06-08T12:00:07.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,nixgdill/playing-with-data,playing with data,knyx,,2016-06-07T19:50:36.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,sanghosuh/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,SangHoSuh,,2016-06-07T11:40:09.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,gioroulden/kobe-shot-py,Kobe_Shot.py,Ulden,,2016-06-07T11:30:52.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ymcdull/justtest,JustTest,Yunfeng Zhu,,2016-06-07T10:31:14.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,rahamoon/playing-with-kobe-s-data,playing with kobe's data,MohamedRahmouni,,2016-06-06T21:58:50.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,earos92/test-python,Test Python,JanWe,,2016-06-06T18:46:07.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ivanfoong/data-analysis,Data Analysis,ivanfoong,,2016-06-06T07:27:03.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,tngodup/testing-notebook,Testing notebook,Tenzin Ngodup,,2016-06-04T02:07:58.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,zhaochd/deeee,deeee,johnwall,,2016-06-04T13:28:57.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,sdcskaho/kaho8,kaho8,kaho,,2016-06-06T13:27:05.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,sdcskaho/kkaho,kkaho,kaho,,2016-06-03T07:36:44.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,basselali/simple,simple,Kawhi,,2016-06-03T06:49:37.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,lieberman/libog,libog,lieberman,,2016-05-31T00:20:04.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,scirpus/genetic-programming-lb-0-60836,Genetic Programming LB 0.60836,Scirpus,,2016-05-29T09:26:35.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,mpalamar/prelim-explorer,prelim_explorer,MaxPalamar,,2016-05-28T16:01:25.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,attilazz/test-run,test run,AttilaZz,,2016-05-23T18:26:10.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,supeng/data-analysis-for-beginners,Data analysis for beginners,Supeng,,2016-05-29T06:17:06.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ymcdull/kobe-frank-gbrt-test,kobe-frank-gbrt-test,Yunfeng Zhu,,2016-05-19T13:09:00.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ymcdull/koby-frank-test1,kobe-frank-test1,Yunfeng Zhu,,2016-05-18T21:15:24.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,chrissfq/data-analysis-for-beginners,Data analysis for beginners,chris_luo,,2016-05-16T10:48:28.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jaycb26/kobe-bryant1-1,Kobe_Bryant1.1,Blurry_face,,2016-05-15T05:39:32.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jaycb26/kobe-bryant1-0,Kobe_Bryant1.0,Blurry_face,,2016-05-15T05:29:48.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,huangweijie/kobe-bryant,Kobe_Bryant,Weijie Huang,,2016-05-15T03:38:43.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,wangquan/preliminary-exploration,Preliminary exploration,Quan Wang,,2016-05-12T17:00:40.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,qq532933297/practice,practice,Eric Dack,,2016-05-11T14:38:09.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ihorkalaida/testing,testin,ihor_kalaida,,2016-05-09T21:18:09.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,andreaslin/firstattempt,FirstAttempt,Andreas Lin,,2016-05-09T03:51:20.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,milhinhos/littlecorn1,Littlecorn1,Joao Milhinhos,,2016-05-08T23:05:05.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,jlrsource/initial-testing,Initial Testing,Josh,,2016-05-10T03:26:19.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,gogolgrind/12345f,12345f,gogolgrind,,2017-04-16T18:46:35.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,leontanks/learning-from-other-scripts,Learning from Other Scripts,Leon,,2016-05-06T14:20:04.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,saillaser/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,saillaser,,2016-05-02T18:47:09.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,wyman1024/testasdada,testasdada,Wyman1024,,2016-05-02T11:17:36.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,lingshanxu/test-kobe0,test_kobe0,LingshanXu,,2016-05-02T02:08:41.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,xiguansir/psychology-of-a-professional-athlete,Psychology of a Professional Athlete,shaosifan,,2016-05-02T01:18:39.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,evyasonov/tests,Tests,Evgeniy,,2016-05-01T09:19:53.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liziyuann/gradient-boosting,Gradient Boosting,richard_lzy,,2016-04-30T13:49:44.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ccourtot/svc-leaking,SVC (leaking),CCourtot,,2016-04-29T21:41:38.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,ccourtot/test-1,ExtraTreesClassifier (leaking),CCourtot,,2016-04-29T20:35:35.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liziyuann/rf-testing,RF testing,richard_lzy,,2016-05-02T07:29:58.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,azzurraying/kobe-shots,Kobe shots,Azzurra,,2016-04-29T07:12:24.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,greghacob/testing,testing,GregHacobian,,2016-04-26T03:30:50.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,yoannbi/kobechart-testfork,KOBECHART_testfork,yobi,,2016-04-22T20:58:07.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,tgjeon/kobeshots,KobeShots,TaegyunJeon,,2016-04-21T12:33:12.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,mrmuffyman/exploratory,exploratory,KevinLin,,2016-04-21T00:14:27.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kglfaisal/fff123123,fff123123,Faisal,,2016-04-20T03:49:01.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,kglfaisal/kobie,Kobie,Faisal,,2016-04-20T03:32:30.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,liziyuann/testing,testing,richard_lzy,,2016-05-03T12:32:13.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,caspik/solution,solution,Dmitriy,,2016-04-15T22:51:31.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection
+,,,,,0,drmcgraw/test-dm,test-dm,David McGraw,,2016-04-22T19:19:09.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,kobe-bryant-shot-selection

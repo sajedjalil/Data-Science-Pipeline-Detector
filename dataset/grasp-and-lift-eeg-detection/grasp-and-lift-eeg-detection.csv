@@ -1,0 +1,126 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,alexandrebarachant/beat-the-benchmark-0-67,Beat the Benchmark. 0.708,Alexandre Barachant,,2015-07-23T00:28:44.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,grasp-and-lift-eeg-detection
+,,,,,0,alexandrebarachant/common-spatial-pattern-with-mne,Common Spatial Pattern with MNE,Alexandre Barachant,,2015-07-01T23:43:06.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,grasp-and-lift-eeg-detection
+,,,,,0,elenacuoco/simple-grasp-with-sklearn,Simple Grasp with Sklearn. 0.70+ ,Elena Cuoco,,2015-08-13T09:06:05.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,grasp-and-lift-eeg-detection
+,,,,,0,alexandrebarachant/visual-evoked-potential-vep,Visual Evoked Potential (VEP),Alexandre Barachant,,2015-08-21T16:35:51.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,grasp-and-lift-eeg-detection
+,,,,,0,bitsofbits/naive-nnet,Naive NNet 0.76+ / 0.90+,Tim Hochberg,,2015-08-13T00:23:41.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,grasp-and-lift-eeg-detection
+,,,,,0,anlthms/convnet-0-89,Convnet: AUC 0.934,Anil Thomas,,2015-08-22T05:15:37.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,grasp-and-lift-eeg-detection
+,,,,,0,alexandrebarachant/simple-grasp-cross-validation,Simple Grasp Cross-validation,Alexandre Barachant,,2015-07-13T05:39:32.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,grasp-and-lift-eeg-detection
+,,,,,0,widhiwinata/grasp-and-lift-movement-detection-with-dl,Grasp and Lift Movement Detection with DL,Widhi Winata Sakti,,2020-12-19T02:34:41.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,grasp-and-lift-eeg-detection
+,,,,,0,banggiangle/cnn-eeg-pytorch,CNN EEG PyTorch,Bằng Giang Lê,,2021-04-23T16:30:03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,grasp-and-lift-eeg-detection
+,,,,,0,deepcnn/rf-lda-lr,RF + LDA + LR,Deep,,2015-07-31T21:18:35.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,grasp-and-lift-eeg-detection
+,,,,,0,kumareshd/simple-low-freq-0-80,"Simple low freq, 0.80+",Kumaresh,,2015-07-23T04:04:10.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,grasp-and-lift-eeg-detection
+,,,,,0,datenkieker/beat-the-benchmark-0-67,Beat the Benchmark. 0.67+,qudade,,2015-07-03T17:32:44.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,grasp-and-lift-eeg-detection
+,,,,,0,nefiseuysal/grasp-and-lift-movement-detection-with-ml,Grasp and Lift Movement Detection with ML,Nefise Uysal,,2020-07-10T06:31:41.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grasp-and-lift-eeg-detection
+,,,,,0,ajoo88/low-freq-0-80-refactored,Low freq 0.80+ refactored,ajoo,,2015-07-30T19:26:05.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grasp-and-lift-eeg-detection
+,,,,,0,karma86/neural-nets,Neural nets,Sergei Bugrov,,2015-07-19T23:37:39.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grasp-and-lift-eeg-detection
+,,,,,0,interesting/rf-lda-lr-v2-1-combining,RF + LDA + LR v2.1 + combining,Nathaniel Shimoni,,2015-08-31T19:32:00.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grasp-and-lift-eeg-detection
+,,,,,0,stefaneng/simple-python-pandas-plots,Simple Python Pandas Plots,Stefan Eng,,2015-07-23T01:17:36.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grasp-and-lift-eeg-detection
+,,,,,0,lnicalo/simple-low-freq-0-80,"Simple low freq, 0.80+",lnicalo,,2015-07-22T17:48:52.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grasp-and-lift-eeg-detection
+,,,,,0,titericz/simple-grasp-with-sklearn-giba,Simple Grasp with Sklearn Giba,Giba,,2015-07-10T23:34:25.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grasp-and-lift-eeg-detection
+,,,,,0,acshock/how-noisy-are-these-eegs,How noisy are these EEGs?,Abby Shockley,,2015-07-01T01:46:55.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grasp-and-lift-eeg-detection
+,,,,,0,jjjphysics/convnet-auc-0-934,Convnet: AUC 0.934,Junjie Jiang,,2015-08-24T04:28:26.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,karma86/rf-lda-lr-v2-1,RF + LDA + LR v2.1,Sergei Bugrov,,2015-08-06T00:00:20.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,titericz/simple-low-freq-0-80-2,"Simple low freq, 0.80+ 2",Giba,,2015-07-25T03:30:29.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,sionek/simple-low-freq-0-80,"Simple low freq, 0.80+",Grzegorz Sionkowski,,2015-07-31T10:18:45.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,deepcnn/simple-grasp-with-sklearn-0-70,Simple Grasp with Sklearn. 0.70+ ,Deep,,2015-07-22T07:06:23.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,dreamdelta/addbandpass,addBandPass,TanmayChordia,,2015-07-19T09:00:51.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,sefficohen/simple-grasp-with-sklearn-0-70,Simple Grasp with Sklearn. 0.70+ ,Seffi Cohen,,2015-07-11T07:53:11.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grasp-and-lift-eeg-detection
+,,,,,0,ijaganjac/eeg-grasp-and-lift-modified,EEG_grasp_and_lift_modified,Lamb,,2015-08-29T18:44:31.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,cerberusd/csp-nn,csp+nn,cerberusd,,2015-08-31T09:16:04.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,victorcantor/convnet-auc-0-934,Convnet: AUC 0.934,Sloth,,2015-08-25T05:31:06.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,lnicalo/convnet-auc-0-934,Convnet: AUC 0.934,lnicalo,,2015-08-21T15:09:09.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,sujeeth/checking,CHECKING,Sujeeth S,,2015-08-17T18:00:02.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,sionek/rf-lda-lr-v2-1-combining,RF + LDA + LR v2.1 + combining,Grzegorz Sionkowski,,2015-08-14T20:29:14.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,nikitakis/stackingmodel-cv-multiprocessing-0-84,StackingModel+CV+Multiprocessing (0.84+),Antonis Nikitakis,,2015-08-12T19:28:32.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,linkanray/eeg-submission,EEG submission,LinkanRay,,2015-08-11T17:05:23.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,iwgtus/copyegg,copyegg,Wills C,,2015-08-02T04:10:07.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,abhigenie92/beat-the-benchmark-0-708,Beat the Benchmark. 0.708,Abhishek Bhatia,,2015-07-23T08:58:20.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,devinanzelmo/beat-the-benchmark-0-67,Beat the Benchmark. 0.67+,Devin Anzelmo,,2015-07-21T18:25:09.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,juliankopkalarsen/simple-grasp-with-sklearn-0-70,Var-model,Julianlarsen,,2015-07-14T19:24:11.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,thakurrajanand/simple-grasp-with-sklearn,Simple Grasp with Sklearn,DataGeek,,2015-07-10T07:41:26.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,duttaroy/benchmark-better,benchmark better,OverfitterScientist,,2015-07-13T21:13:51.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,acshock/do-you-need-mne,Do you need MNE?,Abby Shockley,,2015-07-05T19:50:40.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,andrew0harney/signal-and-event-management-utility,Signal and event management utility,andrew0harney,,2015-07-05T18:56:38.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,gshguru/common-spatial-pattern-with-mne,Common Spatial Pattern with MNE,Gurupad Hegde,,2015-07-05T18:42:25.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grasp-and-lift-eeg-detection
+,,,,,0,zeintiz/grasp-and-lift-movement-detection-with-dl,Grasp and Lift Movement Detection with DL,zeintiz,,2021-04-24T12:27:28.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,pradyumnamohani/eeg-predict-test-prady,EEG PREDICT_test_prady,pradyumna mohani,,2021-03-01T17:16:26.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,widhiwinata/grasp-and-lift-movement-detection-with-ml,Grasp and Lift Movement Detection with ML,Widhi Winata Sakti,,2020-12-21T13:14:12.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,nefiseuysal/grasp-and-lift-movement-detection-with-dl,Grasp and Lift Movement Detection with DL,Nefise Uysal,,2020-11-07T23:06:43.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,zaaabik/kernel194504f48e,kernel194504f48e,Zabolotnyi Artem,,2019-12-19T01:52:22.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,zaaabik/kernel5fa38d7030,kernel5fa38d7030,Zabolotnyi Artem,,2019-12-17T08:19:31.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,vinaykm/eeg-and-dl,EEG and DL,Vinay Kumar,,2019-07-13T22:19:57.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,vlastimilm/ui-project,UI Project,Vlastik,,2019-06-16T11:05:20.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,yeahman/main-grasp,main grasp,yeah man,,2019-11-11T12:19:09.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,masonblier/grasp-and-lift-eeg-dtw-eda,Grasp-and-Lift EEG DTW EDA ,Mason Blier,,2019-03-03T20:06:47.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,jihyeseo/eeg-gal-detect-6-events-forecast,EEG GAL detect 6 events forecast,Jihye Sofia Seo,,2018-05-08T17:42:43.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,kraxximus/eegal,EEGAL,Justin Chow,,2018-04-10T05:51:50.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,wordsforthewise/notebook6fc09b887a,Notebook6fc09b887a,Nathan George,,2017-03-23T19:48:41.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alcaspar37/grasp-and-learn,Grasp and Learn,alcaspar37,,2017-02-07T01:02:01.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,eilbeigi/visual,Visual,elnaz,,2017-01-28T14:41:12.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,babatee/notebookef8e0ab80c,Notebookef8e0ab80c,BabatundeAdekunle,,2016-09-17T10:17:22.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,kickview1/kv-test,KV_TEST,AaronJones,,2016-08-24T15:35:29.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,yydxlv/eeg-for-fun,EEG_for_fun,yydxlv,,2016-06-08T03:32:49.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,utk4rsh/notebook1,Notebook1,utk4rsh,,2016-05-20T18:55:06.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,miyamamoto/test-gale,test_gale,miyamamoto,,2016-05-14T05:52:10.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,miyamamoto/testtesttest2,testtesttest2,miyamamoto,,2016-05-13T06:29:20.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,miyamamoto/testtesttest,testtesttest,miyamamoto,,2016-05-13T06:30:02.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,zhengqq99/script-test,script_test,zhengqq99,,2016-04-15T07:49:42.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,thesingularity/testd,testd,TheSingularity,,2016-01-24T16:24:23.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,renelancine/mindbigudem-fft-pca,MindBigUdem-fft-pca,RenéLancineDoumbouya,,2015-12-22T02:01:22.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,falcon/a32432432,a32432432,falcon,,2015-12-15T03:47:51.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,maorsh94/maorsh,maorsh,maorsh94,,2015-11-28T15:03:24.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,shashank27392/convnet-auc-0-934,Convnet: AUC 0.934,shashank,,2015-11-20T11:26:35.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,ejfinch/test1111,test1111,ejfinch,,2015-11-19T02:20:39.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,mattgough/test1,test1,MatthewGough,,2015-10-26T23:03:13.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,gouldberg/visual-evoked-potential-vep,Visual Evoked Potential (VEP),Gouldberg,,2015-10-15T12:30:47.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,raihanmasud/simple-convnet-lasagne-nolearn-gled,Simple ConvNet (lasagne/nolearn) - GLED,RaihanMasud,,2015-09-02T07:35:46.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cerberusd/simple-grasp-cnn,Simple Grasp + cnn,cerberusd,,2015-08-29T08:49:04.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,icebin/grasp-1,grasp,Bin Zhu,,2015-08-27T03:11:16.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cerberusd/simple-grasp-nn,Simple Grasp + nn,cerberusd,,2015-08-29T01:58:37.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cerberusd/lasag,lasag,cerberusd,,2015-08-25T11:49:48.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,smilesun/convnet-auc-0-934,Convnet: AUC 0.934,smilesun,,2015-08-23T09:16:17.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,domcastro/visual-evoked-potential-vep,Visual Evoked Potential (VEP) Subject 5,Bluefool,,2015-08-21T20:52:09.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,usixuz/convnet-auc-0-934,Convnet: AUC 0.934,SecondPlan,,2015-08-21T11:31:34.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,chrisfs/simple-grasp-2,Simple Grasp 2,Chrisfs,,2015-08-23T20:45:48.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,johnnystrings/rf-lda-lr-v2-1-combining,RF + LDA + LR v2.1 + combining,Johnny Strings,,2015-08-25T21:08:34.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cerberusd/testt,testt,cerberusd,,2015-08-21T02:29:55.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cerberusd/simple-grasp-with-sklearn-0-70,Simple Grasp with Sklearn. 0.70+ ,cerberusd,,2015-08-31T13:14:56.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,nkhuyu/naive-nnet-0-76-0-90,Naive NNet 0.76+ / 0.90+,nkhuyu,,2015-08-18T04:25:32.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,tortelal/prova,prova,Alessandro.Tortelli,,2015-08-15T08:41:47.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alielhassouni/rf-lda-lr-v2-1-combining,RF + LDA + LR v2.1 + combining,Ali el Hassouni,,2015-08-14T20:22:59.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,kotomord/rf-lda-lr-v2-1-combining,RF + LDA + LR v2.1 + combining,Kotomord,,2015-08-13T22:09:27.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,leotam/naive-nnet-0-90,Naive NNet 0.90+,Leo Tam,,2015-08-07T19:39:05.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,dantepawn/naive-nnet-0-71-0-90,Naive NNet 0.71+ / 0.90+,DantePawn,,2015-08-07T09:55:02.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,duttaroy/rf-lda-lr-v2-1,RF + LDA + LR v2.1,OverfitterScientist,,2015-08-07T07:06:28.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/naive-nnet-sample-al001-1,Naive NNet_sample_al001-1,Alexander  Larko,,2015-08-05T07:33:14.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,mostafafr/rf-lda-lr-v2-1,RF + LDA + LR v2.1,Mostafa,,2015-08-02T13:09:36.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,edgarllamas/kaggle,Kaggle,edgarllamas,,2015-08-05T01:05:22.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,ajoo88/low-freq-0-80-refactored-2,Low freq 0.80+ refactored 2,ajoo,,2015-07-31T21:46:40.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/sample-al0031,Sample_AL0031,Alexander  Larko,,2015-07-31T05:06:54.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,domcastro/rf-v1,rf v1,Bluefool,,2015-07-30T23:08:37.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/naive-nnet-sample-al001,Naive NNet_sample_al001,Alexander  Larko,,2015-07-29T06:09:56.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/sample-al004,Sample_AL004,Alexander  Larko,,2015-07-29T04:45:37.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,titericz/sample-gt001,Sample_GT001,Giba,,2015-07-28T20:44:30.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/sample-al003,Sample_AL003,Alexander  Larko,,2015-07-29T05:20:52.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/sample-al002,Sample_AL002,Alexander  Larko,,2015-07-28T03:31:15.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/sample-al001,Sample_AL001,Alexander  Larko,,2015-07-28T03:02:52.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,titericz/simple003,Simple003,Giba,,2015-07-27T13:32:04.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,alexxanderlarko/simple003,Simple003,Alexander  Larko,,2015-07-27T09:18:18.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,akhmedov1828/eeg003,eeg003,AzamatbekAkhmedov,,2015-08-11T05:57:20.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,jianminsun/simple-low-freq-0-80-2,"Simple low freq, 0.80+ 2",Jianmin Sun,,2015-07-26T03:10:25.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,mandalsubhajit/simple-low-freq-0-82,"Simple low freq, 0.82+",Subhajit Mandal,,2015-07-24T02:09:48.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,kumareshd/simple-low-freq-0-80-another,"Simple low freq, 0.80+ another",Kumaresh,,2015-07-24T01:31:14.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,kumareshd/simple-low-freq-0-80-changed,"Simple low freq, 0.80+ changed",Kumaresh,,2015-07-23T15:38:40.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,mandalsubhajit/simple-low-freq-0-80,"Simple low freq, 0.80+",Subhajit Mandal,,2015-07-23T03:06:05.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,gshguru/simple-low-freq-0-80,"Simple low freq, 0.80+",Gurupad Hegde,,2015-07-22T17:58:37.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,domcastro/write-the-features-to-file,Write the features to file,Bluefool,,2015-07-21T17:03:28.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,karma86/simple-grasp-with-sklearn-v-2,Simple Grasp with Sklearn v 2,Sergei Bugrov,,2015-07-21T04:17:31.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,dreamdelta/simple-grasp-with-sklearn-tanmay-s0-70,Simple Grasp with Sklearn Tanmay S0.70+ ,TanmayChordia,,2015-07-15T07:10:27.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,dreamdelta/simple-grasp-with-sklearn-0-70,Simple Grasp with Sklearn. 0.70+ ,TanmayChordia,,2015-07-15T06:04:47.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,dreamdelta/simple-grasp-with-sklearn-t-0-70,Simple Grasp with Sklearn(T). 0.70+ ,TanmayChordia,,2015-07-15T00:49:52.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cleerline/simple-grasp-with-sklearn-0-70-plots,Simple Grasp with Sklearn. 0.70+ (plots),cleerline,,2015-08-12T19:59:49.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,cleerline/plots-in-python, plots in python,cleerline,,2015-07-14T16:48:06.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,juliankopkalarsen/support-vector-machine,Support vector machine,Julianlarsen,,2015-07-14T19:28:56.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,pchaville/do-you-need-mne,Do you need MNE?,Pierre-Chaville,,2015-07-12T10:48:19.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection
+,,,,,0,titericz/simple-grasp-with-sklearn,Simple Grasp with Sklearn,Giba,,2015-07-11T23:43:22.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grasp-and-lift-eeg-detection

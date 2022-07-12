@@ -1,0 +1,102 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,scirpus/genetic-programming-1,Genetic Programming,Scirpus,,2016-03-01T14:49:50.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,march-machine-learning-mania-2016
+,,,,,0,ralston3/ncaam-exploratory-analysis,ncaam_exploratory_analysis,__blastoise__,,2016-02-20T13:36:52.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,march-machine-learning-mania-2016
+,,,,,0,dmytrolystopad/elo-rating-try,Elo rating_try,Dmytro Lystopad,,2016-04-05T16:45:37.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,march-machine-learning-mania-2016
+,,,,,0,walterhan/scrape-kenpom-data,Scrape Kenpom Data,WalterHan,,2016-02-15T20:04:21.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,march-machine-learning-mania-2016
+,,,,,0,maccam912/winner-by-seed,Winner by Seed,Matt Koski,,2016-02-12T16:54:00.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,march-machine-learning-mania-2016
+,,,,,0,anokas/extree,EXTREE ,anokas,,2016-03-12T12:14:59.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,march-machine-learning-mania-2016
+,,,,,0,anokas/extree-without-cheating,EXTREE without cheating,anokas,,2016-03-11T20:12:41.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,march-machine-learning-mania-2016
+,,,,,0,anokas/extree-optimised,EXTREE optimised ;),anokas,,2016-03-12T00:05:36.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,march-machine-learning-mania-2016
+,,,,,0,evgenyeltyshev/genetic-programming-1,Genetic Programming 1,Evgenii Eltyshev,,2016-03-04T18:17:55.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,march-machine-learning-mania-2016
+,,,,,0,signochastic/elo-rating-try,Elo rating_try,Reza,,2016-02-16T00:04:54.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,march-machine-learning-mania-2016
+,,,,,0,dkozyr/elo-rating,Elo rating,Kozyr,,2016-02-16T09:50:56.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,march-machine-learning-mania-2016
+,,,,,0,wpasfield/predictions-vs-actual-visualization,Predictions vs. Actual Visualization,wp,,2016-03-14T07:40:05.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,march-machine-learning-mania-2016
+,,,,,0,midouuu/data-mining-mmn,data mining mmn,Midou Mohamed ,,2017-04-30T17:49:07.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,datenkieker/genetic-final,Genetic Final,qudade,,2016-03-16T20:31:45.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,chandrasen/testing,testing_,CS,,2016-03-12T21:57:47.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,michaelfan/extree,EXTREE,Miao Fan,,2016-03-11T16:20:32.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,evgenyeltyshev/genetic-programming,Genetic Programming,Evgenii Eltyshev,,2016-03-02T19:09:37.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,animesh371/basketball-script-py,Basketball_script.py,AnimeshGaitonde,,2016-02-28T04:30:20.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,datasj/tryelo,TryElo,jigyasu10,,2016-02-29T18:44:04.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,lacuri/python-getting-started,Python Getting started,matcauf,,2016-02-24T18:32:31.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,ypargaien/winner-by-seed,Winner by Seed,Yogesh Pargaien,,2016-02-17T07:40:00.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,tomknig/ncaa-prediction,ncaa prediction,tomknig,,2016-02-13T19:16:05.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,march-machine-learning-mania-2016
+,,,,,0,jihyeseo/ncaa-eda,ncaa eda,Jihye Sofia Seo,,2018-05-08T17:18:24.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,midouuu/midou-test,MIDOU test ,Midou Mohamed ,,2017-04-30T14:35:41.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,midouuu/notebook98a56fc905,Notebook98a56fc905,Midou Mohamed ,,2017-04-30T14:02:20.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,jjkinger/notebookb4e5d5e565,Notebookb4e5d5e565,Jiefu Ying,,2017-03-23T00:58:49.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,agbs2k8/agbs2k8,agbs2k8,agbs2k8,,2017-02-06T17:03:26.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,er9213/winner-by-seed,Winner by Seed,er9213,,2017-02-03T14:05:38.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,er9213/extree-without-cheating,EXTREE without cheating,er9213,,2017-02-03T13:59:16.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,kostij/notebook45700f38e1,Notebook45700f38e1,Jarrod Kostick,,2016-12-04T22:13:37.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,fkhalili/notebook0a61353de8,Notebook0a61353de8,fatemeh,,2016-10-22T20:04:57.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,otanet123/winner-by-seed,Winner by Seed,otanet,,2016-10-16T03:47:49.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelrap/notebookf466b8c07f,Notebookf466b8c07f,Michaelrap,,2016-08-09T03:04:43.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelrap/notebookcc47a96ba5,Notebookcc47a96ba5,Michaelrap,,2016-08-09T03:01:58.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelrap/notebookd9e81a563d,Notebookd9e81a563d,Michaelrap,,2016-08-09T02:47:11.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelrap/notebook9b6821a71b,Notebook9b6821a71b,Michaelrap,,2016-08-09T02:46:51.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelrap/notebook8eb38fed04,Notebook8eb38fed04,Michaelrap,,2016-08-09T02:41:21.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,farzeen/first-pass-elo,First Pass Elo,FarzeenHarunani,,2016-04-24T23:00:25.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,farzeen/combinedata,combineData,FarzeenHarunani,,2016-04-23T21:59:45.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,bdilday/blahff,blahff,Ben Dilday,,2016-03-24T03:30:55.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,thodime/mlmmania,mlmmania,Thodime,,2016-03-21T09:07:12.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,scottdbl/ncaam-exploratory-analysis,ncaam_exploratory_analysis,Scott ,,2016-03-17T06:23:39.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,tmthyjames/marchmadness,marchmadness,tmthyjames,,2016-03-17T02:13:39.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,sushize/gm01-ssz-train-2649,gm01_ssz_train_2649,Shize Su,,2016-03-16T14:56:39.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,sushize/gm01-ssz,gm01_ssz,Shize Su,,2016-03-16T14:54:59.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,mujtabaasif/elotry,ELOTry,MujtabaAsifAasi,,2016-03-15T20:48:58.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,mujtabaasif/neuralnet,NeuralNet,MujtabaAsifAasi,,2016-03-15T19:56:20.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,rohara171/rohara171,rohara171,Ryan O'Hara,,2016-03-15T14:34:22.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,datasj/mml16,MML16,jigyasu10,,2016-03-15T07:48:16.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,alexlzzz/elo-rating-try,Elo rating_try,==>(AL)<==,,2016-03-14T21:24:32.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,alexlzzz/mlmmlm,mlmmlm,==>(AL)<==,,2016-03-14T21:16:18.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,bakiev/mlmmlm,mlmmlm,Saba,,2016-03-14T03:08:15.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,khaledfayed/try-again,try-again,Khaled Fayed,,2016-03-12T23:14:27.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,bikasha/mlmmlm,mlmmlm,Bikash Agrawal,,2016-03-12T20:20:19.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,tunguz/mlmmlm,mlmmlm,Bojan Tunguz,,2016-03-12T19:02:27.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,shchao53/mlmmlm,mlmmlm,batoab,,2016-03-12T19:14:18.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,rajdeltarobo/mmlmml,mmlmml,RajVardhanSingh,,2016-03-12T18:23:17.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,vk4arm/extreeee,EXTREEee,Victor Kuriashkin,,2016-03-12T17:45:39.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,thodime/mlmmlm,mlmmlm,Thodime,,2016-03-14T08:23:19.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,maiind/extreeee,EXTREEee,maiind,,2016-03-12T13:19:04.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,bakiev/extree,Boosting ,Saba,,2016-03-12T14:14:58.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,maiind/maiind2,MAIIND2,maiind,,2016-03-12T11:07:29.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,maiind/maiind1,MAIIND1,maiind,,2016-03-12T11:03:48.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,prayalankar/extree,EXTREE ,Anonymous,,2016-03-12T09:05:45.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelfan/i-know-it,I KNOW IT ,Miao Fan,,2016-03-12T02:52:45.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelfan/i-don-t-know,I DON'T KNOW,Miao Fan,,2016-03-12T02:35:14.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,itsme302/extree-optimised2,EXTREE optimised2 ;),itsme302,,2016-03-11T23:29:26.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,itsme302/extree-optimised,EXTREE optimised ;),itsme302,,2016-03-11T23:20:15.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelfan/extreeeeeeeeee,extreeeeeeeeee,Miao Fan,,2016-03-11T21:54:51.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,mujtabaasif/pso-ga,PSO_GA,MujtabaAsifAasi,,2016-03-11T13:40:14.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,mujtabaasif/geneticalgo,GeneticAlgo,MujtabaAsifAasi,,2016-03-11T12:35:30.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,jovaisas/test-script-3,test_script_3,GinTaras,,2016-03-11T01:55:48.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,itsme302/test-script-9,test_script_9,itsme302,,2016-03-10T16:35:45.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,itsme302/test-script-3,test_script_3,itsme302,,2016-03-10T15:59:13.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,tunguz/test-script-3,test_script_3,Bojan Tunguz,,2016-03-10T15:53:35.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,itsme302/test-script-2,test_script_2,itsme302,,2016-03-10T15:42:21.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,rohara171/rohara171-march-madness,rohara171 march madness,Ryan O'Hara,,2016-03-09T19:26:35.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,evgenyeltyshev/test-script-2,test_script_2,Evgenii Eltyshev,,2016-03-08T15:16:39.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,signochastic/genetic-programming,Genetic Programming,Reza,,2016-03-07T22:33:27.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,tunguz/test-script-2-1,test_script_2,Bojan Tunguz,,2016-03-07T20:59:18.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,mayhill40/test-script,test_script,HendrikFeddersen,,2016-03-06T20:22:15.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,pritipatra/genetic-programming-1,Genetic Programming 1,Pritimayee Patra,,2016-03-06T12:17:50.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,titericz/genetic-programming-2,Genetic Programming 2,Giba,,2016-03-06T00:34:21.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,krishpop/ncaa-overview,NCAA-overview,Krishnan Srinivasan,,2016-03-17T07:57:14.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,signochastic/genetic-programming-try,Genetic Programming_try,Reza,,2016-03-05T09:57:42.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,nelsondinh/genetic-programming-1,Genetic Programming 1,Nelson,,2016-03-04T23:04:54.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,titericz/genetic-programming-1,Genetic Programming 1,Giba,,2016-03-04T02:30:30.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,michaelfan/try-again,Try again,Miao Fan,,2016-03-01T23:07:06.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,mharkus/test1223,Test1223,Marc Lester Tan,,2016-03-01T22:32:45.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,tretelny/test1,Test1,tretelny,,2016-03-01T19:49:56.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,joebooth/test2,test2,JoeBooth,,2016-02-29T07:11:21.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,kelamhsoj/bracketchallenge,BracketChallenge,Josh Malek,,2016-02-29T00:37:54.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,jermmey/ncaa-prediction,ELO Prediction,Jermmey,,2016-02-20T04:09:07.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,signochastic/elorating-try,EloRating_try,Reza,,2016-02-17T14:18:58.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,signochastic/elo-try,Elo-try,Reza,,2016-02-17T06:06:07.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,khaledfayed/elo-rating-try,Elo rating_try,Khaled Fayed,,2016-02-16T22:24:21.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,ryutek/elo-rating-try,Elo rating_try,U023,,2016-02-16T06:08:02.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,signochastic/elo-rating,Elo rating,Reza,,2016-02-15T22:30:49.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,dutdeng/test-1,test_1,dutdeng,,2016-02-15T09:06:30.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,toconnor/version-1,Version 1,toconnor,,2016-02-14T23:35:42.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016
+,,,,,0,zhugds/test-script-2-2,test_script,pongba,,2016-03-12T19:07:09.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,march-machine-learning-mania-2016

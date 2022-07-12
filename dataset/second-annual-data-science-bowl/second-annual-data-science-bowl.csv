@@ -1,0 +1,13 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,tnilsson/bigimaging-complete,bigimaging-complete,Thomas Nilsson,,2019-05-21T18:27:33.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,second-annual-data-science-bowl
+,,,,,0,kmader/systole-cnn-time-as-depth-model,Systole CNN Time as Depth Model,K Scott Mader,,2018-07-19T09:54:26.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,second-annual-data-science-bowl
+,,,,,0,kmader/3d-lung-volumes-using-simpleitk,3D Lung Volumes using SimpleITK,K Scott Mader,,2019-05-02T09:33:00.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,second-annual-data-science-bowl
+,,,,,0,jkronander/bigimg-images,BigImg - images,Mammothbagpipe,,2019-08-05T11:41:39.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,second-annual-data-science-bowl
+,,,,,0,tnilsson/bigimaging-analysis,bigimaging-analysis,Thomas Nilsson,,2019-05-22T20:18:11.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,second-annual-data-science-bowl
+,,,,,0,kmader/mri-heart-processing,MRI Heart Processing,K Scott Mader,,2018-07-19T06:37:06.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,second-annual-data-science-bowl
+,,,,,0,mucharlarvt/mri-heart-processing,MRI Heart Processing,mucharlarvt,,2021-01-25T11:33:48.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,second-annual-data-science-bowl
+,,,,,0,mehdinait/pfa-v2-0,PFA V2.0,mehdi Nait Hammou,,2020-06-01T04:12:21.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,second-annual-data-science-bowl
+,,,,,0,tnilsson/qbi-preprocessing,qbi-preprocessing,Thomas Nilsson,,2019-07-24T20:10:21.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,second-annual-data-science-bowl
+,,,,,0,kmader/systole-3d-cnn-time-model-with-tb,Systole 3D-CNN Time Model with TB,K Scott Mader,,2018-07-19T07:02:39.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,second-annual-data-science-bowl
+,,,,,0,kmader/mri-volume-processing,MRI Volume Processing,K Scott Mader,,2018-07-19T06:38:04.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,second-annual-data-science-bowl
+,,,,,0,kmader/visualizing-mri-data,Visualizing MRI Data,K Scott Mader,,2018-07-18T09:32:24.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,second-annual-data-science-bowl

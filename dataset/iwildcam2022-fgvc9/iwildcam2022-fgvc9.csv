@@ -1,0 +1,8 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,mpwolke/iwildcam-2022-cnn,IWildCam 2022 CNN,Marília Prata,,2022-03-26T03:06:06.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,iwildcam2022-fgvc9
+,,,,,0,stefanistrate/iwildcam-2022-visualize-deepmac-instance-masks,iWildCam 2022: visualize DeepMAC instance masks,Ștefan Istrate,,2022-04-01T20:36:05.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,iwildcam2022-fgvc9
+,,,,,0,stpeteishii/iwildcam2022-show-and-extract, iWildCam2022 Show and Extract,stpete_ishii,,2022-03-30T04:43:30.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,iwildcam2022-fgvc9
+,,,,,0,vickyskarthik/gps-data-visualization,GPS Data visualization,karthik s,,2022-04-07T06:16:28.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,iwildcam2022-fgvc9
+,,,,,0,chamberham/notebook097c029730,notebook097c029730,Chamberham,,2022-03-28T14:14:59.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,iwildcam2022-fgvc9
+,,,,,0,thomasdubail/iwild-tf-starter,IWILD tf starter,Thomas,,2022-04-12T14:16:16.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,iwildcam2022-fgvc9
+,,,,,0,karkisa/n2-lg,N2:lg,karkisa,,2022-05-04T06:52:49.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam2022-fgvc9

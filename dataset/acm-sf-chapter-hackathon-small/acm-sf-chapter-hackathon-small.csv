@@ -1,0 +1,2 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,arsenismagilov/arsen-second,arsen_second,Arsen Ismagilov,,2021-03-08T09:29:38.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,acm-sf-chapter-hackathon-small

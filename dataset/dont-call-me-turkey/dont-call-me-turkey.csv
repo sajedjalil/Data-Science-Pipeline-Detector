@@ -1,0 +1,53 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,frtgnn/yam-potatoes-thanksgiving-2018,"Yam & Potatoes, ThanksGiving 2018",Firat Gonen,,2020-04-12T18:13:47.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],95,dont-call-me-turkey
+,,,,,0,michaelapers/lstm-starter-notebook,LSTM Starter Notebook,MichaelApers,,2018-11-20T02:30:28.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,dont-call-me-turkey
+,,,,,0,theoviel/winner-winner-turkey-dinner-lb-0-990,Winner Winner Turkey Dinner ! ->  LB : 0.990,Theo Viel,,2019-03-15T18:16:02.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,dont-call-me-turkey
+,,,,,0,suicaokhoailang/10-fold-lstm-with-attention-0-991-lb,10-fold LSTM with Attention [0.991 LB],Khoi Nguyen,,2018-11-26T22:27:03.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,dont-call-me-turkey
+,,,,,0,rooshroosh/top4-lb-0-991-score-actually-gru-lstm,top4 Lb 0.991 score:  actually GRU >> LSTM ,Ruslan  Talipov,,2018-11-26T05:25:08.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,dont-call-me-turkey
+,,,,,0,sanket30/cudnnlstm-lstm-99-accuracy,CuDNNLSTM + LSTM 99% Accuracy,Sanket(信号),,2018-11-21T08:28:36.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,dont-call-me-turkey
+,,,,,0,ashishpatel26/updated-cuda-dnn-lstm-stacked-model-99,Updated Cuda DNN LSTM Stacked Model (99%),NowYSM,,2018-11-25T04:27:54.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,dont-call-me-turkey
+,,,,,0,ceshine/pytorch-temporal-convolutional-networks,(PyTorch) Temporal Convolutional Networks,Ceshine Lee,,2018-11-24T15:49:34.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,dont-call-me-turkey
+,,,,,0,anikishaev/turkey-competition,Turkey Competition,Andrey Nikishaev,,2018-11-21T11:54:27.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dont-call-me-turkey
+,,,,,0,tauranis/tensorflow-estimator-approach-0-982,TensorFlow Estimator Approach [0.982],Tauranis,,2018-11-27T12:33:57.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dont-call-me-turkey
+,,,,,0,ceshine/pytorch-multilayer-perceptron-mlp-baseline,(PyTorch) Multilayer Perceptron (MLP) Baseline,Ceshine Lee,,2018-11-26T16:16:50.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dont-call-me-turkey
+,,,,,0,karthik7395/exploratory-data-analysis,Exploratory Data Analysis ,Karthik Chowdary Tsaliki,,2018-11-22T10:38:13.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-call-me-turkey
+,,,,,0,winstonvan/van-plan-for-kaggle-swaggle,Van Plan for Kaggle Swaggle,Winston Van,,2018-11-20T23:36:20.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dont-call-me-turkey
+,,,,,0,takaishikawa/turkey-or-not-turkey-that-is-the-question-0-987,"Turkey, or not turkey: that is the question[0.987]",Tak,,2018-11-22T02:50:04.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dont-call-me-turkey
+,,,,,0,teemingyi/turkey-competition,Turkey Competition,Tee Ming Yi,,2018-11-21T09:04:58.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-call-me-turkey
+,,,,,0,deffro/creating-an-extended-dataset-using-youtube-api,Creating an Extended Dataset Using Youtube API,Dimitrios Effrosynidis,,2018-11-21T00:23:47.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-call-me-turkey
+,,,,,0,moghazy/exploratory-data-analysis,Exploratory Data Analysis,Moghazy,,2018-11-20T21:27:11.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dont-call-me-turkey
+,,,,,0,chitramdasgupta/turkey-or-not,Turkey or Not,Chitram Dasgupta,,2020-10-03T12:16:11.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,truocpham/oob-cuda-gru-attention,OOB CuDa GRU Attention,Truoc Pham,,2018-11-29T20:43:34.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,diogomiguelribeiro/2layer-basic-turkeyflow,2Layer Basic TurkeyFlow  ;),Diogo,,2018-11-24T19:36:17.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,rishabh1294/turkey,Turkey,Rishabh Malhotra,,2018-11-22T12:08:20.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,mkowoods/stacked-bidirectional-lstm-test-acc-95,Stacked BiDirectional LSTM - Test Acc: 95%,mkowoods,,2018-11-21T14:43:02.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,takaishikawa/thanks-kaggling-lb-0-990,Thanks Kaggling [LB: 0.990],Tak,,2018-11-23T01:33:28.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,msafi04/gobble-gobble,Gobble Gobble!!,msafi04,,2018-11-21T03:57:45.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dont-call-me-turkey
+,,,,,0,waseeqshiekh/finalwaseeq,finalwaseeq,Waseeq ur Rehman,,2019-07-06T10:36:54.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,usama88333/finalusama,finalUsama,Muhammad Usama Yousaf,,2019-06-29T04:46:46.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,vinaydoshi/calling-turkeys,Calling Turkeys,Vinay Doshi,,2019-06-29T07:32:26.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,hafizurrahman/rnn-gru,RNN (GRU),Hafizur Rahman,,2019-02-21T06:38:44.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,pankajsoni12/turkey-sound-prediction,Turkey_Sound_Prediction,Pankaj Soni,,2019-01-26T07:37:49.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,takaishikawa/this-is-a-real-turkey,This is a real turkey?,Tak,,2018-11-23T03:08:01.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,edhowler/a-choir-of-turkeys-all-turkeys-mixed-together,A choir of turkeys (all turkeys mixed together!),Edmundo Mizutani,,2018-11-22T16:07:19.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,mkowoods/stacked-bid-lstm-w-attention-lb-0-989,Stacked BiD LSTM w Attention - LB: 0.989,mkowoods,,2018-11-21T15:20:52.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,mirodil/cnn-lb-90,CNN LB:90%,Mirodil,,2018-11-21T19:56:54.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,ankurshukla03/turkey-calling-happy-thanksgiving,Turkey Calling...Happy Thanksgiving,AnkurShukla,,2018-11-22T12:53:20.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,smy20011/turkey-sandwich,Turkey Sandwich,Siyuan Ma,,2018-11-22T05:23:01.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,nonreviad/gobbling-recurrent-unit,Gobbling recurrent unit,Andrei Onea,,2018-11-21T02:03:21.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,ishootlaser/turkey-is-found,Turkey is found,Wei Zheng,,2018-11-21T02:01:22.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dont-call-me-turkey
+,,,,,0,gmtw25/turkey,turkey,Julio César,,2019-12-13T02:07:26.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,usama88333/usama,Usama,Muhammad Usama Yousaf,,2019-06-25T05:23:08.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,usama88333/winner-winner-turkey-dinner-lb-0-990,Winner Winner Turkey Dinner ! ->  LB : 0.990,Muhammad Usama Yousaf,,2019-06-25T03:46:39.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,return19/turkey-kernel,Turkey kernel,Abhinandan Sharma,,2019-04-27T21:08:54.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,jatinmittal0001/lstm-attention-layer-cross-validation,LSTM + Attention Layer+ Cross validation,Jatin0001,,2019-04-12T18:41:25.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,dogacandu/identifying-turkey-and-visualizing-via-pca,Identifying turkey  and visualizing  via PCA ,dogacandu,,2018-12-05T11:12:15.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,joanzaldivar/no-frills-turkey,No Frills Turkey,Joan Zaldivar,,2018-11-27T02:47:49.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,winstonvan/let-s-try-transfer-learning-resnet50,Let's try Transfer Learning ResNet50,Winston Van,,2018-11-25T06:32:00.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,emilyst/training-a-basic-neural-network,Training a Basic Neural Network,EmilySt,,2018-11-25T03:54:27.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,fmiyca/hey-that-sounded-like-if-it-was-my-dinner,"Hey, that sounded like if it was my dinner!",Fernando Millán,,2018-11-24T14:40:16.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,ranfea/turkey-jerky,Turkey Jerky ,Tony Raymond,,2018-11-28T22:50:15.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,ashishsinhaiitr/bi-lstm-and-attention,Bi-(LSTM and Attention),AshishSinha,,2018-11-21T14:20:58.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,peterboos/chicken-v2-early-stopping-with-decreasing-lr,Chicken..v2 early stopping  with decreasing lr,Peter Boos,,2018-11-23T00:31:23.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,nonreviad/some-unfunny-pun-about-thanksgiving-foods,Some unfunny pun about thanksgiving foods,Andrei Onea,,2018-11-25T12:16:08.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey
+,,,,,0,kartiksharma522/turkey-spectogram-approach,Turkey Spectogram Approach,Kartik Sharma,,2018-11-21T14:25:13.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dont-call-me-turkey

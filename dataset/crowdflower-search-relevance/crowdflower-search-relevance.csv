@@ -1,0 +1,180 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,abhishek/beating-the-benchmark,Beating the Benchmark ;) 0.57+,Abhishek Thakur,,2015-06-06T08:10:56.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],148,crowdflower-search-relevance
+,,,,,0,triskelion/normalized-kaggle-distance,Normalized Kaggle Distance,Triskelion,,2015-05-15T03:06:35.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],87,crowdflower-search-relevance
+,,,,,0,triskelion/kappa-intuition,Kappa intuition,Triskelion,,2015-06-03T19:10:18.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,crowdflower-search-relevance
+,,,,,0,gshguru/clubbing-2-benchmarks,Stacking BenchSVD-PorterStemmer 0.626,Gurupad Hegde,,2015-06-24T05:09:55.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,crowdflower-search-relevance
+,,,,,0,chenglongchen/customized-softkappa-loss-in-xgboost,Customized softkappa loss in XGBoost ,ChenglongChen,,2015-06-13T09:19:32.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,crowdflower-search-relevance
+,,,,,0,benhamner/python-benchmark,Python Benchmark,Ben Hamner,,2015-05-11T20:16:38.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,crowdflower-search-relevance
+,,,,,0,duttaroy/porter-stemmer,Porter Stemmer,OverfitterScientist,,2015-06-22T03:44:40.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,crowdflower-search-relevance
+,,,,,0,domcastro/utility-write-svd-components-to-file,UTILITY - Write SVD components to file,Bluefool,,2015-06-05T10:33:00.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,crowdflower-search-relevance
+,,,,,0,hiendang/auto-correct-query,auto correct query,Hien Dang,,2015-06-28T15:33:03.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,crowdflower-search-relevance
+,,,,,0,marknagelberg/feature-extraction-for-final-model,Feature Extraction for Final Model,Mark Nagelberg,,2015-07-10T03:51:34.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,crowdflower-search-relevance
+,,,,,0,elenacuoco/cf-nn-py,CF-NN.py ,Elena Cuoco,,2015-06-06T16:39:55.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,crowdflower-search-relevance
+,,,,,0,nikitakis/multiprocessing-clubbing-2-benchmarks,Multiprocessing:Clubbing 2 Benchmarks,Antonis Nikitakis,,2015-06-14T10:52:14.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,crowdflower-search-relevance
+,,,,,0,wendykan/try-beautiful-soup,try beautiful soup,Wendy Kan,,2015-05-26T21:27:13.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,crowdflower-search-relevance
+,,,,,0,benhamner/data-samples,Data Samples,Ben Hamner,,2015-05-11T21:24:54.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,crowdflower-search-relevance
+,,,,,0,lancerts/combined,combined,lancerts,,2015-07-06T23:16:47.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,crowdflower-search-relevance
+,,,,,0,ramarlina/svm-custom-features,SVM + Logistic Regression,Mendrika Ramarlina,,2015-07-06T04:02:23.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,crowdflower-search-relevance
+,,,,,0,puffin/clubbing-2-benchmarks-with-harmonic-mean,clubbing 2 benchmarks-geometric mean,Vinayaka,,2015-07-03T10:47:40.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,crowdflower-search-relevance
+,,,,,0,darraghdog/naive-bayes-on-crowdflower,Mix it up with Naive Bayes - 0.52+,Darragh,,2015-06-01T12:23:14.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,crowdflower-search-relevance
+,,,,,0,duttaroy/test-benchmark,test benchmark,OverfitterScientist,,2015-07-06T22:02:19.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,crowdflower-search-relevance
+,,,,,0,jeeban/gbm-trial,GBM_Trial,Jeeban,,2015-06-21T19:05:52.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,crowdflower-search-relevance
+,,,,,0,justfor/clubbing-2-benchmarks,Again updated Benchmark,Justfor,,2015-06-29T23:07:59.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,crowdflower-search-relevance
+,,,,,0,shubham8111/regression-model,Regression Model,Shubham,,2021-10-30T14:08:28.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,gautigadu091/eda-nlp,EDA - NLP,GowthamCH,,2021-01-24T11:23:28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,allmendinger/five-models-averaged,Five Models Averaged,Bernd Allmendinger,,2015-07-03T15:14:08.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,vicensgaitan/clubbing-2-benchmarks-geometric-mean2,clubbing 2 benchmarks-geometric mean2,Vicens Gaitan,,2015-07-02T06:40:07.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,drpatrickchan/multiprocessing-clubbing-2-benchmarks,Multiprocessing:Clubbing 2 Benchmarks,Patrick Chan,,2015-06-18T09:32:13.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,dlyzer/k-nearest-neighbors,k Nearest Neighbors,D Lyzer,,2015-06-16T21:44:09.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,nkhuyu/benck-mark-new-2-2-df,benck_mark_new_2_2_df,nkhuyu,,2015-06-16T04:05:26.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,titericz/clubbing-2-benchmarks-5,Clubbing 2 Benchmarks 5,Giba,,2015-06-12T00:36:43.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,gshguru/beating-the-benchmark-0-57,Beating the Benchmark ;) 0.57+,Gurupad Hegde,,2015-06-08T03:36:36.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,tjungblut/pure-python-no-blackbox,Pure Python - No Blackbox,Thomas Jungblut,,2015-05-27T06:21:48.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,aditya23/2-python-benchmark,Using the Python Benchmark to Beat it ;),Aditya,,2015-05-21T18:34:05.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,semutter/python-benchmark,Python Benchmark,semut,,2015-05-17T14:57:29.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,crowdflower-search-relevance
+,,,,,0,gautigadu091/calculating-quadratic-kappa-score-manually,Calculating Quadratic Kappa score manually,GowthamCH,,2021-02-03T09:24:36.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,wliang88/notebook4e3dda01fe,Notebook4e3dda01fe,rerock,,2017-01-10T00:25:31.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,kranthisai/kranthi,get started,kranthi sai,,2016-02-28T02:08:31.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,marknagelberg/modelling-script-for-final-submission,Modelling Script for Final Submission,Mark Nagelberg,,2015-07-11T22:14:30.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,cannonjunior/geo-benchmarks,geo_benchmarks,Chris Cannon,,2015-07-06T10:48:02.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,cannonjunior/latest-benchmarks-geometric-mean,latest benchmarks-geometric mean,Chris Cannon,,2015-07-06T10:36:13.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,praveen241/search-result-relevance,search_result relevance,PraveenAgrawal,,2015-07-06T07:06:25.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,praveen241/data-samples,Data Samples,PraveenAgrawal,,2015-07-05T13:59:08.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,owenzhang1/clubbing-2-benchmarks-geometric-mean,clubbing 2 benchmarks-geometric mean,Owen,,2015-07-04T23:51:27.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,tanayz/testing,Testing,Tanay,,2015-07-05T18:19:46.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,priyansu/clubbing-2-benchmarks-geometric-mean,clubbing 2 benchmarks-geometric mean,Priyansu Panda,,2015-07-02T05:49:12.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,drpatrickchan/five-models-averaged-not-optimized,Five Models Averaged - Not Optimized,Patrick Chan,,2015-07-01T04:53:07.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,sonuk7/a-try-with-svc,A try with SVC ,Swaraj Khadanga,,2015-06-30T13:17:32.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,hsperr/clubbing-2-benchmarks,Clubbing 2 Benchmarks,Henning Sperr,,2015-06-28T06:12:26.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,sonuk7/random-forestor,Random Forestor ,Swaraj Khadanga,,2015-06-25T09:58:59.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,malais/searchresult-dataexploration,SearchResult_DataExploration,Malai,,2015-06-23T17:00:02.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,vicensgaitan/gbm-trial-2,GBM_Trial_2,Vicens Gaitan,,2015-06-22T13:56:25.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,drpatrickchan/python-bite,Python Bite,Patrick Chan,,2015-06-18T18:42:46.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,kangminyoo/just-another-script,Just Another Script,Kang Min Yoo,,2015-06-18T06:21:25.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,nkhuyu/benchmark-1-1,Benchmark_1_1,nkhuyu,,2015-06-16T03:22:15.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,nkhuyu/stacking-benchsvd-porterstemmer-0-626,Stacking BenchSVD-PorterStemmer 0.626,nkhuyu,,2015-06-16T04:20:28.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,titericz/clubbing-2-benchmarks-4,Clubbing 2 Benchmarks 4,Giba,,2015-06-11T17:36:31.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,titericz/clubbing-2-benchmarks-2,Clubbing 2 Benchmarks 2,Giba,,2015-06-10T22:26:24.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,mmourafiq/exploring-data,exploring data,mmourafiq,,2015-06-08T21:57:30.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,markpeng/utility-write-svd-components-to-file,UTILITY - Write SVD components to file,Mark Peng,,2015-06-06T04:00:24.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,benhamner/svd-components-bugfix-test,SVD Components - Bugfix Test,Ben Hamner,,2015-06-05T23:43:38.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,gshguru/porter-stemmer-w-o-stop-words,Porter Stemmer w/o stop words,Gurupad Hegde,,2015-06-05T01:19:18.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,jianminsun/mix-it-up-with-naive-bayes-0-52,Mix it up with Naive Bayes - 0.52+,Jianmin Sun,,2015-06-03T05:35:40.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,outliar/flower,flower,Mohammad Shadab Alam,,2015-05-26T11:08:50.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,asimkievich/abisheks-benchmark-beating-for-windows,Abisheks benchmark beating for Windows,Alejandro Simkievich,,2015-05-24T14:30:55.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,spikhalskiy/python-benchmark,fair_lsa,Dmitry Spikhalskiy,,2015-05-17T13:47:59.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,crowdflower-search-relevance
+,,,,,0,dindar/crowdflower,crowdflower,Zharkynbek Dindar,,2020-08-06T04:41:19.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jihyeseo/eda-crowdflower-search-ecommerce,eda crowdflower search ecommerce,Jihye Sofia Seo,,2018-05-08T15:53:21.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,khrushch/notebookb609edfec8,Notebookb609edfec8,KaterinaKhrushch,,2016-12-11T11:37:17.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,wangqiqi/test-11-7,test_11.7,emmm,,2016-11-07T10:28:28.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,dujiajun/notebookf89748e7e6,Notebookf89748e7e6,Du Jiajun,,2016-10-13T02:00:38.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,masadof/ofri-guy,Ofri&Guy,Ofri Masad,,2016-05-21T12:43:30.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,zhaoxiugao/porter-stemmer,Porter Stemmer,EdwinZhao,,2016-03-24T15:43:26.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jesselinson/beating-the-benchmark-0-57,Beating the Benchmark ;) 0.57+,jlin,,2016-03-14T09:14:12.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,kranthisai/drop-html-tags,drop html tags,kranthi sai,,2016-03-07T19:24:44.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,yasirkhan/testing,testing,Rambo,,2016-01-26T13:46:06.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,praveen241/summer-intern-final,summer_intern_final,PraveenAgrawal,,2015-08-03T18:05:20.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,praveen241/summer-intern,summer_intern,PraveenAgrawal,,2015-08-03T09:51:24.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,praveen241/python-be2nchmark,Python Be2nchmark,PraveenAgrawal,,2015-08-03T09:49:23.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,runner501/beating-the-benchmark-0-57,Beating the Benchmark ;) 0.57+,runner501,,2015-07-28T15:40:43.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,pippobaudos/normalized-kaggle-distance,Normalized Kaggle Distance,NiccolòBecchi,,2015-07-24T16:55:27.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,ouranos/combined,combined,Ouranos,,2015-07-06T22:42:26.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,milivojevic/clubbing-2-benchmarks-geometric-mean,clubbing 2 benchmarks-geometric mean,Čeduljko,,2015-07-06T09:26:02.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,meanmongo/simple-tweak-to-baseline-0-55,Simple Tweak to Baseline +0.55,dt,,2015-07-05T17:12:53.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,drpatrickchan/clubbing-2-benchmarks-geometric-mean,clubbing 2 benchmarks-geometric mean,Patrick Chan,,2015-07-05T16:06:13.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,ouranos/customized-softkappa-loss-in-xgboost,Customized softkappa loss in XGBoost ,Ouranos,,2015-07-05T14:37:07.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,praveen241/data-samples1,Data Samples1,PraveenAgrawal,,2015-07-06T03:36:04.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,oleksiirenov/clubbing-2-benchmarks-geometric-mean,clubbing 2 benchmarks-geometric mean,Oleksii Renov,,2015-07-06T10:49:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,owenzhang1/test-version1,test version1,Owen,,2015-07-05T02:57:23.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,ouranos/clubbing-2-benchmarks-geometric-mean-aga,clubbing 2 benchmarks-geometric mean aga,Ouranos,,2015-07-06T17:48:42.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,lishubin/test-code,test code,Shubin,,2015-07-02T12:51:46.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,yifanma/testtdb,testtdb,Yifan Ma,,2015-07-02T03:16:00.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,tanayz/test-benchmark,test benchmark,Tanay,,2015-07-03T16:59:31.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,hsperr/testing,Testing,Henning Sperr,,2015-07-02T13:32:37.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jeeban/new-try,new_try,Jeeban,,2015-07-02T16:37:57.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jeeban/beating-benchmark-0-57,Beating Benchmark ;-) 0.57 +,Jeeban,,2015-07-01T15:37:07.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,ceobillionaire/beating-benchmark-0-57,Beating Benchmark ;-) 0.57 +,Vincent Boucher,,2015-07-01T14:14:46.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,lb08abu/load-of-nothing,Load Of Nothing,lb08abu,,2015-07-01T13:11:29.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,littlekid/five-models-averaged-not-optimized,Five Models Averaged - Not Optimized,littlekid,,2015-07-01T06:05:21.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jeeban/old-code,Old_Code,Jeeban,,2015-07-01T17:26:35.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,victorcantor/clubbing-svm-and-rf,clubbing svm and rf,Sloth,,2015-06-30T15:24:21.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,denistsitko/preds2,preds2,Denis Tsitko,,2015-07-02T12:05:46.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,denistsitko/preds1,Preds1,Denis Tsitko,,2015-06-30T10:05:52.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,lancerts/clubbing-2-benchmarks,clubbing 2 benchmarks,lancerts,,2015-06-30T08:06:45.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jeeban/rf-starter,RF_starter,Jeeban,,2015-06-29T14:43:54.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,haibowu/try-another-benchmark,try another benchmark,haibo wu,,2015-06-29T14:49:01.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,hsperr/clubbing-2-benchmarks-geometric-mean,clubbing 2 benchmarks-geometric mean,Henning Sperr,,2015-06-29T23:06:24.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,antonbalboa/five-models-averaged-not-optimized,Five Models Averaged - Not Optimized,antonbalboa,,2015-06-29T09:25:17.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,nkhuyu/again-updated-benchmark,Again updated Benchmark,nkhuyu,,2015-06-29T03:34:41.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,hsperr/again-updated-benchmark,Again updated Benchmark,Henning Sperr,,2015-06-28T23:37:37.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,dstuck/python-benchmark,Python Benchmark,dstuck,,2015-07-02T14:25:12.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,nkhuyu/ng5stacking-benchsvd-porterstemmer-0-626,ng5Stacking BenchSVD-PorterStemmer 0.626,nkhuyu,,2015-06-28T02:47:18.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,winston990839/hello-world,Hello World,Winston_wu,,2015-06-27T14:57:37.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,upulbandara/again-updated-benchmark,Again updated Benchmark,Upul Bandara,,2015-06-27T10:53:56.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,iron0012/four-models-averaged-knn,four Models Averaged (-knn),iron0012,,2015-06-29T14:53:18.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,teracrator/five-models-averaged,Five Models Averaged,Teracrator,,2015-06-26T19:38:07.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,sairaviteja/taking-mode-not-mean,taking mode not mean,karanamsairaviteja,,2015-06-26T05:24:10.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,hmnshu/five-models-averaged-not-optimized2,Five Models Averaged - Not Optimized2,Himanshu Gamit,,2015-06-25T16:39:22.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,sukhonosenko/porterstemmer,Porterstemmer,Anton Sukhonosenko,,2015-06-25T15:35:15.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,hmnshu/five-models-averaged-not-optimized,Five Models Averaged - Not Optimized,Himanshu Gamit,,2015-06-25T15:23:55.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,dbuffoni/five-models-averaged-not-optimized,Five Models Averaged - Not Optimized,amisate dav,,2015-06-25T08:52:25.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,nkhuyu/beating-the-benchmark-rf,Beating the Benchmark Logistic2,nkhuyu,,2015-06-25T02:48:34.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,nkhuyu/stacking-benchrf-porterstemmer-0-626,Stacking BenchRF-PorterStemmer 0.626,nkhuyu,,2015-06-25T02:05:33.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,gnovoselov/searchresult-dataexploration-extension,SearchResult_DataExploration_Extension,Gennady,,2015-06-24T15:03:31.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,gnovoselov/gn-initial-python,GN_initial_python,Gennady,,2015-06-24T12:53:50.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,gnovoselov/initial-python-commit,Initial python commit,Gennady,,2015-06-24T14:44:00.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,gnovoselov/initial-python,Initial Python,Gennady,,2015-06-24T06:28:31.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,vastrizhkova/test1,test1,Valeria Strizhkova,,2015-06-23T16:32:52.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,koushik/test1,Test1,Koushik Saha,,2015-06-23T11:44:39.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,victorcantor/blending-2-benchmarks,Blending 2 Benchmarks,Sloth,,2015-06-24T10:46:58.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,rogerwu/test-00,test_00,Roger Wu,,2015-06-23T00:19:45.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,nkhuyu/porter-stemmer,Porter Stemmer,nkhuyu,,2015-06-21T16:46:17.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,whitetigersfu/trying-a-few-changes,Trying a few changes,WhiteTiger,,2015-06-21T01:04:09.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jeeban/rf-trial,RF_Trial,Jeeban,,2015-06-21T06:33:21.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,scottlittle/testing123,testing123,Scott Little,,2015-06-19T05:42:32.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jeeban/svm-code-porter,SVM_Code_Porter,Jeeban,,2015-06-21T06:30:34.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,dataxing/firsttest,firsttest,Dolly,,2015-06-17T21:31:20.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,nkhuyu/kappa-intuition,Kappa intuition,nkhuyu,,2015-07-06T21:36:41.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,yshan1980/my-test-script,my test script,ShanYin,,2015-06-15T11:31:43.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,thakurrajanand/testing-2,Testing,DataGeek,,2015-06-10T20:40:00.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,popfido/porter-stemmer,Porter Stemmer,Fido WANG,,2015-06-08T13:31:49.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,uygaryo/normalized-kaggle-distance-v-4,Normalized Kaggle Distance v.4,Uygar Yoloğlu,,2015-06-08T13:31:01.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,retep007/succumbing-to-benchmark-fork,Succumbing to benchmark fork,Peter Hrvola,,2015-06-08T11:23:33.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,lazycoder/python-benchmark,Python Benchmark,lazycoder,,2015-06-07T03:33:17.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,onepau/utility-write-svd-components-to-file,UTILITY - Write SVD components to file,onepau,,2015-06-06T16:00:22.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,ntartania/python-benchmark,Python Benchmark,AMDJ,,2015-06-04T20:27:26.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,jordanqiaoyh/test1,test1,jordan,,2015-06-04T13:51:19.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,turnersmith/getting-started,getting started,turner,,2015-06-01T21:45:54.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,haibowu/testcf,testcf,haibo wu,,2015-05-31T06:16:49.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,wooohooo/python-benchmark,Python Benchmark,Thomas Rost,,2015-05-30T20:47:14.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,wooohooo/weeeellllll,weeeellllll,Thomas Rost,,2015-05-30T20:04:16.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,outliar/pure-python-no-blackbox,Pure Python - No Blackbox,Mohammad Shadab Alam,,2015-05-29T04:28:46.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,yogeshbendre/trial,Trial,yogeshbendre,,2015-06-06T17:45:40.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,ceobillionaire/dreaming-in-python-v0-10,Dreaming in Python v0.10,Vincent Boucher,,2015-05-27T21:02:22.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,rdwrer/succumbing-to-benchmark-fork2,Succumbing to benchmark fork2,Adi,,2015-05-27T22:24:12.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,rdwrer/succumbing-to-benchmark-fork,Succumbing to benchmark fork,Adi,,2015-05-27T19:42:34.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,stevolkm/beating-the-benchmark-0-57,Beating the Benchmark ;) 0.57+,UPB Stephan Volkmann,,2015-05-27T17:57:19.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,triskelion/porter-stemmer,Porter Stemmer,Triskelion,,2015-06-05T21:42:17.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,aiwagan/succumbing-to-benchmark-fork,Succumbing to benchmark fork,Asim,,2015-05-27T15:42:35.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,garyblanpied/test2015,test2015,Gary Blanpied,,2015-05-26T20:09:45.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,outliar/sys-info,sys_info,Mohammad Shadab Alam,,2015-05-25T16:36:37.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,charmchi/succumbing-to-benchmark-fork,Succumbing to benchmark fork,Sadegh,,2015-05-26T13:04:52.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,taboada/test1,Test1,Tiago,,2015-05-25T12:43:24.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,asimkievich/beating-the-benchmark-kind-of,Beating the Benchmark kind of,Alejandro Simkievich,,2015-05-22T23:53:15.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,kirubakumaresh/beating-the-benchmark,Just go with the crowd,Kirubakumaresh rajendran,,2015-05-27T09:24:08.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,cyrammoon/python-benchmark,Python Benchmark,MOON,,2015-05-19T09:49:16.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,oustad/test-yo,Test Yo,Yassine Loudad,,2015-05-18T12:06:01.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,maryfatima/beating-the-benchmark,Beating the Benchmark,CS822_MaryamQamar-SughraRazzaq,,2015-05-18T11:01:10.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,maryfatima/search-result-relevance,search result relevance,CS822_MaryamQamar-SughraRazzaq,,2015-05-18T10:46:42.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,daniharsh28/beatin,Beatin,Harsh Dani,,2015-05-15T19:56:19.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,wavereel/first-test,First Test,\    ({})    /,,2015-05-15T18:09:57.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,mlandry/beating-the-benchmark,Beating the Benchmark ;),mlandry,,2015-05-18T15:31:17.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,thakurrajanand/beating-the-benchmark,Beating the Benchmark ;),DataGeek,,2015-05-18T20:53:36.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,charmchi/beating-the-benchmark,Beating the Benchmark ;),Sadegh,,2015-05-24T09:14:18.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,andrep/script-trial,script trial,Andre Platzman,,2015-05-13T20:35:50.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,echamp/normalized-kaggle-distance-elio,Normalized Kaggle Distance ELIO,Elio Champenois,,2015-05-13T01:39:24.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,echamp/normalized-kaggle-distance,Normalized Kaggle Distance,Elio Champenois,,2015-05-13T00:15:45.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,dylbet121/test-script,Test Script,DylanFrench,,2015-05-12T11:27:50.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,molozhenko/beating-the-benchmark,Beating the Benchmark ;),Evgeniy Molozhenko,,2015-05-22T03:02:25.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,benhamner/python-default-text,Python Default Text,Ben Hamner,,2015-05-11T20:05:30.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance
+,,,,,0,benhamner/fiddling-with-python-2,Fiddling With Python,Ben Hamner,,2015-05-11T21:23:07.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,crowdflower-search-relevance

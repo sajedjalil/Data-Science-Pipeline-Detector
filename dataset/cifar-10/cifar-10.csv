@@ -1,0 +1,188 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,roblexnana/cifar10-with-cnn-for-beginer,cifar10 with CNN for beginer,roblex nana,,2020-05-25T15:54:11.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,cifar-10
+,,,,,0,datajameson/cifar-10-object-recognition-cnn-explained,🚗 🐈✈️⛵Cifar-10 Object Recognition(CNN) Explained,datajameson,,2021-01-24T17:28:35.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,cifar-10
+,,,,,0,kedarsai/cifar-10-88-accuracy-using-keras,CIFAR 10 88% Accuracy using Keras,Kedar,,2022-02-03T10:47:21.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,cifar-10
+,,,,,0,amithasanshuvo/cifar-images-classification-using-cnn,CIFAR Images classification using CNN,Amit Hasan Shuvo,,2020-05-08T02:58:38.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,cifar-10
+,,,,,0,vikasbhadoria/cifar10-high-accuracy-model-build-on-pytorch,Cifar10 high accuracy model build on PyTorch,Vikas Bhadoria,,2020-06-18T17:27:13.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,cifar-10
+,,,,,0,faizanurrahmann/cifar-10-object-classification-best-model,CIFAR-10 object classification Best model,Faizanur Rahman,,2021-07-17T20:48:22.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,cifar-10
+,,,,,0,devsubhash/cifar-10-image-classification-using-cnn,CIFAR-10 | Image Classification | Using CNN,Devashree Madhugiri,,2022-06-06T14:00:09.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,cifar-10
+,,,,,0,francescolorenzo/96-fine-tuning-resnet34-with-pytorch,[96%] Fine-tuning ResNet34 with PyTorch,FrancescoLorenzo,,2021-08-06T09:36:03.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,cifar-10
+,,,,,0,yashvi/machine-learning-using-turi-create,Machine learning using Turi create,Yashvi Patel,,2020-07-23T04:56:41.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,cifar-10
+,,,,,0,sinjoysaha/federated-learning-mnist-cifar-10,Federated Learning - MNIST / CIFAR-10,Sinjoy Saha,,2021-07-13T16:36:30.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cifar-10
+,,,,,0,pg1007/starting-with-cnn,Starting with cnn,Priyanka Gupta ,,2020-07-24T18:26:57.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cifar-10
+,,,,,0,kalashnimov/keras-callbacks-with-91-acc,Keras Callbacks with 91% acc,Jie Hu,,2020-09-09T07:24:57.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cifar-10
+,,,,,0,himahima/cifar-10-image-classification-using-cnn,Cifar-10 Image Classification using CNN,Ibrahim Heshmat,,2020-09-23T16:04:59.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,cifar-10
+,,,,,0,songrise/implementing-resnet-18-using-keras,Implementing ResNet-18 Using Keras,Ruixiang JIANG,,2021-01-28T17:02:40.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cifar-10
+,,,,,0,toygarr/resnet-implementation-for-image-classification,ResNet Implementation for Image Classification,Toygar Tanyel,,2022-02-01T23:16:21.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cifar-10
+,,,,,0,nataliakhol/cifar10-transfer-learning,CIFAR10 Transfer Learning,Nat Khol,,2021-10-31T11:42:33.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cifar-10
+,,,,,0,abhishekshaw21/cifar-10-using-pytorch,CIFAR-10 using PyTorch,Abhishek Shaw,,2020-08-28T11:08:54.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cifar-10
+,,,,,0,ujjwalsharma26/cifar10-classification,CIFAR10-Classification,Ujjwal Sharma,,2020-07-12T16:05:34.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cifar-10
+,,,,,0,errearanhas/simple-custom-cnn-for-cifar-10-classification,simple custom CNN for Cifar-10 classification,Renato Aranha,,2021-04-07T04:42:04.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cifar-10
+,,,,,0,aarooxx/object-recognition-90-88-accuracy,object recognition 90.88% accuracy,aarooxx,,2020-07-29T17:08:21.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cifar-10
+,,,,,0,franckepeixoto/cifar-10-recognition-in-images-to-the-point, CIFAR 10 - Recognition in Images / to the point.,Francke Peixoto,,2020-06-09T19:58:45.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cifar-10
+,,,,,0,yogeshrampariya/cifar10-classification-with-alexnet-on-pytorch,Cifar10 Classification with AlexNet on Pytorch ,Yogesh Rampariya,,2022-01-14T16:05:43.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cifar-10
+,,,,,0,saileshnair/cifar-solution,cifar solution,Sailesh Nair,,2021-07-31T15:03:28.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cifar-10
+,,,,,0,vakninmaor/cifar-10-for-beginners-score-90,CIFAR-10 - for beginners (score: ~90%),VakninMaor,,2021-03-22T11:01:21.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cifar-10
+,,,,,0,lkatran/blank-cifar-10,blank_CIFAR_10,Aleksandr,,2020-09-24T10:54:13.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cifar-10
+,,,,,0,shaurov/cifar-image-classification-using-cnn-for-beginner,CIFAR image classification using CNN for beginner,Sayad Ahmed,,2020-09-12T14:56:29.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cifar-10
+,,,,,0,nghihuynh/cifar-10-mlp-cnn-resnet9-classifier,"CIFAR-10: MLP, CNN, ResNet9 Classifier",Nghi Huynh,,2022-05-17T16:05:22.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cifar-10
+,,,,,0,nersesaghababyan/cifar-10-top10-eu,cifar 10 top10 eu,Nerses Aghababyan,,2022-02-03T13:49:20.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cifar-10
+,,,,,0,greatcodes/pytorch-cnn-resnet18-cifar10,Pytorch-CNN_Resnet18-CIFAR10,desi_avenger,,2020-09-18T14:06:13.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cifar-10
+,,,,,0,jainishsavalia/cifar-cnn,CIFAR_CNN,Jainish Savalia,,2022-04-08T06:56:45.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,seholeee/cifar10-practice-cnn,CIFAR10 Practice(CNN),seholeee,,2022-02-19T12:45:46.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,abdallamahmoudamin/stanford-assignment-2-cifar10,Stanford Assignment 2 Cifar10,ABDALLA MAHMOUD AMIN,,2021-10-11T20:57:03.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,zyper26/cnn-cifar10-image-classification-model-with-bn,CNN (CIFAR10) Image Classification | Model with BN,Shubham Chaurasia,,2021-09-25T19:29:09.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,fanbyprinciple/cifar10-with-simple-convolutions-in-pytorch,Cifar10 with simple convolutions in pytorch ,Ami,,2021-03-12T02:06:51.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,raghavjha858/cifar-10-image,cifar 10 image ,raghav jha,,2020-11-06T09:16:27.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,arifintahu/pytorch-cnn-cifar10-classification,Pytorch CNN  CIFAR10 Classification,Miftahul Arifin,,2020-06-15T03:10:09.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,intissarharras/vgg16-cifar-10-tet,vgg16_CIFAR_10_TET,intissar Harras,,2020-01-31T00:28:42.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,leihao1313/cnn-cifar10,CNN CIFAR10,Hao Lei,,2019-12-29T08:42:52.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cifar-10
+,,,,,0,orangecatman/efficientnet-b7-cifar,使用EfficientNet-B7_遷移式學習_中文筆記_CIFAR資料集,Orangecatman,,2022-06-28T15:24:04.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,chloezzzzzzz/cifar10,大作业cifar10,Chloezzzzzzz,,2022-06-08T17:11:37.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,bhattdevansh/rnn-code,RNN_code,BHATT DEVANSH,,2022-04-03T08:48:01.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,mustafakeser4/cifar10-classification,cifar10  classification,Mustafa Keser,,2022-04-01T12:07:46.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,lvarosncheztrtola/cifar-10,Cifar 10,Álvaro Sánchez Tórtola,,2022-01-30T21:55:52.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,hemamounika/cifar-10,CIFAR-10,Hema Mounika,,2021-08-03T13:47:07.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,dhinakarswamy/cifar-10-object-recognition-in-images-rules, CIFAR-10 - Object Recognition in Images Rules,Dhinakar Swamy,,2021-08-02T14:55:25.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,nirmalvignu/cifar-10,CIFAR-10,Nirmal Vignu,,2021-08-01T16:06:43.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,adamjanowski/cifar-10-siec-konwolucyjna,Cifar-10 Siec konwolucyjna,Adam Janowski,,2021-06-17T08:26:07.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,skydevour/cifar-10-for-beginner,CIFAR-10 for beginner,Skydevour,,2021-02-23T05:27:15.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,olegmatsevych/notebook0d79dc2184,notebook0d79dc2184,Oleg Matsevych,,2020-11-12T22:11:13.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,sahil2398/cifar-10-with-augmentation,CIFAR-10 with augmentation,Sahil Arora,,2020-07-14T18:41:49.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,vivekhn/cifar-10-images-classification-using-cnns,CiFAR-10 Images Classification Using CNNs,Vivek Narayan,,2020-07-04T14:05:51.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,karam123/cnn-and-lenet-on-cifar10,cnn_and_lenet _on_cifar10,karamveer gahlot,,2020-06-24T04:36:46.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,mentalomega/convert-the-data-to-hdf5-and-use-keras-to-get-0-71,convert the data to hdf5 and use keras to get 0.71,west wood,,2020-06-13T10:14:20.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cifar-10
+,,,,,0,nurullahahin/cifar-10-cnn,cifar_10_CNN,Nurullah Şahin,,2022-06-27T23:45:24.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,tyonemoto/cifar10-with-cnn-for-beginer,cifar10 with CNN for beginer,yone-moto,,2022-05-10T06:02:00.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,michaelrocchio/dnn-cnn-transformer-with-keras,"🚙🦮🛳 DNN, CNN, & Transformer with Keras",Michael Rocchio,,2022-04-25T09:12:28.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,filippavii/cifar10-cnn-doljanin-pavicic-mobilenet-v3-large,cifar10_CNN_Doljanin_Pavicic_mobilenet_v3_large,Filip Pavičić,,2022-04-04T17:12:35.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,yosafatyuliusriders/cifar-10-with-convolutional-neural-networks,CIFAR-10 with Convolutional Neural Networks,Yosafat Yulius Riders Kaunang,,2022-02-18T15:16:55.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,yasminaela/mini-projet-cifar-10,mini-projet: cifar-10,Yasmina EL ALLATI,,2022-02-18T10:35:32.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,mohammedezzakkar/cifar-10-object-recognition,CIFAR-10 Object Recognition,MOHAMMED EZZAKKAR,,2022-03-01T12:59:04.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,arianshf/cifar-10-classification-using-cnn,Cifar-10 Classification using CNN,Arian Shaafi,,2022-01-02T15:47:55.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,snikhil17/cifar-10,CIFAR-10,Nikhil Shrestha,,2021-10-31T04:57:16.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,chimaralavamshireddy/cifar10-image-classification,CIFAR10 Image Classification,chimaralavamshireddy,,2021-10-29T04:17:28.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,chaudhariabhishek/cifar-10-dataset-for-object-detection,CIFAR 10 Dataset for Object Detection,Chaudhari Abhishek,,2021-09-19T07:56:43.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,tarunnagavinaysai/cifar,CIFAR,Tarun Naga Vinay Sai,,2021-08-03T14:00:55.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,darynakozak/cnn-on-cifar-10-0-8-test-accuracy,CNN on CIFAR-10 (~0.8 test accuracy),Daryna Kozak,,2021-04-30T17:34:26.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,fanbyprinciple/cifar10-exploration-using-pytorch-part-1,Cifar10 exploration using pytorch - PART 1,Ami,,2021-03-03T02:16:49.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,skydevour/cifar-10,CIFAR 10,Skydevour,,2021-02-22T16:21:20.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,kundankumarmandal/cifar-10-dataset,cifar-10-dataset,Kundan Kumar Mandal,,2021-02-12T16:13:01.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,jayantawasthi/cifar10,cifar10,jayant awasthi,,2020-11-21T14:18:53.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,nukhugama/cifar10-classification-using-cnn-inception-resnet,Cifar10 Classification using CNN- Inception-ResNet,Simião S. da Gama,,2020-10-14T13:12:14.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,yfyangd/senet-approach,SENet Approach,Yang Yuan Fu,,2020-05-29T06:40:56.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,enriqueabad/neural-network-basics-with-tensorflow-and-keras,Neural network basics with TensorFlow and Keras,Enrique Abad,,2020-06-05T03:19:02.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,jianghanhan/cifar-10-in-chinese,cifar-10 in Chinese ,拿来吧你,,2020-05-14T09:54:23.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cifar-10
+,,,,,0,gunjanpaul/cifar10-pytorch-cnn,CIFAR10 | PYTORCH CNN,Gunjan Paul,,2022-04-02T07:29:54.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,bhattdevansh/cifar-wo-tl,cifar_wo_tl,BHATT DEVANSH,,2022-03-27T15:49:48.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,jashmavani/dl-cifar-cnn,DL_CIFAR_CNN,JASH MAVANI,,2022-05-06T04:43:59.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,darvikitaliya/20bce509-cifer10-cnn-pra4,20BCE509_CIFER10_CNN_pra4,DARVIK ITALIYA,,2022-05-05T15:14:48.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,jeanbarbapapa/ds05-cifar10-with-autoencoder,DS05 - Cifar10 with autoencoder,Jean-Baptiste Caplan,,2022-03-10T10:31:26.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,bhingradiyameet/ciphar10-wo-tl,CIPHAR10_WO_TL,BHINGRADIYA MEET,,2022-05-05T15:44:08.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,gargmanav/cifar-10-prediction-without-transfer-learning,CIFAR-10 prediction without Transfer Learning,GARG MANAV,,2022-05-06T04:36:35.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,hirparaharshal/cifar-10-no-transfer-learning,CIFAR 10 -- No transfer learning,Mugiwara_no_luffy,,2022-05-05T17:38:16.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,seholeee/cifar10-with-cnn-practice,CIFAR10 with CNN Practice,seholeee,,2022-02-23T08:50:25.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,oukhirahalachaimae/mini-projet-ml,mini_projet_ML,Oukhira Hala Chaimae,,2022-02-19T07:59:46.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,suriyae1305/basic-neural-network-with-cifar10-using-keras,Basic Neural Network with CIFAR10 using keras,SURIYAE1305,,2022-02-12T19:12:12.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,xcwang21/cifar10-with-mlp-lenet-resnet-for-beginners,"cifar10 with MLP, LeNet, ResNet for beginners",xc-wang21,,2021-12-02T02:43:36.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,arkacze/cifar10-lenet-pytorch,Cifar10 Lenet PyTorch,Arek,,2021-11-23T21:33:04.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,sravanirayapati/cifar-10,cifar-10,Sravani_Rayapati,,2021-08-03T17:11:18.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,dingjasmine/hw6-vgg16,HW6 VGG16,DingJasmine,,2021-07-17T07:43:07.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,suvinkollabathula/cnn-cifar-suvin-unklab-final,CNN - Cifar - suvin UNKLAB FINAL,Suvin Kollabathula,,2021-06-14T08:18:10.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,markjibrilmononutu/cifar-10-cnn-mark,Cifar-10_CNN - Mark,Mark Jibril Mononutu,,2021-06-14T03:31:14.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,busekseolu/cifar-10-with-functional-api-for-beginners,CIFAR-10 with Functional API for Beginners,Buse Köseoğlu,,2021-03-18T13:25:07.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,phsaikiran/cifar-10,CIFAR 10,P H Sai Kiran,,2021-01-19T09:28:28.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,mooncrater/cifar-10-with-densenets-transfer-learning,CIFAR 10 with DenseNets (Transfer Learning),Rohit Singh,,2020-12-07T06:50:48.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,heyi2020/cifar10-sknet,Cifar10 SKNET,heyi2020,,2020-10-13T00:52:50.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,lkatran/pretrain-models-cifar-10,Pretrain_models_CIFAR_10,Aleksandr,,2020-10-01T10:17:33.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,mritunjaisingh/cifar-10-object-detection,CIFAR-10 object detection,Mritunjai Singh,,2020-09-08T15:04:56.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,andreigor08/cifar10-andreigor,Cifar10_AndreIgor,Andre Igor Nobrega da Silva,,2020-06-02T21:59:13.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,gvsgoutham/cifar-10-cnn-novice,cifar-10 CNN Novice,Gvs Goutham,,2020-05-19T07:11:11.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,jihanelhb/mini-projet,mini_projet,jihane lhb,,2020-01-31T17:15:37.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cifar-10
+,,,,,0,splav12341/cifar-10,CIFAR-10,Splav12341,,2022-05-25T16:33:10.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,thindngngc/training-multi-model-with-original-data,Training multi model with original data,Thiện Dương Ngọc,,2022-05-23T03:47:28.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,thindngngc/continue-training-model,Continue training model,Thiện Dương Ngọc,,2022-05-25T06:25:00.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,mistrysunny/19bce131-withouttl,19BCE131_WithoutTL,MISTRY SUNNY,,2022-05-09T04:07:34.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kalariabhargav/cifar10-transfer-learning,CIFAR10-TRANSFER LEARNING,KALARIA BHARGAV,,2022-05-04T02:36:52.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kalariabhargav/simplecifar10,SIMPLECIFAR10,KALARIA BHARGAV,,2022-04-20T07:16:05.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,aayush349/cifar-10-transfer-learning-trial-2,cifar-10 | transfer learning trial 2,Aayush Shah,,2022-04-07T18:22:18.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,movaliyajaykumar/19bce134-cifar10-wotl,19BCE134_CIFAR10_WOTL,MOVALIYA JAYKUMAR,,2022-04-08T02:32:46.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,davawalamanan/cifar-ffd,CIFAR ffd,DAVAWALA MANAN,,2022-05-05T10:24:08.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,bhingradiyameet/ciphar10-wi-tl,CIPHAR10_WI_TL,BHINGRADIYA MEET,,2022-05-06T08:26:43.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,braunge/cifar-10-cnn-89-5,CIFAR-10 CNN 89.5%,BraunGe,,2022-04-06T04:29:35.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,tanmayj3601/19bce089-transfer-learning-and-data-augmentation,19BCE089_TRANSFER LEARNING AND DATA AUGMENTATION,tanmay_j3601,,2022-04-20T05:27:57.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,aayush349/cifar-10-convolutional-layer,cifar-10 | convolutional layer,Aayush Shah,,2022-03-28T10:57:37.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,preet45/cifar-10,CIFAR-10,PREET45,,2022-04-08T05:49:09.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,meetvora090201/cifar-10-using-competition-dataset,CIFAR 10 using competition dataset,Meet_Vora_19BCE299,,2022-03-25T01:20:59.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,mihirbhanderi1310/cifar-10,CIFAR_10,MihirBhanderi,,2022-03-22T16:47:02.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,harshwardhanyadav/19bce301-cifar10-cnn,19BCE301_CIFAR10_CNN,Harshwardhan Yadav,,2022-03-27T18:14:51.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,shahsmit45/cifar-10-cnn,CIFAR 10 CNN,smit33,,2022-04-22T12:40:00.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,aumkhant/cifar-10-transfer-learning,CIFAR-10_TRANSFER_LEARNING,aum khant,,2022-05-05T11:59:10.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,lilpegasus/cifar-mobilenet,CIFAR mobilenet,Sai Ganesh,,2022-02-22T15:15:09.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,bimbimsimonstock/cifar-10-with-convolutional-neural-networks,CIFAR-10 with Convolutional Neural Networks,Renaldy Simon,,2022-02-20T17:45:29.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,rivaldobogar/cifar-10-bogarrivaldo,Cifar-10 BogarRivaldo,Rivaldo Bogar,,2022-02-19T13:33:04.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,sayowabdielpieroh/cifar-10-with-convolutional-sayow,CIFAR-10 with Convolutional sayow,Sayow Abdiel Pieroh ,,2022-02-19T01:29:03.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,anandaaditya/practical-1-computer-vision,Practical #1 Computer Vision,Ananda Aditya,,2022-02-14T08:47:06.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,wafaebaaza/miniprojet-cifar10,MiniProjet_Cifar10,Wafae BAAZA,,2022-02-19T01:09:43.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,ferdinandrattu/cifar-10-with-convolutional-neural-networks,CIFAR-10 with Convolutional Neural Networks,Ferdinand Rattu,,2022-02-17T02:37:35.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,arababudu/aba-cifar10,[ABA] CIFAR10 ,Araba Budu,,2022-02-15T00:07:55.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,imanmkhamis/cifar-10-dnn,"CIFAR-10, DNN",Iman M Khamis,,2022-02-04T19:32:33.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,polinadubatovka/cifar-10,Cifar-10,polina dubatovka,,2022-01-31T10:59:33.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,matzoer/notebook296791b689,notebook296791b689,Matzoer,,2022-01-29T18:07:37.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,patricksto/cifar-10-working-2,cifar-10-working-2,Patrick S,,2022-01-30T22:20:08.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,shuchismitj/notebookaa4f1a8fe0,notebookaa4f1a8fe0,SHUCHISMITJ,,2021-12-06T15:20:17.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,ivansavchuk/tensorflow-conv-finetuning-resnet,Tensorflow conv + fineTuning ResNet,Ivan Savchuk,,2021-10-31T14:06:56.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,lewtas/cifar-10-for-kourse,Cifar-10 for kourse,Lewtas,,2022-01-10T08:26:59.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,shubhiijain/cifar10,Cifar10,Shubhiijain,,2021-08-15T11:14:28.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,zlanan/cifar10-high-accuracy-model-build-on-pytorch,Cifar10 high accuracy model build on PyTorch,zlannn,,2021-08-08T09:16:41.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,keerthi182e5/cifar-10,cifar-10,Keerthi 18-2E5,,2021-08-03T07:24:18.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,onasveebanarse/cifar-10-image-detection-using-ann-and-cnn,CIFAR-10-image detection using ANN and CNN,Onasvee Banarse,,2021-08-27T16:53:40.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,riturajtalukdar12/cifar10,cifar10#,RITURAJ TALUKDAR,,2021-07-21T06:24:22.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,reponpon777/notebook328e4b1fb7,notebook328e4b1fb7,Reponpon 777,,2021-07-27T09:57:42.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kubo1987/notebookf9da83887d,notebookf9da83887d,KuBo_1987,,2021-07-16T05:08:15.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kashiwagids/cifar10-cnn,cifar10 - CNN,Kashiwagi_DS,,2021-07-29T07:10:08.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,elshacgr/cifar-10-cnn,CIFAR-10 CNN,Elshacgr,,2021-06-14T06:06:03.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,datakagglesem/cifar-10-with-convolutional-neural-networks,CIFAR-10 with Convolutional Neural Networks,Semmy W. Taju,,2021-06-10T09:09:24.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,andrii0yerko/cnn-with-keras,CNN with Keras,Andrii Yerko,,2021-05-17T11:57:09.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,ashalali/notebook2d9c2f7aca,notebook2d9c2f7aca,ASHAL ALI ,,2021-01-14T15:13:08.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,aeunal/unsupervised-learning-iic-image-clustering,Unsupervised Learning - IIC - Image Clustering,Ahmet Emin Ünal,,2021-01-14T18:46:59.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,ayeshasaqib/cifar-10-ayesha,cifar 10 ayesha,ayesha saqib,,2021-01-06T15:07:21.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,cseashish/mlda-1-2nd-project-pattnaik-sir,MLDA-1 2nd Project Pattnaik Sir,Ashish Kumar Choubey,,2020-12-24T10:11:06.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,mooncrater/cifar-10-with-cnns-85-validation-accuracy,CIFAR 10 with CNNs (85% Validation accuracy),Rohit Singh,,2020-12-04T08:23:32.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,albumor/cifar10-with-cnn-performance-evaluation,cifar10 with CNN Performance Evaluation,Junyi,,2021-02-26T13:39:08.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,msameerkhan/cifar10-with-cnn,cifar10 with CNN,Mohammad Sameer Khan,,2020-11-12T14:45:44.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,cristeena/cifar-10-object-classification-cnn-keras-52f8f2,CIFAR-10 object classification CNN-Keras 52f8f2,Cristeena Joseph,,2020-11-11T06:31:34.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kentaroh34/cifar-cnn,CIFAR_CNN,kohsuke maeda,,2020-11-05T07:16:09.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,sergbal1973/cifar-10-serg,cifar-10_SERG,Serg_Bal,,2020-10-17T07:49:35.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,yuvi07/cifar10,Cifar10,Yuvraj Singh Tomar,,2020-10-06T16:15:29.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,maximkalinin/cifar-101,CIFAR_101,Maxim Kalinin,,2020-10-05T19:55:14.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,denismetelev/cifar-10,CIFAR_10,Denis Metelev,,2020-10-05T17:34:17.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,emmilivan13/cifar-10,CIFAR_10,julia.solomennikova,,2020-10-05T16:39:39.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,stanislavkorda/cifar-10,CIFAR_10,Stanislav Korda,,2020-11-18T16:10:20.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,julessharova/svertneiset-1lab-sharova,SvertNeiSet_1lab_Sharova,JulesSharova,,2020-10-05T09:10:31.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,safonenkomax/cifar-10-8360ef,CIFAR_10 8360ef,Safonenko  Max,,2020-10-03T12:01:15.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,sneky369/cifar-10,CIFAR_10,Ivan Avdeev,,2020-10-06T06:23:09.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,asylbaitenova/cifar-10,CIFAR_10,Асыл Байтенова,,2020-10-05T10:00:52.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kambojharyana/playing-around-with-cifar-and-ann,Playing around with Cifar and ANN,Hardik,,2020-10-03T08:54:57.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,yuriromamov/cifar-10,CIFAR_10,Yuri Romanov,,2020-10-01T12:33:38.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,nurkasimov/cifar-10,CIFAR_10,Kasimov N,,2020-10-06T13:44:48.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,andrysazonov/cifar-10,CIFAR_10,andrysazonov,,2021-01-07T16:01:48.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,adebelyi/cifar-10,CIFAR_10,Александр Дебелый,,2020-10-04T12:54:34.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,medvedevlev/cifar-10,CIFAR_10,Medvedev Lev,,2020-10-05T11:04:10.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,vladscherbakov/cifar-10,CIFAR_10,Vlad Scherbakov,,2020-12-09T11:59:47.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,matveevayulia/cifar-10,CIFAR_10,Matveeva Yulia,,2020-10-01T11:26:58.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,blinichkin/cifar-10,CIFAR_10,Blinichkin,,2020-09-24T15:38:27.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,dmitrynokhrin/cifar-10,CIFAR_10,Dmitry_Nokhrin,,2020-09-24T13:56:47.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,sergeyakulich/cifar-10,CIFAR_10,Sergey Akulich,,2020-09-24T17:00:09.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,normall777/cifar-10,CIFAR_10,Izotov Ilya,,2020-09-24T15:20:48.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,wilderjoseth/images-cifar-10,Images - CIFAR-10,WilderJoseth,,2020-08-29T03:29:21.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,dohunkim/gnb-2,GNB 딥러닝 실습 2회차,Dohun Kim,,2020-08-20T12:37:29.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,anirbanmalick/cnn-with-pytorch-79-acc,CNN with PyTorch 79%Acc,anirban_malick,,2020-08-10T18:08:29.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,svpraveen/fun-with-torch-cifar-10,Fun with Torch - CIFAR 10,S V Praveen,,2020-08-04T11:14:40.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,arnabdas8901/cifar10-deepnetwork,Cifar10_deepNetwork,Arnab Das,,2020-05-13T07:58:06.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,geethareddybattu/kernel55b71dbf43,kernel55b71dbf43,Geetha Reddy Battu,,2020-04-29T13:03:59.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,geethareddybattu/kernel4a4f7d2852,kernel4a4f7d2852,Geetha Reddy Battu,,2020-04-29T07:55:26.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,botian0/cifar-10,cifar-10,BoTian,,2020-04-24T06:03:24.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,skrzysztof/vgg-inspired-networks,VGG Inspired networks,Krzysztof,,2020-04-21T10:11:59.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,ahmetyasrakbal/vgg16-fine-tunning,VGG16 Fine Tunning,AHMET YASİR AKBAL,,2020-03-29T16:39:20.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10
+,,,,,0,kraisin/cifar-10-object-classification-cnn-keras,CIFAR-10 object classification CNN-Keras,สมเกียรติ ไกรสินธุ์,,2020-03-19T15:50:34.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cifar-10

@@ -1,0 +1,223 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,uchayder/take-a-look-at-the-data,Take a look at the data,Evgeniya Uchaeva,,2016-03-26T19:17:21.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,shelter-animal-outcomes
+,,,,,0,andraszsom/dog-breeds-dog-groups,Dog breeds => dog groups,Andras,,2016-07-29T17:45:20.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,shelter-animal-outcomes
+,,,,,0,andraszsom/age-gender-breed-and-name-vs-outcome,"Age, gender, breed, and name vs. outcome",Andras,,2016-07-29T17:46:25.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,shelter-animal-outcomes
+,,,,,0,payoub/slowly-learning-ml,Slowly learning ML,payoub,,2016-05-18T05:47:24.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,shelter-animal-outcomes
+,,,,,0,yanwii/pandas-matplotlib,Pandas & matplotlib,yanwii,,2016-03-31T14:57:20.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,shelter-animal-outcomes
+,,,,,0,albadr/shelter-animal-exploration,Shelter Animal Exploration,AlbadrNasution,,2016-07-06T09:35:13.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,shelter-animal-outcomes
+,,,,,0,zoupet/clean-feat-fit-and-submit,"Clean, Feat, Fit and Submit",Julien Heiduk,,2016-06-29T09:25:34.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,shelter-animal-outcomes
+,,,,,0,dtromero/exploratory-data-analysis-with-bokeh,Exploratory Data Analysis with Bokeh,dtromero,,2016-04-08T16:30:34.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,shelter-animal-outcomes
+,,,,,0,andraszsom/uncertainty-estimates-of-outcome-types,Uncertainty estimates of outcome types,Andras,,2016-07-29T17:47:14.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,shelter-animal-outcomes
+,,,,,0,fernando90/nameless-animals,Nameless Animals,Fernando,,2016-04-01T15:10:32.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,shelter-animal-outcomes
+,,,,,0,rohansadale/xgbclassifier-and-randomforest-in-python,XGBClassifier and RandomForest in Python,Ro,,2016-07-27T22:42:15.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,shelter-animal-outcomes
+,,,,,0,potterxu/dog-and-cat,dog and cat,potter xu,,2017-12-06T05:43:35.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,shelter-animal-outcomes
+,,,,,0,bakiev/most-used-animal-names,Most used animal names,Saba,,2016-03-26T15:51:37.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,shelter-animal-outcomes
+,,,,,0,rplaca/wasting-time-on-kaggle-competitions,Wasting time on Kaggle competitions ,Johan Lindberg,,2016-03-28T08:58:10.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,shelter-animal-outcomes
+,,,,,0,slegra78/animals-in-shelters,Animals in shelters,Stephanie Le Grange,,2017-11-12T21:14:15.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,shelter-animal-outcomes
+,,,,,0,npat0003/predict-outcome-for-shelter-animals,Predict Outcome for Shelter Animals,Nick,,2016-12-29T13:08:32.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,shelter-animal-outcomes
+,,,,,0,juandoso/simple-rf,Simple RF,juandoso,,2016-03-30T23:10:00.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,shelter-animal-outcomes
+,,,,,0,karan1276/try3-animal-dataset,Try3 animal dataset,Ember Escape,,2017-08-15T13:30:43.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,syednasar/shelter-eda-dog-breed-enhancement,Shelter | EDA| Dog breed enhancement,"Nasar, Syed",,2017-06-15T17:41:34.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,inabaraku/visualization-for-a-global-view,Visualization for a global view,絡,,2016-07-01T13:34:52.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,gunnvant/data-audit,Data Audit,GunnvantSaini,,2016-06-29T05:14:01.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,vibharohilla/pie-chart-outcomes,Pie Chart: Outcomes,vibharohilla,,2016-07-19T09:18:09.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,stapler19/exploring-regularized-regression,Exploring Regularized Regression,stapler19,,2016-05-22T18:08:07.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,cooperxiong/notebook-for-ex-data-processing,"notebook for ex,data processing",Cooper Xiong,,2016-05-22T13:07:16.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,izzul02/age-gender-breed-and-name-vs-outcome,"Age, gender, breed, and name vs. outcome",izzul two,,2016-04-28T11:38:52.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,chrisranderson/stan-and-multinomial-logistic-regression,Stan and multinomial logistic regression,Chris Anderson,,2016-04-13T03:52:14.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,xiziling/deal-with,Processing of categorical variables,xiziling,,2016-04-09T13:18:17.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,yanwii/yanwii,yanwii,yanwii,,2016-03-31T08:45:32.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,qazcat/cat-and-dogs,Cat and Dogs,Joshua Bensemann,,2016-09-23T10:53:30.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,shelter-animal-outcomes
+,,,,,0,vishakbharadwaj/using-embbeings-for-categorical-variables,Using Embbeings for Categorical Variables ,Vishak Bharadwaj ,,2020-09-17T16:51:23.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,florianletsch/animal-shelter-outcomes-dataset-exploration,animal-shelter-outcomes_dataset-exploration,Florian,,2020-08-09T19:30:03.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,rmabjish/austin-animal-center-wrangling-predicting,Austin Animal Center - Wrangling & Predicting,Richard Mabjish,,2019-12-24T05:01:18.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,dvideses/randomforest-ml,RandomForest ML,@DeboraID,,2018-09-13T06:47:19.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,akerlyn/prediction-with-random-forest,Prediction with Random Forest,TeerapatChaiwachirasak,,2017-02-27T11:50:59.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,ironyeti/testy,testy,IronYeti,,2016-07-30T18:16:19.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,grrrrr/dogs-grouped,Dogs Grouped,GrierPhillips,,2016-07-07T19:51:50.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,grrrrr/shelter-animals,Shelter_animals,GrierPhillips,,2016-07-11T19:18:28.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,qqgeogor/xgboost-benchmark,xgboost benchmark,qianqian,,2016-06-15T06:36:44.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,unicorn23/data-overview,Data overview with Pandas,unicorn,,2016-05-24T07:27:54.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,inmaculada/simple-logistic-or-rf,Simple Logistic or RF,Inma,,2016-05-20T17:08:27.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,tommyttf/outcome-type-of-dog-and-cat-plot,Outcome Type of Dog and Cat Plot,tommy,,2016-04-04T15:36:42.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,mixam85/data-exploration,Data Exploration,Maxime,,2016-03-31T15:54:09.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,kevings14/examining-data,examining_data,KevinGarcia,,2016-03-24T11:06:22.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,shelter-animal-outcomes
+,,,,,0,kyuhwanjung2/shelteranimal-11-10,ShelterAnimal- 11/10,Kyuhwan Yohann Jung,,2022-03-23T08:55:26.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,aisyahishak/notebook36af290378,notebook36af290378,Aisyah Ishak,,2021-08-24T14:34:39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,danilorosmaninho/animal-shelter-notebook-danilo,Animal Shelter Notebook Danilo,Danilo Rosmaninho,,2021-08-15T22:37:15.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,toshiakikunitomi/shelter-animal-outcomes-gw,Shelter Animal Outcomes GW,Toshiaki Kunitomi,,2021-07-30T07:39:45.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kyuhwanjung2/shelter-animal-week10,Shelter Animal - week10,Kyuhwan Yohann Jung,,2021-06-08T12:32:35.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,slimlearn/lwk-acada-module6,LWK_ACADA_Module6,SlimLearn,,2021-03-27T11:20:53.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,pinkybrain49/insights-to-help-adoption-of-shelter-animals,Insights to help Adoption of Shelter Animals,Shymaa Alsayed,,2020-12-26T22:28:51.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,hiro1005/shelter-animal-outcomes,Shelter Animal Outcomes,Akihiro Kondo,,2020-10-26T08:01:07.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,dblabs/fork-of-kernelce75741753,Fork of kernelce75741753,dustinb,,2020-07-21T01:48:05.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,iamtalos/machine-learning-end-to-end,Machine Learning End-to-End,Achintya Gupta,,2020-04-06T10:31:40.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,vladimirgeringer/animal-shelter-analysis,Animal shelter analysis,Vladimir Geringer,,2020-01-20T13:58:48.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,yscyang1/shelter-animals-3,Shelter Animals 3,Crystal Yang,,2018-12-21T00:06:30.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,amcgregor/animal-shelter-re-uploaded-2,Animal Shelter Re-uploaded 2,Alexia,,2018-12-16T22:49:45.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,yscyang1/shelter-animals-2,Shelter Animals 2,Crystal Yang,,2018-12-21T00:06:41.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,yscyang1/shelter-animals-1,Shelter Animals 1,Crystal Yang,,2018-12-13T23:56:52.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,odilonlima/shelter-animal-outcomes-am-cin-2018-2,Shelter Animal Outcomes - AM - CIn 2018.2,Odilon Lima,,2018-12-05T17:00:14.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,mathildech/kernele742dffdd1,kernele742dffdd1,Mathilde Ch,,2018-11-02T13:54:48.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zhoulingyan0228/shelter-animal-outcome-prediction-w-nn,Shelter Animal Outcome Prediction w/ NN,Lingyan Zhou,,2018-07-04T06:17:30.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,yy1252450987/animal-ml,animal-ML,Nick Yang,,2018-04-06T13:56:18.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jihyeseo/cleaning-animal-data,Cleaning animal data,Jihye Sofia Seo,,2017-12-13T14:01:15.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,berrywedi/animal-shelter-outcome-prediction,Animal Shelter Outcome prediction,bereketissack,,2019-01-06T04:48:48.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,loldataset/notebook3dfbfd716a,Notebook3dfbfd716a,loldataset,,2017-09-19T15:20:05.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,xiaoranone/notebook7a1e2ec623,Notebook7a1e2ec623,xiaoran,,2017-08-31T07:38:47.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,wagneramaral/notebookf03a1eab90,Notebookf03a1eab90,Wagner Amaral,,2017-05-27T23:49:39.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,lanmao/notebook37749981f0,Notebook37749981f0,wang_leo,,2017-05-16T20:46:23.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kelvineng/notebook21610b58ee,Notebook21610b58ee,Kelvin Heng,,2017-05-02T14:27:02.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,wasdee/dog-breed-feature-engineer,Dog Breed - feature engineer,BenN.Ninyawee,,2017-04-11T10:13:22.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,alexandersanity/notebook5347258378,Notebook5347258378,Alex CAO,,2017-03-23T12:14:25.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,art1art1/ddddd,ddddd,art1art1,,2017-03-19T20:01:08.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,akaakaaka/notebook9c89bef64f,Notebook9c89bef64f,Krishna,,2017-03-16T19:49:38.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,devrath9s/notebookbf316b0d0d,Notebookcf54e49c75,Devrath9s,,2017-02-25T00:08:37.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,akumaying/notebooke861102144,Notebooke861102144,akumaying,,2017-02-21T00:18:55.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,huiqihu/notebook5f73326ac0,Notebook5f73326ac0,FunkyFox,,2017-02-06T12:33:26.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,slaurent/notebook21a15d543a,Notebook21a15d543a,slaurent,,2017-01-25T10:53:02.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,yellowduck/dog-breeds-dog-groups,Dog breeds => dog groups,Igor.Slinko,,2017-01-19T08:33:23.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,yellowduck/take-a-look-at-the-data,Take a look at the data,Igor.Slinko,,2017-01-19T08:30:09.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jin3137/notebook00d752b504,Notebook00d752b504,Lee Sung Guk,,2017-01-19T07:25:47.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kuosamo/notebook6ce353e55f,Notebook6ce353e55f,kuosamo,,2017-01-18T07:14:03.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kuosamo/notebooke52c2b6af7,Notebooke52c2b6af7,kuosamo,,2017-01-18T07:10:54.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kuosamo/notebooked7836977d,Notebooked7836977d,kuosamo,,2017-01-18T06:59:06.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,giwlee/notebookadc55ad543,Notebookadc55ad543,GiWookLee,,2017-01-18T06:58:00.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,tr11mk3/notebook20c2f386af,Notebook20c2f386af,jinspark,,2017-01-18T06:57:32.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,michellejw/shelter-animals-exploration-and-visualization,Shelter Animals - exploration and visualization,Michelle Weirathmueller,,2017-01-11T19:02:33.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,euv142649/notebookf03c4e3bce,Notebookf03c4e3bce,Nora,,2017-01-10T08:03:08.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,cheral/predict-outcome-for-shelter-animals,Predict Outcome for Shelter Animals,cheral,,2019-07-10T17:21:54.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,cheral/notebookaf9a8cf3d8,Notebookaf9a8cf3d8,cheral,,2017-01-08T06:26:18.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,cheral/notebookd774918e35,Notebookd774918e35,cheral,,2017-01-08T06:01:16.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,bbzinhodomal/predict-outcome-for-shelter-animals-42492ba8,Predict Outcome for Shelter Animals 42492ba8,GuilhermeSilva,,2016-12-31T05:04:16.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,dimonermolaev/notebookfec26bae00,Notebookeef3c055b8,ДмитрийЕрмолаев,,2016-12-22T16:44:01.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,dimonermolaev/notebook2e2cd457ee,Notebook2e2cd457ee,ДмитрийЕрмолаев,,2016-12-22T16:18:02.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zeenzuft/notebook9773ca0315,Notebook9773ca0315,Zeenzuft,,2016-12-20T18:20:20.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zeenzuft/notebookd6f5f63625-e4a0f1c8,Notebookd6f5f63625 e4a0f1c8,Zeenzuft,,2016-12-20T18:19:55.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zeenzuft/notebookd6f5f63625,Notebookd6f5f63625,Zeenzuft,,2016-12-20T18:19:30.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,magnolia94/mangues-du-burkina,Mangues du Burkina,magnolia,,2016-12-20T15:57:55.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,cloudly/notebookd3a1f64593,Notebook9773ca0315,Lyth,,2016-12-20T15:56:42.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,cloudly/notebooke65b62861a,Notebookd6f5f63625,Lyth,,2016-12-20T15:56:10.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kotlarmilos/notebook686c942fc0,Notebook686c942fc0,MilosKotlar,,2016-12-17T10:29:32.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,muhammadyasir/notebookb6f7ef7762,Notebookb6f7ef7762,YasirSarwar,,2016-12-11T17:01:05.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,muhammadyasir/notebookf080b00919,Notebook7112be2193,YasirSarwar,,2016-12-11T16:48:23.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,muhammadyasir/notebook39dc621569,Notebook39dc621569,YasirSarwar,,2016-12-11T16:40:27.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,seonhwa/notebooke5bf450d6a,Notebooke5bf450d6a,ryuseonhwa,,2016-12-11T09:35:01.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,suhedaacar/notebook332633e2c3,Notebook332633e2c3,suheda.acar,,2016-12-02T22:01:08.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,hassan9224/take-a-look-at-the-data,Take a look at the data,SyedZainUlHasan,,2016-11-28T16:13:08.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,masarulu/age-gender-breed-and-name-vs-outcome,"Age, gender, breed, and name vs. outcome",SebastianLu,,2016-11-28T14:23:02.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,csufynskkanth/notebook3d6198c8f4,Notebook3d6198c8f4,Naga Surya Krishna Kanth,,2016-11-24T07:13:00.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,mnuurf15/take-a-look-at-the-data,Take a look at the data,Muhammad Nuur Firdaus,,2016-11-20T16:17:56.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,marcelofaraj/notebook80b3266009,Notebook80b3266009,MarceloFonsecaFaraj,,2016-11-20T06:03:43.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,bsitoula/notebookf6e2a12897,Notebookf6e2a12897,BibasSitoula,,2016-11-15T02:55:21.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,josericardo/notebook3952388714,Notebook3952388714,José,,2016-10-17T01:49:08.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,josericardo/first-script,First script,José,,2016-10-17T01:48:27.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,shivampanchal/randomforest-solution,RandomForest solution,Shivam Panchal,,2016-10-14T23:13:49.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fickas/take-a-look-at-the-data,Take a look at the data,fickas,,2016-10-10T23:20:02.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fickas/age-gender-breed-and-name-vs-outcome,"Age, gender, breed, and name vs. outcome",fickas,,2016-10-10T22:00:01.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,bengeorge/take-a-look-at-the-data,Take a look at the data,BenGeorge,,2016-10-02T08:24:06.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,calvinjku/take-a-look-at-the-data,Take a look at the data,OnionMonster,,2016-09-30T20:34:12.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jingxuanlu/notebook5d185964c2,Notebook5d185964c2,Jingxuan Lu,,2016-09-29T00:10:57.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,breana/notebookc5e6583fc3,Notebookc5e6583fc3,BreanaMurphy,,2016-09-27T19:03:45.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,xingobar/notebookf8cb8e54da,Notebookf8cb8e54da,Gary Ng,,2016-09-26T13:49:11.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,douglasjia/take-a-look-at-the-data-7ba66fc4,Take a look at the data 7ba66fc4,Douglas,,2016-09-16T02:16:35.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,seanliu/dog-breeds-dog-groups,Dog breeds => dog groups,SeanLiu,,2016-09-16T10:50:44.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,douglasjia/notebook85d74f3251,Notebook85d74f3251,Douglas,,2016-09-15T18:51:39.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,douglasjia/take-a-look-at-the-data,Take a look at the data,Douglas,,2016-09-15T18:16:14.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,douglasjia/notebook6b16831d6d,Notebook6b16831d6d,Douglas,,2016-09-12T18:28:47.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,vitaliigolovachov/take-a-look-at-the-data,Take a look at the data,VitaliiGolovachov,,2016-09-12T13:50:30.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fickas/notebookfabc8c6a23,Notebookfabc8c6a23,fickas,,2016-08-31T18:50:09.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,oilsrp/dog-breeds-dog-groups,Dog breeds => dog groups,SiripornOil,,2016-08-29T07:36:07.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fehiepsi/notebookd514a8da15,Notebookd514a8da15,fehiepsi,,2016-08-23T17:31:15.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fehiepsi/clean-feat-fit-and-submit,"Clean, Feat, Fit and Submit",fehiepsi,,2016-08-22T07:04:07.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fehiepsi/simple-try-with-randomforest,Simple try with RandomForest,fehiepsi,,2016-08-22T06:04:39.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,pradeepr28/notebookc861fd1dc8,Notebookc861fd1dc8,Pradeep Rajagopalan,,2016-08-19T06:07:02.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fehiepsi/notebook4d43e25a78,Notebook4d43e25a78,fehiepsi,,2016-08-18T10:53:22.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,fehiepsi/age-gender-breed-and-name-vs-outcome,"Age, gender, breed, and name vs. outcome",fehiepsi,,2016-08-16T10:13:35.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,samadhi/preprocessdata,PreprocessData,Samadhi Kumarasinghe,,2016-08-15T10:59:59.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,syednasar/shelter-model-all,Shelter | MODEL | All,"Nasar, Syed",,2017-06-15T17:32:32.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,syednasar/notebookcdf3645c8f,Notebookcdf3645c8f,"Nasar, Syed",,2016-08-12T19:36:04.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/xg-boost-approach,XG_Boost Approach,NishadiKirielle,,2016-07-31T04:29:35.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,scollins/scollins-shelteranimaloutcomes,SCollins_ShelterAnimalOutcomes,Sara Collins,,2016-07-30T12:27:21.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ruifengzheng/abcde,abcde,Ruifeng Zheng,,2016-07-29T07:45:51.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/breed-groups,Breed groups,NishadiKirielle,,2016-07-29T05:52:40.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,tennissuperstar/visualize-data,Visualize data,AiswaryaSankar,,2016-07-28T06:21:40.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,sanjulademel/animal-outcome-6,animal outcome 6,Sanjula De Mel,,2016-07-27T18:40:16.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/breeds,Breeds,NishadiKirielle,,2016-07-29T05:47:29.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,maver1ckpl/animals,Animals,maverick,,2016-07-26T17:27:38.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,riyeth/animal-shelter-outcomes-first,Animal Shelter Outcomes - First,riyeth,,2016-07-26T09:54:32.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/random-forest-breed2,Random_Forest_Breed2,NishadiKirielle,,2016-07-29T06:15:43.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/random-forest-breed,Random_Forest_Breed,NishadiKirielle,,2016-07-25T06:50:31.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/python-6,Python_6,NishadiKirielle,,2016-07-24T08:05:29.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zkancs/shelter-animal-exploration,Shelter Animal Exploration,Kan Ouivirach,,2016-07-20T14:59:24.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zkancs/take-a-look-at-the-data,Take a look at the data,Kan Ouivirach,,2016-07-19T14:41:30.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,meabhinav/shelter-animal-outcomes,Shelter Animal Outcomes,Abhinav Chauhan,,2016-07-18T12:16:49.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/attempt2,Attempt2,NishadiKirielle,,2016-07-18T08:21:10.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,vousmevoyez/shelter-animals,Shelter Animals,vousmevoyez,,2016-07-19T14:37:02.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,abbysobh/data-cleanup-convert-to-numeric-values,"Data Cleanup, Convert to Numeric Values",AbderRahman Sobh,,2016-07-18T06:10:27.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,poyopuyo/test-script,test_script,poyopuyo,,2016-07-13T18:45:27.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nishadi/decision-tree-approach,Decision Tree Approach,NishadiKirielle,,2016-07-14T17:15:42.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,idozeh/full-analisis,Full Analisis,IdoZeh,,2016-07-13T07:50:34.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,idozeh/my-analisis,My analisis,IdoZeh,,2016-07-13T07:48:25.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,idozeh/4e4e5r,4e4e5r,IdoZeh,,2016-07-12T16:19:16.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,piecurus/usable-format-with-separated-attributes,Usable format with separated attributes,piecurus,,2016-07-11T15:59:05.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,rgaddati/clean,Clean,Rajkiran Gaddati,,2016-07-15T02:18:00.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,grrrrr/group-dog-breeds,Group Dog Breeds,GrierPhillips,,2016-07-07T20:06:06.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,pole19901990/main1r,Main1R,JanJ,,2016-07-04T17:57:00.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,sasali/explore-the-dataset,explore the dataset,Sasa Li,,2016-07-03T20:36:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ahmedas91/exploring-the-data-in-python,exploring the data in python,Ahmad mohammad,,2016-06-29T00:41:24.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,conorm/cleaner-and-feature-generator,Cleaner and Feature generator,ConorMcDonald,,2016-06-27T16:09:14.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ahmedas91/test-sciprt,test_sciprt,Ahmad mohammad,,2016-06-27T15:02:07.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kburk1997/classification-1,classification,KathleenBurkhardt,,2016-06-24T20:32:09.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,vibharohilla/pie-charts,Pie Charts,vibharohilla,,2016-06-24T08:34:03.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,vibharohilla/animal-shelter,Animal Shelter,vibharohilla,,2016-06-24T07:54:33.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,davidkaftan/animals,Animals,DavidKaftan,,2016-06-22T19:29:17.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jponnet/data-preprocessing-sv0-1,Data_preprocessing_Sv0.1,jponnet,,2016-06-21T23:39:16.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,edwardelson/separate-classifier-for-cats-ad-dogs,"Loss Cat 0.5, Dog 0.9 | Split Classifier",JFX,,2016-06-20T12:00:31.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nakanishi/pydata-meetup14,pydata_meetup14,TetsuhiroNakanishi,,2016-06-18T02:20:38.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,cuttlefish/myfirstnotebook,MyFirstNotebook,cuttlefish,,2016-06-18T02:11:46.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,dpansan/animales,Animales,Diego Paniagua,,2016-06-16T11:06:43.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,sanjulademel/shelter-animal-1,Shelter Animal _1,Sanjula De Mel,,2016-06-19T12:25:04.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jakesherman/data-exploration,data-exploration,jakesherman,,2016-06-18T14:28:56.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ystoto/1st-submit,1st submit,ystoto,,2016-06-13T16:06:55.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,mstoddard/clean-feat-fit-and-submit,"Clean, Feat, Fit and Submit",Mykel,,2016-06-08T18:38:43.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,bjebert/test-script,Test Script,bjebert,,2016-06-08T13:35:38.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,sanjulademel/notebook1,Notebook1,Sanjula De Mel,,2016-06-08T03:16:19.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,benlindsay/test-script2,test_script2,Ben Lindsay,,2016-05-29T19:19:25.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,benlindsay/test-script,test_script,Ben Lindsay,,2016-05-29T19:16:09.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ymcdull/just-use-notebook-for-test,just-use-notebook-for-test,Yunfeng Zhu,,2016-05-25T15:55:44.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jesusdiazbeeva/patrulla-canina2,patrulla canina2,JesúsDiazVico|BEEVA,,2016-05-20T17:01:25.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,jesusdiazbeeva/la-patrulla-canina,La patrulla canina,JesúsDiazVico|BEEVA,,2016-05-20T16:53:49.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,francalvo/ailurofilios2,AILUROFILIOS2,Ailurofílicos,,2016-05-20T17:09:47.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,carlosmv/melissa1,Melissa1,CarlosMartín,,2016-05-20T16:47:13.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nievesas/simple-rf-v0-3,la_patrulla_canina,NievesÁbalosSerrano,,2016-05-20T16:47:03.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,nievesas/lapatrullacanina,lapatrullacanina,NievesÁbalosSerrano,,2016-05-20T16:07:25.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,francalvo/ailurofilicos,AILUROFILICOS,Ailurofílicos,,2016-05-20T16:41:39.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,enotmu/simple-logistic-or-rf,Simple Logistic or RF,TBee_baseline,,2016-05-20T12:49:20.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,enotmu/simple-logistic,Simple Logistic,TBee_baseline,,2016-05-20T12:43:32.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,enotmu/simple-rf-v0-3,Simple RF v0.3,TBee_baseline,,2016-05-19T23:58:43.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,enotmu/simple-rf-v0-2,Simple RF v0.2,TBee_baseline,,2016-05-19T23:35:26.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,enotmu/simple-rf,Simple RF,TBee_baseline,,2016-05-19T22:39:43.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ymcdull/shelter-animal-first-test,shelter-animal-first-test,Yunfeng Zhu,,2016-05-20T16:27:54.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,hewenjie001/hhhhhh,hhhhhh,hewenjie,,2016-05-18T02:09:35.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,timmcnamara/pawing-around,Pawing Around,Tim McNamara,,2016-05-17T09:33:19.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,psvann/model-it-quickly,Model It Quickly,psvann,,2016-05-13T03:30:14.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,tyis01/test1,test1,Tyis01,,2016-05-11T17:07:19.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,namra42/color-analysis,Color analysis,Namra,,2016-05-11T03:37:39.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,namra42/shelter-try-1,Shelter Try 1,Namra,,2016-05-09T10:19:18.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,mantis1/split-test-sample,Split Test Sample,MudarAljundi,,2016-05-05T05:11:27.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kaggler110855/shelter-notebook,Shelter Notebook,Anonymous,,2016-05-04T15:31:00.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,antolik/shelter-random-forest,Shelter random forest,Laszlo A.,,2019-12-11T22:48:08.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,tiennguyen/testing,Testing,TienNguyen,,2016-04-19T04:06:20.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,tiennguyen/simple-try-with-randomforest,Simple try with RandomForest,TienNguyen,,2016-04-19T04:00:46.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,bscheetz/simple-rf,Simple RF,bscheetz,,2016-04-17T01:13:45.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,ashishdutt/exploratory-data-analysis-3,exploratory_data_analysis,mnm,,2016-04-16T13:18:07.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,srikarv/take-a-look-at-the-data,Take a look at the data,SrikarVelichety,,2016-04-12T03:40:36.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,sidraina89/python-animal-outcome-notebook,Python Animal Outcome Notebook,siddharth raina,,2016-04-11T15:54:37.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,juandoso/simple-try-with-randomforest,Simple try with RandomForest,juandoso,,2016-04-02T02:18:13.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,mgalusza/quick-dirty-randomforest,Quick & Dirty RandomForest,Michal,,2016-03-30T19:11:51.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,hitfishking/age-gender-and-breed-vs-outcome,"Age, gender, and breed vs. outcome",DongZheng,,2016-03-30T13:22:53.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,grogs84/foo123,foo123,jmg,,2016-03-29T20:47:16.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,puneethmishra/testing-pkm,Testing_PKM,puneeth mishra,,2016-03-28T07:47:42.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,kregor/data-test,data test,Egor,,2016-03-26T13:53:22.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes
+,,,,,0,zhaoxiugao/dingd,dingd,EdwinZhao,,2016-03-24T12:55:54.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,shelter-animal-outcomes

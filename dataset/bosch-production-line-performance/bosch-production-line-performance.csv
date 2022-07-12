@@ -1,0 +1,897 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,mmueller/road-2-0-4,Road-2-0.4+,Faron,,2016-10-08T20:13:38.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],144,bosch-production-line-performance
+,,,,,0,gaborfodor/notebookd19d11e4f2,Date Exploration (6min == 0.01),beluga,,2016-09-24T20:27:22.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],143,bosch-production-line-performance
+,,,,,0,joconnor/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),joconnor,,2016-09-16T21:17:01.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],101,bosch-production-line-performance
+,,,,,0,cpmpml/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,CPMP,,2016-09-26T04:33:48.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],90,bosch-production-line-performance
+,,,,,0,gaborfodor/69-failure-rate,69% failure rate,beluga,,2016-10-11T20:30:46.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,bosch-production-line-performance
+,,,,,0,dollardollar/eda-of-important-features,EDA of important features,Christian Hirsch,,2016-09-11T12:47:41.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,bosch-production-line-performance
+,,,,,0,rithal/magic-feature-visualization,Magic Feature Visualization,NetworkMiner,,2016-10-10T00:04:25.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,bosch-production-line-performance
+,,,,,0,jeffd23/what-s-wrong-with-station-32,What's Wrong with Station 32,Jeff Delaney,,2016-09-22T20:39:01.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,bosch-production-line-performance
+,,,,,0,scirpus/loo-template-for-low-memory,Loo Template for Low Memory,Scirpus,,2016-09-30T11:11:04.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,bosch-production-line-performance
+,,,,,0,aakashveera/random-forest,Random Forest,Aakash V,,2020-08-09T13:54:33.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,bosch-production-line-performance
+,,,,,0,rdslater/looking-at-categorical-data,Looking at Categorical Data,Ronin,,2016-09-28T00:41:37.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,bosch-production-line-performance
+,,,,,0,happycube/scirpus-extreme-bayes-faron-36312,Scirpus' Extreme Bayes + Faron = .36312+?,happycube,,2016-10-09T03:19:43.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bosch-production-line-performance
+,,,,,0,agalea91/numerical-feature-density-anomaly-detection,Numerical feature density -> anomaly detection?,Alexander Galea,,2016-09-14T16:49:37.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bosch-production-line-performance
+,,,,,0,gaborfodor/last-week-1,Last week,beluga,,2016-11-10T16:58:39.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bosch-production-line-performance
+,,,,,0,kagglemrboo/newscr,NewScr,MrBoo,,2016-11-09T14:56:54.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bosch-production-line-performance
+,,,,,0,kyklosfraunhofer/second-place-solution,second place solution,Kyklos Fraunhofer,,2020-12-08T11:54:57.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bosch-production-line-performance
+,,,,,0,scirpus/network-x-flows,Network X Flows,Scirpus,,2016-10-08T14:56:59.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bosch-production-line-performance
+,,,,,0,aamaia/failures-in-pairs,Failures in pairs :-),amaia,,2016-10-06T22:05:14.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bosch-production-line-performance
+,,,,,0,mtermoul/data-discovery-intro,Data discovery intro,MTT.,,2016-10-07T19:45:27.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bosch-production-line-performance
+,,,,,0,aakashveera/bosch-production-line-performance,Bosch Production Line Performance,Aakash V,,2020-07-17T08:50:52.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bosch-production-line-performance
+,,,,,0,sergeev/explore-the-train-data-footprint,Explore the train data footprint,Dmitry Sergeev,,2016-09-21T18:16:05.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bosch-production-line-performance
+,,,,,0,kiwipirate/bosch-numeric,Bosch-NUMERIC,Kiwipirate,,2020-07-22T05:55:27.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bosch-production-line-performance
+,,,,,0,garcia274/newscr,NewScr,VictorGarcia,,2016-11-08T02:53:48.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bosch-production-line-performance
+,,,,,0,alexxanderlarko/scirpus-extreme-bayes-faron1010,Scirpus' Extreme Bayes + Faron1010,Alexander  Larko,,2016-10-10T04:10:00.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bosch-production-line-performance
+,,,,,0,leexiongan/dimentionality-reduction-svd-in-batch,Dimentionality Reduction SVD in batch,leexa,,2016-09-21T13:51:34.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bosch-production-line-performance
+,,,,,0,vishallakha/bos-ch-ewbaccaa,Bos-ch-ewbaccaa,vishallakha,,2016-11-09T07:40:05.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bosch-production-line-performance
+,,,,,0,emphymachine/lges-bosch-production-line-eda-practice,[LGES] Bosch Production Line EDA Practice,Yongdam Kim,,2022-06-30T07:50:03.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,emphymachine/advanced-bosch-production-line-ml-prediction-pjt,[Advanced] Bosch Production Line ML Prediction PJT,Yongdam Kim,,2022-05-20T04:01:49.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,nitinnitj/random-forest,Random Forest,Nitin Pandey,,2022-07-05T09:28:04.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,aakashveera/bosch-random-forest,Bosch Random forest,Aakash V,,2020-07-23T06:28:13.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,furkanyakal/linevisualization,LineVisualization,Furkan Yakal,,2020-07-16T07:35:21.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,furkanyakal/boschdatainfo,BoschDataInfo,Furkan Yakal,,2020-07-10T09:42:27.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,mariofilho/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Mario Filho,,2016-10-31T13:51:29.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bosch-production-line-performance
+,,,,,0,emphymachine/2-bosch-production-line-eda-pjt,2. Bosch Production Line EDA PJT,Yongdam Kim,,2022-05-20T02:51:10.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,nitinnitj/major-project-production-line-failure-prediction,Major Project : Production Line Failure Prediction,Nitin Pandey,,2022-07-05T09:48:05.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,furkanyakal/lineclustering,LineClustering,Furkan Yakal,,2020-07-22T06:02:14.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,alexxanderlarko/road-2-0-4-featureset,Road-2-0.4+ --> FeatureSet++,Alexander  Larko,,2016-10-10T12:37:55.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,zhugds/scirpus-extreme-bayes-faron-36312,Scirpus' Extreme Bayes + Faron = .36312+????,pongba,,2016-10-23T20:28:37.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,danaugrs/categorical-column-types,Categorical Column Types,Daniel Salvadori,,2016-10-09T20:52:39.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,nminus1/de-dupe-categoricals-python,De-dupe categoricals - Python,nminus1,,2016-09-30T22:02:06.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,adityakumarsinha/loo-template-for-low-memory,Loo Template for Low Memory,adityasinha,,2016-09-30T19:07:37.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,anokas/columns,columns,anokas,,2016-09-25T17:52:49.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,outliar/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Mohammad Shadab Alam,,2016-09-21T19:31:39.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bosch-production-line-performance
+,,,,,0,nitinnitj/production-line-failure-prediction,Production Line Failure Prediction,Nitin Pandey,,2022-04-27T10:26:27.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,furkanyakal/bosch-clustering,Bosch-Clustering,Furkan Yakal,,2020-07-20T20:45:33.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,furkanyakal/clusteringv1,ClusteringV1,Furkan Yakal,,2020-07-20T20:07:33.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,furkanyakal/failpartsflow,FailPartsFlow,Furkan Yakal,,2020-07-16T17:59:54.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,kiwipirate/bosch-date,Bosch-DATE,Kiwipirate,,2020-07-19T20:51:34.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,kiwipirate/bosch-categorical,Bosch-Categorical,Kiwipirate,,2020-07-19T21:07:33.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,furkanyakal/stationpairs,StationPairs,Furkan Yakal,,2020-07-14T09:36:19.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,salkaa/magic-feature-visualization-25537027,Magic Feature Visualization 25537027,Sasho Nedelkoski,,2017-02-05T10:14:00.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,cesarboucas/oneclasssvm,OneClassSVM,Cesar Bouças,,2016-12-15T16:34:12.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,egdman/eda-of-important-features,EDA of important features,Dmitry Egorov,,2016-10-31T06:15:25.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,egdman/compress-your-categorical-data-10-times,Compress your categorical data 10 times,Dmitry Egorov,,2016-10-28T20:54:48.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,lplewa/road-2-0-4,Road-2-0.4+,Luke Plewa,,2016-10-26T17:51:11.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,cyrisfa/notebook1b15de7b8e,Notebook1b15de7b8e,CYR_ISFA,,2016-10-25T21:01:52.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,vanausloos/69-failure-rate,69% failure rate,Xavier Van Ausloos,,2016-10-25T13:20:10.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,kagglemrboo/road-test,Road_test,MrBoo,,2016-10-24T13:42:56.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,ganeshsivaraman/scikit-learn-numericfeature-reduction,Scikit_Learn_NumericFeature_Reduction,Ganesh Sivaraman,,2016-10-21T14:00:31.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,valadi/scirpus-extreme-bayes-faron-jaya1,Scirpus' Extreme Bayes + Faron -Jaya1,Jayaraman,,2016-10-28T17:21:05.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,paulinechow/python-xgboost-starter-with-pca-099872,Python XGBoost Starter with PCA 099872,Pauline,,2016-10-19T05:30:52.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,bitcard1/leeyd-bigo,leeyd_bigo,bitcard1,,2016-10-17T05:05:46.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,bitcard1/leeyd-test,leeyd_test,bitcard1,,2016-10-16T13:56:03.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,yoyocm/bosh-production-line-exploration,Bosh Production Line Exploration,yoyocm,,2016-10-15T10:46:53.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,colonelcarotte/69-failure-rate,69% failure rate,Maximilien@DAMI,,2016-10-12T08:12:29.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,ganeshsivaraman/pyspark-decision-tree-eda,PySpark_Decision_Tree_EDA,Ganesh Sivaraman,,2016-10-18T10:06:40.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,valadi/scirpus-extreme-bayes-faron-jaya,Scirpus' Extreme Bayes + Faron -Jaya,Jayaraman,,2016-10-17T03:26:40.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,zonemercy/date-exploration-6min-0-01,Date Exploration (6min == 0.01),ZZ,,2016-10-05T09:06:24.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,zonemercy/eda-of-important-features,EDA of important features,ZZ,,2016-09-30T09:44:02.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,zonemercy/looking-at-categorical-data,Looking at Categorical Data,ZZ,,2016-09-29T13:24:40.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,jmartinezot/date-exploration-6min-0-01,Date Exploration (6min == 0.01),jmartinezot,,2016-09-28T19:54:12.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,wordsforthewise/python-xgboost-starter-0-209-public-mcc-11e6f92d,Python XGBoost Starter (0.209 Public MCC) 11e6f92d,Nathan George,,2016-09-28T05:20:11.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,wordsforthewise/messed-up-fork-why-can-t-i-delete-it,messed up fork...why can't I delete it?,Nathan George,,2016-09-28T05:21:28.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,juliancienfuegos/finding-the-smallest-minimum-sample,Finding the Smallest Minimum Sample,Melvyn Drag,,2016-09-20T23:23:41.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,lnicalo/eda-of-important-features,EDA of important features,lnicalo,,2016-09-13T19:18:44.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,agalea91/mcc-scoring-metric-python-function,MCC scoring metric python function,Alexander Galea,,2016-09-12T17:46:09.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bosch-production-line-performance
+,,,,,0,lgjinukeom/bosch-production-line-eda-practice-ju,Bosch Production Line EDA Practice ju,엄진욱,,2022-06-30T07:42:30.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kim0min/2-bosch-production-line-eda-pjt,2. Bosch Production Line EDA PJT,"Eden, Kim",,2022-05-20T02:01:54.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,yasuhirokirihata/bosch-production-line-s32,Bosch Production Line - S32,Yasuhiro Kirihata,,2021-10-04T23:46:04.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,furkanyakal/lineclusleringl1-l2,LineClusleringL1-L2,Furkan Yakal,,2020-08-02T19:51:01.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,furkanyakal/clusteringt-sne,ClusteringT-SNE,Furkan Yakal,,2020-07-21T07:24:51.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,furkanyakal/bosch-date-one-hot-train-test,Bosch_Date_One_Hot_train_test,Furkan Yakal,,2020-08-02T19:00:02.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,choithuthoi/my-solution,My solution,Le Hai Chau,,2019-10-16T02:28:43.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,thuybach/kernel45d2f21b5d,kernel45d2f21b5d,Thuy Bach,,2019-08-08T07:11:24.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dainq1594/kernel1e8a711495,kernel1e8a711495,dainq,,2019-08-05T08:18:28.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,meghanar/bosch-production-line-simple-logistic-regression,"Bosch Production line, Simple logistic regression",meghana,,2019-03-29T02:19:11.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jihyeseo/bosch-perform-eda,bosch perform eda,Jihye Sofia Seo,,2018-05-08T17:10:51.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,carolinekleist/bosch-check,BOSCH CHECK,Liese,,2017-05-04T14:07:36.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lazheng/notebook9919bd6b74,Notebook9919bd6b74,LinanZheng,,2017-04-11T20:18:53.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bmvsprasad/69-failure-rate,69% failure rate,BmvsPrasad,,2017-04-11T12:34:06.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shahbalkhan/road-2-0-4,Road-2-0.4+,Shahbal,,2017-04-08T14:42:02.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mmahmad/road-2-0-4,Road-2-0.4+,Mohammad Ahmad,,2017-04-28T20:15:06.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,patipon/notebook76800e892e,Notebook76800e892e,PatiponSrichoomsin,,2017-05-20T10:18:23.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,patipon/notebooka1b1154acf,Notebooka1b1154acf,PatiponSrichoomsin,,2020-01-23T07:49:50.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pallavikhedekar/try12,try12,pallavi khedekar,,2017-03-20T11:05:13.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,yousheng/notebook7241f3f3ff,Notebook7241f3f3ff,Yousheng,,2017-03-06T09:45:47.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,srinivaschakravarthi/notebook4af6698aed,Notebook4af6698aed,SrinivasChakravarthiThandu,,2017-03-03T20:18:24.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,veedeejee/notebook7838205fac,Notebook7838205fac,VincentdeJong,,2017-03-01T20:38:26.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ashwinikmr/bosch-test1,bosch_test1,ASHWINIKUMAR,,2017-02-27T05:11:07.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sridharturaga/fork-of-understanding-the-data,Fork of Understanding the data,SridharT,,2017-02-26T03:17:42.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sridharturaga/understanding-the-bosch-production-line-data,Understanding the Bosch Production Line data,SridharT,,2017-03-04T09:55:53.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,blanchkj/notebookc839253552,Notebookc839253552,Meylina,,2017-02-20T14:31:50.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,uyuutosa/date-exploration-6min-0-01,Date Exploration (6min == 0.01),YuSato,,2017-02-17T01:11:21.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ryanphd2017/notebook83fc6301de,Notebook83fc6301de,RyanBradley,,2017-02-14T17:15:12.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,satishtyagi/date-exploration-timestamp-units-10-hrs,Date Exploration (timestamp units = 10 hrs),SatishTyagi,,2017-02-13T02:30:01.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,salkaa/magic-feature-visualization-891d23af,Magic Feature Visualization 891d23af,Sasho Nedelkoski,,2017-02-04T16:40:05.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,salkaa/magic-feature-visualization-abc063ae,Magic Feature Visualization abc063ae,Sasho Nedelkoski,,2017-02-02T17:45:24.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,noronha1978/bosch-2016-script,bosch_2016_script,Arun,,2017-02-01T18:21:20.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mangalanks/explore-the-train-data-footprint-db61120a,Explore the train data footprint db61120a,AnKs,,2017-01-31T20:44:07.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,himako/date-exploration-6min-0-01-054da6dc,Date Exploration (6min == 0.01) 054da6dc,himkt,,2017-01-26T13:23:02.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,himako/date-exploration-6min-0-01,Date Exploration (6min == 0.01),himkt,,2017-01-26T13:20:42.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dominikv/notebook10d97ce2d5,Notebook10d97ce2d5,Dominik,,2017-01-25T21:18:15.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nerdfarmer/notebook52ce7eced7,Notebook52ce7eced7,EdwardKepler,,2017-01-25T10:05:32.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dandoesdata/notebook506e825245,Notebook506e825245,DanVanBoxel,,2017-01-25T00:35:36.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zakkum42/notebook989a55bdda,Notebook989a55bdda,K.I.,,2017-01-23T17:23:49.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zakkum42/notebook10d26ae640,Notebook0d1f02dea1,K.I.,,2017-01-23T17:20:25.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,initial0626/notebook89243a0c38,Notebook89243a0c38,initial0626,,2017-01-22T15:35:58.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vikaskumars/notebookb3435a532a,Notebookb3435a532a,VikasKSharma,,2017-01-16T05:16:13.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pnajit/notebookffcbedad87,Notebookffcbedad87,ajit kumar p.n,,2017-01-15T18:17:16.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kaigeyang/notebook9fc8de3328,Notebook9fc8de3328,Kaige Yang,,2017-01-15T15:09:09.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kaigeyang/magic-feature-visualization,Magic Feature Visualization,Kaige Yang,,2017-01-15T14:14:22.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,archit2510/eda-of-important-features,EDA of important features,ArchitAgrawal,,2017-01-02T05:59:15.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tonydo/notebook1605bb08c3,Notebook1605bb08c3,Thong Do,,2016-12-22T12:53:55.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shailjathakur/road-2-0-4,Road-2-0.4+,Shailja Thakur,,2016-12-22T07:25:32.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mudgal/eda-of-important-features,EDA of important features,Aayush Mudgal,,2016-12-22T03:24:46.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sheallika/eda-of-important-features,EDA of important features,SheallikaSingh,,2016-12-22T03:09:23.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mudgal/data-discovery-intro,Data discovery intro,Aayush Mudgal,,2016-12-22T00:23:35.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kevinmartel/notebookd55be7c1bc,Notebookd55be7c1bc,KévinDavnisMartel,,2016-12-20T16:03:26.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vikaskumars/notebook716fe3f4d7,Notebook716fe3f4d7,VikasKSharma,,2016-12-19T02:54:26.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cesarboucas/xgb-2x-loo,xgb 2x LOO,Cesar Bouças,,2016-12-15T17:36:18.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mudgal/what-s-wrong-with-station-32,What's Wrong with Station 32,Aayush Mudgal,,2016-12-15T01:16:39.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vikaskumars/notebook8a209cf4ab,Notebooke202c3a88b,VikasKSharma,,2016-12-14T17:24:58.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tungty/notebook30e7ca312c,Notebook30e7ca312c,ty,,2016-12-11T15:55:17.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,myeongsang/notebook0fa4ca9a9e,Notebook0fa4ca9a9e,Kyungsu Kim,,2016-12-07T07:02:46.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pranavmachingal/notebook80447ff008,Notebook80447ff008,p_mac,,2016-12-03T11:51:03.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,darraghdog/out-of-fold-rolling-mean,Notebooke659c22c14,Darragh,,2016-12-01T21:14:04.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/eda-of-important-features-09f8ca9c,EDA of important features 09f8ca9c,chanchopee,,2016-12-01T13:27:51.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/eda-of-important-features-d66173e7,EDA of important features d66173e7,chanchopee,,2016-12-01T06:24:46.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/eda-of-important-features-d955cdd9,EDA of important features d955cdd9,chanchopee,,2016-12-01T06:06:23.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/eda-of-important-features-a47f70a1,EDA of important features a47f70a1,chanchopee,,2016-11-30T17:24:29.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/eda-of-important-features,EDA of important features,chanchopee,,2016-11-30T17:02:41.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tobyfrancisv/notebookfa8b852a2a,Notebookfa8b852a2a,Toby Francis,,2016-11-30T04:38:28.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shubhij/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,shubhijain,,2016-11-29T23:18:42.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook2630e88adf,Notebook2630e88adf,Ssizz,,2016-11-27T01:52:34.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pixyyy/notebookba2f3f0e1c,Notebookba2f3f0e1c,AliShakian,,2016-11-26T11:07:44.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,p1rat91/notebook1185edeaf6,Notebook1185edeaf6,p1rat,,2016-11-25T17:52:23.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anuragchilukuri/notebooka9100b790e,Notebooka9100b790e,Anurag Chilukuri,,2016-11-24T20:54:21.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/69-failure-rate,69% failure rate,chanchopee,,2016-11-24T14:56:15.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,maimagdi/69-failure-rate,69% failure rate,MaiMagdy,,2016-11-23T15:21:05.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,balasubramanya/mmmmsjjsjskk,mmmmsjjsjskk,Balasubramanya,,2016-11-23T11:11:04.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tejsarup/notebook0c50439b00,Notebook0c50439b00,TejSarup,,2016-11-22T18:50:20.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tracychen/date-exploration-6min-0-01,Date Exploration (6min == 0.01),TracyChen,,2016-11-22T00:52:56.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhomayo/69-failure-rate,69% failure rate,zhomayo,,2016-11-21T19:21:30.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/date-exploration-6min-0-01-b18b864d,Date Exploration (6min == 0.01) b18b864d,chanchopee,,2016-11-19T16:14:39.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mymkyt/notebook9ca5a108fe,Notebook9ca5a108fe,mayumi kiyota,,2016-11-18T22:42:07.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/date-exploration-6min-0-01,Date Exploration (6min == 0.01),chanchopee,,2016-11-16T04:54:53.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tejsarup/notebook3f1d21b9e7,Notebookc90dda2e4a,TejSarup,,2016-11-14T13:14:55.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,opt1mus/notebooke07db7dde5,Notebooke07db7dde5,DanielBorak,,2016-11-14T03:00:20.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/magic-feature-visualization-c7f6d1fd,Magic Feature Visualization c7f6d1fd,chanchopee,,2016-11-13T14:41:38.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,leeguoo/notebookabacd8e523,Notebookabacd8e523,GuoLi,,2016-11-11T21:10:52.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,daleadkins99/notebookda5152df2a,Notebookda5152df2a,Dale Adkins,,2016-11-11T17:50:36.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,yuqingxue/cartoonish-python-barplot,Cartoonish Python Barplot!,Yuqing Xue,,2016-12-09T23:48:15.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alavi1395/endtest,EndTest,Alavi,,2016-11-11T18:17:56.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skandiujm/test-variables,test_variables,MartinLumiste,,2016-11-11T10:53:46.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/test-data,Test data,HoyongChoi,,2016-11-11T06:37:59.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebooka35ee90519,Notebooka35ee90519,jyp2016,,2016-11-11T03:20:08.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,roshankr/notebookcf8d4c76dd,Notebookcf8d4c76dd,RKR,,2016-11-10T14:09:22.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebook479f2d784f,Notebook479f2d784f,jyp2016,,2016-11-10T04:43:08.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nigelcarpenter/newscr,NewScr,Nigel Carpenter,,2016-11-09T08:47:05.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebook9f96f05a91,Notebook9f96f05a91,LeeHyeonGu,,2016-11-08T14:00:33.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/test-hglee-20161108,Test_hglee_20161108,LeeHyeonGu,,2016-11-08T15:12:34.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/test-hglee,Test_hglee,LeeHyeonGu,,2016-11-08T11:51:41.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,miyamamoto/magic-feature-visualization,Magic Feature Visualization,miyamamoto,,2016-11-08T01:59:09.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sionek/newscr-z,NewScr-Z,Grzegorz Sionkowski,,2016-11-07T23:47:05.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/looking-at-categorical-data-0cbd9527,Looking at Categorical Data 0cbd9527,Nishant Kumar,,2016-11-07T21:35:37.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebookf4ec6e2813,Notebookf4ec6e2813,jyp2016,,2016-11-07T12:00:38.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jankivora/notebook51bd515e6a,Notebook51bd515e6a,VData,,2016-11-07T10:27:17.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hczxwyx/notebookaaa0092a87,Notebookaaa0092a87,yancy,,2016-11-07T05:58:30.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,miyamamoto/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),miyamamoto,,2016-11-07T11:43:01.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebook5701d4af81,Notebook5701d4af81,jyp2016,,2016-11-06T14:27:13.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/test-variables,test_variables,jyp2016,,2016-11-08T07:11:26.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/magic-feature-visualization,Magic Feature Visualization,chanchopee,,2016-11-06T11:06:36.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dingran/notebookdc9ba36284,Notebookdc9ba36284,magic_feature,,2016-11-05T23:53:37.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lokullus/notebook0ea338e862,Notebook0ea338e862,Lokullus,,2016-11-05T21:54:33.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nil666/featget,featget,Nilabha Bhattacharya,,2016-11-05T15:39:16.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/notebook0fa69d6e62,Notebook0fa69d6e62,HoyongChoi,,2016-11-04T13:21:12.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,miyamamoto/notebook5cb63ca47f,Notebook5cb63ca47f,miyamamoto,,2016-11-04T10:40:13.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,thegreendog/notebook20a8832a0c,Notebook20a8832a0c,TheGreenDog,,2016-11-04T08:53:00.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,maziary/notebook8c05729533,Notebook8c05729533,MaziarYaesoubi,,2016-11-04T07:52:53.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,wickywwz/notebookab3d008668,Notebookab3d008668,Wicky,,2016-11-04T03:06:32.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tarunparmar/newscr,NewScr,TarunParmar,,2016-11-04T00:46:00.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lamody/notebook31605936e6,Notebookdecdfd1afc,Lambros Odysseos,,2016-11-03T21:39:35.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lokullus/notebooka4d7588dc5,Notebooka4d7588dc5,Lokullus,,2016-11-03T17:26:40.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,wickywwz/notebook4858f56f94,Notebook4858f56f94,Wicky,,2016-11-03T15:34:19.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lokullus/notebook71f97153ea,Notebookb80d73523f,Lokullus,,2016-11-03T15:16:20.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,suresubs/notebookcd089e37ca,Notebookcd089e37ca,suresubs,,2016-11-03T10:12:43.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,erguzman/test1,Test1,erguzman,,2016-11-03T09:28:23.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shikhar/road-2-0-4,Road-2-0.4+,SB,,2016-11-03T07:42:59.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,biwangg/notebook13e72fe879,Notebook13e72fe879,BW,,2016-11-03T04:37:34.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ssu008/network-x-flows,Network X Flows,ssu008,,2016-11-02T20:13:55.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/explore-the-train-data-footprint,Explore the train data footprint,Nishant Kumar,,2016-11-02T18:37:27.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/adsddd-py,adsddd.py,chanchopee,,2016-11-02T15:05:22.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chanchope/notebook28989f1360,Notebook28989f1360,chanchopee,,2016-11-02T15:03:05.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,paulusm/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,mbp28,,2016-11-02T12:56:18.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ssu008/magic-feature-visualization,Magic Feature Visualization,ssu008,,2016-11-05T04:06:38.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lokullus/notebookf7b3f61b82,Notebookf7b3f61b82,Lokullus,,2016-11-01T19:55:06.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datascientist1/magic-feature-visualization-280fcf83,Magic Feature Visualization 280fcf83,GP,,2016-11-01T15:58:54.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,msaber/magic-feature-visualization,Magic Feature Visualization,Saber,,2016-11-04T12:45:14.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lokullus/notebook92326e5e4d,Notebook92326e5e4d,Lokullus,,2016-11-01T11:01:20.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,neversleep/notebook6689882655,Notebook6689882655,Calvin Cheung,,2016-11-01T07:27:38.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fredtony/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,FredTony,,2016-11-01T08:16:43.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hswater1/looking-at-categorical-data,Looking at Categorical Data,ShenHuang,,2016-10-31T16:48:36.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,valadi/dropbox,dropbox,Jayaraman,,2016-10-31T14:42:31.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,malabar/notebookf6efac45c6,Notebookf6efac45c6,Vinay,,2016-10-31T13:32:24.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,xmwang/notebookcd2665faa8,Notebookcd2665faa8,Wang Michael,,2016-10-31T12:57:54.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/test-faron-scirpus,Test (Faron + Scirpus),HoyongChoi,,2016-11-04T14:53:20.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,danielyuwen/notebook17f9b5c395,Notebook17f9b5c395,daniel,,2016-10-31T02:25:08.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/optimizing-probabilities-for-best-mcc-47f139c0,Optimizing probabilities for best MCC 47f139c0,Dmitry Egorov,,2016-10-29T16:42:38.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,Dmitry Egorov,,2016-10-29T08:18:59.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pishbin/loo-template-for-low-memory-best1,Loo Template for Low Memory best1,Ehsan Sepehrjou,,2016-10-29T07:39:35.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebooke307fca399,Notebooke307fca399,LeeHyeonGu,,2016-10-29T05:11:59.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/check-failure-rate,Check failure rate,HoyongChoi,,2016-10-29T04:51:12.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebooke7f0ca04dc,Notebooke7f0ca04dc,LeeHyeonGu,,2016-10-29T00:46:34.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datascientist1/magic-feature-visualization,Magic Feature Visualization,GP,,2016-11-07T16:53:24.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kukulux/notebook50106eec98,Notebook50106eec98,kukulux,,2016-10-28T16:58:32.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,psaadbye/magic-feature-visualization,Magic Feature Visualization,Peter Saadbye,,2016-10-28T15:45:39.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kukulux/notebookbdfa6d0eca,Notebookbdfa6d0eca,kukulux,,2016-10-28T15:40:38.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebookd3de9e01c8,Notebookd3de9e01c8,LeeHyeonGu,,2016-10-28T12:01:52.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/test-script,Test Script,HoyongChoi,,2016-10-31T08:21:41.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,liuxinze/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Sleepyhead,,2016-10-28T09:15:15.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,apollo831/ku-apollo,ku_apollo,apollo,,2016-10-28T04:46:30.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jedisom/test1,Test1,JedIsom,,2016-10-27T17:58:29.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vladimirmilushev/69-failure-rate,69% failure rate,Vladimir Milushev,,2016-10-27T17:09:33.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,oopsh424/notebook1ec1ccf3b6,Notebook1ec1ccf3b6,SHPark,,2016-10-27T05:17:32.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,szelvenskiy/date-exploration-6min-0-01,Date Exploration (6min == 0.01),szelvenskiy,,2016-10-26T21:30:04.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,neoyun/notebookc9dff08eea,Notebookc9dff08eea,neoyun,,2016-10-26T19:02:42.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/notebookf2ddf9979c,Notebookf2ddf9979c,Dmitry Egorov,,2016-10-26T18:59:47.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/69-test,69% test,MrBoo,,2016-10-26T13:50:58.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pishbin/notebook66e5692dbf,Notebook66e5692dbf,Ehsan Sepehrjou,,2016-10-26T11:47:58.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datageeks/notebook52d2c55062,Notebook52d2c55062,Brindha,,2016-10-26T08:12:38.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/notebook8f00b6fc72,Notebook8f00b6fc72,HoyongChoi,,2016-10-26T04:39:23.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jdreamer/this-is-my-competitions,this is my competitions,秋之灵羽,,2016-10-26T03:31:26.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,billskelly/notebook64127af476,Notebook8340ec28a6,Bill Skelly,,2016-10-25T17:04:23.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,imathur94/notebookac57f71bc0,Notebookac57f71bc0,IshitaMathur,,2016-10-25T16:32:48.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,luke035/notebook52eee66dc9,Notebook52eee66dc9,Luke035,,2016-10-25T15:53:51.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jane522/notebook3ff1270b93,Notebook77779dcd0b,Zheng Wang,,2016-10-25T15:10:10.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,locojay/notebook4284c263ac,Notebook4284c263ac,locojay,,2016-10-25T13:47:48.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,notaapple/notebook21ac6545d3,Notebook21ac6545d3,AiO,,2016-10-25T02:34:28.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hanahnee/notebook626f64dd93,Notebook626f64dd93,hhhh,,2016-10-25T01:48:08.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vishal8266/notebook5533a44304,Notebook5533a44304,VISHALKAMBLE,,2016-10-24T19:44:21.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/submisson,submisson,MrBoo,,2016-10-25T16:06:27.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,takase/notebookdbbc8d91ad,Notebookdbbc8d91ad,test,,2016-10-24T13:37:43.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/magic-feature-visualization,Magic Feature Visualization,MrBoo,,2016-10-24T13:34:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kimkipyo/notebook925ec612e5,Notebook925ec612e5,kimkipoy,,2016-10-24T10:08:36.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ananthakrishnar/shopfloor-visualization-03d104c4,Shopfloor Visualization 03d104c4,Anantha Krishna Rajpurohit,,2016-10-24T08:57:34.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chridam/road-2-0-4-fork,road-2-0-4-fork,chridam,,2016-10-24T09:25:05.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bavarianquant/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,ErikSchumacher,,2016-10-24T07:52:59.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anandjeyahar/looking-at-categorical-data,Looking at Categorical Data,Anand Jeyahar,,2016-10-24T07:18:05.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chrisbarnes19/notebooked470b6330,Notebooked470b6330,Chris,,2016-10-24T05:17:44.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chsejune/notebook7099f006d8,Notebook7099f006d8,SJ,,2016-10-24T01:22:51.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerryzzang/ku-apollo3,KU_apollo3,Minsuk Chang,,2016-10-23T14:24:14.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebookf69a11dd53,Notebookf69a11dd53,jyp2016,,2016-10-23T11:05:10.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/data-sample-ex,data sample ex,jyp2016,,2016-10-23T10:50:24.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anandjeyahar/magic-feature-visualization,Magic Feature Visualization,Anand Jeyahar,,2016-10-23T12:39:00.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/data-sample,data sample,jyp2016,,2016-10-23T09:36:27.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,xhuang25/notebookbfbda8fc18,Notebookbfbda8fc18,Xingxing Huang,,2016-10-23T05:12:30.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jeffog/notebook91b4aa0278,Notebook91b4aa0278,jeffog,,2016-10-22T22:17:01.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zengjk/notebook17a33497b7,Notebook17a33497b7,Jaykay Z,,2016-10-22T19:24:20.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,baltanas/notebooka3a82947e3,Notebooka3a82947e3,JuanCarlosIbañez,,2016-10-22T18:22:01.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rusalmighty/notebook5dd57d647b,Notebook5dd57d647b,Ruslan Berdichevsky,,2016-10-22T17:23:11.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lavande233/lavande,lavande,Lavande233,,2016-10-22T15:31:34.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ramkikrish/notebook9ce36bf2fc,Notebook9ce36bf2fc,ram,,2016-10-22T07:19:27.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharadhgabhane/notebookb72e9718a9,Notebookb72e9718a9,Leo4,,2016-10-22T06:57:54.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebook83f497fdd1,Notebook83f497fdd1,LeeHyeonGu,,2016-10-22T04:45:34.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebook8b6cf02f9c,Notebook8b6cf02f9c,LeeHyeonGu,,2016-10-22T04:15:46.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dongsam/tf-test,tf test,DongsamByun,,2016-10-22T04:03:54.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,narikimc/trial-1,trial_1,narikimc,,2016-10-22T01:47:39.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerryzzang/jerry,jerry,Minsuk Chang,,2016-10-22T01:28:48.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebook77e9665d0d,Notebookb928a022de,jyp2016,,2016-10-22T00:07:00.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,spatur/notebook65f93377b0,Notebook65f93377b0,spate,,2016-10-21T20:51:28.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerryzzang/ku-apollo1,KU_apollo1,Minsuk Chang,,2016-10-21T16:25:16.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,manojsukhavasi/sample-1,Sample_1,Manoj Sukhavasi,,2016-10-21T18:04:52.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jefferydata/notebooka27a94249b,Notebookb60c4d79db,JefferyChen,,2016-10-21T15:06:24.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerryzzang/1121234,1121234,Minsuk Chang,,2016-10-21T15:04:34.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,manojsukhavasi/road-2-0-4,Road-2-0.4+,Manoj Sukhavasi,,2016-10-21T15:06:36.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebooka1c3c8358d,Notebooka1c3c8358d,LeeHyeonGu,,2016-10-21T12:32:34.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/numeric-data,Numeric Data ,jyp2016,,2016-10-21T12:25:37.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebook28750e214c,Notebook28750e214c,jyp2016,,2016-10-21T12:08:07.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,franchi/notebook3909fc701d,Notebook3909fc701d,Matteo Franchi,,2016-10-21T11:47:58.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sahuvaib/notebookfd5a58b43d,Notebookfd5a58b43d,Vaibhav Sahu,,2016-10-21T10:41:00.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,oopsh424/notebookc5acf29f85,Notebookc5acf29f85,SHPark,,2016-10-21T08:48:00.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,breakhearts/scirpus-extreme-bayes-faron-382,Scirpus' Extreme Bayes + Faron = .36312+?,breakhearts,,2016-10-21T07:53:34.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,echochen/notebook47cfd72491,Notebook47cfd72491,echo,,2016-10-21T07:39:05.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,gameboy4393/notebookbf26b687bd,Notebookbf26b687bd,YoungHaKim,,2016-10-20T14:25:50.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,liam21c/notebook3efdf7605d,Notebook3efdf7605d,S.B. Yim,,2016-10-20T09:40:47.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ankush56k/first-script,first_script,Ankush,,2016-10-20T08:12:42.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jameszhou92/notebook14ab054988,Notebook14ab054988,James,,2016-10-20T06:22:17.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aarash/notebook104729dccb,Notebook104729dccb,Arash,,2016-10-20T06:20:07.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,frosklis/notebook039e3a17b5,Notebook039e3a17b5,frosklis,,2016-10-20T04:20:13.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tangweipku/loo-template-for-low-memory,Loo Template for Low Memory,hipo,,2016-10-19T22:31:34.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,glennv/abcda,abcda,GlennVorhes,,2016-10-19T20:32:28.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kangeugine/notebook59e5e950a9,Notebook59e5e950a9,Eugine Kang,,2016-10-19T14:57:00.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zehanzhang/magic-feature-visualization,Magic Feature Visualization,zehanzhang,,2016-10-19T10:20:12.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,amitchoudhary/notebook8ce67fc8c7,Notebook8ce67fc8c7,Amit Choudhary,,2016-10-19T09:59:29.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,davyjo/testscript-1,TestScript,David,,2016-10-19T09:21:46.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vinayaknv/notebookc17d94c848,Notebookc17d94c848,Vinayak NV,,2016-10-19T08:48:01.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,melghazali/notebooka89bad335d,Notebooka89bad335d,melghazali,,2016-10-19T07:08:32.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,felixsungod/notebook2eeb73fa36,Notebook27915483db,ChengSun,,2016-10-19T00:50:46.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chen91/tryinp,tryinp,Chen Fang,,2016-10-19T00:54:06.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ciciwu22/testt,testt,CongWu,,2016-10-19T00:29:04.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,apollo831/notebook918bf0d19e,Notebook918bf0d19e,apollo,,2016-10-18T23:09:11.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jaolguin/notebookacb296c306,Notebookacb296c306,AlfredoOlguín,,2016-10-18T21:48:02.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ijaganjac/python-xgboost-starter-0-209-public-mcc-2870dcaf,Python XGBoost Starter (0.209 Public MCC) 2870dcaf,Lamb,,2016-10-18T14:57:07.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anatolix/testscript,TestScript,anatolix,,2016-10-18T15:05:29.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tukichen/qc-s-team,QC's team,ChenTuki,,2016-10-18T20:38:26.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,gverma12/failures-in-pairs,Failures in pairs :-),Girdhar Verma,,2016-10-18T12:26:42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,arnovkumar/notebookaab6055074,Notebookaab6055074,Arnov Kumar,,2016-10-18T11:00:38.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chapmansiu/date-exploration-6min-0-01,Date Exploration (6min == 0.01),ChapmanS,,2016-10-18T10:26:06.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,youshu/notebookf783168dfc,Notebookf783168dfc,Book,,2016-10-18T10:09:16.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/yd-bigo,yd_bigo,bitcard1,,2016-10-18T01:40:08.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebook4190c875cd,Notebook4190c875cd,bitcard1,,2016-10-18T01:05:30.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,juliancienfuegos/feature-clusters,Feature Clusters!,Melvyn Drag,,2016-10-18T04:42:10.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fxarte/out-of-core-approach,Out of core approach,fxarte,,2016-10-18T16:24:24.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zahraf/notebook062696c012,Notebook062696c012,ZFCBF,,2016-10-17T19:16:03.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raghavender/test-1,test-1,Raghavender Nadella,,2016-10-17T16:57:26.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raghavender/trial,trial,Raghavender Nadella,,2016-10-17T16:30:49.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zjscnovo/69-failure-rate,69% failure rate,zjsc,,2016-10-17T16:18:31.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alexxanderlarko/faron-magic,Faron_magic,Alexander  Larko,,2016-10-17T14:28:27.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jjford3/notebookd8f6cc51dd,Notebookd8f6cc51dd,Ford&Ford,,2016-10-17T12:57:53.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,taiebtouati/notebook38dd43d081,Notebook38dd43d081,taiebtouati,,2016-10-17T11:53:39.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chapmansiu/69-failure-rate,69% failure rate,ChapmanS,,2016-10-17T09:26:42.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shraddhas/magic-feature-visualization,Magic Feature Visualization,Shraddha Surana,,2016-10-18T06:33:18.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,loveds/notebook404b6dd047,Notebook404b6dd047,Agumon,,2016-10-17T06:59:47.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebook821978f4fd,Notebook821978f4fd,bitcard1,,2016-10-17T05:45:02.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebook032dab97f4,Notebook032dab97f4,bitcard1,,2016-10-17T05:33:40.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebook4765f893ab,Notebook4765f893ab,bitcard1,,2016-10-17T05:18:31.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fnayou/notebookd96fc2d577,Notebookd96fc2d577,Fnayou,,2016-10-16T23:38:05.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/notebookb696ba2ae1,Notebookb696ba2ae1,Dmitry Egorov,,2016-10-16T21:34:27.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/this-script-will-die,this script will die,Dmitry Egorov,,2016-10-16T21:33:15.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/dividing-data-into-families,Dividing data into families,Dmitry Egorov,,2016-10-16T21:17:37.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,langpartjx/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),langpartjx,,2016-10-16T21:09:51.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/notebook7c909a5ca4,Notebook7c909a5ca4,Dmitry Egorov,,2016-10-16T21:06:43.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/dividing-data,Dividing data,Dmitry Egorov,,2016-10-16T21:55:20.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/dividing-examples-into-families,dividing examples into families,Dmitry Egorov,,2016-10-16T20:54:49.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jeremyjesse/notebook640234115e,Notebook640234115e,Lateral Analytics,,2016-10-16T20:10:00.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lancerts/11010101,11010101,lancerts,,2016-10-16T19:19:49.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ryancaldwell/notebook59e663b830,Notebook59e663b830,RyanCaldwell,,2016-10-16T15:17:06.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebookad02cf7dc7,Notebookad02cf7dc7,bitcard1,,2016-10-16T12:17:03.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,apollo831/bosch-team-5,bosch_team_5,apollo,,2016-10-16T11:07:32.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebooka63053d4dd,Notebooka63053d4dd,bitcard1,,2016-10-16T10:45:15.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lesaffrea/magic-feature-visualization,Magic Feature Visualization,Lesaffrea,,2016-10-16T08:22:37.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sr71nighthawk/notebook1f43e88be7,Notebook1f43e88be7,Sreenivasa Raghavan,,2016-10-16T06:46:08.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebookce397ac3c0,Notebookce397ac3c0,bitcard1,,2016-10-16T06:36:08.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/lee-test,lee_test,bitcard1,,2016-10-16T05:15:15.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/notebooke56ffcd035,Notebooke56ffcd035,bitcard1,,2016-10-16T05:07:58.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/notebook6c78e062b3,Notebookd6de14ed69,MrBoo,,2016-10-16T04:02:13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,arthurvive/notebook85a85ecb99,Logistic regression on categorical features,Arthur Vv,,2016-10-15T23:24:06.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,agavranis/test-loo,Test_Loo,gavrand,,2016-10-15T22:18:18.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,imadking/notebookf5d00d2da1,Notebookf5d00d2da1,Mad_king,,2016-10-15T20:46:04.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sirdavidal/notebook2730f37a9d,Notebook2730f37a9d,SirDavidAl,,2016-10-15T20:18:30.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,outliar/notebook63fa6ffc59,Notebookd0d4afd44b,Mohammad Shadab Alam,,2016-10-15T17:34:50.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,outliar/aasaasaa,aasaasaa,Mohammad Shadab Alam,,2016-10-15T17:06:07.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ranarag/notebook57ca0fac39,Notebook57ca0fac39,AnuragRoy,,2016-10-15T15:52:14.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,filipkrab/notebook55485a9828,Notebook55485a9828,Filip Sedlak,,2016-10-15T12:21:29.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tetra00/69-failure-rate,69% failure rate,SankakuRobot,,2016-10-15T10:31:27.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hannibalsb/notebookbd8ea00401,Notebookbd8ea00401,Hannibal_SB,,2016-10-15T06:39:28.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyp2016/notebook1011904afd,Notebook1011904afd,jyp2016,,2016-10-15T06:04:29.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jyurain/magic-feature-visualization,Magic Feature Visualization,HoyongChoi,,2016-10-15T05:58:30.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerryzzang/notebook2f7dee18b0,Notebook2f7dee18b0,Minsuk Chang,,2016-10-15T05:53:12.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,narikimc/trial-2,Trial_2,narikimc,,2016-10-15T05:52:18.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ksjpenny/trial-001,Trial_001,Seongjung,,2016-10-15T06:03:41.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ksjpenny/notebooka3f3230851,Notebooka3f3230851,Seongjung,,2016-10-15T05:44:40.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,oopsh424/kernaltest,kernaltest,SHPark,,2016-10-15T05:44:53.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,narikimc/trial-20161015,Trial_20161015,narikimc,,2016-10-15T05:42:20.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook0c47094796,Notebook0c47094796,Ssizz,,2016-10-15T05:37:06.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/notebooke30af2476b,Notebooke30af2476b,MrBoo,,2016-10-15T04:26:08.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,akashlal12/magic-feature-visualization-9578ed51,Magic Feature Visualization 9578ed51,KashHit,,2016-10-14T21:57:44.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,agavranis/andre-test,Andre_test,gavrand,,2016-10-14T21:14:52.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,salkaa/69-failure-rate,69% failure rate,Sasho Nedelkoski,,2016-10-14T17:57:55.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/ttteead,ttteead,MrBoo,,2016-10-14T15:21:29.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/test-3-road-2-0-4,Test#3 Road-2-0.4+,MrBoo,,2016-10-16T04:28:02.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/test-2-response,test #2 Response,MrBoo,,2016-10-16T04:26:05.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kagglemrboo/notebook6cfe313e04,Notebook6cfe313e04,MrBoo,,2016-10-14T14:41:23.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,flytosky/road-2-0-4,Road-2-0.4+,on_the_go,,2016-10-23T11:05:19.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ketkar/notebook212b84a7f3,Notebook212b84a7f3,Nikhil Ketkar,,2016-10-14T13:47:16.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,klyusba/magic-feature-visualization,Magic Feature Visualization,Boris Klyus,,2016-10-14T12:28:04.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,avikalb/notebooke1355cdcfe,Notebooke1355cdcfe,AvikalBajpai,,2016-10-14T06:06:24.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/fail-rates-vs-flow-paths,Fail rates vs. flow paths,Dmitry Egorov,,2016-10-14T07:05:04.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,clarkzhao/notebook48aa06ebac,Notebook48aa06ebac,SiyuanZhao,,2016-10-14T01:25:38.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,clarkzhao/notebook50deec5482,Notebook50deec5482,SiyuanZhao,,2016-10-14T01:00:29.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nimishk/notebook2d13e7bf05,Notebookce4642f929,Nimish Kumar,,2016-10-14T00:25:56.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook95650ca9cd,Notebook95650ca9cd,Ssizz,,2016-10-22T13:46:50.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alijs1/scirpus-extreme-bayes-faron-jaya,Scirpus' Extreme Bayes + Faron -Jaya,alijs,,2016-10-16T10:03:09.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,stinkytofu/test1,Test1,AndyRobinson,,2016-10-13T17:16:54.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sal101/notebook63ec6895d9,Notebook63ec6895d9,Salz,,2016-10-13T13:46:00.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,salkaa/magic-feature-visualization,Magic Feature Visualization,Sasho Nedelkoski,,2016-10-13T11:39:48.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rajkumarb/magic-feature-visualization,Magic Feature Visualization,Rajkumar,,2016-10-13T11:19:06.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,qunzhaotian/notebook9cf420def6,Notebook9cf420def6,chaospower,,2016-10-13T09:47:18.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,peshon/road-2-0-4,Road-2-0.4+,peshon,,2016-10-13T07:02:51.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,gblin5566/notebookfccbb4078b,Notebookfccbb4078b,GB Lin,,2016-10-13T06:41:56.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kaushikchowdhury/notebookede8530105,Notebookede8530105,KaushikChowdhury,,2016-10-13T06:38:25.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datasailor/scirpus-extreme-bayes-faron-36312-mmm,Scirpus' Extreme Bayes + Faron = .36312+?MMM,Tony,,2016-10-13T06:04:40.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bitcard1/test2-py,test2.py,bitcard1,,2016-10-13T02:59:49.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pinliuc/notebookac9df000e1,Notebooka35765fb8e,kupa,,2016-10-13T02:07:37.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,stormymonday/notebookdbfce54b95,Notebook0a8b65fc0a,stormymonday,,2016-10-13T00:54:46.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,outliar/69-failure-rate,69% failure rate,Mohammad Shadab Alam,,2016-10-12T23:41:31.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aagundez/notebookb03866753b,Notebookb03866753b,Aurelio Agundez,,2016-10-12T22:17:20.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook21975b8c5d,Notebook21975b8c5d,Ssizz,,2016-10-12T22:11:04.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alioancea/notebook92c1d8010e,Notebook92c1d8010e,Alexandru ioancea,,2016-10-12T18:53:45.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jkoerner/notebooka0984f5061,Notebooka0984f5061,Johannes Körner,,2016-10-12T17:29:57.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ramankaggle/magic-feature-visualization,Magic Feature Visualization,RamanKaggle,,2016-10-12T14:09:21.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aceccon/notebook0038be22b1,Notebook0038be22b1,André Vinícius Ceccon,,2016-10-12T13:47:50.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zourui/date-exploration-6min-0-01-193b6ccc,Date Exploration (6min == 0.01) 193b6ccc,ruizou,,2016-10-12T08:27:49.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zourui/notebookbaf1ed1be3,Notebookbaf1ed1be3,ruizou,,2016-10-12T07:48:19.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,geraldcampos/notebookaec691d73e,Notebookaec691d73e,GeraldCampos,,2016-10-12T00:58:10.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mcafee/dask-test,dask_test,PM,,2016-10-12T00:59:45.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,juliancienfuegos/are-the-ids-sorted,Are the ids sorted?,Melvyn Drag,,2016-10-11T23:46:24.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,langpartjx/notebookd860dac6b2,Notebookd860dac6b2,langpartjx,,2016-10-11T19:29:51.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,juliancienfuegos/exploration-of-column-names-and-contents,Exploration of Column Names and Contents,Melvyn Drag,,2016-10-12T00:13:57.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,xiao22/notebook731c801ac7,Notebook731c801ac7,xiao22,,2016-10-11T18:45:35.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mayomayo/notebook6005baf194,Notebook6005baf194,mayo,,2016-10-11T18:05:27.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,burgje/notebook2c578eb9d9,Notebook2c578eb9d9,Burgje,,2016-10-11T16:59:21.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tarobxl/magic-feature-visualization,Magic Feature Visualization,tarobxl,,2016-10-11T16:30:33.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,company/bplp-1,BPLP-1,Ravi Chandibhamar,,2016-10-11T12:38:17.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kimhyoungmin/notebook95c2b30278,Notebook95c2b30278,HyoungminKim,,2016-10-11T12:10:29.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alavi1395/date-exploration-6min-0-01-1e4379fd,Date Exploration (6min == 0.01) 1e4379fd,Alavi,,2016-10-11T10:31:18.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datasailor/scirpus-extreme-bayes-faron-36312-mm,Scirpus' Extreme Bayes + Faron = .36312+?MM,Tony,,2016-10-11T06:34:44.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datasailor/scirpus-extreme-bayes-faron-36312-m,Scirpus' Extreme Bayes + Faron = .36312+M,Tony,,2016-10-11T06:20:12.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,outliar/scirpus-extremes-faron-36312,Scirpus' Extremes + Faron = .36312+?,Mohammad Shadab Alam,,2016-10-11T19:54:07.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rewreu/notebook24fc98ac7b,Notebooke95e73544d,rewreu,,2016-10-11T03:18:52.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,makailove123/magic-feature-visualization,Magic Feature Visualization,MaKai,,2016-10-11T02:55:32.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pcthejaswi/notebooka1ca621792,Notebooka1ca621792,pcthejaswi,,2016-10-11T01:49:26.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,igoraries/magic-feature-visualization,Magic Feature Visualization,Igor,,2016-10-10T22:40:51.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ahmedg/notebookde57c304f1,Notebookde57c304f1,Ahmed Gamal,,2016-10-10T19:54:50.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,outliar/scirpus-extreme-bayes-faron,Scirpus' Extreme Bayes + Faron = .+?,Mohammad Shadab Alam,,2016-10-15T17:02:16.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,agentauers/notebookaba63b22d8,Notebookaba63b22d8,AgentAuers,,2016-10-10T16:35:04.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ksaltsoy/notebook0f3348dd03,Notebook0f3348dd03,weak_learner,,2016-10-10T15:34:18.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cwaring/notebook7df18927d2,Notebook7df18927d2,Waring,,2016-10-10T14:24:55.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,thakurrajanand/road-2-0-4,Road-2-0.4+,DataGeek,,2016-10-10T15:14:48.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hongguangguo/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),guohongguang,,2016-10-10T12:34:29.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pjberkman/bosch-script1,Bosch_script1,Paul J Berkman,,2016-10-10T13:02:39.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alavi1395/magic-feature-visualization,Magic Feature Visualization,Alavi,,2016-10-10T04:24:58.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,etherqua/road-2-0-4,Road-2-0.4+,Etherqua,,2016-10-10T03:26:19.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/magic-feature-visualization,Magic Feature Visualization,Nishant Kumar,,2016-10-10T02:56:08.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ceshine/magic-feature-visualization,Magic Feature Visualization,Ceshine Lee,,2016-10-10T03:07:24.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fyuanfen/date-exploration-6min-0-01,Date Exploration (6min == 0.01),yuriel,,2016-10-10T09:08:07.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chaussette/printtt,printtt,OlivierChau,,2016-10-09T20:03:11.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,psaadbye/extreme-boosted-trees,Extreme Boosted Trees,Peter Saadbye,,2017-06-05T18:39:58.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,agavranis/combine,Combine,gavrand,,2016-10-09T19:46:08.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,valadi/road-2-0-4,Road-2-0.4+,Jayaraman,,2016-10-09T12:41:33.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zourui/date-exploration-6min-0-01-fc3dfdfc,Date Exploration (6min == 0.01) fc3dfdfc,ruizou,,2016-10-09T10:38:14.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zourui/date-exploration-6min-0-01-340837cc,Date Exploration (6min == 0.01) 340837cc,ruizou,,2016-10-09T10:06:02.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,omgann/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,ann_hp,,2016-10-09T09:21:28.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,awangntu/notebook029fcbe806,Notebook029fcbe806,TensorFrozen,,2016-10-09T07:47:25.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datasailor/road-2-0-4,Road-2-0.4+,Tony,,2016-10-09T05:17:08.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zourui/date-exploration-6min-0-01,Date Exploration (6min == 0.01),ruizou,,2016-10-09T07:57:49.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skrubba/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Skrubba,,2016-10-09T00:28:19.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,joostgp/notebook-12-5843f08b,notebook_12 5843f08b,joostgp,,2016-10-09T00:16:01.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,joostgp/notebook-12,notebook_12,joostgp,,2016-10-08T23:29:12.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nigelcarpenter/road-2-0-4,Road-2-0.4+,Nigel Carpenter,,2016-10-08T23:05:51.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,carloshuertas/notebook0f8651945a,Notebook0f8651945a,NxGTR,,2016-10-08T22:30:47.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,darraghdog/road-2-0-4-featureset,Road-2-0.4+ --> FeatureSet,Darragh,,2016-10-09T12:03:58.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ccccat/road-2-0-4,Road-2-0.4+,Sergey Yurgenson,,2016-10-08T21:35:22.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zheng11/notebookc40e8b7d9a,Notebookc40e8b7d9a,Ionstine,,2016-10-08T21:20:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,apapiu/notebook-12,notebook_12,Alexandru Papiu,,2016-10-08T20:47:42.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,laurae2/wtf-is-this-0-4-doing,wtf is this 0.4 doing?,Laurae,,2016-10-08T20:41:20.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,th3o6a1d/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),th3o6a1d,,2016-10-08T20:03:55.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rajiv13531/mmmmm,mmmmm,DRajivLochanPatra,,2016-10-08T18:49:00.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rajiv13531/notebook49a5e6d648,Notebook49a5e6d648,DRajivLochanPatra,,2016-10-08T18:39:50.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ylx1217/notebook0dd696e054,Notebook0dd696e054,Kelly,,2016-10-08T17:24:50.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cxchao/18-failure-rate,18% failure rate,Cedric,,2016-10-08T15:32:32.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,asastre/notebooka0be14ad7b,Notebooka0be14ad7b,Alfonso,,2016-10-08T14:01:18.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cxchao/how-to-do-y,how to do Y,Cedric,,2016-10-08T13:44:21.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cxchao/testss,testss,Cedric,,2016-10-08T12:54:01.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cxchao/sssddafd,sssddafd,Cedric,,2016-10-08T12:35:15.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ksjpenny/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Seongjung,,2016-10-08T03:59:20.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dongsam/date-exploration-6min-0-01-284c4f2b,Date Exploration (6min == 0.01) 284c4f2b,DongsamByun,,2016-10-08T03:57:01.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,paulinechow/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Pauline,,2016-10-08T02:51:43.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dongsam/date-exploration-6min-0-01,Date Exploration (6min == 0.01),DongsamByun,,2016-10-08T01:23:26.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tamwill/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Twill,,2016-10-08T00:34:24.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,samehif/notebook4c3d09a556,Notebook4c3d09a556,Sameh Faidi,,2016-10-07T16:21:56.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Ssizz,,2016-10-07T12:39:32.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook667bd11a83,Notebook667bd11a83,Ssizz,,2016-10-07T12:14:53.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alavi1395/loo-template-for-low-memory,Loo Template for Low Memory,Alavi,,2016-10-07T07:45:04.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,flytosky/looking-at-categorical-data,Looking at Categorical Data,on_the_go,,2016-10-07T07:41:32.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alavi1395/date-exploration-6min-0-01-aca85b7f,Date Exploration (6min == 0.01) aca85b7f,Alavi,,2016-10-07T06:46:03.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lasanthafdo/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Lasantha Fernando,,2016-10-11T04:31:04.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alavi1395/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Alavi,,2016-10-07T05:13:50.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,scp173/my-test,my_test,SCP-173,,2016-10-07T02:57:11.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,indhushreyas/notebookb7738f8d0b,Notebookb7738f8d0b,Indhu,,2016-10-07T01:33:01.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jdasari/what-s-wrong-with-station-32,What's Wrong with Station 32,jdasari,,2016-10-07T00:27:29.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kumarsh8483/looking-at-categorical-data-5f258642,Looking at Categorical Data 5f258642,Dev Kumar,,2016-10-06T21:12:37.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vschepak/the-first-try,The first try,Valeriy Schepak,,2016-10-06T20:16:03.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ghassan/notebookedfbfefe45,Notebookedfbfefe45,Ghassan Maslamani,,2016-10-12T06:31:58.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,emmjay/notebookde595d8844,Notebookde595d8844,EmilJanulewicz,,2016-10-06T19:25:41.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,oselot/notebookf14eaba39f,Notebookf14eaba39f,mtan,,2016-10-06T18:57:16.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cesarboucas/loo-template-for-low-memory-2,Loo Template for Low Memory 2,Cesar Bouças,,2016-10-19T21:08:48.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ujjwalshridhar/notebook0ead0c34f5,Notebook3a1b0a73fd,UJJWALSHRIDHAR,,2016-10-06T17:44:26.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sarame/notebook55b0447372,Notebook55b0447372,SaraMeftah,,2016-10-06T14:44:44.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,thomastan310/notebook948379be53,Notebook948379be53,thomastan310,,2016-10-06T14:11:44.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vuongj/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),bolt,,2016-10-06T10:15:26.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,narakhan/notebook98777ffde1,Notebook98777ffde1,narakhan,,2016-10-06T06:44:52.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kumarsh8483/notebookdfb0f6108d,Notebookdfb0f6108d,Dev Kumar,,2016-10-06T06:03:50.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lifepreserver/notebookb62162a430,Notebookb62162a430,ebdd0304e745872f59bc5597a2f20fb9f7a5a8a704098a5aedbb0bcefc24d11b,,2016-10-06T05:33:38.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zmykaggle/bosch,Bosch,frankz,,2016-10-06T03:26:38.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebookf897fc1829,Notebookf897fc1829,Ssizz,,2016-10-05T22:43:35.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alphasue/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Zhongda Su,,2016-10-05T20:29:10.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kumarsh8483/looking-at-categorical-data,Looking at Categorical Data,Dev Kumar,,2016-10-05T19:20:44.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,apurveyajnik/looking-at-categorical-data,Looking at Categorical Data,Apurve Yajnik,,2016-10-05T18:16:50.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook5bf567c590,Notebook5bf567c590,Ssizz,,2016-10-05T13:45:37.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ksjpenny/notebook475f5b7b1d,Notebook475f5b7b1d,Seongjung,,2016-10-05T11:05:04.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,truonghai001/dataset-preprocessing,Dataset Preprocessing,Hai Truong,,2016-10-12T13:09:48.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kddspgh/notebook475b6a2031,Notebookbd0d8a0f0b,"Geon-Hee, Park",,2016-10-05T09:56:50.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aagundez/data-exploration,Data Exploration,Aurelio Agundez,,2016-10-05T06:14:17.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerrywu0904/notebooka388fc01ae,Notebookf4a4375b0f,JerryWu,,2016-10-05T06:09:23.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Nishant Kumar,,2016-10-05T04:37:51.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,qazqwezxc/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),qazqwezxc,,2016-10-05T02:06:26.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,patrykglogowski/first,first,PatrykGlogowski,,2016-10-04T22:46:28.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,albertore/notebookcb668be616,Notebookcb668be616,Alberto Re,,2016-10-04T21:17:20.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,abdullah13314/notebookb7904f3b94,Notebookb7904f3b94,Abdullah,,2016-10-04T18:25:05.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hemantkg/notebook1321267d65,Notebook701babcf98,HemantGothwal,,2016-10-04T17:53:16.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,valadi/bos-ch-ewbaccaa-jaya,Bos-ch-ewbaccaa-jaya,Jayaraman,,2016-10-06T15:46:49.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,itsmeumesh/notebook1bb639fb4a,Notebook1bb639fb4a,Umesh k ,,2016-10-04T12:34:04.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ivovkanych/notebooke0cbb0f7a4,Notebooke0cbb0f7a4,ivovkanych,,2016-10-05T12:00:48.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,itsmeumesh/notebook35d9e0b466,Notebook35d9e0b466,Umesh k ,,2016-10-04T10:03:33.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,csyhuang/looking-at-categorical-data,Looking at Categorical Data,Myna at JadeGarden,,2016-10-04T03:31:40.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,csyhuang/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Myna at JadeGarden,,2016-10-04T03:05:32.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rahenri/corr-view,Corr view,Raphael Ribas,,2016-10-04T03:07:21.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,danamorim/bosh-v1,Bosh v1,Daniel Amorim de Oliveira,,2016-10-03T22:17:01.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,masoudkaviani/python-xgboost-starter-0-209-public-mcc-322df6da,Python XGBoost Starter (0.209 Public MCC) 322df6da,masoudkaviani,,2016-10-03T17:25:18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jinmm1992/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Miaomiao,,2016-10-03T16:08:22.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,robotdude/looking-at-categorical-data,Looking at Categorical Data,Hannes H,,2016-10-03T14:24:51.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jayaeu/notebookc1efd7cda9,Notebook7e1500fcc4,Albert U.,,2016-10-03T14:14:57.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vladimirmilushev/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,Vladimir Milushev,,2016-10-03T12:33:07.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,swetank/practice,practice,SwetankGupta,,2016-10-03T12:08:13.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,swetank/notebookf207eeea90,Notebookf207eeea90,SwetankGupta,,2016-10-03T11:17:00.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,illenyi/notebook9fe9258ae8,Notebook9fe9258ae8,Illényi Norbert,,2016-10-03T09:35:59.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jackofalltrades/first,First,Jackofalltrades,,2016-10-19T06:37:50.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,gurpreet24/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),gurpreetmehta,,2016-10-03T06:36:23.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anandjeyahar/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Anand Jeyahar,,2016-10-03T05:25:54.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sjsingh/python-xgboost-starter-0-209-public-mcc-844c7f9f,Python XGBoost Starter (0.209 Public MCC) 844c7f9f,sjsingh,,2016-10-03T04:49:03.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sketch92/notebook2135f64389,Notebook2135f64389,LeeHyeonGu,,2016-10-03T04:04:56.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,garcia274/loo-template-for-low-memory-take2,Loo Template for Low Memory take2,VictorGarcia,,2016-10-03T04:53:52.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,musella/notebook8654d9c308,Notebook8654d9c308,musella,,2016-10-02T21:20:22.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,qbold3/notebook2da3c7cb97,Notebook2da3c7cb97,vladimir khavanskikh,,2016-10-02T21:18:45.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,qbold3/notebooke726df6529,Notebooke726df6529,vladimir khavanskikh,,2016-10-02T21:18:43.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,masoudkaviani/python-xgboost-starter-0-209-public-mcc-2f8c9d03,Python XGBoost Starter (0.209 Public MCC) 2f8c9d03,masoudkaviani,,2016-10-02T19:23:04.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ubsingh9/notebookf6ee4f838f,Notebookf6ee4f838f,Uday,,2016-10-02T19:18:58.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,miguel2523/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Miguel,,2016-10-02T19:09:13.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zjscnovo/18-failure-rate-9ae25154,18% failure rate 9ae25154,zjsc,,2016-10-02T18:30:59.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kumarmankala/notebookedabfa05fc,Notebookedabfa05fc,Kumar Mankala,,2016-10-02T17:24:09.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zjscnovo/18-failure-rate,18% failure rate,zjsc,,2016-10-02T17:20:20.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ingrid/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Ingrid,,2016-10-02T17:01:09.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ccourtot/notebookaef9071621,Notebookaef9071621,CCourtot,,2016-10-18T10:26:48.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,us3819/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),KBanalytics,,2016-10-02T14:43:52.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jongunnar/test001,test001,Jon Gunnar,,2016-10-02T14:02:54.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raphae/notebook77ad3778b3,Notebook77ad3778b3,RaphaëlHuille,,2016-10-02T13:06:38.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lolachao/bosch,bosch,LolaChao,,2016-10-05T12:19:34.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vladimirmilushev/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Vladimir Milushev,,2016-10-02T10:24:01.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lolachao/notebook0db65e7bdb,Notebook0db65e7bdb,LolaChao,,2016-10-02T09:16:12.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,willingc/initial-pass,Initial pass,willingc,,2016-10-02T04:58:33.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,splendidbird/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),ChuanY_beavertonian,,2016-10-02T04:45:49.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jlmiao/date-exploration-6min-0-01-afb03475,Date Exploration (6min == 0.01) afb03475,JilangMiao,,2016-10-02T04:33:24.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,geelin/date-exploration-6min-0-01,Date Exploration (6min == 0.01),geelin,,2016-10-02T02:57:28.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jlmiao/date-exploration-6min-0-01,Date Exploration (6min == 0.01),JilangMiao,,2016-10-02T02:46:01.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ynaperio/notebookf37db42de0,Notebookd5ca375402,yn12345,,2016-10-01T23:56:34.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kilojoules/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),kilojoules,,2016-10-01T18:40:21.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dshkvyra/notebook3cf28c9d41,Notebook3cf28c9d41,DmytroShkvyra,,2016-10-01T17:34:56.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,valadi/loo-template-for-low-memory,Loo Template for Low Memory,Jayaraman,,2016-10-02T05:58:36.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,malabar/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Vinay,,2016-10-07T21:38:56.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,outliar/18-failure-rate,18% failure rate,Mohammad Shadab Alam,,2016-10-01T14:49:50.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,angelmm/bosch-numeric,bosch_numeric,churandy,,2016-10-06T21:43:39.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jmittendorfer/testing,testing,JohannesMittendorfer,,2016-10-01T12:31:32.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anilnarassiguin/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),NiNil974,,2016-10-01T11:29:01.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mpslxz/notebooka473f98d74,Notebooka473f98d74,Godfather,,2016-10-01T06:27:42.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,datasailor/loo-template-for-low-memory,Loo Template for Low Memory,Tony,,2016-10-05T05:30:38.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,joecmama/what-s-wrong-with-station-32,What's Wrong with Station 32,Joseph S. Choi,,2016-10-01T04:09:20.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook3cecb85185,Notebook3cecb85185,Ssizz,,2016-10-01T03:58:36.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,piercingdan/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Danny Luo,,2016-10-01T02:51:17.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,triparc/notebooka98a970c68,Notebooka98a970c68,Rama Tripathy,,2016-10-01T01:51:48.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skynone/notebook99af61a75b,Notebook99af61a75b,Ssizz,,2016-10-01T00:06:17.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/data-discovery-intro,Data discovery intro,Nishant Kumar,,2016-09-30T23:58:31.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mangalanks/what-s-wrong-with-station-32,What's Wrong with Station 32,AnKs,,2016-09-30T23:43:18.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,brassmonkey381/notebook78c0af2626,Notebook39d6c2f25e,brassmonkey,,2016-09-30T20:07:19.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tastevin/notebookf081b97d70,Notebookf081b97d70,TastiDS,,2016-09-30T17:57:16.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mojtabaebrahimi85/notebook9a88c89361,Notebook9a88c89361,Mojtaba,,2016-09-30T17:36:03.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,etherqua/eda-with-python,EDA with Python,Etherqua,,2016-09-30T22:25:11.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,naruaway/notebook8ff80ef428,Notebook8ff80ef428,Naru,,2016-09-30T16:45:12.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,almosthuman/data-discovery-intro,Data discovery intro,almosthuman,,2016-09-30T14:25:19.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,naruaway/notebook95d4cb2b6e,Notebook95d4cb2b6e,Naru,,2016-09-30T12:56:22.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vikramgarg/notebook1b2a015465,Notebook1b2a015465,Vikram,,2016-09-30T10:11:21.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,andreseliot/notebook30e9473c5c,Notebook30e9473c5c,Eliot Andres,,2016-09-30T08:20:42.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharkgo/notebook3e0d62f1b2,Notebook3e0d62f1b2,chuan,,2016-09-30T07:31:21.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,adityas/notebookebf31720e7,Notebookebf31720e7,AdityaS,,2016-09-30T06:44:39.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kilojoules/date-exploration-6min-0-01,Date Exploration (6min == 0.01),kilojoules,,2016-09-30T06:06:16.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sjsingh/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),sjsingh,,2016-10-03T04:25:44.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,junwang4/date-exploration-6min-0-01,Date Exploration (6min == 0.01),GooDooDoo,,2016-09-30T03:51:23.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kilojoules/what-s-wrong-with-station-32,What's Wrong with Station 32,kilojoules,,2016-09-30T03:42:34.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sandystep/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Sandy,,2016-09-30T00:12:38.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mangalanks/date-exploration-6min-0-01,Date Exploration (6min == 0.01),AnKs,,2016-09-29T23:15:22.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mangalanks/explore-the-train-data-footprint,Explore the train data footprint,AnKs,,2016-09-29T22:23:55.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aamaia/notebook62ba98c0ff,Notebook62ba98c0ff,amaia,,2016-09-29T22:05:54.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,serfcx/notebookb7b4093bf1,Notebookb7b4093bf1,ColinLi,,2016-09-29T21:52:14.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kenkoooo/python-xgboost-starter-0-209-public-mcc-4e83bf6f,Python XGBoost Starter (0.209 Public MCC) 4e83bf6f,Kenko Nakamura,,2016-09-29T20:09:41.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharmaparth17/notebook6033a01221,Notebook6e788ac994,Black Clover,,2016-09-29T18:50:19.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,makanga/notebookf29fb76da7,Notebookf534ab55ee,makanga,,2016-09-29T17:42:53.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/looking-at-categorical-data,Looking at Categorical Data,Nishant Kumar,,2016-09-29T17:05:30.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,paurabassa/mypyscript,MyPyScript,Pautus,,2016-09-29T16:51:03.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,serfcx/notebook619f86b6f6,Notebook619f86b6f6,ColinLi,,2016-09-29T16:49:22.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,davidtorresp5/notebook3a7aacf20c,Notebook3a7aacf20c,David Torres,,2016-09-29T16:32:05.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rubikr/notebookc8f79b770b,Notebookc8f79b770b,Rubikr,,2016-09-29T12:36:00.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,swetank/notebooked47aaab1a,Notebooked47aaab1a,SwetankGupta,,2016-09-29T11:56:26.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alexanderhoffmann/looking-at-categorical-data,Looking at Categorical Data,Alex,,2016-09-29T11:38:20.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anneliesvroman/first-test,first test,AnneliesVroman,,2016-09-29T08:44:15.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anneliesvroman/first-try,first try,AnneliesVroman,,2016-09-29T08:38:57.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,arcluke/date-exploration-6min-0-01,Date Exploration (6min == 0.01),PawanMalviya,,2016-09-29T06:14:46.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kenkoooo/python-xgboost-starter-0-209-public-mcc-05e46fbd,Python XGBoost Starter (0.209 Public MCC) 05e46fbd,Kenko Nakamura,,2016-09-29T05:16:44.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kenkoooo/python-xgboost-starter-0-209-public-mcc-ef8ecb64,Python XGBoost Starter (0.209 Public MCC) ef8ecb64,Kenko Nakamura,,2016-09-29T00:41:28.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,youngkil9999/notebook8365c47cb6,Notebook8365c47cb6,Jayh,,2016-09-29T00:17:42.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,swapnilpatil/swaraj-script,swaraj_script,Swapnil Patil,,2016-09-28T20:23:36.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ijaganjac/python-xgboost-starter-0-209-public-mcc-e23db7df,Python XGBoost Starter (0.209 Public MCC) e23db7df,Lamb,,2016-09-28T16:59:42.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,surjitlahiri/notebookea7d69d3d2,Notebookea7d69d3d2,NG**2(No Guts No Glory),,2016-09-28T15:09:19.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,asakusalemon/notebookac5493c151,Notebookac5493c151,Chao Xu,,2016-09-28T12:43:51.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rdatascientist/notebookc3057fdfcc,Notebookc3057fdfcc,rashmirn,,2016-09-28T12:30:58.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dshkvyra/notebook2780d236c3,Notebook2780d236c3,DmytroShkvyra,,2016-09-28T09:40:08.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dshkvyra/preview,preview,DmytroShkvyra,,2016-09-28T09:41:52.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sguda1/notebookad96d52dd2,Notebookad96d52dd2,Сергей Гуда,,2016-09-28T08:47:10.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/notebook01b5147280,Notebook01b5147280,Dmitry Egorov,,2016-09-30T14:12:08.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anthonytyng/date-exploration-6min-0-01,Date Exploration (6min == 0.01),A_Ng,,2016-09-28T07:03:50.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,yongkai/notebookabe99eccae,Notebookabe99eccae,YongKai Wong,,2016-09-28T07:00:00.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,surjitlahiri/test01,test01,NG**2(No Guts No Glory),,2016-09-28T06:55:50.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,surjitlahiri/notebook168bf0e51b,Notebookb0ac6cb7ac,NG**2(No Guts No Glory),,2016-09-28T06:26:31.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fancyhelloworld/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Fancy_helloworld,,2016-09-28T05:57:15.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mgroncki/notebookcaeed4d6b1,Notebookccc36cdf87,Matthias Groncki,,2016-09-28T03:34:13.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cxchao/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Cedric,,2016-09-28T03:14:46.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cxchao/notebookd0dbfab1c7,Notebookd0dbfab1c7,Cedric,,2016-09-28T01:55:19.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nishkgp/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Nishant Kumar,,2016-09-27T23:50:57.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aamaia/notebook74e89d602c,Notebook74e89d602c,amaia,,2016-09-27T23:01:44.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mtermoul/data-exploration,Data Exploration,MTT.,,2016-09-27T20:34:35.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fredtony/date-exploration-6min-0-01-6f089910,Date Exploration (6min == 0.01) 6f089910,FredTony,,2016-09-27T19:31:15.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,erikerik/notebookfa5495e875,Notebookfa5495e875,Erik,,2016-09-27T18:49:24.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,om1042/date-exploration-6min-0-01,Date Exploration (6min == 0.01),ompanda,,2016-09-28T14:44:19.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mymlml/date-exploration-6min-0-01-f34cda8e,Date Exploration (6min == 0.01) f34cda8e,myml,,2016-09-27T17:32:38.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,salkaa/notebook91c9b7253f,Notebook91c9b7253f,Sasho Nedelkoski,,2016-09-27T17:29:54.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,liamzheng0/date-exploration-6min-0-01,Date Exploration (6min == 0.01),liamzheng,,2016-09-27T16:13:04.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zjscnovo/optimizing-probabilities-for-best-mcc-ccfb1325,Optimizing probabilities for best MCC ccfb1325,zjsc,,2016-09-27T15:38:05.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pankajvshrma/explore-the-train-data-footprint,Explore the train data footprint,pankajsharma,,2016-09-27T15:29:14.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/date-exploration-6min-0-01-f0e867e8,Date Exploration (6min == 0.01) f0e867e8,Dmitry Egorov,,2016-09-27T15:08:46.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jefferydata/notebook66dc1c4d27,Notebook66dc1c4d27,JefferyChen,,2016-09-27T13:50:31.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aatmopaw/analy,Analy,Alsa,,2016-09-27T12:18:34.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,julia77/notebook4247aab295,Notebook4247aab295,Julia77,,2016-09-27T11:55:46.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhangrong/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Rong Zhang,,2016-09-27T08:54:01.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pankajagrawalla/notebook795e347149,Notebook795e347149,PankajAgrawalla,,2016-09-27T06:16:39.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raven007/python-xgboost-starter-0-209-public-mcc-975adb7b,Python XGBoost Starter (0.209 Public MCC) 975adb7b,Beta,,2016-09-27T05:32:42.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,gchahine/notebook432d9dbd50,Notebook0ac83bcde5,Gilolou,,2016-09-27T05:21:44.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,julia77/notebook4dbc17bd76,Notebook4dbc17bd76,Julia77,,2016-09-27T05:44:08.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,murphy89/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Morphy,,2016-09-27T03:34:13.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bertmanila/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Albert Anthony D. Gavino,,2016-09-27T03:30:45.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cwaring/notebook6c7bcd2a76,Notebook6c7bcd2a76,Waring,,2016-09-27T02:26:05.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,omarabdeldayem/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Omar Abdeldayem,,2016-09-27T01:41:34.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jsnoke/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),jsnoke,,2016-09-26T21:54:07.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,julia77/notebook55a87fa400,Notebook55a87fa400,Julia77,,2016-09-26T18:51:36.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,savostinkaggle/notebookf3643aeccc,Notebookf3643aeccc,Alexey Savostin,,2016-09-26T18:25:41.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,masoudkaviani/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),masoudkaviani,,2016-09-26T16:27:26.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,wordsforthewise/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Nathan George,,2016-09-26T16:27:16.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fredtony/date-exploration-6min-0-01,Date Exploration (6min == 0.01),FredTony,,2016-09-26T15:08:35.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,roggin/python-xgboost-starter-0-209-public-mcc-9586e449,Python XGBoost Starter (0.209 Public MCC) 9586e449,rogginHuang,,2016-09-26T11:16:15.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,egdman/date-exploration-6min-0-01,Date Exploration (6min == 0.01),Dmitry Egorov,,2016-09-26T15:59:11.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,penulisbersiri/date-exploration-6min-0-01,Date Exploration (6min == 0.01),AkmalSabri,,2016-09-26T08:35:01.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,telescopeuser/date-exploration-6min-0-01,Date Exploration (6min == 0.01),TelescopeUser,,2016-09-26T07:47:56.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nooodles/python-xgboost-starter-0-209-public-mcc-39a94b8d,Python XGBoost Starter (0.209 Public MCC) 39a94b8d,nooodles,,2016-09-26T06:38:47.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,iabrady/what-s-wrong-with-station-32,What's Wrong with Station 32,iab.,,2016-09-26T04:41:24.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nooodles/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),nooodles,,2016-09-26T03:32:39.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kensai/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Kenji,,2016-09-26T00:38:23.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,francoisreynald/python-xgboost-starter-0-209-public-mcc-f988b3ee,Python XGBoost Starter (0.209 Public MCC) f988b3ee,François Reynald,,2016-09-25T17:06:58.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,yournote/what-s-wrong-with-station-32,What's Wrong with Station 32,Malong,,2016-09-25T15:18:18.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sjoly123/test1,test1,Steve Joly,,2016-09-25T14:27:33.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,francoisreynald/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),François Reynald,,2016-09-25T15:59:26.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zjscnovo/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,zjsc,,2016-09-25T10:21:35.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jondowning/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),JonDowning,,2016-09-25T10:21:02.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,avishek/xgb-25092016,xgb_25092016,Avishek,,2016-09-25T08:26:16.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,neiljdo/notebook58a8e2a4c0,Notebook58a8e2a4c0,neiljdo,,2016-09-25T07:47:03.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ecow1338/notebook4e7ed5ec66,Notebookbe1be7b568,nomo,,2016-09-25T07:17:03.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lesaffrea/what-s-wrong-with-station-32-to-be-checked,What's Wrong with Station 32- To be checked,Lesaffrea,,2016-10-01T13:30:50.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,roggin/what-s-wrong-with-station-32,What's Wrong with Station 32,rogginHuang,,2016-09-25T04:45:05.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhomayo/notebook00d1b1dbc6,Notebook00d1b1dbc6,zhomayo,,2016-09-25T01:06:59.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jdurago/notebook6769fe663f,Notebook6769fe663f,JoeDurago,,2016-09-25T01:06:07.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bankhv/python-xgboost-starter-0-209-public-mcc-trial,Python XGBoost Starter (0.209 Public MCC) _ trial,Vlad Balanda,,2016-09-25T03:12:52.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhouhao/notebook9853580f34,Notebook9853580f34,zhouhao,,2016-09-24T23:49:32.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ryutek/explore-data,Explore Data,U023,,2016-09-24T23:59:32.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,danias/notebook6479285be2,Notebook6479285be2,Vasilis,,2016-09-24T23:08:16.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jfiner/bosch,Bosch,Joshua,,2016-09-24T22:30:43.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhouhao/notebookd67392d0db,Notebookd67392d0db,zhouhao,,2016-09-24T20:30:55.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cagbal/python-xgboost-starter-0-209-public-mcc-07a1d79b,Python XGBoost Starter (0.209 Public MCC) 07a1d79b,cagatayodabasi,,2016-09-24T19:16:42.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,eduardlopez/notebook8c0e53b2b1,Notebook987f6ae5a0,eduardlopez,,2016-09-24T18:28:23.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chuajiesheng/notebook56e4887769,Notebook56e4887769,exer,,2016-09-24T18:03:47.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kahuna/notebookcf60f05b29,Notebookcf60f05b29,Kahuna,,2016-09-24T17:40:15.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ryutek/exploring-the-bosch-stations,Exploring the Bosch Stations,U023,,2016-09-24T17:18:47.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,avishek/python-xgboost-starter-0-209-public-mcc-v1,Python XGBoost Starter (0.209 Public MCC)_v1,Avishek,,2016-09-24T16:54:05.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cagbal/python-xgboost-starter-0-209-public-mcc-05387f6e,Python XGBoost Starter (0.209 Public MCC) 05387f6e,cagatayodabasi,,2016-09-24T15:29:47.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chaos33/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Raymond Chu,,2016-09-24T13:00:27.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,berwin/notebookbcfc5a3efb,Notebookbcfc5a3efb,Berwin,,2016-09-24T10:31:05.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,swetank/notebookc238183bd6,datascience1,SwetankGupta,,2016-09-24T10:21:44.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ragu26/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),RagunathSivakumaran,,2016-09-24T08:20:14.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,frankhy/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Frank Yang,,2016-09-24T07:30:23.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bankhv/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Vlad Balanda,,2016-09-24T04:27:01.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,dhamo1/notebookd47fa52d76,Notebookd47fa52d76,Dhamodharan Kaliyaperumal,,2016-09-24T02:13:15.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kingsleyha/notebook1908b6784d,Notebook1908b6784d,Kevin,,2016-09-23T18:56:12.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ricardoyabe/python-xgboost-starter-0-209-public-mcc-82ea3def,Python XGBoost Starter (0.209 Public MCC) 82ea3def,Ricardo Yamamoto Abe,,2016-09-23T17:04:44.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ricardoyabe/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Ricardo Yamamoto Abe,,2016-09-23T15:39:26.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ahmedg/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Ahmed Gamal,,2016-09-23T20:50:42.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,guyko81/description2,Description2,guyko,,2016-10-04T08:34:16.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,guyko81/description,Description,guyko,,2016-09-23T14:37:08.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vlassarev/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),vlassarev,,2016-09-23T13:58:42.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,snamellit/notebook76fe6ae9f4,Notebook76fe6ae9f4,PeterTillemans,,2016-09-23T13:17:42.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hamza24/notebookab2f7e2289,Notebookab2f7e2289,Hamza BEN AMARA,,2016-09-23T10:59:19.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,avishek/numerical-feature-density-anomaly-detection,Numerical feature density -> anomaly detection?,Avishek,,2016-09-23T09:12:38.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,crownpku/python-xgboost-starter-0-209-public-mcc-trial,Python XGBoost Starter (0.209 Public MCC) _ trial,crownpku,,2016-09-23T09:03:36.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,asakusalemon/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Chao Xu,,2016-09-23T08:46:54.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hasanp/notebook4e38cbfa78,Notebook4e38cbfa78,hasanpoonawala,,2016-09-23T07:39:07.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jaredchung/notebooke061993d49,Notebooke061993d49,Jared Chung,,2016-09-23T06:26:51.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,uday1889/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),uday1889,,2016-09-23T04:26:56.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hoteimat/notebook0a12242e41,Notebook0a12242e41,Hotei,,2016-09-23T01:52:12.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,crownpku/python-xgboost-starter-0-209-public-mcc-40a8aa70,Python XGBoost Starter (0.209 Public MCC) 40a8aa70,crownpku,,2016-09-23T01:49:58.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,oukatj/notebook7dce305544,Notebook7dce305544,oukat,,2016-09-23T00:36:01.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kumaran5555/eda-of-important-features,EDA of important features,neuron,,2016-09-22T22:16:17.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vykhand/notebookdaad63ce82,Notebookdaad63ce82,Andrey Vykhodtsev,,2016-09-22T23:52:08.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,attila007/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Attila,,2016-09-22T21:33:55.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,adatikus/notebook6e37edfb18,Notebook6e37edfb18,Adatikus,,2016-09-22T18:00:05.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,neisarg/notebook367fa027b7,Notebook367fa027b7,NEISARG DAVE,,2016-09-22T17:49:58.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,asenov/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Alexander Senov,,2016-09-22T16:27:07.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ijaganjac/python-xgboost-starter-0-209-public-mcc-ca7958ab,Python XGBoost Starter (0.209 Public MCC) ca7958ab,Lamb,,2016-09-22T15:26:08.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ksaltsoy/notebookd6cd1c6586,Notebookd6cd1c6586,weak_learner,,2016-09-22T15:20:35.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mohamedali/notebook2fe8bf1ec2,Notebook2fe8bf1ec2,Mohamed Ali,,2019-07-30T05:55:42.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,yuwenli/import,import,desolator,,2016-09-22T14:00:20.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,amanrana20/test-1,test_1,Aman Rana,,2016-09-22T13:25:35.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,joostgp/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),joostgp,,2016-09-22T05:37:09.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zahid1/python-xgboost-starter-0-209-public-mcc-590668ac,Python XGBoost Starter (0.209 Public MCC) 590668ac,zpanj,,2016-09-22T05:38:35.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,maxkferg/neuralboost,NeuralBoost,Max Ferguson,,2016-09-21T22:33:27.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aagundez/notebookf76278cffd,Notebookf76278cffd,Aurelio Agundez,,2016-09-21T23:08:46.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,woxmusic/notebook3e2d2738b4,Notebook3e2d2738b4,ÁkosKolozsvári,,2016-09-21T22:04:11.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,wangjiahong666/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Jiahong Wang,,2021-07-21T14:56:26.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,akadam/notebookced0286fa1,Notebookced0286fa1,Apoorva Kadam,,2016-09-21T18:21:56.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lamdang/notebook9d1150a7e3,Notebook9d1150a7e3,Lam Dang,,2016-09-21T17:51:13.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sergeev/notebook4ad98f26d2,Notebook4ad98f26d2,Dmitry Sergeev,,2016-09-21T17:22:59.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cagbal/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),cagatayodabasi,,2016-09-21T17:22:45.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,benhamner/notebookfb9e249217,Notebookfb9e249217,Ben Hamner,,2016-09-21T17:00:55.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,roggin/python-xgboost-starter-0-209-public-mcc-5f617c23,Python XGBoost Starter (0.209 Public MCC) 5f617c23,rogginHuang,,2016-09-21T16:48:15.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lamdang/explore-data,Explore data,Lam Dang,,2016-09-21T16:48:04.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,etherqua/exploratory-data-analysis-of-bosch,Exploratory Data Analysis of Bosch ,Etherqua,,2016-09-21T18:03:22.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raviinits/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Ravindra Kumar Yadav,,2016-09-21T14:47:34.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nkdxczh/test-py,test.py,Zhanhao Chen,,2016-09-21T16:39:58.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tauvaa/notebook3206c7711c,Notebook3206c7711c,tsa848,,2016-09-21T13:41:19.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jerhayes/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),jesting.pilate,,2016-09-21T11:46:34.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,xelid1/richard,Richard,RichardDeurwaarder,,2016-09-21T09:58:19.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aymkhalil/notebook324c9b35d5,Notebook324c9b35d5,Ayman Khalil,,2016-09-21T09:27:37.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,francescobonazzi/eda-of-important-features,EDA of important features,Francesco Bonazzi,,2016-09-21T07:54:28.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jwegas/notebook46b728a330,Notebook46b728a330,Evgenii Zhukov,,2016-09-21T07:54:04.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,andreseliot/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Eliot Andres,,2016-09-21T07:53:59.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,brassmonkey381/reading-rows-test,Reading Rows Test,brassmonkey,,2016-09-21T07:51:12.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,crownpku/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),crownpku,,2016-09-21T07:47:20.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,uwedick/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,Uwe Dick,,2016-09-21T03:14:56.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bpoulin7430/notebookcfffaac1d8,Notebookec8ce03f20,bethanyP,,2016-09-21T01:50:26.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kuanyuchen/notebook1da7457872,Notebook100899284c,KuanyuChen,,2016-09-21T00:44:56.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lesaffrea/eda-of-important-features,EDA of important features,Lesaffrea,,2016-09-20T22:46:33.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,holl42/notebook69ef4c3074,Notebook69ef4c3074,Jürgen Hollfelder,,2016-09-20T22:22:32.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,memery44/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),MatthewEmery,,2016-09-20T20:27:16.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,deguyoyo1010/notebooke8f07f6a92,Notebooke8f07f6a92,deguyoyo1010,,2016-09-20T16:48:12.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,abelarregui/notebook4583df258b,Notebook4583df258b,Abel Arregui,,2016-09-20T16:42:37.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,valadi/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Jayaraman,,2016-09-20T16:41:34.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,abelarregui/script-de-prueba2,script de prueba2,Abel Arregui,,2016-09-20T16:41:23.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,abelarregui/script-de-prueba,Script de prueba,Abel Arregui,,2016-09-20T16:37:39.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,abelarregui/notebookca1bd7996a,Notebookca1bd7996a,Abel Arregui,,2016-09-20T16:19:22.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,surag0107/notebookb77982c5ba,Notebook863a3a045a,Surag Gupta,,2016-09-20T15:56:51.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,federicozb/notebook78e4e19935,Notebook78e4e19935,Federico,,2021-06-01T06:31:25.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tomoiwaruha/notebookc4e12ff098,Notebookc4e12ff098,pawpad,,2016-09-20T13:34:32.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,erikerik/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Erik,,2016-09-20T12:44:43.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sunlchk/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Sunil Gopinath,,2016-09-20T12:11:09.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pwiniarski/python-xgboost-starter-0-209-public-mcc,XGBoost,PiotrWiniarski,,2016-09-20T11:18:07.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,holl42/notebook409f92fdcd,Notebook409f92fdcd,Jürgen Hollfelder,,2016-09-20T10:41:05.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mojtabaebrahimi85/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Mojtaba,,2016-09-21T11:01:10.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raven007/python-xgboost-starter-0-209-public-mcc-2457b237,Python XGBoost Starter (0.209 Public MCC) 2457b237,Beta,,2016-09-20T08:41:46.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jasonzeng/numerical-feature-density-anomaly-detection,Numerical feature density -> anomaly detection?,JasonZeng,,2016-09-20T08:35:35.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,riletti/notebook0493a4488b,Notebook862677ae55,Tim Riley,,2016-09-20T08:09:51.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anotheranshu/notebook61dd147305,Notebook61dd147305,Anshu,,2016-09-20T07:13:40.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,roggin/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),rogginHuang,,2016-09-20T06:44:37.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,raven007/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Beta,,2016-09-20T05:14:56.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zahid1/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),zpanj,,2016-09-21T05:11:25.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,clr717/notebook0ea92381c4,Notebook0ea92381c4,Charles Reeb,,2016-09-20T03:52:38.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kaelchan/notebook02e143d315,Notebook02e143d315,Kael Chan,,2016-09-20T02:03:06.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ryutek/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),U023,,2016-09-20T01:25:19.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,danfile/notebook3aeafa51e5,Notebook3aeafa51e5,D File,,2016-09-20T01:08:56.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rlovelett/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),rlovelett,,2016-09-20T22:30:08.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rithal/python-xgboost-starter-0-209-public-mcc-9e60957f,Python XGBoost Starter (0.209 Public MCC) 9e60957f,NetworkMiner,,2016-09-19T22:21:14.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rithal/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),NetworkMiner,,2016-09-19T22:21:14.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharmaparth17/notebook2815563d77,Notebook9a556003b9,Black Clover,,2016-09-19T20:31:02.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,skcmars/notebook538a912722,Notebook538a912722,SkcM@rs,,2016-09-19T20:29:33.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kingwang/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),kingWang,,2016-09-19T20:14:52.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,laurae2/notebookf897691e6a,Notebookae98e8cb15,Laurae,,2016-09-19T18:11:49.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ivarssilamikelis/kernel2,Kernel2,Ivars,,2016-09-20T09:18:24.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ivarssilamikelis/kernel1,kernel1,Ivars,,2016-09-19T16:44:59.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,wxjennifer/numerical-feature-density-anomaly-detection,Numerical feature density -> anomaly detection?,wxjennifer,,2016-09-20T04:47:39.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,lewuathe/notebook490fb55f76,Notebook490fb55f76,Kai Sasaki,,2016-09-19T13:41:55.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,teamvertex/notebookf8843771d2,Notebookfdb0e5d3df,Team Vertex,,2016-09-19T11:38:33.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,u5015159/notebook94ddd5f2f9,Notebook94ddd5f2f9,Evelyn Bayes,,2016-09-19T10:53:56.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tetevi/notebooke09d660fba,Notebooke09d660fba,Tetevi,,2016-09-19T10:20:50.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhaozhiwei/notebook934e45ad43,Notebook934e45ad43,ZhaoZhiwei,,2016-10-12T07:39:40.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,andreseliot/remove-unused-colums,Remove unused colums,Eliot Andres,,2016-09-19T07:39:01.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,anokas/notebook01789166cc,Notebook01789166cc,anokas,,2016-09-19T06:53:00.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,garcia274/check-versions,check_versions,VictorGarcia,,2016-09-19T05:28:31.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ykalidas/notebook2d3a384e8e,Notebook2d3a384e8e,Kali,,2016-09-19T05:01:28.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shagog/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),shago,,2016-09-19T00:38:04.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhhtc200/notebook3e000004dc,Notebook3e000004dc,ZHU Henghui,,2016-09-19T00:24:20.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mojtabaebrahimi85/notebook7f21059ad7,Notebook7f21059ad7,Mojtaba,,2016-09-18T22:10:08.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shagog/notebookc747f86ebf,Notebookc747f86ebf,shago,,2016-09-18T21:33:30.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,alessandromarrella/notebook0e7d5a485d,Notebook0e7d5a485d,Alessandro Marrella,,2016-09-18T16:28:49.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ayushnietian/notebook01e30be608,Notebook01e30be608,ayushchaurasia,,2016-09-18T12:57:41.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,magzhan/mini-test,mini test,magzhan,,2016-09-18T12:29:08.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zjscnovo/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),zjsc,,2016-09-18T12:22:08.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,andreseliot/remove-unused-columns,Remove unused columns,Eliot Andres,,2016-09-18T12:00:07.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,suhasvaitla/notebook0983c956ee,Notebook0983c956ee,SuhasVaitla,,2016-09-18T11:03:37.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,hmahmud/notebook897657ed01,Notebook897657ed01,hassan,,2021-04-28T15:39:59.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jimyunwa/python-xgboost,Python XGBoost Starter (0.209 Public MCC),Jimmy Yu,,2016-09-18T02:49:13.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,reshsekar15/notebook23dcde9b7b,Notebook23dcde9b7b,LadyBird,,2016-09-17T23:42:06.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ngcrawford/python-xgboost-starter-0-209-public-mcc,Python XGBoost Starter (0.209 Public MCC),Nicholas Crawford,,2016-09-17T21:00:22.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,blueice/notebook4ea63b7b03,Notebook4ea63b7b03,XYuan,,2016-09-22T05:49:16.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,littleding/notebook0e772c9fdf,Notebook7f21059ad7,LittleDing,,2016-09-17T17:12:35.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,magzhan/second-script,second script,magzhan,,2016-09-17T11:18:56.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ananthakrishnar/eda-of-important-features,EDA of important features,Anantha Krishna Rajpurohit,,2016-09-17T07:25:56.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,flytosky/eda-of-important-features,EDA of important features,on_the_go,,2016-09-17T06:12:46.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,heteroskedastic/notebookd3337a43fd,Notebookd3337a43fd,Vincent Davis,,2016-09-17T04:10:20.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ma123shuai/notebook9d2884400f,Notebook9d2884400f,Shuai,,2016-09-17T02:03:04.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,xhuang25/eda-of-important-features,EDA of important features,Xingxing Huang,,2016-09-16T21:16:18.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,ssmeoz/ascsdsd,ascsdsd,SergeyM,,2016-09-16T21:09:16.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,antgoldbloom/notebookfb580f4075,Notebookfb580f4075,Anthony Goldbloom,,2016-09-16T18:44:30.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tetevi/notebook635ab2e985,Notebook635ab2e985,Tetevi,,2016-09-16T17:23:39.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,taishomono/notebook7623a7f971,Notebook7623a7f971,tai tai,,2016-09-16T13:58:54.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,andreseliot/xgboost,XGBOOST,Eliot Andres,,2016-09-19T08:27:10.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,cartographic/notebook643c8354a0,Notebook643c8354a0,lewis,,2016-09-16T07:18:09.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharkgo/notebook678404298d,Notebook678404298d,chuan,,2016-09-16T06:13:03.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,billxzf/notebook6d63570c5d,Notebook6d63570c5d,Zhifu (Bill) Xiao,,2016-09-16T01:24:55.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zacstewart/notebookf9fe3862ce,Notebookf9fe3862ce,zacstewart,,2016-09-15T22:21:13.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,andreseliot/notebookd16e2c7cc8,Notebookd16e2c7cc8,Eliot Andres,,2016-09-15T19:31:28.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kostyabahshetsyan/test-simple-xgboost,Test Simple XGBoost,Kostya Bahshetsyan,,2016-09-15T17:50:00.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mkrcah/notebook5a3d6a0bbe,Notebook5a3d6a0bbe,Marcel,,2016-09-15T12:56:40.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mojtabaebrahimi85/notebook2740dfb58e,Notebook2740dfb58e,Mojtaba,,2016-09-15T09:17:21.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,tzomas/notebook5c8a9e4ce5,Notebook5c8a9e4ce5,Tomás_López,,2016-09-15T08:26:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,abelarregui/notebook29e4d2c38f,Notebook5bbf3e6dba,Abel Arregui,,2016-09-15T08:00:34.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kenkoooo/notebook3c00548e3d,Notebook3c00548e3d,Kenko Nakamura,,2016-09-15T05:28:02.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,teapark/notebook6f6c5915a9,Notebook6f6c5915a9,Teapark,,2016-09-15T00:24:12.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,binilg/test-submission,test submission,Binil,,2016-09-14T20:56:01.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shixw125/notebooka508e7d104,Notebooka508e7d104,weiwei,,2016-09-14T16:39:49.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,paultodo/eda-of-important-features,EDA of important features,PaulTodo,,2019-08-13T08:51:05.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,maddynit/bmnmnmn,bmnmnmn,MontiChandra,,2016-09-14T08:48:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,shenc3/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,sehn3,,2016-09-14T07:00:47.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jamesallen/notebook1a0ddc0950,Notebook1a0ddc0950,James Allen,,2016-10-02T09:08:39.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharmasanthosh/notebook13f561b1be,Notebook13f561b1be,Santhosh Sharma Ananthramu,,2016-09-14T06:11:35.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,rshpeley/test-notebook,test-notebook,r3m,,2016-09-14T05:31:39.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,db1182/first-try,First try,Darrylbalderas,,2016-09-16T12:27:01.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,charlesp/numerical-feature-density-anomaly-detection,Numerical feature density -> anomaly detection?,CharlesP,,2016-09-14T02:32:20.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,aesnau/notebook1dc6dc3fc1,Notebook1dc6dc3fc1,XKaggler,,2016-09-13T22:05:19.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,divnull/notebook3eb13dd002,Notebook3eb13dd002,Div-Null,,2016-09-13T19:17:40.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,kellijean/eda-of-important-features,EDA of important features,Kelli-Jean,,2016-09-13T19:04:35.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,vladimirp/notebookbdcd03282c,Notebookbdcd03282c,VladimirP,,2016-09-13T16:10:13.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,josh1993/notebookda41b581ca,Notebookda41b581ca,JoshuaGörner,,2016-09-13T14:21:48.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sharmasanthosh/eda-of-important-features,EDA of important features,Santhosh Sharma Ananthramu,,2016-09-13T07:38:02.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,spiritbrave/notebookbade9ae948,Notebookbade9ae948,Han,,2016-09-13T06:08:04.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,humchuckaninny/notebookeddbf73d3f,Notebookeddbf73d3f,BrandonHarris,,2016-09-13T05:53:51.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,humchuckaninny/notebook301c1d80ca,Notebook18a5dbdb4f,BrandonHarris,,2016-09-13T04:48:23.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,humchuckaninny/notebook0f37b249b8,Notebook0f37b249b8,BrandonHarris,,2016-09-13T03:52:22.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,chazcv/notebookc5fd3e4d9f,Notebookc5fd3e4d9f,ChazVollmer,,2016-09-13T03:16:21.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,humchuckaninny/bosch-test-1,Bosch Test 1,BrandonHarris,,2016-09-13T03:03:32.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,pokutnik/notebook88cc45e1dc,Notebook88cc45e1dc,PokutnikAlexander,,2016-09-12T21:29:37.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,bushang/notebookd6c2b1d3f2,Notebookd6c2b1d3f2,bushang,,2016-09-12T18:14:20.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,xiao22/notebook74bbe1c302,Notebook74bbe1c302,xiao22,,2016-09-12T17:37:47.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nathaniel/bosch-python-3-starter,Bosch Python 3 Starter,Nathaniel Ng,,2016-09-28T11:44:18.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,sandeepmedury/notebook6c35540d10,Notebook6c35540d10,SandeepMedury,,2016-09-12T08:46:14.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,khoaipx/notebookd75588727e,Notebookd75588727e,PhạmXuânKhoái,,2016-09-12T06:32:48.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,fiberleif/notebook749155d842,Notebook749155d842,GuoqingLiu,,2016-09-11T14:11:39.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,zhongmingyuan52/mingyuan-test1,mingyuan_test1,Mingyuan Zhong,,2016-09-10T22:15:09.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,youdzi/notebookb993a7d039,Notebookb993a7d039,youdzi,,2016-09-10T17:22:54.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,quadmx08/notebook869248db3a,Notebook869248db3a,WaylonWalker,,2016-09-10T16:13:10.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,antediemterzium/optimizing-probabilities-for-best-mcc,Optimizing probabilities for best MCC,foolius,,2016-09-10T13:55:35.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,srwalker101/notebook6b9315d3af,Notebook6b9315d3af,Simon Walker,,2016-09-10T11:02:09.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,flytosky/megatron,Megatron,on_the_go,,2016-09-10T10:32:51.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,flytosky/bosch,Bosch,on_the_go,,2016-09-10T11:20:59.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mohitsewak/ms-111,ms_111,Mohit Sewak,,2016-09-10T06:38:46.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,laurae2/sparse-matrix-with-explicit-zeroes,Sparse matrix with explicit zeroes,Laurae,,2016-09-09T19:51:53.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mojtabaebrahimi85/notebookb44da32e9c,Notebookb44da32e9c,Mojtaba,,2016-09-09T18:30:11.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,saikumarallaka/notebook8beea82cba,Notebookf652852886,saikumar allaka,,2016-09-09T17:19:54.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,nikhils/notebookd1b5bf4cad,Notebook059e691332,Nikhils,,2016-09-09T14:43:35.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jhwarren/notebook58edcbd227,Notebook58edcbd227,JoeWarren,,2016-09-09T12:48:07.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,mawiest/notebookb021874659,Notebookb021874659,ManuelWiest,,2016-09-09T12:17:31.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,jimyunwa/jimmy-s-test-bed,Jimmy's Test Bed,Jimmy Yu,,2016-09-09T09:13:58.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,miaomiao1203/notebook1d7ab480d3,Notebookbbe9c3fc61,Mia_li,,2016-09-09T09:12:19.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance
+,,,,,0,saikumarallaka/notebookba3aa30974,Notebook521a0d48c8,saikumar allaka,,2016-09-09T07:35:09.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bosch-production-line-performance

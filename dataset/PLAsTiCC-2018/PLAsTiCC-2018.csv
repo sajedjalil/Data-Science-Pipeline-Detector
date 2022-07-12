@@ -1,0 +1,153 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,michaelapers/the-plasticc-astronomy-starter-kit,"The PLAsTiCC Astronomy ""Starter Kit""",MichaelApers,,2018-09-27T19:27:32.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],301,PLAsTiCC-2018
+,,,,,0,meaninglesslives/simple-neural-net-for-time-series-classification,Simple Neural Net for Time Series Classification,Siddhartha,,2018-11-02T01:45:08.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],225,PLAsTiCC-2018
+,,,,,0,ogrellier/plasticc-in-a-kernel-meta-and-data,PLAsTiCC_in_a_kernel_meta_and_data,olivier,,2018-11-27T06:56:44.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],145,PLAsTiCC-2018
+,,,,,0,mithrillion/all-classes-light-curve-characteristics-updated,All Classes Light Curve Characteristics (updated),Mithrillion,,2018-11-22T08:20:27.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],122,PLAsTiCC-2018
+,,,,,0,kyleboone/naive-benchmark-galactic-vs-extragalactic,Naive Benchmark - Galactic vs Extragalactic,Kyle Boone,,2018-09-30T19:36:02.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],118,PLAsTiCC-2018
+,,,,,0,cttsai/forked-lgbm-w-ideas-from-kernels-and-discuss,Forked LGBM w/ ideas from kernels and discuss,Chia-Ta Tsai,,2018-11-20T04:42:38.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,PLAsTiCC-2018
+,,,,,0,michaelapers/the-plasticc-astronomy-classification-demo,The PLAsTiCC Astronomy Classification Demo,MichaelApers,,2018-09-27T18:34:38.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,PLAsTiCC-2018
+,,,,,0,iprapas/ideas-from-kernels-and-discussion-lb-1-135,Ideas from kernels and discussion (LB ~ 1.135),iprapas,,2018-11-13T19:32:05.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],102,PLAsTiCC-2018
+,,,,,0,mithrillion/strategies-for-flux-time-series-preprocessing,Strategies for Flux Time Series Preprocessing,Mithrillion,,2018-11-03T04:54:20.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],90,PLAsTiCC-2018
+,,,,,0,jimpsull/collaboratingwithkagglecommunity-1-037-lb,CollaboratingWithKaggleCommunity (1.037 LB),Jim Sullivan,,2018-12-07T14:50:13.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,PLAsTiCC-2018
+,,,,,0,hrmello/dataset-overview-exploration-and-comments,Dataset overview - Exploration and comments,Henrique Mello,,2018-10-08T16:05:56.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,PLAsTiCC-2018
+,,,,,0,mithrillion/know-your-objective,Know Your Objective,Mithrillion,,2018-11-19T01:41:27.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,PLAsTiCC-2018
+,,,,,0,meaninglesslives/lgb-parameter-tuning,LGB Parameter Tuning,Siddhartha,,2018-10-23T16:52:09.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,PLAsTiCC-2018
+,,,,,0,yuval6967/3rd-place-cnn,3rd Place CNN,yuval reina,,2018-12-22T15:41:46.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,PLAsTiCC-2018
+,,,,,0,rejpalcz/feature-extraction-using-period-analysis,Feature extraction using period analysis,Michal Haltuf,,2018-11-02T10:20:54.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,PLAsTiCC-2018
+,,,,,0,cttsai/xgb-from-ideas-from-kernels-and-discussion,XGB from ideas-from-kernels-and-discussion,Chia-Ta Tsai,,2018-11-21T14:18:54.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,PLAsTiCC-2018
+,,,,,0,johnfarrell/plasticc-2018-metadata-simple-eda,plasticc-2018-metadata-simple-eda,Jiazhen Xi,,2018-10-02T15:08:44.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,PLAsTiCC-2018
+,,,,,0,rooshroosh/forked-dart-w-ideas-from-kernels-and-discuss,Forked DART w/ ideas from kernels and discuss,Ruslan  Talipov,,2018-11-27T11:04:45.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,PLAsTiCC-2018
+,,,,,0,rooshroosh/fork-simple-mlp-for-time-series-classification,Fork Simple MLP for Time Series Classification,Ruslan  Talipov,,2018-11-04T14:53:29.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,PLAsTiCC-2018
+,,,,,0,scirpus/plasticc-pipeline-starter,Plasticc Pipeline Starter,Scirpus,,2018-10-28T14:47:04.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,PLAsTiCC-2018
+,,,,,0,zerrxy/plasticc-rnn,PLAsTiCC RNN,Mike,,2018-12-27T16:17:46.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,PLAsTiCC-2018
+,,,,,0,ogrellier/multi-core-aggregations,multi_core_aggregations,olivier,,2018-11-17T15:43:26.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,PLAsTiCC-2018
+,,,,,0,darbin/weighted-naive-benchmark-lb-2-081,Weighted Naive Benchmark. LB 2.081,Ilya Khristoforov,,2018-10-17T08:31:58.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,PLAsTiCC-2018
+,,,,,0,cttsai/smote-on-lgbm-w-ideas-from-kernels-and-discussion,SMOTE on LGBM w/ ideas from kernels and discussion,Chia-Ta Tsai,,2018-12-13T03:22:09.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,PLAsTiCC-2018
+,,,,,0,alexfir/fast-test-set-reading,Fast test_set reading ,Alexander Firsov,,2018-10-22T18:30:09.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,PLAsTiCC-2018
+,,,,,0,ogrellier/plasticc-adversarial-validation,PLAstiCC_adversarial_validation,olivier,,2018-10-13T13:30:39.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,PLAsTiCC-2018
+,,,,,0,ganfear/calculate-exact-class-weights,Calculate exact class weights,Ganfear,,2018-10-13T18:21:24.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,PLAsTiCC-2018
+,,,,,0,marcmuc/large-csv-datasets-with-pandas-use-less-memory,Large CSV datasets with pandas (use less memory!),Marc,,2018-12-19T14:39:39.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,PLAsTiCC-2018
+,,,,,0,manugangler/optimal-feature-extraction-for-class-6,Optimal feature extraction for class 6,Manu Gangler,,2018-12-06T16:18:48.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,PLAsTiCC-2018
+,,,,,0,pankajb64/cnn-based-classification-of-light-curves,CNN based Classification of Light Curves,Pankaj Bhambhani,,2018-12-27T10:35:21.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,PLAsTiCC-2018
+,,,,,0,cpmpml/some-peculiarity,Some peculiarity,CPMP,,2018-11-02T12:54:03.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,PLAsTiCC-2018
+,,,,,0,scirpus/lomb-scargle,Lomb Scargle,Scirpus,,2018-10-25T12:01:00.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,PLAsTiCC-2018
+,,,,,0,ashishpatel26/can-this-make-sense-of-the-universe-tuned,🚀Can this make sense of the Universe-Tuned..✔✔✔✔✔,NowYSM,,2018-10-25T06:46:38.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,PLAsTiCC-2018
+,,,,,0,johnfarrell/plasticc-2018-emb-gru,plasticc-2018-emb-gru,Jiazhen Xi,,2018-12-18T02:23:30.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,PLAsTiCC-2018
+,,,,,0,tarunpaparaju/plasticc-comprehensive-eda-with-gp,PLAsTiCC Comprehensive EDA with GP,Tarun Paparaju,,2019-04-10T12:17:42.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,PLAsTiCC-2018
+,,,,,0,kenmatsu4/feature-engineering-with-gaussian-process,Feature Engineering with Gaussian Process,kenmatsu4,,2018-12-28T14:53:09.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,PLAsTiCC-2018
+,,,,,0,cpmpml/where-is-the-gap,Where is the gap?,CPMP,,2018-11-12T11:07:47.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,PLAsTiCC-2018
+,,,,,0,jimpsull/something-different,Something different,Jim Sullivan,,2018-11-19T14:44:27.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,PLAsTiCC-2018
+,,,,,0,hrmello/using-cnns-in-time-series-analysis,Using CNNs in time series analysis,Henrique Mello,,2018-11-16T17:30:01.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,PLAsTiCC-2018
+,,,,,0,nanmaran/periodogram-visualization-lomb-scargle,Periodogram Visualization (Lomb-Scargle),Hernan Levi,,2018-10-28T19:08:17.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,PLAsTiCC-2018
+,,,,,0,bulatza/blend-them-all-best-public-score,Blend_them_all (best public score),Bulat Zagidullin,,2018-11-08T06:29:26.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,PLAsTiCC-2018
+,,,,,0,nasirislamsujan/eda-prediction-beginner-approach,EDA + Prediction | Beginner Approach.,Nasir Islam Sujan,,2018-10-11T15:47:29.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,PLAsTiCC-2018
+,,,,,0,jeffkk/guessing-the-objects-behind-the-classes,Guessing the objects behind the classes,Jeffrey Kotula,,2018-10-07T09:16:50.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,PLAsTiCC-2018
+,,,,,0,scirpus/photoz2distance,Photoz2Distance,Scirpus,,2018-11-12T15:28:23.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,PLAsTiCC-2018
+,,,,,0,nadare/feature-engenieering-with-pivot-table,feature engenieering with pivot_table,nadare,,2018-11-05T17:06:33.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,PLAsTiCC-2018
+,,,,,0,tarunpaparaju/plasticc-challenge-neural-network-with-gp,PLAsTiCC Challenge : Neural Network with GP,Tarun Paparaju,,2019-04-10T12:11:31.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,PLAsTiCC-2018
+,,,,,0,higepon/updated-keras-cnn-use-time-series-data-as-is,(Updated) Keras + CNN: Use time series data as is,higepon,,2018-11-30T12:12:06.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,PLAsTiCC-2018
+,,,,,0,aantonova/cnn-signals-as-images,CNN - signals as images,Ann Antonova,,2018-11-26T13:50:50.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,PLAsTiCC-2018
+,,,,,0,mithrillion/a-few-python-tricks-to-mod-sklearn,A Few Python Tricks to Mod SkLearn,Mithrillion,,2018-11-25T16:05:06.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,PLAsTiCC-2018
+,,,,,0,higepon/keras-rnn-gru-to-handle-passbands-as-timeseries,Keras + RNN(GRU) to handle passbands as timeseries,higepon,,2018-11-24T05:02:10.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,PLAsTiCC-2018
+,,,,,0,scirpus/straight-gp-clustering-for-lsst,Straight GP Clustering for LSST,Scirpus,,2018-11-30T14:50:42.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,PLAsTiCC-2018
+,,,,,0,alexfir/light-curves-visualization,Light curves visualization,Alexander Firsov,,2018-10-25T18:44:56.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,PLAsTiCC-2018
+,,,,,0,scirpus/predict-by-row-then-average,Predict by row then average,Scirpus,,2018-10-24T13:30:16.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,PLAsTiCC-2018
+,,,,,0,mithrillion/ahmeterdem-s-curve-fit-speed-up,AhmetErdem's Curve Fit Speed Up,Mithrillion,,2018-12-18T03:58:23.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,PLAsTiCC-2018
+,,,,,0,meaninglesslives/a-slightly-better-nn-arch-and-some-tricks,A slightly better NN Arch and Some Tricks,Siddhartha,,2018-12-20T12:28:30.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,PLAsTiCC-2018
+,,,,,0,druidh/features-processing-benchmark,Features processing - benchmark,JaimeF,,2018-11-03T21:54:06.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,PLAsTiCC-2018
+,,,,,0,alexandershustanov/plasticc-flux-evolution-animation,PLAsTiCC Flux evolution animation,Alexander Shustanov,,2018-10-16T05:48:40.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,PLAsTiCC-2018
+,,,,,0,vandavv/plasticcvis-data-visualizations-for-plasticc,PlasticcVis - data visualizations for PLAsTiCC,VanDavv,,2018-10-12T19:03:58.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,PLAsTiCC-2018
+,,,,,0,onodera/all-class-6,All class_6,ONODERA,,2018-09-30T08:01:45.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,PLAsTiCC-2018
+,,,,,0,jackvial/plasticc-pytorch,Plasticc PyTorch,Jack Vial,,2018-12-05T02:26:28.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,PLAsTiCC-2018
+,,,,,0,cttsai/lgbm-forked-ideas-from-kernels-and-discussion,LGBM forked ideas from kernels and discussion,Chia-Ta Tsai,,2018-11-18T16:16:36.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,PLAsTiCC-2018
+,,,,,0,johnfarrell/plasticc-in-a-kernel-meta-and-data-c7a0fc,PLAsTiCC_in_a_kernel_meta_and_data c7a0fc,Jiazhen Xi,,2018-10-14T10:51:45.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,PLAsTiCC-2018
+,,,,,0,druidh/time-series-plot,Time series plot,JaimeF,,2018-10-01T13:36:21.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,PLAsTiCC-2018
+,,,,,0,amitkumarjaiswal/boost-plasticc,Boost Plasticc,Amit Kumar Jaiswal,,2018-12-17T15:00:06.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,PLAsTiCC-2018
+,,,,,0,johnfarrell/plasticc-2018-simple-rnn-pytorch,plasticc-2018-simple-rnn-pytorch,Jiazhen Xi,,2018-12-05T14:39:31.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,PLAsTiCC-2018
+,,,,,0,tomashenco/plasticc-eda,PLAsTICC EDA,Tomasz Dobrzycki,,2018-10-15T15:10:49.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,PLAsTiCC-2018
+,,,,,0,ashutosh7/xgboost-with-static-features,XGboost with static features,AshutoshSingh,,2018-10-07T16:44:41.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,PLAsTiCC-2018
+,,,,,0,paulorzp/1-line-classes-weighted,1 line - classes weighted,Paulo Pinto,,2018-10-02T19:04:56.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,PLAsTiCC-2018
+,,,,,0,nyanpn/salt-2-feature-part-of-3rd-place-solution,SALT-2 feature (part of 3rd place solution),nyanp,,2018-12-20T15:24:03.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,PLAsTiCC-2018
+,,,,,0,scirpus/discrete-time-warp,Discrete Time Warp,Scirpus,,2018-11-25T21:13:20.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,PLAsTiCC-2018
+,,,,,0,jimpsull/writefeaturetablefromsmotedartset,WriteFeatureTableFromSmoteDartSet,Jim Sullivan,,2018-11-23T08:53:08.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,PLAsTiCC-2018
+,,,,,0,bharat0/visualizing-light-curves-for-each-class,Visualizing Light curves for each class,Bharat,,2018-10-31T03:26:40.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,PLAsTiCC-2018
+,,,,,0,darbin/naive-benchmark-extended-explanation,Naive benchmark extended explanation,Ilya Khristoforov,,2018-10-06T19:15:42.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,PLAsTiCC-2018
+,,,,,0,jimpsull/plasticc-path-and-lessons-learned,PLAsTiCC Path and Lessons Learned,Jim Sullivan,,2018-12-18T00:02:52.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,jimpsull/latestneuralfiftyfiftyblendwithmoredecisiveneural,latestNeuralFiftyFiftyBlendWithMoreDecisiveNeural,Jim Sullivan,,2018-12-17T02:13:05.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,jimpsull/truncatemithrillionsstandardfeatures,TruncateMithrillionsStandardFeatures,Jim Sullivan,,2018-11-28T06:41:14.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,scirpus/diff-or-sum,Diff or Sum,Scirpus,,2018-11-25T10:37:17.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,gregbehm/plasticc-data-reader-get-objects-by-id,PLAsTiCC data reader: get_objects_by_id,Greg Behm,,2018-11-08T22:18:42.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,hsankesara/plasticc-eda,PlAsTiCC EDA,Hsankesara,,2018-12-02T13:22:03.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,scirpus/sonething-funky,Sonething Funky,Scirpus,,2018-10-30T11:16:23.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,scirpus/change-in-flux,Change in Flux,Scirpus,,2018-10-23T14:22:57.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,joshualin24/redshift-infomation-specz-and-photoz,Redshift infomation (specz and photoz),Joshua Yao-Yu Lin,,2018-10-19T01:49:01.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,katedavis/plasticc-classification-demo,plasticc_classification_demo,Kate,,2018-10-05T06:55:27.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,yk0711/plotting-light-curves-of-training-data-set,Plotting light curves of training data set,ykit,,2018-10-11T06:00:09.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,PLAsTiCC-2018
+,,,,,0,pankajb64/plasticc-dmdt-eda,Plasticc DMDT EDA,Pankaj Bhambhani,,2018-12-03T16:44:17.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,marcolam/cmc-plots-modified,CMC Plots modified,Marco Lam,,2018-11-02T14:19:23.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,scirpus/kl-gp-clustering,KL GP Clustering,Scirpus,,2018-10-31T16:01:13.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,alexfir/test-set-columns-part-2,Test set columns part 2,Alexander Firsov,,2018-10-22T13:27:57.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,chocozzz/the-plasticc-astronomical-classification-eda,The PLAsTiCC Astronomical Classification : EDA,SeaOtter,,2018-10-21T13:47:55.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,alexfir/test-set-columns-part-1,Test set columns part 1,Alexander Firsov,,2018-10-22T09:43:04.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,aleksandravdyushenko/naive-and-lightgbm-on-meta-with-score-calc,Naive and lightgbm on meta with score calc,Aleksandr  Avdyushenko,,2018-10-12T13:10:09.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,PLAsTiCC-2018
+,,,,,0,jiweiliu/dask-dataframe-bigger-than-memory-test,dask_dataframe_bigger_than_memory_test,Jiwei Liu,,2020-01-30T22:34:08.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,jasperderikxvantage/olivier-s-kernel-in-sklearn-pipeline,Olivier's kernel in sklearn pipeline,Jasper Derikx,,2018-12-18T12:14:01.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,nakasho/plasticc-data-plot-with-healpy,PLAsTiCC data plot with healpy,Sho Nakamura,,2018-11-29T12:00:14.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,aantonova/aggregate-datasets-by-means-and-vars,Aggregate datasets by means and vars,Ann Antonova,,2018-10-29T15:17:40.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,horohoro/lgb-parameter-simplever-lb1-55,LGB Parameter_SimpleVer.LB1.55,horohoro,,2018-10-27T13:28:57.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,maidaly/interactive-eda-and-visualization-for-plasticc,Interactive EDA and Visualization for PLAsTiCC,Mai Daly,,2018-11-10T01:19:58.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,laczy76/plasticc-eda-training-set-metadata-csv,PLAsTiCC EDA (training_set_metadata.csv),Laczy76,,2018-10-06T10:17:11.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,PLAsTiCC-2018
+,,,,,0,kaerunantoka/0-943-cv-0-52974-features-136,0.943 + CV 0.52974 features 136,kaerururu,,2018-12-17T13:00:16.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,ankitchaudhary23/plastic-in-python,plastic in python,Ankit Chaudhary,,2018-12-10T01:23:07.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,scirpus/genetic-programming-confusion-matrix,Genetic Programming Confusion Matrix,Scirpus,,2018-12-06T15:28:57.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,authman/plasticc-in-a-kernel-meta-and-data,PLAsTiCC_in_a_kernel_meta_and_data,عثمان,,2018-11-15T01:35:10.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,cyrusian/plastic-cyrus-1,plastic-cyrus-1,Cyrusian,,2018-11-07T18:29:18.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,johnfarrell/plasticc-2018-another-training-set-eda,plasticc-2018-another-training-set-eda,Jiazhen Xi,,2018-10-27T08:33:33.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,ashutosh7/interactive-exploratory-data-analysis,Interactive  Exploratory Data Analysis,AshutoshSingh,,2018-10-05T21:48:33.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,PLAsTiCC-2018
+,,,,,0,almamun4r/plasticc-2018,PLAsTiCC-2018,Al Mahmud Al Mamun,,2021-03-16T10:30:27.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,sherrysheng97/plasticc-dataset-investigation,PlAsTiCC Dataset Investigation,Sherry Sheng97,,2021-03-12T10:57:12.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,sherrysheng97/drw-estimation-for-plasticc-dataset,DRW estimation for PLAsTiCC Dataset,Sherry Sheng97,,2021-03-12T10:28:40.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,sherrysheng97/tests-and-thoughts,tests and thoughts,Sherry Sheng97,,2021-03-08T05:12:45.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,sherrysheng97/data-preprocessing-plasticc,Data Preprocessing (PLASTiCC),Sherry Sheng97,,2021-03-08T02:02:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,katiamedjani/plasticc-katia,Plasticc-katia,katia katy,,2019-03-29T00:23:43.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,samusram/representative-light-curves-for-hard-classes,Representative light curves for hard classes,Raman,,2019-06-26T08:15:46.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,ebudia/fork-of-fork-of-fork-of-jointest-31-v3-75f1b6,Fork of Fork of Fork of JoinTest 31 v3 75f1b6,Ernesto Budia,,2018-12-17T22:21:16.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,ebudia/lgbm-31-1-w,LGBM 31.1 w,Ernesto Budia,,2018-12-13T20:47:29.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,ebudia/lgbm-31-wo-0-536906,LGBM 31 wo 0.536906,Ernesto Budia,,2018-12-12T20:59:45.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,ebudia/nnmodel-v1-wo,NNMODEL v1 wo,Ernesto Budia,,2018-12-17T14:18:46.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,jimpsull/somethingdifferent-testsetedition,SomethingDifferent - TestSetEdition,Jim Sullivan,,2018-11-19T21:15:13.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,marcolam/some-test-plots,Some test plots,Marco Lam,,2018-10-23T00:29:20.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,thibmain/save-test-chunks,Save_test_chunks,tmain,,2018-10-18T14:35:28.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,billycrawford/plasticc-eda,PLAsTiCC EDA,Billy Crawford,,2018-10-25T07:56:11.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,PLAsTiCC-2018
+,,,,,0,zongzelee/quantum-test,quantum_test,Zongze Lee,,2022-03-31T02:17:04.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,alexandrelacour/plasticc-lulu,Plasticc Lulu,Alex lacour,,2021-05-13T08:30:58.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,sherrysheng97/quasar-classifier-plasticc,Quasar_Classifier (PLAsTiCC),Sherry Sheng97,,2021-02-19T10:56:56.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,gubanovfedor/rnnsolution,RNNSolution,Gubanov Fedor,,2020-12-30T16:35:02.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,riteshkankonkar/dir-per-unique-class-for-image-classification,dir_per_unique_class_for_image_classification,RiteshKankonkar,,2020-03-18T11:18:40.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,tossaponboongoen/feature-engineering-with-gaussian-process,Feature Engineering with Gaussian Process,Tossapon,,2019-07-11T12:18:25.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,rababchahboune/gp-flux-prediction,GP_flux_prediction,Rabab Chahboune,,2019-03-25T00:30:06.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/shallowlgbensembler,shallowLgbEnsembler,Jim Sullivan,,2018-12-18T20:53:33.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/neuralmoredecisive,neuralMoreDecisive,Jim Sullivan,,2018-12-17T01:59:31.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,hellokitty23/fork-of-kernele25cb411bb,Fork of kernele25cb411bb,Michael,,2018-12-17T20:49:50.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/mergeneural512newparams,mergeNeural512NewParams,Jim Sullivan,,2018-12-15T00:43:19.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/igneural1024newfeats,igNeural1024NewFeats,Jim Sullivan,,2018-12-15T00:34:44.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/egneural512newfeats,egNeural512NewFeats,Jim Sullivan,,2018-12-14T20:40:44.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/lognormalizefeaturesetstogetherwextrafeats,logNormalizeFeatureSetsTogetherWExtraFeats,Jim Sullivan,,2018-12-14T20:04:52.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/fiftyfivefourtyfiveblend,fiftyFiveFourtyFiveBlend,Jim Sullivan,,2018-12-14T17:39:34.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/egneuraltt512wsmote,egNeuralTT512WSmote,Jim Sullivan,,2018-12-13T20:04:07.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/lognormalizefeaturesetstogether,logNormalizeFeatureSetsTogether,Jim Sullivan,,2018-12-18T17:22:30.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/adjustpredictiondataframe,AdjustPredictionDataFrame,Jim Sullivan,,2018-12-12T00:46:18.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/blendmodels,BlendModels,Jim Sullivan,,2018-12-10T23:57:58.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/parametergridsearch,ParameterGridSearch,Jim Sullivan,,2018-12-07T22:16:29.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/ourpathtowherewearenewparams,OurPathToWhereWeAreNewParams,Jim Sullivan,,2018-12-07T23:06:30.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/closethegapbetweencvandlb,closeTheGapBetweenCVandLB,Jim Sullivan,,2018-12-06T19:33:24.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,xanthate/eda-python,EDA-Python,xan,,2018-11-29T13:46:30.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,deepikaggupta/plasticc-a,PLAsTiCC A,Deepika Gupta,,2018-12-08T18:18:10.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/featuremergingkernelwithaggcustom,FeatureMergingKernelWithAggCustom,Jim Sullivan,,2018-12-03T03:58:14.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/improveclass99fordartsmoteset,ImproveClass99ForDartSmoteSet,Jim Sullivan,,2018-11-21T19:36:12.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/forked-dart-w-ideas-from-kernels-added-smote,Forked DART w/ ideas from kernels added Smote,Jim Sullivan,,2018-11-21T08:58:37.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/smoteappliedeachstepwithoutweighting,SmoteAppliedEachStepWithoutWeighting,Jim Sullivan,,2018-11-20T17:12:37.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,jimpsull/train-and-submit,Train and submit,Jim Sullivan,,2018-11-17T19:16:55.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,ridercoach/crude-binary-attempt-w-raw-time-series-data,Crude Binary Attempt w/ Raw Time-Series Data,Eric Moyer,,2018-11-15T16:35:56.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,devansh2698/basic-exploratory-analysis,Basic Exploratory analysis,Devansh Pandey,,2018-10-25T05:45:52.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018
+,,,,,0,ryou01/kernel-hosi,kernel_hosi,ryou01,,2018-11-01T09:10:55.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,PLAsTiCC-2018

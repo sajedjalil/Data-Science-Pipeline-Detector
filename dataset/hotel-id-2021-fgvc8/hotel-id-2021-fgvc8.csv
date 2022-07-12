@@ -1,0 +1,39 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ateplyuk/human-trafficking-2021-baseline,Human_Trafficking_2021_Baseline,Alexander Teplyuk,,2021-03-11T10:47:27.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,hotel-id-2021-fgvc8
+,,,,,0,shanmukh05/combat-human-trafficking-2k21-tpu-training,Combat Human Trafficking 2k21 TPU Training,Shanmukh,,2021-04-08T05:31:50.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,hotel-id-2021-fgvc8
+,,,,,0,zaber666/human-trafficking-basic-eda-data-analysis,Human Trafficking - Basic EDA + Data Analysis !!!,Zaber Ibn Abdul Hakim,,2021-03-11T05:37:01.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,hotel-id-2021-fgvc8
+,,,,,0,drcapa/human-trafficking-2021-starter,Human_Trafficking_2021_Starter,DrCapa,,2021-04-15T17:23:57.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,hotel-id-2021-fgvc8
+,,,,,0,tpmeli/hotel-id-tf-keras-efficientnet-starter,Hotel-ID - TF/Keras Efficientnet Starter,tpmeli,,2021-03-19T09:46:45.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,hotel-id-2021-fgvc8
+,,,,,0,anjrash/batchall-baseline-hotelid,Batchall-Baseline@HotelID,anjrash,,2021-05-06T21:03:07.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,hotel-id-2021-fgvc8
+,,,,,0,eugenehu/tpu-accelerated-keras-approach-tutorial,TPU accelerated Keras Approach/Tutorial,Eugene Hu,,2021-05-10T16:35:15.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hotel-id-2021-fgvc8
+,,,,,0,michaln/hotel-id-inference,Hotel-ID inference,Michal,,2021-05-26T20:26:15.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hotel-id-2021-fgvc8
+,,,,,0,jamesriley/detect-suspected-traffickers-hotel-usage,Detect Suspected Traffickers Hotel Usage,James Riley,,2021-05-21T05:52:09.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hotel-id-2021-fgvc8
+,,,,,0,michaln/hotel-id-arcmargin-training,Hotel-ID arcmargin training,Michal,,2021-05-27T22:57:58.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hotel-id-2021-fgvc8
+,,,,,0,alenic/discover-rotation,discover_rotation,Alessandro Nicolosi,,2021-04-25T17:46:59.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hotel-id-2021-fgvc8
+,,,,,0,dimakyn/find-room,find_room,DimaKyn,,2021-03-24T15:05:34.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hotel-id-2021-fgvc8
+,,,,,0,blurred8216/human-trafficking-basic-eda-data-analysis,Human Trafficking - Basic EDA + Data Analysis !!!,blurred_8216,,2022-03-04T21:19:52.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hotel-id-2021-fgvc8
+,,,,,0,joatom/hotel-train-fastai-densnet161,Hotel train (fastai + densnet161),Jo Tom,,2021-05-23T12:56:06.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hotel-id-2021-fgvc8
+,,,,,0,andreitapch/hotel-id-data-distribution,hotel-id-Data Distribution,Andrea Pulido,,2021-06-09T12:32:09.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,andreitapch/hotel-id-chain,Hotel_ID_Chain,Andrea Pulido,,2021-06-09T12:43:19.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,michaln/hotel-id-cosface-training,Hotel-ID cosface training,Michal,,2021-05-27T23:22:53.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,joatom/hotel-inference-fastai,Hotel inference (fastai),Jo Tom,,2021-05-24T06:14:20.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,andreitapch/hotel-id-fastai,Hotel_ID_Fastai,Andrea Pulido,,2021-06-14T12:21:41.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,confirm/hotelid-kohei,Hotelid-Kohei,Kohei,,2021-06-05T07:30:42.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,adhiau/combat-human-trafficking,Combat_human_trafficking,AD,,2021-05-17T14:34:36.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,michaln/hotel-id-preprocess-images,Hotel-ID preprocess images,Michal,,2021-05-08T11:57:24.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,ktncktnc/submit-effnet,submit-effnet,Khoa,,2021-04-17T08:48:36.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,cancan077/kc-hotel-id-to-combat-human-trafficking-2021,kc_Hotel-ID to Combat Human Trafficking 2021,can can,,2021-04-08T02:16:55.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hotel-id-2021-fgvc8
+,,,,,0,michaln/hotel-id-classification-training,Hotel-ID classification training,Michal,,2021-05-27T23:19:22.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,codyjm/notebook6b9555902d,notebook6b9555902d,CodyJM,,2021-05-14T14:41:27.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,joatom/fgvc8-hotel-ensemble-inference,fgvc8 - hotel ensemble (inference),Jo Tom,,2021-05-26T06:28:25.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,alexgomes3/lxkaggle-hotelid-eda,LxKaggle-HotelId-EDA,AlexandreGomes,,2021-04-19T14:18:41.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,michaln/hotel-id-eda-with-plotly,Hotel-ID EDA with plotly,Michal,,2021-04-10T17:38:31.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,mohammadasimbluemoon/hotel-id-to-combat-human-trafficking-gpu,Hotel-ID-to-Combat-Human-Trafficking-GPU,MohammadAsim@bluemoon,,2021-03-30T17:56:45.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,preeyonujb1/hotel-id-basic-eda,Hotel-ID-Basic EDA,Preeyonuj Boruah,,2021-03-27T19:35:04.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hotel-id-2021-fgvc8
+,,,,,0,kusum143/combat-human-trafficking,Combat_human_trafficking,Kusum_143,,2022-03-04T08:38:34.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8
+,,,,,0,andreitapch/hotelid-model-per-chain,hotelId_model_per_chain,Andrea Pulido,,2021-06-13T22:58:03.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8
+,,,,,0,andreitapch/hotel-id-hotel-category,Hotel_ID_Hotel_category,Andrea Pulido,,2021-06-10T22:45:24.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8
+,,,,,0,liwilliam/image-prediction-function,Image Prediction Function,li.william,,2021-05-16T15:59:23.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8
+,,,,,0,liwilliam/notebook6b9555902d,notebook6b9555902d,li.william,,2021-05-13T15:09:00.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8
+,,,,,0,arnabdey/notebook85c071744a,notebook85c071744a,Arnab Dey,,2021-04-06T13:32:14.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8
+,,,,,0,ktncktnc/hotel-id-tf-keras-efficientnet-starter,Hotel-ID - TF/Keras Efficientnet Starter,Khoa,,2021-04-17T07:56:20.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hotel-id-2021-fgvc8

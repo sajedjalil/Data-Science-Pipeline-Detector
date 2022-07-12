@@ -1,0 +1,365 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,amyjang/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Amy Jang,,2020-08-29T08:26:50.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],585,gan-getting-started
+,,,,,0,dimitreoliveira/introduction-to-cyclegan-monet-paintings,Introduction to CycleGAN - Monet paintings,DimitreOliveira,,2020-08-31T01:22:15.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],135,gan-getting-started
+,,,,,0,ohseokkim/transfering-style,Transfering Style!,OH SEOK KIM,,2022-02-15T09:34:23.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],121,gan-getting-started
+,,,,,0,imoore/generate-paintings-by-image-style-transfer,Generate Paintings By Image Style Transfer,Moore,,2021-06-29T07:23:27.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],100,gan-getting-started
+,,,,,0,ihelon/monet-visualization-and-augmentation,Monet - Visualization and Augmentation,Yaroslav Isaienkov,,2020-12-04T20:10:00.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],95,gan-getting-started
+,,,,,0,dimitreoliveira/improving-cyclegan-monet-paintings,Improving CycleGAN - Monet paintings,DimitreOliveira,,2021-04-17T20:41:54.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],91,gan-getting-started
+,,,,,0,ruchi798/getting-started-with-gans,Getting started with GANs ,Ruchi Bhatia,,2020-12-02T21:20:25.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],89,gan-getting-started
+,,,,,0,tanlikesmath/upit-a-package-for-unpaired-img2img-translation,UPIT -a package for unpaired img2img translation,ilovescience,,2022-06-05T02:02:47.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],53,gan-getting-started
+,,,,,0,nachiket273/cyclegan-pytorch,CycleGAN_Pytorch,nachiket273,,2021-07-06T20:15:08.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,gan-getting-started
+,,,,,0,doanquanvietnamca/the-beauty-of-cyclegan,The Beauty of CycleGAN,Manh Lab,,2022-04-02T20:57:28.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,gan-getting-started
+,,,,,0,unfriendlyai/two-objective-discriminator,Two-objective discriminator,UnfriendlyAI,,2021-07-30T18:46:57.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,gan-getting-started
+,,,,,0,theblackmamba31/neural-style-transfer-photo-to-monet,Neural Style Transfer: Photo to Monet,Black Mamba,,2021-06-22T01:58:05.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,gan-getting-started
+,,,,,0,shivansh002/gentle-introduction-to-gan,✨ Gentle Introduction to GAN,Yotoro,,2021-09-18T09:01:27.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,gan-getting-started
+,,,,,0,isaienkov/monet-masterpieces-eda-and-image-classification,Monet masterpieces. EDA and image classification,Kostiantyn Isaienkov,,2020-11-28T22:47:43.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,gan-getting-started
+,,,,,0,dapy15/monet-using-gan,Monet using GAN,USP ANUPAM,,2021-05-25T03:00:39.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,gan-getting-started
+,,,,,0,jesperdramsch/understanding-and-improving-cyclegans-tutorial,Understanding and Improving CycleGANs - Tutorial,Jesper Sören Dramsch,,2020-09-12T13:34:16.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,gan-getting-started
+,,,,,0,jesperdramsch/getting-started-with-standard-gans-tutorial,Getting started with standard GANs - Tutorial,Jesper Sören Dramsch,,2021-12-22T17:07:58.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,gan-getting-started
+,,,,,0,samibenhsan/sbh-advanced-cycle-gan-implementation-and-tricks,SBH  Advanced Cycle GAN Implementation and tricks ,Sémi Ben Hsan,,2021-06-05T08:43:04.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,gan-getting-started
+,,,,,0,upamanyumukherjee/cyclegan,CycleGAN,Upamanyu Mukherjee,,2022-04-10T14:33:27.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,gan-getting-started
+,,,,,0,swepat/cyclegan-to-generate-monet-style-images,CycleGAN to generate Monet-style images,Swetha ,,2020-10-31T18:42:40.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,gan-getting-started
+,,,,,0,bootiu/cyclegan-pytorch-lightning,CycleGAN - Pytorch Lightning,navi,,2021-10-05T08:46:42.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,gan-getting-started
+,,,,,0,tarunbisht11/generate-art-using-fast-style-transfer-in-a-second,Generate Art using Fast Style Transfer in a second,Tarun,,2020-09-30T18:31:08.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,gan-getting-started
+,,,,,0,andrej0marinchenko/public-score-35-10897-i-m-something-of-a-painter,[Public Score 35.10897] I’m Something of a Painter,Andrej Marinchenko,,2021-12-18T21:10:55.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,gan-getting-started
+,,,,,0,dimitreoliveira/monet-paintings-berkeley-tfrecords-256x256,Monet paintings (Berkeley) -  TFRecords 256x256,DimitreOliveira,,2020-09-01T23:49:25.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,gan-getting-started
+,,,,,0,songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo,🌘CycleGAN Tutorial from Scratch: Monet-to-Photo🌒,Seungwon Song,,2021-06-23T16:30:27.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,gan-getting-started
+,,,,,0,unfriendlyai/cyclegan-without-identity-loss,CycleGAN without identity loss,UnfriendlyAI,,2021-01-03T10:28:34.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,gan-getting-started
+,,,,,0,xholisilemantshongo/cycle-gan,Cycle_GAN,Xholisile Mantshongo,,2021-11-16T16:57:28.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,gan-getting-started
+,,,,,0,minfa1207/cyclegan-pytorch-training,⟲CycleGAN⟲_Pytorch🔥🔥🔥🔥🔥 (Training),Koh,,2021-12-28T06:22:05.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,gan-getting-started
+,,,,,0,lonnieqin/cycle-gan,Cycle GAN,Lonnie,,2021-09-08T19:26:42.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,gan-getting-started
+,,,,,0,sanjitschouhan/gan-getting-started,GAN Getting Started,Sanjit Singh Chouhan,,2021-03-02T06:09:44.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,gan-getting-started
+,,,,,0,rhtsingh/training-gan-s-using-torch-xla-part-1-dc-gan,Training GAN's using Torch XLA - Part 1 [DC-GAN],torch,,2020-09-06T07:54:23.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,gan-getting-started
+,,,,,0,heyytanay/tf-paint-like-painter-generate-like-generator,"[TF] Paint like Painter, Generate like Generator ♨",Tanay Mehta,,2020-08-31T18:09:42.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,gan-getting-started
+,,,,,0,netstalker1337/pytorch-cyclegan,pytorch-cycleGAN,Artyom,,2022-01-13T18:55:31.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,gan-getting-started
+,,,,,0,victorsullivan/i-m-something-of-a-painter-myself,I’m Something of a Painter Myself,Saravana Kumar,,2021-08-18T12:10:15.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,gan-getting-started
+,,,,,0,animesh2099/monet-gan,Monet GAN,Animesh,,2020-09-05T15:00:32.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,gan-getting-started
+,,,,,0,ipythonx/wiki-art-visual-art-encyclopedia-eda,Wiki-Art: : Visual Art Encyclopedia - EDA,M.Innat,,2020-09-02T08:33:35.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,gan-getting-started
+,,,,,0,ipythonx/monet-variational-auto-encoder,Monet: Variational Auto-Encoder,M.Innat,,2020-08-31T06:20:55.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,gan-getting-started
+,,,,,0,andrej0marinchenko/best-score-35-10897,Best Score 35.10897,Andrej Marinchenko,,2022-02-26T21:23:57.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,gan-getting-started
+,,,,,0,lonnieqin/fast-style-transfer,Fast Style Transfer,Lonnie,,2021-08-29T09:23:12.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,gan-getting-started
+,,,,,0,unfriendlyai/diffaugment-is-all-you-need,DiffAugment is all you need,UnfriendlyAI,,2021-05-09T05:20:48.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,gan-getting-started
+,,,,,0,tpothjuan/cyclegan-with-gpu-with-explanations,CycleGan with GPU with explanations ,Juan Sanchez,,2020-12-29T00:08:22.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,gan-getting-started
+,,,,,0,unfriendlyai/cyclegan-with-dg-pretraining,CycleGAN with DG pretraining,UnfriendlyAI,,2021-02-05T16:27:49.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,gan-getting-started
+,,,,,0,together/gan-introduction-explained,GAN Introduction Explained,Gaofeng Huang,,2020-09-27T19:35:04.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,gan-getting-started
+,,,,,0,lmyybh/pytorch-cyclegan,pytorch-cycleGAN,lmyybh,,2021-08-29T15:11:59.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,gan-getting-started
+,,,,,0,atrisaxena/pytorch-cyclegan,Pytorch: CycleGAN ,Atri Saxena,,2020-08-30T10:57:27.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,gan-getting-started
+,,,,,0,ninamaamary/cyclegan-artist,CycleGAN Artist🎨,Nina Almaamary,,2022-05-17T21:15:56.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,gan-getting-started
+,,,,,0,daviddirethucus/painting-cycle-gan-pytorch,painting cycle_GAN (Pytorch),david milsky,,2021-07-10T07:00:02.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,gan-getting-started
+,,,,,0,greynolan/cyclegan-monet,CycleGAN Monet,Eloik,,2021-03-15T06:16:11.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,gan-getting-started
+,,,,,0,joackobengochea/cyclegan-with-data-augmentation,CycleGAN with data augmentation,Joaquín Bengochea,,2021-01-22T11:14:26.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,gan-getting-started
+,,,,,0,alonsoags11/monet-didn-t-like-logos,Monet didn't like logos,Alonso,,2020-12-08T12:26:10.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,gan-getting-started
+,,,,,0,doanquanvietnamca/tfrecords-dataset-256x256-wikiarts-1367-images,TFRecords Dataset: 256x256 WikiArts 1367 Images,Manh Lab,,2022-04-02T20:00:25.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,gan-getting-started
+,,,,,0,ninamaamary/dcgan-artist,DCGAN Artist 🎨,Nina Almaamary,,2022-05-02T21:54:18.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,gan-getting-started
+,,,,,0,okcho9807/cyclegan-jy-zhu-et-al-2020,"CycleGAN(JY Zhu et al., 2020)",Yongki Cho,,2021-12-06T01:12:32.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,gan-getting-started
+,,,,,0,padmanabhabanerjee/art-forger-and-detective,Art Forger 🤑 and Detective 🤠 ,Padmanabha Banerjee,,2021-03-18T13:48:54.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,gan-getting-started
+,,,,,0,bryanb/image-segmentation-u-net,Image Segmentation U-Net,BryanB,,2022-02-04T23:37:30.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,gan-getting-started
+,,,,,0,aniketmaurya/tfrecord-image-visualization,TFrecord image visualization,Aniket Maurya,,2020-09-23T19:08:40.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,gan-getting-started
+,,,,,0,ipythonx/monet-and-vincent-gogh-art-work-eda,Monet and Vincent Gogh Art Work- EDA,M.Innat,,2020-08-30T11:37:21.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,gan-getting-started
+,,,,,0,thejosephgoodman/baseline-gan,baseline_gan,theJosephGoodman,,2022-01-03T19:00:09.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,antoinegruson/quick-tuto-wikiart-dataset,Quick Tuto | 🎨 WikiArt dataset,Antoine Gruson,,2021-11-22T14:59:38.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,yousseftaoudi/cyclegan-monet-ization-of-photographs,"CycleGAN, Monet-ization of Photographs",Youssef Taoudi,,2021-12-07T01:57:00.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,stpeteishii/style-transfer-pytorch-sample,Style Transfer PyTorch Sample,stpete_ishii,,2021-11-03T03:24:16.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,ollibolli/monetifying-photos-with-basic-gan-in-pytorch,Monetifying Photos with basic GAN in pytorch,oliver,,2021-10-21T14:56:08.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,harmonialeoleo/cyclegan-chinese-notes,CycleGAN (Chinese Notes),HarmoniaLeo,,2021-05-19T14:45:39.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,tareqalg/cyclegan-photo-to-monet-style,CycleGAN photo to Monet style,Tareqalg,,2021-03-27T00:00:07.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,antoreepjana/artificial-monet-paintings-using-cyclegan,Artificial Monet Paintings using CycleGAN,antoreepjana,,2021-02-20T08:31:51.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,abbymabe/cyclegan-getting-started,CycleGAN Getting Started,Abby Mabe,,2021-03-09T14:37:02.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,fleek12/cycle-gan-to-create-monet-style-art,Cycle GAN to create monet style art,fleek12,,2021-03-15T16:05:17.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,matkneky/monet-cyclegan-trials,Monet CycleGAN Trials,Mathieu Jossent,,2020-10-26T06:14:35.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,atrisaxena/something-of-a-painter-myself-eda,Something of a Painter Myself: EDA,Atri Saxena,,2020-08-29T18:31:59.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,gan-getting-started
+,,,,,0,stpeteishii/style-transfer-tensorflow-sample,Style Transfer Tensorflow Sample,stpete_ishii,,2021-11-03T07:54:05.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,shreshtas94/cycle-gan-monet,Cycle-GAN-Monet,Shreshta Shetty,,2021-10-09T18:20:24.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,annatmp/monet-cyclegan-mlip-2021,Monet CycleGAN MLiP 2021,Anna,,2021-03-18T15:21:04.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,adhok93/vae-generation,VAE Generation,AdhokshajaPradeep,,2021-03-09T11:48:19.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,kkelv1n/my-cyclegan,My cycleGAN,Kelvin,,2020-12-08T06:37:08.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,hak999/simplified-cyclegan,Simplified CycleGAN ,hak,,2020-11-02T22:47:08.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,adrianda/cyclegan-pytorch-style-transfer,CycleGAN - Pytorch - Style Transfer,adrian-ha,,2020-12-01T11:11:16.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,developerx/tensorflow-hub-pre-trained-model,TensorFlow Hub Pre-trained Model,jeff_817,,2020-09-14T01:35:14.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,gan-getting-started
+,,,,,0,artyomivanov/monet-cyclegan,Monet_CycleGAN,Artyom Ivanov,,2022-06-16T16:31:14.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,gan-getting-started
+,,,,,0,yasinnaal/monet-art-creation-gans-algorithm,Monet art creation - GANs algorithm,Yasin Naal,,2021-11-12T22:41:40.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,gan-getting-started
+,,,,,0,amritanshupandey/i-m-something-of-a-painter-myself,I'm something of a painter myself,Amritanshu Pandey,,2021-06-24T14:49:38.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,gan-getting-started
+,,,,,0,krishnamore/simple-cyclic-gan,Simple Cyclic-GAN,Krishna More,,2021-06-15T19:30:14.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,gan-getting-started
+,,,,,0,jcsantiago/step-by-step-cyclegan-photos-to-monet-paintings,Step by Step CycleGAN - Photos to Monet Paintings,Juan Carlos Santiago Culebras,,2020-12-22T07:27:39.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,gan-getting-started
+,,,,,0,doanquanvietnamca/submit-cyclegan,SUBMIT CycleGAN,Manh Lab,,2020-08-30T18:22:14.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,gan-getting-started
+,,,,,0,vladislavmelnichuk/o6-2-cyclegan-pytorch-tinkoff-dl,o6_2 CycleGAN pytorch Tinkoff DL,Vladislav Melnichuk,,2022-02-03T12:41:05.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,ollibolli/monetifying-photos-with-wgan-in-pytorch,Monetifying Photos with WGAN in pytorch,oliver,,2021-11-27T13:43:50.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,drobchak1988/pix2pix-tpu,pix2pix TPU,Maksim Drobchak,,2021-10-05T13:31:30.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,stpeteishii/style-transfer-tensorflow-hub-sample,Style Transfer TensorFlow Hub Sample,stpete_ishii,,2021-11-03T03:24:01.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,tikutiku/monet-cyclegan-starter-pytorch-xla,Monet CycleGAN Starter - Pytorch XLA,Tom,,2021-07-20T13:49:51.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,tanreinama/neural-algorithm-of-artistic-style,Neural Algorithm of Artistic Style,Tanrei(nama),,2021-06-05T08:24:32.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,kritanjalijain/monet-cyclegan,Monet CycleGAN,Kritanjali Jain,,2021-04-29T16:03:54.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,unfriendlyai/cyclegan-is-obsolete,CycleGAN is obsolete,UnfriendlyAI,,2022-02-08T16:38:31.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,sebastianponce/cyclegan-keras-implementation,CycleGAN - Keras implementation,Sebastian Ponce,,2021-03-17T15:14:03.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,larryziazo/gan-monet-painter-panagiotis-pix2pix,gan -monet painter - Panagiotis pix2pix,Larry Ziazo,,2021-02-28T20:35:10.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,ayuraj/style-transfer-using-cyclegan-with-tf-and-w-b,Style Transfer using CycleGAN with TF and W&B,Ayush Thakur,,2021-01-16T18:28:25.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,soyabulislam/gan-art-creation,GAN_art_creation,Soyabul Islam,,2021-01-02T07:55:34.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,greatrxt/monet,monet,rxt,,2021-04-07T16:20:43.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,krsna540/contrastive-learning,Contrastive Learning                ,Krishna Chaitanya,,2020-10-25T12:23:21.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,naim99/generative-adversarial-architecture-use-case,generative-adversarial-architecture-use case,Naim Mhedhbi,,2020-10-02T09:20:51.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,poonsfc5/understanding-cyclegan-with-inline-comments,Understanding_CycleGAN_with_Inline_Comments,S Poon,,2020-09-28T11:42:16.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,tarunbisht11/starter-submission-with-fast-style-transfer,Starter Submission with Fast Style Transfer,Tarun,,2020-09-26T19:13:34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,drzhuzhe/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Drzhuzhe,,2021-05-11T06:55:28.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,maheer/cyclegan-monet,CycleGAN | Monet,Mohammad Maheer,,2020-08-30T03:37:10.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,gan-getting-started
+,,,,,0,andrewmassart/monet-cyclegan-revision,Monet CycleGAN revision,Andrew Massart,,2022-03-18T20:57:51.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,isakcodes/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,isakcodes,,2022-02-24T18:44:10.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,davidalf/cycle-gan-pytorch,cycle_gan_pytorch,Chenxi Zhao,,2022-02-19T02:42:28.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,robinhylands/monet-cyclegan-my-copy,Monet CycleGAN My Copy,Robin Hylands,,2022-03-25T20:56:16.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,hisaamhashim/monet2photo-cycle2gan-on-tpu-plots,monet2photo - Cycle2GAN on TPU (plots),Hisaam Hashim,,2021-12-01T22:14:09.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,sergeyshevelev/gan-monet,GAN Monet,Sergey Shevelev,,2021-11-08T17:10:41.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,stpeteishii/style-transfer-keras-sample,Style Transfer Keras Sample,stpete_ishii,,2021-11-03T03:23:40.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,drobchak1988/resnet-cyclegan-tensorflow-2-gpu,ResNet CycleGAN Tensorflow-2 GPU,Maksim Drobchak,,2021-10-05T13:31:44.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,anayad/single-image-style-transfer,Single Image Style Transfer,AnandYadav,,2021-08-22T10:58:19.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,calendarguo/notebookmonet,notebookMonet,Calendarguo,,2021-06-13T18:08:57.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,stpeteishii/multiple-images-style-transfer-tf-hub,Multiple Images Style Transfer TF-Hub ,stpete_ishii,,2021-11-03T03:34:35.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,alllancheung/mlproject1,MLproject1,AlllanCheung,,2021-03-25T20:39:34.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,makotomorishita/cyclegan,CycleGAN,Makoto Morishita,,2021-03-22T09:59:07.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,thijsgelton/cyclegan-v1,CycleGAN_v1,Thijs Gelton,,2021-01-30T14:09:37.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,lvalencia/gans-conquerts-impressionism,GANs conquerts impressionism,lvalencia,,2022-06-09T06:18:36.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,poojagpta/cyclegan-resnet,cycleGAN_ResNet,Pooja Gupta,,2021-01-06T04:31:26.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,bagavathypriya/cycle-gan,Cycle GAN,Bagavathy Priya,,2020-11-10T13:52:21.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,forwet/unpaired-data-cyclicgan-awesome-monets,Unpaired Data + CyclicGAN = Awesome Monets 🌟,Sarthak khandelwal,,2020-10-13T08:07:34.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,alexandersamarin/cut-gan,CUT GAN,Alexander Samarin,,2020-11-03T21:59:45.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,mizomatic/contrastive-unpaired-image-to-image-translation,Contrastive Unpaired Image to Image Translation,sumanyumuku98,,2020-09-14T03:23:24.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,parmarsuraj99/i-m-something-of-a-progressive-cycle-myself,I'm something of a Progressive Cycle myself,Suraj Parmar,,2020-09-05T08:23:23.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,sergioli212/generate-monet-paintings-using-dcgan,Generate Monet paintings using  DCGAN,xinzhel,,2020-09-06T14:19:58.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,daenys2000/cyclegan,CycleGAN,Nitisha Singh,,2020-09-04T10:02:45.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,shams1/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Shams Sultan,,2020-09-17T16:22:26.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,gan-getting-started
+,,,,,0,crazymage/hw6-notebook,HW6_notebook,Mishan Aliev,,2022-05-11T12:21:47.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,goprogram/monet-challenge,monet-challenge,George Ogden,,2022-05-09T07:35:17.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,vitkishloh228/solution-cyclegan,solution_CycleGAN,KED2006,,2022-05-01T11:35:11.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,woodkeeper/monet-pytorch,Monet PyTorch,woodkeeper,,2022-05-05T16:07:20.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,zel1k7/cyclegan,CycleGan,ZeL1k7,,2022-03-24T07:47:19.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,vivekcodes/i-m-something-of-a-painter-myself,🎨I’m Something of a Painter Myself🎨,Vivek_codes,,2022-01-08T18:03:25.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,khaoulabenali/final-submission,Final submission,Khaoula Benali,,2022-01-04T22:05:38.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,nanditab35/painter-cyclegan-torch-updated,Painter_CycleGAN_torch_updated,Nandita B,,2022-02-15T16:42:52.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,mohammadsalehnaderi/monet-in-persian-description,Monet in Persian Description,Mohammad Saleh Naderi,,2022-02-17T10:27:40.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,cmule90/cyclegan-baseline,[CycleGAN] baseline,C_MulE90,,2021-11-27T06:01:53.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,ishana798/painter-584,Painter_584,Ishana Shinde,,2021-12-12T20:33:18.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,antoninabugayova/monet-cyclegan,Monet CycleGAN ,Antonina Bugayova,,2021-11-07T09:20:57.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,hanamagdymohamed/final-submission,Final submission,Hana Magdy Mohamed,,2021-10-10T15:19:50.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,natsukinateyamashita/shufflepair-cyclegan,ShufflePair_CycleGAN,NatsukiNateYamashita,,2021-10-03T17:46:12.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,robinsooooon/gan-past,GAN_PAST,Robinsooooon,,2021-09-12T15:49:51.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,vijayshankar756/cycle-gan,Cycle_gan,vijayshankarrealdeal,,2021-12-29T04:25:59.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,gravatt/monet-cyclegan-tutorial-plus-diffaugment,Monet CycleGAN Tutorial (plus DiffAugment),gravatt,,2021-08-18T19:57:07.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,matangrossman/notebook380e371acf,notebook380e371acf,matan grossman,,2021-08-02T15:28:06.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,quentinvign/g-n-ration-de-tableaux-de-monet-cyclegan,Génération de tableaux de Monet - CycleGAN,Quentin Vigné,,2021-05-02T18:26:53.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,jerinm/cyclegan-cv-model-monet-style-images,CycleGAN CV Model - Monet-style images,Jerin M,,2021-03-17T11:26:07.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,hucuiooo/cyclegan-painter,CycleGAN painter!,hucuiooo,,2021-01-05T01:03:53.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,rajat3429/101703429-rajat-verma,101703429_Rajat Verma,RAJAT_3429,,2020-11-25T13:25:48.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,nicapotato/tf-hub-arbitrary-image-stylization,TF Hub Arbitrary Image Stylization,nicapotato,,2020-11-18T12:01:30.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,enm185/vae-submission,vae_submission,Eric,,2020-10-22T20:26:05.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,pritam7777/i-m-something-of-a-painter-myself-using-gan,I’m Something of a Painter Myself using GAN,Pritam Jathar,,2020-10-17T18:38:21.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,brechard/say-hi-to-the-new-stylegan-cut,Say Hi! to the new StyleGAN: CUT,Rodrigo Brechard,,2020-11-10T15:18:45.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,bineeshsps/cycle-gan-monet,Cycle GAN: Monet,BSP,,2020-09-08T14:47:46.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,sovitrath/introduction-to-gans-for-beginners,Introduction to GANs for Beginners,Sovit Ranjan Rath,,2020-09-01T05:30:15.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,shams1/monet-variational-autoencoder,Monet: Variational AutoEncoder,Shams Sultan,,2020-08-29T18:54:00.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,himasha0421/cyclegan,CycleGAN,himasha,,2020-09-06T20:52:22.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,gan-getting-started
+,,,,,0,tauilabdelilah/implementation-cyclegan,Implementation-CycleGan,TAUIL Abd Elilah,,2022-06-29T05:23:03.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,rahulgolder/pytorch-implementation-of-cyclegan-architecture,PyTorch Implementation of CycleGAN Architecture,Rahul Golder,,2022-06-07T16:18:24.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,vaesong/homework2,HomeWork2,Vaesong,,2022-06-01T01:54:25.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,assazas/different-approaches-to-style-transfer,Different approaches to style transfer,sazas,,2022-05-16T20:25:33.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,sergeyzelenovskiy/cyclegan,CycleGan,Sergey Zelenovskiy,,2022-05-15T07:08:27.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,mfalkowska/monet-cyclegan,Monet CycleGAN,Magdalena Falkowska,,2022-04-19T14:40:29.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,monemzibali/cyclegan-monet,CycleGAN-Monet,Monem Zibali,,2022-04-17T21:29:35.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,jeff86/p8-01-cyclegan-v1,P8_01_CycleGAN_V1,Jeff_86,,2022-03-30T13:26:00.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,shoaib16940/cyclegan-pytorch,CycleGAN_Pytorch,MohammedShoaib,,2022-03-18T20:46:22.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,teayanghan/monet-cyclegan-tutorial2,Monet CycleGAN Tutorial2,teayanghan,,2022-03-30T13:29:12.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,andrewmassart/monet-cyclegan,Monet CycleGAN ,Andrew Massart,,2022-03-12T02:18:23.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,saidzellagui/sdzlg-gan-monet,SdZLG_GAN_Monet,Said ZELLAGUI,,2022-02-10T09:52:50.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,mostafabenmahmoud/wcgan-monet,WCGAN_monet,Mostafa Benmahmoud,,2022-02-13T10:17:20.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,rborder/monet-gan,Monet GAN,Robert Border,,2022-01-26T15:48:55.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,evgenypotapov/dhjrtxm,dhjrtxm,Evgeny Potapov,,2022-01-17T21:49:45.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,saraswatitiwari/i-m-a-painter,I'm a Painter,Saraswati Tiwari,,2021-12-27T05:06:41.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,hisaamhashim/monet2photo-cycle2gan-on-tpu-v2,monet2photo - Cycle2GAN on TPU (v2),Hisaam Hashim,,2021-12-01T15:38:38.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,cmule90/cyclegan-inference,[CycleGAN] Inference,C_MulE90,,2021-11-28T05:36:18.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,davidmasek/mvi-checkpoint-photo-to-drawing-style-transfer,[MVI Checkpoint] Photo-to-Drawing Style Transfer,David Mašek,,2021-11-26T18:01:39.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,jybeack/monet-cyclegan-augmentation,Monet CycleGAN_Augmentation,JiyeonBeack,,2021-12-02T06:43:57.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,okcho9807/cyclegan-unet-with-decaying-lr-reflection-pad,CycleGAN(UNet) with Decaying LR & Reflection Pad,Yongki Cho,,2021-12-02T04:44:12.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,rohitsaichowdary/notebookc0030bb665,notebookc0030bb665,Rohit Sai Chowdary,,2021-11-24T19:41:25.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,ollibolli/monetifying-photos-with-dcgan-in-pytorch,Monetifying Photos with DCGAN in pytorch,oliver,,2021-10-24T11:13:44.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,mestkawy/start-with-gans,Start-With-GANs ,MESTK,,2021-09-11T08:23:59.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,djrmarques/creating-monet-paintings-with-pytorch,Creating Monet Paintings with Pytorch,djrmarques,,2021-09-12T16:44:46.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,giblets/notebook9852843742,notebook9852843742,TomMurray,,2021-08-29T20:14:37.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,ranbinyamini/smart-choose-30-plus-augmented-data,smart_choose_30_plus_augmented_data,Ran Binyamini,,2021-08-22T17:31:26.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,ranbinyamini/smart-choose-30,smart_choose_30,Ran Binyamini,,2021-08-22T14:41:11.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,ranbinyamini/first-30,first-30,Ran Binyamini,,2021-08-22T13:39:12.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,adamgavriely/kaggle-inference-notebook-submission-dl-biu-2021,Kaggle Inference Notebook Submission - DL BIU 2021,Adam Gavriely,,2021-08-12T21:06:10.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,adamgavriely/inference,Inference,Adam Gavriely,,2021-08-12T19:44:07.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,eyalcohenx/small-cyclegan-pytorch-e62942,small_CycleGAN_Pytorch e62942,Eyalcohenx,,2021-08-11T21:00:29.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,aharon421/notebook4775dfe948,notebook4775dfe948,Aharon,,2021-08-12T18:55:32.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,geclos/monet,monet,Gerard Clos,,2021-08-09T13:26:00.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,aryeamsalem/inference,inference,Arye Amsalem,,2021-08-12T21:50:48.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,nrup323/i-am-painter-myself,I am Painter Myself,nrup323,,2021-11-25T07:54:29.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,emanuelnk/small-cyclegan-pytorch,small_CycleGAN_Pytorch,emanuel nk,,2021-08-10T16:51:41.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,santosh1974/monet-gan-1,Monet Gan 1,Santosh Vaidya,,2021-08-02T10:13:21.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,danieljudy/datascience4,datascience4,Daniel Judy,,2021-07-27T11:58:50.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,zahizur/final-notebook,final notebook,Zahi Zur,,2021-07-26T04:29:14.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,zahizur/notebook35c31643ce,notebook35c31643ce,Zahi Zur,,2021-07-25T17:41:21.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,roiperetz/monet-cyclegan-inference,Monet CycleGAN - Inference,Roi Peretz,,2021-08-12T17:11:06.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,danielleaharon/monet-cyclegan-better,monet-cyclegan-better,danielle aharon,,2021-07-21T15:30:59.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,roiperetz/get-datasets-gcs-path,Get Datasets GCS Path,Roi Peretz,,2021-08-03T20:42:04.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,tomerrabinovich/tomonet,ToMonet,Tomer Rabinovich,,2021-07-24T16:49:38.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,nasa203/notebook61b141d326,notebook61b141d326,nasa203,,2021-08-12T19:10:04.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,denisshev1982/the-nb-i-liked-01-07-21-cyclegan-getting-started,the NB I liked  01.07.21 CycleGAN Getting Started,DenisShev1982,,2021-07-22T12:40:17.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,lappzvi/cyclegan-30-biu,Cyclegan 30 BIU,Zvi Lapp,,2021-07-20T12:24:15.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,victarry/cyclegan-with-pytorch-lightning,cycleGAN with pytorch_lightning ,starry,,2021-06-23T01:23:15.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,geraldinelee/i-m-something-of-a-painter-myself-project,I'm Something Of A Painter Myself Project,Geraldine Lee,,2021-07-22T09:11:57.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,rawanmajedlazkani/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Rawan Lazkani,,2021-06-12T18:48:11.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,eyalcohenx/dlcyclegan,DLCycleGan,Eyalcohenx,,2021-07-30T07:29:48.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,eitantsukerman/dlproject,DLProject,Eitan Tsukerman,,2021-08-06T11:50:34.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,parthsethi03/deep-learning-resp,Deep Learning ResP,PARTH,,2021-05-24T13:05:19.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,charlesmazzei/miserable-failure-of-a-stylegan-model,Miserable Failure of a StyleGAN Model,Charlie M,,2021-05-24T17:19:04.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,bkroes/monet,Monet,Brandon Kr,,2021-04-11T14:45:07.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,clararus/mlip35-final-code,MLiP35_Final_Code,Clara Rus,,2021-03-17T13:34:05.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,rezashokrzad/new-kernel,New Kernel,Reza Shokrzad,,2021-03-18T12:46:30.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,kirinavanderbijl/cut-with-anti-alias-and-validation-set-15-epochs,CUT with Anti-Alias and Validation Set 15 epochs,Kirina van der Bijl,,2021-03-10T22:07:38.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,adhok93/image-generation-using-pre-trained-vq-vae,Image Generation using Pre Trained VQ-VAE,AdhokshajaPradeep,,2021-03-13T05:14:21.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,adhok93/vq-vae-training,VQ-VAE Training,AdhokshajaPradeep,,2021-03-12T04:12:08.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,clararus/mlip35-data-augmentation-370055,MLiP35_data_augmentation 370055,Clara Rus,,2021-03-12T19:56:20.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,javiermartnz/gan-gogh-monet-paintings-style-transfer,GAN Gogh - Monet paintings style transfer ,Javier Martínez,,2021-03-20T09:24:08.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,wangyuren/painter-myself,Painter Myself,wangyuren,,2021-03-21T14:46:06.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,mehmetlaudatekman/monet-cyclegan,Monet CycleGAN,Mehmet Tekman,,2020-12-03T11:20:59.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,michielbraat/small-cyclepatchgan,Small_CyclePatchGAN,Michiel,,2020-11-15T13:47:19.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,sagnikmazumder37/monet-cycle-gan,monet cycle gan,Sagnik Mazumder,,2020-11-12T06:04:25.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,latong/play-with-gans,Play with Gans,YiYuan,,2020-10-31T14:08:28.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,shubhampandey27/cycle-gan,Cycle_GAN,Shubhamkumar Pandey,,2020-10-13T21:45:19.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,zephyrtay/trying-to-understand-cgan-copy,Trying to Understand CGAN Copy,Zephyr Tay,,2020-10-13T11:14:37.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,activegalaxy/monet-cyclegan-enc-dec-version,Monet CycleGAN Enc/Dec Version,ActiveGalaXy,,2020-10-15T00:50:35.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,arslan23/monet-paintings-grey-cells, Monet paintings grey cells,Arslan23,,2020-10-09T04:07:47.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,nicapotato/tensorflow-hub-for-landscapes,Tensorflow Hub for Landscapes,nicapotato,,2020-09-25T19:17:46.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,andrewdenisov/monet-cyclegan,Monet CycleGAN,Andrew Denisov,,2020-10-11T10:09:31.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,pkundu25/monet-cyclegan-baseline,Monet CycleGAN baseline,Prasanta Kundu,,2020-09-17T06:03:37.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,tiwariaiharsh/cycle-gan-pytorch-implementations,Cycle-GAN PyTorch Implementations,Tiwari AI Harsh,,2020-09-06T14:36:07.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,sanikamal/creating-next-monet,Creating next Monet,Sani Kamal,,2020-09-19T18:12:33.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,gan-getting-started
+,,,,,0,tell1124/monet-ver1,monet ver1 ,tell1124,,2022-06-29T02:38:11.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,defcodeking/claude-cyclegan-monet-artificial-artist,"Claude ""CycleGAN"" Monet, Artificial Artist 😎🎨",Malay Agarwal,,2022-06-21T11:17:08.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,eunpyunglee/fork-of-monet-lee,Fork of monet(LEE),EUNPYUNG LEE,,2022-06-14T04:40:30.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,kristopalka/trying-to-understand-cyclegan,Trying to understand CycleGAN,kristopalka,,2022-06-12T14:42:39.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,yannminhkhoahuynh/cyclegan,cyclegan,Yann Minh-Khoa Huynh,,2022-06-07T01:16:43.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,edz123/monet-cyclegan,Monet CycleGAN,Eddie Zhuang,,2022-05-20T19:34:14.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,fedorovvlad/homework6,Homework6,GarryNeKasparov,,2022-05-19T16:58:20.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,belalmagdi/ics-635-project,ics 635 project,Belal Abdelhadi,,2022-05-13T09:27:30.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,arminshayestehzadeh/gan-getting-started-pytorch,GAN-getting-started-pytorch,Armin Shayesteh Zadeh,,2022-05-16T18:14:07.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,mackant/cyclegan-generating-unique-art,CycleGAN - Generating Unique Art,MackanT,,2022-05-17T06:20:11.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,dapin1490/gan-painter-why-isn-t-it-working,GAN painter(Why isn't it working?),dapin1490,,2022-05-05T05:18:33.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,lero233/cyclegan,CycleGAN,lero233,,2022-05-04T09:06:18.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,yuqingma1998/monet-cyclegan-not-addfirst,Monet CycleGAN_not_addfirst,YuqingMa1998,,2022-04-16T04:57:11.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,yuqingma1998/monet-cyclegan-original,Monet CycleGAN_original,YuqingMa1998,,2022-04-16T04:08:06.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,vitkishloh228/notebook44d23e574e,notebook44d23e574e,KED2006,,2022-05-01T11:29:40.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,tarocat/first-try,first_try,tarocat,,2022-05-31T12:08:00.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sriyamv/cyclegan-tutorial,CycleGan_Tutorial,sriyamv,,2022-04-12T02:07:23.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,vitkishloh228/notebook0bba9e7e26,notebook0bba9e7e26,KED2006,,2022-04-05T10:00:48.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,rutvithakkar/cyclegan-pytorch,CycleGAN_Pytorch,Rutvi Thakkar,,2022-03-18T17:58:00.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,oritfine/simple-auto-encoder,simple auto encoder,Orit Fine,,2022-03-20T23:35:12.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,kuruhuru/cyclegan-resnet-patchgan,CycleGAN_ResNET_PatchGAN,kuruhuru,,2022-02-28T04:15:29.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,davidalf/cycle-gan-bceloss,cycle_GAN_BCEloss,Chenxi Zhao,,2022-02-17T11:35:04.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,gerhardworch/cycle-gan-tensorflow-1,cycle_gan_tensorflow_1,GeeHard,,2022-05-14T20:29:41.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,maryragozina/notebook,notebook,Mary Ragozina,,2022-01-17T17:19:22.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,evgenypotapov/monet,Monet ,Evgeny Potapov,,2022-01-17T07:44:56.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,maryragozina/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Mary Ragozina,,2022-01-16T19:50:42.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,maryragozina/my-monet,my_monet,Mary Ragozina,,2022-01-16T19:12:46.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,maryragozina/baseline-gan,baseline_gan,Mary Ragozina,,2022-01-17T07:47:17.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,joshhuttandio/my-monet,my_monet,Joshua Tandio,,2022-01-27T22:47:35.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,saraswatitiwari/i-m-something-of-a-painter-myself,I’m Something of a Painter Myself,Saraswati Tiwari,,2021-12-25T10:01:50.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,hisaamhashim/monet2photo-cycle2gan-on-tpu-validation-test,monet2photo - Cycle2GAN on TPU (Validation test),Hisaam Hashim,,2021-12-01T07:42:37.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,rahulkadam0909/image-generation-tutorial,Image generation Tutorial,Rahul Kadam0909,,2021-12-06T05:54:53.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,anunay66/notee,NOTee,Anunay Tripathi,,2021-11-28T06:12:37.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,samuelmeisner/imagegen2,imageGen2,Samuel Meisner,,2021-12-04T19:51:14.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,antoninabugayova/generate-monet-style-images,generate Monet-style images,Antonina Bugayova,,2021-11-07T15:44:36.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,alicesze25/two-objective-discriminator,Two-objective discriminator,Alice Sze,,2021-12-03T04:30:09.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ranbinyamini/base-300,base-300,Ran Binyamini,,2021-08-22T13:43:34.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,omerab/13-9-fid,13.9 FID,omerab,,2021-08-12T19:13:04.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,avrahamfraind/notebook8499a2f2a2-a1532f,notebook8499a2f2a2 a1532f,Avraham fraind,,2021-08-11T16:46:39.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,lappzvi/no-curriculum-cyclegan-30-biu,No curriculum Cyclegan 30 BIU,Zvi Lapp,,2021-08-09T06:05:42.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,avichaigeldzahler/cyclegan-monet-inference,CycleGAN Monet Inference,Avichai Geldzahler,,2021-08-12T18:44:38.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ricgan/model-py,model.py,ricgan,,2021-08-28T16:49:44.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,butmanspainters/copy-submissions,Copy submissions,Aspiring Style Transferers,,2021-08-07T06:32:55.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,maayanwislizky/mymodel,myModel,maayan wislizky,,2021-08-11T19:19:26.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,zahizur/final-notebook-for-running,final notebook for running,Zahi Zur,,2021-07-26T14:17:50.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,cemrdp21/notebook5a0d31c924,notebook5a0d31c924,CEMR_DP21,,2021-07-24T14:56:17.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,hallelcohen/arbelteamnotebook,ArbelTeamNotebook,Hallel Cohen,,2021-07-21T20:04:04.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,danielleaharon/monet-cyclegan,monet-cyclegan,danielle aharon,,2021-07-19T15:46:20.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,danielleaharon/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,danielle aharon,,2021-07-18T16:44:30.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,giladtamar/monettrain,MonetTrain,Gilad Tamar,,2021-07-19T18:47:07.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,khr9016/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,khr9016,,2021-07-17T10:20:56.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,imadaatsuki/i-m-something-of-a-painter-myself,I'm something of a painter myself,ImadaAtsuki,,2021-06-28T11:55:34.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,hiranokoki/monet-monet,monet monet,hirano koki,,2021-07-25T03:53:58.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,kusunosetomoki/convert-to-painting-with-cyclegan,Convert to painting with cycleGAN,KusunoseTomoki,,2021-07-02T05:25:16.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,tamurayuma/nonycle,コピペnonycle,tamura yuma,,2021-06-28T11:52:39.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,kad99kev/monet-cyclegan-with-wandb,Monet CycleGAN with WandB,Kevlyn Kadamala,,2021-06-30T17:49:20.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,gadididi/monet-to-photo-g-n,Monet-to-Photo G@N,Gadi Didi,,2021-07-30T11:08:04.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,masamichitoyama/cyclegan,CycleGAN,masamichi toyama,,2021-06-21T08:57:07.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,dorindomin/dlchallenge,dlChallenge,Dorin Domin,,2021-08-12T13:20:17.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,motzik88/monet-final-25-7,Monet_Final_25.7,Moshik Mishaeli,,2021-08-04T11:30:56.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,shiratorizawa/photos-to-monet-paintings-using-cyclegan,Photos to Monet Paintings using CycleGAN,Kartikey Sharma,,2021-06-05T08:46:24.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,itolgaozturk/notebookefc8351578,notebookefc8351578,iTolgaOzturk,,2021-06-12T14:56:49.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,joemonv97/joemon-monet-cyclegan,Joemon Monet CycleGan,Joemon V Velassery,,2021-05-18T17:58:22.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sunyulian/monet-cyclegan,Monet CycleGAN ,sun yulian,,2021-05-06T19:57:28.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,meldo8/cyclegan,CycleGAN,meldo8,,2021-06-12T09:39:09.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,qintianlee/stargan,stargan,qintianLee,,2021-04-13T04:24:40.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sandrinelux/photo2monet-cyclegan-with-data-augmentation,Photo2Monet - cycleGAN with Data Augmentation,SandrineLux,,2021-04-15T15:48:36.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,heleenkerstholt/monet-cyclegan-tutorial-mlip7-finalversion,Monet CycleGAN Tutorial MLiP7 finalversion,Heleen Kerstholt,,2021-03-29T02:03:51.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,jacobkutchi/imsomethingofapaintermyselfcompetition-jkutchi,ImSomethingOfAPainterMyselfCompetition_jkutchi,JACOB KUTCHI,,2021-04-17T08:09:11.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,rojinzandi/monet,Monet,RojinZnd,,2021-04-09T19:22:32.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,aiftwn/new-kernel-91fd73,New Kernel 91fd73,aiftwn,,2021-03-20T10:58:22.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,peaceduck/monet-cyclegan-mobilenetv2-fid-055b49,Monet CycleGAN MobileNetV2 FID 055b49,Sebastiaan,,2021-03-20T08:23:04.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,daphnesmits1/monet-cyclegan-tutorial-489942,Monet CycleGAN Tutorial 489942,Daphne Smits,,2021-03-19T16:15:55.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,brunojerkovi/monet-cyclegan-tutorial-994d48,Monet CycleGAN Tutorial 994d48,Bruno Jerković,,2021-03-20T01:15:02.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ecruz009/cyclegan-monet,cycleGAN_Monet,ecruz009,,2021-03-17T02:54:28.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ksnoeij/monet-cyclegan-tutorial-af626a,Monet CycleGAN Tutorial af626a,Karcie snoeijen,,2021-03-15T16:35:15.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,thijmedevalk/mlip-21-final-version,MLiP 21 - Final version,Thijme de Valk,,2021-03-16T11:29:26.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,olivierbrahma/improving-cyclegan-s-cycle-consistency-loss,Improving CycleGAN’s cycle consistency loss,Olivier Brahma,,2021-03-19T15:12:20.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,juliandelange/monet-cyclegan-mobilenetv2-fid,Monet CycleGAN MobileNetV2 FID,Julian de Lange,,2021-03-19T11:28:31.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,bibianbennink/monet-cyclegan-switch-to-dualgan,Monet CycleGAN - switch to DUALGAN ,Bibian ,,2021-03-20T11:18:23.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,juliandelange/monet-style-lse1,Monet style LSE1,Julian de Lange,,2021-02-19T19:27:43.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,peaceduck/monet-pretraining,Monet Pretraining,Sebastiaan,,2021-03-18T13:53:54.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sdarends98/notebooke978c36f51,notebooke978c36f51,sdarends98,,2021-02-18T13:37:16.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,makkiemai/baseline-mp,Baseline - MP,JMPost,,2021-03-17T13:35:08.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,leanug/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Lea Nug,,2021-03-16T07:03:47.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sanyogv/cyclegan-pytorch-lightning,CycleGAN - Pytorch Lightning,Sanyog,,2021-03-14T22:12:23.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,dannystax/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Danny Stax,,2021-03-16T08:22:01.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,bartpleiter/patchpermutationgan,PatchPermutationGAN,Bart Pleiter,,2021-03-16T12:53:08.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,honghongzhu/mlip-30-cyclegansters,MLiP 30 CycleGANsters,Honghong Zhu,,2021-03-20T10:46:51.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,marktk98/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Mark,,2021-03-17T15:00:03.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,peaceduck/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Sebastiaan,,2021-02-12T13:31:39.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,mojitoce/gan-functions-py,gan_functions.py,mojitoce,,2021-01-20T21:47:58.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,inguyn/cyclegan-with-tpu,CycleGAN with TPU,Ái Nguyễn,,2021-01-10T09:56:05.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,zcxhhh/cyclegan-monet,CycleGAN_Monet,zcxhhh,,2021-01-18T02:17:57.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,uohzey1/test-01,test_01,joey ye,,2020-12-17T12:54:24.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,polo5cn/unit-creates-monet-paintings,UNIT creates Monet Paintings,Paul Chauvin,,2021-01-22T19:15:16.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,dylandipasupil1/baseline-911d4c,Baseline 911d4c,Dylan Dipasupil1,,2020-12-07T00:49:20.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,dylandipasupil/baseline,Baseline,Dylan Dipasupil,,2020-12-08T01:32:01.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,changxiaoxie1/baseline,Baseline,Changxiao Xie,,2020-12-07T02:34:01.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,zichuchen/ml2monet,ML2monet,Zichu Chen,,2020-12-07T07:03:42.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,abhishekbhatia45/notebookb00d934678,notebookb00d934678,Abhishek Bhatia,,2020-11-30T14:33:12.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sajaljain24/101753012-sajal-gan-getting-started,_101753012_Sajal_gan-getting-started,sajal_jain24,,2020-11-25T18:43:29.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,kshitizcool/101703295-kshitizvarshney-gan-getting-started,101703295_KshitizVarshney_gan-getting-started,kshitiz,,2020-11-25T18:04:06.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,akashjindalbe17/101703046-gan-getting-started-akash-jindal,101703046-gan-getting-started-Akash-Jindal,AKASH-JINDAL,,2020-11-25T16:17:30.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,sajaljain24/101753012-sajal-gan-getting-started2,101753012_Sajal_gan-getting-started2,sajal_jain24,,2020-11-25T18:12:07.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,garvitraheja/introduction-to-cyclegan-garvit-101703188,Introduction to CycleGAN - Garvit_101703188,Garvit Raheja,,2020-11-25T17:10:33.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,pratyakshverma/1101703402-pratyaksh-verma-gan-getting-started,1101703402_Pratyaksh_Verma_GAN_Getting_Started,Pratyaksh Verma,,2020-11-25T13:16:11.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,kaliautkarsh/notebook-101703597-utkarshkalia,notebook_101703597_utkarshkalia,kalia_utkarsh,,2020-11-25T12:48:30.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,gurleenkaurlail/evaluation-2,Evaluation 2,GURLEEN KAUR LAIL,,2020-11-25T15:05:06.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ankita74/notebook2-gan,notebook2 gan,Ankita,,2020-11-25T07:30:04.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,siddhantkhurana/dl-eval,DL_eval,Siddhant Khurana,,2020-11-25T09:13:28.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,manikmangla9/notebook03c31e6238,notebook03c31e6238,manik,,2020-11-25T17:14:21.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,atishayjain21/atishay-jain,atishay_jain,atishay jain,,2020-11-24T18:51:27.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,harnoorsandhu/harnoorsandhu-coe12,HarnoorSandhu_COE12,HARNOOR SANDHU,,2020-11-24T13:05:43.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,muskan71/101703354-muskan-gan-getting-started,101703354_Muskan_gan-getting-started,Muskan_71,,2020-11-23T19:15:31.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ashish101753002/cyclegan-to-generate-monet-style-images,CycleGAN to generate Monet-style images,ASHISH_101753002,,2020-11-24T15:01:31.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,raghavmagoo/gan-intro,GAN INTRO,RAGHAV MAGOO,,2020-11-20T13:33:15.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,vsingh11/notebookd7cdfbd6c0,notebookd7cdfbd6c0,vikram,,2020-11-23T20:15:55.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,ameya98/monet-cyclegan-tutorial,Monet CycleGAN Tutorial,Ameya,,2020-11-23T13:47:48.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,paras1598/gan-getting-started-101703382-parasarora,gan_getting_started_101703382_ParasArora,Paras Arora,,2020-11-16T14:21:54.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,iteodorescu/monet-cyclegan-notebook,Monet CycleGAN notebook,Ioana Teodorescu,,2020-12-06T23:30:51.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,enm185/gan-submission,GAN Submission,Eric,,2020-10-22T09:41:26.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,justinong/trying-to-understand-cgan-a9cc99,Trying to Understand CGAN a9cc99,Justin Ong,,2020-10-23T04:58:10.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,nigellwh/monet-dcgan-2,Monet DCGAN 2,Nigel Lim,,2020-10-21T03:39:36.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,umeshpandey12195/cycle-gan-monet-ipynb,Cycle_GAN_Monet.ipynb,Umesh Pandey,,2020-10-14T14:36:25.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,shubhampandey27/cyclegan,cyclegan,Shubhamkumar Pandey,,2020-10-13T11:55:25.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,chelsea01/monet-gan-competition,Monet GAN Competition ,Chelsea Koby,,2020-10-13T15:57:03.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,virajbagal/pytorch-cyclegan,Pytorch CycleGAN,Viraj Bagal,,2020-09-18T18:26:09.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,nigellwh/monet-dcgan,Monet DCGAN,Nigel Lim,,2020-10-17T05:20:37.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,krzysztofpsk/dummy-cyclegan-from-original-paper,Dummy CycleGAN from original paper,Krzysztof Psk,,2020-09-18T14:57:42.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started
+,,,,,0,priyasharma3321/notebook1,notebook1,Priya Sharma,,2020-09-01T09:18:09.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,gan-getting-started

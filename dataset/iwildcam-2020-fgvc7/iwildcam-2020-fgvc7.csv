@@ -1,0 +1,35 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,nayuts/iwildcam-2020-overviewing-for-start,iWildCam 2020 Overviewing for start,Nayu.T.S.,,2021-03-13T05:06:23.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],65,iwildcam-2020-fgvc7
+,,,,,0,ateplyuk/iwildcam2020-pytorch-start,iWildCam2020_Pytorch_Start,Alexander Teplyuk,,2020-03-16T06:15:03.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,iwildcam-2020-fgvc7
+,,,,,0,bsridatta/eda-and-object-extraction-for-classifier-training,EDA and Object Extraction for Classifier Training⚡,datta,,2020-05-05T07:00:08.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,iwildcam-2020-fgvc7
+,,,,,0,seriousran/image-pre-processing-for-iwild-2020,Image Pre-processing for iWild 2020,Chanran Kim,,2020-03-11T05:03:38.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,iwildcam-2020-fgvc7
+,,,,,0,seriousran/simple-starter-iwildcam-2020,Simple Starter - iWildCam 2020,Chanran Kim,,2020-03-14T23:09:49.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,iwildcam-2020-fgvc7
+,,,,,0,qinhui1999/iwildcam-2020-efficientnetb7-tpu-starter-v1,iWildCam 2020 EfficientnetB7  TPU starter v1,huiqin,,2020-03-22T13:55:33.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,iwildcam-2020-fgvc7
+,,,,,0,qinhui1999/how-to-use-bbox-for-iwildcam-2020,how to use bbox for iWildCam 2020 ,huiqin,,2020-03-13T02:13:44.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,iwildcam-2020-fgvc7
+,,,,,0,manojacharya/fastai-implementation-after-pre-processing-images,Fastai Implementation After Pre-Processing Images ,Manoj Acharya,,2020-04-03T07:00:06.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,iwildcam-2020-fgvc7
+,,,,,0,drobchak1988/iwildcam-2020-fgvc7-tensorflow-tpu-cpu-gpu,"iWildCam 2020-FGVC7 Tensorflow (TPU,CPU,GPU)",Maksim Drobchak,,2020-03-23T03:19:38.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,iwildcam-2020-fgvc7
+,,,,,0,drobchak1988/iwildcam-2020-fgvc7-tensorflow-create-tfrecords,iWildCam 2020-FGVC7 Tensorflow create tfrecords,Maksim Drobchak,,2020-03-21T00:38:33.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,iwildcam-2020-fgvc7
+,,,,,0,nayuts/iwildcam-2020-efficientnetb2,iWildCam 2020 EfficientnetB2,Nayu.T.S.,,2020-04-26T12:05:14.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,iwildcam-2020-fgvc7
+,,,,,0,boltcoder/iwildcam-2020-demo-kernel,iWildCam 2020 Demo Kernel,Vyom Pathak,,2020-04-30T16:33:00.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,iwildcam-2020-fgvc7
+,,,,,0,aleksandradeis/iwildcam-eda,iWildCam EDA,Aleksandra Deis,,2020-03-21T16:25:02.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,iwildcam-2020-fgvc7
+,,,,,0,grapestone5321/iwildcam-2020-sample-submission,iWildCam 2020-sample_submission,Naruhiko Nakanishi,,2020-03-10T03:52:05.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,iwildcam-2020-fgvc7
+,,,,,0,cptfoobar/eda-iwildcam-2020-exploration,EDA - iWildCam 2020 - Exploration,Sidhant Sharma,,2021-02-18T17:40:56.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,iwildcam-2020-fgvc7
+,,,,,0,mohammadmortaji/my-first-experience-iwild2020,my_first_experience_iWild2020,Arvin Nick,,2020-03-29T06:36:27.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,iwildcam-2020-fgvc7
+,,,,,0,lennyom/iwildcam-2020-using-fastai-resnet50-mixup-and-tta,iWildCam 2020 using fastai resnet50 mixup and TTA,lennyom,,2020-09-26T17:41:20.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,iwildcam-2020-fgvc7
+,,,,,0,sinchubhat/iwildcam2020usingmonk,iWildCam2020UsingMonk,Sinchana S R,,2020-04-10T18:03:52.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,iwildcam-2020-fgvc7
+,,,,,0,seshurajup/fastai-starter-code,fastai starter code,SeshuRajuP 🧘‍♂️,,2020-03-10T03:06:55.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,iwildcam-2020-fgvc7
+,,,,,0,allanyiinai/iwildcam2020-revised2,iWildCam2020 revised2,Allan Yiin ai,,2022-06-13T06:29:07.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2020-fgvc7
+,,,,,0,nihalusman/kernel76,kernel76,Nihal Usman,,2020-06-12T14:54:45.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2020-fgvc7
+,,,,,0,blueturtle/wildlife-cam-resent50,Wildlife Cam Resent50,BlueTurtle,,2020-09-22T14:18:23.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2020-fgvc7
+,,,,,0,rogerterrazas/trailcam-models,Trailcam_Models,Roger Terrazas,,2020-04-18T19:59:41.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,iwildcam-2020-fgvc7
+,,,,,0,allanyiinai/iwildcam2020-revised3,iWildCam2020 revised3,Allan Yiin ai,,2022-07-02T08:22:17.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2020-fgvc7
+,,,,,0,aviral999/iwildcam-exploration,iWildCam_exploration,Aviral Jain,,2020-09-25T00:53:50.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2020-fgvc7
+,,,,,0,gb00000/wildcam-nn,wildcam nn ,Greg B,,2020-05-26T14:21:00.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2020-fgvc7
+,,,,,0,taohoang/iwildcam-2020-efficientnetb7-tpu-starter-v1,iWildCam 2020 EfficientnetB7  TPU starter v1,Tao Hoang,,2020-04-27T07:17:00.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2020-fgvc7
+,,,,,0,krparekh24/iwild-2020-image-processing,iwild 2020 Image Processing,Krutika Parekh,,2020-04-05T11:52:17.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2020-fgvc7
+,,,,,0,ishthewiz/building-main-df,Building Main DF,Ishan ,,2020-04-07T16:16:11.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,iwildcam-2020-fgvc7
+,,,,,0,allanyiin/iwildcam2020-revised3,iWildCam2020 revised3,Allan Yiin,,2022-01-17T07:09:21.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2020-fgvc7
+,,,,,0,allanyiin/iwildcam2020-revised2,iWildCam2020 revised2,Allan Yiin,,2021-12-02T10:48:44.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2020-fgvc7
+,,,,,0,allanyiin/iwildcam2020-revised1,iWildCam2020 Revised1,Allan Yiin,,2021-11-23T14:09:18.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2020-fgvc7
+,,,,,0,allanyiin/iwildcam2020,iWildCam2020資料預處理,Allan Yiin,,2022-06-06T12:49:59.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2020-fgvc7
+,,,,,0,myvnotseng/ch-iwildcam2020-revised2,CH_iWildCam2020 revised2,myvno Tseng,,2021-07-06T08:26:11.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,iwildcam-2020-fgvc7

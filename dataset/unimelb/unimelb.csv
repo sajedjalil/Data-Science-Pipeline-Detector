@@ -1,0 +1,8 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,tiwaris436/predict-grant-applications,Predict Grant Applications,Saumya Tiwari,,2019-08-21T10:28:30.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,unimelb
+,,,,,0,irinana/predict-graint,Predict Graint,IrinaNosal,,2020-12-15T09:42:42.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,unimelb
+,,,,,0,akarachaisaeteaw/predict-graint-gradient,Predict_Graint_Gradient,Akarachai Saeteaw,,2021-02-09T02:37:47.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,unimelb
+,,,,,0,oleg348/grant-predict,grant_predict,Zherdev Oleg,,2020-06-11T05:48:11.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,unimelb
+,,,,,0,arpitsinha/predict-grant-applications,Predict Grant Applications,Arpit Sinha,,2018-11-21T11:49:43.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,unimelb
+,,,,,0,hari141091/predict-grant-applications-1121,Predict Grant Applications 1121,Hariharan L,,2018-11-23T06:14:50.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,unimelb
+,,,,,0,enaveenkumar/grant,Grant,Naveen Kumar,,2018-11-21T12:21:45.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,unimelb

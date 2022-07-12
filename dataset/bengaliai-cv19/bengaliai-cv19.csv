@@ -1,0 +1,408 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,kaushal2896/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Kaushal Shah,,2020-01-22T08:10:23.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],478,bengaliai-cv19
+,,,,,0,iafoss/image-preprocessing-128x128,Image preprocessing (128x128),Iafoss,,2019-12-23T18:22:20.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],433,bengaliai-cv19
+,,,,,0,corochann/bengali-seresnext-training-with-pytorch,Bengali: SEResNeXt training with pytorch,corochann,,2020-01-04T06:34:02.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],309,bengaliai-cv19
+,,,,,0,corochann/bengali-seresnext-prediction-with-pytorch,Bengali: SEResNeXt prediction with pytorch,corochann,,2020-01-04T02:44:19.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],257,bengaliai-cv19
+,,,,,0,cdeotte/how-to-compete-with-gpus-workshop,How To Compete with GPUs Workshop,Chris Deotte,,2020-06-25T05:03:45.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],214,bengaliai-cv19
+,,,,,0,iafoss/grapheme-fast-ai-starter-lb-0-964,Grapheme fast.ai starter [LB 0.964],Iafoss,,2019-12-31T19:55:42.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],197,bengaliai-cv19
+,,,,,0,haqishen/gridmask,GridMask,Qishen Ha,,2020-01-30T02:36:04.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],183,bengaliai-cv19
+,,,,,0,rsmits/keras-efficientnet-b3-training-inference,Keras EfficientNet B3 Training + Inference,Robin Smits,,2020-02-26T06:28:52.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],162,bengaliai-cv19
+,,,,,0,iafoss/grapheme-fast-ai-starter-inference,Grapheme fast.ai starter [inference],Iafoss,,2020-01-01T04:28:05.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],142,bengaliai-cv19
+,,,,,0,gpreda/bengali-ai-handwritten-grapheme-getting-started,Bengali.AI Handwritten Grapheme - Getting Started,Gabriel Preda,,2020-01-25T18:21:37.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],137,bengaliai-cv19
+,,,,,0,khoongweihao/resnet-34-pytorch-starter-kit,ResNet-34 PyTorch Starter Kit,Wei Hao Khoong,,2019-12-24T19:27:02.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],132,bengaliai-cv19
+,,,,,0,pestipeti/bengali-quick-eda,Bengali - Quick EDA,Peter,,2019-12-21T02:55:58.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],122,bengaliai-cv19
+,,,,,0,haqishen/augmix-based-on-albumentations,AugMix based on albumentations,Qishen Ha,,2020-02-10T04:56:01.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],118,bengaliai-cv19
+,,,,,0,corochann/bengali-albumentations-data-augmentation-tutorial,Bengali: albumentations data augmentation tutorial,corochann,,2020-01-04T06:21:32.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],113,bengaliai-cv19
+,,,,,0,phoenix9032/pytorch-efficientnet-starter-code,Pytorch Efficientnet Starter Code ,Doomsday,,2020-02-17T10:00:56.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],109,bengaliai-cv19
+,,,,,0,yiheng/iterative-stratification,iterative stratification,Yiheng Wang,,2019-12-23T08:13:48.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],108,bengaliai-cv19
+,,,,,0,h030162/version1-0-9696,version1 : 0.9696,hanjin,,2020-02-09T02:14:23.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],102,bengaliai-cv19
+,,,,,0,hmendonca/kaggle-pytorch-utility-script,Kaggle pytorch utility script,Henrique Mendonça,,2020-01-28T19:29:23.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,bengaliai-cv19
+,,,,,0,pestipeti/visualize-your-model-s-augmented-predictions,Visualize your model's augmented predictions,Peter,,2020-01-22T16:29:03.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],90,bengaliai-cv19
+,,,,,0,ipythonx/keras-bengali-ai-grapheme-classification,[Keras]: Bengali.AI Grapheme Classification,M.Innat,,2022-01-18T05:54:47.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],84,bengaliai-cv19
+,,,,,0,haqishen/bengali-train-seen-model,Bengali Train Seen Model,Qishen Ha,,2020-03-15T08:45:45.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,bengaliai-cv19
+,,,,,0,pestipeti/simple-pytorch-inference,Simple pytorch inference,Peter,,2019-12-20T16:19:30.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,bengaliai-cv19
+,,,,,0,haqishen/bengali-predict-with-seen-unseen-models,Bengali Predict with Seen & Unseen Models,Qishen Ha,,2020-03-17T01:12:51.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,bengaliai-cv19
+,,,,,0,aleksandradeis/bengali-ai-eda,Bengali AI EDA,Aleksandra Deis,,2020-01-18T06:25:42.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,bengaliai-cv19
+,,,,,0,mobassir/se-resnext152-pytorch-baseline-for-bengali,se_resnext152 PyTorch baseline for bengali.,Mobassir,,2020-03-29T14:39:21.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,bengaliai-cv19
+,,,,,0,shonenkov/ghostnet-densenet121-super-easy-inference,[GhostNet + DenseNet121] Super Easy Inference,Alex Shonenkov,,2020-03-14T19:07:47.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,bengaliai-cv19
+,,,,,0,corochann/bangali-ai-super-fast-data-loading-with-feather,Bangali.AI super fast data loading with feather,corochann,,2019-12-21T04:29:31.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,bengaliai-cv19
+,,,,,0,bamps53/private0-9704-tpu-keras-metric-learning,[private0.9704] TPU keras metric learning,Camaro,,2020-03-21T01:46:00.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,bengaliai-cv19
+,,,,,0,seesee/2-train,2. Train,See--,,2020-03-09T15:46:32.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,bengaliai-cv19
+,,,,,0,amanooo/bengali-ai-multi-output-densenet121-keras,Bengali.Ai: Multi-Output-DenseNet121(keras),K.Amano,,2020-01-12T04:53:34.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,bengaliai-cv19
+,,,,,0,shawon10/bangla-graphemes-image-processing-deep-cnn,Bangla Graphemes Image Processing & Deep CNN     ,Ashadullah Shawon,,2020-01-26T06:33:32.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,bengaliai-cv19
+,,,,,0,pestipeti/optimization-tips-faster-train-faster-inference,"Optimization tips. Faster train, faster inference",Peter,,2020-01-15T00:28:30.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,bengaliai-cv19
+,,,,,0,haqishen/bengali-train-unseen-model,Bengali Train Unseen Model,Qishen Ha,,2020-03-10T10:29:03.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,bengaliai-cv19
+,,,,,0,deshwalmahesh/bengali-ai-complete-beginner-tutorial-95-acc,Bengali.ai complete beginner tutorial 95%acc,Mahesh Deshwal,,2020-01-13T08:27:14.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,bengaliai-cv19
+,,,,,0,pestipeti/simple-pytorch-training-lb-0-7654,Simple Pytorch training [LB: 0.7654],Peter,,2019-12-20T16:15:08.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,bengaliai-cv19
+,,,,,0,ren4yu/bengali-morphological-ops-as-image-augmentation,Bengali: morphological ops as image augmentation,yu4u,,2020-01-29T14:48:05.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,bengaliai-cv19
+,,,,,0,backaggle/catalyst-baseline,[Catalyst] Baseline,automata,,2019-12-24T04:38:51.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,bengaliai-cv19
+,,,,,0,pestipeti/fast-ensemble-5-folds-20-minutes,"⚡ fast ensemble, 5-folds < 20 minutes",Peter,,2020-01-15T11:19:38.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,bengaliai-cv19
+,,,,,0,maxlenormand/cropping-to-character-resizing-images,Cropping to character & resizing images,Maxime Lenormand,,2019-12-22T13:07:41.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,bengaliai-cv19
+,,,,,0,seesee/3-submit,3. Submit,See--,,2020-03-06T10:12:02.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,bengaliai-cv19
+,,,,,0,gopidurgaprasad/resnet34-inference-by-abhishek-thakur,resnet34-Inference-by Abhishek Thakur,Gopi Durgaprasad,,2020-02-25T11:48:11.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,bengaliai-cv19
+,,,,,0,pnussbaum/grapheme-mind-reader-panv12-nogpu,Grapheme-mind-reader-PANv12 noGPU,"Paul Nussbaum, PhD",,2020-02-12T02:36:17.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,bengaliai-cv19
+,,,,,0,xhlulu/bengali-ai-simple-densenet-in-keras,Bengali.AI: Simple DenseNet in Keras,xhlulu,,2019-12-25T21:56:38.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,bengaliai-cv19
+,,,,,0,mnpinto/bengali-ai-fastai2-starter-lb0-9598,Bengali.AI fastai2 starter [LB0.9598],Miguel Pinto,,2020-04-30T22:48:11.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,bengaliai-cv19
+,,,,,0,haqishen/validation-with-unseen,Validation With Unseen,Qishen Ha,,2020-03-08T17:00:09.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,bengaliai-cv19
+,,,,,0,mobassir/resized-rgb-images-for-faster-training,Resized RGB images for faster training,Mobassir,,2020-02-15T15:07:52.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,bengaliai-cv19
+,,,,,0,virajbagal/fast-ai-mixup-cutmix-augmix-and-gridmask-visuals,"Fast.ai Mixup, Cutmix, Augmix and Gridmask visuals",Viraj Bagal,,2020-02-22T06:01:15.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,bengaliai-cv19
+,,,,,0,code1110/mixup-cutmix-in-keras,Mixup+Cutmix in Keras,katsu1110,,2020-01-28T13:55:30.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,bengaliai-cv19
+,,,,,0,linshokaku/cyclegan-training,CycleGAN Training,deoxy,,2020-03-22T09:06:20.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,bengaliai-cv19
+,,,,,0,bibek777/heng-s-starter-training-kernel,[Heng's Starter]Training Kernel,Bibek,,2020-01-10T22:49:17.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,bengaliai-cv19
+,,,,,0,bibek777/heng-starter-inference-kernel,[Heng Starter]Inference Kernel,Bibek,,2019-12-31T05:08:56.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,bengaliai-cv19
+,,,,,0,seesee/1-create-tfrecords,1. Create TFRecords,See--,,2020-03-06T10:01:03.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,bengaliai-cv19
+,,,,,0,bibek777/augmentation-augmix,[Augmentation] Augmix,Bibek,,2020-01-01T09:20:02.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,bengaliai-cv19
+,,,,,0,seriousran/bengali-data-analysis-handwritten-classification,Bengali Data Analysis & Handwritten Classification,Chanran Kim,,2020-01-02T07:31:16.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,bengaliai-cv19
+,,,,,0,linshokaku/cyclegan-classifier,CycleGAN Classifier,deoxy,,2020-03-21T12:38:28.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,bengaliai-cv19
+,,,,,0,vishal1310/efficientnet-b5-on-tpu,Efficientnet-B5 on TPU,Vishal ,,2020-03-11T15:42:03.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,bengaliai-cv19
+,,,,,0,jamesmcguigan/reading-parquet-files-ram-cpu-optimization,Reading Parquet Files - RAM/CPU Optimization ,James McGuigan,,2022-06-05T07:03:08.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet-18-n-l-inference-lb-0-9259,[Grapheme] ResNet-18 N.L Inference[LB 0.9259],Hanjoon Choe,,2019-12-22T14:21:12.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,bengaliai-cv19
+,,,,,0,aleksandradeis/bengali-ai-efficientnet-pytorch-starter,Bengali.AI EfficientNet PyTorch Starter,Aleksandra Deis,,2020-01-19T00:43:34.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,bengaliai-cv19
+,,,,,0,saife245/handwritten-grapheme-classification-resnet-0-97,Handwritten Grapheme Classification ResNet-0.97,SAIF UDDIN,,2020-03-03T12:25:26.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet-18-n-l-inference-lb-0-8566,[Grapheme] ResNet-18 N.L Inference[LB 0.8566],Hanjoon Choe,,2019-12-21T16:41:36.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,bengaliai-cv19
+,,,,,0,kaerunantoka/get-classes-difficult-to-classify-for-your-model,Get Classes difficult to classify for your model,kaerururu,,2020-01-28T17:02:51.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,bengaliai-cv19
+,,,,,0,drhabib/generating-more-training-data,Generating More Training Data,DrHB,,2020-01-28T16:14:58.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,bengaliai-cv19
+,,,,,0,chekoduadarsh/tutorial-design-your-own-cnn-layer-by-layer,Tutorial : Design Your Own CNN layer by layer ,Adarsh C,,2020-01-24T13:52:13.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,bengaliai-cv19
+,,,,,0,kaushal2896/efficientnet-b1-with-gridmask-augmix,EfficientNet-B1 with GridMask + AugMix,Kaushal Shah,,2020-02-23T18:06:48.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,bengaliai-cv19
+,,,,,0,maxlenormand/multi-class-activation-map-with-efficientnetb0,Multi-Class Activation Map with EfficientNetB0,Maxime Lenormand,,2020-02-11T11:41:12.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,bengaliai-cv19
+,,,,,0,kaushal2896/bengali-graphemes-simple-cnn-0-9596-lb,Bengali Graphemes: Simple CNN [0.9596 LB],Kaushal Shah,,2020-02-15T04:57:12.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,bengaliai-cv19
+,,,,,0,faressayah/digit-recognizer-using-anns-cnns,Digit Recognizer Using ANNs & CNNs,Fares Sayah,,2020-05-06T12:28:56.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,bengaliai-cv19
+,,,,,0,phoenix9032/shake-shake-regularization-starter-code,shake-shake Regularization starter code,Doomsday,,2020-01-02T19:18:00.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,bengaliai-cv19
+,,,,,0,hanjoonchoe/resize-and-load-with-feather-format-much-faster,Resize and Load with feather format much faster.,Hanjoon Choe,,2019-12-20T10:17:50.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,bengaliai-cv19
+,,,,,0,mobassir/se-resnext50-pytorch-inference,se_resnext50 PyTorch inference,Mobassir,,2020-02-19T07:37:22.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,bengaliai-cv19
+,,,,,0,kaushal2896/bengali-graphemes-multi-output-resnet-50,Bengali Graphemes: Multi Output ResNet-50,Kaushal Shah,,2020-01-26T08:37:59.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,bengaliai-cv19
+,,,,,0,machinelp/pytorch-resnet50-inference-0-9412-lb,pytorch resnet50 [inference] [0.9412 LB],MachineLP,,2019-12-25T11:19:00.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,bengaliai-cv19
+,,,,,0,virajbagal/mixup-cutmix-fmix-visualisations,"Mixup, Cutmix, FMix Visualisations",Viraj Bagal,,2020-03-30T06:34:16.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,bengaliai-cv19
+,,,,,0,nandhuelan/densernet-pytorch-bengali-v2,Densernet_Pytorch_Bengali_V2,Nandhu Elango,,2019-12-31T06:14:17.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,bengaliai-cv19
+,,,,,0,linshokaku/cyclegan-submission,CycleGAN Submission,deoxy,,2020-03-22T09:28:06.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,bengaliai-cv19
+,,,,,0,urvishp80/efficientnet-tf-keras-augmix-cutmix-mixup-gridmask,EfficientNet TF Keras augmix+CutMix+MixUp+GridMask,Urvish,,2020-02-25T12:48:51.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,bengaliai-cv19
+,,,,,0,kaushal2896/resnet34-efficientnetb3-ensemble,ResNet34 + EfficientNetB3 Ensemble,Kaushal Shah,,2020-03-12T07:53:32.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,bengaliai-cv19
+,,,,,0,lextoumbourou/self-supervised-pretraining-with-context-encoders,Self-supervised pretraining with Context Encoders,Lex Toumbourou,,2020-01-29T03:16:04.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-multichannelcnn-using-tf2,Bengali Graphemes: MultiChannelCNN using TF2,AnirbanK,,2020-02-12T11:31:18.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,bengaliai-cv19
+,,,,,0,tahirmuslimscientist/bangali-grapheme-seresnext-0-9663,Bangali Grapheme SEResNeXt 0.9663,Muhammad Tahir,,2020-02-04T09:04:28.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bengaliai-cv19
+,,,,,0,pukkinming/grapheme-fast-ai-starter-with-resnet18-inference,Grapheme fast.ai starter with resnet18 [inference],Frank Puk,,2019-12-30T01:54:05.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bengaliai-cv19
+,,,,,0,pukkinming/grapheme-fast-ai-starter-using-resnet18,Grapheme fast.ai starter using resnet18 ,Frank Puk,,2019-12-29T23:42:21.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bengaliai-cv19
+,,,,,0,smivvla/stratification,Stratification,Vladimir Smirnov,,2020-03-02T10:21:15.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,bengaliai-cv19
+,,,,,0,hidetaketakahashi/bengali-image-cropping-function,Bengali - Image Cropping Function,Hidetake Takahashi,,2020-02-19T14:33:37.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,bengaliai-cv19
+,,,,,0,amanooo/bengali-ai-multi-output-densenet-keras,Bengali.Ai: Multi-Output-DenseNet (keras),K.Amano,,2020-01-05T11:42:03.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,bengaliai-cv19
+,,,,,0,ipythonx/bengali-numeral-classification-in-capsule-network,Bengali Numeral Classification In Capsule Network,M.Innat,,2022-06-27T06:16:40.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,bengaliai-cv19
+,,,,,0,jamesmcguigan/bengali-ai-eda-grapheme-combinations,Bengali AI - EDA Grapheme Combinations,James McGuigan,,2021-01-03T07:50:45.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,bengaliai-cv19
+,,,,,0,subinium/bengali-ai-interactive-heatmap,[Bengali.AI] Interactive Heatmap,Subin An,,2020-01-30T10:20:18.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,bengaliai-cv19
+,,,,,0,sohier/getting-started-reading-the-data,Getting Started- Reading the Data,Sohier Dane,,2019-12-19T19:45:14.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,bengaliai-cv19
+,,,,,0,rsmits/using-multiprocessing-for-image-preprocessing,Using multiprocessing for image preprocessing,Robin Smits,,2020-01-26T11:06:29.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,bengaliai-cv19
+,,,,,0,salazarslytherin/grapheme-tensorflow-submission-max-0-9728,grapheme_Tensorflow Submission max 0.9728,745H1N,,2020-03-14T12:00:57.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bengaliai-cv19
+,,,,,0,adarshsng/eda-d-cnn,EDA+ D-CNN,KA-KA-shi,,2020-03-05T10:31:18.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bengaliai-cv19
+,,,,,0,shawon10/noise-removing-cropping-and-roi-of-images,"Noise Removing, Cropping, and ROI of Images  ",Ashadullah Shawon,,2020-01-20T19:28:55.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bengaliai-cv19
+,,,,,0,vladislavleketush/fast-parquet-loading-example,Fast parquet loading example,Vladislav Leketush,,2019-12-20T15:42:54.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet-18-naive-learning,[Grapheme] ResNet-18 Naive Learning,Hanjoon Choe,,2019-12-21T01:20:29.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bengaliai-cv19
+,,,,,0,gopidurgaprasad/efficietnet3-pytorch-training-inference,EfficietNet3-Pytorch-Training-Inference,Gopi Durgaprasad,,2020-02-27T02:10:35.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,bengaliai-cv19
+,,,,,0,tunguz/bengali-2d-umap,Bengali 2D Umap,Bojan Tunguz,,2020-03-18T23:00:19.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bengaliai-cv19
+,,,,,0,cpmpml/tpu-sub-bs256-full-train,tpu_sub_bs256_full_train,CPMP,,2020-03-12T12:14:52.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bengaliai-cv19
+,,,,,0,ipythonx/keras-stratified-training-ensemble,[Keras]: Stratified Training & Ensemble,M.Innat,,2020-04-06T16:56:40.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bengaliai-cv19
+,,,,,0,nandhuelan/why-not-mobilenet-versions,Why not mobilenet versions?,Nandhu Elango,,2020-02-23T18:55:10.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bengaliai-cv19
+,,,,,0,reasat/evaluating-model-performance-on-the-test-set,Evaluating model performance on the test set,Tahsin ,,2019-12-26T12:04:53.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bengaliai-cv19
+,,,,,0,bmabir17/bengali-ai-inference,bengali_ai_inference,BM Abir,,2020-03-01T10:55:01.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bengaliai-cv19
+,,,,,0,hidetaketakahashi/bengali-visualization-of-cnn-20-layers,Bengali - Visualization of CNN (20 layers),Hidetake Takahashi,,2020-02-29T10:03:29.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bengaliai-cv19
+,,,,,0,tunguz/bengali-sample-submission-starter,Bengali Sample Submission Starter ,Bojan Tunguz,,2019-12-20T01:25:16.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bengaliai-cv19
+,,,,,0,anmspro/ghostnet-densenet121-inference-first-layer,[GhostNet + DenseNet121]Inference_First Layer,Abu Noman Md. Sakib,,2020-03-16T16:03:05.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,shivyshiv/efficientnet-gridmask-training-pytorch,EfficientNet+ gridMask Training Pytorch,shivyshiv,,2020-03-15T15:32:17.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,cpmpml/tpu-test,tpu_test,CPMP,,2020-03-12T18:44:17.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,arturdatascientist/gridmask-dynamic-probability,GridMask + Dynamic Probability,artur.k.space,,2020-02-28T14:49:03.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,chekoduadarsh/design-train-multi-output-mono-output-cnn-models,Design/Train Multi-Output & Mono-Output CNN Models,Adarsh C,,2020-01-14T16:46:31.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,bitthal/starterkernel-pytorch-resnet34,StarterKernel-Pytorch_Resnet34,ShubhankarMohan,,2020-01-10T17:13:12.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet-18-naive-learning-4,[Grapheme] ResNet-18 Naive Learning 4,Hanjoon Choe,,2019-12-21T19:24:19.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,chandraroy/bengali-beginners-model-artifacts-0-87,Bengali: Beginners' model artifacts 0.87,CBR,,2020-01-11T04:32:00.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bengaliai-cv19
+,,,,,0,anmspro/bangla-grapheme-data-visualization,Bangla Grapheme - Data Visualization,Abu Noman Md. Sakib,,2020-08-11T17:29:22.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,philippsinger/checking-r-c-v-scores,"Checking R,C,V scores",Psi,,2020-03-17T15:31:02.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,hirotaka0122/bengali-custom-albumentations-transforms,Bengali: Custom albumentations transforms,Hirotaka Kawashima,,2020-01-30T15:12:43.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,kaushal2896/bengali-graphemes-simple-cnn-with-cutmix,Bengali Graphemes: Simple CNN with CutMix,Kaushal Shah,,2020-01-29T16:21:11.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,amit9484/keras-cnn-saving-model-lb-score-89,"Keras CNN, Saving Model (LB Score 89)",Amit,,2020-01-25T07:00:58.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,dhananjay3/model-error-analysis,Model Error Analysis,Dhananjay Raut,,2020-01-15T14:04:12.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,rohitsingh9990/starter-kit-bengali-ai-grapheme-classification,Starter Kit (Bengali.AI grapheme Classification),Rohit Singh,,2020-01-05T17:20:08.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bengaliai-cv19
+,,,,,0,shivyshiv/ensemble-of-all-weights,ensemble of all weights,shivyshiv,,2020-03-08T09:39:44.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,jamesmcguigan/unicode-visualization-of-the-bengali-alphabet, Unicode Visualization of the Bengali Alphabet,James McGuigan,,2020-03-07T22:47:37.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,anushakarthik1991/using-keras-efficientnet,Using Keras EfficientNet  ,Anusha Nidamanuri,,2020-08-04T12:07:06.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,rhythmcan/what-s-parquet-file,What's parquet file.,becky,,2020-02-01T06:54:58.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,khoongweihao/bengali-ai-eda-deep-multi-output-cnn,[Bengali.AI] EDA+ Deep Multi Output CNN,Wei Hao Khoong,,2020-01-12T03:34:44.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet-18-naive-learning-3, [Grapheme] ResNet-18 Naive Learning 3,Hanjoon Choe,,2019-12-21T03:46:06.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,bitthal/bengali-dataset-eda,Bengali Dataset EDA,ShubhankarMohan,,2019-12-21T07:19:46.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bengaliai-cv19
+,,,,,0,amanmishra4yearbtech/bengali-classification-basic-eda-implementation,"Bengali classification: basic eda, implementation",Amshra267,,2020-08-07T06:48:20.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,holfyuen/minimalist-guide-to-reading-data-in-any-format,Minimalist Guide to Reading Data in Any Format,Holf Yuen,,2020-08-29T13:59:36.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,ttahara/visualize-10th-place-model-where-sse-block-looks,Visualize 10th place model: Where sSE Block looks?,Tawara,,2020-03-21T08:17:54.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,lucamassaron/1-create-tfrecords,1. Create TFRecords,Luca Massaron,,2020-03-12T00:21:24.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,sachingarg1998/3-multi-model-inference-tpu,3. Multi Model Inference TPU,Sachin garg,,2020-03-17T13:50:23.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,mobasshir/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Mobasshir Bhuiya Shagor,,2020-03-02T15:34:19.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,lkatran/base-model-bengali-graphemes-keras,Base model Bengali Graphemes (Keras),Aleksandr,,2020-02-18T07:11:51.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,sibmike/bengali-groupshufflesplit-validation,Bengali GroupShuffleSplit Validation,sibmike,,2020-01-29T21:49:18.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,taherhaggui/great-starter,Great starter !,Taher Haggui,,2020-02-29T16:32:05.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,anmspro/first-trial-submission,First_Trial_Submission,Abu Noman Md. Sakib,,2019-12-20T07:12:18.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bengaliai-cv19
+,,,,,0,shadmanrohan/resnet-34-pytorch,ResNet-34 PyTorch,Shadman Rohan,,2020-07-22T09:51:39.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,jamesmcguigan/bengali-ai-cnn-data-pipeline-problem-solving,Bengali AI - CNN Data Pipeline + Problem Solving,James McGuigan,,2020-06-10T22:19:57.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,shinsei66/pytorch-starter-efficientnet-train-inference,Pytorch_starter_EfficientNet_train_inference,Shinsei66,,2020-03-15T05:58:40.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,jasonyikim/data-augmentation-infogan,Data Augmentation == InfoGAN,Jason_YI_Kim,,2020-03-08T10:58:48.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,sheriytm/grapheme-fastai2-starter,Grapheme Fastai2 starter,YaGana Sheriff-Hussaini,,2020-02-22T00:52:19.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,salazarslytherin/grapheme-001,grapheme_001,745H1N,,2020-02-15T07:21:08.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,yuyuta/submission-error-solved,submission error solved,YUYUTA,,2020-02-18T05:55:07.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,benayas/functions,functions,Alberto Benayas,,2020-02-17T14:57:08.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,lenkast/bengali-graphemes-multioutput-resnet18-keras,Bengali Graphemes : Multioutput ResNet18 Keras,Lenka,,2020-01-26T12:08:28.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,chekoduadarsh/bengali-ai-understand-and-augment-eda,Bengali AI: Understand and Augment EDA,Adarsh C,,2020-01-09T19:35:14.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,reasat/loading-time-comparison,Loading Time Comparison,Tahsin ,,2019-12-23T05:21:20.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,nulldata/getting-started-with-bengali-eda,Getting started with Bengali EDA,amrrs,,2019-12-20T19:30:35.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,virajbagal/keras-resnet-bengali-ai-training,Keras Resnet Bengali AI Training,Viraj Bagal,,2019-12-21T18:00:38.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,p4rallax/bengali-ai-eda-visualization,Bengali.AI - EDA / Visualization,Satwik,,2020-03-05T05:19:27.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,starl1ght/simple-starter,Simple Starter,Stanislav Lykov,,2019-12-20T09:15:28.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bengaliai-cv19
+,,,,,0,heartbeat007/neural-net-impelmemtation-of-the-grapheme-data,Neural net impelmemtation of the grapheme data,Md.Tanvir Rahman,,2020-09-07T13:48:55.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,shivyshiv/inference-of-efficientnet-gridmask,Inference of EfficientNet+ gridMask ,shivyshiv,,2020-03-15T15:55:13.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,anmol4210/submission-model,Submission_Model,AnmolNarang,,2020-03-22T21:14:36.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,anmol4210/kernel233f440b5f,kernel233f440b5f,AnmolNarang,,2020-03-11T10:10:00.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,jamesmcguigan/image-preprocessing,Image Preprocessing,James McGuigan,,2020-09-22T19:27:57.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,raininbox/1-create-tfrecords,1. Create TFRecords,Benlei Cui,,2020-03-14T11:10:03.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,plsjlq/image-resizing-trial-using-opencv,Image resizing trial (using OpenCV),Denny Hwang,,2020-03-08T14:29:31.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,nxrprime/keras-efficientnet-b3-with-image-preprocessing,Keras EfficientNet B3 with image preprocessing,Trigram,,2020-03-05T12:01:28.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,sheriytm/grapheme-fastai2-starter-inference,Grapheme Fastai2 starter [inference],YaGana Sheriff-Hussaini,,2020-03-03T02:18:52.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,vineeth1999/a-good-one,a good one,Convophile,,2020-02-07T13:59:13.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,wardenga/offline-predictions-with-automl-models-for-bengali,Offline Predictions with AutoML models for Bengali,Wardenga,,2020-02-04T21:46:47.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,virajbagal/potential-6th-place-lb-magic-layers-pp,"Potential 6th place LB, Magic Layers + PP",Viraj Bagal,,2020-01-28T17:53:52.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,wardenga/bengali-handwritten-graphemes-with-automl,Bengali Handwritten Graphemes with AutoML,Wardenga,,2020-01-23T01:34:19.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,timaskr/memory-effective-multioutput-resnet,Memory effective multioutput ResNet,Red Moon Lord,,2020-01-09T18:56:04.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-modified-bornonet-naive-learning-2,[Grapheme] Modified BornoNet Naive Learning 2,Hanjoon Choe,,2019-12-22T04:47:08.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bengaliai-cv19
+,,,,,0,pyjune/bengali-daniel-park-kor-eng,bengali_Daniel_Park(KOR/ENG),Daniel Park,,2021-10-07T14:12:43.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,davidbroin/vpc2-tp-final-perusset-broin,VpC2 - TP Final - Perusset Broin,David Broin,,2021-08-27T08:25:47.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,sinfini8/bengali-ai-grapheme-classification,Bengali.AI Grapheme Classification,(∞),,2020-07-28T18:50:05.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,amanmishra4yearbtech/bengali-classification-quick-implementation,bengali classification : quick implementation,Amshra267,,2020-07-29T03:33:41.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,tasnimnishatislam/bengali-ai-abhishek-thakur-tutorial,Bengali AI: Abhishek Thakur Tutorial,Tasnim Nishat Islam,,2020-07-02T13:17:07.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,ovenkatasrikanth/bengali-ai-o-v-srikanth,Bengali.AI O.V.Srikanth,O Venkata Srikanth,,2020-05-07T20:35:06.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,harshpatel1692/all-combinations-168-x-11-x-7-edge-cases,All Combinations 168 x 11 x 7 + Edge cases,Harsh Patel,,2020-03-18T04:36:43.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,taro37/1-2-create-augmented-tfrecords, 1-2. Create Augmented TFRecords,taroo,,2020-03-13T03:04:58.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,salazarslytherin/grapheme-keras-effnet-b3-training-inference,grapheme_Keras EffNet B3 Training + Inference,745H1N,,2020-03-09T10:46:49.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,mks2192/data-preparation,Data Preparation,Manoj,,2020-02-29T12:51:11.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,lextoumbourou/bengali-ai-curriculum-dropout-fastai,Bengali.AI: Curriculum Dropout (fastai),Lex Toumbourou,,2020-02-23T04:52:32.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,amaity0/bengali-grapheme-multioutput-inference,Bengali Grapheme multioutput inference,amaity,,2020-02-22T03:35:24.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,venky2506/fastai-inference-128x128-v2,FastAI inference (128x128) v2,Son of Anton v3.0,,2020-02-20T08:01:21.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,shawon10/transfer-learning-bengali-graphemes-classification,Transfer Learning Bengali Graphemes Classification,Ashadullah Shawon,,2020-02-09T10:41:12.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,hengck23/kernel5be4586b59,kernel5be4586b59,‎‎‎‎‎‎‎‎,,2020-01-22T09:25:47.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-prediction-from-saved-model,Bengali Graphemes: Prediction from saved model,AnirbanK,,2020-02-18T11:33:14.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,bhaveshthaker/bengali-ai-handwritten-grapheme-classification,Bengali.AI Handwritten Grapheme Classification,Bhaveshkumar Thaker,,2020-02-05T11:03:57.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,phoenix9032/pytorch-efficientnet-starter-kernel,Pytorch Efficientnet Starter Kernel,Doomsday,,2019-12-27T10:12:45.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet18-mixup-naive-learning-1,[Grapheme] ResNet18 Mixup Naive Learning 1,Hanjoon Choe,,2019-12-23T09:46:38.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-modified-bornonet-naive-learning-1,[Grapheme] Modified BornoNet Naive Learning 1,Hanjoon Choe,,2019-12-22T04:28:28.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-resnet-18-naive-learning-2, [Grapheme] ResNet-18 Naive Learning 2,Hanjoon Choe,,2019-12-21T02:33:54.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,user123454321/resnet18-base-inference,Resnet18-base Inference,user,,2019-12-26T09:56:33.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bengaliai-cv19
+,,,,,0,abisheksrivastav/bengali-ai,Bengali AI ,Abishek,,2020-07-30T08:06:57.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,toshik/bng-nn-solution,bng_nn_solution,toshi_k,,2020-03-19T14:45:51.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,kurianbenoy/efficientnetb4-parameter-tweaks,EfficientNetB4 parameter- tweaks,Kurian Benoy,,2020-03-16T16:49:20.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,rohitsingh9990/ensemble-efficientnet-b3-densenet161,Ensemble EfficientNet-B3 + DenseNet161,Rohit Singh,,2020-03-14T12:04:37.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,parmarsuraj99/bengaliai-resnext50-inference,BengaliAI_resnext50_inference,Suraj Parmar,,2020-02-26T19:23:36.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,wangqiyuan/bengali-automl-baseline-inference,Bengali AutoML Baseline (Inference),wangqiyuan,,2020-02-24T09:48:57.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,wangqiyuan/bengali-automl-baseline-ensemble-inference,Bengali AutoML Baseline - Ensemble (Inference),wangqiyuan,,2020-02-24T08:39:58.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,darwinwin/bengali-automl-baseline-ensemble-inference,Bengali AutoML Baseline - Ensemble (Inference),darwinwin,,2020-02-23T05:35:29.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,darwinwin/bengali-automl-baseline-inference,Bengali AutoML Baseline (Inference),darwinwin,,2020-02-23T05:36:52.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,larswigger/bengali-image-preprocessing,Bengali Image Preprocessing,Lars Wigger,,2020-02-22T14:41:04.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,jasonkatz33/transfer-cnn,transfer CNN,Jason Katz,,2020-02-21T16:42:44.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,chrisbrown46/keras-example,Keras Example,Chris Brown,,2020-03-12T17:30:41.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-resnet50,Bengali Graphemes: ResNet50,AnirbanK,,2020-02-25T10:34:29.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,ceshine/bengali-automl-baseline-inference,Bengali AutoML Baseline (Inference),Ceshine Lee,,2020-02-14T07:35:31.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,sundaramoorthyks/basic-cnn,Basic-CNN,Sundara Moorthy K S,,2020-02-17T13:05:47.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,abraristiak39/starter-wide-resnet50-train-inference,(Starter)Wide_ResNet50_train+inference,Md.Abrar Istiak Akib,,2020-02-09T05:56:43.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,nerobugger/bengali-ai-eda-base-cnn,Bengali.AI EDA + Base_CNN,zhangninghui,,2020-02-09T08:16:08.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,sibmike/pivots-hint-why-cutmix-works,Pivots hint why cutmix works.,sibmike,,2020-01-28T19:46:58.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,kaerunantoka/pred-bengali-resnet18-exp5,pred : Bengali ResNet18 exp5,kaerururu,,2020-01-18T17:34:10.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,bsridatta/resnext-using-pytorch-lightning,ResNext using PyTorch Lightning⚡,datta,,2021-06-05T08:03:55.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,luhego/grapheme-keras-data-augmentation-from-folder,Grapheme: Keras - Data Augmentation From Folder,Luis Herrera,,2020-01-09T13:27:42.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,mightyrains/how-does-the-test-images-look,How does the test images look?,Mighty Rains,,2020-01-08T15:59:12.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-custom-macro-recall-score-speed-check,[Grapheme] Custom Macro Recall Score Speed Check,Hanjoon Choe,,2019-12-29T18:40:07.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,kdorichev/bengali-ai-handwritten-grapheme-classification,Bengali.AI Handwritten Grapheme Classification,Konstantin Dorichev,,2020-01-11T11:20:47.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,pabloberhauser/visualizing-inputs-by-grapheme-root,Visualizing Inputs by Grapheme Root,pablOberhauser,,2020-02-25T19:42:58.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,sgalella/bengali-ai-grapheme-classification-preprocessing,Bengali AI Grapheme Classification: Preprocessing,sgalella,,2020-01-22T12:18:04.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bengaliai-cv19
+,,,,,0,pratibhagoudar/notebook5-09-21,notebook5/09/21,Pratibha Goudar,,2021-09-08T12:07:49.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,reasat/word2grapheme,Word2Grapheme,Tahsin ,,2021-03-16T23:43:29.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jamesccc/bengali-fusion,bengali_fusion,Jincz,,2020-12-23T13:26:09.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,aku0810/bengali-okkhor,Bengali_okkhor,Ronak,,2020-05-21T19:02:56.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,mashiat/conv-bengali-ai,Conv Bengali.AI,Mashiat,,2020-05-31T14:41:21.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,p4rallax/private-0-9557,[private 0.9557] ,Satwik,,2020-03-20T09:04:22.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,luffy1105/bengali-text-recognition-using-pytorch,bengali text recognition using pytorch,Manoj Pawar SJ,,2020-03-16T13:06:53.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jamesmcguigan/bengali-ai-dataset-as-image-directory,Bengali AI - Dataset as Image Directory,James McGuigan,,2020-03-16T02:56:15.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jagannathrk/bengali-ai-multi-output-densenet121,Bengali.Ai: Multi-Output-DenseNet121,Kranti Kumar,,2020-03-15T17:08:16.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jagannathrk/efficientnet-b5-on-tpu,Efficientnet-B5 on TPU,Kranti Kumar,,2020-03-14T04:56:21.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,drobchak1988/bengali-grapheme-tpu-gpu-cpu-tensorflow-squeeze,"Bengali Grapheme (TPU,GPU,CPU) TensorFlow Squeeze",Maksim Drobchak,,2020-03-18T23:42:29.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jamesmcguigan/bengali-ai-multi-output-df-cnn,Bengali AI - Multi Output DF CNN,James McGuigan,,2020-03-31T17:24:41.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,koenbaarda/simple-cnn-actually-densenet,Simple CNN (actually DenseNet),Koen Baarda,,2020-03-16T16:20:09.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,havingfun/bengali-ai-inference-from-abhishek-thakur-s-yt,Bengali AI inference: From Abhishek Thakur's YT,Rajesh Kumar,,2020-03-12T13:26:33.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,karishmakunder/validation-with-unseen,Validation With Unseen,Karishma Kunder,,2020-03-08T14:21:44.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,shawon10/deep-cnn-model-with-mixup-and-cutmix-augmentation,Deep CNN Model with Mixup and Cutmix Augmentation,Ashadullah Shawon,,2020-03-10T13:47:56.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,aponted511/model-pipelines-submission,model-pipelines-submission,David Aponte,,2020-03-08T21:57:25.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,pankajdubey223/bengali-handwritten-classification-using-keras-cnn,bengali_handwritten_classification Using Keras CNN,Pankaj,,2020-03-07T08:40:43.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,criticalmaz/variational-autoencoder-bengali-ai-handwritten,Variational Autoencoder Bengali Ai Handwritten,Masum Rab,,2020-03-02T11:10:47.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,drobchak1988/bengali-grapheme-tpu-gpu-cpu-tensorflow,"Bengali Grapheme (TPU,GPU,CPU) TensorFlow",Maksim Drobchak,,2020-03-15T17:39:41.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,lakshit77/resnet34-pytorch,resnet34 pytorch,laksh,,2020-02-28T11:34:41.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,drobchak1988/tfrecords-create-test,tfrecords_create_test,Maksim Drobchak,,2020-02-29T02:00:41.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,marcelosanchezortega/version1-0-9696,version1 : 0.9696,Marcelo Sánchez Ortega,,2020-02-24T20:52:06.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,drobchak1988/bengali-grapheme-tfrecords-create,Bengali Grapheme tfrecords create,Maksim Drobchak,,2020-03-09T22:49:03.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,hemanth346/understanding-input,Understanding Input,Hemanth,,2020-02-29T05:06:09.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,ceshine/bengali-automl-baseline-ensemble-inference,Bengali AutoML Baseline - Ensemble (Inference),Ceshine Lee,,2020-02-19T05:18:54.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,andreyzotov/qubvel-classification-models-test,qubvel_classification_models test,Andrey Zotov,,2020-02-18T17:05:27.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,shythm/bengali-recognize,Bengali Recognize,Seongho Lee,,2020-03-12T12:53:43.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,apstars/seresnext50-based-on-pytorch,SEResNext50 based on pytorch,Apstars,,2020-02-26T03:31:58.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,aryanshomray/fork-of-kernel33f49d2e20,Fork of kernel33f49d2e20,Aryansh Omray,,2020-02-15T09:03:28.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,ajax0564/kernel7c9c3c386a,kernel7c9c3c386a,Ankit Maurya,,2020-03-08T17:07:43.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-multichannelcnn-data-aug-2,Bengali Graphemes: MultiChannelCNN  Data Aug - 2,AnirbanK,,2020-02-18T16:12:30.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,yeayates21/cant-submit-1s-whats-wrong-please-help,Cant-Submit-1s-Whats-Wrong-Please-Help,Matt Yates,,2020-02-12T16:44:52.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jasonkatz33/cnn-draft,CNN_draft,Jason Katz,,2020-03-04T01:18:37.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,jasonkatz33/basic-nn,basic_nn,Jason Katz,,2020-03-04T01:43:18.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,aishakhatun/initial-exploration,Initial Exploration,tanny411,,2020-02-07T06:18:48.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,seraphwedd18/three-part-model-training-kernel-only-submission,Three-Part Model Training (Kernel Only) Submission,Venturillo JE,,2020-02-12T03:43:54.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,wfstoel/eda-class-frequencies,EDA class frequencies,WF Stoel,,2020-02-05T13:02:48.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,amaity0/bengali-grapheme-third-inference,Bengali Grapheme third inference,amaity,,2020-02-17T01:09:06.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-multichannelcnn-with-dataaug,Bengali Graphemes: MultiChannelCNN with DataAug,AnirbanK,,2020-02-18T12:02:24.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,maxlenormand/investigating-multiple-pre-processing-methods,Investigating multiple pre-processing methods,Maxime Lenormand,,2020-01-20T18:07:48.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,davlanigan/bengali-characters-simplenet,Bengali Characters - SimpleNet,Dáithí,,2020-03-16T17:23:25.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,roguekk007/another-stab,Another stab,XingJian Lyu,,2020-01-18T05:20:00.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,tangchengshun/bengali-seresnext-prediction-with-pytorch1-0,Bengali: SEResNeXt prediction with pytorch1.0,LeoMessi10,,2020-01-11T06:43:47.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,aaroha33/bengali-ai-handwritten-graphemes-open-cv,Bengali AI Handwritten Graphemes Open CV ,Buddhadeb Mondal,,2020-01-13T15:17:14.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,liang23333/kernel397167931a,kernel397167931a,Ang Li,,2020-01-14T02:08:28.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,abbasidaniyal/bengali-handwritting,Bengali Handwritting,Daniyal Abbasi,,2020-03-07T07:09:49.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,rohitsingh9990/bengaliai-multi-output-densenet-submission,BengaliAi- Multi Output DenseNet Submission ,Rohit Singh,,2020-01-06T12:46:54.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,suryaparsa/bengaliai-resnet50,BengaliAI-RESNET50,Surya Parsa,,2020-01-05T02:46:17.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,shujun717/rebuilt-no-bn,rebuilt no bn,Shujun,,2020-01-08T05:11:58.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,kottisasikanth/bengali-ai-dataset-eda,Bengali.AI Dataset EDA,Sasikanth,,2019-12-28T08:59:05.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,artikwh/exploring-data-and-getting-images,Exploring Data and getting Images,Arti Kushwaha,,2019-12-29T14:10:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,vincentyong97/efficientnet-b7-inference,EfficientNet B7 Inference,Vincent Yong,,2020-01-18T02:27:07.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,nubatama/extract-training-image,Extract training image,nubatama,,2019-12-22T14:41:07.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,hanjoonchoe/grapheme-modified-bornonet-naive-learning-3,[Grapheme] Modified BornoNet Naive Learning 3,Hanjoon Choe,,2019-12-22T14:07:36.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bengaliai-cv19
+,,,,,0,trnlaiphc/51900831-nguyen-binh-thang-52000705-tran-lai,51900831 - Nguyen Binh Thang - 52000705 - Tran Lai,Trần Lai Phước,,2022-05-25T11:15:27.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,trnvnduy/52000751-tranvanduy-52000750-phanhuynhtoanduc-so7,52000751-TranVanDuy-52000750-PhanHuynhToanDuc-So7,Trần Văn Duy,,2022-05-27T03:29:11.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,pratibhagoudar/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Pratibha Goudar,,2021-09-09T05:11:36.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,pratibhagoudar/notebooke7ef644650,notebooke7ef644650,Pratibha Goudar,,2021-09-05T15:30:29.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,shariarnurnahin/bengaliai,bengaliAi,Shariar Nur Nahin,,2021-04-16T12:34:48.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ngminhton/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Ngô Minh Toàn,,2021-05-05T05:51:45.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,cedricmanouan11/bengali-graphemes-convert-parquet,bengali_graphemes_convert_parquet,Dric225,,2021-02-27T20:20:45.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,reasat/synthetic-words,Synthetic Words,Tahsin ,,2021-02-25T21:23:39.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jamesccc/bengali-multihead,bengali_multihead,Jincz,,2020-12-23T13:25:10.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jia072/bengali-ai,Bengali.AI,Jia072,,2020-12-23T14:35:58.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jamesccc/bengali-single,bengali_single,Jincz,,2020-12-23T10:15:41.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,mashiat/googlenet-resnet,GoogleNet+ResNet,Mashiat,,2020-06-04T18:52:11.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,thepatel99/bengali-cnn,Bengali_CNN,Saurabh Patel,,2020-05-16T10:20:24.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,mahisoni/bengali-ai-deep-learning,Bengali_ai_deep_learning,mahi soni,,2020-05-15T05:12:23.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,garyongguanjie/seresnext-50-inference,seresnext-50 inference,garyong,,2020-05-02T04:46:52.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,garyongguanjie/seresnext-50-train,seresnext-50 train,garyong,,2020-05-02T07:27:54.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,shanshanpeng/10th-another-try,10th-another-try,Shanshan Peng,,2020-04-20T16:54:37.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,garyongguanjie/resnet34-ensemble,resnet34 ensemble,garyong,,2020-04-20T06:33:01.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,shanshanpeng/pengshanshan99-10th,pengshanshan99-10th,Shanshan Peng,,2020-04-20T04:34:56.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,mohammadzunaed/efficientnet-b5-inference-kernel-pytorch,EfficientNet-B5 Inference Kernel ( Pytorch ),Mohammad Zunaed Rafi,,2020-04-18T15:43:18.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jonathanql/tests,tests,Jonathan Quiroz Laverde,,2020-05-21T15:56:12.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,garyongguanjie/resnet18public,resnet18public,garyong,,2020-04-09T19:02:00.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,resurgent/dense169-implementation,Dense169 Implementation,Akshay Rajmohan,,2020-04-06T06:27:43.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,leonisviridis/bengali-submission-3-0,Bengali Submission 3.0,Ashley Batchelor,,2020-04-25T22:40:14.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,leonisviridis/bengali-submission-2-0,Bengali Submission 2.0,Ashley Batchelor,,2020-04-25T22:38:08.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,leonisviridis/bengali-transfer-learning-model,Bengali Transfer Learning Model,Ashley Batchelor,,2020-04-02T00:29:37.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,sangyon/albubangalis,albubangalis,Won SangYon,,2020-03-28T00:34:10.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,moximo13/spatial-transform-network-bengali,Spatial_Transform_Network_Bengali,Tanyapohn,,2020-03-23T05:28:47.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ajinkyaindulkar/sub-mlip-model-noaug,sub-MLiP-Model-NoAug,Ajinkya Indulkar,,2020-03-20T10:27:55.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ajinkyaindulkar/mlip-model-noaug,MLiP-Model-NoAug,Ajinkya Indulkar,,2020-03-20T10:08:07.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,edwinwenink/team-rausnaus-mlip-final-training-notebook,Team RausNaus (MLiP) Final Training Notebook,EdwinWenink,,2020-03-19T08:52:58.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,fbergh/rgb-finetuning-resnet-50-tl-inference,[RGB+finetuning] ResNet-50 + TL Inference,fbergh,,2020-03-20T11:17:44.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,nd02110114/end-to-end-resnet50-training,End to End ResNet50 Training,nissy,,2020-03-29T07:49:00Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jasonyikim/final,Final,Jason_YI_Kim,,2020-03-16T18:31:55.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,yaroslavyudinskikh/begnali-data-to-feather,Begnali Data to Feather,Yaroslav Yudinskikh,,2020-03-16T08:06:47.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,cloudy4next/bengali-grapheme,Bengali Grapheme:,Jahangir Hossein,,2020-03-16T08:51:49.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,poojaarora014/using-ghostnet-and-densenet,Using GhostNet and DenseNet,Pooja Arora,,2020-03-15T14:17:55.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,vagrawal/ensemble-efficientnet-b3-densenet161,Ensemble EfficientNet-B3 + DenseNet161,Vishal,,2020-03-14T20:59:41.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,haoche/nodrop-16-256-resnet-18,NoDrop '16'-'256' resnet 18,Hao Che,,2020-03-14T18:30:20.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,hunminyang/bengali-yang-training-v3-0,Bengali_YANG_training_v3.0,Hunmin Yang,,2020-03-16T12:21:29.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,inhoii/kernel393cfa5247,kernel393cfa5247,Inhoi,,2020-03-15T23:34:15.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,lightnezzofbeing/5-fold-average,5 fold average,Cyr1ll,,2020-03-15T22:58:53.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,stefanstanojevic/kernel2b55603361,kernel2b55603361,Stefan Stanojevic,,2020-03-13T16:34:43.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,sadrultoaha/bai-sub,BAI_Sub,SunWalker,,2020-03-16T14:45:13.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,meysonua/simple-squeezenet,Simple SqueezeNet,Vova,,2020-03-30T15:42:57.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,shawon10/efficientnetb3-inference,EfficientNetB3 Inference,Ashadullah Shawon,,2020-03-12T16:27:17.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,helloharo/resnet-fine-tuning,resnet_fine-tuning,sn,,2020-03-10T05:59:18.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,dhirus/dhirus-keras,dhirus_keras,Dhirendra Srivastava,,2020-03-08T08:29:31.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,dlehddms1/submission-gpu,submission_gpu,Dong Eun,,2020-03-09T11:14:11.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,pyy0715/bengali-pytorch-starter,[Bengali] Pytorch Starter,yyeon2,,2020-03-17T06:32:48.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,mrcooperr/the-submission-notebook-of-team-daemencloudt,The submission notebook of team DaemenCloudt,KasparDaemen,,2020-03-20T14:02:49.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,mopu3263/keras-efficientnet-b3-with-image-preprocessing,Keras EfficientNet B3 with image preprocessing,Md Opu,,2020-03-07T14:11:58.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jd81197/kernel2ecf7416bf,kernel2ecf7416bf,Jaydeep,,2020-03-06T06:09:23.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ludongliang/version1-0-9696,version1 : 0.9696,dongliang,,2020-03-05T06:27:15.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,xarshila/grapheme-classification-inference,grapheme-classification-inference,Lasha Kharshiladze,,2020-03-09T09:27:44.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,julienbeaulieu/bengaliai-model-inference-mobilenet-v2,Bengaliai - Model Inference MobileNet_V2,Julien Beaulieu,,2020-03-08T12:33:05.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ddhawan/bengali-char-recog2,Bengali Char Recog2,Dhiiraj,,2020-03-05T12:08:00.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,oooyeeun/multioutput-cnn-ensemble,multioutput_cnn_ensemble,Yeeun Lee,,2020-03-11T10:56:17.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,brodzik/bengali-ai-inference,Bengali.AI inference,Adrian Brodzik,,2020-03-16T21:55:45.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,egm108/top15-kernel,top15% kernel ,Evgeniya,,2020-03-20T16:43:21.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,fakegeek1981105/se-resnext,se_resnext,Hannah Han,,2020-03-01T01:58:49.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,fakegeek1981105/ensemble-average,Ensemble_Average,Hannah Han,,2020-03-02T01:49:48.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,nicapotato/bengali-etl,Bengali ETL,nicapotato,,2020-02-29T15:19:53.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,tanmaymaloo/fork-of-final-bengali-fe31e3,Fork of final_bengali fe31e3,Tanmay maloo,,2020-03-14T22:22:51.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,fakegeek1981105/resnet34-xh,resnet34_xh,Hannah Han,,2020-02-29T05:30:42.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,srjony/densenet161-training-inference-no-aug-0-9334,DenseNet161 Training+Inference (No Aug) 0.9334,SrJ,,2020-03-24T17:47:10.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,gwiheo/kernel88606ae708,kernel88606ae708,GwiHeo,,2020-02-27T16:39:32.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,larswigger/pytorch-bengali-submission,Pytorch Bengali-Submission,Lars Wigger,,2020-02-27T12:59:33.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-resnet50-tpu,Bengali Graphemes: ResNet50 TPU ,AnirbanK,,2020-02-26T12:10:53.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ozdata/initial-eda-bengali-ai,"Initial EDA, Bengali.AI",Ostap Orishko,,2020-02-25T05:15:02.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,fakegeek1981105/firstmodel,firstmodel,Hannah Han,,2020-02-24T17:33:22.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-resnet50-2,Bengali Graphemes: ResNet50 - 2,AnirbanK,,2020-02-24T14:23:09.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-prediction-from-three-models,Bengali Graphemes: Prediction from three models,AnirbanK,,2020-02-24T17:13:14.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,prishat/bengali-handwriting-classification-1,Bengali Handwriting classification_1,Paladin,,2020-03-04T17:07:30.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,harshpatel1692/bangla-predict,Bangla_Predict,Harsh Patel,,2020-03-15T04:49:11.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,mrnastik/cnn-finally-implemented,CNN finally implemented,Mr Nastik,,2020-02-23T08:41:47.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,toruhasegawa/ocr-introduction-with-muti-output-cnn,OCR_Introduction_with_muti_output_CNN,Toru Hasegawa,,2020-02-20T09:59:31.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,santosh16k/inference-of-resnext50-bengali,Inference of resnext50_bengali,Santosh,,2020-02-24T09:44:13.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,dkebudi/basic-nn,basic_nn,David Kebudi,,2020-02-21T22:20:42.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,hunminyang/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Hunmin Yang,,2020-03-08T06:36:45.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,blaxkdolphin/simplecnn-resnet34-multihead-classifer,simpleCNN (resnet34 multihead classifer),Yier,,2020-03-02T21:54:26.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,axiostpc/bengali-fast-inference-single-model,Bengali Fast Inference Single Model,PY,,2020-02-24T19:02:23.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,yaroslavyudinskikh/bengali-resnet18,Bengali ResNet18,Yaroslav Yudinskikh,,2020-02-24T12:25:21.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirbansen3027/kernel52940e0a49,kernel52940e0a49,Anirban Sen,,2020-03-10T04:22:09.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,antchesnais/keras-cnn-recall-metric-tracking,Keras CNN + recall metric tracking,Antoine Chesnais,,2020-02-20T12:42:36.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,rundun159/bengali-kernel-copied-from-kaushal-shah,Bengali Kernel Copied from  Kaushal Shah,qwerty2511,,2020-02-18T08:42:19.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,rundun159/bengali-kernel-quick-eda-from-peter-s,Bengali Kernel quick EDA from Peter's,qwerty2511,,2020-02-16T08:03:53.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jd81197/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Jaydeep,,2020-02-16T06:58:04.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,larswigger/bengali-training,Bengali-Training,Lars Wigger,,2020-02-22T11:53:14.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ritssriram/bengali-graphemes-starter-eda-multi-output-cnn,Bengali Graphemes: Starter EDA+ Multi Output CNN,Ritika S,,2020-02-13T06:27:11.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,blaxkdolphin/simplecnnmultiheadclassifier,simpleCNNmultiheadClassifier,Yier,,2020-03-02T17:35:23.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,rodrigoignacioperez/initial-notebook,Initial Notebook,Rodrigo Ignacio Perez,,2020-03-20T14:51:12.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,abebe9849/test-for,test_for ベンガル,patriot,,2020-02-18T16:58:14.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,antonp23/kernel3324ec5e6d,kernel3324ec5e6d,Mark Isaac,,2020-02-09T20:00:33.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,amaity0/bengali-grapheme-first-predict,Bengali Grapheme first predict,amaity,,2020-02-09T17:13:34.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,julienbeaulieu/bengaliai-model-inference-02-jb,Bengaliai - Model Inference 02 - JB,Julien Beaulieu,,2020-03-07T13:55:25.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,chriscc/grapheme-fast-ai-inference-stacking,Grapheme fast.ai inference stacking,ChrisCC,,2020-02-11T02:26:28.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,inhoii/how-to-get-score-of-0-98-with-one-gtx-1080ti,how to get score of 0.98 with one gtx 1080Ti,Inhoi,,2020-02-23T18:04:36.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,breathe825/inference-xiaoyu,inference-xiaoyu,yy2020,,2020-02-08T20:18:59.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,kaushal2896/resize-and-load-with-feather-format-much-faster,Resize and Load with feather format much faster.,Kaushal Shah,,2020-02-18T03:39:53.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,naveen2961988/kernel6d7c349150,kernel6d7c349150,Naveenkumar R,,2020-02-04T04:13:09.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ibraheemmoosa/fork-of-bangla-handwritten-grapheme-inference,Fork of Bangla Handwritten Grapheme Inference,ibraheemmoosa,,2020-03-19T08:53:09.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,amaity0/bengali-grapheme-third-try,Bengali Grapheme third try,amaity,,2020-02-08T15:58:00.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,jeongjiheon/resnet34-dropout-radam,Resnet34+Dropout+RAdam,JeongJiHeon,,2020-03-07T07:22:20.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,kausikn/bengaliai-fastai-inferencenotebook,BengaliAI_FastAI_InferenceNotebook,Kausik N,,2020-02-02T11:24:38.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,bmk007/bengali-handwritten-grapheme,Bengali Handwritten Grapheme,bmk007,,2020-03-15T12:27:47.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,rhythmcan/what-s-test-data-and-submission-data,What's test data and submission data.,becky,,2020-02-01T09:08:12.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-basic-eda,Bengali Graphemes: Basic EDA,AnirbanK,,2020-02-04T07:35:44.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,dyt811/explorative-quantitative-eda,Explorative Quantitative EDA,Yang Ding,,2020-01-28T23:34:47.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,lextoumbourou/transfer-learning-with-context-encoders,Transfer Learning with Context Encoders,Lex Toumbourou,,2020-01-29T07:13:43.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,gaur128/bengali-graphemems-model-inference,Bengali_Graphemems_Model_Inference,Gaurav Yadav,,2020-03-12T15:02:52.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,linainversez/bengali-fast-ai-inference,bengali fast.ai - inference,slime,,2020-01-22T01:47:00.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,bergerda/bengaliai,BengaliAI,Damian Berger,,2020-02-05T15:31:49.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,thetrueharvey/handwritten-grapheme-classification,Handwritten Grapheme Classification,Nick Harvey,,2020-01-14T20:36:43.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,slayer007/model-kernel141-root,model_kernel141_root,slayer007,,2020-01-14T05:44:12.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,pnussbaum/grapheme-mind-reader-panv00,Grapheme: mind-reader PANv00,"Paul Nussbaum, PhD",,2020-01-13T13:19:56.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,vincentyong97/256x256-kernel,256x256 kernel,Vincent Yong,,2020-02-15T15:59:00.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirbank/bengali-graphemes-starter-eda-multi-channel-cnn,Bengali Graphemes: Starter EDA+ Multi Channel CNN,AnirbanK,,2020-01-14T11:59:13.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,abhishek4273/first-submit-monk,First Submit - Monk,AbhishekAnnamraju,,2020-01-08T22:42:59.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,a2hrfr/ashraffcnn,ashraffcnn,a2hrfR,,2020-01-19T22:04:35.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,sadrultoaha/reading-the-data,Reading the Data,SunWalker,,2020-07-03T09:32:42.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anirudhaghosh/kernel658196e280,kernel658196e280,Anirudha Ghosh,,2020-01-05T21:35:06.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,rohitsingh9990/bengaliai-starter-eda-multi-output-densenet,BengaliAi-Starter EDA+Multi Output DenseNet,Rohit Singh,,2020-01-06T07:44:06.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,slayer007/model-kernel,Model_kernel,slayer007,,2020-01-05T03:57:28.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ibraheemmoosa/bangla-handwritten-grapheme-inference-ensemble,Bangla Handwritten Grapheme Inference Ensemble,ibraheemmoosa,,2020-03-16T15:24:36.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ibraheemmoosa/bangla-handwritten-grapheme-uncertainty-weighted,Bangla Handwritten Grapheme Uncertainty Weighted,ibraheemmoosa,,2020-01-05T19:38:21.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,artikwh/bengali-ai-resnet-34-pytorch-model,Bengali.ai ResNet-34 Pytorch Model,Arti Kushwaha,,2020-01-06T06:08:35.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,karthikvenktesh/bengali-ai-handwritten-started,Bengali.AI Handwritten: Started,Karthik,,2020-01-22T14:24:49.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anisrfd/bengali-handwritten-classification,Bengali Handwritten Classification,Anisrfd,,2019-12-25T09:22:53.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,amaity0/bengali-grapheme-first-try,Bengali Grapheme first try,amaity,,2020-02-09T08:30:17.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,subediaarjun/resnet-pytorch,ResNet PyTorch ,Arjun Subedi,,2019-12-22T20:00:46.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,wakamezake/bengali-publicscore-check,Bengali_PublicScore_check,wakame,,2019-12-22T09:00:07.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,anibanyal/bengali-kaggle,BENGALI_KAGGLE,aniket26,,2019-12-23T09:49:40.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,hirotaka0122/bengali-dataset-setup,Bengali Dataset Setup,Hirotaka Kawashima,,2020-01-06T02:42:43.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,ibraheemmoosa/bangla-handwritten-grapheme,Bangla Handwritten Grapheme,ibraheemmoosa,,2020-03-12T06:13:27.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,wakamezake/bengali-handwritten-grapheme-classification-eda,Bengali Handwritten Grapheme Classification EDA,wakame,,2019-12-20T03:32:28.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19
+,,,,,0,grapestone5321/bengali-a-sample-submission,Bengali.A-sample_submission,Naruhiko Nakanishi,,2020-02-26T02:17:54.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bengaliai-cv19

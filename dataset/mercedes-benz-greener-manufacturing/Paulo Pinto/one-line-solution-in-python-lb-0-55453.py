@@ -1,0 +1,1 @@
+import pandas as pd; pd.read_csv('../input/test.csv').join(pd.read_csv('../input/train.csv').groupby(['X0'])[['y']].mean(), on=['X0']).fillna(100.669).to_csv('sub1l.csv', columns=['ID','y'], index=False) # LB=0.55453

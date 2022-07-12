@@ -1,0 +1,302 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,cdeotte/pseudo-labeling-qda-0-969,Pseudo Labeling - QDA - [0.969],Chris Deotte,,2021-08-31T02:50:26.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],595,instant-gratification
+,,,,,0,cdeotte/support-vector-machine-0-925,Support Vector Machine - [0.925],Chris Deotte,,2019-05-20T22:23:22.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],286,instant-gratification
+,,,,,0,cdeotte/logistic-regression-0-800,Logistic Regression - [0.800],Chris Deotte,,2019-05-19T16:55:07.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],235,instant-gratification
+,,,,,0,mhviraf/synthetic-data-for-next-instant-gratification,Synthetic data for (next?) Instant Gratification,Massoud Hosseinali,,2019-05-28T22:33:00.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],230,instant-gratification
+,,,,,0,speedwagon/quadratic-discriminant-analysis,Quadratic Discriminant Analysis,Vladislav Bakhteev,,2019-05-30T06:52:50.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],215,instant-gratification
+,,,,,0,cdeotte/private-lb-probing-0-950,Private LB Probing - [0.950],Chris Deotte,,2019-05-23T12:00:17.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],206,instant-gratification
+,,,,,0,cdeotte/3-clusters-per-class-0-975,3 Clusters Per Class - [0.975],Chris Deotte,,2019-06-23T12:02:34.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],200,instant-gratification
+,,,,,0,christofhenkel/graphicallasso-gaussianmixture,GraphicalLasso + GaussianMixture,Dieter,,2019-06-10T21:05:23.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],133,instant-gratification
+,,,,,0,tunguz/instant-eda,Instant EDA,Bojan Tunguz,,2019-05-21T22:19:33.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],119,instant-gratification
+,,,,,0,nroman/i-m-overfitting-and-i-know-it,I'm overfitting and I know it,Roman,,2019-06-04T12:40:48.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],112,instant-gratification
+,,,,,0,speedwagon/neural-network-baseline,Neural Network baseline,Vladislav Bakhteev,,2019-05-19T17:10:09.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],109,instant-gratification
+,,,,,0,tunguz/ig-pca-nusvc-knn-qda-lr-stack,IG PCA + NuSVC + KNN + +QDA + LR  stack,Bojan Tunguz,,2019-06-01T10:14:33.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],98,instant-gratification
+,,,,,0,tunguz/pca-nusvc-knn,PCA + NuSVC + KNN,Bojan Tunguz,,2019-05-27T00:35:11.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],93,instant-gratification
+,,,,,0,rsakata/gmm-with-target-perfect-pred-random-shuffle,GMM with target (perfect pred.) + random shuffle,Jack (Japan),,2019-06-17T04:46:39.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],88,instant-gratification
+,,,,,0,paulorzp/nusvc-qda-4-lines-0-96,NuSVC+QDA [4 lines] 0.96+,Paulo Pinto,,2019-06-05T00:58:27.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],81,instant-gratification
+,,,,,0,gogo827jz/pseudo-labelled-polylr-and-qda, Pseudo-Labelled PolyLR and QDA ,Yirun Zhang,,2019-06-11T10:24:30.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],80,instant-gratification
+,,,,,0,prashantkikani/ig-pca-nusvc-knn-lr-stack,IG PCA + NuSVC + KNN + LR  stack,Prashant Kikani,,2019-05-28T02:07:55.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],80,instant-gratification
+,,,,,0,christofhenkel/lets-implement-qda-by-ourself,Lets implement QDA by ourself,Dieter,,2019-06-08T18:50:24.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,instant-gratification
+,,,,,0,rohandeysarkar/instant-gratification-qda,Instant Gratification (QDA),RohanDeySarkar,,2019-06-19T17:18:51.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,instant-gratification
+,,,,,0,graf10a/single-qda-lb-0-96610-time-1-min,Single_QDA_LB_0.96610_time<_1_min,Alexey Pronin,,2019-06-03T17:57:26.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,instant-gratification
+,,,,,0,abhishek/neural-network-with-embedding-layer,neural network with embedding layer,Abhishek Thakur,,2019-05-19T11:25:53.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,instant-gratification
+,,,,,0,sggpls/singlethreaded-instantgratification,SingleThreaded InstantGratification,Sergey Bryansky,,2019-06-19T16:29:56.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,instant-gratification
+,,,,,0,allunia/instant-gratification-some-eda-to-go,Instant gratification - Some EDA to go :-),Laura Fink,,2019-05-25T21:21:47.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,instant-gratification
+,,,,,0,rdekou/pseudo-labelling-with-pca-qda,Pseudo labelling with PCA-QDA ,Indomitable lion,,2019-06-10T20:45:45.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],67,instant-gratification
+,,,,,0,tayorm/pl-lasso-gmm-pca-qda,PL + Lasso + GMM + PCA + QDA,Mohammed Tayor,,2019-06-12T06:15:17.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,instant-gratification
+,,,,,0,yizhitao/flip-y-lb-0-9697,flip_y_LB_0.9697,Yizhi,,2019-06-06T10:15:41.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,instant-gratification
+,,,,,0,aerdem4/instantgratification-lofo-feature-importance,InstantGratification LOFO Feature Importance,Ahmet Erdem,,2019-06-02T18:19:26.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,instant-gratification
+,,,,,0,nroman/augmentation-explained,Augmentation explained,Roman,,2019-06-06T12:28:21.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,instant-gratification
+,,,,,0,ateplyuk/starter,Starter,Alexander Teplyuk,,2019-06-12T11:27:45.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,instant-gratification
+,,,,,0,ryomiyazaki/semi-supervised-gaussian-mixture-model-with-em,Semi-Supervised Gaussian Mixture model with EM,RyoMiyazaki,,2019-06-18T10:13:28.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,instant-gratification
+,,,,,0,donariumdebbie/explore-funny-column-names,Explore funny column names,D.L.,,2019-05-20T16:18:37.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,instant-gratification
+,,,,,0,h4211819/adversarial-validation,Adversarial Validation,30CrMnSiA,,2019-05-18T04:02:41.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,instant-gratification
+,,,,,0,raghaw/flip-y,flip_y,Raghawendra Singh,,2019-06-08T16:04:33.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,instant-gratification
+,,,,,0,robikscube/a-race-for-instant-gratification,🏎️ A Race for Instant Gratification,Rob Mulla,,2019-06-20T23:04:19.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,instant-gratification
+,,,,,0,infinitewing/create-validation-datas-by-make-classification,Create validation datas by make_classification,InfiniteWing,,2019-06-20T14:48:48.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,instant-gratification
+,,,,,0,senkin13/eda-starter,EDA Starter,senkin13,,2019-05-18T03:23:51.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,instant-gratification
+,,,,,0,abhishek/beating-the-benchmark-neural-network,beating the benchmark ;) [neural network],Abhishek Thakur,,2019-05-18T08:58:09.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,instant-gratification
+,,,,,0,bejeweled/instant-gratification-eda,Instant Gratification EDA,Dmitriy Ershov,,2019-05-18T07:49:16.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,instant-gratification
+,,,,,0,hyeonho/pca-nusvc-0-95985,PCA + NuSVC - [0.95985],hhl,,2019-05-26T17:28:47.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,instant-gratification
+,,,,,0,ilu000/instagrat-lgbm-baseline,InstaGrat LGBM Baseline,Ilu,,2019-05-18T14:00:48.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,instant-gratification
+,,,,,0,infinite/v2-all-gmm,v2_all_gmm,infinitezxc,,2019-06-20T22:43:25.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,instant-gratification
+,,,,,0,robikscube/comparing-vlad-s-public-test-predictions-vs-qda,Comparing Vlad's Public Test Predictions vs. QDA,Rob Mulla,,2019-06-12T13:38:44.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,instant-gratification
+,,,,,0,baomengjiao/something-interesting-about-magic,Something Interesting about Magic,spongebob,,2019-05-20T15:19:46.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,instant-gratification
+,,,,,0,jazivxt/cognitive-conditioning,Cognitive Conditioning,Daniel Preciado,,2019-05-24T09:17:33.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,instant-gratification
+,,,,,0,jazivxt/code-golf-cognitive-illusion-ruler-check,Code Golf - Cognitive Illusion Ruler Check,Daniel Preciado,,2019-05-24T07:59:17.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,instant-gratification
+,,,,,0,jazivxt/bojan-chris-cv-2,Bojan + Chris + CV (2),Daniel Preciado,,2019-05-25T18:21:52.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,instant-gratification
+,,,,,0,pestipeti/ensemble-a-few-simple-model,Ensemble a few simple model,Peter,,2019-05-23T06:03:09.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,instant-gratification
+,,,,,0,dimitreoliveira/instant-gratification-deep-learning,Instant Gratification - Deep Learning,DimitreOliveira,,2019-05-19T01:30:22.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,instant-gratification
+,,,,,0,triplelift/single-nn-score-0-94179,Single NN (Score 0.94179) ,TripleLift,,2019-05-27T11:45:58.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,instant-gratification
+,,,,,0,graf10a/tuning-512-separate-qda-models,Tuning_512_separate_QDA_models,Alexey Pronin,,2019-06-05T15:31:12.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,instant-gratification
+,,,,,0,fchmiel/low-variance-features-useless,Low variance features - Useless?,FChmiel,,2019-05-26T17:41:03.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,instant-gratification
+,,,,,0,nroman/why-we-can-t-reach-auc-1-0,Why we can't reach AUC 1.0,Roman,,2019-06-03T16:52:58.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,instant-gratification
+,,,,,0,artgor/pytorch-model,Pytorch model,Andrew Lukyanenko,,2019-05-20T05:34:28.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,instant-gratification
+,,,,,0,waylongo/5th-solution,5th solution,Waylon Wu,,2019-06-20T05:36:09.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,instant-gratification
+,,,,,0,code1110/best-parameter-s-for-qda,Best parameter(s) for QDA,katsu1110,,2019-06-13T06:27:56.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,instant-gratification
+,,,,,0,mhviraf/why-removing-outliers-should-work,Why removing outliers should work,Massoud Hosseinali,,2019-06-12T20:50:14.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,instant-gratification
+,,,,,0,ilhamfp31/flip-y-pseudo-labelling-with-pca-qda,Flip Y + Pseudo labelling with PCA-QDA ,Ilham Firdausi Putra,,2019-06-11T16:06:37.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,instant-gratification
+,,,,,0,sandeepkumar121995/ensemble-oftop-3-public-kernel,Ensemble ofTop 3 Public Kernel,Sandeep Kumar,,2019-06-18T08:48:14.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,instant-gratification
+,,,,,0,plasticgrammer/instant-gratification-playground,Instant Gratification : playground,plasticgrammer,,2019-06-20T22:21:39.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,instant-gratification
+,,,,,0,sagau5999/512-knn-10-with-lgb-feature-selection-91-6-lb,512 KNN-10 With LGB feature selection 91.6 LB,Samuel Gauvreau,,2019-05-22T02:05:42.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,instant-gratification
+,,,,,0,wanliyu/how-to-make-stacking-work-with-pseudo-labeling,How to make stacking work with pseudo labeling,Carp-one,,2019-06-21T06:39:11.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,instant-gratification
+,,,,,0,mhviraf/instant-gratification-lb-score-0-974,Instant Gratification LB score > 0.974,Massoud Hosseinali,,2019-06-20T15:14:54.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,instant-gratification
+,,,,,0,sairakun/visualize-compare-nusvc-svc-qda-knn,"Visualize & Compare (NuSVC, SVC, QDA,KNN)",Saira,,2019-06-03T05:48:00.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,instant-gratification
+,,,,,0,artgor/ig-eda-and-models,IG eda and models,Andrew Lukyanenko,,2019-05-20T05:48:45.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,instant-gratification
+,,,,,0,rinnqd/kmeans-4-clusters-per-label-gmm-33th-lb-9756,KMeans 4 clusters per label + GMM 33th [LB .9756],Firas Baba,,2019-06-21T00:40:40.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,instant-gratification
+,,,,,0,andrilko/top-score-lb0976-with-qda-and-unsprvsd-g-b-mm,TOP SCORE LB0976+ with QDA and unsprvsd G(B)MM,Alex Abramov,,2019-06-21T14:20:04.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,instant-gratification
+,,,,,0,ozansabirlioglu/14-06-2019-v3,14.06.2019 v3,Ozan,,2019-06-14T12:48:19.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,instant-gratification
+,,,,,0,triplelift/make-classification-source-code,make_classification  source_code,TripleLift,,2019-06-02T13:14:02.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,instant-gratification
+,,,,,0,jazivxt/tune-in-tune-out,Tune In - Tune Out,Daniel Preciado,,2019-06-15T08:17:49.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,instant-gratification
+,,,,,0,mhviraf/there-is-predictive-power-in-the-useless-columns,There is predictive power in the useless columns,Massoud Hosseinali,,2019-05-24T02:53:41.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,instant-gratification
+,,,,,0,paulorzp/nusvc-code-golf-len-313,NuSVC - Code Golf (len=313),Paulo Pinto,,2019-05-27T14:13:09.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,instant-gratification
+,,,,,0,binilg/labelspreading-with-pseudo-labeling,LabelSpreading with Pseudo-Labeling,Binil,,2019-06-11T17:19:58.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,instant-gratification
+,,,,,0,dimitreoliveira/ensembling-and-evaluating-magic-models,Ensembling and evaluating Magic models,DimitreOliveira,,2019-06-01T14:42:41.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,instant-gratification
+,,,,,0,siavrez/selecting-best-clusters-no-0-97618,Selecting Best Clusters No 0.97618,Siavash,,2019-06-21T08:36:06.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,instant-gratification
+,,,,,0,qy2205/pca-variance-qda-knn-4-stacking,"PCA, Variance, QDA, KNN, 4 stacking",Quan Yuan,,2019-06-14T02:19:53.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,instant-gratification
+,,,,,0,paulorzp/lgb-starter,LGB Starter,Paulo Pinto,,2019-05-20T02:57:07.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,instant-gratification
+,,,,,0,cashfeg/maybe-3-cluster-for-each-hoxosh,Maybe 3 cluster for each (hoxosh),hoxosh,,2019-06-10T17:32:48.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,instant-gratification
+,,,,,0,kvdatadragon/ordered-code-pca-log-knn-qda,Ordered code / PCA +  LOG + KNN + QDA,Victor Villacorta Plasencia,,2019-06-16T14:17:35.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,instant-gratification
+,,,,,0,jazmad/which-columns-are-important,Which columns are important?,Stephen Howard,,2019-05-29T20:37:44.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,instant-gratification
+,,,,,0,atikur/instant-gratification-fastai-starter,Instant Gratification - fastai starter,Atikur Rahman,,2019-05-19T08:00:30.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,instant-gratification
+,,,,,0,qiaoshiji/asdfghjkl,asdfghjkl,0ct0pus,,2019-06-20T15:24:32.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,instant-gratification
+,,,,,0,daishu/gmm-3-3-2,GMM_3-3-2,daishu,,2019-06-20T16:12:14.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,instant-gratification
+,,,,,0,kellehermhc/plain-old-pandas-and-numpy,Plain Old Pandas and Numpy,Dan Kelleher,,2019-06-20T15:08:39.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,instant-gratification
+,,,,,0,snakayama/lightgbm-using-optuna-optuna-lightgbm,Lightgbm using Optuna(Optunaを用いたLightgbm),makogarei,,2019-05-26T10:06:11.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,instant-gratification
+,,,,,0,lovedm/private-0-97603-kneighborsregressor,Private  【0.97603】KNeighborsRegressor,安静,,2019-06-21T11:01:37.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,instant-gratification
+,,,,,0,harangdev/possible-shakeups,Possible Shakeups,YoonSoo,,2019-06-09T03:29:51.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,instant-gratification
+,,,,,0,binilg/nusvc-svc-knn-lr-8-lines,NuSVC+SVC+KNN+LR [8 lines],Binil,,2019-05-24T16:04:39.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,instant-gratification
+,,,,,0,laevatein/one-more-step-in-interconnection,One more step in interconnection,Laevatein,,2019-05-20T13:15:27.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,instant-gratification
+,,,,,0,chocozzz/hyun-stacking,(Hyun) Stacking,SeaOtter,,2019-06-17T22:38:06.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,instant-gratification
+,,,,,0,tenffe/try-to-go-up,try-to-go-up,zhangxin,,2019-06-20T12:07:02.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,instant-gratification
+,,,,,0,tobikaggle/flip-y-lb-0-9697,flip_y_LB_0.9697,DDgg,,2019-06-07T07:51:26.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,instant-gratification
+,,,,,0,onslaught/pca-qda-nusvc-knn-0-96774,PCA+QDA+NuSVC+KNN [0.96774],Farit Galeev,,2019-06-03T16:05:08.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,instant-gratification
+,,,,,0,robikscube/eda-and-baseline-lgb-for-instant-gratification,EDA and Baseline LGB for Instant Gratification,Rob Mulla,,2019-05-20T15:05:32.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,instant-gratification
+,,,,,0,taigokuriyama/instant-gratification-several-models-ensembling,instant gratification several models ensembling,TK,,2019-06-22T04:21:31.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,instant-gratification
+,,,,,0,zaharch/instant-success-gmm,Instant Success GMM,nosound,,2019-06-20T13:22:50.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,instant-gratification
+,,,,,0,raghaw/my-gratification-v2-10th-place-on-public-lb,My Gratification V2 - 10th place on public LB ,Raghawendra Singh,,2019-06-21T01:07:19.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,instant-gratification
+,,,,,0,mks2192/ig-public-leader-board,IG Public Leader Board,Manoj,,2019-06-12T01:21:47.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,instant-gratification
+,,,,,0,nvnnghia/svm-knn-0-943,svm-knn-0.943,nvnn,,2019-05-22T08:46:56.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,instant-gratification
+,,,,,0,baomengjiao/512-nn,512 NN,spongebob,,2019-05-20T16:14:59.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,instant-gratification
+,,,,,0,harangdev/instant-gratification-14th-solution,Instant Gratification 14th Solution,YoonSoo,,2019-06-21T00:48:31.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,instant-gratification
+,,,,,0,pikamonique/my-first-gratification,My first gratification! :),Monica Kulkarni,,2019-06-09T23:06:08.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,instant-gratification
+,,,,,0,bootiu/ensemble-votingclassifier,Ensemble: VotingClassifier,navi,,2019-06-07T08:47:16.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,instant-gratification
+,,,,,0,mhviraf/there-is-predictive-power-in-the-useless-columns-2,There is predictive power in the useless columns 2,Massoud Hosseinali,,2019-05-28T14:44:57.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,instant-gratification
+,,,,,0,speedwagon/t-sne-visualisation,t-SNE Visualisation,Vladislav Bakhteev,,2019-05-22T10:00:59.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,instant-gratification
+,,,,,0,bigironsphere/starter-lightgbm-with-some-fine-tuning,[Starter] LightGBM with some fine-tuning,RNA,,2019-05-19T16:55:21.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,instant-gratification
+,,,,,0,philippsinger/bagging-ranking-leak,bagging ranking leak?,Psi,,2019-06-22T07:45:53.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,hyeonho/32th-solution-public-0-97513-private-0-97565,"32th Solution[Public : 0.97513, Private : 0.97565]",hhl,,2019-06-21T02:23:07.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,mhviraf/mhviraf-s-best-submission-in-instant-gratification,mhviraf's best submission in Instant Gratification,Massoud Hosseinali,,2019-06-20T15:16:34.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,tayorm/auto-ml-tpot-qda-pseudo-labelling,Auto ML - TPOT + QDA + Pseudo Labelling,Mohammed Tayor,,2019-06-20T15:37:29.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,merkylove/10th-public-8th-private-solution,"10th Public, 8th Private Solution",merkylove,,2019-06-16T17:23:12.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,safavieh/knn-lightgbm,KNN + LightGBM,Ehsan,,2019-06-14T19:36:07.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,basu369victor/lets-solve-instant-gratification-with-knn,Lets Solve Instant Gratification with KNN,Victor Basu,,2019-06-17T03:22:56.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,scaomath/insta-knn-numpy-from-scratch,Insta-kNN numpy from scratch,Shuhao Cao,,2019-06-09T06:58:27.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,liu123/i-think-there-is-not-overfitting-fork-from-roman,I think there is not overfitting fork from Roman,Liu123,,2019-06-05T08:47:41.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,indranilbhattacharya/bojan-chris-cv,Bojan + Chris + CV ,Indranil Bhattacharya,,2019-05-25T16:05:15.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,speedwagon/are-magics-interconnected,Are magics interconnected?,Vladislav Bakhteev,,2019-05-19T09:41:27.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,baomengjiao/5kflod-catboost-using-gpu,5kflod catboost using GPU,spongebob,,2019-05-18T04:00:00.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,baomengjiao/5-kflod-lgbm-starter,5 kflod LGBM starter,spongebob,,2019-05-18T03:06:13.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,naivelamb/xgb-starter,XGB starter,Xuan Cao,,2019-05-18T03:33:57.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,instant-gratification
+,,,,,0,pavan1512/instant-gratification,Instant Gratification,Pavan Reddy,,2020-12-12T14:49:23.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,titericz/with-modif-private-0-97584,with modif / Private 0.97584,Giba,,2019-06-20T03:31:36.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,jionie/shrunkcovariance-clusters-1-3-3-3-priviate-0-97576,ShrunkCovariance_clusters_1_3_3_3-Priviate-0.97576,jionie,,2019-06-19T19:02:58.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,jazivxt/pca-nusvc-2,PCA + NuSVC (2),Daniel Preciado,,2019-05-27T00:15:53.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,sameerdev7/90-using-svm-knn-in-instant-gratification,90% using SVM+KNN in Instant Gratification,Sameer Dev,,2019-05-23T04:47:49.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,baomengjiao/nn-with-magic-1024,NN with magic 1024,spongebob,,2019-05-19T00:46:46.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,baomengjiao/nn-with-reducelr,NN with ReduceLR ,spongebob,,2019-05-18T03:42:53.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,instant-gratification
+,,,,,0,zaharch/instant-success-gmm-3th-place,Instant Success GMM - 3th place,nosound,,2019-06-21T00:03:50.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,pietromarinelli/15th-private-38th-plublic-solution,15th_private_38th_plublic_solution,Pietro Marinelli,,2019-06-20T21:05:38.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,kongliangyu/public-first-place-and-private-60-place,Public first place and private 60+ place,KongliangYu,,2019-06-23T11:18:07.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,matsumotoshintaro/simple-model-for-beginner,Simple Model for Beginner.(初心者向けのシンプルなモデル構築),matsumoto shintaro,,2019-06-17T13:42:46.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,greg67915/faster-make-classification-loop,Faster make_classification loop,gr3gf,,2019-06-06T19:28:31.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,robikscube/instantgrat-loading-pretrained-models,InstantGrat - Loading Pretrained Models,Rob Mulla,,2019-06-07T15:51:17.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,gstvolvr/instant-gratification-focus-on-the-stragglers,Instant Gratification: Focus on the stragglers,Gustavo A. Oliver,,2019-06-21T16:09:09.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,quluyev/dunya,Dunya,Ismayil Quluyev,,2019-05-29T04:31:22.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,quluyev/instant-gratification-1,Instant Gratification 1,Ismayil Quluyev,,2019-05-26T14:12:31.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,hogehogewhale/nusvc-by-bayesianoptimal,NuSVC by BayesianOptimal,Tsuchiya,,2019-06-08T15:32:05.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,qiaoshiji/512-knn-with-variance-feature-selection-copy,512 KNN With variance feature selection copy,0ct0pus,,2019-05-22T04:35:24.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,atikur/instant-gratification-keras-starter,Instant Gratification - keras starter,Atikur Rahman,,2019-05-21T09:16:11.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,instant-gratification
+,,,,,0,tunguz/instant-gratification-with-rapids,Instant Gratification with Rapids!,Bojan Tunguz,,2020-11-13T01:55:03.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,cpmpml/fork-of-cpmp-017-2-stage-mean-precisision-76aa21,Fork of CPMP 017 2 stage mean precisision 76aa21,CPMP,,2019-06-20T22:42:34.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,yassertabandeh/ingr09,InGr09,Yasser Tabandeh,,2019-06-20T15:58:28.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,cashfeg/hoxosh-gaussian-mixture-6-clusters,hoxosh Gaussian Mixture(6 clusters),hoxosh,,2019-06-13T16:36:35.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,scirpus/iso-tonic-with-lime,Iso Tonic with Lime,Scirpus,,2019-06-13T13:49:50.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,juminator/instant-but-comprehensive-eda,Instant but Comprehensive EDA,Seungjun (Josh) Kim,,2019-06-02T09:38:55.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,quluyev/agdam-02,Agdam 02,Ismayil Quluyev,,2019-05-29T13:33:08.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,marcocarnini/segmenting-and-building-models,Segmenting and building models,MarcoCarnini,,2019-05-22T12:03:23.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,yohanb/some-interactive-density-plots,Some interactive density plots,Yohan,,2019-05-23T18:05:07.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,tunguz/instant-h2o-automl,Instant H2O AutoML,Bojan Tunguz,,2019-09-10T23:50:47.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,ilhamfp31/eda-column-name,EDA Column Name,Ilham Firdausi Putra,,2019-05-20T10:15:58.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,baomengjiao/trick-one-weird-thing-for-data,[trick?] one weird thing for data,spongebob,,2019-05-18T07:00:50.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,instant-gratification
+,,,,,0,graf10a/gmm-2-clusters-per-class,GMM_2_Clusters_per_Class,Alexey Pronin,,2019-06-20T18:26:13.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,hhiraguchi/scipy-multivariate-normal-pdf,scipy multivariate_normal.pdf,hhiraguchi,,2019-06-21T00:15:39.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,cpmpml/simple-avg,simple avg,CPMP,,2019-06-20T11:59:06.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,vaibhavmathur96/instant-gratification-playground,Instant Gratification : playground,VAIBHAV MATHUR,,2019-06-14T08:49:10.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,gogo827jz/pseudo-labelling-4-models-stacked-with-lgbm,Pseudo Labelling+4 models stacked with LGBM,Yirun Zhang,,2019-06-13T15:45:58.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,mhviraf/example-of-how-to-avoid-your-kernel-running-twice,Example of how to avoid your kernel running twice.,Massoud Hosseinali,,2019-06-08T00:24:38.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,valteresj/svm-lr-knn-ensemble-result-auc-95-78,"SVM+LR+KNN ensemble result AUC=95,78",Valter Eduardo,,2019-05-27T12:15:48.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,gouzmi/512-lgb,512 LGB,Guillaume Dupont,,2019-05-23T14:15:36.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,instant-gratification
+,,,,,0,funxexcel/instant-with-logistic-regression,Instant  with Logistic Regression,Kunaal Naik,,2019-07-14T13:16:56.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,cpmpml/stratified-kfold-leak,stratified KFold leak,CPMP,,2019-06-24T16:07:56.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,meistermorxrc/0-97598-in-private-score,0.97598 in private score.,MeisterMorxrc,,2019-06-20T09:56:53.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,kainsama/gmm-v0-2-6,GMM-v0.2.6,Kain,,2019-06-18T21:40:58.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,graf10a/ig-tuning-1,IG_TUNING_1,Alexey Pronin,,2019-06-20T05:11:18.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,code1110/which-classifier-to-use-in-the-stacking,Which classifier to use in the stacking?,katsu1110,,2019-06-16T08:47:49.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,ryomiyazaki/bayesian-modeling-by-pymc3,Bayesian modeling by PyMC3,RyoMiyazaki,,2019-06-15T14:17:35.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,avenkidur/eda-going-further-with-wasserstein-distance,EDA going further with wasserstein distance,Jon,,2019-06-13T18:35:43.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,luffyluffyluffy/clustering,Clustering,Rushikesh Wayal,,2019-06-19T09:58:55.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,rakibilly/fastai-starter-instant-gratification,fastai starter - Instant Gratification,btk1,,2019-05-19T03:16:29.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,cttsai/instagrat-ftlr-starter,InstaGrat FTLR starter,Chia-Ta Tsai,,2019-05-19T05:10:41.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,instant-gratification
+,,,,,0,stocks/rebuilding-full-set-missing-a-seed,Rebuilding Full Set -  missing a Seed?,Mycroft Holmes,,2019-06-26T22:52:24.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,cpmpml/bagging-ranking-leak,bagging ranking leak?,CPMP,,2019-06-24T09:48:07.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,vipito/simple-gmm-0-97599,Simple GMM [0.97599],Pepan,,2019-06-21T08:03:15.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,felipefonte99/ensemble,Ensemble,Felipe Loque,,2019-06-20T02:23:42.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,nikhileshp12/using-lr-for-instant-gratification,Using LR for Instant Gratification,Nikhilesh Prabhakar,,2019-06-15T09:04:33.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,tourist55/fastai-tabular,FastAI Tabular,Sarvesh Dubey,,2019-06-13T19:27:16.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,jinbao/instant-gratification-jinbao,Instant-Gratification-Jinbao,Jinbao,,2019-06-19T14:29:37.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,unilageni/instant-gratification,instant gratification,olaleye eniola,,2019-05-25T09:11:44.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,marcocarnini/experimenting-with-a-feature-and-many-classifiers,Experimenting with a feature and many classifiers,MarcoCarnini,,2019-05-23T12:54:08.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,pierpaolo28/instant-visualization,Instant Visualization,Pier Paolo,,2019-05-23T06:58:58.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,iavinas/instant-gratification,Instant Gratification,Avinash Kumar,,2019-05-22T15:33:39.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,mhviraf/ig-data-augmentation,IG Data Augmentation,Massoud Hosseinali,,2019-05-21T06:10:27.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,hyeonho/lightgbm-starter,Lightgbm Starter,hhl,,2019-05-20T04:10:12.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,shivamsarawagi/instantgratification,InstantGratification,Shivam,,2019-05-19T14:54:38.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,dude431/keras-cyclic-lr,Keras cyclic LR,Pawan Jain,,2019-05-18T10:45:12.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,instant-gratification
+,,,,,0,harryliuhanyao/kernel-pca-and-cluster,Kernel PCA and Cluster,Harry Liu,,2020-06-15T15:40:44.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,darwinwin/instant-h2o-automl,Instant H2O AutoML,darwinwin,,2020-02-26T01:36:21.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,visakh36/instant-gratification-experiments,Instant Gratification Experiments,Visakh Unni,,2019-07-16T17:28:53.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,billumillu/instant-gratification-practice-update-1,Instant Gratification - Practice (Update 1),Bilal Hussain,,2019-07-06T10:10:32.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,taksants/few-cluster-per-class-0-975, Few cluster per class [0.975],Taksants Maksim,,2019-06-21T09:53:43.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,yeonmin/private-proving,private proving,ym,,2019-06-21T09:56:14.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,asvskartheek/qda-beginner-s-attempt,QDA Beginner's Attempt,Kartheek Akella,,2020-04-05T02:12:17.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,bejeweled/plsregression-instant-gratification,PLSRegression Instant Gratification,Dmitriy Ershov,,2019-06-16T13:39:31.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,rdekou/varying-the-feature-selection-threshold,Varying the feature selection threshold,Indomitable lion,,2019-06-09T20:20:10.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,mileta1976/dominance-analysis-instant-gratification,Dominance analysis - Instant Gratification,Mileta,,2019-06-08T17:00:04.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,delai50/instant-gratification-0-50002,Instant Gratification 0.50002,delai50,,2019-06-13T20:08:54.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,taigokuriyama/instant-gratification-logistic-regression, instant gratification logistic regression,TK,,2019-06-10T11:11:37.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,umemiyaumeume/k-means,k-means,suiseisekisuisui,,2019-06-05T05:08:22.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,juminator/qda-baseline2-nusvc-baseline-qda-nusvc-blends,QDA Baseline2 & NuSVC Baseline & QDA+NuSVC Blends,Seungjun (Josh) Kim,,2019-06-03T10:49:06.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,lokeshstat/simple-logistic-regression,Simple Logistic Regression,lokeshstat,,2019-05-30T14:12:57.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,quluyev/qarabag,Qarabag,Ismayil Quluyev,,2019-05-25T12:30:26.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,seshadrikolluri/ig-various-approaches-why-and-how,IG: Various Approaches - Why and How?,SK,,2019-05-27T06:51:02.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,lsinev/instant-gratification-catboost-starter,Instant Gratification Catboost starter,Leonid Sinev,,2019-06-17T04:31:06.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,instant-gratification
+,,,,,0,lilsummer877/regression-diag,regression_diag,WordUp4Summer,,2021-11-09T18:31:09.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,yeonmin/solution,Solution,ym,,2020-05-05T06:47:11.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,jagannathrk/instant-gratification-analysis,Instant Gratification Analysis,Kranti Kumar,,2019-12-07T06:52:47.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,aruchomu/instant-gratification-118th-place-top-7-bronze,"Instant Gratification 118th place (top 7%, bronze)",heartkilla,,2019-06-29T05:32:32.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,rhodiumbeng/logistic-regression,Logistic Regression,Hoon Beng,,2019-06-26T04:03:34.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,avenkidur/easy-notebook,Easy notebook,Jon,,2019-06-21T17:31:17.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,kaedekato/neural-network-baseline-updated,Neural Network baseline (updated),Batalova Evgeniya,,2019-06-16T23:20:48.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,nikhileshp12/gratification-through-discrimination,Gratification through Discrimination,Nikhilesh Prabhakar,,2019-06-14T18:52:06.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,avenkidur/exploratory-data-analysis-for-instantgratification,Exploratory Data Analysis for InstantGratification,Jon,,2019-06-12T23:14:08.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,bloodybananas/knn-qda,KNN+QDA,Roy Luo,,2019-06-17T04:14:59.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,mks2192/kernel35fff90608,kernel35fff90608,Manoj,,2019-06-06T21:31:22.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,juminator/qda-baseline,QDA Baseline,Seungjun (Josh) Kim,,2019-06-03T09:54:06.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,gstvolvr/instant-gratification-eda,Instant Gratification: EDA,Gustavo A. Oliver,,2019-06-20T02:24:06.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,aritrase/gratification-kstratifiedfold-pytorchmodel,Gratification_KStratifiedFold_PytorchModel,Aritra Sen,,2019-05-30T18:31:57.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,hashizu/useless-columns,Useless columns?,aoya,,2019-05-30T01:26:56.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,bhavikbb/instant-gratification,Instant Gratification,Bhavik bansal,,2019-05-29T07:09:58.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,lokeshstat/simple-lightgbm,Simple LightGBM,lokeshstat,,2019-05-30T14:18:24.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,quluyev/qarabagli,Qarabagli,Ismayil Quluyev,,2019-05-25T18:21:34.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,naushads/instant-gratification-2019,Instant Gratification 2019,Naushad Shukoor,,2019-07-11T07:50:03.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,lorinc/no-correlation-partial-colnames-vs-col-std-mean,no correlation: partial colnames vs. col std&mean,Lorinc,,2019-05-22T12:24:59.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,atikur/instagrat-keras-stratifiedkfold,InstaGrat - keras StratifiedKFold,Atikur Rahman,,2019-05-21T05:47:58.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,yukiyoshisato/instant-gratification-eda-by-bokeh-stats,Instant Gratification EDA by Bokeh - Stats,Yukiyoshi Sato,,2019-05-19T06:48:55.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,astaroth88/kernel95ea11ea0a,kernel95ea11ea0a,Shashwat Sourav Swain,,2019-05-19T03:36:04.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,cttsai/instagrat-xgboost-gpu-starter,InstaGrat XGBoost GPU Starter,Chia-Ta Tsai,,2019-05-19T03:36:24.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,wodlfrh/lightgbm-pure-starter,lightgbm pure starter,JAY GO,,2019-05-18T14:47:27.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,imdevskp/is-there-any-way-to-get-instant-gratification,Is there any way to get instant Gratification ?,Devakumar K. P.,,2019-11-12T14:25:36.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,instant-gratification
+,,,,,0,poteman/pseudolabeling-autox,PseudoLabeling_AutoX,poteman,,2022-03-11T08:12:56.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,sindhuriaks/submission-csv,submission.csv,Sindhuri aks,,2021-08-03T12:30:05.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,deniskuschevoy/notebook42cc5b2265,notebook42cc5b2265,Denis Kuschevoy,,2021-05-27T17:29:17.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ruslanlyulka/notebook367f9a7831,notebook367f9a7831,Ruslan Lyulka,,2021-05-27T11:33:06.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,karanchhabra99/instant-gratification-competition,Instant Gratification [Competition],Karan,,2021-01-03T05:12:42.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,josephkibira/support-vector-machine-0-925,Support Vector Machine - [0.925],Joseph Kibira,,2020-08-03T06:10:04.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,mamo123/instant-gratification,Instant Gratification,Mamta Gupta,,2020-01-14T19:29:25.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,rutviklathiya/logistic-regression-0-800,Logistic Regression - [0.800],Rutvik Lathiya,,2019-10-27T10:33:04.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,cleston/instant-gratification-2,Instant Gratification - 2,Cleverson,,2019-09-30T23:28:00.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,cleston/instant-gratification-3,Instant Gratification - 3,Cleverson,,2019-10-04T21:57:11.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,cleston/instant-gratification-1,Instant Gratification - 1,Cleverson,,2019-09-28T01:13:10.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,sudevschiz/instantly-gratify-me,instantly_gratify_me,Dave,,2019-07-14T16:35:34.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,deepaksaharan/quadratic-discriminant-analysis,quadratic Discriminant analysis,Deepak Saharan,,2019-07-11T13:57:51.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,a70070947/instant-gratification-script,Instant Gratification Script,Oriba Altaf,,2019-07-06T07:12:06.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,bleach31/kernel8effbf0a64,kernel8effbf0a64,mots,,2019-07-04T04:20:37.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ryomiyazaki/semi-supervised-multi-clustered-gmm-with-em,Semi-Supervised Multi-Clustered GMM with EM,RyoMiyazaki,,2019-06-27T08:31:14.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,bootiu/stacking-qda-nusvc-gmm,"Stacking - QDA, NuSVC, GMM",navi,,2019-06-26T12:19:12.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,prysie/kerneldf3b6ac69f,kerneldf3b6ac69f,Matthew Pryse,,2019-06-23T07:49:17.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,shubham505/qda-gm-for-best-accuracy-private-scrore-0-97613,QDA+GM for best accuracy[Private scrore = 0.97613],shubham goyal,,2019-06-21T04:41:01.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,yoshiyukiohiwa/honmei-c3-rseed-max-nsplit11,honmei c3 rseed_max nsplit11,Yoshiyuki Ohiwa,,2019-06-20T17:32:53.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,alexsemenov/simple-gmm,Simple GMM,Alexander Semenov,,2019-06-21T08:09:19.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,arunkumishra/simple-lr-split-on-magic-2,Simple LR split on magic 2,Arun Mishra,,2019-06-20T09:31:20.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,tavoglc/instant-divergence,Instant Divergence,TavoGLC,,2019-06-21T06:22:05.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,neonninja/xgboost-magic,xgboost magic,neonninja,,2019-06-20T05:53:02.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,tks0123456789/sc-gm,SC+GM,tks,,2019-06-21T03:12:46.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,yypark/pca-qda-nusvc-svc-mlp1-mlp2,PCA + QDA + NuSVC + SVC + MLP1 + MLP2 ,mgiy,,2019-06-20T17:26:56.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ggrizzly/model-gmm-v4-even-clusters,model-gmm-v4-even-clusters,A_Elsheikh,,2019-06-21T06:41:29.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,jsdae1/ensemble1,ensemble1,Sangdae Jung,,2020-04-18T12:49:45.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,tks0123456789/gl-gm,GL+GM,tks,,2019-06-21T10:13:00.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,lovedm/fliy-label-and-gmm-v0-1-8-97480, fliy_label and GMM-v0.1.8-97480,安静,,2019-06-20T09:27:38.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ayushthakur/exploring,Exploring,AyushThakur,,2019-06-19T10:27:49.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,chechir/mixture,mixture,Matias Thayer,,2019-06-19T07:06:24.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,graf10a/the-right-number-of-clusters-per-class,The right number of clusters per class,Alexey Pronin,,2019-06-18T19:56:07.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,jade95/pl-lasso-gmm-pca-qda-aaa,PL + Lasso + GMM + PCA + QDA +aaa,Jade Lee,,2019-08-01T09:37:24.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,divbou/instant-gratification,Instant Gratification,Div B,,2019-06-20T00:32:58.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,tavoglc/instant-gratification-kl-divergence,Instant Gratification KL-Divergence,TavoGLC,,2019-06-20T05:22:01.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,suuuuuu/gl-gmm-with-ls-feat,GL + GMM with LS feat,suuuuuu,,2019-06-16T17:32:22.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,cashfeg/gmm-unsupervised-pickle-hoxosh,GMM unsupervised pickle hoxosh,hoxosh,,2019-06-17T15:05:51.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,suuuuuu/flip-y-pl-qda-with-ls-feat,Flip-y + PL + QDA with LS feat,suuuuuu,,2019-06-16T16:47:23.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,pkugoodspeed/knn-finetune-jenny,KNN Finetune Jenny,pkugoodspeed,,2019-06-18T02:52:04.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,suuuuuu/qda-with-ls-feature,QDA  with LS feature,suuuuuu,,2019-06-15T12:14:25.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,pkugoodspeed/single-svm-model,Single SVM Model,pkugoodspeed,,2019-06-15T02:26:08.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,merkylove/best-conserative-unfair-cv-with-rf,best_conserative_unfair_cv_with_RF,merkylove,,2019-06-14T13:17:15.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ma7555/svm-radial-basis-function,SVM - Radial Basis Function,ma7555,,2019-06-16T20:13:43.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ine0429/sample-submission,sample_submission,NaotoE,,2019-06-14T15:07:42.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,shubham505/flip-y-pseudo-labelling-with-pca-qda,Flip Y + Pseudo labelling with PCA-QDA ,shubham goyal,,2019-06-12T04:55:26.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,ratnesh88/gratification-using-py,Gratification using Py,Ratnesh Kushwaha,,2019-06-12T05:39:55.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,vrooom/graphicallasso-gaussianmixture,GraphicalLasso + GaussianMixture,Vikram,,2019-06-20T19:37:19.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,joelstan/my-thought-process-svc,My Thought Process (SVC),JoelS,,2019-06-12T16:50:50.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,hozhen/kernel9746a6171d,kernel9746a6171d,HOZHEN,,2019-06-07T04:39:41.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,lovedm/yes-fork-it,"Yes, fork it",安静,,2019-06-06T15:41:59.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,wangcongying/kernel5cadcfa1cf,kernel5cadcfa1cf,congying,,2019-06-06T11:03:25.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,vkat72293/kernel29e1348872,kernel29e1348872,Vadim Katsemba,,2019-06-19T08:09:55.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,jesicajones/instant-gratification-kernel-ankita,instant_gratification_kernel_ankita,AnkitaSharma,,2019-06-04T11:24:24.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,dashnabanita/instant-gratification-randomforest,instant_gratification_RandomForest,dnabanita7,,2019-06-04T05:17:59.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,gstvolvr/instant-gratification-knn,Instant Gratification: KNN,Gustavo A. Oliver,,2019-06-03T21:35:52.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,laymanbrother/qda-nusvc-ensamble,QDA_NuSVC_Ensamble,Ashutosh Hathidara,,2019-06-08T10:05:58.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,rdewes/instant-gratification,instant_gratification,Dewes,,2019-06-07T02:27:49.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,uysimty/uc-gratification,UC gratification,Uysim,,2019-06-22T14:58:48.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,isaacimagine/randomly-generated-parallel-model,Randomly Generated Parallel Model,Isaac,,2019-05-30T05:23:33.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,shubham505/pca-knn-lr,PCA + KNN + LR,shubham goyal,,2019-05-28T11:51:40.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,gouzmi/pca-knn-svm-lgb-lr-mlp,PCA + KNN & SVM & LGB & LR & MLP,Guillaume Dupont,,2019-05-29T12:48:36.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,avenkidur/nusvc-svc-knn-7-lines,NuSVC+SVC+KNN  [7 lines],Jon,,2019-05-24T20:59:02.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,avenkidur/code-golf-cognitive-illusion-ruler-check,Code Golf - Cognitive Illusion Ruler Check,Jon,,2019-05-24T20:32:25.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,mvsfnig/learnmlwithko,LearnMLwithKO,Marcos Vinícius,,2019-05-24T23:31:23.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,niyipop/eda-kernel,EDA Kernel,Adeniyi Bello,,2019-05-22T15:03:45.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,subhamkapoor360/preprocessing-dataset,Preprocessing Dataset,Subham Kapoor,,2019-05-21T22:51:12.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,autuanliuyc/baseline-for-instant-gratification,Baseline for Instant Gratification,云不懂风吹,,2019-05-28T14:42:27.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,marcocarnini/instant-gratification-fastai-starter,Instant Gratification - fastai starter,MarcoCarnini,,2019-05-21T07:34:52.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,lsinev/ig-5fold-catboost-gpu-with-lr-meta,IG 5fold Catboost GPU with LR meta,Leonid Sinev,,2019-05-19T19:25:45.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,sharaf/my-eda-journey,My EDA journey ,SharafAnsari,,2019-05-18T20:37:58.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,bachrr/ig-eda,IG - EDA,bachir,,2019-05-18T23:25:35.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification
+,,,,,0,sanikamal/instant-gratification-eda-to-xgb,Instant Gratification EDA to XGB,Sani Kamal,,2019-05-21T15:01:50.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,instant-gratification

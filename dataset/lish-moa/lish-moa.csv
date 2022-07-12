@@ -1,0 +1,1021 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,isaienkov/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction. EDA,Kostiantyn Isaienkov,,2020-11-30T22:04:52.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],546,lish-moa
+,,,,,0,namanj27/new-baseline-pytorch-moa,[New Baseline] Pytorch | MoA,Naman Jaswani,,2020-09-18T04:03:23.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],424,lish-moa
+,,,,,0,yasufuminakama/moa-pytorch-nn-starter,MoA / PyTorch NN starter,Y.Nakama,,2020-09-08T13:58:35.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],363,lish-moa
+,,,,,0,amiiiney/drugs-moa-classification-eda,Drugs MoA classification: EDA,Amin,,2021-05-04T18:37:09.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],249,lish-moa
+,,,,,0,fchmiel/xgboost-baseline-multilabel-classification,XGBoost baseline - multilabel classification,FChmiel,,2020-09-10T09:05:25.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],247,lish-moa
+,,,,,0,vbmokin/moa-pytorch-rankgauss-pca-nn-upgrade-3d-visual,MoA: Pytorch-RankGauss-PCA-NN upgrade & 3D visual,Vitalii Mokin,,2020-11-21T04:50:23.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],246,lish-moa
+,,,,,0,tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way,Tackling any Kaggle Competition : The Noob's Way,Mr_KnowNothing,,2020-10-29T04:22:42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],230,lish-moa
+,,,,,0,simakov/keras-multilabel-neural-network-v1-2,keras Multilabel Neural Network v1.2,DmitryS,,2020-10-15T11:31:14.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],205,lish-moa
+,,,,,0,kushal1506/moa-pytorch-feature-engineering-0-01846,MoA | Pytorch | Feature Engineering | 0.01846,kushal Agrawal,,2020-10-26T03:00:21.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],195,lish-moa
+,,,,,0,gogo827jz/optimise-blending-weights-with-bonus-0,Optimise Blending Weights with Bonus :0,Yirun Zhang,,2020-11-08T17:01:21.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],189,lish-moa
+,,,,,0,cdeotte/rapids-genetic-algorithm-knn-cv-0-01840,RAPIDS - Genetic Algorithm KNN - [CV 0.01840],Chris Deotte,,2020-11-18T22:48:59.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],181,lish-moa
+,,,,,0,hiramcho/moa-tabnet-with-pca-rank-gauss,MoA 🧬: TabNet with PCA + Rank Gauss,Hiram Coria 🧬,,2020-10-25T18:16:04.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],180,lish-moa
+,,,,,0,underwearfitting/make-final-submission-the-efficient-way,Make Final Submission: the efficient way,sin,,2020-11-27T02:47:51.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],172,lish-moa
+,,,,,0,kokitanisaka/moa-ensemble,MoA Ensemble,Kouki,,2020-12-01T05:26:42.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],164,lish-moa
+,,,,,0,vikazrajpurohit/3-model-training-and-inference,3 MODEL Training and Inference,VECTOR,,2020-11-19T12:51:44.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],160,lish-moa
+,,,,,0,thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids,Pytorch Transfer Learning with K-Folds by Drug IDs,Vladimir Zhuravlev,,2020-11-15T16:30:36.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],156,lish-moa
+,,,,,0,utkukubilay/pytorch-moa-0-01867,Pytorch | MoA | 0.01867,Utku_Kubilay,,2020-10-13T13:10:51.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],156,lish-moa
+,,,,,0,markpeng/deepinsight-transforming-non-image-data-to-images,DeepInsight: Transforming Non-image data to Images,Mark Peng,,2020-11-13T16:07:51.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],150,lish-moa
+,,,,,0,ludovick/introduction-to-tabnet-kfold-10-inference,Introduction to TabNet - Kfold 10 [INFERENCE],Shiro,,2020-10-13T20:13:13.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],148,lish-moa
+,,,,,0,ragnar123/moa-dnn-feature-engineering,MoA DNN Feature Engineering,Martin Kovacevic Buvinic,,2020-10-20T17:53:53.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],144,lish-moa
+,,,,,0,gunesevitan/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction - EDA,Gunes Evitan,,2020-11-10T18:33:38.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],144,lish-moa
+,,,,,0,riadalmadani/pytorch-cv-0-0145-lb-0-01839,Pytorch CV|0.0145| LB| 0.01839 | ,Riad,,2020-10-27T06:17:09.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],141,lish-moa
+,,,,,0,isaienkov/moa-prediction-interesting-findings,(MoA) Prediction. Interesting findings,Kostiantyn Isaienkov,,2020-11-30T22:26:39.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],141,lish-moa
+,,,,,0,nicohrubec/pytorch-multilabel-neural-network,pytorch Multilabel Neural Network,hrunic,,2020-09-09T10:12:58.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],139,lish-moa
+,,,,,0,kushal1506/moa-pretrained-non-scored-targets-as-meta-features,MoA|Pretrained Non-scored Targets as Meta-Features,kushal Agrawal,,2020-11-29T08:27:15.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],136,lish-moa
+,,,,,0,kushal1506/moa-pytorch-0-01859-rankgauss-pca-nn,MoA | Pytorch | 0.01859 | RankGauss | PCA | NN,kushal Agrawal,,2020-10-12T14:53:11.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],134,lish-moa
+,,,,,0,elcaiseri/moa-keras-multilabel-classifier-nn-starter,MoA | Keras Multilabel Classifier NN | Starter ,Kassem,,2020-10-27T13:03:54.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],132,lish-moa
+,,,,,0,ludovick/introduction-to-tabnet-kfold-10-training,Introduction to TabNet - Kfold 10 [TRAINING],Shiro,,2020-10-13T20:12:48.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],131,lish-moa
+,,,,,0,rahulsd91/moa-multi-input-resnet-model,MoA: Multi Input ResNet Model,Rahul,,2020-12-09T05:04:52.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],130,lish-moa
+,,,,,0,rahulsd91/moa-label-smoothing,MoA Label Smoothing,Rahul,,2020-10-20T18:37:37.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],129,lish-moa
+,,,,,0,gogo827jz/moa-lstm-pure-transformer-fast-and-not-bad,MoA LSTM / Pure Transformer [fast and NOT bad],Yirun Zhang,,2020-09-14T18:54:44.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],129,lish-moa
+,,,,,0,datafan07/mechanisms-of-action-what-do-we-have-here,Mechanisms of Action: What Do We Have Here?,Ertuğrul Demir,,2020-10-21T16:19:55.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],128,lish-moa
+,,,,,0,markpeng/deepinsight-efficientnet-b3-noisystudent,DeepInsight EfficientNet-B3 NoisyStudent,Mark Peng,,2020-11-15T15:51:32.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,lish-moa
+,,,,,0,optimo/tabnetregressor-2-0-train-infer,TabNetRegressor 2.0 [TRAIN + INFER],Optimo,,2020-10-16T14:20:43.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],117,lish-moa
+,,,,,0,sinamhd9/mechanisms-of-action-moa-tutorial,Mechanisms of Action (MoA) Tutorial,Sina MhD,,2022-02-21T19:11:18.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],115,lish-moa
+,,,,,0,fchollet/moa-keras-kerastuner-best-practices,MoA: Keras + KerasTuner best practices,fchollet,,2020-09-27T19:08:56.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],113,lish-moa
+,,,,,0,artgor/lish-moa-baseline-approach,Lish-moa baseline approach,Andrew Lukyanenko,,2020-09-13T05:18:03.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],110,lish-moa
+,,,,,0,nayuts/moa-pytorch-nn-pca-rankgauss,[MoA] Pytorch NN+PCA+RankGauss,Nayu.T.S.,,2021-06-05T23:54:24.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],103,lish-moa
+,,,,,0,usharengaraju/moa-differential-privacy-using-tfprivacy-tpu,[MoA]Differential Privacy using TFPrivacy - TPU,Tensor Girl,,2020-11-16T22:07:15.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],103,lish-moa
+,,,,,0,gogo827jz/moa-stacked-tabnet-baseline-tensorflow-2-0,MoA Stacked TabNet Baseline [Tensorflow 2.0],Yirun Zhang,,2020-09-17T00:14:32.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],102,lish-moa
+,,,,,0,nroman/moa-lightgbm-206-models,MoA LightGBM. 206 models,Roman,,2020-09-05T08:01:07.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],101,lish-moa
+,,,,,0,gogo827jz/split-neural-network-approach-tf-keras,Split Neural Network Approach (TF Keras),Yirun Zhang,,2020-09-08T13:59:56.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],100,lish-moa
+,,,,,0,pavelvpster/moa-lgb-optuna,MoA: LGB + Optuna,Pavel Prokhorov,,2020-10-01T03:48:59.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],98,lish-moa
+,,,,,0,gogo827jz/kernel-logistic-regression-one-for-206-targets,Kernel Logistic Regression [One for 206 Targets],Yirun Zhang,,2020-11-13T18:04:51.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],93,lish-moa
+,,,,,0,andypenrose/moa-pytorch-nn-starter-with-weight-decay,MoA / PyTorch NN starter with weight_decay,Andy Penrose,,2020-09-11T20:43:15.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],91,lish-moa
+,,,,,0,stanleyjzheng/baseline-nn-with-k-folds,Baseline NN with K-Folds,Stanley Zheng,,2020-09-06T16:31:38.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],90,lish-moa
+,,,,,0,gogo827jz/rapids-svm-on-gpu-6000-models-in-1-hour,RAPIDS SVM on GPU [6000+ models in 1 hour],Yirun Zhang,,2020-09-22T21:34:59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],86,lish-moa
+,,,,,0,sishihara/moa-lgbm-benchmark,MoA: LGBM Benchmark,u++,,2020-09-04T22:39:22.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],84,lish-moa
+,,,,,0,liuhdme/moa-competition,MOA competition,刘昊东,,2020-10-21T08:58:29.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,lish-moa
+,,,,,0,louise2001/rapids-feature-importance-is-all-you-need,[Rapids] Feature Importance Is All You Need,Loulou,,2020-11-19T13:22:12.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,lish-moa
+,,,,,0,gogo827jz/moa-public-pytorch-node,MoA Public Pytorch NODE,Yirun Zhang,,2020-11-10T22:29:26.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],76,lish-moa
+,,,,,0,cdeotte/moa-post-process-lb-1777,MOA - Post Process - LB 1777,Chris Deotte,,2020-12-04T16:25:21.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,lish-moa
+,,,,,0,tolgadincer/upsampling-multilabel-data-with-mlsmote,Upsampling Multilabel Data with MLSMOTE,Tolga,,2020-09-28T20:54:37.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],71,lish-moa
+,,,,,0,isaienkov/keras-autoencoder-dae-neural-network-starter,Keras autoencoder (DAE) + neural network starter,Kostiantyn Isaienkov,,2020-11-30T23:46:40.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],71,lish-moa
+,,,,,0,underwearfitting/inference-public-only-fast,inference-public-only[fast],sin,,2020-10-02T05:02:28.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,lish-moa
+,,,,,0,aerdem4/moa-feature-importance-with-rapids-lofo,MoA Feature Importance with RAPIDS+LOFO,Ahmet Erdem,,2020-11-19T10:09:01.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,lish-moa
+,,,,,0,optimo/selfsupervisedtabnet,SelfSupervisedTabNet,Optimo,,2020-11-18T17:57:25.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,lish-moa
+,,,,,0,kushal1506/deciding-n-components-in-pca,Deciding (n_components) in PCA,kushal Agrawal,,2020-10-31T13:11:32.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],68,lish-moa
+,,,,,0,shashwatwork/guide-to-statistical-hypothesis-tests-in-python,Guide to Statistical Hypothesis Tests in Python,Shashwat Tiwari,,2021-01-12T08:54:06.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,lish-moa
+,,,,,0,jpmiller/finding-patterns-in-the-scored-targets,Finding patterns in the scored targets 🎯,JohnM,,2020-10-10T23:29:59.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,lish-moa
+,,,,,0,gogo827jz/self-stacking-groupcv-xgboost,Self-Stacking GroupCV XGBoost,Yirun Zhang,,2020-12-22T03:42:03.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,lish-moa
+,,,,,0,domizianostingi/blend-blend-blend,blend blend blend ,domiziano.stingi95,,2020-10-28T13:06:20.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,lish-moa
+,,,,,0,stanleyjzheng/multilabel-neural-network-improved,Multilabel Neural Network Improved,Stanley Zheng,,2020-09-05T14:07:27.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,lish-moa
+,,,,,0,utkukubilay/deep-learning-model-moa,Deep Learning Model - MOA,Utku_Kubilay,,2020-09-10T06:31:52.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,lish-moa
+,,,,,0,kushal1506/moa-tabnet-inference,MoA-Tabnet-Inference ,kushal Agrawal,,2020-11-17T11:00:22.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,lish-moa
+,,,,,0,kushal1506/moa-tabnet-train-inference,MoA|Tabnet|Train+Inference,kushal Agrawal,,2020-11-29T09:54:35.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,lish-moa
+,,,,,0,tolgadincer/moa-tensorfow-mx10,MoA - Tensorfow MX10,Tolga,,2020-10-09T15:27:40.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,lish-moa
+,,,,,0,furuhatakazuki/japanese-moa-introduction,【日本語】[Japanese] MoA コンペの概要 introduction,Furuhata Kazuki,,2020-09-11T02:58:14.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,lish-moa
+,,,,,0,gogo827jz/multiregression-catboost-1-model-for-206-targets,MultiRegression CatBoost [1 Model for 206 Targets],Yirun Zhang,,2020-11-12T19:20:06.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,lish-moa
+,,,,,0,amedprof/lgbm-custom-loss-one-lgb-for-206-labels,[Lgbm Custom Loss] One Lgb for 206 Labels,Amed,,2020-11-25T12:11:20.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,lish-moa
+,,,,,0,tolgadincer/tf-keras-learning-rate-schedulers,TF/Keras Learning Rate & Schedulers,Tolga,,2020-11-11T18:53:06.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,lish-moa
+,,,,,0,kushal1506/moa-prediction-complete-walkthrough-eda-ensemble,MoA Prediction|Complete Walkthrough|EDA-->Ensemble,kushal Agrawal,,2020-12-01T14:12:58.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,lish-moa
+,,,,,0,takiyu/japanese-moa,【日本語】[Japanese] MoA コンペに役立つ基礎知識・随時更新,🐀Taki Yu,,2020-11-24T13:07:29.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,lish-moa
+,,,,,0,gogo827jz/moa-neural-oblivious-decision-ensembles-tf-keras,MoA Neural Oblivious Decision Ensembles (TF Keras),Yirun Zhang,,2020-09-25T19:44:30.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,lish-moa
+,,,,,0,optimo/tabnetmultitaskclassifier,TabNetMultiTaskClassifier,Optimo,,2020-09-20T14:40:45.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,lish-moa
+,,,,,0,furuhatakazuki/japanese-moa-prediction-eda,【日本語】[Japanese] MoA Prediction. EDA,Furuhata Kazuki,,2020-09-11T03:29:57.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,lish-moa
+,,,,,0,bowaka/moa-benefits-of-nn-trained-on-single-targets,MoA - Benefits of NN trained on single targets,Bowaka,,2020-11-25T18:01:50.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],49,lish-moa
+,,,,,0,pavelvpster/moa-ensemble,MoA: Ensemble,Pavel Prokhorov,,2020-10-24T03:07:34.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,lish-moa
+,,,,,0,pavelvpster/moa-keras-optuna-rfecv,MoA: Keras + Optuna + RFECV,Pavel Prokhorov,,2020-09-27T12:02:24.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,lish-moa
+,,,,,0,konradb/linear-model,linear_model,Konrad Banachewicz,,2020-09-08T09:24:32.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,lish-moa
+,,,,,0,ravy101/drug-moa-tf-keras-starter,Drug MoA: TF Keras Starter,David Warren,,2020-09-05T03:47:27.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,lish-moa
+,,,,,0,nischaydnk/fork-of-blending-with-6-models-5old-1new,Fork of Blending with 6 models(5old-1new),Nischay Dhankhar,,2020-11-30T17:59:27.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,lish-moa
+,,,,,0,jiweiliu/moa-all-rapids,moa_all_rapids,Jiwei Liu,,2020-11-01T18:34:12.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,lish-moa
+,,,,,0,qiaoshiji/resnet-deep,resnet_deep,0ct0pus,,2020-11-30T08:48:47.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,lish-moa
+,,,,,0,matthewmasters/the-dolphin-of-moa,The Dolphin of MoA,Matthew Masters,,2020-10-23T17:19:35.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,lish-moa
+,,,,,0,gogo827jz/data-augmentation-ctgan,Data Augmentation CTGAN,Yirun Zhang,,2020-10-17T18:09:22.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,lish-moa
+,,,,,0,nareshbhat/moa-statistical-analysis-and-eda,📈MoA: Statistical Analysis and EDA 📊,Naresha Bhat,,2020-11-24T04:30:25.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,lish-moa
+,,,,,0,artgor/code-for-live-pair-coding,Code for live pair coding,Andrew Lukyanenko,,2020-09-06T11:47:24.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,lish-moa
+,,,,,0,huntermitchell/moa-k-fold-ensemble-starter-nn-xgboost-logreg,MoA K-Fold Ensemble Starter (NN/XGBoost/LogReg) ,Hunter Mitchell,,2020-09-22T22:19:23.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,lish-moa
+,,,,,0,blessondensil294/beginners-eda-viz-moa-drug-prediction,Beginners EDA+Viz MOA Drug Prediction,Blesson Densil,,2020-09-04T08:12:15.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,lish-moa
+,,,,,0,supreethmanyam/adversarial-moa-private-test-included,Adversarial - MoA (Private test included),ziron,,2020-09-04T08:40:26.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,lish-moa
+,,,,,0,ruchi798/moa-prediction-starter-notebook,MoA Prediction: Starter notebook,Ruchi Bhatia,,2020-09-04T05:37:37.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,lish-moa
+,,,,,0,cdeotte/3rd-place-public-lb-1805,3rd Place Public - LB 1805,Chris Deotte,,2020-11-29T16:49:41.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,lish-moa
+,,,,,0,rahulsd91/moa-starter-inference-blending-pretrained-models,MoA Starter: Inference blending pretrained models,Rahul,,2020-10-29T03:37:24.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,lish-moa
+,,,,,0,kento1993/nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp,nn-svm-tabnet-xgb with pca cnn stacking without pp,konbuiyon,,2020-11-30T15:10:00Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,lish-moa
+,,,,,0,domizianostingi/top-5-leaderboard,TOP 5% LEADERBOARD,domiziano.stingi95,,2020-10-07T08:33:15.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,lish-moa
+,,,,,0,gogo827jz/hyperparameter-tuning-on-gpu, Hyperparameter Tuning on GPU,Yirun Zhang,,2020-09-05T21:34:47.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,lish-moa
+,,,,,0,felipebihaiek/prediction-with-swap-auto-encoder-features-0-01865,Prediction with Swap Auto Encoder features|0.01865,Felipe Bivort Haiek,,2020-11-19T09:56:51.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,lish-moa
+,,,,,0,kushal1506/moa-pytorch-optuna-hyperparameter-tuning,[Moa] Pytorch + Optuna (Hyperparameter Tuning) ,kushal Agrawal,,2020-10-21T11:17:07.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,lish-moa
+,,,,,0,maunish/moa-super-cool-eda-and-pytorch-baseline,MoA :Super Cool EDA 📊 and Pytorch baseline🔥!,Maunish dave,,2020-09-22T07:57:53.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,lish-moa
+,,,,,0,gogo827jz/hyperparameter-tuning-for-neural-network-on-tpu,Hyperparameter Tuning for Neural Network on TPU,Yirun Zhang,,2020-09-05T17:29:08.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,lish-moa
+,,,,,0,tmhrkt/grownet-gradient-boosting-neural-networks,GrowNet: Gradient Boosting Neural Networks,ktm,,2020-11-11T05:09:21.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,lish-moa
+,,,,,0,tolgadincer/iter-strat-some-seeds-are-better-than-others,Iter-Strat: Some Seeds Are Better Than Others,Tolga,,2020-11-05T15:37:33.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,lish-moa
+,,,,,0,felipebihaiek/torch-continued-from-auxiliary-targets-smoothing,torch-continued-from-auxiliary-targets +smoothing,Felipe Bivort Haiek,,2020-11-26T11:50:21.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,lish-moa
+,,,,,0,ksouriazer/the-power-of-blend,The Power Of Blend,PLNDZ,,2020-09-13T02:45:10.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,lish-moa
+,,,,,0,carlmcbrideellis/moa-setting-ctl-vehicle-0-improves-score,MoA: Setting ctl_vehicle = 0 improves score,Carl McBride Ellis,,2020-09-06T06:26:43.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,lish-moa
+,,,,,0,hengck23/notebookf3b99a8d3d,notebookf3b99a8d3d,‎‎‎‎‎‎‎‎,,2020-09-07T00:30:30.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,lish-moa
+,,,,,0,gogo827jz/multi-label-pbestpre-inference-grownet-pl,Multi-Label PBestPre Inference + GrowNet + PL,Yirun Zhang,,2020-11-23T02:12:26.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,lish-moa
+,,,,,0,amateurdesperado/pca-var-cv-simple-nn,pca_var_cv_simple_nn,Olga Tyshova,,2020-11-01T15:02:06.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,lish-moa
+,,,,,0,utkukubilay/drug-prediction-lgbm-model,drug_prediction_lgbm_model,Utku_Kubilay,,2020-09-05T22:21:47.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,lish-moa
+,,,,,0,elcaiseri/moa-keras-newbaseline-initializers-featureseng,MoA| Keras[NewBaseLine+ Initializers] FeaturesEng.,Kassem,,2020-11-23T18:57:15.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,lish-moa
+,,,,,0,mdfahimreshm/explore-the-magic-of-mean-top-2-of-the-publiclb,Explore the Magic of Mean. Top 2% of the PublicLB,Md Fahim,,2020-10-08T12:07:07.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,lish-moa
+,,,,,0,arpitsolanki14/moa-exploratory-analysis-pca-ensemble-models,MoA : Exploratory Analysis | PCA | Ensemble models,Arpit Solanki,,2020-10-03T11:35:52.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,lish-moa
+,,,,,0,rahulsd91/moa-autoencoder-features-only-lb-0-01879,MoA: AutoEncoder Features only|LB 0.01879,Rahul,,2020-11-03T05:39:25.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,lish-moa
+,,,,,0,rftexas/mastering-pca-an-essential-tool-for-data-science,Mastering PCA - An essential tool for data science,PAB97,,2020-11-23T13:00:54.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lish-moa
+,,,,,0,rahulsd91/moa-anomaly-detection,MoA: Anomaly Detection,Rahul,,2020-11-17T19:43:06.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lish-moa
+,,,,,0,gogo827jz/fork-of-keras-multilabel-neural-network,Fork of Keras Multilabel Neural Network,Yirun Zhang,,2020-09-04T22:01:11.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lish-moa
+,,,,,0,alexandervc/moa-data-visualization-via-dimensional-reduct,MoA data visualization via dimensional reduct,Alexander,,2020-09-06T13:02:39.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lish-moa
+,,,,,0,ash1706/sampling-moa-mlsmote-pytorch-rankgauss-tsvd,SAMPLING MoA: MLSMOTE Pytorch-RankGauss-TSVD,Ayush Dosajh,,2020-11-19T07:18:33.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,lish-moa
+,,,,,0,damoonshahhosseini/aggregated-neural-networks,Aggregated Neural Networks,Damoon Shahhosseini,,2020-11-29T22:28:48.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,lish-moa
+,,,,,0,tolgadincer/moa-tensorflow-fast-convergence,MoA - Tensorflow Fast Convergence,Tolga,,2020-09-26T15:36:12.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,lish-moa
+,,,,,0,nakulsingh1289/moa-with-keras-for-beginner-s,MoA with Keras for Beginner's ,Nakul Singh,,2020-09-12T14:42:39.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,lish-moa
+,,,,,0,rftexas/moa-in-depth-eda-start-here,MoA: In-depth EDA - Start here,PAB97,,2020-11-01T13:46:47.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,lish-moa
+,,,,,0,ttahara/private-0-01599-moa-avg-of-various-stacking,[Private 0.01599] MoA: Avg of Various Stacking,Tawara,,2020-12-18T21:47:29.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,lish-moa
+,,,,,0,datajameson/moa-prediction-pytorch-lb-0-0183,MOA Prediction Pytorch|LB|0.0183,datajameson,,2020-11-30T13:03:48.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,lish-moa
+,,,,,0,bjoernholzhauer/drugs-the-new-train-drug-csv-file-explored,Drugs: the new train_drug.csv file explored,Björn,,2020-11-04T00:28:42.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,lish-moa
+,,,,,0,domizianostingi/genes-distribution-for-categoricals-variables,genes distribution for categoricals variables,domiziano.stingi95,,2020-09-16T10:55:52.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,lish-moa
+,,,,,0,gvyshnya/automating-eda-and-feature-importance-detection,Automating EDA and Feature Importance Detection,Georgii Vyshnia,,2020-10-16T18:23:24.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,lish-moa
+,,,,,0,yyoshiaki/eda-scanpy-bioinformatics-standard-analysis,EDA scanpy (bioinformatics standard analysis),YoshiakiYasumizu,,2020-09-29T01:09:15.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,lish-moa
+,,,,,0,domizianostingi/nn-kfold-for-tensorflow,NN + Kfold for tensorflow,domiziano.stingi95,,2020-09-20T17:32:31.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,lish-moa
+,,,,,0,ravy101/experimenting-with-gaussian-noise-aug-tf-keras,Experimenting With Gaussian Noise Aug (TF Keras),David Warren,,2020-09-08T01:28:12.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,lish-moa
+,,,,,0,sarthak97/tf-keras-5-folds-nn-starter,TF Keras : 5 Folds NN Starter🎯,Sarthak Rana,,2020-09-24T04:27:57.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,lish-moa
+,,,,,0,dan3dewey/moa-or-not-moa,MoA or not MoA,Daniel Dewey,,2020-10-15T17:02:39.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,lish-moa
+,,,,,0,imeintanis/moa-nn-bayesian-optimisation-skopt,MoA: NN Bayesian Optimisation [skopt],Ioannis M,,2020-11-02T23:07:39.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,lish-moa
+,,,,,0,simakov/multilabel-neural-network,Multilabel Neural Network,DmitryS,,2020-09-03T18:59:37.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,lish-moa
+,,,,,0,riadalmadani/averaging-public-kernels-0-01844,Averaging public kernels |0.01844|,Riad,,2020-10-17T05:52:40.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,lish-moa
+,,,,,0,prasunmishra/nn-kfold-targets-noscored-wnorm-adamw,NN+Kfold+Targets_noscored+WNorm+AdamW,PrasunMishra,,2020-11-24T05:13:40.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,lish-moa
+,,,,,0,senkin13/moa-lightgbm-starter-with-nonscored-meta-feature,MoA LightGBM starter with nonscored meta feature,senkin13,,2020-09-04T13:37:30.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,lish-moa
+,,,,,0,ash1706/exploring-moa-eda-pca-xgboost,Exploring MoA- EDA 📊 | PCA | xgboost,Ayush Dosajh,,2021-08-23T14:50:17.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,lish-moa
+,,,,,0,tolgadincer/blending-multilabeled-models-with-scipy,Blending Multilabeled models with Scipy,Tolga,,2020-10-12T11:58:26.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,lish-moa
+,,,,,0,yosukeyama/moa-pytorch-starter-weight-decay-top-feats,MoA pytorch starter / weight decay / top feats,YYama,,2020-09-08T16:31:20.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,lish-moa
+,,,,,0,tpmeli/visual-guide-to-moa-eda-nn-walkthrough,"Visual Guide to MoA, EDA, NN Walkthrough",tpmeli,,2020-09-28T06:26:21.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,lish-moa
+,,,,,0,swarajshinde/mechanisms-of-action-moa-eda-lightgbm-baseline,Mechanisms of Action (MoA) EDA - LightGBM Baseline,D1nall,,2020-09-05T09:55:52.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,lish-moa
+,,,,,0,alijs1/moa-features-columns-reference,MoA features columns Reference,alijs,,2020-09-03T19:58:04.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,lish-moa
+,,,,,0,saiyanwarrior/moa-train-and-predict-easy-to-understand-code,MoA train and predict(easy to understand code),Akshay Sharma,,2020-09-23T04:41:17.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,lish-moa
+,,,,,0,robikscube/mechanisms-of-action-moa-prediction-starter,💊 Mechanisms of Action (MoA) Prediction Starter,Rob Mulla,,2020-09-04T21:53:52.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,lish-moa
+,,,,,0,alexamath/more-data-is-all-you-need,More Data Is All You Need!,alexamath,,2020-11-27T11:09:11.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lish-moa
+,,,,,0,mekhdigakhramanian/moa-blend,MoA blend,Mekhdi Gakhramanian,,2020-11-29T23:16:16.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lish-moa
+,,,,,0,titericz/plain-average-baseline,Plain Average - Baseline,Giba,,2020-10-27T18:29:41.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lish-moa
+,,,,,0,dimasmunoz/keras-nn-with-cosine-annealing-lr,Keras NN with Cosine Annealing LR,Dimas Munoz,,2020-10-26T14:57:56.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lish-moa
+,,,,,0,jandjane20/moa-prediction-eda-visualization-outliers,MoA Prediction: EDA + Visualization + Outliers,Evgeniia Trufanova,,2020-09-07T20:43:20.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lish-moa
+,,,,,0,davidcairuz/adversarial-moa-can-we-trust-our-validation,Adversarial MoA - Can we trust our validation?,David Cairuz,,2020-09-03T22:17:19.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lish-moa
+,,,,,0,markpeng/final-best-lb-cleaned,final_best_LB_cleaned,Mark Peng,,2020-12-05T11:58:49.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,abhishekprajapat/moa-3-approaches,MOA 3 Approaches,Abhishek Prajapat,,2020-10-08T09:16:30.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,bibhash123/the-moa-challenge-an-analysis-of-the-data,The MoA challenge- An analysis of the data,black_raven,,2020-10-03T19:20:14.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,benfraser/deep-ann-tuning-and-submission,Deep ANN Tuning and Submission,BenFraser,,2021-02-24T11:01:43.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,rohitr4307/moa-prediction-ensemble-randomsearch,MoA_Prediction_Ensemble_RandomSearch,Rohit Ranjan,,2020-09-19T06:53:11.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,namanj27/catboost-moa-eda-starter,CatBoost MoA [EDA | Starter],Naman Jaswani,,2020-09-05T10:25:48.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,artgor/inference-kernel,inference kernel,Andrew Lukyanenko,,2020-09-04T18:18:25.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,mannsingh/simple-xgboost-model-for-beginners,Simple XGBoost Model: For Beginners,Manvendra Singh,,2020-09-09T14:41:05.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lish-moa
+,,,,,0,giorgosfoukarakis/moa-eda-fastica-dnn-label-smoothing,MoA: EDA|FastICA| DNN| Label smoothing,Giorgos F,,2020-11-29T18:20:31.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,ash1706/moa-randomoversampler-drug-id-fixed-imbalance,MoA: RandomOversampler : Drug_id: fixed imbalance,Ayush Dosajh,,2020-11-14T10:03:42.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,underwearfitting/how-to-split-folds-given-new-drug-id,How to Split Folds(given new drug_id),sin,,2020-11-06T20:14:16.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,shlezinger/multi-label-classification-2,Multi-label classification 2,Artem Shlezinger,,2020-10-15T21:02:58.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,nxrprime/clustering-with-pca-nns-and-tsne,"Clustering with PCA, NNs and tSNE",Trigram,,2020-10-09T13:07:40.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,bibhabasumohapatra/drug-classification-final,Drug Classification _final,Bibhabasu Mohapatra,,2020-11-17T10:26:11.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,konradb/build-model-svm,build_model_svm,Konrad Banachewicz,,2020-09-20T18:05:34.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,amanmishra4yearbtech/moa-keras-multilabel-neural-network-v-2-0,MoA : keras Multilabel Neural Network v 2.0,Amshra267,,2020-09-14T06:08:08.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,carlmcbrideellis/moa-baseline-0-02398-0-s-0-13073,MoA Baseline = 0.02398 (∀ 0's = 0.13073),Carl McBride Ellis,,2020-09-22T09:09:55.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lish-moa
+,,,,,0,code1110/moa-new-validation-based-on-drugid,[MoA] new validation based on drugID,katsu1110,,2020-11-06T15:19:07.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lish-moa
+,,,,,0,robertlangdonvinci/lish-moa-kfold-fastai-tabnet-ensemble,LisH MoA Kfold : fastai & TabNet ensemble ,RobertLangdonVinci,,2020-11-22T19:56:11.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lish-moa
+,,,,,0,yschoe/enjoy-the-moa-competition-with-pytorch,Enjoy the MoA competition with pytorch,Yeongseon Choe,,2020-10-19T02:51:07.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lish-moa
+,,,,,0,geekysaint/mechanism-of-action-prediction-eda,Mechanism of Action Prediction(EDA),Gryffindor,,2021-01-06T03:50:38.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lish-moa
+,,,,,0,hkailee/moa-eda-from-a-computational-biologist,MoA - EDA from a computational biologist,Lee Hong Kai,,2020-09-14T09:39:30.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lish-moa
+,,,,,0,ihelon/moa-prediction-eda,MoA Prediction - EDA,Yaroslav Isaienkov,,2020-09-23T18:24:02.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lish-moa
+,,,,,0,ttahara/34th-stacking-5-models-by-mlp-1d-cnn-wo,"34th: Stacking 5 models by MLP, 1D-CNN, WO",Tawara,,2020-11-30T14:32:57.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,lish-moa
+,,,,,0,matthewmasters/visualizing-trends-between-gene-and-cell-features,Visualizing trends between gene and cell features,Matthew Masters,,2020-10-21T06:48:58.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,lish-moa
+,,,,,0,morenovanton/moa-pipeline-scaler-pca-dnn-prediction,(MoA) & Pipeline Scaler & PCA &  DNN Prediction ,Anton Morenov,,2020-11-20T21:46:05.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,lish-moa
+,,,,,0,konradb/adversarial-validation-xgb-flavour,Adversarial validation - xgb flavour,Konrad Banachewicz,,2020-09-16T20:51:11.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,lish-moa
+,,,,,0,mudittiwari255/pytorch-lightning-baseline,Pytorch Lightning Baseline,Mudit Tiwari,,2020-09-04T16:58:25.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,lish-moa
+,,,,,0,cdeotte/dae-book1c,DAE - Book1c,Chris Deotte,,2020-11-28T00:36:03.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,shivam2811/moa-prediction,MOA Prediction,shivam,,2020-09-21T04:25:24.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,arjunsehajpal/mechanism-of-action-exploratory-data-analysis,Mechanism of Action - Exploratory Data Analysis,Arjun Sehajpal,,2020-09-28T18:17:02.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,konradb/anomaly-detection,anomaly_detection,Konrad Banachewicz,,2020-09-25T07:27:02.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,hetarthchopra/xgboost-catboost-ensemble-baseline-solution,XGBoost + CatBoost Ensemble Baseline Solution,Hetarth Chopra,,2020-09-17T18:55:56.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,shaitender/moa-prediction,MoA prediction,Shaitender Singh,,2020-09-12T11:46:44.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,smerllo/understand-challenge-task-multilabel-imbalance,Understand challenge Task -Multilabel Imbalance,sm_erlo,,2020-09-03T23:36:55.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,lish-moa
+,,,,,0,felipebihaiek/pytorch-swap-denoisingautoencoder,Pytorch-swap-DenoisingAutoEncoder,Felipe Bivort Haiek,,2020-11-07T19:41:00.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,ash1706/reducing-moa-autoencoder-pca-t-svd,Reducing MoA autoencoder ⚔️ PCA ⚔️ T-SVD,Ayush Dosajh,,2020-10-11T12:56:01.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,omniking1999/notebook-v3-0,Notebook v3.0,OMNIKING1999,,2020-11-06T20:56:19.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,vithal2311/moa-deep-learning-simple-code,MOA_Deep_learning_Simple_code,vithal,,2021-05-26T12:07:53.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,bibhash123/moa-simple-transfer-model-using-tensorflow-keras,MOA_Simple_transfer_model [using tensorflow.keras],black_raven,,2020-10-13T20:34:57.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,puran123/moa-eda-visualization,MoA - EDA & Visualization,Puran Prakash Sinha,,2021-03-12T05:20:25.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,konradb/model-build-combo,model_build_combo,Konrad Banachewicz,,2020-09-14T05:36:55.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,kunduruanil/logloss-multilabel,logloss-multilabel,Anil Kumar Reddy,,2020-09-20T12:45:53.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lish-moa
+,,,,,0,ttahara/stacking-2d-cnn-drugcv,Stacking: 2D-CNN (drugCV),Tawara,,2020-12-15T02:08:45.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,imoore/moa-complex-spaghetti-model-for-top-kagglers,MoA - Complex Spaghetti Model for Top Kagglers,Moore,,2020-11-24T08:51:42.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,gogo827jz/groupcv-optimise-blending-weights-new,GroupCV Optimise Blending Weights New,Yirun Zhang,,2020-11-29T16:07:23.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,bibhash123/moa-transfer-learning-feature-selection-gaussrank,MoA|Transfer_Learning|Feature Selection|GaussRank,black_raven,,2020-11-02T08:12:54.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,stanleyjzheng/moa-convolutional-neural-net-on-tabular-data,MOA: Convolutional neural net on tabular data,Stanley Zheng,,2020-09-15T16:15:51.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,ChristianDenich/tf-keras-multi-output-neuralnets-baseline-config,"TF Keras: Multi-Output NeuralNets, Baseline+Config",from coffee import *,,2020-10-17T14:56:38.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,alphamuth/let-s-do-eda-a-robust-prediction-using-dnn-keras,Let's Do EDA & a robust prediction using DNN+keras,i m nobody,,2020-09-17T07:08:08.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,kkhandekar/moa-predictions-xgboost-regressor,MoA Predictions | XGBoost Regressor,koustubhk,,2020-09-09T23:37:26.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,heyytanay/moa-eda-pytorch-starter-notebook,MoA - EDA & PyTorch Starter Notebook 🚀,Tanay Mehta,,2020-09-08T09:41:43.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,anmolkumar/mechanisms-of-action-moa-prediction,Mechanisms of Action (MoA) Prediction,Anmol Kumar,,2020-09-07T17:07:22.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,muthu1698/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction - EDA,Muthu krishnan,,2020-10-05T07:01:39.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,ajaykumar7778/fastai-tabular,fastai tabular,AjayKumar,,2020-09-05T12:20:36.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lish-moa
+,,,,,0,ttahara/stacking-gcn-drugcv,Stacking: GCN (drugCV),Tawara,,2020-12-14T14:01:33.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,rosarr/fork-of-rapids-svc-nonscored,Fork of RAPIDS SVC_nonscored,RosArr,,2020-11-25T11:05:48.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,gogo827jz/moa-leaderboard-animation,MoA Leaderboard Animation,Yirun Zhang,,2020-10-05T15:23:27.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,chriscc/kubi-pytorch-moa-transfer,kubi-Pytorch | MoA transfer,ChrisCC,,2020-10-01T06:28:41.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,alturutin/mlp-onecyclelr-pseudolabeling,MLP + OneCycleLR + PseudoLabeling,newbee,,2020-09-25T15:18:47.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,shubham328/moa-mechanisms-of-action-prediction,(MoA) Mechanisms of Action Prediction,shubham,,2020-09-16T10:20:42.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,omfuke123/moa-quick-prediction,Moa Quick Prediction,Omfuke,,2020-09-10T01:59:02.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,shishu1421/keras-starter-moa,Keras - Starter: MoA,itsshavar,,2020-09-16T06:18:32.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,mishraboi/moa-prediction-eda,MoA Prediction - EDA,Arpan Mishra,,2020-09-06T15:56:42.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,piantic/mechanisms-of-action-moa-prediction-basic-eda,Mechanisms of Action(MoA) Prediction: Basic EDA!💊,Heroseo,,2020-09-04T18:00:23.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lish-moa
+,,,,,0,philippsinger/moa-starter-13,moa starter 13,Psi,,2020-11-23T08:37:39.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,gogo827jz/multi-label-pbestpre-tabnet-training-inference,Multi-Label PBestPre TabNet [TRAINING + INFERENCE],Yirun Zhang,,2020-11-21T20:58:48.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,ash1706/moa-sampling-transfer-learning-non-scored,MoA: Sampling+ Transfer Learning(non-scored),Ayush Dosajh,,2020-11-18T06:01:43.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,underwearfitting/partial-self-stacking-lightgbm,Partial Self-stacking LightGBM,sin,,2020-11-15T01:53:08.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,takadaat/mechanisms-of-action-moa-invase,Mechanisms of Action (MoA) INVASE ,takadaat,,2020-11-10T08:58:16.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,yerramvarun/deciding-clusters-in-kmeans-silhouette-coeff,Deciding clusters in Kmeans - Silhouette Coeff,Yerram Varun,,2020-11-06T16:34:32.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,gopidurgaprasad/moa-predict-cp-dose-cp-time-with-acc-0-94,MoA : Predict cp_dose + cp_time with ACC -0.94,Gopi Durgaprasad,,2020-11-04T14:23:24.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,felipebihaiek/my-2-cents-on-an-accurate-per-experiment-split,My 2 cents on an accurate per experiment split,Felipe Bivort Haiek,,2020-11-04T01:07:38.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,vilijanmonev/what-the-model-thinks-about-the-train-data,What the model thinks about the train data,wawa.,,2020-10-28T06:39:16.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,ChristianDenich/neural-net-lr-schedulers-model-checkpts,"Neural-Net, LR-Schedulers, Model-Checkpts",from coffee import *,,2021-01-04T13:52:51.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,tatsuya214355/lightgbm-beginner-moa,【日本語】lightgbm beginner【MoA】,Tatsuya50,,2020-09-07T00:03:05.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,tolgadincer/moa-eda,MoA - EDA,Tolga,,2020-09-09T18:35:58.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lish-moa
+,,,,,0,lucasar/moa-analysis-and-prediction-in-portuguese,MoA - Analysis and Prediction (In Portuguese),Lucas Araújo,,2021-07-19T21:57:14.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,aerdem4/moa-xgb-svm-solution,MoA XGB/SVM Solution,Ahmet Erdem,,2020-12-01T09:28:01.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,martintosstorff/moa-dimensionalityreduction-for-applying-cnn,MoA: DimensionalityReduction for applying CNN,Martin Tosstorff,,2020-11-05T22:42:35.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,krisho007/moa-pytorch-lightning-params-tuning-optuna,MoA - pytorch-lightning - params  tuning - optuna,Krishna Kishor Kammaje,,2020-09-29T07:47:33.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,sudhanshuraheja/moa-cnn,MOA - CNN,Sudhanshu Raheja,,2020-09-22T05:43:15.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,dunklerwald/eda-simple-feature-reference-plus-pandas-profiler,EDA: simple feature reference plus pandas profiler,ELEVEN,,2020-09-22T09:41:42.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,alexandervc/fast-dirty-feature-selection-g-100-best,Fast-dirty feature selection. g-100 best  ,Alexander,,2020-09-11T10:31:40.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,samratthapa/tabnet-implementation,Tabnet Implementation,Samrat Thapa,,2020-11-17T09:04:28.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,krisho007/moa-pytorch-lightning-kfold,MoA - pytorch-lightning - KFold,Krishna Kishor Kammaje,,2020-09-25T06:07:03.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,avloss/i-map-umap,I_MAP_UMAP,Anton Loss,,2020-09-06T02:28:08.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,devanshu125/drug-moa-dl-starter-approach,Drug MoA DL starter approach,Devanshu Ramaiya,,2020-09-06T08:25:08.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lish-moa
+,,,,,0,ttahara/stacking-1d-cnn-drugcv,Stacking: 1D-CNN (drugCV),Tawara,,2020-12-14T22:40:27.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,ttahara/stacking-mlp-drugcv,Stacking: MLP (drugCV),Tawara,,2020-12-14T17:04:25.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,ajinomoto132/efficientnet-swish-augmentation-training,EfficientNet swish augmentation training,Phi,,2020-12-01T14:57:37.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,bowaka/single-tabnet-private-0-01629-lb-0-01835,Single Tabnet - Private - 0.01629 - LB 0.01835,Bowaka,,2020-12-01T00:17:23.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,intwzt/inference-tabnet-1830,Inference Tabnet 1830,intwzt,,2020-12-01T14:05:55.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,bayartsogtya/chris-s-kfold-different-inputs-ensemble,Chris's KFold + Different Inputs Ensemble,Bayartsogt Yadamsuren,,2020-11-14T06:34:10.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,gogo827jz/multi-label-public-best-inference-pl,Multi-Label Public Best Inference + PL,Yirun Zhang,,2020-11-30T19:49:45.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,sinamhd9/hyperparameter-tuning-with-keras-tuner,Hyperparameter tuning with Keras Tuner,Sina MhD,,2020-11-10T19:40:54.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,ppicheta/lish-moa-drug-aware-multilabelstratifiedkfold,"[lish-moa] ""drug-aware"" MultilabelStratifiedKFold",Piotr Picheta,,2020-11-07T17:44:14.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,lhagiimn/random-ensemble-neural-networks,Random Ensemble Neural Networks,lhagiimn,,2020-11-06T08:37:24.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,gvyshnya/permutative-feature-importance,Permutative Feature Importance,Georgii Vyshnia,,2020-10-09T09:53:07.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,sarthak97/lish-moa-simple-eda-baseline-model,Lish MoA : Simple EDA + Baseline Model💹🔥,Sarthak Rana,,2020-09-13T15:26:33.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,sarmat/simple-catalyst-pytorch-some-eda-and-kfold,Simple Catalyst PyTorch (some EDA and KFold),Mykhailo Nedodai,,2020-09-15T12:53:30.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,rajathiyer/simple-linear-regression,Simple Linear Regression ,Rajath Iyer,,2020-11-12T17:34:01.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,hongym7/eda-exploratory-data-analysis-for-beginner,EDA(Exploratory data analysis) for Beginner,hongym7 ,,2020-09-09T10:19:18.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,ludovick/inference-moa-baseline-mlp-kfold-10,Inference MOA Baseline MLP - Kfold 10,Shiro,,2020-10-19T10:03:49.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,tuckerarrants/moa-eda-nn-ensembling,MoA - EDA + NN Ensembling,Tucker Arrants,,2020-09-11T02:00:04.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,docxian/target-correlation,Target Correlation,Chris X,,2020-10-27T08:59:51.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lish-moa
+,,,,,0,ksouriazer/moa-pytorch-0-01861lb-0-01439cv-eda-fe-nn,MoA |Pytorch|0.01861LB|0.01439CV|EDA|FE|NN,PLNDZ,,2020-10-26T11:16:34.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,riadalmadani/keras-nn-pca-label-smoothing,keras NN +PCA+Label smoothing ,Riad,,2020-10-22T07:03:26.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,ottpocket/denoising-autoencoder-swap-noise,Denoising AutoEncoder - Swap Noise,El Conde de Ñáñaño,,2020-10-29T10:46:42.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,josemori/moa-tabnet,MOA_TabNet,oulaoula,,2020-10-20T06:54:23.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,tolgadincer/mlsmote,MLSMOTE,Tolga,,2020-09-29T14:17:49.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,gsdeepakkumar/moa-basic-eda-clustering,MoA Basic EDA & Clustering,GSD,,2020-09-30T02:04:08.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,alexandervc/moa-correlation-analysis-use-igraph,"MoA correlation analysis, use igraph",Alexander,,2020-09-09T15:12:24.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,kool777/mechanism-of-action-eda,Mechanism of Action EDA,Kuldeep Singh Chouhan,,2020-09-12T16:45:18.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,amanmishra4yearbtech/moa-keras-nn-with-swa,MoA: Keras NN with SWA,Amshra267,,2020-09-06T11:07:07.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lish-moa
+,,,,,0,gogo827jz/groupcv-pytorch-resdtnet,GroupCV Pytorch ResDTNet,Yirun Zhang,,2020-11-29T17:46:11.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,manojprabhaakr/inference-model-nn-2-models-1-tabnet-and-1-keras,INFERENCE MODEL - NN 2 MODELS 1 TABNET AND 1 KERAS,Manoj Prabhakar,,2020-12-01T02:26:17.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,kushal1506/pytorch-transfer-learning-last,Pytorch_Transfer_Learning_Last,kushal Agrawal,,2020-11-29T06:37:02.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,mamoru1992/pytorch-transfer-learning-with-k-folds-by-drug-ids,Pytorch Transfer Learning with K-Folds by Drug IDs,moma_1992,,2020-11-24T02:21:39.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,gogo827jz/groupcv-resdtnet-tf-keras,GroupCV ResDTNet [TF Keras],Yirun Zhang,,2020-11-25T23:46:16.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,cuikainuaa/20201107fe-fs-dnn-inference-v1,20201107FE_FS_DNN_Inference_V1,ds,,2020-11-15T08:37:17.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,bowaka/moa-feature-selection-cp-dose-cp-time,Moa | Feature Selection | Cp_dose | Cp_time,Bowaka,,2020-11-06T17:37:18.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,keremt/moa-tabular-starter,MoA Tabular Starter,Kerem Turgutlu,,2020-11-09T05:01:34.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,riadalmadani/keras-nn-pca-with-label-smoothing,keras NN +PCA with Label smoothing,Riad,,2020-10-25T08:00:56.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,subbhashit/moa-analysis-and-prediction-understandable,MOA-Analysis and Prediction(Understandable),Bunty,,2020-10-27T13:18:21.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,jagdmir/moa-eda-model,MOA - EDA & Model,Jagdish Mirchandani,,2020-11-10T10:34:11.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,yiqixue/moa-multilabel-lr-model,MoA multilabel LR model,SCHRIQ,,2020-10-20T15:03:49.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,worldkeeping/mlp-multilabel-baseline-model-pytorch-walkthrough,MLP Multilabel Baseline Model Pytorch Walkthrough,Tbone,,2020-10-13T01:33:45.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,benfraser/exploring-unsupervised-features,Exploring Unsupervised Features,BenFraser,,2020-09-27T14:03:31.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,bigkizd/eda-pca-tsne-umap-2d-3d-lightgbm,"EDA + PCA, TSNE, UMAP(2D+3D) + LightGBM ",toandaominh1997,,2020-09-13T12:16:36.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,sidharkal/mechanisms-of-action-moa-prediction,Mechanisms of Action (MoA) Prediction,SidHarkal,,2020-09-10T10:23:57.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,parmarsuraj99/fork-of-neural-mechanism-for-moa-keras,Fork of Neural Mechanism for MoA - Keras,Suraj Parmar,,2020-09-10T05:34:05.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,sambitmukherjee/multilabel-stratified-k-fold-creation,Multilabel Stratified K Fold Creation,Sadhaklal,,2020-09-08T03:39:10.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,gabrielmpaula/moa-first-eda,MoA - First EDA,Gabriel Melo de Paula,,2020-09-24T13:01:17.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,dmarkd/moa-prediction,MoA_prediction,Mark Danovich,,2020-10-23T12:48:14.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,kuberiitb/mechanisms-of-action-prediction-various-models, Mechanisms of Action Prediction Various models,Kuber@IITB,,2020-09-05T16:47:28.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,sishihara/moa-description-of-given-5-files,MoA: Description of given 5 files,u++,,2020-09-03T16:58:49.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lish-moa
+,,,,,0,underwearfitting/final-sub-1,Final_sub_1,sin,,2020-11-30T05:04:06.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,pankajdubey87/ensemble-nn-and-xgboost,Ensemble NN and Xgboost,Pankaj Dubey,,2020-11-27T20:50:24.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,medali1992/pytorch-transfer-learning-with-k-folds-by-drug-ids,Pytorch Transfer Learning with K-Folds by Drug IDs,Med Ali Bouchhioua,,2021-05-23T14:36:19.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,vladimirsydor/lishmoa-baseline-inference,lishmoa_baseline_inference,Volodymyr,,2020-11-30T16:51:55.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,lhagiimn/t-test-with-logistic-regression,t-test with logistic regression,lhagiimn,,2020-11-05T03:44:36.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,snooptosh/save-gpu-quota-during-commit-fork,[Save GPU QUOTA during Commit] FORK,Paritosh Gupta,,2020-11-02T13:57:41.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,yohannesmelese/moa-prediction-notebook-2,MOA  Prediction notebook-2,yohannes,,2020-11-04T16:14:31.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,c7934597/moa-pytorch-feature-engineering-0-01846,MoA | Pytorch | Feature Engineering | 0.01846,Weiming Lin,,2020-10-30T16:25:25.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,code1110/moa-target-co-occurrence-analysis,[MoA] Target Co-Occurrence Analysis,katsu1110,,2020-11-01T03:38:10.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,rtombs/linear-combinations-of-linear-models-moa,Linear combinations of linear models (MOA),Rupert Tombs,,2020-10-28T13:01:04.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,cansucandan/mechanism-of-action-moa-eda,Mechanism of Action (MoA): EDA,Cansu Candan,,2020-10-25T02:41:33.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,felipebihaiek/adversarial-validation-catastrophe,Adversarial Validation Catastrophe,Felipe Bivort Haiek,,2020-10-14T22:08:04.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,yassinealouini/mean-model-benchmark,Mean model benchmark,Yassine Alouini,,2020-10-07T05:40:44.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,mukuldsagupta/moa-keras-2,MOA_keras_2,mukuldsagupta,,2020-10-10T05:24:46.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,krisho007/log-loss-dumb-model-lb-score-0-023,Log loss - Dumb model - LB Score 0.023,Krishna Kishor Kammaje,,2020-09-30T05:51:09.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,krisho007/moa-fastai-kfold,MoA - fastai - KFold,Krishna Kishor Kammaje,,2020-10-11T11:27:09.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,sidharkal/mechanisms-of-action-prediction,Mechanisms of Action Prediction,SidHarkal,,2020-09-14T19:05:33.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,hamishdickson/tabnetmultitaskclassifier,TabNetMultiTaskClassifier,Hamish,,2020-09-13T08:02:23.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,ilikedeeplearning/basic-data-exploration-benchmark,Basic Data Exploration & Benchmark,William Zhou,,2020-09-09T19:41:41.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,pathofdata/nn-with-skf-strategy,nn with skf strategy,Sotiris Koufos,,2020-10-03T16:34:42.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,viiids/initial-eda-oh-encoding-feature-scaling-kfold,"Initial EDA, OH Encoding, Feature Scaling & KFold",Insect_Spring,,2020-09-09T20:20:58.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,shams1/drugs-classification-mechanisms-of-action,Drugs classification: Mechanisms of Action,Shams Sultan,,2020-09-06T17:10:16.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,jonykarki/simplified-eda,Simplified EDA 🔎,Jony Karki,,2020-09-07T04:49:10.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,ilosvigil/install-python-library-on-offline-environment,Install Python library on offline environment,Sandy Khosasi,,2020-09-05T10:52:44.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,shishu1421/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction: EDA,itsshavar,,2020-09-05T05:16:02.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,adityak80/moa-eda-and-baseline-submission,MoA EDA and Baseline submission,Aditya kumar,,2020-09-28T13:11:21.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,nxrprime/mechanisms-of-action-eda-for-starters,Mechanisms of Action: EDA for starters,Trigram,,2020-09-03T17:10:52.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lish-moa
+,,,,,0,cdeotte/dae-book2c,DAE - Book2c,Chris Deotte,,2020-12-01T06:04:34.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,sahartodo/fastai-modified-tabularmodel,fastai_modified_tabularModel,Zsch,,2020-11-20T13:58:36.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,blessondensil294/moa-public-submission-notebook,MoA Public Submission Notebook,Blesson Densil,,2020-11-10T12:23:15.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,vivekprajapati2048/a-complete-mechanisms-of-action-moa-notebook,A Complete Mechanisms of Action (MoA) Notebook,Vivek Prajapati,,2020-11-03T04:25:23.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,nayuts/moa-train-nn-with-swa,[MoA] Train NN with SWA 🚀,Nayu.T.S.,,2020-10-31T15:18:53.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,mihirps18/kaggle-moa-hyperparameter-tuning-using-hyperopt,Kaggle MoA - Hyperparameter Tuning Using Hyperopt,ps18,,2020-10-29T05:31:09.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,vineeth1999/moa-elasticnet,MoA-ElasticNet,Convophile,,2020-10-28T03:15:55.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,riyajm/tensorflow-starter-baseline,Tensorflow_starter| Baseline,Muhammad Riyaj Attari,,2020-11-06T12:54:16.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,evgkol/moa-pzad,MoA(PZAD),Kolmagorov Evgeniy,,2020-10-29T21:22:24.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,japandata509/moa-simple-nn,MoA Simple NN,Kaito,,2020-10-23T01:52:49.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,zaevroman/moa-pytorch-improve-cv-0-0186lb-preprocess,MoA | Pytorch | Improve CV | 0.0186LB | Preprocess,dead_mazai,,2020-10-27T18:33:37.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,dwchen/moa-lightgbm-baseline-with-feature,MoA LightGBM Baseline with Feature,Dewei Chen,,2021-12-07T14:46:59.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,aeryss/moa-pca-feature-engineering-keras-neural-net,"MoA PCA Feature Engineering, Keras Neural Net",Long Luu,,2020-10-23T09:47:29.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,jtourkis/moa-25-to-75-percentile-control-method,MoA 25 to 75 Percentile Control Method,James Tourkistas,,2020-10-19T01:43:48.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,lhagiimn/pytorch-end2end-implementation-using-autoencoder,[pytorch] End2end implementation using Autoencoder,lhagiimn,,2020-10-12T01:29:21.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,bootiu/moa-pytorch-lightning-baseline,MoA - Pytorch Lightning Baseline,navi,,2020-10-12T06:34:25.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,pawan2905/moa-eda-and-multilabel-classification,MoA_EDA_AND_Multilabel_Classification,Pawan Sharma,,2020-11-06T10:48:21.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,tejasharitsavk/mechanisms-of-action-moa-prediction-v3-2,Mechanisms of Action (MoA) Prediction v3.2,Tejas Haritsa V K,,2020-10-06T07:39:28.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,tj0612/moa-prediction-target-co-occurrence-visualization,MoA Prediction: Target Co-occurrence Visualization,Tajimi,,2020-10-05T11:50:06.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,fushigen/nn-model-with-keras,NN model with keras,Takuya Fushihara,,2020-10-16T12:19:16.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,shinomoriaoshi/hyperparameter-tuning-on-gpu-pytorch,Hyperparameter tuning on GPU - Pytorch,Minh Tri Phan,,2020-10-12T19:44:11.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,afajohn/h2o-individual-models-vs-positive-counts,H2O Individual Models vs Positive Counts,Dorukhan Afacan,,2020-09-22T20:53:51.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,sidharkal/mechanisms-of-action-prediction-with-simple-resnet,Mechanisms of Action Prediction with Simple Resnet,SidHarkal,,2020-09-18T13:30:48.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,dongr0510/multi-label-classification-simple-example,Multi-Label Classification Simple Example,Jack Dong,,2020-09-16T19:43:18.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,nur988/simple-keras-moa,SIMPLE_KERAS_MOA,Morpheus,,2020-10-29T05:06:14.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,kunduruanil/eda-mechanisms-of-action,eda-Mechanisms of Action,Anil Kumar Reddy,,2020-09-23T17:38:19.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,soerendip/fastai-2-0-12-starter,Fastai 2.0.12 starter,Klaus,,2020-10-01T02:30:31.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,dubeyumang/moa-for-beginners,MOA for beginners,Umang Dubey,,2020-09-18T08:31:44.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,tuckerarrants/moa-nn-architecture-experiments,MoA - NN Architecture Experiments,Tucker Arrants,,2020-09-12T19:39:59.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,ibraheemmoosa/from-just-the-targets,From just the targets,ibraheemmoosa,,2020-09-15T10:52:40.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,riadalmadani/ensamble-model,Ensamble model,Riad,,2020-09-19T17:01:55.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,hengzheng/gpu-split-neural-network-approach-tf-keras-v2,[GPU] Split Neural Network Approach (TF Keras) v2,Heng Zheng,,2020-09-11T09:20:22.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,lucca9211/mechanisms-of-action-moa-eda,Mechanisms of Action (MoA)EDA,Rajnish Singh,,2020-09-17T20:45:12.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,weiquanl/moa-manifold-learning,MoA Manifold Learning,Chen,,2020-09-08T11:31:06.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,zainahmad/moa-multilabel-classification-using-skmultilearn,MoA multilabel classification using skmultilearn,Zain Ahmad,,2020-09-13T09:34:48.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,benfraser/basic-exploration-and-submission,Basic Exploration and Submission,BenFraser,,2020-09-08T21:03:14.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,barteksadlej123/dnn-in-keras,DNN in Keras,Barteksv12,,2020-09-13T14:30:23.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,sihagmnis36/a-baseline-randomforest-classifier,A Baseline RandomForest Classifier,Manish Sihag,,2020-09-05T19:15:12.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,ludovick/training-moa-baseline-mlp-kfold-10,Training MOA Baseline MLP - Kfold 10,Shiro,,2020-10-18T19:39:13.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,tomonorisasaki/eda-and-data-visualization-of-moa,EDA and Data visualization of MoA,Tomonori Sasaki,,2020-09-28T20:16:51.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lish-moa
+,,,,,0,nischaydnk/simple-nn-using-old-cv,simple NN using old cv ,Nischay Dhankhar,,2020-11-27T10:48:34.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,nischaydnk/fork-of-moa-pytorch-feature-engineering-7dd1e3,Fork of MoA | Pytorch | Feature Engineering 7dd1e3,Nischay Dhankhar,,2020-11-24T14:26:58.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,kaerunantoka/moa-blending24,MoA | Blending24,kaerururu,,2020-11-22T15:35:21.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,sarthakrastogi/deep-learning-models-2,Deep Learning Models - 2,Sarthak Rastogi,,2020-11-18T06:50:30.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,martintosstorff/moalibtest,MoALibTest,Martin Tosstorff,,2020-11-22T17:11:47.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,imeintanis/moa-check-your-oof-before-stacking,MoA: Check your OOF before Stacking,Ioannis M,,2020-11-17T22:51:30.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,riadalmadani/kubi-pytorch-moa-transfer-pca-rankgauss,kubi-Pytorch | MoA transfer |PCA |RankGauss,Riad,,2020-11-10T04:34:56.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,mineshjethva/choose-and-optimize-scaler-parameters,choose and optimize scaler parameters,Minesh A. Jethva,,2020-11-11T09:22:40.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,junyan01/moa-predictions-overfitting-with-tabnet-3233e3,MoA Predictions 🧬: Overfitting with TabNet 3233e3,Jun Yan01,,2020-11-20T03:33:50.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,vinniepalazeti/moa-pred,MoA Pred,Vinnie Palazeti,,2020-12-08T15:05:05.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,retal95/very-good,very_good,ahmed mohamed eed,,2020-11-28T15:42:33.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,haoweiiil/moa-random-forest-with-pca-and-neural-net,MoA_Random Forest with PCA and Neural net,Haowei,,2020-11-18T18:28:54.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,hamzaboulahia/moa-competition-eda,MoA competition EDA,Hamza Boulahia,,2020-10-30T16:52:51.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,code1110/moa-lgb-seed-average,[MoA] LGB seed average,katsu1110,,2020-10-27T06:53:23.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,riadalmadani/keras-nn-pca,keras NN + PCA,Riad,,2020-10-19T02:51:29.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,riadalmadani/nn-weighted-sum-cv-0-01477-lb-0-01864,NN  & Weighted sum cv|0.01477| LB |0.01864|,Riad,,2020-10-17T04:43:30.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,matejhorvat/bla-droge,bla_droge,matej horvat,,2020-11-16T18:32:09.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,ruichongwang/moa-scanpy-as-feature-w-o-internet-connection,MoA - scanpy as feature (w/o internet connection),AGinW,,2020-10-12T07:53:19.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,jtourkis/moa-stratified-multi-label-k-fold-notebook,MoA Stratified Multi Label K Fold Notebook,James Tourkistas,,2020-10-15T16:16:13.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,glm233/xgboost,主成分分析 xgboost,glm233,,2020-10-06T15:53:58.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,batprem/moa-prediction,MOA prediction,Prem Chotepanit,,2020-11-17T07:03:39.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,alturutin/adversarial-validation,Adversarial validation,newbee,,2020-09-21T21:18:57.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,arnabark/moa-basic-xgboost-with-hyperparameter-tuning,MOA Basic XGBoost with Hyperparameter Tuning,Arnab Khare,,2020-09-21T12:25:31.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,sayedathar11/moa-nn-starter-kfold,Moa-NN-Starter-Kfold,Athar Sayed,,2020-09-12T14:26:01.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,elvinagammed/moa-eda-feature-eng-custom-loss-tfkeras,MoA: EDA | Feature Eng | Custom Loss | TFKeras,Elvin Aghammadzada,,2020-09-17T20:40:04.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,hengzheng/gpu-split-neural-network-approach-tf-keras,[GPU] Split Neural Network Approach (TF Keras),Heng Zheng,,2020-09-11T02:34:31.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,elvinagammed/eda-kfolds-pytorch-starter,EDA KFolds Pytorch Starter,Elvin Aghammadzada,,2020-09-10T23:46:34.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,shishu1421/fastai-for-tabular-data,FastAI for Tabular Data,itsshavar,,2020-11-22T14:48:26.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,hannaliavoshka/mechanisms-of-action-moa-prediction,Mechanisms of Action (MoA) Prediction,Hanna Liavoshka,,2020-10-07T12:32:36.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,virajbagal/moa-pytorch-lightning-starter-train,MoA: Pytorch Lightning Starter Train,Viraj Bagal,,2020-09-08T15:20:25.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,avloss/vae-start,VAE Start,Anton Loss,,2020-09-07T14:38:30.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,otonyeamietubodie/moa-eda-and-prediction,MOA EDA AND PREDICTION,Otonye7,,2020-09-06T14:35:30.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,nicohrubec/206-ridges-baseline,206 ridges - baseline,hrunic,,2020-09-06T19:10:58.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,yushg123/moa-from-eda-to-modelling,MoA - From EDA to Modelling,Ayush Goel,,2020-09-12T15:12:21.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,soham1024/mechanisms-of-action-moa-rapids-gpu-knn,Mechanisms of Action (MoA) RAPIDS GPU kNN,soham mukherjee,,2020-09-04T06:53:09.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,sunghun/moa-prediction-first-look-and-eda,MoA Prediction - First look and EDA,SeongHun Jeong,,2020-09-06T07:11:54.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lish-moa
+,,,,,0,stephyjeanalphonse/notebook8c4a09c17a,notebook8c4a09c17a,Stephanie JEAN-ALPHONSE,,2022-04-06T13:08:04.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,yxohrxn/moa-cutmix,moa-cutmix,Kon,,2021-01-19T16:46:44.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,tolgadincer/ensemble-weight-optimization,Ensemble Weight Optimization,Tolga,,2020-12-01T04:46:24.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,eemonn/4th-place-solution-with-pp,4th place solution with pp,e-mon,,2020-11-30T03:36:14.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,cdeotte/dae-book3c,DAE - Book3c,Chris Deotte,,2020-12-01T11:27:14.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,wickkiey/moa-pca-nn-tf,MoA PCA + NN (TF),Wickkiey,,2020-11-29T08:37:54.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,zahedi/moa2image,moa2image,Experto,,2020-11-26T18:52:03.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,sayedathar11/optimal-components-for-cell-and-gene-features,Optimal Components for Cell and Gene Features,Athar Sayed,,2020-11-23T08:52:38.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,awwaldiekaramapepple/moa-xgboostclassifier-feature-engineering,MOA XGBoostClassifier + Feature engineering,Awwal Pepple,,2020-11-09T14:29:42.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,yassinealouini/mlsmote-for-moa,MLSMOTE for MoA,Yassine Alouini,,2020-10-30T18:55:27.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,krisho007/tabnetregressor-optimizing-using-optuna,TabNetRegressor - Optimizing using Optuna,Krishna Kishor Kammaje,,2020-10-19T16:28:16.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,nvnvashisth/eda-moa,EDA MoA,Nitin Vashisth,,2020-10-13T21:16:03.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,rsesha/another-autoviz-on-moa-kaggle-competition,Another_Autoviz_on_MOA_Kaggle_Competition,RSESHA,,2020-10-12T01:47:43.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,quandapro/moa-prediction-using-deep-neural-network,MoA Prediction using deep neural network,Quan,,2020-10-07T09:30:23.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,rsesha/autoviz-on-moa-kaggle-competition,Autoviz_on_MOA_Kaggle_Competition,RSESHA,,2020-10-05T15:44:58.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,akiyoshisutou/notebookc3fdb7de57,notebookc3fdb7de57,AS,,2020-10-08T13:40:41.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,yutohisamatsu/moa-keras-multilabel-neural-network-v1-2,MoA - Keras Multilabel Neural Network v1.2,Yuto Hisamatsu,,2020-10-07T05:13:31.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,nayuts/moa-gene-cell-data-distribution-4-moas,[MoA] gene & cell data distribution 4 MoAs,Nayu.T.S.,,2020-10-04T12:22:01.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,hamishs/moa-keras-bayesian-optimisation,MOA Keras Bayesian Optimisation,Hamish Scott,,2020-09-26T11:39:35.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,latong/one-over-the-rest,One over the rest,YiYuan,,2020-09-22T09:05:40.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,aman2000jaiswal/moi-1133a-base-anmol,moi_1133A_base_anmol,aman2000jaiswal,,2020-09-15T06:52:26.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,avivlevi815/baseline-multi-xgboost,baseline multi-xgboost,Aviv Levi,,2020-09-14T11:53:57.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,kunduruanil/moa-problemstatement-with-domain-knowledge,moa-problemstatement-with-domain-knowledge,Anil Kumar Reddy,,2020-09-12T12:11:08.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,pradeepmuniasamy/drugs-classification-start-here,Drugs Classification - Start Here,Pradeep Muniasamy,,2020-09-10T18:13:59.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,aadhilimam/eda-and-xgboost,EDA and XGBoost,Aadhil,,2020-09-07T07:26:59.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,mkbond777/lish-moa-eda,lish-moa-EDA,Manish,,2020-10-13T01:03:41.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,ajaykumar7778/moa-pytorch-nn-starter,MoA / PyTorch NN starter,AjayKumar,,2020-09-05T17:59:44.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,tuliofc/extratrees-baseline-multilabel-classification,ExtraTrees baseline - multilabel classification,Túlio de Freitas Castro,,2020-09-06T18:55:11.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,santiviquez/lasso-regressor-with-stratified-kfolds-moa,Lasso Regressor with Stratified KFolds - MoA,Santiago Viquez,,2020-09-08T17:08:54.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,para24/ovr-vs-multioutput-vs-classifier-chaining,OVR vs MultiOutput vs Classifier Chaining,JP,,2020-09-05T18:55:11.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,shivangmathur/in-depth-target-features-analysis,In Depth Target Features Analysis,Shivang Mathur,,2020-09-04T18:58:13.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,hongym7/base-model-for-beginner,Base Model for Beginner,hongym7 ,,2020-09-21T07:03:33.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,arnimen5/eda-v-1,EDA V_1,ermacov,,2020-09-03T19:46:19.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,jaredsavage/mechanisms-of-action-first-look,Mechanisms of Action - First look,Jared Savage,,2020-09-04T13:55:58.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lish-moa
+,,,,,0,alexandervc/information-on-top-correlated-genes,Information on top correlated genes,Alexander,,2021-04-05T15:00:51.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,niksaurabh/mechnism-of-action,Mechnism of Action,Saurabh Kumar,,2021-04-05T03:26:48.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,dennyli/nn-with-k-folds,NN with K-Folds,DennyLi,,2021-03-11T15:40:27.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,yxohrxn/moa-mixup,moa-mixup,Kon,,2021-01-19T17:19:58.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,mahmoudatef94/moa-predicition,MoA Predicition,Mahmoud Atef,,2021-01-10T08:08:39.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,dmitryvyudin/pytorch-transfer-learning-with-post-processing,Pytorch Transfer Learning with Post-Processing,Dmitry Yudin,,2020-12-01T12:42:08.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,wawawasunny/4-models,4 models,Greyson Chan,,2020-11-29T09:12:49.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,rsesha/moa-lish-with-featurewiz-and-multioutputclassifier,MOA-LISH with featurewiz and MultiOutputClassifier,RSESHA,,2020-11-26T02:43:44.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,sg1993/logistic-regression-model,Logistic Regression model,Shibin George,,2020-11-24T05:14:13.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,nischaydnk/nn-model-with-non-score-new-cv-train,NN model with non score New cv{train},Nischay Dhankhar,,2020-11-24T06:39:12.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,danofer/moa-keras-triplet-siamese,MoA Keras Triplet/Siamese,Dan Ofer,,2020-11-25T14:06:38.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,syoifczeri/tf2-nn-starter-split-input-gained-score,TF2_NN_starter+split_input(gained score),Modong Tan,,2020-11-23T01:11:25.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,giorgosfoukarakis/moa-label-powerset-rakeld,MoA: Label Powerset - Rakeld,Giorgos F,,2020-11-28T22:15:13.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,a763337092/mlp123-lstm-cnn-blending1120,mlp123_lstm_cnn_blending1120,Lindada,,2020-11-20T05:03:37.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,lz1997/moa-post-processing-f5bd01,MoA Post-processing f5bd01,lz1997,,2020-11-25T03:01:58.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,iraqai/first-try-random-bigining,first_try_random _bigining,AlmaamoonAl-saedi,,2020-11-25T10:33:41.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,caicaicaicaicai/moa-predictions-overfitting-with-tabnet-reduce,MoA Predictions 🧬: Overfitting with TabNet Reduce,caicaicaicaicai,,2020-11-24T12:18:28.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,huoxingshu123/moa-predictions-overfitting-with-tabnet-v1,MoA Predictions 🧬: Overfitting with TabNet V1,huluwa,,2020-11-16T01:52:42.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,ikobzev/moa-keras-nn-baseline-from-ml-newbie,MoA. Keras NN. Baseline from ML newbie,Ivan Kobzev,,2020-11-14T00:24:35.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,sejalkshirsagar/moa-prediction-keras,MoA Prediction | Keras,Sejal Kshirsagar,,2020-11-18T16:16:55.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,alexandervc/moa36-logreg-blend-v1,MoA36 LogReg Blend V1,Alexander,,2020-11-15T08:20:23.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,anko191/elbow-method-and-x-means,Elbow-method and X-means,NoKnowledgeGG,,2020-11-04T17:06:05.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,lavanyask/moa-prediction-eda,MoA Prediction EDA,Lavanya Katageri,,2020-11-13T09:16:09.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,acapricorni/moa-stacking-nn-lgbm,Moa_stacking_nn_lgbm,jmpap,,2020-10-30T05:03:49.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,kingofdaydream/moa-eda-distribution,MOA EDA Distribution,KingOfDayDream,,2020-10-27T15:52:03.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,dyakonov/moa-nn-04,moa_nn_04,Alexander D'yakonov,,2020-10-26T21:06:10.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,eshine123/eda-of-moa-in-drug,EDA of MOA in drug,eshineHaha,,2020-10-25T10:46:55.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,nasirkhalid24/examining-the-16-known-experiments,Examining the 16 known Experiments,Nasir Khalid,,2020-10-15T00:29:03.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,gauravduttakiit/drug-classification-using-catboost,Drug Classification using Catboost,Gaurav Dutta,,2020-10-16T00:08:59.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,yassinealouini/one-target-tabnet,One target TabNet,Yassine Alouini,,2020-10-11T20:13:38.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,chizuchizu/pytorch-simple-lstm-model,Pytorch | simple LSTM model,Chizuchizu,,2020-10-10T05:49:27.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,ragnar123/moa-baseline-easy-permutation-imp,MoA Baseline Easy Permutation Imp,Martin Kovacevic Buvinic,,2020-10-02T23:28:25.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,dhirajchandak04/moa-prediction,MoA_Prediction,Dhiraj,,2020-10-10T12:10:11.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,lucca9211/top-features,Top Features,Rajnish Singh,,2020-09-28T13:01:03.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,jeeperscreepers/svc-model-pca-what-targets-perform-poorly,### SVC Model + PCA + What targets perform poorly?,boston17,,2020-10-17T00:50:11.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,muellerzr/fastai-tabular,fastai tabular,Zach Mueller,,2020-09-29T20:54:20.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,legend507/eda-mechanisms-of-action-moa-prediction,EDA - Mechanisms of Action (MoA) Prediction,Untitled Goose,,2020-09-22T14:01:33.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,heitorbaldo/moa-prediction-python,MoA-Prediction-Python,Heitor Baldo,,2020-12-11T21:33:29.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,sudiptog81/moa-prediction-using-ann,MoA Prediction using ANN,Sudipto Ghosh,,2020-09-21T05:55:57.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,kunduruanil/moa-validation-schema,moa-validation-schema,Anil Kumar Reddy,,2020-09-22T08:19:24.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,pyj0695/01-eda,01_EDA,Youjeong Park,,2020-09-18T11:47:51.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,nikilreddy/moa-fastai,MOA_fastai,crypto1,,2020-10-02T08:35:28.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,krisho007/moa-pytorch-lightning-inference,MoA - pytorch-lightning - Inference,Krishna Kishor Kammaje,,2020-09-25T17:41:59.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,subash03/moa-rf,MOA RF,Subash,,2020-09-19T06:03:56.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,nishimoto/lishmoa-lgbm1st,LishMoA_LGBM1st,nishimoto,,2020-09-11T14:35:13.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,nocturnebflat123/plot-some-random-feature-distribution,Plot some 'random' feature distribution ,NocturneBflat,,2020-09-11T16:36:34.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,kuberiitb/pca-feature-engineering-with-xgboost,PCA + Feature Engineering with XGBoost,Kuber@IITB,,2020-09-11T04:40:43.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,mvnewlife/mnl-moa,MNL MoA,MV,,2020-10-30T14:19:27.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,weiquanl/moa-magic-features-check-this-out,MoA Magic Features? Check This Out!,Chen,,2020-09-10T16:11:03.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,raoofnaushad/moa-prediction-baseline,MOA Prediction - Baseline,Raoof Naushad,,2020-09-10T09:37:25.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,shirishsharma/jason-mo-moa,JASON MO(MOA),Shirish,,2020-09-11T03:58:57.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,jonykarki/python-eda-simple,[Python] EDA Simple 🔎,Jony Karki,,2020-09-08T03:03:40.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,iamabhishekdas/moa-prediction-pytorch-cnn,MoA Prediction PyTorch CNN,Abhishek Das,,2020-09-14T15:59:07.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,harutot/moa-minimal-data-look-in-and-pytorch-baseline,MoA ~ Minimal data look-in and pytorch baseline ~,Winu,,2020-09-08T14:50:26.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,iabhishekmaurya/moa-compete,MOA Compete ,Abhishek,,2020-09-06T17:37:56.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,parmarsuraj99/neural-mechanism-for-moa-keras,Neural Mechanism for MoA - Keras,Suraj Parmar,,2020-09-09T17:40:51.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,amananand32/moa-eda,MoA-EDA,Aman,,2020-09-27T07:27:15.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,singhaditya5842/eda-exploratory-data-analysis,EDA (Exploratory Data Analysis),Aditya Vikram SIngh,,2020-09-07T08:15:14.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,shubham9455999082/keras-multilabel-neural-network-v1-2,keras Multilabel Neural Network v1.2,shubhamshukla,,2020-09-04T19:17:54.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,aman2000jaiswal/explore-to-train,explore_to_train,aman2000jaiswal,,2020-09-03T18:17:02.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,sajikim/moa-first-notebook-eda,MoA First notebook - EDA,Masa,,2020-09-03T16:20:08.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lish-moa
+,,,,,0,viktorurushkin/scaler-pca-cv-logistic-regression,Scaler+PCA+CV+logistic regression,Viktor Urushkin,,2021-04-01T11:02:31.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,lililycai/1dcnn-pytorch-moa,[1DCNN] Pytorch | MoA,Swikwislkdj,,2021-01-22T20:42:04.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,lililycai/1d-cnn,1d-CNN,Swikwislkdj,,2021-01-18T15:47:19.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,monagedamy/notebook2c2a07f7a6,notebook2c2a07f7a6,mona Gedamy,,2021-01-05T22:11:44.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,peterse583/moa-late,moa_late,e6peters,,2020-12-13T03:56:23.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,egm108/moa-mixup-pca-fastai-based,moa-mixup-pca (fastai based),Evgeniya,,2020-12-01T12:37:30.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,tasnimayeasmin/moa-inference-blending-6ff85f,MoA_Inference_blending 6ff85f,Tasnima Yeasmin,,2020-11-30T09:56:09.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,dmitryvyudin/moa-drug-classification-fastai,MoA Drug Classification (fastai),Dmitry Yudin,,2020-12-01T09:35:57.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,kazumitsusakurai/submission-for-moa,Submission for MoA,Kazumitsu Sakurai,,2020-11-30T10:43:54.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,intwzt/updated-inference-final-mx10-transfer,updated Inference Final MX10 Transfer,intwzt,,2020-12-01T13:59:08.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,tnmasui/moa-mlp-with-layernorm-inference,MoA / MLP with LayerNorm - Inference,Tomonori Masui,,2020-12-09T06:14:45.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,adish333/inference-pytorch-transfer-learning-with-k-fold,[INFERENCE] Pytorch Transfer Learning with k-fold,0DD1,,2020-11-27T06:56:26.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,caicaicaicaicai/selfsupervisedtabnet,SelfSupervisedTabNet,caicaicaicaicai,,2020-11-27T15:49:56.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,tarunbisht11/moa-competition-baseline-tensorflow,MOA Competition Baseline TensorFlow,Tarun,,2020-11-30T16:16:14.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sg1993/ensemble-models,Ensemble models,Shibin George,,2020-11-25T20:46:00.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,stanleyjzheng/deepinsight-b3-training-gpu,Deepinsight b3 training GPU,Stanley Zheng,,2020-11-21T18:01:25.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,maxwienandts/data-analysis,Data analysis,Max Eduardo Lazarini Wienandts,,2020-11-20T20:45:04.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,paantya/lish-moa-notebook,lish-moa-notebook,Anton Patshin,,2020-12-08T14:06:03.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sssssssww/transformer,Transformer,sssssssww,,2020-11-23T15:38:50.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,kibuna/kibuna-nn-hs-1024-last-train,kibuna NN hs:1024 last [TRAIN],kibuna,,2020-11-27T16:45:36.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,alexandervc/moa-mysterious-patterns-for-locallylinearembedding,MoA Mysterious Patterns for LocallyLinearEmbedding,Alexander,,2020-11-15T14:20:21.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,lililycai/fastai-moa-with-drugstratification,[Fastai] MoA with DrugStratification,Swikwislkdj,,2020-11-16T00:11:26.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,garrettwankel/mechanism-of-action-onevsrest-sgd,Mechanism of Action | OneVsRest & SGD,Garrett Wankel,,2020-12-17T22:22:22.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,heitorbaldo/moa-prediction-pca-dnn-python,MoA-Prediction-PCA-DNN-Python,Heitor Baldo,,2020-11-26T19:30:17.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,zekun98/blend-blend-blend,blend blend blend ,HAaHAa,,2020-11-14T01:05:56.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,ashwathshetty/moa-simple-analysis-and-model,MOA- Simple Analysis and Model,Ashwath shetty,,2020-11-19T15:59:45.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,hghghghgh1234/pytorch-nn-0-01625-private-score,Pytorch NN 0.01625 Private score,Howie Wu,,2020-12-31T15:11:21.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sarthakrastogi/simple-deep-learning-model,Simple Deep Learning Model,Sarthak Rastogi,,2020-11-16T13:41:16.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,mamoru1992/all-zero,all_zero,moma_1992,,2020-11-27T07:29:12.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,vincentwang25/moa-each-drug-keep-the-same-moa-individually,MoA - Each Drug keep the same MoA individually?,Vincent Wang,,2020-11-06T04:51:57.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,mineshjethva/smo-v1,SMO/v1,Minesh A. Jethva,,2020-11-06T05:41:16.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,vsharkeev/moa-prediction,MoA_prediction,Victor Sharkeev,,2020-11-26T12:06:50.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,krisho007/stratified-kfold-including-drug-id,Stratified KFold including drug_id,Krishna Kishor Kammaje,,2020-11-11T07:24:09.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,omniking1999/notebook-v4-0,Notebook v4.0,OMNIKING1999,,2020-11-19T18:30:08.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,zeus75/moa-eda-with-autoencoder-and-t-sne,MoA EDA with Autoencoder and t-SNE,Claudio Giorgio Giancaterino,,2020-11-20T11:58:47.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,chrisrichardmiles/moa-visualizing-drug-classes,MOA-visualizing drug classes ,Chris Miles,,2020-10-31T13:49:34.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,riadalmadani/kubi-pytorch-lb-0-01861,kubi-Pytorch LB|0.01861|,Riad,,2020-10-30T07:22:49.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,nvnvashisth/moa-feature-engineering,MoA Feature Engineering,Nitin Vashisth,,2020-11-08T09:58:37.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,superant/moa-pytorch-succinct,MoA Pytorch succinct,Ant 🐜,,2020-10-25T16:34:56.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,vishalvanpariya/main-notebook,Main Notebook,Vishal Vanpariya,,2020-11-26T03:05:00.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,shakjm/moa-pytorch-nn-starter-addition,MoA / PyTorch NN Starter Addition,Shak,,2020-10-25T03:24:10.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,skryzhanovskaya/moa-prediction,MoA prediction,Svetlana Kryzhanovskaya,,2020-10-29T23:04:53.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sklasfeld/mechanism-action-nn-baseline,Mechanism_Action_NN_baseline,Sammy Klasfeld,,2020-11-02T15:54:38.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,tigersay/moa-1st-try-nn,MoA 1st try NN,Ivan Saenko,,2020-10-22T16:29:42.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,georgyk/first-attempt-pzad,First attempt (PZAD),Georgiy Kormakov,,2020-10-27T14:05:14.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,ericfreeman/moa-multi-input-resnet-model,MoA: Multi Input ResNet Model,Eric Freeman,,2020-10-22T12:28:37.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,yiqixue/moa-tf-keras-nn,MoA TF Keras-NN,SCHRIQ,,2020-10-30T05:33:31.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,compoundv/pytorch-nn-moa-clean,pytorch-nn-moa-clean,Compound_V,,2020-10-19T02:34:42.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,yassinealouini/multiple-targets-classification-tabnet,Multiple targets classification TabNet,Yassine Alouini,,2020-10-24T13:25:57.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,aeryss/moa-eda,MoA EDA,Long Luu,,2020-10-24T08:56:34.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,riadalmadani/the-power-of-nn,The Power of  NN,Riad,,2020-10-14T00:36:32.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,chiser/eda-moa,EDA MoA,Christian Rohrsen,,2020-10-24T10:09:56.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,gireeshs/beginners-guide-to-pca,Beginners Guide to PCA,Gireesh Sundaram,,2020-10-12T05:54:28.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,nayuts/moa-histgradientboostingregressor-baseline,[MoA] HistGradientBoostingRegressor baseline,Nayu.T.S.,,2020-10-11T10:08:10.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,benfraser/moa-dnn-cnn-deep-dive,MoA DNN / CNN Deep Dive,BenFraser,,2020-10-19T16:13:46.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,batprem/notebook1c769faf43,notebook1c769faf43,Prem Chotepanit,,2020-10-12T09:14:11.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,vsevolodcherepanov/moa-multiclassification-model,Moa: Multiclassification model,Vsevolod Cherepanov,,2020-11-05T13:30:40.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,fushigen/baseline-nn,Baseline NN,Takuya Fushihara,,2020-10-05T06:41:23.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,yassinealouini/eda-for-moa,EDA for MOA,Yassine Alouini,,2020-10-18T06:40:01.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,afajohn/label-based-feature-importance,Label Based Feature Importance,Dorukhan Afacan,,2020-10-01T18:51:29.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,ozoozo/moa-basic-lightgbm,[MoA] Basic LightGBM,ozlem,,2020-10-02T18:44:33.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,bjhoohaha/my-moa-notebook-draft,My MoA Notebook Draft,Bing Jue,,2020-10-04T11:41:43.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,akshatsharma47/moa-dropout-dropcol,Moa_dropout_dropcol,AkshatSharma47,,2020-10-30T09:21:49.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,hhgami/notebook234b2577af,notebook234b2577af,Rod992,,2020-10-07T12:26:09.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,vuppala/moa-eda,moa eda,Vamsi Uppala,,2020-09-25T04:34:34.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,alekseyeliseev/moa-xgboost-baseline,MoA XGBoost baseline,Aleksey Eliseev,,2020-09-24T10:35:10.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,woniuxiao/notebookc005faaaa5,notebookc005faaaa5,woniu xiao,,2020-11-11T07:33:13.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sahilmaheshwari/mechanism-of-action-moa, Mechanism Of Action ( MOA) ,Sahil Maheshwari,,2020-09-22T04:50:20.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,kamaljain77/mechanisms-of-action-moa-prediction-eda,Mechanisms Of Action (MoA) Prediction - EDA,Kamal Jain,,2020-09-20T20:58:25.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sudokill/moa-keras-simple-resnet-first-submission,MoA Keras Simple ResNet First Submission,i_need_to_be_a_super_saiyan,,2020-09-18T10:23:15.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,akan27/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction. EDA,Akanksha Mishra,,2020-09-18T12:00:50.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,krishnakalyan3/moa-catboost-baseline,MoA: Catboost Baseline,Krishna,,2020-09-17T10:28:53.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,ukveteran/moa-eda-getting-started-in-progress-jma,MoA EDA - Getting Started - In Progress - JMA,Johar M. Ashfaque,,2020-09-14T07:20:50.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,yamanity/moa-eda-about-cp-type-ctl-vehicle,"(MoA)EDA: About cp_type==""ctl_vehicle""",Yamanishi Toshiaki,,2020-09-14T08:44:48.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,oostopitre/moa-pytorch-lightning-starter,MOA / PyTorch Lightning - Starter,abi,,2020-09-10T20:53:38.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,nicapotato/mechanism-of-action-exploration,Mechanism of Action Exploration,nicapotato,,2020-09-11T15:38:58.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,msabr027/neural-network-tensorflow,Neural network Tensorflow,MOSABR027,,2020-10-01T19:06:35.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,praveen648/optuna-hyperparameter-neural-network,Optuna Hyperparameter Neural Network,praveen oswal,,2021-10-02T18:48:34.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,pathofdata/ranking-with-pairwise-comparison,ranking with pairwise comparison,Sotiris Koufos,,2020-09-12T20:17:28.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,akashsuper2000/inference-public-only-fast,inference-public-only[fast],Akash G,,2020-11-11T03:21:49.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,simonmc/notebook1a3056f557,notebook1a3056f557,Simon McAlister,,2020-10-04T23:45:54.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,alturutin/moa-logreg-rapids,MoA :: LogReg RAPIDS,newbee,,2020-09-20T16:19:49.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,shams1/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction. EDA,Shams Sultan,,2020-09-07T15:38:55.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,takeshikobayashi/moa-competition-eda,MoA competition EDA,cpptake,,2020-09-12T08:30:26.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,duttasd28/starter-moa,Starter-MOA,DuttaSD28,,2020-11-05T15:23:01.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,nelsonewert/moa-multioutput-classification,MoA multioutput classification,Nelson Ewert,,2020-10-13T12:26:55.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,kidoen/mechanismofaction-eda-model-pytorch,MechanismOfAction-EDA+Model-pytorch,Kartik Mishra,,2020-09-06T17:34:58.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,sumitai/eda-mechanisms-of-action-moa-prediction,EDA: Mechanisms of Action (MoA) Prediction,sumit pandey,,2020-09-16T09:07:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,erelin6613/eda-and-baseline-mechanisms-of-action-moa,EDA and Baseline: Mechanisms of Action (MoA),Valentine,,2020-09-06T19:46:30.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,rainmaker29/lb-0-022-tabnet-moa,LB 0.022 TabNet MoA,Amaan,,2020-09-06T17:37:16.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,shams1/moa-pytorch-nn-starter,MoA / PyTorch NN starter,Shams Sultan,,2020-09-05T10:54:04.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,barteksadlej123/basic-logistic-regression,Basic Logistic Regression,Barteksv12,,2020-09-06T13:03:25.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,nacolee/moa-pytorch-nn-starter,MoA / PyTorch NN starter,FeminGirl,,2020-09-09T18:49:58.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,subbuvolvosekar/eda-model-moa,EDA+Model| MoA,Subbu Vidyasekar,,2020-10-05T09:46:34.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,thakurudit/moa-rankgauss-tabnet-resnet-labelsmooth-xgb,MOA: RankGauss+TabNet+ResNet+LabelSmooth+XGB,ilovepotatoes,,2020-12-01T07:33:40.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lish-moa
+,,,,,0,loveofpotato/cv-mlp,配合交叉验证cv的四层MLP,keji,,2021-12-16T11:18:05.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,shivamkc3/moa-optimizing-nn-using-optuna,(MoA) Optimizing_NN_using_Optuna,Shivam Chhetry,,2021-09-08T13:30:48.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,arunkr1/moa-simple-model,MOA:simple Model,Arunkr,,2021-08-14T13:59:49.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,alexschmid3/moa-baseline,MoA Baseline,Alex Schmid,,2021-08-05T20:59:55.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,gguinet/team-4-submission,Team 4 Submission,Gauthier Guinet,,2021-08-06T11:28:43.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ihounie/deepinsight-random-mappings-regularised,Deepinsight random mappings regularised,Ignacio Hounie,,2021-05-02T16:22:10.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,viktorurushkin/simple-nn,simple NN,Viktor Urushkin,,2021-05-02T06:30:37.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,alexandervc/genes-info-for-moa-kaggle-with-mygene,Genes Info for MOA kaggle with MYGENE,Alexander,,2021-09-24T12:52:11.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,sailoromkar/tabnet-moa,Tabnet_MoA,sailoromkar,,2021-02-09T04:27:02.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tokakhaled/linearregression,linearRegression,Toka Khaled,,2021-01-05T17:51:14.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,maithiltandel/moa-submission,MOA SUBMISSION,Maithil Tandel,,2020-12-16T07:38:20.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,pengwang91/moa-solution-public-72-private-60,MoA Solution [Public:72/Private:60],Peng Wang,,2021-01-31T20:15:33.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,nicohrubec/stretch-postprocessing,stretch postprocessing,hrunic,,2020-12-01T15:36:46.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,yxohrxn/votingclassifier-fit-without-lightgm-and-svm,VotingClassifier.fit without lightgm and svm,Kon,,2020-11-30T19:37:53.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ihaifaa/pca-dnn-moa,PCA_DNN_MoA,Haifaa,,2020-11-30T17:27:12.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,zvukztyshyny/moa-train,MOA_train,Ivan Furs,,2020-11-30T12:12:52.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,lashamaev/baseline6nn206,baseline6nn206,lashamaev,,2020-11-30T12:23:42.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,radadiyamohit/3-model-training-and-inference,3 MODEL Training and Inference,Techno Spider,,2020-11-28T02:56:45.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,victorchow/inferencetransfer,inferencetransfer ,Victor Chow,,2020-11-26T18:08:47.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,victorchow/transferinference,transferinference,Victor Chow,,2020-11-26T08:38:43.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,hamzaadnan/xgb-baseline-moa,XGB Baseline MoA,Hamza Adnan,,2021-03-05T11:10:39.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,victorchow/pytorch-transfer,pytorch-transfer,Victor Chow,,2020-11-27T02:07:39.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,sg1993/neural-net,Neural Net,Shibin George,,2020-11-25T06:41:27.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,valeriagab/notebooke6bdaaee89,notebooke6bdaaee89,valeriagab,,2020-12-01T06:54:28.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,karthickp6/lgbm-baseline,lgbm_baseline,Karthick,,2020-11-27T05:28:20.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,kibuna/503-203-tabnet-with-nonscored-features-train,503-203-tabnet-with-nonscored-features-[TRAIN],kibuna,,2020-11-27T16:01:49.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,akashsuper2000/training-and-inference-for-3-models,Training and Inference for 3 Models,Akash G,,2020-11-23T03:49:56.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,krisho007/moa-tabconvolution-training,MoA-TabConvolution-Training,Krishna Kishor Kammaje,,2020-11-29T13:26:39.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,fernandonieuwveldt/wide-and-deep-keras-implementation,Wide and deep Keras implementation,Cauchy,,2021-05-14T21:54:35.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,riadalmadani/last-one,last one ,Riad,,2022-04-10T07:53:32.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,toyox2020/simple-xgboost-model,Simple XGBoost Model,toyox2020,,2020-11-21T05:13:18.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,aryankhatana/pytorch-transfer-learning-with-k-folds-by-drug-ids,Pytorch Transfer Learning with K-Folds by Drug IDs,0x4RY4N,,2020-11-21T05:36:20.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,dliend/fastai-tabular-learner-with-cross-validation,fastai tabular learner with cross validation,DanJL,,2020-11-19T23:50:55.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,nurmannaz/knn-with-rapids-cuml-example,Knn with Rapids cuML Example,Amril Nurman Malaysian,,2020-11-19T14:32:21.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,radadiyamohit/moa-post-processing,MoA Post-processing,Techno Spider,,2020-11-19T04:21:28.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,nadarsubash/moa-prediction-using-xgboost,MoA-Prediction-using XGBoost,Subash Nadar,,2020-11-25T19:49:24.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,robertlangdonvinci/resnet34-deepinsight-image-for-nonimagedata-fastai,ResNet34_DeepInsight_Image_for_NonImageData_fastai,RobertLangdonVinci,,2020-11-22T21:04:32.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,dravid/moa-dataanalysis,MOA_Dataanalysis,Dravid Hemanth,,2020-11-30T08:06:14.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,deathlyhallows/moa-kfold-creation,MoA Kfold creation,ManuAgarwal,,2020-11-16T11:58:33.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,lashamaev/baseline6,baseline6,lashamaev,,2020-11-23T05:33:41.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,kaerunantoka/pytorch-moa-dae-v5,PyTorch | MoA | DAE V5,kaerururu,,2020-11-14T04:45:56.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,krisho007/7fold-3seed-inference-tta,7fold-3seed-inference - TTA,Krishna Kishor Kammaje,,2020-11-15T07:43:29.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tuistan/moa-predictions-overfitting-with-tabnet-3233e3,MoA Predictions 🧬: Overfitting with TabNet 3233e3,tuistan,,2020-11-15T04:34:15.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,lavanyask/moa-prediction-neural-network,MoA Prediction Neural Network,Lavanya Katageri,,2020-11-20T14:35:30.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,wanping7/pytorch-resnet-cnn,PyTorch ResNet CNN,guimie,,2020-11-13T03:28:42.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,yxohrxn/resnetclassifier-fit,ResNetClassifier.fit,Kon,,2020-11-24T17:06:54.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,yeayates21/moa-basic-fast-ai,MoA Basic Fast.ai,Matt Yates,,2020-11-21T21:32:52.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,dliend/fastai-tabular-learner-moa-challenge,fastai tabular_learner moa challenge,DanJL,,2020-11-11T02:09:09.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,arun016/fork-of-introduction-to-tabnet-kfold-10-patient,Fork of Introduction to TabNet - Kfold 10 patient ,Arun Mishra,,2020-11-30T13:40:35.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,amacpherson88/moa-tabnet-mlp-ensemble-private-lb-0-01628,MoA tabnet-mlp-ensemble (private LB 0.01628),amac,,2020-12-18T02:42:14.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,konradb/create-folds,create_folds,Konrad Banachewicz,,2020-11-08T12:53:34.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,abiyyuai/w09-13517083-abiyyu-avicena-ismunandar,W09_13517083_Abiyyu-Avicena-Ismunandar,Abiyyu AI,,2020-11-05T03:19:52.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,suhailie/moa-drugs,MoA drugs,Suhailie,,2020-11-03T21:59:53.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,wittmannf/quick-eda-and-baseline-submission-with-knn,Quick EDA and Baseline Submission with kNN,Fernando Wittmann,,2020-11-02T20:28:51.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,bibhash123/moa-feature-selection-gaussrank,MoA|Feature Selection|GaussRank,black_raven,,2020-11-27T19:10:34.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,jaketuricchi/comparing-multioutput-xgb-and-mlp-in-sklearn,Comparing MultiOutput XGb and MLP in Sklearn,Jake Turicchi,,2020-11-10T14:56:32.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,awwaldiekaramapepple/fork-of-stacked-xgboostclassifier-nn-lgb-10b19,Fork of Stacked XGBoostClassifier (NN + LGB) 10b19,Awwal Pepple,,2020-11-04T05:21:43.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,kotoro/moa-simple-keras-with-rankgauss-jp,MoA: Simple Keras with RankGauss [JP],Kotaro Yamazaki,,2020-11-02T15:01:50.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ibadia/exploratory-data-analysis-on-the-genes-data,Exploratory Data Analysis on the Genes Data,Ibad Ur Rahman,,2020-10-31T18:20:32.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,dariapetrenko/submission-pytorch,submission_pytorch,Daria Petrenko,,2020-12-25T17:32:01.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,radadiyamohit/blend-blend-blend,blend blend blend ,Techno Spider,,2020-10-30T08:16:03.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ravasiliev/ravasiliev-model-creation-pzad,RAVasiliev_model_creation_PZAD,Vasiliev Roman,,2020-10-30T13:04:14.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,fedorlebed/tabnetregressor-with-unscored-boost,TabNetRegressor with unscored boost,Fedor Lebed,,2020-11-26T16:06:04.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,noelmat/pytorch-starter,Pytorch Starter,Noel Mathew,,2020-10-31T12:11:04.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,georgyk/torch-cv-without-normalisation-pzad,torch+cv without normalisation (PZAD) ,Georgiy Kormakov,,2020-11-30T12:21:48.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,jkrthief/explore-the-magic-of-mean-top-2-of-the-publiclb,Explore the Magic of Mean. Top 2% of the PublicLB,jkrthief,,2020-10-26T08:48:49.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,hasan7/moa-keras-ht,MoA-Keras-HT,Mk Hasan,,2020-11-05T23:22:43.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ogoldobina/baseline-1,Baseline 1,Olga Goldobina,,2020-12-26T04:17:42.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,amateurdesperado/new-submit,new_submit,Olga Tyshova,,2020-10-31T00:23:08.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,alexandershpitalnik/first-submission,first submission,Alexander Shpitalnik,,2020-10-22T11:22:07.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,marychin/moa-lightgbm-only-private-score-0-01697,moa lightgbm-only: private score 0.01697,Mary Chin,,2020-12-05T08:45:19.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,hyeonjunkim/noise-reducing-dnn-model,Noise-Reducing DNN Model,June,,2020-11-03T07:45:40.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,svobodnik86/tell-me-why-no-transfer,Tell me why... no transfer,Ondrej Svoboda,,2020-11-08T18:36:26.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,gauravchopracg/moa-simple-feature-engineering,MoA Simple Feature Engineering,Gaurav Chopra,,2020-10-17T12:11:43.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,felipebihaiek/torch-continued-training-from-auxiliary-targets,torch_continued-training-from-auxiliary-targets,Felipe Bivort Haiek,,2020-10-11T19:26:29.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,barcarum/moa-feature-engineering,MoA Feature Engineering,barcarum,,2020-10-11T06:18:56.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tahsintasnia/activation-of-medicine,activation of medicine,Tahsin Tasnia,,2020-10-10T15:06:46.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,yfszzx/multi-model,multi_model,yang fang,,2020-11-21T10:41:45.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tahsintasnia/mechanisms-of-action-moa-prediction,Mechanisms of Action (MoA) Prediction,Tahsin Tasnia,,2020-10-09T12:50:09.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,atdata/copy-of-moa-with-keras-for-beginner-s,Copy of MoA with Keras for Beginner's ,Anuj Tyagi,,2020-10-14T06:38:44.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,shashankpulijala/tensorflow-2-0-version-1,Tensorflow 2.0 version 1,ShashankPulijala,,2020-10-06T17:57:44.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,rosarr/mode-action3,mode_action3,RosArr,,2020-10-05T08:42:36.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ajax0564/notebook4bf1ffc8f6,notebook4bf1ffc8f6,Ankit Maurya,,2020-10-03T21:37:51.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tuistan/pytorch-moa-0-01867,Pytorch | MoA | 0.01867,tuistan,,2020-10-05T00:13:49.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,akhilkasare/mechanisms-of-action-eda-prediction-pytorch,Mechanisms of Action EDA+Prediction Pytorch ,Akhil Kasare,,2020-10-04T07:04:06.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,gggupta2012/notebooke01a04147e,notebooke01a04147e,Gaurav,,2020-10-03T19:42:49.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,shashankpulijala/moa-nn-pytorch-from-and-lunkya,MoA_NN_Pytorch_from_And_Lunkya,ShashankPulijala,,2020-10-05T11:22:53.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,chriscc/kubi-pytorch-moa-multibrch-ohe,kubi-Pytorch | MoA multibrch ohe,ChrisCC,,2020-10-05T18:16:14.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,pansofluck/xgboost-moa-submit,XGBoost MOA submit,PantsOfLuck,,2020-09-30T14:06:50.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,kunduruanil/multiclass-moa,multiclass-moa,Anil Kumar Reddy,,2020-09-26T06:09:51.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tachyon777/moa-tachyon-v2-sub,MoA_tachyon_v2_sub,tachyon777,,2020-09-21T15:00:21.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,junpenggong/jp-lightgbm,JP_LightGBM,J.,,2020-10-10T21:15:52.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,vinayvishwkarma/fastai-for-tabular-data,FastAI for Tabular Data,Vinay Vishwkarma,,2020-09-21T10:48:00.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,sudokill/simple-resnet-10-fold-ensemble,simple resnet 10 fold ensemble,i_need_to_be_a_super_saiyan,,2020-09-20T14:08:28.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,yutohisamatsu/mechanisms-of-action-moa-prediction-eda,Mechanisms of Action (MoA) Prediction. EDA,Yuto Hisamatsu,,2020-09-28T01:52:52.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tachyon777/moa-tachyon-v2,MoA_tachyon_v2,tachyon777,,2020-09-20T01:44:54.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,matthewmasters/mechanisms-of-action-moa-prediction-45d6ed,Mechanisms of Action (MoA) Prediction 45d6ed,Matthew Masters,,2020-09-18T08:50:05.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,kunduruanil/moa-prediction,MoA_prediction,Anil Kumar Reddy,,2020-09-23T17:36:10.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,avivlevi815/baseline-multi-catboost,baseline multi-catboost,Aviv Levi,,2020-09-15T09:14:27.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,sayantankarmakar/moa-exploratory-data-analysis,MoA Exploratory Data Analysis,sayantan,,2020-09-14T14:55:32.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ahmed4fee/mechanism-of-action,Mechanism of action,Ahmed  Awad,,2020-10-12T20:08:54.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,tachyon777/moa-tachyon-v1,MoA_tachyon_v1,tachyon777,,2020-11-15T14:06:58.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,manjjimnav/baseline-experimentation,Baseline experimentation,manjjimnav,,2020-09-26T08:16:06.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,akashkr/moa-v2,MoA v2,Akash Kumar,,2020-09-10T07:22:51.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,yamanity/xgb-multioutputclassifier-moa,XGB + MultiOutputClassifier(MoA),Yamanishi Toshiaki,,2020-09-18T14:19:24.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,alturutin/moa-eda-means-baseline,MoA :: EDA + means baseline,newbee,,2020-09-08T19:52:09.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,kongnyooong/moa-prediction-base-fast-ai-for-korean,[한글커널] MoA Prediction Base Fast-AI for Korean,HONG_YP,,2020-09-10T08:35:13.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,rdekou/random-forest-model-h2o,Random Forest model (H2O),Indomitable lion,,2020-09-06T19:47:24.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,shashaalam/moa-drugs-prediction-with-catboost,MOA Drugs Prediction with CatBoost,FakhreAlam,,2020-09-05T20:30:51.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,dunsin/investigate-and-visualizing-missing-variables,investigate and visualizing missing variables,Hadu,,2020-09-04T14:06:44.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,rdekou/eda-and-simple-random-forest-model,EDA and simple random Forest model.,Indomitable lion,,2020-09-06T07:05:01.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,ris320/deep-nn-training-inference,Deep NN Training + Inference,Rishabh Rahatgaonkar,,2020-09-16T11:34:17.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,catadanna/kaggle-moa-nn,Kaggle_MOA_NN,Catadanna,,2020-11-30T14:07:27.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lish-moa
+,,,,,0,hugoya/moa-prediction,MoA prediction,Hugo_Yg,,2022-05-20T15:46:05.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,vabhijithrao/rankgauss-vae-tabnet-baseline-reji-chitti,RankGauss | VAE | Tabnet Baseline Reji | Chitti,V Abhijith Rao,,2022-04-25T21:40:16.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,chenxiyintom/scaler-pca-cv-logistic-regression,Scaler+PCA+CV+logistic regression,Chenxi Yin. Tom,,2022-04-24T14:36:14.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,loveofpotato/mlp-tensorflow,MLP_tensorflow,keji,,2021-12-06T08:31:29.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,esiombla/final-model,Final_model,esiombla,,2021-08-06T15:34:58.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ralucacobzaru/team-5-moa-model,Team 5 MoA Model,Raluca Cobzaru,,2021-08-06T14:17:58.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,thodoriskoukouvinos/submission-class,Submission_Class,Thodoris Koukouvinos,,2021-08-06T02:11:45.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kayhanbehdin/team-7,Team 7,Kayhan Behdin,,2021-08-06T00:23:30.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jiayukamessizhao/pca-lr,PCA+LR,Jiayu Kamessi Zhao,,2021-08-05T22:52:42.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,leobix/ensemble-nn-team6,Ensemble_NN_Team6,leobix,,2021-08-05T22:08:25.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,astsiourvas/team-3-augmented-data,Team 3 - Augmented Data,Asterios Tsiourvas,,2021-08-06T09:58:32.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,astsiourvas/team-3-initial-model,Team 3 - Initial Model,Asterios Tsiourvas,,2021-08-05T20:32:09.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kimberlyvillalobos/notebook866d3443de,notebook866d3443de,Kimberly Villalobos,,2021-08-06T15:04:30.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,evanyao27/team-9-submission,Team 9 Submission,Evan Yao,,2021-08-05T04:10:23.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,coconutforce/moa-first-submission,MoA First Submission,coconutforce,,2021-08-06T01:53:59.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,amiraalsayed/neural-network-and-ensemble,Neural Network and Ensemble,Amira Alsayed ,,2021-05-23T07:27:39.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fawziyazeyada/logistic-regression,Logistic regression,fawziya Zeyada,,2021-05-18T18:50:43.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,amiraalsayed/neural-network,Neural Network ,Amira Alsayed ,,2021-05-05T20:27:22.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ihounie/deepinsight-random-mapping,Deepinsight random mapping,Ignacio Hounie,,2021-05-02T14:11:11.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kiesik98/notebook9e8d6faa10,notebook9e8d6faa10,kiesik98,,2021-04-25T18:47:12.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandremahdhaoui/autocoordinet,AutoCoordiNET,Alexandre Mahdhaoui,,2021-05-26T12:59:05.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mariamtiotioberth/drugprediction3,drugPrediction3,Mariam Tiotio Berthé,,2021-02-07T01:37:30.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,imanekouchaoui/mechanisms-of-action-moa-prediction,Mechanisms of Action (MoA) Prediction,imane kouchaoui,,2021-02-06T10:14:40.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mariamtiotioberth/drugprediction2,drugPrediction2,Mariam Tiotio Berthé,,2021-02-06T18:07:27.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,monagedamy/notebook360c6887c5,notebook360c6887c5,mona Gedamy,,2021-02-03T19:16:25.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mariamtiotioberth/drugprediction1,drugPrediction1,Mariam Tiotio Berthé,,2021-02-01T17:56:23.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yxohrxn/moa-baseline,moa-baseline,Kon,,2021-01-19T23:58:14.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hakkoz/ml-project-lish-moa-nn,ML Project: Lish MOA|NN,Mustafa A. Hakkoz,,2021-01-17T23:10:02.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hakkoz/ml-project-lish-moa-xgboost,ML Project: Lish MOA|XGBoost,Mustafa A. Hakkoz,,2021-01-17T21:01:02.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alaamohmedelbarbary/moa-eda,MOA EDA,Alaa Mohmed ElBarbary,,2021-07-09T08:10:35.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,garywei944/pca-lr-ridge-rf-nn-tuning-hyper-parameters,"PCA, LR, Ridge, RF, NN tuning hyper-parameters",Guanghao Wei,,2021-01-15T21:15:51.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,raghdaalaa/moa-first,MoA First,Raghda Alaa,,2021-01-07T09:37:56.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hebahindi/notebooka67cdb1bae,notebooka67cdb1bae,Heba Hindi,,2021-01-05T21:38:48.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sehamahmed/moa-first,MoA First,Sondos Ahmed,,2021-01-05T21:45:41.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alaamohmedelbarbary/moa-logisticregression, MoA logisticRegression ,Alaa Mohmed ElBarbary,,2021-01-09T16:54:42.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,simonakolarova/moa-predictions,MoA predictions,Simona Kolarova,,2020-12-31T14:59:53.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexmorerog/k-folds,k_folds,Alex More Rog,,2020-12-16T17:52:19.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,shreeya3k/ml-project,ML-Project,ShreeyaK,,2020-12-16T01:59:45.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,neviya19/notebook1-logreg,notebook1_LogReg,neviya,,2020-12-16T03:08:49.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,shishirccr/notebookc0f3938ed5,notebookc0f3938ed5,shishirccr,,2020-12-14T16:35:20.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hakkoz/ml-project-lish-moa-eda,ML Project: Lish MOA|EDA,Mustafa A. Hakkoz,,2021-02-05T13:07:23.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,cdgraham/sub-1,Sub_1,Cody Graham,,2020-12-15T17:13:12.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,srigutta/codefile,codeFile,Sri Gutta,,2020-12-14T21:03:23.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,govindajith/draft-1,draft_1,Govind Ajith,,2020-12-13T15:02:52.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,akshaykurhade/808aprj,808aprj,Akshay Kurhade,,2020-12-16T00:38:33.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,toyasdhake/main-py,main.py,Toyas Dhake,,2020-12-13T13:44:12.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,abdelrahmanamer/knn-with-rapids-cuml-example-713fbc,Knn with Rapids cuML Example 713fbc,Abdelrahman Amer,,2020-12-12T12:56:28.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,samsendelbach/predictive-final-proj,predictive final proj,Sam Sendelbach,,2020-12-08T00:26:48.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yasminfarhan/moa-submission,MoA_submission,Yasmin Farhan,,2020-12-08T12:26:23.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tolgadincer/testing-pca,Testing PCA,Tolga,,2020-12-01T15:33:02.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tuistan/inference-blending-pretrained-4-models-80b63a,Inference blending pretrained 4 models 80b63a,tuistan,,2020-11-30T23:41:39.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jared8920/fork-of-inference-blending-pretrain-weight,Fork of Inference blending pretrain weight,Jared8920,,2020-11-30T22:15:46.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,skinyx/blend,blend,SUSPICIOUS GOOSE,,2020-11-30T22:06:30.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yzyz2015/moa-rep-3-model-training-and-inference-b2d234,Moa_rep_3 MODEL Training and Inference b2d234,Yuzy,,2020-11-30T22:30:56.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yxohrxn/votingclassifier-predict-without-postprocessing,VotingClassifier.predict without postprocessing,Kon,,2020-11-30T20:28:46.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jared8920/fork-of-fork-of-inference-blending-pretrain-lbweig,Fork of Fork of Inference blending pretrain lbweig,Jared8920,,2020-11-30T19:17:14.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jared8920/fork-of-inference-blending-pretrained-4-mod-7f648f,Fork of Inference blending pretrained 4 mod 7f648f,Jared8920,,2020-11-30T18:41:12.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jared8920/inference-blending-pretrained-4-models-25cf1d,Inference blending pretrained 4 models 25cf1d,Jared8920,,2020-11-30T18:02:28.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mahmoudatef94/method-of-action-prediction-moa,Method of Action Prediction (MoA) ,Mahmoud Atef,,2020-11-30T22:10:10.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,chihantsai/col-2-eensemble-12-model-cpu,col_2 Eensemble 12 model cpu ,fate,,2020-11-30T16:47:44.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tasnimayeasmin/moa-pca-variance-quantile,MoA_pca_variance_quantile,Tasnima Yeasmin,,2020-11-30T13:15:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,greylord1996/notebookb542d0d151,notebookb542d0d151,Aleksandr Emchinov,,2020-11-30T15:21:08.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,chandanpandey/tabnet-pca-stratification-final,TabNet+PCA+Stratification=Final,Chandan Pandey,,2020-11-30T08:48:07.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedniko/baseline6nn206,baseline6nn206,fedniko,,2020-11-30T06:33:41.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,lashamaev/layersnumber,LayersNumber,lashamaev,,2020-11-30T05:00:03.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wawawasunny/4-models-train-sub1-2,4 models train_sub1_2,Greyson Chan,,2020-11-30T02:28:36.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wawawasunny/4-models-train-sub4-2,4 models train_sub4_2,Greyson Chan,,2020-11-30T02:43:01.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,franksheng/notebookbyfranksheng2,notebookByFrankSheng2,Frank Sheng,,2020-11-30T02:43:52.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,charlenebrn/notebookgoogle-colab,NotebookGoogle_colab,charleneBrn,,2020-11-30T15:09:03.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wawawasunny/4-models-train-sub4,4 models train_sub4,Greyson Chan,,2020-11-29T15:24:19.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/moa-pretrained-non-scored-targets-as-meta-features,MoA|Pretrained Non-scored Targets as Meta-Features,Long Luu,,2020-11-29T14:05:57.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wawawasunny/4-models-train-sub1,4 models train_sub1,Greyson Chan,,2020-11-29T15:00:03.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sangonana/moa-light-gbm,MOA_light_gbm(交差検証込み),sangonana,,2020-11-30T08:08:29.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yuanyuanzhang0104/moa-inference-2,MoA_Inference_2,Yuanyuan Zhang,,2020-11-30T03:57:25.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,edchencc/moa-lgb-my-version,[MoA] LGB my version,Ed ChenCC ,,2020-11-29T03:20:10.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sunghyunjun/moa-torch-inference-ensemble-optuna,moa-torch-inference-ensemble-optuna,Sunghyun Jun,,2020-11-30T13:08:35.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,shimaw28/blend-blend-blend,blend blend blend ,Toboggan,,2020-12-03T09:15:07.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,deathlyhallows/moa-pytorch-meta-features,MOA|Pytorch_meta_features,ManuAgarwal,,2020-11-29T09:05:24.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,junyan01/inference-blending-pretrained-4-models,Inference blending pretrained 4 models,Jun Yan01,,2020-11-30T22:57:45.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,javiercarnero/moa-prediction-fastai,moa_prediction_fastai,Javier Carnero,,2020-11-30T21:49:31.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,shubham76/moa-with-neural-network,MOa with Neural Network,Shubham Kumar,,2020-11-28T19:29:34.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huanghuangzhang/moa-pretrained-non-scored-targets-as-meta-features,MoA|Pretrained Non-scored Targets as Meta-Features,zhh,,2020-11-29T19:20:42.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,edchencc/pytorch-transfer-learningwith-kfoldsdruginference2,Pytorch Transfer Learningwith KFoldsDrugInference2,Ed ChenCC ,,2020-11-28T04:18:47.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,bethbaumann/notebook24308f6834,notebook24308f6834,Beth Baumann,,2020-12-03T12:17:32.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,masterr/thelayer,thelayer,paulbasinger,,2020-12-09T14:42:36.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tuistan/inference-blending-pretrained-tabnet-and-memory,Inference blending pretrained TabNet and memory,tuistan,,2020-11-27T21:45:34.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jared8920/blending-4-models-new,blending 4 models new,Jared8920,,2020-11-29T02:21:50.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,caicaicaicaicai/fork-of-moa-predictions-overfitting-with-tabne,Fork of MoA Predictions 🧬: Overfitting with TabNe,caicaicaicaicai,,2020-11-27T15:15:45.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hirune924/pytorch-tabnet-pretraining-step3-many-fe-train,PyTorch TabNet Pretraining step3 + many FE(Train),hirune924,,2020-11-28T03:08:33.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kibuna/dummytestfeatures,DummyTestFeatures,kibuna,,2020-11-27T14:49:16.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tolgadincer/transfer-model-training-v2-t1,transfer_model_training_v2 T1,Tolga,,2020-11-27T21:02:54.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/moa-xgbclassifier-classifierchain,moa_XGBClassifier_ClassifierChain,anonamename,,2020-11-28T01:27:27.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,edchencc/moa-predictions-tabnet-more-fe,MoA Predictions 🧬: TabNet more fe,Ed ChenCC ,,2020-11-27T06:13:32.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yongchengmu/moa-project-new,MoA Project new,Yongcheng MU,,2020-11-27T02:11:21.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huanghuangzhang/pytorch-transfer-learning-with-k-folds-by-drug-ids,Pytorch Transfer Learning with K-Folds by Drug IDs,zhh,,2020-11-30T12:13:13.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tasnimayeasmin/v-1-lb-0-01837-final,v_1 lb_0.01837 final,Tasnima Yeasmin,,2020-11-26T12:16:02.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ashu11081992/my-first,My_first,ashu11081992,,2020-11-26T10:19:11.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tasnimayeasmin/v-8-lb-0-01834-final,V_8 lb_0.01834 final,Tasnima Yeasmin,,2020-11-26T10:33:58.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,swofde/baseline6-singletask,baseline6-SingleTask,swofde,,2020-11-28T04:44:35.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,juanestebanespinosa/mechanisms-of-action-moa-prediction,Mechanisms of Action (MoA) Prediction,juan esteban Espinosa,,2020-11-25T22:15:11.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,lashamaev/baseline6nn,baseline6nn,lashamaev,,2020-11-26T02:49:12.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hasan7/moa-kera-wnorm-adamw-nonscored-targets,MoA-Kera-WNorm-AdamW-NonScored_Targets,Mk Hasan,,2020-11-25T13:42:09.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,rtombs/fork-of-fork-of-xxx-torch-fold-k-drug-id-master-3,Fork of Fork of xxx_torch_fold_k_drug_id master (3,Rupert Tombs,,2020-11-25T19:47:56.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,rtombs/fork-of-fork-of-xxx-torch-fold-k-drug-id-mastre-2,Fork of Fork of xxx_torch_fold_k_drug_id mastre (2,Rupert Tombs,,2020-11-26T21:29:07.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huanghuangzhang/moa-tabnet-correct,MoA-tabnet-correct,zhh,,2020-11-30T14:16:29.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,swofde/baseline6researche-3730ef,baseline6researche 3730ef,swofde,,2020-11-25T11:58:34.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nikolaypirozhkov/baseline6researche,baseline6researche,Nikolay Pirozhkov,,2020-11-26T09:21:36.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,graniamachado/notebook4870be032a,notebook4870be032a,Grania Machado,,2020-11-26T06:40:41.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sepidehfo1/moa-final-codes,MOA Final codes,Sepidehfo1,,2020-11-27T17:33:14.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,solitariuslykos/moa-solution,MoA solution,PRAKHAR VERMA,,2020-11-27T10:16:58.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,franksheng/notebookbyfranksheng,notebookbyFrankSheng,Frank Sheng,,2020-11-25T15:22:47.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/fork-of-moa-rapids-svm-seed4,Fork of moa_RAPIDS_SVM_seed4,anonamename,,2020-11-24T23:51:32.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/fork-of-moa-rapids-svm-seed23,Fork of moa_RAPIDS_SVM_seed23,anonamename,,2020-11-30T09:51:05.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,douglaskgaraujo/xgboost,XGBoost,Douglas K.G. Araujo,,2020-11-25T13:32:25.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,vishalvanpariya/moa-nn-pytorch-inference,MOA NN-Pytorch inference,Vishal Vanpariya,,2020-11-25T02:49:40.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,junyan01/inference-blending-pretrained-j,Inference blending pretrained_J,Jun Yan01,,2020-12-02T15:18:04.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tuistan/inference-blending-pretrained-bb6709,Inference blending pretrained bb6709,tuistan,,2020-11-24T22:39:10.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,vinayaknyk/moa-prediction-autoencoders-cv,moa_prediction_autoencoders_cv,Vinayak,,2020-11-29T11:01:32.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ashwathshetty/beginner-nn-and-pytorch,Beginner NN and Pytorch,Ashwath shetty,,2020-11-29T13:57:30.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,paantya/moa-pytorch-nn-starter,MoA / PyTorch NN starter,Anton Patshin,,2020-11-23T09:34:06.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,narasimhajwalapuram/moa-kaggle-1,MOA-kaggle-1,Narasimha Karthik J,,2020-11-27T03:41:20.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,simonplatonov/baseline6pseudo,baseline6pseudo,Simon Platonov,,2020-11-23T08:54:48.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/tabnet-original-hyperparam-tuning-only,TabNet Original Hyperparam Tuning Only,Long Luu,,2020-11-24T09:58:05.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,swofde/baseline6pseudo,baseline6pseudo,swofde,,2020-11-24T10:33:35.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/moa-grownet,moa_GrowNet,anonamename,,2020-11-24T17:10:38.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,natalya16/baseline6pseudo,baseline6pseudo,Natalya16,,2020-11-23T12:33:59.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,lashamaev/baseline6researche,baseline6researche,lashamaev,,2020-11-26T01:52:46.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ergisstepanov/baseline6,baseline6,Ergis Stepanov,,2020-11-23T05:34:09.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedniko/baseline6,baseline6,fedniko,,2020-11-23T05:48:34.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,maxzlatov/baseline6,baseline6,Max Zlatov,,2020-11-23T06:08:38.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,swofde/baseline6-deaeef,baseline6 deaeef,swofde,,2020-11-23T07:42:12.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,maximivanov1/baseline6,baseline6,Maxim Ivanov1,,2020-11-23T05:33:56.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,martintosstorff/fork-of-moalibtest-a89cfc,Fork of MoALibTest a89cfc,Martin Tosstorff,,2020-11-22T23:24:41.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,junyan01/tabnet-oof-j-inference,TabNet_oof_J_Inference,Jun Yan01,,2020-11-27T14:50:52.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hamishs/moa-elasticnet,MOA ElasticNet,Hamish Scott,,2020-11-26T16:36:48.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,paulgiesting/three-layer-keras-model-final-additions,three-layer-keras-model-final-additions,Paul Giesting,,2020-11-30T21:51:51.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/fork-of-moa-pca-feature-engineering-keras-neural,"Fork of MoA PCA Feature Engineering, Keras Neural ",Long Luu,,2020-11-22T13:43:05.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,evgkol/moablending,MoABlending,Kolmagorov Evgeniy,,2020-11-30T15:57:18.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,deathlyhallows/pytorch-model-training,Pytorch Model Training  ,ManuAgarwal,,2020-11-29T12:09:53.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,thimes/moa-prediction,MOA Prediction,Tyler Himes,,2020-12-03T20:15:38.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hasan7/kfold-with-dl-gaussian-vt-translearning-ff,KFold with DL - Gaussian - VT- TransLearning-FF,Mk Hasan,,2020-11-27T17:33:15.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yzgast/moa-pca-dnn-callbacks-keras,MoA | PCA + DNN + Callbacks - Keras,Yzgast,,2020-11-27T13:38:49.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fushigen/moa-blending,MoA blending,Takuya Fushihara,,2020-12-05T12:01:27.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/moa-predictions-overfitting-with-tabnet-cbb40d,MoA Predictions 🧬: Overfitting with TabNet cbb40d,Long Luu,,2020-11-21T08:11:02.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nakagawahironori/moa-tabnet-ver7-pca-6,MoA+TabNet Ver7 + pca 6,Nakagawa Hironori,,2020-11-21T04:47:25.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,gregfishman239/lish-moa-notebook,lish-moa-notebook,Greg Fishman,,2020-11-20T16:41:50.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jb4rogue/simple-nn-keras-pca-optimized,Simple NN (Keras) PCA (Optimized),Jaison J,,2020-12-07T18:35:22.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa50-logreg-blend-new-drugaware-folds,MoA50 LogReg Blend New DrugAware Folds,Alexander,,2020-11-21T18:06:41.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,vinnieantunes/moa-lstm-pure-transformer-fast-and-not-bad,MoA LSTM / Pure Transformer [fast and NOT bad],Vinícius Antunes de Proença,,2021-01-08T01:48:16.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hamzaboulahia/moa-pca-transfert-learning-kerastuner,MoA PCA + Transfert Learning + KerasTuner,Hamza Boulahia,,2020-11-27T10:26:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ahmedattia143/checkingmoame18-36,CheckingMoaMe18.36,Ahmed,,2020-11-20T12:17:22.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,garrettwankel/moa-train-model,MoA - train_model,Garrett Wankel,,2020-12-17T22:02:21.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,junyan01/pytorch-transfer-learningwith-kfoldsdrug-inference,Pytorch Transfer Learningwith KFoldsDrug_Inference,Jun Yan01,,2020-11-28T04:14:43.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandrafedorova98/moa-fedorova,MoA_Fedorova,Alexandra Fedorova98,,2021-05-11T07:08:30.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nikolayskryabin/skryabinnv,SkryabinNV,Nikolay Skryabin,,2020-11-19T04:21:40.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nikolaypirozhkov/moapie,MoAPie,Nikolay Pirozhkov,,2020-11-26T02:53:19.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kevnsan/ensemble,Ensemble,Kevin Sanchez,,2020-11-21T04:14:42.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,marvinsk8/keras-moa,keras_Moa,Marvin Martin,,2020-11-30T20:00:19.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,junyan01/pytorch-transfer-learning-with-k-foldsdrugid-run,Pytorch Transfer Learning with K-FoldsDrugID_run,Jun Yan01,,2020-11-28T01:35:49.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,pandaman817/ansenmble-lgbm-and-2pytorch-models,ansenmble_LGBM_and_2pytorch_models,pndnism,,2020-11-28T15:05:16.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,lavanyask/moa-prediction-nn-kfold,MoA Prediction NN KFold,Lavanya Katageri,,2020-12-24T07:53:43.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,windmen/score-38,score 38,Windmen,,2020-11-24T10:11:59.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sridharjayadavan/moa-tut,MOA tut,Sridhar Jayadavan,,2020-11-19T10:02:35.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mdhrumil/hg-baseline-1,HG - Baseline 1,Dhrumil Mayur Mehta,,2020-11-20T20:15:29.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yxohrxn/preprocessor-fit,Preprocessor.fit,Kon,,2020-11-18T06:27:22.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,namndt/mechanisms-of-action-prediction,Mechanisms of Action Prediction,namndt,,2020-11-24T06:51:37.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,vkehfdl1/pca-kmeans-nn,"텐서플로우, PCA, KMeans를 이용한 NN",Dongkyu Kim,,2020-11-28T10:25:32.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,chaejihan/moa-cjh,MoA cjh,Jihan Chae,,2020-11-17T13:41:35.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/moa-rapids-svm-seed01,moa_RAPIDS_SVM_seed01,anonamename,,2020-11-27T07:39:29.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wickkiey/moa-lightgbm-206-models,MoA LightGBM - 206 Models,Wickkiey,,2020-11-26T13:38:20.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,simonplatonov/baseline6,baseline6,Simon Platonov,,2020-11-17T04:25:31.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aadhika3/notebook1640365c6c,notebook1640365c6c,AAKRITI ADHIKARI,,2020-11-30T19:22:29.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,akashsuper2000/simple-deep-learning-model-for-moa-part-2,Simple Deep Learning Model for MoA Part 2,Akash G,,2020-11-30T06:26:13.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,soumochatterjee/mechanisms-of-action-moa-prediction,Mechanisms_of_Action_(MoA)_Prediction,IamSparky,,2020-11-21T11:38:32.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/moa-self-stacking-xgboost,moa_Self_Stacking_XGBoost,anonamename,,2020-11-27T06:03:19.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jeeperscreepers/woe-nn-0d92b4,WOE + NN  0d92b4,boston17,,2020-11-16T07:05:21.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/moa-lightgbm,moa_lightgbm,anonamename,,2020-11-28T01:24:50.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ashiqueeelahi/submission-problems-and-solutions,Submission Problems and solutions,Ashique E Elahi ,,2020-11-16T03:32:21.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huoxingshu123/blend,Blend,huluwa,,2020-11-16T02:46:29.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huoxingshu123/moa-pytorch-rankgauss-pca-nn-upgrade-3d-v1,MoA: Pytorch-RankGauss-PCA-NN upgrade & 3D  V1,huluwa,,2020-11-21T00:28:30.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yxohrxn/transformerclassifier-fit,TransformerClassifier.fit,Kon,,2020-11-23T11:29:10.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/moa-idk-how-to-fe,MOA IDK HOW TO FE,Long Luu,,2020-11-16T03:02:27.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yxohrxn/lstmclassifier-fit,LSTMClassifier.fit,Kon,,2020-11-23T07:12:47.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,narendra/moa-dae-model,MOA-DAE-model,doteeee,,2020-11-21T10:33:31.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,bmonikraj/notebook70be68f0a8,notebook70be68f0a8,Monik Raj Behera,,2020-11-15T17:27:10.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,scleeza/cv6-tfa-labeling,CV6_tfa_labeling ,JonathanLee,,2020-11-16T03:24:08.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mnk812/moa-make-folds,MOA_make_folds,i back,,2020-11-13T07:25:39.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anonamename/moa-lgbmclassifier-classifierchain,moa_LGBMClassifier_ClassifierChain,anonamename,,2020-11-17T14:04:47.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tolgadincer/nn-lb-0-1836-t19,NN_LB_0.1836 T19,Tolga,,2020-11-14T01:48:19.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,dliend/testing-moa-based-on-grid-search-results,Testing Moa Based on Grid Search Results,DanJL,,2020-11-15T22:06:01.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alturutin/moa-mlp-gelu,MoA :: MLP GELU,newbee,,2020-11-14T21:55:42.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,einchin/notebook16cfe3587c,notebook16cfe3587c,E_Inchin,,2020-11-17T05:16:58.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,gambrinus/tabnet-moa,TabNet_MoA,DmitryShelukhin,,2020-11-21T02:02:54.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,srutimallik/moa-v3,MoA_v3,Sruti Mallik,,2020-11-20T00:32:30.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa37-boostings-blend-pdgfr-inhibitor,MoA37 Boostings Blend pdgfr_inhibitor,Alexander,,2020-11-11T18:13:41.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,semenlobachevskiy/moa-nn,MoA - NN,Semen Lobachevskiy,,2020-11-11T19:52:18.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,rtindru/notebook8d3ad46e04,notebook8d3ad46e04,IndrajitRajtilak,,2020-11-11T07:41:18.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,art6745/notebookf7f9bc2e32,notebookf7f9bc2e32,Art6745,,2020-11-11T06:15:26.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa36-4-logreg-blend-v4,MoA36_4 LogReg Blend V4,Alexander,,2020-11-12T08:46:20.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa36-3-logreg-blend-v3,MoA36_3 LogReg Blend V3,Alexander,,2020-11-10T21:52:07.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa36-2-logreg-blend-v2,MoA36_2 LogReg Blend V2,Alexander,,2020-11-10T21:51:47.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,piotrwodzynski/strange-result-model-selection-cross-validate,Strange result model_selection.cross_validate,Piotr Wodzynski,,2020-11-10T19:45:01.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yzgast/moa-minimal-kfold-dnn-keras,MoA | Minimal kFold DNN - Keras,Yzgast,,2020-11-27T10:06:54.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,darvida/moa-competition,MoA_competition,darvida,,2020-11-30T12:15:47.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,salonisethiya/moa-kagggle,MoA_kagggle,saloni sethiya,,2020-11-18T09:00:56.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa34-logreg-c-optimize-morals,MoA34 LogReg C optimize Morals,Alexander,,2020-11-09T15:17:41.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ilosvigil/torch-moa-mlp,Torch MoA MLP,Sandy Khosasi,,2020-11-30T06:25:14.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yuanyuanyue/pytorch-moa-model-8-6-multihead-epsinadam,Pytorch | MOA | Model 8 | 6+Multihead+epsinAdam,Yuanyuan Yue,,2020-11-13T23:35:30.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa-boostings-search-for-best-params,MoA Boostings search for best params,Alexander,,2020-11-08T19:27:04.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ashiqueeelahi/moa-model-and-validation,MOA - model and validation,Ashique E Elahi ,,2020-11-16T01:46:27.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/lgb-worse-than-constant-dart-rules-optim-params,"LGB worse than constant, DART rules, optim params",Alexander,,2020-11-07T20:36:54.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,art6745/notebookea1c1594ba,notebookea1c1594ba,Art6745,,2020-11-06T09:22:55.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,crackle/moa-combined,MoA Combined,Thien,,2020-11-29T07:41:09.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huanghuangzhang/pytorch-hpstuning-optuna,Pytorch_HPsTuning_optuna,zhh,,2020-11-06T12:17:59.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/tabnet-hyper-fe,TabNet hyper FE,Long Luu,,2020-11-23T07:41:04.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,art6745/notebookf0a11d076c,notebookf0a11d076c,Art6745,,2020-11-05T09:08:09.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,barcarum/pytorch-hpstuning-optuna,Pytorch_HPsTuning_optuna,barcarum,,2020-11-05T18:23:27.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ruslankupr/k-fold-cv-dnn-for-moa,k-fold-cv-DNN-for_MOA,Ruslan_Kupr,,2020-11-04T19:48:39.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,art6745/notebooka050851501,notebooka050851501,Art6745,,2020-11-13T13:26:44.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yxohrxn/tabnetclassifier-fit,TabNetClassifier.fit,Kon,,2020-11-22T20:05:59.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,soyosuke/notebook67cae5c8a0,notebook67cae5c8a0,so_yosuke,,2020-11-04T04:24:03.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,erictaw/drug-id-analysis,Drug ID Analysis,Eric Taw,,2020-11-03T22:25:51.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,seanmh/notebook1cb2b8cdaf,notebook1cb2b8cdaf,Seanmh,,2020-12-09T02:02:55.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,chttunll/defai-moa,DefAI - MoA,MCihatUnal,,2020-11-07T11:02:26.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,corrrado/pca-logreg,PCA_logreg,corrado,,2020-11-04T08:15:30.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/moa-tabnet-groupcv,MoA TabNet GroupCV,Long Luu,,2020-11-26T09:55:17.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wittmannf/quick-eda-and-baseline-submission-with-keras,Quick EDA and Baseline Submission with Keras,Fernando Wittmann,,2020-11-02T23:17:53.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wittmannf/quick-eda-and-baseline-submission-with-mlk,Quick EDA and Baseline Submission with MLk,Fernando Wittmann,,2020-11-02T21:59:29.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,huanghuangzhang/pytorch-cv-0-0145-lb-0-01839,Pytorch CV|0.0145| LB| 0.01839 | ,zhh,,2020-11-04T15:50:03.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,barcarum/moa-pytorch-feature-engineering-0-01846,MoA | Pytorch | Feature Engineering | 0.01846,barcarum,,2020-11-02T18:24:24.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/moa-no-feature-engineering-neural-net,MoA No Feature Engineering Neural Net,Long Luu,,2020-11-03T03:34:20.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,akashsuper2000/moa-pytorch-rankgauss-pca-nn-upgrade-3d-visual,MoA: Pytorch-RankGauss-PCA-NN upgrade & 3D visual,Akash G,,2020-11-06T12:29:35.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sasasagagaga1/nn-top3-ensemble-with-cv-7,NN TOP3-ensemble with CV-7,Alexander Chernyshev,,2020-11-01T20:15:11.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,dzehtsiarou/final-code-for-house-prices,Final code for House Prices,Anton Vice,,2020-11-01T19:41:20.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,rftexas/moa-model-start-here,MoA: Model - Start here,PAB97,,2020-11-01T21:30:36.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,syoifczeri/submit-dummy-test,submit_dummy_test,Modong Tan,,2020-11-22T10:45:09.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa21-blend-exercises,MoA21 Blend Exercises,Alexander,,2020-11-01T15:24:10.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,noelmat/5-fold-cv-with-nn-rankgauss-pca,5 fold cv with nn | RankGauss | PCA,Noel Mathew,,2020-11-21T00:53:08.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,afg101/test-6,test_6,Kirill Moyseenko,,2020-10-31T00:24:08.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,rajsinghgaur2000/notebook7accf6d0a6,notebook7accf6d0a6,RAJ SINGH GAUR,,2020-11-01T06:50:54.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,narek1110/pzad-hw3-test-submission,PZAD hw3 test submission,Narek Maloyan,,2020-10-30T20:40:02.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aredosbyk/notebook83e8d90dce,notebook83e8d90dce,Dmitry Popov,,2020-12-18T13:36:07.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,bredonos/notebook2d4f4b99fa,notebook2d4f4b99fa,Киназаров Темирбек,,2020-10-30T14:03:25.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,crafterkolyan/bndl-elu-2048-1024-2-5-5-smoth2e-4-pca-pzad,BnDL-ELU 2048-1024 .2-.5-.5 smoth2e-4 PCA (PZAD),Nikolay Korolev,,2020-10-30T06:07:31.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kentaroh34/neural-networks-for-multiple-labels,Neural Networks for Multiple Labels,kohsuke maeda,,2020-11-02T07:31:51.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,skryzhanovskaya/moa-prediction-nn,MoA prediction NN,Svetlana Kryzhanovskaya,,2020-10-30T09:14:07.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sasasagagaga1/gb-with-cv,GB with CV,Alexander Chernyshev,,2020-10-29T22:51:38.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,bredonos/notebookcae05416cd,notebookcae05416cd,Киназаров Темирбек,,2020-10-30T11:50:00.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alturutin/moa-tabnet,Moa:: TabNet,newbee,,2020-11-03T00:31:34.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nakhodnov17/simplenn,SimpleNN,NakhodnovMaksim,,2020-11-06T07:30:27.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,georgyk/useful-visualizations-pzad,Useful visualizations (PZAD),Georgiy Kormakov,,2020-10-30T06:49:38.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,pavellukianov/eda-pzad,EDA (PZAD),Pavel Lukianov,,2020-10-30T06:06:24.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/boss-bayesian,BOSS_bayesian,Fedor Lebed,,2020-10-29T19:00:33.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/boss-nn-dropout,BOSS_nn_dropout,Fedor Lebed,,2020-10-29T05:13:56.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sasasagagaga1/gb-predictions,GB predictions,Alexander Chernyshev,,2020-10-28T23:56:57.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/boss-nn,BOSS_nn,Fedor Lebed,,2020-10-28T21:29:52.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,crafterkolyan/fork-of-moa-solution-v6-local-pzad,Fork of MoA - Solution v6 (local) (PZAD),Nikolay Korolev,,2020-10-28T10:26:00.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/bosss-pca,BOSSs_pca,Fedor Lebed,,2020-10-27T20:34:51.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/boss-pca,BOSS_pca,Fedor Lebed,,2020-10-27T18:51:56.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/histo,histo,Fedor Lebed,,2020-10-27T18:06:47.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,deathlyhallows/xg-boost-moa-baseline,Xg boost MOA baseline,ManuAgarwal,,2020-11-29T18:56:44.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ikobzev/moa-script,MoA_script,Ivan Kobzev,,2020-10-27T14:10:54.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,promona/tabnet-library,TabNet-library,promona,,2020-11-30T09:58:44.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hasan7/moa-nn-ensamble,MoA-NN-Ensamble,Mk Hasan,,2020-10-31T00:18:29.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,brunods10/mastering-matplotlib,Mastering Matplotlib,Brunods10,,2020-11-05T22:43:45.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/local-pca,local_pca,Fedor Lebed,,2020-10-26T05:40:26.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/local-coords,local coords,Fedor Lebed,,2020-10-26T00:47:06.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aquibjkhan/a-cnn-approach,A CNN Approach,_xrcf,,2020-10-25T21:20:33.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,arunamenon/moa-predictions-base-model,MoA predictions - Base model,arunamenon,,2020-10-25T21:03:22.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,oym8012/feature-importance,feature_importance,OYM8012,,2020-10-24T09:06:04.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,dariapetrenko/sample-submission,sample_submission,Daria Petrenko,,2020-10-28T18:09:21.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,maltsevan/moa-pzad,MoA (PZAD),Maltsev Alexander,,2020-10-23T20:00:00.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,kuberport/belyankov-oleg-pzad,Belyankov Oleg [PZAD],Oleg Belyankov,,2020-10-23T08:40:39.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sasasagagaga1/nn-baseline,NN Baseline,Alexander Chernyshev,,2020-12-26T07:23:49.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexanderkholodov/solution-pzad,Solution (PZAD),Alexander Kholodov,,2020-11-13T14:23:24.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ikobzev/moa-version1,MoA_version1,Ivan Kobzev,,2020-10-26T09:01:23.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,ravasiliev/eda-ravasiliev-pzad,EDA_RAVasiliev_PZAD,Vasiliev Roman,,2020-10-30T13:09:05.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/nn-baseline,nn baseline,Fedor Lebed,,2020-10-22T18:01:58.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,pavellukianov/solution1-pzad,solution1 (PZAD),Pavel Lukianov,,2020-10-23T15:01:46.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,fedorlebed/baseline,baseline,Fedor Lebed,,2020-10-22T16:28:41.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aredosbyk/notebookb061c42785,notebookb061c42785,Dmitry Popov,,2020-10-22T15:20:54.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,milev3005/notebook3c105af58e,notebook3c105af58e,Milyuta Evgeniya,,2020-12-25T10:11:09.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,stepanhardin/drugs-classification-mechanisms-of-action,Drugs classification: Mechanisms of Action,Stepan Hardin,,2020-10-28T12:16:17.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tuistan/mlsmote-6fbf38,MLSMOTE 6fbf38,tuistan,,2020-10-24T01:01:20.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexustyuzhanin/solution-pzad,Solution (PZAD),Alexander Ustyuzhanin,,2020-10-30T09:38:52.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,lucca9211/pytorchmoa,pytorchMoA,Rajnish Singh,,2020-10-28T07:17:45.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alekseyeliseev/moa-ann-baseline,MoA ANN baseline,Aleksey Eliseev,,2020-10-22T16:14:17.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,catadanna/kaggle-moa-pca,Kaggle_MOA_PCA,Catadanna,,2020-10-22T12:22:46.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,tenduck/v1-start,v1 start!,Wonkeun Jo,,2020-10-22T08:51:18.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,crafterkolyan/moa-solution-pzad,MoA - Solution (PZAD),Nikolay Korolev,,2020-10-25T21:52:59.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,meacca/eda-first-submit,EDA+first_submit,Dmitry Koptelov,,2020-10-20T22:49:16.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexandervc/moa-improve-knn-via-scikit-hubness-test-of-idea,MoA. Improve KNN via scikit-hubness - test of idea,Alexander,,2020-12-01T20:49:00.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,bredonos/notebook016a046dc7,notebook016a046dc7,Киназаров Темирбек,,2020-10-30T14:54:36.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,crackle/moa-14,MoA 14,Thien,,2020-11-29T07:55:46.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,mnk812/moa-pytorch-baseline2-inference,MoA|pytorch|baseline2|inference,i back,,2020-11-10T14:01:16.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,lakitha/moa-data-submission,MoA Data Submission,Lakitha,,2020-11-09T11:54:37.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,soumyaranjan96/moa-prediction-interesting-findings,(MoA) Prediction. Interesting findings,Soumya ranjan Kar,,2020-10-25T08:29:33.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,prabhutvabisht/notebook4aaaa468a5,notebook4aaaa468a5,Prabhutva BIsht,,2020-10-18T08:03:29.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nur988/moa-pytorch,MOA_PYTORCH,Morpheus,,2020-10-26T13:26:42.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jingzhiwen/notebookafe3fb5cc2,notebookafe3fb5cc2,Jingzhiwen,,2020-10-18T06:57:28.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,danurahul/notebook13b8a23261,notebook13b8a23261,Danu rahul,,2020-10-17T03:44:06.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sergeydor/notebookc256ef4cbe,notebookc256ef4cbe,SergeyDormidontov,,2020-10-16T21:13:42.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,aeryss/moa-feature-engineering-neural-net,MoA feature engineering Neural Net,Long Luu,,2020-10-18T16:14:03.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nasere/catboost-with-ovr,Catboost-with-OVR,Raheem Nasirudeen,,2020-10-17T10:06:46.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,vabhijithrao/rankgauss-vae-tabnet-baseline,RankGauss | VAE | Tabnet Baseline,V Abhijith Rao,,2020-12-04T15:06:03.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nur988/moa-pytorch-optuna,MOA_PYTORCH_OPTUNA,Morpheus,,2020-10-27T11:53:21.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,anshu1595/moa-pca,MOA- PCA,Anshuman,,2020-10-15T13:58:07.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alturutin/moa-t-test-outliers-segmentation-interactions,"MoA:: T.Test, Outliers, Segmentation, Interactions",newbee,,2020-11-25T15:44:44.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,akashsuper2000/moa-ensemble,MoA: Ensemble,Akash G,,2020-10-14T12:52:19.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,hasan7/eda-moa,EDA MoA,Mk Hasan,,2020-10-24T19:08:08.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,soyosuke/notebook3e65be8da5,notebook3e65be8da5,so_yosuke,,2020-10-13T10:22:37.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,striker7/mechanisms-of-action-moa-predicti-fastai,Mechanisms of Action (MoA) Predicti  FASTAI,Shrikant Narayankar,,2020-11-13T16:51:08.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexgregory/notebook1e207f083e,notebook1e207f083e,Alex Gregory,,2020-10-12T15:24:45.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,danich329/mechanism-action-nn-baseline,Mechanism_Action_NN_baseline,David Nicholson,,2020-10-12T04:51:00.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,jingzhiwen/notebook7df3fda89d,notebook7df3fda89d,Jingzhiwen,,2020-10-11T03:17:17.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,acapricorni/moa-data-analysis,MoA_data_analysis,jmpap,,2020-10-10T13:13:55.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,wanping7/xgboost,XGBoost,guimie,,2020-10-15T01:55:23.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,biubiug/notebookee685d99a6,notebookee685d99a6,biubiuG,,2020-10-09T16:24:18.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,alexzhongyiz007/labels-vanilla-pytorch,labels_vanilla_pytorch,ZZY,,2020-10-09T12:29:25.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,nur988/moa-eda,MOA_EDA,Morpheus,,2020-10-11T17:21:57.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,gutomitai/drug-features-clustering-according-to-moa,Drug features clustering according to MoA,Inwoo Chung,,2021-08-19T07:12:25.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,yeayates21/moa-textbook-sklearn,MoA Textbook Sklearn,Matt Yates,,2020-10-15T22:59:55.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,thienkaka/notebookeda33f617a,notebookeda33f617a,Thienkaka,,2020-10-08T09:27:11.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sunilkrishnan/notebook97867ec13c,notebook97867ec13c,Sunil Krishnan,,2020-10-07T14:58:20.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa
+,,,,,0,sho123/pytorch-optuna-tuning,Pytorch optuna tuning,Sho123,,2020-11-26T08:55:23.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lish-moa

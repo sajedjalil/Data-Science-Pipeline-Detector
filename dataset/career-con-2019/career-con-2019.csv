@@ -1,0 +1,184 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jesucristo/1-smart-robots-most-complete-notebook,#1 Smart Robots. Most Complete Notebook 🤖,Nanashi,,2019-04-12T06:44:46.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],278,career-con-2019
+,,,,,0,artgor/where-do-the-robots-drive,Where do the robots drive?,Andrew Lukyanenko,,2019-04-10T19:28:05.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],166,career-con-2019
+,,,,,0,prashantkikani/help-humanity-by-helping-robots,Help Humanity by Helping Robots 🤖 !,Prashant Kikani,,2019-03-17T05:01:54.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],96,career-con-2019
+,,,,,0,ishivinal/hyperparamters-optimization-gs-rs-boa-tpe-hb-ga,"🔔HyperParamters Optimization: GS,RS,BOA,TPE,HB,GA",Ouassim Adnane,,2020-07-25T15:02:24.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,career-con-2019
+,,,,,0,gpreda/robots-need-help,Robots need help!,Gabriel Preda,,2019-05-02T07:53:02.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],72,career-con-2019
+,,,,,0,hiralmshah/robot-sensor-eda-fe-and-prediction-improvement,"Robot sensor EDA, FE and Prediction Improvement",Hiral,,2019-04-17T13:23:18.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,career-con-2019
+,,,,,0,friedchips/the-missing-link,The Missing Link...,Markus,,2019-04-09T07:13:03.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,career-con-2019
+,,,,,0,theoviel/deep-learning-starter,Deep Learning Starter,Theo Viel,,2019-03-14T12:33:11.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,career-con-2019
+,,,,,0,ilhamfp31/fast-fourier-transform-denoising,Fast Fourier Transform Denoising,Ilham Firdausi Putra,,2019-04-29T12:05:37.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,career-con-2019
+,,,,,0,prith189/starter-code-for-3rd-place-solution,Starter Code for 3rd place Solution,Prithvi,,2019-04-12T00:26:15.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,career-con-2019
+,,,,,0,jesucristo/1-smart-robots-complete-compilation,#1 Smart Robots. Complete Compilation 🤖,Nanashi,,2019-04-19T12:48:28.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,career-con-2019
+,,,,,0,artgor/bayesian-optimization-for-robots,bayesian optimization for robots,Andrew Lukyanenko,,2019-04-10T19:28:48.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,career-con-2019
+,,,,,0,purplejester/pytorch-deep-time-series-classification,[PyTorch] Deep Time Series Classification,Ilia Z,,2019-04-20T14:29:21.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,career-con-2019
+,,,,,0,jsaguiar/surface-recognition-baseline,Surface Recognition Baseline,Aguiar,,2019-03-24T22:15:13.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,career-con-2019
+,,,,,0,artgor/basic-pytorch-lstm,Basic pytorch LSTM,Andrew Lukyanenko,,2019-04-11T02:21:54.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,career-con-2019
+,,,,,0,trohwer64/simple-fourier-analysis,Simple Fourier Analysis,Thomas Rohwer,,2019-03-22T22:25:30.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,career-con-2019
+,,,,,0,hsinwenchang/randomforestclassifier,RandomForestClassifier,Beans,,2019-04-07T06:47:27.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,career-con-2019
+,,,,,0,whoiskk/validation-strategy-randomforest-0-71,Validation Strategy + RandomForest [0.71],swagatron,,2019-03-22T17:51:00.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,career-con-2019
+,,,,,0,pluceroo/new-features-lgbm-and-simple-rf,New features + LGBM and  Simple RF,Pablo Lucero,,2019-03-26T19:37:40.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,career-con-2019
+,,,,,0,purplejester/a-simple-lstm-based-time-series-classifier,A Simple LSTM-Based Time-Series Classifier,Ilia Z,,2019-04-10T06:53:59.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,career-con-2019
+,,,,,0,anjum48/leakage-within-the-train-dataset,Leakage within the train dataset,datasaurus,,2019-04-06T17:53:46.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,career-con-2019
+,,,,,0,trohwer64/split-training-validation-by-complete-group,Split training/validation by complete group,Thomas Rohwer,,2019-04-01T21:14:20.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,career-con-2019
+,,,,,0,mohanamurali/conv1d-keras,Conv1D Keras ,Mohana,,2019-03-20T10:55:02.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,career-con-2019
+,,,,,0,trohwer64/submission-fourier-neighbour-detection-svm,"Submission (Fourier, Neighbour Detection, SVM)",Thomas Rohwer,,2019-04-12T12:10:57.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,career-con-2019
+,,,,,0,lockeza/careercon-convneuralnet-starter,CareerCon ConvNeuralNet Starter,Nicolas Taylor,,2019-03-27T10:24:51.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,career-con-2019
+,,,,,0,nikitagrec/feature-engineering-random-forest,Feature engineering + Random Forest,Grecnik,,2019-03-17T08:39:30.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,career-con-2019
+,,,,,0,danisamba/new-in-kaggle-eda-step-by-step,New in Kaggle? EDA step by step,danisamba,,2019-03-16T11:24:02.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,career-con-2019
+,,,,,0,whoiskk/15-solution-private-0-77,#15 Solution (Private: [0.77]),swagatron,,2019-04-12T00:38:45.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,career-con-2019
+,,,,,0,ilhamfp31/16-solution-private-0-76,#16 Solution (Private 0.76),Ilham Firdausi Putra,,2019-04-29T12:02:17.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,career-con-2019
+,,,,,0,shaz13/code-snippet-for-visualizing-series-id,Code Snippet For Visualizing Series Id,Mohammad Shahebaz,,2019-03-31T07:08:12.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,career-con-2019
+,,,,,0,donkeys/my-little-eda-with-random-forest,My Little EDA with Random Forest,averagemn,,2019-03-24T21:57:20.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,career-con-2019
+,,,,,0,nikitpatel/lstm-nn-nn-gru-deep-learning,LSTM_NN_NN+GRU Deep learning,NikitPatel,,2019-03-19T10:34:16.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,career-con-2019
+,,,,,0,robikscube/navigate-robots-first-look-and-eda,Navigate Robots - First Look and EDA,Rob Mulla,,2019-03-15T02:03:24.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,career-con-2019
+,,,,,0,nikitpatel/keras-lstm-with-sequences-window-length,keras_lstm_with_sequences_window-length,NikitPatel,,2019-03-18T08:41:17.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,career-con-2019
+,,,,,0,palend/basemodel-rnn,basemodel - RNN,donggyukimc,,2019-03-14T12:26:27.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,career-con-2019
+,,,,,0,pjofrelora/hybrid-classifier-solution-11th-place,Hybrid Classifier Solution (11th Place),Pedro Jofre Lora,,2019-04-21T20:00:38.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,career-con-2019
+,,,,,0,acbutakov/automatically-check-missing-values-in-dataset,Automatically check missing values in dataset,Alexander Butakov,,2019-04-14T10:43:28.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,skondrash/nn-lstm-fft-features,"NN+LSTM,fft+features",Sergey K.,,2019-04-11T19:01:34.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,pnussbaum/cnn-v03q1,CNN v03q1,"Paul Nussbaum, PhD",,2019-04-09T19:26:26.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,asauve/smart-robots-with-wavelets,smart robots with wavelets,Alexandre Sauvé,,2019-04-04T09:59:15.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,nikitpatel/deep-learning-machine-learning-rf-lgbm-dt-knn-ada,Deep_Learning+Machine_Learning RF_LGBM_DT_KNN_ADA,NikitPatel,,2019-03-19T12:03:06.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,guntherthepenguin/fastai-lstm,[fastai] LSTM,Gunther,,2019-03-19T15:57:40.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,dimitreoliveira/deep-learning-helping-navigate-robots,Deep Learning Helping Navigate Robots 🤖,DimitreOliveira,,2019-03-21T19:03:02.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,premvardhan/identify-robot-surface-careercon2019,Identify Robot Surface- CareerCon2019,Premvardhan Kumar,,2019-04-12T05:03:29.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,career-con-2019
+,,,,,0,abhishektyagi001/robot-navigation-help,Robot navigation Help,Abhishek Tyagi,,2020-09-22T09:58:04.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,career-con-2019
+,,,,,0,itsmesunil/robot-sensor-data-analysis,Robot_Sensor_Data_Analysis,Sunil Jacob,,2019-03-27T15:34:00.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,career-con-2019
+,,,,,0,tatianass/eda-types-of-surface-and-movement-behavior,EDA - Types of surface and movement behavior,Tatiana Saturno,,2019-03-17T16:03:19.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,career-con-2019
+,,,,,0,oluwaody/the-humanoid-tier-recognition-with-kfold-nn,The Humanoid Tier Recognition with kfold NN,Oluwabi Oluwaseyi,,2019-03-25T22:53:20.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,career-con-2019
+,,,,,0,jazivxt/line-of-sight,Line of Sight,Daniel Preciado,,2019-03-17T01:40:12.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,career-con-2019
+,,,,,0,axel81/help-humanity-by-helping-robots-fastai,Help Humanity by Helping Robots 🤖  FastAI,Ram Ramrakhya,,2019-03-24T08:53:50.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,career-con-2019
+,,,,,0,guntherthepenguin/adversarial-validation,Adversarial validation,Gunther,,2019-03-19T23:29:29.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,career-con-2019
+,,,,,0,subhamsharma96/careercon-eda-fe-rf,CareerCon EDA | FE | RF,Subham Sharma,,2019-04-08T10:45:26.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,career-con-2019
+,,,,,0,ab971631/careercon-lightgbm,CareerCon LightGBM,Abhishek Kumar,,2019-03-16T13:38:01.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,career-con-2019
+,,,,,0,abefetterman/pytorch-starter,Pytorch Starter,Abe F,,2019-03-15T00:05:26.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,career-con-2019
+,,,,,0,venky73/analyzing-and-predicting-surfaces,Analyzing and predicting Surfaces,Venkatesh Garnepudi,,2019-03-17T18:55:43.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,career-con-2019
+,,,,,0,asauve/wavelet-transform-of-chained-series,Wavelet transform of chained series,Alexandre Sauvé,,2019-04-14T08:38:01.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,career-con-2019
+,,,,,0,algorrt/highest-scoring-public-kernel-starter-sol-29,Highest scoring Public kernel (starter - Sol #29),Rajanikant Tenguria,,2019-04-12T19:01:30.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,career-con-2019
+,,,,,0,feichin/helping-robots-with-anova,Helping Robots with ANOVA,Florian Eichin,,2019-03-27T02:59:58.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,career-con-2019
+,,,,,0,jackg0/multi-input-deep-learning-model-baseline,Multi-Input Deep Learning Model Baseline,Jack Geissinger,,2019-03-22T13:34:01.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,career-con-2019
+,,,,,0,ruslanjan/basic-svm-for-multi-classification-0-39-score,Basic SVM for multi classification 0.39 score,Herr-Commander,,2019-03-14T06:36:58.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,career-con-2019
+,,,,,0,marcushorn/random-forest-ensemble-w-smote,Random Forest Ensemble w/ SMOTE,Marcus Horn,,2019-04-10T19:40:51.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,career-con-2019
+,,,,,0,taigokuriyama/random-forest-baseline,Random Forest Baseline,TK,,2019-04-04T14:29:49.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,career-con-2019
+,,,,,0,sarmat/baseline-cnn-for-signal-prediction,Baseline CNN for signal prediction,Mykhailo Nedodai,,2019-04-04T12:42:26.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,career-con-2019
+,,,,,0,donkeys/distribution-hack,distribution hack,averagemn,,2019-03-22T09:24:22.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,career-con-2019
+,,,,,0,ihawks/kernele69c850bd3,kernele69c850bd3,Rishu Bagla,,2019-03-30T18:56:24.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,career-con-2019
+,,,,,0,mohi549/lgb-carrercon,LGB- Carrercon,Mohd-Mohi,,2019-04-09T10:28:18.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,prathamsolanki/can-xgboost-help-robots,Can XGBoost help Robots?,Pratham Solanki,,2019-04-01T06:16:29.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,myoung859/3809-samples-vs-one-inexperienced-boi,3809 samples vs. One Inexperienced Boi,Mike Young,,2019-03-22T04:09:41.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,seshadrikolluri/careercon-2019-sample-rnn-approach,CareerCon 2019:  Sample RNN Approach,SK,,2019-04-08T05:20:00.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,pswaldia1/help-navigate-robot-random-forest,Help Navigate Robot (Random Forest),Pradeep Singh,,2019-03-17T18:51:18.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,taigokuriyama/data-overview-with-pandas-profiling,Data Overview with pandas-profiling,TK,,2019-03-17T12:51:09.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,lavanyadml/careercon-2019-eda,CareerCon 2019 - EDA,Lavanya K,,2019-03-15T18:08:49.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,purplejester/quaterni-what,Quaterni... what?,Ilia Z,,2019-03-15T07:43:28.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,hsinwenchang/more-bidirectional-cudnnlstm-layer,More Bidirectional CuDNNLSTM Layer,Beans,,2019-03-15T09:35:15.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,career-con-2019
+,,,,,0,kepure/1d-cnn-lstm,1D CNN + LSTM,Modestas Jurčius,,2019-04-11T13:20:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,asauve/features-engineering-with-nn,features engineering with NN,Alexandre Sauvé,,2019-04-09T14:10:21.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,ykhatami/robots-in-wilderness,Robots in wilderness!,Yasin K,,2019-03-25T23:19:10.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,jazivxt/random-forest-testing,Random Forest Testing,Daniel Preciado,,2019-03-27T07:02:05.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,chanuran/tsfresh-feature,tsfresh_feature,Anuran Chakraborty,,2019-03-21T12:11:50.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,daftintrovert/help-humanity-by-helping-robots,Help Humanity by Helping Robots 🤖 !,Vishal Sharma,,2019-03-20T17:02:10.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,maxl28618/lstm-in-pytorch,LSTM in PyTorch,MaxL,,2019-03-29T23:29:05.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,kageyama/predict-by-lightgbm,predict by LightGBM,kageyama,,2019-03-19T13:16:39.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,guntherthepenguin/fastai-cnn-approach,[fastai] CNN approach,Gunther,,2019-03-19T16:48:59.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,career-con-2019
+,,,,,0,ngttue/frequency-analysis-as-features-no-time-series,Frequency Analysis as Features (no time series),Tue Ngo,,2019-04-12T02:30:46.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,rahulkiran94/rahul-kiran-surface-prediction,Rahul_Kiran_Surface_Prediction ,Rahul Kiran,,2019-04-11T19:04:34.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,abdurrafae/using-group-id-s-the-right-way,Using Group Id's the Right Way!,AbdurRafae,,2019-04-21T21:15:11.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,sureshsuri/robot-moving-direction,robot moving direction,suri@7,,2019-04-11T17:22:23.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,devinanzelmo/cv-method-v1,cv method(v1),Devin Anzelmo,,2019-03-31T17:38:30.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,weedjy/probing-different-classifiers,Probing different classifiers,weedjy,,2019-03-29T21:23:25.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,rstogi896/deep-learning-randomforest-lightgbm-k-fold,Deep learning +RandomForest+LightGbm+K-fold,DEEPAK KUMAR RASTOGI,,2019-03-19T11:10:11.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,maxl28618/initial-eda,Initial EDA,MaxL,,2019-03-27T09:03:40.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,career-con-2019
+,,,,,0,lawrencehe/robots-floor-surface-lstm,Robots_floor_surface_LSTM,Lawrence He,,2021-02-17T19:05:35.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,egoist/ai-project-1,AI Project 1,Hang Chen,,2020-02-27T06:47:36.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,darshan9/condata2019-competition,ConData2019_Competition,DarshanSolanki,,2020-02-28T19:15:59.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,lhd0430/2019careercon-help-navigate-robot,2019CareerCon_Help_Navigate_Robot,Danny,,2022-02-13T16:28:11.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,fk0728/weasel-muse-method-for-classifying-robot-readings,WEASEL+MUSE method for classifying robot readings ,FilipK,,2019-07-17T15:42:03.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,nitishkulkarni1006/feature-engineering-random-forest-classifier,Feature Engineering & Random Forest Classifier,Nitish Kul,,2019-05-05T08:40:15.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,rijboy/help-robot-navigate-random-forest-fastai,Help Robot Navigate- Random Forest - fastai,Rijul,,2019-04-27T11:21:06.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,ammar111/help-navigate-robots-65th-place-solution,Help-Navigate-Robots - 65th-Place Solution,Ammar Alyousfi,,2019-04-14T08:27:00.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,soysouce/a-beginner-s-solution-33-0-73,A beginner's solution #33 (0.73) ,Chenghao Luo,,2019-04-12T03:21:25.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,prabhatkumarsahu/helping-robots-career-con,Helping Robots - Career Con,Prabhat Kumar sahu,,2019-04-11T17:47:54.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,faezakamran/careercon-2019-robot-navigation,CareerCon 2019 - Robot Navigation,Faeza Kamran,,2019-04-11T14:16:28.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,tatianaskv/robot-surfaces-rf,Robot & Surfaces RF,Tatiana S,,2019-12-01T13:20:41.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,kumarhalake/peaks-exploration-in-data,Peaks Exploration in data,KumarHalake,,2019-05-16T05:18:38.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,taigokuriyama/k-nn-feature-extraction,k-NN feature extraction,TK,,2019-04-06T12:35:25.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,manishym/importance-of-group-id,Importance of Group ID,ManishYathnalli,,2019-04-05T12:36:10.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,ajnovice/random-forest-with-sfolds,Random Forest with SFolds,AjaySingh,,2019-04-04T19:14:37.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,adarbha/pmm-3,PMM_3,adar,,2019-04-03T12:25:09.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,pierretilak/kiss-surface-classifier,KISS Surface Classifier,Pierre Tilak,,2019-04-04T18:57:35.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,indranilkhedkar/careercon2019-ik,CareerCon2019_IK,IndranilKhedkar,,2019-04-10T07:59:39.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,ashishpatel26/best-model-checking-extratree-classifier,Best Model Checking ---> Extratree Classifier,NowYSM,,2019-03-26T10:04:33.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,mayank1261998/a-novice-is-learning-right-now,A NOVICE IS LEARNING. RIGHT NOW!!!! ,The One,,2019-03-25T08:12:24.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,andrewzolotarev/cc-2019,CC_2019,Andrei Zolotarev,,2019-04-07T04:29:59.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,arpanag/robot-walker-help,Robot walker help,ArpanaG,,2019-03-22T18:48:27.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,nikitpatel/bidirectional-cudnnlstm-feature-with-ml,Bidirectional_CuDNNLSTM_Feature_with_ML,NikitPatel,,2019-03-22T10:37:36.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,jesprite14/starter-code,Starter Code,Jessica Lee,,2019-03-23T20:52:32.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,wolfy73/robots-need-help,Robots need help!,Théo Boyer,,2019-03-20T09:10:30.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,serg132003/lgb-plus-euler,lgb_plus_euler,Serge,,2019-03-19T19:50:56.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,sivakumard/kaggle-challenge-xgboost,Kaggle-challenge-Xgboost,Sivakumar D,,2019-03-18T10:12:34.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,maxl28618/first-baseline,First baseline,MaxL,,2019-03-18T15:47:57.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,yutewang/yt-multi-headed-convolutional-neural-network,YT Multi-Headed Convolutional Neural Network,Randy Wang,,2019-04-13T05:29:27.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,career-con-2019
+,,,,,0,aishwaryakore/kernel26fa200b6e,kernel26fa200b6e,Aishwarya Kore,,2020-03-02T04:14:17.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,zetedai/kaggle-careercon-2019-help-navigate-robots,Kaggle CareerCon 2019 - Help Navigate Robots,Zete Dai,,2020-03-01T20:50:31.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,haneenalsuradi/project-1-ai-course,Project 1 - AI Course,Haneen AlSuradi,,2020-07-12T14:12:33.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,richanshujha/surface-type-classification,Surface Type Classification,Richanshu Jha,,2020-03-02T04:16:38.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,haoranzhux/hz1922-haoranzhu-nyu-cs-gy-6613-kernel,hz1922_HaoranZhu_NYU_CS_GY_6613_kernel,HaoranZhu,,2020-03-02T04:22:42.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,leelightman/surface-type-classification,Surface Type Classification,Lynn Li,,2020-03-16T18:54:56.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,samasth/ai-project-1,Ai-Project-1,samasth,,2020-03-02T13:26:10.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,jonathanglaser/ai-project-1,AI Project 1,Jonathan Glaser,,2020-03-02T03:29:11.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,sudeepto22/kernelbb7a9eef90,kernelbb7a9eef90,Sudeepto Mukhopadhyay,,2019-07-02T09:16:44.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,ionutmironica/career-con,Career con,IonutMironica,,2019-05-13T18:56:04.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,ojashreebhandare/random-forest-classifier-with-feature-engineering,Random Forest Classifier with Feature engineering,Ojashree B,,2019-05-06T21:07:21.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,cyones77/cnn-with-residual-connections-25th-private,CNN with residual connections (25th private),Cristian Yones,,2019-04-24T01:03:30.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,mythili895/careercon,CareerCon ,Mythili Sivakumar,,2019-04-24T21:25:37.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,jerrinrajan/1-smart-robots-most-complete-notebook,#1 Smart Robots. Most Complete Notebook 🤖,JERRIN RAJAN,,2019-04-16T03:40:24.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,shinjinibasu/helping-robots-full,Helping Robots Full,Shinjini Basu,,2019-04-26T21:19:03.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,kbosko/robot-navigation-pca,"Robot Navigation - PCA, ",Katerina Bosko,,2019-04-11T23:06:52.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,yaswanthkumar/robots,Robots,yaswanthkumargothireddy,,2019-04-22T20:02:58.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,guilhermekodama/carrercon-rf-baseline-and-simple-features,CarrerCon - RF baseline and simple features,Guilherme Kodama,,2019-04-11T21:08:49.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,gdaniels/kernel2c55a73c86,kernel2c55a73c86,Glynis Daniels,,2019-04-11T23:35:33.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,chrisliuxiqiao/help-robots-distinct-surface-types,Help robots distinct surface types,chrisXQ,,2019-04-11T03:46:20.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,hozhen/kernel5f66afdb7f,kernel5f66afdb7f,HOZHEN,,2019-04-10T18:03:14.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,purplejester/the-best-friend-of-an-alchemist,The Best Friend Of An Alchemist,Ilia Z,,2019-04-10T06:04:52.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,overload10/xgboost-and-rf,XGboost and RF,Overfitting,,2019-04-15T05:45:02.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,narendrashu/k-fold-rf-gbm,"k-fold rf,gbm",Narendra Sahu,,2019-04-09T15:51:09.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,amsharm2/myfirst-careercon-2019,myFirst_CareerCon_2019,Amit Sharma,,2019-04-10T16:53:04.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,ggopalan/spectral-analysis-with-lightgbm-v1,Spectral Analysis with LightGBM v1,Giri Gopalan,,2019-04-06T22:41:38.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,navarro380/cnn-doesn-t-work,CNN doesn't work,Antonio Navarro,,2019-04-05T09:08:20.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,ankita19/carrercon-2019-where-is-a-robot-standing-eda,CarrerCon 2019 - Where is a Robot Standing -EDA,Ankita Sharma,,2019-04-02T19:19:44.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,nolanhoney/working-random-forest-addition,Working Random Forest addition.,Nolan Honey,,2019-04-08T00:49:07.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,maximostapenko/careercon2019-data-visualization,Careercon2019-Data_Visualization,Maxim Ostapenko,,2019-03-30T16:31:26.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,antriksh5235/careercon-first-attempt,"CareerCon, first attempt",Antriksh Agarwal,,2019-04-10T18:07:36.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,drrdrem/gmmhmm,GMMHMM,Sean,,2019-03-28T16:55:27.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,drrdrem/cnn-lenet5-two-input,CNN_Lenet5_two_input,Sean,,2019-03-31T09:15:25.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,askanio/rf-0-67-eulers-viz,RF-0.67-Eulers-viz,Artem Chernyaev,,2019-03-27T21:46:46.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,victororlov/career-con-2019-simple-cnn-rnn-solutuion,Career Con 2019 simple CNN+RNN solutuion,Victor Orlov,,2019-05-11T20:45:20.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,alexgomes3/careercon2019-data-visualization,Careercon2019-Data_Visualization,AlexandreGomes,,2019-03-30T15:13:47.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,adilbek/svm-with-minimal-data-preprocessing,SVM with Minimal Data Preprocessing,Adilbek,,2019-03-25T01:11:04.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,dogugun/mykernel,myKernel,DogugunOzkaya,,2019-04-10T18:34:43.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,sohamgurjar23/finding-the-base-random-forest-with-0-66-on-lb,Finding the Base (Random Forest with 0.66 on LB),soham_23,,2019-03-24T08:25:43.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,anki54/tiptaptoe,tiptaptoe,Anki Chauhan,,2019-03-26T23:50:25.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,rjmishra/simple-eda-and-naive-approach,Simple EDA and Naive Approach,Ranjan Mishra,,2019-03-23T10:25:57.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,priyagudwani/learner-robot,learner _robot ,priya,,2019-04-02T05:36:25.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,mdvmeijer/data-exploration,data exploration,Max Meijer,,2019-03-26T11:07:04.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,anuragshas/carrercon2019,CarrerCon2019,Anurag Singh,,2019-04-10T06:32:57.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,sanupsunny/make-your-move-help-robots-reach-surface,Make Your Move-Help Robots Reach Surface,Sanup Sunny,,2019-04-05T03:03:29.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,deisler/navigate-robots,Navigate Robots,Deisler,,2019-04-07T18:41:23.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,devastatingdj/prelim-competition,Prelim Competition,Dhananjai Sharma,,2019-04-30T14:54:29.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,arlen444/simple-and-quick-tensorflow-dnnclassifier,Simple and Quick Tensorflow DNNClassifier ,Arlen,,2019-03-23T02:16:31.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,darryldias/simple-submission-analysis-dd17,simple submission analysis - dd17,Darryl,,2019-03-19T03:43:42.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,ludovicoristori/scratching-the-surface,Scratching the surface,Ludovico Ristori,,2019-04-12T11:14:11.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,bhaveshbadjatya/3-bayesian-optimization,3_bayesian_optimization,Bhavesh Badjatya,,2019-03-19T12:04:00.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,beamers/where-do-the-robots-drive,Where do the robots drive?,Brian Beames,,2020-10-27T19:49:12.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,msantos12/analasis-with-keras-and-pandas,Analasis with Keras and Pandas,Marcelo dos Santos,,2019-03-17T23:41:29.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,sgorlick/starter-code-for-careercon2019,Starter code for CareerCon2019,crownburntdown,,2019-03-23T20:37:37.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,overload10/surface-prediction-feature-engineering,Surface prediction Feature Engineering,Overfitting,,2019-04-09T05:05:58.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,deepdreamx/eda-robot,eda_robot,ammad,,2019-03-17T01:59:38.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,suryamr/multilabel-onevsrest-linearsvc-classifier,multilabel oneVSrest  LinearSVC classifier ,suryamr,,2019-03-16T05:41:33.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,narendrashu/baseline-rf,baseline RF,Narendra Sahu,,2019-04-08T16:26:20.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,galloshibayo/eda-and-submitting-simple-model,EDA and submitting simple model,Samuel García Cømpanys,,2019-03-15T18:11:19.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,pierretilak/from-grip-and-flatness,From Grip and Flatness,Pierre Tilak,,2019-03-16T17:22:36.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,mehranrafiee/robots-of-future-career,Robots of future career,Mehran Rafiee,,2019-03-21T13:05:15.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019
+,,,,,0,hermesdt/pytorch-cnns,Pytorch CNNs,Alvaro Durán Tovar,,2019-03-21T20:08:49.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,career-con-2019

@@ -1,0 +1,281 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,rajmehra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Raj Mehrotra,,2019-01-06T07:02:19.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],657,whats-cooking
+,,,,,0,alonalevy/cultural-diffusion-by-recipes,Cultural Diffusion by Recipes,alona_levy,,2016-12-03T15:05:59.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,whats-cooking
+,,,,,0,ccorbi/word2vec-with-ingredients,Word2Vec with ingredients,ccorbi,,2017-03-25T17:53:30.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,whats-cooking
+,,,,,0,dipayan/whatscooking-python,WhatsCooking(Python),DipayanSinhaRoy,,2015-10-05T20:11:40.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,whats-cooking
+,,,,,0,anmoltripathi/what-s-cooking-top-7-solution,What's Cooking Top 7% solution,Anmol Tripathi,,2020-10-28T07:06:52.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,whats-cooking
+,,,,,0,manuelatadvice/noname,10 Most Used Ingredients,Manuel,,2015-09-29T14:03:47.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,whats-cooking
+,,,,,0,khyh00/deep-cooking,Deep Cooking,khyh,,2015-09-30T03:58:46.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,whats-cooking
+,,,,,0,shlezinger/cuisine-prediction,Cuisine prediction,Artem Shlezinger,,2021-04-04T13:27:52.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,whats-cooking
+,,,,,0,b2nice/what-s-cooking-my-first-random-forest,What's cooking? My first Random Forest...,Brice,,2017-01-08T16:44:59.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,whats-cooking
+,,,,,0,asmaaeltaher/what-s-cooking-ml-workshop-data-understanding,what's cooking - ML workshop - Data Understanding,Asmaa Eltaher,,2021-03-23T07:53:31.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,whats-cooking
+,,,,,0,halflings/ingredient-recommender-system,Ingredient recommender system,Ahmed Kachkach,,2018-03-30T08:29:33.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,whats-cooking
+,,,,,0,vincentclaes/clustering-food-by-cuisine,clustering food by cuisine,VincentClaes,,2017-08-31T18:22:11.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,whats-cooking
+,,,,,0,tuanndd/random-forest-tfidf,Random Forest (TFIDF),Tuan Nguyen,,2016-07-30T16:23:32.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking
+,,,,,0,yuanmeng/whatscooking-python,WhatsCooking(Python),Yuanmeng,,2015-11-28T03:57:37.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking
+,,,,,0,chromerai/what-s-cooking-logistic-regression,what's cooking-Logistic regression,Kaustubh Mishra,,2021-06-04T19:51:03.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking
+,,,,,0,panditdandgule/a-detailed-explanation-of-keras-embedding,A Detailed Explanation of Keras Embedding,Pandit Dandgule,,2020-03-07T13:37:21.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking
+,,,,,0,limkaraik/predicting-cuisine,Predicting Cuisine,karaik,,2019-04-11T04:33:06.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking
+,,,,,0,singh19dhananjay/what-s-cooking,What's Cooking?,Dhananjay Singh,,2022-06-15T22:06:02.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking
+,,,,,0,arunava21/word2vec-with-ingredients,Word2Vec with ingredients,arunava,,2017-05-30T13:19:21.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking
+,,,,,0,eazhary/cultural-diffusion-by-recipes,Cultural Diffusion by Recipes,Emad Elazhary,,2017-04-24T14:09:36.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking
+,,,,,0,apapiu/linear-svc-on-bag-of-words,Linear SVC on Bag of Words,Alexandru Papiu,,2016-09-18T00:07:38.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking
+,,,,,0,justfor/some-python-cooking, Some Python Cooking,Justfor,,2015-12-16T22:19:26.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking
+,,,,,0,manuelatadvice/10-most-used-ingredients-by-cuisine,10 Most Used Ingredients by Cuisine,Manuel,,2015-09-29T15:53:50.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking
+,,,,,0,asmaaeltaher/what-s-cooking-ml-workshop-data-preparation,what's cooking - ML workshop - Data Preparation,Asmaa Eltaher,,2021-04-14T11:33:06.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking
+,,,,,0,cristianfat/what-do-we-have-for-dinner,What do we have for dinner ?,Daniel Fat,,2020-10-07T18:33:05.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking
+,,,,,0,limitpointinf0/analysis-of-cuisine-and-classification-modeling,Analysis of Cuisine and Classification Modeling,Christopher ONeal,,2018-05-15T05:28:52.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking
+,,,,,0,owlz84/classifying-cuisine-with-keras-and-glove,Classifying Cuisine with Keras and GloVe,StuartLynn,,2017-12-14T12:05:23.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking
+,,,,,0,kdziedzic66/simple-solution-using-spark-and-gensim,Simple solution using Spark and gensim,Krzysztof Dziedzic,,2015-12-08T10:38:27.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking
+,,,,,0,mrfroll/10-most-used-ingredients-by-cuisines,10 Most Used Ingredients (by cuisines),MrFroll,,2015-09-24T14:38:17.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking
+,,,,,0,subhamsagarpaira/beginners-logistic-regression-what-s-cooking,Beginners - Logistic Regression - What's Cooking?,Subham Sagar Paira,,2021-01-10T07:45:12.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,julianbenny/whatscooking-logistic-regression,WhatsCooking-Logistic Regression,Julian Benny,,2020-07-16T12:19:11.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,aakashgoel12/cooking-kaggle-v1,cooking_kaggle_v1,Aakash Goel,,2019-03-15T11:55:49.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,djmmoss/cooking-script,Ingredient & Cuisine Distribution,Duncan Moss,,2015-10-22T22:44:50.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,tomaszgrel/naive-bayes-with-bernoulli-distribution,Naive Bayes with Bernoulli distribution,TomaszGrel,,2015-10-17T15:47:27.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,saurabh2086/whatscooking-new,whatscooking_new,saurabh2086,,2015-11-04T03:10:15.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,rayleighjeans/top-10-distinct-ingredients,Top 10 distinct ingredients,Nat S,,2015-09-30T17:27:29.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,kashyap123/observing-the-features,Observing the features,kashyap ,,2015-09-18T20:27:14.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking
+,,,,,0,maxburluka/logistic-regression-wordnetlemmatizer-grids,Logistic Regression + WordNetLemmatizer + GridS,Max,,2022-01-05T15:16:39.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,tejasboss/whats-cooking,Whats cooking,Tejasboss,,2021-08-04T08:23:26.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,asmaaeltaher/what-s-cooking-ml-workshop-modeling,what's cooking - ML workshop - Modeling,Asmaa Eltaher,,2021-04-29T13:45:06.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,xevator/notebook6aa40e94bb,notebook6aa40e94bb,Xevator,,2021-03-10T06:17:53.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,arko007/logistic-regression-food-cuisine,Logistic Regression - Food Cuisine,Diganta,,2021-02-07T13:10:21.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,teramera/kernel3c404ec4df,kernel3c404ec4df,Vicky Pandey,,2020-07-17T06:03:13.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,denyskaliuzhnyi/what-scooking-multiclass-text-data-classification,What'sCooking(multiclass text data classification),Denys Kaliuzhnyi,,2020-04-25T17:06:31.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,sidagar/what-s-cooking,What's Cooking,Sidhant Agarwal,,2020-04-11T18:03:35.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,gaurav98/what-s-cooking,What's Cooking,Gaurav Bansal,,2020-04-11T10:19:33.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,samcoh223/random-forest-classifier,Random_Forest_Classifier,Sammie ,,2019-11-25T18:14:36.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,vicgwe/exploratory-data-analysis-what-s-cooking,"Exploratory Data Analysis: ""What's Cooking?""",Victor,,2019-10-06T05:58:10.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,shadylpstan/kernel1ceb500d89,kernel1ceb500d89,Deepankar Dey,,2019-06-11T06:56:53.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,prithiviraj/cooking-dl-notebook,Cooking DL Notebook,Prithivi Da,,2019-01-05T10:30:16.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,icepick001/eda-and-prediction-what-s-cooking,"EDA and prediction ""What's Cooking?""",Alex K,,2018-11-02T15:04:08.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,blackteckno/what-s-cooking-let-us-cook-those-data,What's Cooking? - Let us cook those data,BlackTeckNo,,2018-05-15T19:36:28.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,mandeep94/finding-cuisine,Finding cuisine,Mandy,,2017-04-08T19:26:10.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,eyawes/test57,test57,EyaWeslati,,2017-03-24T13:03:42.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,bfaviero/what-s-cooking-my-first-random-forest,What's cooking? My first Random Forest...,Bruno Faviero,,2017-02-13T03:18:17.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,stanislav/xgboost-by-sk-sda-team,xgboost by sk_SDA team,sk_Stanislav_Kruglik,,2015-12-20T23:16:32.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,mydm25/abcde,abcde,DM_@%,,2015-12-19T16:06:53.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,sleepbag/sleepbag-test-all,sleepbag-test-all,sleepbag,,2016-01-08T12:23:24.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,mohdatir/python-cooking,Python Cooking,Mohd Atir,,2015-12-15T08:33:56.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,digitalninja/neuralnetwork,NeuralNetwork,Arijit Deb,,2015-12-01T04:01:37.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,kabinash/word-lemma,word_lemma,abinash,,2015-12-02T05:17:45.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,jysandy/cooking-with-sklearn,Cooking with sklearn,Sandilya Jandhyala,,2015-11-20T01:56:02.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,klooonal/crysis-4,Crysis 4,CloakEngage,,2015-11-19T17:26:18.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,caro42/whatscooking-python,WhatsCooking(Python),CarO_42,,2015-11-16T11:57:06.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,mohdatir/tryingpython,tryingpython,Mohd Atir,,2015-11-13T04:15:55.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,smeschke/salt-or-soy-sauce,Salt or Soy Sauce,smeschke,,2015-10-22T21:55:32.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,thays42/ingredients-nb,ingredients_nb,Tyler Hays,,2015-10-22T05:31:27.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking
+,,,,,0,rahulgujjar/logistic-regression,Logistic Regression,Rahul Gujjar,,2022-04-22T22:07:41.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,rahulgujjar/whats-cooking-prediction-using-logistic,Whats-cooking prediction using logistic  ,Rahul Gujjar,,2022-04-22T20:33:51.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mdmaazkhan/what-scookingce,What'scookingCE,MdMaazKhan,,2022-03-17T21:41:44.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,svnsdhananjayreddy/what-s-cooking,What's Cooking,SATTI VIJAY NAGA SRI DHANANJAY REDDY RA1811033010085,,2021-11-29T15:18:29.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,nikhiln2312/what-s-cooking,what's cooking,Nikhil N,,2021-09-08T16:07:57.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,prathikshabr/foodcuisinelogisticregression-kaggleproject-4,FoodCuisineLogisticRegression-KaggleProject(4),Prathiksha B R,,2021-07-21T08:13:28.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,shayistamulla/notebook0069fc782d,notebook0069fc782d,Shayista Mulla,,2021-07-18T18:44:45.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,keerthanamreddy/what-s-cooking-week-3,What's cooking week 3, KeerthanaMreddy,,2021-07-14T16:00:31.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,pranjal6192/notebookd7f8b58306,notebookd7f8b58306,PRANJALKUL,,2021-07-07T13:09:21.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,moritti373737/notebook7d0c5e6e48,notebook7d0c5e6e48,moritti373737,,2021-07-02T08:01:50.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,rajeshwaris/what-s-cooking,What's-Cooking,Rajeshwari S,,2021-07-21T08:08:03.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sakshi0100/what-s-cooking,what's_cooking,Sakshi Singh,,2021-06-27T09:17:14.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sajjadwasti/notebook6d6a1520af,notebook6d6a1520af,Sajjad Wasti,,2021-06-07T15:32:05.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mgen2020/cooking,cooking,M Gen,,2021-06-05T05:05:37.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,annakozintseva/ml-rgr,ml_RGR,Anna Kozintseva,,2021-05-31T14:23:09.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,denimthangjam/what-s-cooking,::What's Cooking::,Denim,,2021-06-14T20:08:00.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,anu332/what-s-cooking-predictions-anuag,What's cooking predictions(Anuag),Anu332,,2021-06-07T06:48:50.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,aryaadesh/what-scookinglogreg,What'sCookingLogReg,Arya Adesh,,2021-05-22T14:05:09.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ssongji/what-s-cooking,What's cooking,ssongji,,2021-06-05T14:59:47.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,diyadodwad/notebook27beb7fc2c,notebook27beb7fc2c,diya dodwad,,2021-05-20T18:17:36.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,girijeshcse/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Girijesh Prasad,,2021-05-09T05:24:14.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sachingupta2212/notebook52dfd2447b,notebook52dfd2447b,Sachin Gupta,,2021-05-01T15:38:07.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sachingupta2212/notebook21fd396f96,notebook21fd396f96,Sachin Gupta,,2021-04-14T06:28:52.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,varunsimhareddy/what-s-cooking-food-cuisine-varun,What's cooking(FOOD CUISINE)-varun,VARUN SIMHA REDDY,,2021-04-04T08:45:01.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,rohitjagirdar/what-s-cooking,what's cooking,rohit jagirdar,,2021-06-17T13:04:04.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,nishita17/whats-cooking,whats-cooking,Nishita Agarwal,,2021-02-12T11:30:52.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dhawalsoni/whatscooking,whatsCooking,DHAWAL SONI,,2021-01-27T07:38:35.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sanskrutighadipatil/what-s-cooking-logistic-regression,What's Cooking-Logistic Regression,Sanskruti Ghadipatil,,2021-01-09T13:48:57.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,roohisharma/what-s-cooking-logistic-regression,What's cooking logistic regression,Roohi Sharma,,2020-12-07T19:47:54.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,semenedel/notebookffee6c6549,notebookffee6c6549,saptarsi halder,,2020-12-04T21:27:29.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ayusheeagarwal/what-s-cooking,What's Cooking?,Ayushee Agarwal,,2020-10-25T10:50:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kiatweitan/whats-cooking,whats_cooking,Wayne Tan,,2020-09-29T05:50:38.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dianaguevara/cooking2018,Cooking2018,Diana Guevara,,2020-07-10T15:08:22.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dhruvgupta2801/logistic-regression,Logistic Regression,Dhruv,,2020-05-23T19:53:49.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,chandra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Chandra Teja Reddy,,2020-05-14T06:26:56.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,hgimonet/cs5785-a2-p1p2,cs5785-a2-p1p2,Hortense Gimonet,,2019-10-05T21:10:38.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,janithwanni/what-s-cooking-exploration,What's cooking Exploration,Janith Wanniarachchi,,2019-05-16T06:06:56.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,wowachicka/what-s-cooking,What's Cooking?,Wei Jie,,2020-11-13T20:31:49.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,karlerik/asiasi,asiasi,karlerik,,2018-12-12T10:51:20.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dimanpro/my-svm-test,My SVM Test,Develop,,2018-12-04T08:42:20.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sakura0415/kernel7906e7a930,kernel7906e7a930,sho.takahashi,,2018-10-04T03:31:37.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,rajaguru/baseline-model-and-analysis,Baseline_model_and_analysis,GurunathRajagopal,,2018-09-15T14:54:24.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jnsmorinigo/linearsvc,LinearSVC,Jonás Morinigo,,2018-08-15T17:00:19.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ranjan1701/what-scooking-using-tf-idf-linearsvc,What'sCooking Using tf-idf/LinearSVC,Ranjan,,2018-07-26T14:41:22.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,zhoulingyan0228/cuisine-type-classification,Cuisine Type Classification,Lingyan Zhou,,2018-07-09T02:53:03.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jihyeseo/cooking-eda,cooking eda,Jihye Sofia Seo,,2018-05-08T15:51:40.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kishan94/whats-cooking,Whats Cooking,Kishan Maladkar,,2017-12-17T15:53:46.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,aadland6/pipelinetest,PipelineTest,MattAadland,,2017-10-02T17:20:36.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,payel96/bow-creation,BOW Creation,Payel,,2017-09-02T14:14:54.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,aadland6/what-s-cooking-scratch,What's Cooking Scratch,MattAadland,,2017-08-09T14:20:38.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,hsinwei/top-5-ingredients-as-pie-chart,Top 5 ingredients as pie chart,HsinWei,,2017-08-02T07:27:01.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,gullesnuffs/notebookb529364aa3,Notebookb529364aa3,Mårten Wiman,,2017-06-06T15:41:19.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sayak96/word2vec-with-ingredients,Word2Vec with ingredients,SayakChattopadhyay,,2017-05-31T10:41:57.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,vsmolyakov/notebook9737e4af50,Notebook9737e4af50,vsmolyakov,,2017-05-22T14:27:17.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,peterai/notebook2e742976ca,Notebook2e742976ca,peterai,,2017-05-23T07:46:01.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,inirmal/recipe-classification,Recipe Classification,eyeris,,2017-05-13T16:35:38.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dasshan/notebookb3c9e896f1,Notebookb3c9e896f1,Santanu Das,,2017-05-11T04:16:58.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kolasani05/notebook99e1e2f877,Notebook99e1e2f877,Sai Chaitanya,,2017-05-01T07:56:54.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,eyawes/notebook1f77ac6870,Notebook1f77ac6870,EyaWeslati,,2017-04-30T10:08:50.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jolavb/notebookc2b93c10e4,Notebookc2b93c10e4,Julian Barthold,,2017-04-05T01:58:31.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ajayasree/notebook1f2db7125d,Notebook1f2db7125d,Jayasree Akula,,2017-03-30T14:29:34.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,matan1965/what-s-cooking-notebook-try,What’s Cooking - notebook try,Matan,,2017-03-01T11:42:07.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,matan1965/what-s-cooking-try,What's Cooking? - try,Matan,,2017-03-05T15:22:27.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,shadowfax61/notebookcaa4a1b85e,Notebookcaa4a1b85e,Shadowfax,,2017-02-17T08:47:27.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,maximuz/notebook3286de68ac,Notebook3286de68ac,maximus,,2017-02-04T21:43:43.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/ghtijj,ghtijj,DebDas,,2017-02-04T09:01:17.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/bkmpmdzgm,bkmpmdzgm,DebDas,,2017-02-04T06:37:24.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/rescript123,rescript123,DebDas,,2017-02-02T14:53:32.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/sdgrml,sdgrml,DebDas,,2017-01-28T15:35:11.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/script4,script4,DebDas,,2017-01-28T15:30:20.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/notebook9e52ca9261,Notebook9e52ca9261,DebDas,,2017-01-27T20:44:22.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,debdaspur/script1,script1,DebDas,,2017-01-27T20:41:29.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,drpatrickchan/linear-svc-on-bag-of-words,Linear SVC on Bag of Words,Patrick Chan,,2017-01-12T03:32:29.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,nincha/notebook375afe1a57,Notebook375afe1a57,Nina,,2016-12-17T08:05:27.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/addddaa,addddaa,jass,,2016-12-15T00:42:36.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/decision,decision,jass,,2016-12-15T00:40:35.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/randommmmm,randommmmm,jass,,2016-12-15T00:32:59.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/uiiii,uiiii,jass,,2016-12-15T00:08:37.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/jjhjh-jh,"jjhjh,jh",jass,,2016-12-14T21:49:47.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/naive-bayes-with-bernoulli-distribution,Naive Bayes with Bernoulli distribution,jass,,2016-12-14T05:23:06.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/kaggle,kaggle,jass,,2016-12-12T00:39:02.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/trying,trying,jass,,2016-12-13T23:57:30.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/notebook12174afd50,Notebook12174afd50,jass,,2016-12-08T02:29:36.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/cooking-n-09a1a2f8,cooking_n 09a1a2f8,jass,,2016-12-08T00:01:32.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/kljhkjgkjkjhk,kljhkjgkjkjhk,jass,,2016-12-13T23:49:07.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/notebookf80e442e5f,Notebookf80e442e5f,jass,,2016-12-07T18:29:21.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/notebookfa77aada8f,Notebookfa77aada8f,jass,,2016-12-07T18:29:13.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/notebook5a20ad0daf,Notebook5a20ad0daf,jass,,2016-12-07T18:29:08.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/cultural-diffusion-by-recipes,Cultural Diffusion by Recipes,jass,,2016-12-11T23:16:34.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/cooking-n,cooking_n,jass,,2016-12-07T18:45:33.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/whatscooking-python,WhatsCooking(Python),jass,,2016-12-07T18:08:13.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jassss/neural-network-test,Neural Network test,jass,,2016-12-14T23:18:43.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jasminkaur/notebookdfda5c488b,Notebookdfda5c488b,JasminKaur,,2016-12-06T22:44:02.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kejessie94/notebookf9750c99c5,Notebookf9750c99c5,Katelyn,,2016-12-06T16:47:28.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kejessie94/cultural-diffusion-by-recipes-5917f41e,Cultural Diffusion by Recipes 5917f41e,Katelyn,,2016-12-05T18:38:53.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kejessie94/cultural-diffusion-by-recipes,Cultural Diffusion by Recipes,Katelyn,,2016-11-21T19:06:37.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,cnukaus/whatscooking-python-23,WhatsCooking(Python)23,Data Miner,,2016-11-19T11:13:05.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,cnukaus/whatscooking-python-22,WhatsCooking(Python)22,Data Miner,,2016-11-19T11:08:39.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ragsx123/notebookf8a32a84f2,Notebookf8a32a84f2,AnuragKaushik,,2016-11-19T04:03:46.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,gouthi/cultural-diffusion-by-recipes,Cultural Diffusion by Recipes,goutham,,2016-11-18T22:56:05.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,adithya9119/notebook27b32496bc,Notebook27b32496bc,Adithya Somanathan,,2016-11-17T20:18:40.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,tsleeve/notebookfbe9ee9280,Notebook499cfc832e,tsleeve,,2016-11-16T05:26:46.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,cnukaus/whatscooking-python-2,WhatsCooking(Python)2,Data Miner,,2016-11-15T11:04:51.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,cnukaus/whatscooking-python,WhatsCooking(Python),Data Miner,,2016-11-13T11:39:12.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mocanory/notebookd4bf51f17a,Notebookd4bf51f17a,Zhehan,,2016-11-12T17:27:25.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,nicklyz/rakedat,RakeDat,Nick Liu,,2016-11-11T18:44:53.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,shinto/notebook518bb3e59c,Notebook518bb3e59c,ShintoTheruvil,,2016-11-11T03:27:21.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,gogobrother/notebookcc8a9f4952,Notebookcc8a9f4952,gogobrother,,2016-11-10T13:36:47.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,gogobrother/notebookeaa234d6f5,Notebookeaa234d6f5,gogobrother,,2016-11-08T10:19:10.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lucasarb/random,random,Lucas Aragão Bessa,,2016-11-03T22:38:31.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lucasarb/weighted-randomness,weighted_randomness,Lucas Aragão Bessa,,2016-10-27T20:51:56.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lucasarb/weighted-random-selection,Weighted random selection,Lucas Aragão Bessa,,2016-10-27T20:34:14.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lucasarb/benchmark-prediction-always-italian,benchmark prediction(always italian),Lucas Aragão Bessa,,2016-10-27T20:12:57.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,hsjun99/notebook6e1919592e,Notebook6e1919592e,Seungjun,,2016-10-24T11:55:55.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lucasarb/testing,TESTING,Lucas Aragão Bessa,,2016-10-13T17:26:30.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sunnytonymichael/notebook600ace6cb1,Notebook600ace6cb1,Chang Sun,,2016-09-29T02:26:52.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ygdrasil/to-be-updated,To be updated,ChrisWang,,2016-09-28T17:26:25.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,spark08/spark08,spark08,tn338,,2016-09-24T04:36:12.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,darshanms1991/msd-notebook,MSD-notebook,M S Darshan,,2016-09-10T23:01:14.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mohanpb/svm-whatscooking,svm whatscooking,Bhambhani Mohan,,2016-04-28T09:41:26.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mohanpb/svm-script,SVM script,Bhambhani Mohan,,2016-04-28T09:00:41.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,xiaoqiangwu/test1,test1,XiaoqiangWu,,2016-03-19T14:51:54.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,shangku212991/hhhhh,hhhhh,shangku212991,,2016-02-23T00:36:18.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,hungryhoser/predict-recipe,Predict Recipe,Hungryhoser,,2016-02-01T19:48:24.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,aditya23/first-submission,First submission,Aditya,,2016-01-05T19:25:40.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,pawansingh/notebook-test,Notebook Test,PawanSingh,,2015-12-29T02:45:58.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,cawanpink/whatscooking-python,WhatsCooking(Python),nuhaa,,2015-12-22T18:30:18.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mhoch2/recipe,recipe,Matteo Hoch,,2015-12-20T23:36:55.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jerrythomas/word-lemma,Word Lemma,Jerry Thomas,,2015-12-20T03:54:50.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,readmyname/testtestset,testtestset,console.log(1),,2015-12-20T01:15:37.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kokoabc/avdafds,avdafds,&lt;LoLer,,2015-12-19T16:12:59.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,cookingmasterboy/neural-network-test,Neural Network test,bearstream,,2015-12-19T07:26:02.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,adason/tensorflow,TensorFlow,Adason,,2015-12-19T06:35:24.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sleepbag/mlp-start,MLP start,sleepbag,,2015-12-26T01:55:31.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sleepbag/xgb-test,xgb test,sleepbag,,2015-12-18T19:17:26.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,pappukrjha/whatscooking-python-1,WhatsCooking(Python)_1,Pulkit Jha,,2015-12-15T12:06:14.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,monikabhajipale/what-s-cooking,What's Cooking,Monika Bhajipale,,2015-12-16T06:46:46.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,gtiberti/whatscooking,whatsCooking,tibertig,,2015-12-14T23:03:23.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dsj529/recipetesting,RecipeTesting,DaleJosephs,,2015-12-14T17:53:05.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,pappukrjha/whats-cooking-nb,whats_cooking_nb,Pulkit Jha,,2015-12-16T09:19:26.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,danik1/dataload,dataload,sk_Danil Valiullin,,2015-12-13T22:24:01.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,tedx123457/test2,test2,teto,,2015-12-12T22:41:48.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,blackbox2/test2,test2,blackbox,,2015-12-12T20:38:00.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kabinash/mlpclassifier,MLPClassifier,abinash,,2015-12-11T19:26:40.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ahmedhanibrahim/using-logistic-regression,Using Logistic Regression,Ahmed Hani  Ibrahim,,2015-12-10T15:38:22.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jerryclc/whatscooking-new,whatscooking_new,Jerry,,2015-12-10T05:55:04.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dsj529/cookingforest-alt,CookingForest_alt,DaleJosephs,,2015-12-14T16:33:22.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,pappukrjha/whatscooking-python,WhatsCooking(Python),Pulkit Jha,,2015-12-15T09:11:47.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,fchaubard/asdfasdfasdfa,asdfasdfasdfa,fchaubard,,2015-12-08T20:47:29.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,datayo/testa,testa,Vu Anh,,2015-12-05T04:13:53.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,stardestroyer85/trying-to-predict-cuisine,Trying to predict cuisine,stardestroyer85,,2015-12-04T05:08:37.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,watdaf/number-of-training-test-set-recipes,Number of training/test set recipes,Justin Chen,,2015-12-04T02:27:58.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,dsj529/cookingforest,CookingForest,DaleJosephs,,2015-12-10T00:53:01.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kabinash/sgdv2,SGDV2,abinash,,2015-12-02T06:00:19.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kabinash/sgdclasifier,SGDClasifier,abinash,,2015-12-11T19:03:26.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kabinash/rfclassifier,RFClassifier,abinash,,2015-12-02T05:31:17.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,watdaf/testttt,testttt,Justin Chen,,2015-12-01T23:42:56.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sharongao/naive-bayes-with-bernoulli-distribution,Naive Bayes with Bernoulli distribution,XiaoruGao,,2015-11-29T15:20:42.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,ktalumi/testlll,testlll,kuanting,,2015-11-29T12:04:38.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,watdaf/watda,watda,Justin Chen,,2015-11-28T13:46:49.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lorifei/script4-lr,Script4_LR,lorifei,,2015-11-28T00:03:27.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,richjohnson/ingredient-exploration,Ingredient Exploration,Dick Johnson,,2015-11-28T03:44:44.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,shivaniginde/kaggle-model2,Kaggle_Model2,ShivaniGinde,,2015-12-02T02:12:42.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,elkali/testing,testing,ElkaLi,,2015-11-27T04:48:42.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,elkali/second,second,ElkaLi,,2015-11-27T04:47:31.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,elkali/first,first,ElkaLi,,2015-11-27T04:32:42.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,amandus/py-cooking-copyed,Py_Cooking_copyed,amandus,,2015-11-26T10:56:34.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lorifei/script2-randomforest-nocleaning,Script2_RandomForest_NoCleaning,lorifei,,2015-11-26T03:32:57.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lorifei/script1-naivemodel,Script1_NaiveModel,lorifei,,2015-11-26T03:24:42.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sleepbag/whatscooking-python,WhatsCooking(Python),sleepbag,,2015-11-27T16:44:34.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,tylerjharden/test-cook,Test Cook,tylerjharden,,2015-11-30T18:41:31.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lorifei/rf500trees,RF500Trees,lorifei,,2015-11-26T04:21:29.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jesscj85/what-s-cooking-naive-bayes,What's Cooking - TF-IDF,JessicaJones,,2015-11-23T20:30:33.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,lorifei/whatscooking1,WhatsCooking1,lorifei,,2015-11-23T02:25:56.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,terc11/123456,123456,JoshuaTerc,,2015-11-23T02:04:36.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sharongao/randomforrest-whats-cooking,RandomForrest whats cooking,XiaoruGao,,2015-11-22T20:11:04.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,terc11/12345,12345,JoshuaTerc,,2015-11-24T00:05:17.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,terc11/whatscooking-python-1,WhatsCooking(Python)1,JoshuaTerc,,2015-11-22T02:26:23.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sepharmstrong/cs-100-stuff,CS 100 stuff,Seph Armstrong,,2015-11-20T15:50:41.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,stardestroyer85/qwerty,qwerty,stardestroyer85,,2015-11-20T15:50:33.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,stardestroyer85/iughiuh,iughiuh,stardestroyer85,,2015-11-20T15:30:10.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,stardestroyer85/cs100-assignment1,CS100 Assignment1,stardestroyer85,,2015-11-20T15:06:56.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,stardestroyer85/cs100-assignment,CS100 Assignment,stardestroyer85,,2015-11-20T14:49:35.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,stardestroyer85/test123,test123,stardestroyer85,,2015-11-18T14:59:44.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,klooonal/nnagain,NNAgain,CloakEngage,,2015-11-19T15:27:07.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,klooonal/three,THree,CloakEngage,,2015-11-16T19:26:08.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,klooonal/testcook,testCook,CloakEngage,,2015-11-19T17:24:47.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,tofutiger/whatscooking-python,WhatsCooking(Python),TonyFu,,2015-11-17T03:12:45.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,tofutiger/getting-started,getting started,TonyFu,,2015-11-15T21:12:01.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,justoregano/totally-stolen-20-most-used-ingredients,Totally Stolen 20 Most Used Ingredients,JeffreyDo,,2015-11-11T10:34:17.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,averagedog/naive-bayes-with-bernoulli-distribution,Naive Bayes with Bernoulli distribution,KimpocalypseNow,,2015-11-30T20:55:50.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,guschadney/gaussian-naive-bayes,Gaussian Naive Bayes!,Gus Chadney,,2015-11-05T15:10:05.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jpereda/gaussianmodel,GaussianModel,JulianP,,2015-11-04T13:41:13.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,jpereda/test1,Test1,JulianP,,2015-11-01T20:35:43.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,karma86/naive-b,naive_b,Sergei Bugrov,,2015-10-26T23:27:55.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,bbx396/test123,test123,MichaelKrueger,,2015-10-25T19:46:59.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,sharongao/randomforrest,RandomForrest,XiaoruGao,,2015-10-23T12:49:46.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,djmmoss/adaboost,AdaBoost,Duncan Moss,,2015-10-22T23:08:09.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,djmmoss/gaussian-bayes,Gaussian Bayes,Duncan Moss,,2015-10-22T23:01:42.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,songpol/what-is-cooking,What is cooking?,Songpol,,2015-10-22T09:27:32.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,djmmoss/pca-randomforrest,RandomForrest,Duncan Moss,,2015-10-23T02:21:56.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,normallydistrbuted/simple-bag-of-words-with-rf,Simple Bag Of Words With RF (0.76428),Grant McKinnon,,2015-10-20T01:22:48.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,hechaohui/cooking-test,cooking_test,flyHc,,2015-10-18T13:14:26.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,tomaszgrel/simple-linear-svc,Simple linear SVC,TomaszGrel,,2015-10-17T19:48:06.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,saurabh2086/whatscooking2,whatscooking2,saurabh2086,,2015-10-14T02:06:16.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,abochkarev/testt,testt,АртемБочкарев,,2015-10-13T13:38:00.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,saurabh2086/whatscooking,whatscooking,saurabh2086,,2015-10-13T04:42:39.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,oliviawinn/testing,testing,OWinn,,2015-10-12T12:09:39.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,wendykan/demo-use,demo use ,Wendy Kan,,2015-10-12T06:45:10.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,themixedfermions/k-nearest-neighbor,k-nearest-neighbor,l-ray,,2015-10-10T06:45:59.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,kamchatsk/teste,teste,Kamal Singh,,2015-10-02T14:35:56.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,manuelatadvice/common-ingredients,Common ingredients,Manuel,,2015-09-25T09:00:37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking
+,,,,,0,mattgenkin/observing-the-features,Observing the features,Matvey Genkin,,2015-09-18T22:01:39.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking

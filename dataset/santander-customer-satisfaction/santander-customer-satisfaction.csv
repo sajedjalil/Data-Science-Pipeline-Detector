@@ -1,0 +1,770 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,prashant111/comprehensive-guide-on-feature-selection,Comprehensive Guide on Feature Selection,Prashant Banerjee,,2020-11-18T15:26:57.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],406,santander-customer-satisfaction
+,,,,,0,cast42/exploring-features,Exploring features,cast42,,2016-04-23T13:47:30.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],339,santander-customer-satisfaction
+,,,,,0,selfishgene/advanced-feature-exploration,Advanced Feature Exploration,David Beniaguev,,2016-04-03T19:12:59.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,santander-customer-satisfaction
+,,,,,0,tuomastik/pca-visualization,PCA visualization,Tuomas Tikkanen,,2016-03-08T10:46:25.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-with-early-stopping,XGBoost with early stopping,cast42,,2016-04-18T18:41:50.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,santander-customer-satisfaction
+,,,,,0,selfishgene/basic-feature-exploration,Basic Feature Exploration,David Beniaguev,,2016-04-12T09:02:24.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,santander-customer-satisfaction
+,,,,,0,yuansun/lb-0-84-for-starters,LB ~0.84 for starters,_孙鬼龙_,,2016-03-07T20:52:42.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,santander-customer-satisfaction
+,,,,,0,solegalli/feature-selection-with-feature-engine,Feature selection with Feature-engine,Sole,,2022-03-06T08:08:42.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,santander-customer-satisfaction
+,,,,,0,tks0123456789/data-exploration,Data exploration,tks,,2016-03-03T01:35:09.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,santander-customer-satisfaction
+,,,,,0,saisatish09/a-beginner-s-guide-to-feature-selection-methods,A beginner's guide to feature selection methods,Satish Varma,,2021-06-03T02:25:14.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,santander-customer-satisfaction
+,,,,,0,kalelpark/xgboost-for-kor-eng,"XGBoost for KOR,ENG",Wongi Park,,2021-12-21T06:06:56.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,santander-customer-satisfaction
+,,,,,0,adarshsng/extensive-advance-feature-selection-tutorial,Extensive: Advance Feature Selection Tutorial ! 🚀,KA-KA-shi,,2021-06-19T12:18:51.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,santander-customer-satisfaction
+,,,,,0,kobakhit/0-84-score-with-36-features-only,~0.83 score with 36 features only,Koba ,,2016-04-21T03:01:57.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,santander-customer-satisfaction
+,,,,,0,rahulanand0070/feature-selection,Feature_Selection,Rahul Anand,,2021-07-30T18:17:02.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,santander-customer-satisfaction
+,,,,,0,akshat0007/santander-customer-satisfaction-xgboost,santander-customer-satisfaction - XGBoost,Akshat Dubey,,2020-04-14T04:16:44.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,santander-customer-satisfaction
+,,,,,0,solegalli/customer-satisfaction-with-imbalanced-data,customer-satisfaction-with-imbalanced-data,Sole,,2021-10-14T16:19:31.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,santander-customer-satisfaction
+,,,,,0,ericcouto/using-10x-less-ram,Using 10x less RAM,Eric Couto,,2016-03-03T03:12:42.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,santander-customer-satisfaction
+,,,,,0,srodriguex/model-and-feature-selection-with-python,Model and feature selection with Python,Sergio Rodrigues,,2016-03-12T01:33:47.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,santander-customer-satisfaction
+,,,,,0,siddharthtyagi/feature-selection-techniques,Feature Selection Techniques,Siddharth Tyagi,,2021-06-02T19:40:07.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,santander-customer-satisfaction
+,,,,,0,carlmcbrideellis/tabnet-simple-binary-classification-example,TabNet: simple binary classification example,Carl McBride Ellis,,2020-11-03T12:00:38.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,santander-customer-satisfaction
+,,,,,0,carlmcbrideellis/tabular-classification-with-neural-networks-keras,Tabular classification with neural networks: keras,Carl McBride Ellis,,2021-10-07T06:29:10.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santander-customer-satisfaction
+,,,,,0,scirpus/python-xgb-lb-41047,Python XGB (LB 0.841047),Scirpus,,2016-04-12T12:18:54.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santander-customer-satisfaction
+,,,,,0,cast42/t-sne-manifold-visualisation,T-SNE manifold visualisation,cast42,,2016-04-17T18:17:36.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,santander-customer-satisfaction
+,,,,,0,xiziling/roc-curve,roc_curve,xiziling,,2016-04-17T06:45:06.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,santander-customer-satisfaction
+,,,,,0,randxie/genetic-algorithm-for-feature-selection,Genetic Algorithm For Feature Selection,Rand Xie,,2016-05-01T03:08:21.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santander-customer-satisfaction
+,,,,,0,cast42/xg-cv,XGBoost CV,cast42,,2016-04-02T11:20:24.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santander-customer-satisfaction
+,,,,,0,cast42/debugging-var3-999999,Debugging var3 -999999,cast42,,2016-04-24T07:01:39.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santander-customer-satisfaction
+,,,,,0,jlramirez/ciencias-de-datos-tarea-2,Ciencias de Datos. Tarea 2,Jorge Ramirez,,2019-03-01T13:55:46.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santander-customer-satisfaction
+,,,,,0,anokas/simple-mathematical-model-0-713,Simple mathematical model (0.713),anokas,,2016-04-30T16:19:28.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santander-customer-satisfaction
+,,,,,0,cast42/select-features-rfecv,Select features RFECV,cast42,,2016-04-30T17:44:06.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santander-customer-satisfaction
+,,,,,0,cast42/blending-2xrf-2xet-xgb,"Blending RF,GBT,ABC and XGB",cast42,,2016-04-23T20:56:24.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santander-customer-satisfaction
+,,,,,0,solegalli/nested-hyperparameter-spaces-with-optuna,nested-hyperparameter-spaces-with-optuna,Sole,,2021-10-15T16:41:32.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santander-customer-satisfaction
+,,,,,0,jerifate/customer-satisfaction-modeling-logistic-lgbm,Customer Satisfaction - Modeling[Logistic / LGBM],jerife,,2021-04-10T09:29:44.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santander-customer-satisfaction
+,,,,,0,grishmamodi/feature-selection,feature-selection,Grishma Modi,,2020-10-25T13:57:36.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santander-customer-satisfaction
+,,,,,0,zfturbo/feature-ranges,Feature ranges,ZFTurbo,,2016-04-25T21:44:33.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santander-customer-satisfaction
+,,,,,0,inversion/pls-visualization-2,PLS visualization 2,inversion,,2016-03-14T01:23:29.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santander-customer-satisfaction
+,,,,,0,pratik1120/customer-satisfaction-project,Customer Satisfaction Project,Pratik Mukherjee,,2022-02-27T17:21:00.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,cerolacia/customer-satisfaction,Customer Satisfaction,Anubha Singh,,2021-01-14T17:23:56.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,carlmcbrideellis/histogram-gradient-boosting-classifier-example,Histogram Gradient Boosting Classifier example,Carl McBride Ellis,,2020-11-12T20:31:33.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,funxexcel/santander-xgb-pipeline-auc-0-80,Santander XGB Pipeline AUC ~0.80,Kunaal Naik,,2020-10-29T10:56:19.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,godbless/feature-selection-1,xgb_classifier,Qian Xu,,2016-04-27T05:42:55.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,jjinking/basic-tensorflow-model,basic tensorflow model,jjinking,,2016-03-30T19:16:09.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,cast42/select-features-with-chi2-f-classif,Select features with chi2 & f_classif,cast42,,2016-03-23T19:47:46.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santander-customer-satisfaction
+,,,,,0,srinivasdasu/santander-customer-satisfaction,Santander_customer_satisfaction,srinivas,,2020-08-01T16:27:40.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santander-customer-satisfaction
+,,,,,0,arjoonn/outlier-analysis,Outlier analysis,ArjoonnSharma,,2016-04-01T14:44:09.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santander-customer-satisfaction
+,,,,,0,tuomastik/unique-feature-values-visualization,Unique feature values visualization,Tuomas Tikkanen,,2016-03-05T13:13:18.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santander-customer-satisfaction
+,,,,,0,rajighawi/simple-random-forest,Simple Random Forest,Arcane27,,2016-03-04T17:51:43.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santander-customer-satisfaction
+,,,,,0,saga21/customer-satisfaction-models-explainability,Customer satisfaction: models & explainability,Patrick Sánchez,,2020-07-29T11:05:44.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,ruchibahl18/customer-classification,Customer classification,ruchibahl,,2019-11-20T20:50:23.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,raviprakash438/filter-method-feature-selection,Filter Method Feature Selection,Ravi Prakash,,2018-06-13T06:26:07.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,vykhand/pca-and-k-means,PCA and K-Means,Andrey Vykhodtsev,,2016-05-02T00:42:09.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,cast42/correlation-pairs,Correlation pairs,cast42,,2016-04-17T13:40:40.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,anokas/xgb-with-validation-set,xgb with validation set,anokas,,2016-04-09T13:26:47.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,omarsultan/column-value-analysis,Column Value Analysis,Omar Sultan,,2016-03-17T20:50:22.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,cast42/random-forest,Random Forest,cast42,,2016-04-18T09:42:46.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santander-customer-satisfaction
+,,,,,0,ammarsayedtaha/santander-customer-satisfaction-xgboost,Santander Customer Satisfaction - xgboost,Ammar Sayed,,2022-01-22T13:02:54.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,akouaorsot/santander-customer-satisfaction-classification,Santander Customer Satisfaction - Classification,Akoua Orsot,,2021-06-28T13:06:39.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,ar89dsl/genetic-algo-feature-selection-hyperparameters,Genetic Algo: Feature Selection & Hyperparameters,Antz,,2021-01-11T11:58:02.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,funxexcel/santander-voting-classifier,Santander Voting Classifier,Kunaal Naik,,2020-10-29T11:31:08.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,funxexcel/santander-pipeline-auc-0-79,Santander Pipeline AUC - 0.79,Kunaal Naik,,2020-10-29T11:00:06.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,pedrocouto39/feature-selection-bayesian-optimisation,Feature-Selection & Bayesian-Optimisation,Pedro Couto,,2020-10-26T10:21:14.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,tecnologiamorpheus/morpheus-santander-v01,Morpheus-Santander-V01,Tecnologia Morpheus,,2020-07-31T23:19:31.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,ashuprasadgermany/ml-group-assignment,ML Group Assignment,Ashu Prasad,,2020-03-10T13:26:47.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,raviprakash438/lasso-and-ridge-regularisation,Lasso and Ridge Regularisation,Ravi Prakash,,2018-06-13T06:26:15.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,vasanthnagarajan/customer-satisfaction-data-analysis,Customer satisfaction _ data analysis ,Vasanth ,,2018-05-30T11:49:49.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,shahnawazakhtar/14th-place-private-lb-script,14th Place Private LB Script ,pip install kaggle,,2016-05-11T13:45:38.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,manels/xgb-10-features,XGB 10 features (0.837279 at LB),Manel,,2016-04-20T09:24:13.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,valerioorfano/voting-classifier,Voting Classifier, valerio orfano,,2016-04-19T17:15:10.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,anokas/xgb-lalala-in-python,xgb_lalala in python,anokas,,2016-03-30T13:27:31.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,gingayoshizawa/very-quick-data-check,Very Quick Data Check,Ginga,,2016-04-01T15:25:29.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,alphalep/neural-net-classifier,Neural Net classifier,alphalep,,2016-03-14T21:36:05.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,walterhan/similar-variable-groupings,Similar variable groupings,WalterHan,,2016-03-09T22:29:49.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,beiwenwu/data-explore-and-visual,Data Explore and Visual,:-D,,2016-03-09T08:48:47.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-after-removal-columns-std-0,XGboost after removal columns std==0,cast42,,2016-03-05T09:47:05.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santander-customer-satisfaction
+,,,,,0,brunovpm/hyperopt-rfe-classification-cluster-analysis,"Hyperopt, RFE- Classification & Cluster analysis",Bruno Correia,,2022-05-02T13:54:56.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,parisrohan/customer-satisfaction,Customer Satisfaction,Rohan Paris,,2022-03-03T08:05:48.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,solegalli/machine-learning-with-imbalanced-data,machine-learning-with-imbalanced-data,Sole,,2021-10-14T16:05:23.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,adityasingh3519/feature-selection-for-machine-learning,Feature Selection For Machine Learning,ADITYA RAJ,,2021-04-24T09:13:31.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,denisecheng/preprocessing-selectkbest-xgb,Preprocessing + SelectKBest + XGB,Denise Cheng,,2021-04-23T08:49:41.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,eudmar/customer-satisfaction-level-with-xgboost,Customer Satisfaction Level with XGBoost,Eudmar Almeida,,2019-10-01T14:00:51.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,linyemin/use-xgboost-and-split-trainset,Use XGBoost And Split TrainSet,linyemin,,2019-09-03T09:18:10.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,antonias/automatic-feature-selection-xgb-and-rf,Automatic Feature Selection + XGB and RF,Antonias,,2019-07-08T15:14:00.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,sanjib03/feature-selection-and-random-forest,Feature selection and Random Forest,sanjibdas,,2017-04-29T02:21:22.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,nishkgp/3-way,3 way,Nishant Kumar,,2016-04-21T18:40:31.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,ogrellier/xgb-first-step,XGB_first_step,olivier,,2016-04-19T07:39:58.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,tonygracious/pca-visualization-effect-of-normalizatio,PCA visualization_effect_of_normalizatio,Tony Gracious,,2016-04-13T13:14:57.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,anilcs/mlp-classifier,MLP Classifier,Anil Kumar,,2016-04-05T07:49:20.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,mordock/0-834842-reduced-to-100-features,0.834842 Reduced to 100 Features,Mordock,,2016-03-31T04:00:23.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-parameter-tuning-with-gridcv,XGBoost parameter tuning with GridCV,cast42,,2016-03-25T20:29:07.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,scirpus/nineteen-features,Nineteen Features,Scirpus,,2016-03-17T08:49:03.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,inversion/pca-visualization,PLS visualization,inversion,,2016-03-08T00:24:40.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,yuansun/test-1-0,test 1.0,_孙鬼龙_,,2016-03-07T20:37:31.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santander-customer-satisfaction
+,,,,,0,rocklen/santander-customer-satisfaction,🕺 Santander Customer Satisfaction 🕺,Prakhar Jain,,2022-03-29T18:45:25.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,williamleewc/cis-508-a1-p1,CIS 508 A1 P1,William Lee,,2021-09-12T06:27:14.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,nulikrishna/98-with-pca-randomforest,98% with PCA & RandomForest,nuli krishna,,2021-08-07T07:22:40.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,antoreepjana/deep-learning-approaches-for-tabular-datasets,Deep Learning Approaches for Tabular Datasets,antoreepjana,,2021-06-29T03:09:34.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,lair0826/eda-for-start-base-model,EDA_for_start_base_model,Jeong hyeon Kwon,,2021-05-31T11:46:05.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,seokinshim/customer-satisfaction-using-xgboost,Customer Satisfaction Using XGboost,SHIMSON,,2021-05-11T04:41:06.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,hikmetsezen/blend-boosting-best-score-stantander-cus-satisf,"Blend Boosting, Best Score Stantander Cus. Satisf.",Hikmet Sezen,,2021-05-06T13:01:35.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,leechinghoe/customer-satisfaction-xgboost-smote-gridsearch,Customer_Satisfaction_XGBOOST_SMOTE_GRIDSEARCH,Andrew Ching Lee,,2020-10-15T15:48:55.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,jinameliachoi/tutorial-santander-customer-satisfaction,[Tutorial] Santander Customer Satisfaction,Jin Amelia Choi,,2020-09-16T07:37:39.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,jitendrakumart/santander-customer-satisfaction,Santander Customer Satisfaction,JITENDRA KUMAR T,,2020-08-01T16:52:17.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,kashga/eda-data-clean-pyspark-pyspark-ml,EDA+ data clean +Pyspark +pyspark.ml,Kashga,,2020-03-14T16:59:40.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,mattkibassa/xgbclassifier-and-confusion-matrix,XGBClassifier and Confusion Matrix,mattkibassa,,2019-10-06T23:19:48.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,alefsegura/santander-prediction,santander_prediction,Alef Segura,,2019-04-02T20:39:41.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,scirpus/3-little-models,3 little models,Scirpus,,2017-03-08T12:12:05.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,mengtihlam/exploring-features,Exploring features,Meng-tih LAM,,2016-04-19T18:05:12.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,mohdatir/ensemble,ensemble,Mohd Atir,,2016-04-20T11:12:28.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,falaktheoptimist/xgboost-with-early-stopping,XGBoost with early stopping,Falak,,2016-04-17T17:18:08.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,ogrellier/first-step,first_step,olivier,,2016-04-17T08:55:34.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,cast42/calibratedcv-xgboost,CV XGBoost,cast42,,2016-04-30T21:08:51.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,nit254/0-84-score-with-36-features-only,~0.84 score with 36 features only,predict#,,2016-03-15T19:02:49.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,cast42/blend-2xrf-2xet-gb,"Blending 2xRF,2xET+GB",cast42,,2016-03-13T16:16:37.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-after-feature-pruning,XGBoost after feature pruning,cast42,,2016-03-12T17:23:25.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,cast42/2x-xgboost-rf-ensembling,2x XGBoost + RF ensembling,cast42,,2016-03-11T12:22:27.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,nikolayburlutskiy/xgboost-in-python-0-83x,xgboost in Python (~0.83x),NikolayBurlutskiy,,2016-03-08T10:37:28.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,rishikksh20/basic-data-analysis-and-prediction,Basic Data Analysis and prediction,Rishikesh,,2016-03-09T08:47:11.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santander-customer-satisfaction
+,,,,,0,kinnerakiran/guide-on-feature-selection,Guide on Feature Selection,Kinnera Kiran,,2022-07-01T09:09:51.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,patryckaug/gabriel-patryck-data-masters-2022,Gabriel Patryck - Data Masters - 2022,Gabriel Patryck,,2022-05-25T00:07:30.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,hsiangjenli/scikit-learn-santander-customer-satisfaction,scikit-learn__Santander Customer Satisfaction,Hsiang-Jen Li,,2022-03-02T15:59:35.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,rsesha/featurewiz-vs-feature-engine-in-imbalanced-data,FeatureWiz vs. Feature-engine in Imbalanced Data,RSESHA,,2022-05-23T01:05:12.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,antonmikhalev/groupby-lama-new-features-3,GroupBy.LAMA_new_features-3,mikhalev-av31,,2021-08-21T20:19:40.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,shefalishettyy/feature-selection,Feature_Selection ,Annomoys,,2021-05-20T08:40:22.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,domartinez992/tabnet-simple-binary-classification-example,TabNet: simple binary classification example,Daniel Martínez ,,2021-04-27T01:54:32.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,dogdriip/santender-pipeline-xgb-selectkbest-pca,"Santender: Pipeline(XGB, SelectKBest, PCA)",Dogdriip,,2021-01-04T10:23:23.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,chachiawacef/95-accuracy-santander-customer-satisfaction,95%_Accuracy_Santander_Customer_Satisfaction,Chachia Mohamed Wacef,,2020-12-23T18:23:51.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,leandrofusco88/santander-customer,Santander Customer,Leandro Fusco,,2021-02-04T15:35:30.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,meet3010/santander-customer-satisfcation-using-cnn,Santander Customer Satisfcation using CNN,Meet Trivedi,,2020-06-10T23:06:15.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,ayakhaled2/santander-customer-satisfaction,Santander Customer Satisfaction,Aya Khaled,,2020-03-06T16:04:54.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,bartomolina/feature-exploration-and-dataset-preparation,Feature exploration and dataset preparation,Barto Molina,,2020-01-15T06:49:59.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,adage14175/santander-customer-satisfaction-notebook2,santander customer satisfaction notebook2,Shrihari Naik,,2019-12-24T17:15:56.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,hedluund/santander-task-using-pyspark,Santander task using PySpark,Jesper Hedlund,,2020-01-22T14:54:42.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,vikasmalhotra08/regularization-lasso-ridge,Regularization - Lasso & Ridge ,Nebula,,2019-05-31T00:29:08.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,naresh31/santander-customer-satisfaction,Santander Customer Satisfaction,Naresh Kumar,,2019-01-16T13:31:53.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,mitulshah97/santander,Santander,Mitul Shah,,2018-12-13T17:21:09.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,hooocp/xgboost-lr,xgboost+lr,Hooo,,2017-06-12T12:09:30.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,gouxute1/3rd-solution-test,3rd_solution_test,gouxute,,2016-12-26T11:34:10.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,gouxute1/xgboost-and-simple-data-cleaning,Xgboost and simple data cleaning,gouxute,,2016-12-21T11:41:50.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,hhh920406/exploring-features,Exploring features,Yam,,2016-08-26T03:29:06.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,fedoreme69/xgboost-lr,xgboost+lr,1V9,,2016-05-27T10:02:00.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,oxjlisa/customersatisfaction-v1,CustomerSatisfaction_V1,OU,,2016-05-03T12:14:07.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,scirpus/plain-ol-average,Plain ol' average,Scirpus,,2016-04-30T13:52:44.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,ganliu/xgb-boostrap,XGB Boostrap,Gan,,2016-04-29T19:19:39.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,paullo0106/blending-rf-gbt-abc-and-xgb,"Blending RF,GBT,ABC and XGB",Paul,,2016-04-28T14:42:23.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,gilbar/visualizing-data,Quick and Dirty Data Visualization,gab,,2016-05-01T16:28:43.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cmarchal/xgb-800-5,XGB 800 5,cmarchal,,2016-04-27T17:37:34.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,mohdatir/santander-script,Santander Script,Mohd Atir,,2016-04-26T18:05:42.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,sjtudesigner/adaboost,Adaboost,scihacker,,2016-04-26T10:38:22.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,brajen259/feature-exploration,Feature_Exploration,br@zz,,2016-04-29T10:40:13.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-cv-3,XGBoost CV 3,cast42,,2016-04-24T14:15:17.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/xgb-for-features-selection-0-837,XGB for features selection (0.837),cast42,,2016-04-30T14:54:12.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,tonirincon/debugging-var3-999999,Debugging var3 -999999,ToniRincon,,2016-04-22T12:13:24.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,manels/simulating-lb,Simulating LB,Manel,,2016-04-22T12:23:46.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,nooreen/santander-data-exploration,Santander Data Exploration,Nooreen Dabbish,,2016-04-30T03:32:39.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,gilbar/xgbooting-features,XGBooting Features,gab,,2016-04-21T00:48:45.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,animesh371/pipeline,Pipeline,AnimeshGaitonde,,2016-04-20T17:28:49.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,mohdatir/koba-script,koba_Script,Mohd Atir,,2016-04-30T07:25:28.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,gilbar/xgboost-learning-curve,XGBoost Learning Curve,gab,,2016-04-20T03:20:43.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/random-forest-crval,Random Forest CrVal,cast42,,2016-04-20T13:05:18.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,anneliesvroman/cv-xgboost,CV XGBoost,AnneliesVroman,,2016-04-19T14:25:27.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,mohdatir/xgboost-with-early-stopping,XGBoost with early stopping,Mohd Atir,,2016-04-19T09:21:09.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/roc-curve-with-random-forest,roc_curve with random forest,cast42,,2016-04-23T11:36:19.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-with-gridsearchcv-and-n0,XGBoost with GridSearchCV and n0,cast42,,2016-04-17T09:18:21.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/dt-for-var15-var38-saldo-var30-and-n0,"DT for var15, var38, saldo_var30 and n0",cast42,,2016-04-15T10:37:22.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/cv-xgboost-2,CV XGBoost 2,cast42,,2016-04-24T14:29:51.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/draw-folds,Draw folds,cast42,,2016-04-14T15:45:40.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,mohdatir/trial2,trial2,Mohd Atir,,2016-04-13T08:10:34.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-cv-rfecv-features,XGBoost CV RFECV features,cast42,,2016-04-14T13:44:49.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,mohdatir/trial,trial_new,Mohd Atir,,2016-04-20T11:09:12.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,chsovankrishna/santander-v9,Santander_v9,sovankrishna,,2016-04-12T11:26:36.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,kes367/simple-random-forest,Simple Random Forest,kes367,,2016-04-12T01:18:36.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,gy1122/test-script,test_script,Ger Yang,,2016-04-07T22:27:07.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,chabir/feature-selection-basic-002,feature selection basic 002,eagle4,,2016-04-11T15:20:39.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,zhuangh/santander-hz,santander_hz,zhuangh,,2016-04-05T18:27:45.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,chabir/advanced-feature-exploration,Advanced Feature Exploration,eagle4,,2016-04-08T16:34:22.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,azsefi/xgboost-with-early-stopping,XGBoost with early stopping,shappy,,2016-04-03T12:28:41.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,towhid1/checking,checking ,Nurul Akter Towhid,,2016-04-03T06:06:43.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,kes367/nntanh1,NNtanh1,kes367,,2016-04-01T22:57:28.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,kes367/nntanh,NNtanh,kes367,,2016-04-01T22:26:02.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,liviux/what-s-saldo-var30,What's `saldo_var30`?,liviu,,2016-04-01T13:31:55.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/binning-var15-age,Binning var15 (age),cast42,,2016-03-31T12:31:02.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/basic-feature-exploration,Basic Feature Exploration,cast42,,2016-03-30T14:57:07.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,anilcs/xgboost-with-early-stopping,XGBoost with early stopping,Anil Kumar,,2016-03-30T11:25:39.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/dimensionality-reduced-dataset,Dimensionality Reduced Dataset,cast42,,2016-03-27T17:11:11.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,aissaelouafi/simple-ensemble-method,Simple Ensemble Method,AissaElOuafi,,2016-03-25T23:59:33.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,scirpus/genetic-programming-3,Genetic Programming,Scirpus,,2016-03-25T10:16:02.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,anilcs/feature-sellection-xgboost-with-cv,feature sellection xgboost with cv,Anil Kumar,,2016-03-24T19:58:19.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,clapika/data-exploration,Data exploration,Clapika,,2016-03-24T18:21:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,skyjiao/simple-blending,simple blending,sky,,2016-03-24T10:23:01.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,yifanxie/data-splitting-notebook,Data Splitting Notebook,Yifan Xie,,2016-03-23T02:52:45.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,rishiraj/featureselectionxgb,featureselectionxgb,Rishiraj,,2016-03-21T07:56:27.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,sanjaykrishna/customers-data,Customers data,Sanjay,,2016-03-20T20:00:39.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,madjack/crappy,crappy,Mad Jack,,2016-03-23T06:29:09.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/select-features-with-randomizedlogisticr,Select features with RandomizedLogisticR,cast42,,2016-03-18T20:13:19.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,insaff/santander-classify-customers-xgb,santander-classify-customers-xgb,Insaf Ashrapov,,2016-03-18T12:18:19.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,insaff/santander-classify-customers-modified,santander-classify-customers-modified,Insaf Ashrapov,,2016-03-17T13:50:33.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,sjtudesigner/pca-svm-1,PCA+SVM,scihacker,,2016-04-25T09:32:31.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,enriquesantos/auc-0-88,AUC 0.88,Enrique,,2016-03-15T22:36:33.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,ctrlaltdelete/nn-script,neural network starter (~0.80),Sergei Sundukov,,2016-03-17T12:00:27.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,paullo0106/using-10x-less-ram,Using 10x less RAM,Paul,,2016-03-14T16:33:46.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,techieram/santander-classify-customers-forked,santander-classify-customers-forked,msram,,2016-03-15T13:22:59.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,rgaddati/santander1,Santander1,Rajkiran Gaddati,,2016-03-15T05:49:36.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/2x-xgboost-ensembling,2x XGBoost ensembling,cast42,,2016-03-10T21:44:47.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,alexxanderlarko/xgb-0903,xgb_0903,Alexander  Larko,,2016-03-09T07:26:47.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/debugging-1,Debugging,cast42,,2016-03-09T18:43:24.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,ouranos/simple-lasagne-neural-network,Simple Lasagne Neural Network,Ouranos,,2016-03-10T12:11:58.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/random-forest-cv,Random Forest CV,cast42,,2016-03-07T18:28:20.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,cast42/xgboost-with-early-stopping-stratify,"XGBoost with early stopping, stratify, ",cast42,,2016-03-06T18:31:10.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,agxcul/important-feature,important_feature,agxcul,,2016-03-05T14:15:50.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,eymaros/using-10x-less-ram,Using 10x less RAM,Alexandr Karpovich,,2016-03-04T08:15:24.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santander-customer-satisfaction
+,,,,,0,branlantthodorine/santander-customer-satisfaction,Santander customer satisfaction,Branlant Théodorine,,2022-05-24T13:51:22.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ghf8nb9v7ns9dkxl/challenge-santander,Challenge Santander,Nicolas Shahpazian,,2022-04-28T20:31:10.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,raphaelcs/raphaelcs-santander-customer-satisfaction,raphaelcs-santander-customer-satisfaction,Raphael CHEN,,2022-04-18T15:54:23.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s903124/to-the-top-v2-training-mlp,To the TOP v2 training MLP,903124,,2022-04-09T06:48:41.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s903124/to-the-top-v2-training-cnn,To the TOP v2 training CNN,903124,,2022-04-03T18:28:16.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,omkarkhandekar/customer-satisfaction-try-with-xgb-pca-smote,"Customer Satisfaction try with XGB, PCA & SMOTE",Omkar Khandekar,,2021-12-10T23:19:30.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s903124/to-the-top-v2-training-rf,To the TOP v2 training RF,903124,,2022-04-09T06:48:47.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s903124/to-the-top-v2-training-logistic,To the TOP v2 training logistic,903124,,2022-04-09T06:48:50.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s903124/to-the-top-v2-training-untuned,To the TOP v2 training untuned,903124,,2022-04-08T10:38:13.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s903124/to-the-top-v2-training,To the TOP v2 training,903124,,2022-04-03T06:05:29.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kishu1669/santandar-saurabh,Santandar_Saurabh,Saurabh K,,2021-09-13T06:00:17.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kishu1669/version-1,version_1,Saurabh K,,2021-09-13T04:26:32.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,antonmikhalev/lightautoml-santander-customer-satisfaction-2,LightAutoML - santander-customer-satisfaction-2,mikhalev-av31,,2021-08-19T08:56:58.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,omeshkaushik/gaussiannb-pca,GaussianNB_PCA,Omesh Kaushik,,2021-07-30T22:35:32.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,omeshkaushik/xgboost-smote,XGBoost_SMOTE,Omesh Kaushik,,2021-07-28T20:28:02.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,baarreten/classification-with-feature-engine-library,Classification with Feature-Engine Library,Başar Üreten,,2021-07-18T17:17:58.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,domartinez992/regresi-n-log-stica,Regresión Logística,Daniel Martínez ,,2021-04-27T00:30:15.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bakivh/santander-sat,santander sat,Дмитрий Нижаде,,2021-04-01T04:17:03.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mingleisong/autogluon-10k,AutoGluon 10K,minglei song,,2021-03-09T06:20:19.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shuklrohit/santander-customer-satisfaction-all-in-one,Santander customer satisfaction: All in one,Rohit Shukla,,2020-12-10T08:29:14.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,softhoon/santander-customer-satisfaction,💻 Santander Customer Satisfaction 💻,Seunghun Shin,,2020-12-06T09:40:02.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,razoli/using-undersampling-and-oversampling-with-xgboost,Using Undersampling and Oversampling with XGBoost,MuriloRazoli,,2020-12-02T18:08:29.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hrideshkohli/customer-satisfaction-prediction-cnn-tf2-0-keras,Customer satisfaction prediction-CNN TF2.0 Keras ,Hridesh Kohli,,2020-11-24T14:08:25.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,slavavvv/santander-svyatoslav-linear-reg,Santander _ Svyatoslav _ linear reg,Slava slava,,2020-11-16T15:33:29.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hiro1005/santander-customer-satisfaction,Santander Customer Satisfaction,Akihiro Kondo,,2020-10-05T05:55:26.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,thkim072/santander-customer-satisfaction,Santander Customer Satisfaction,thkim072,,2020-08-31T14:39:41.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sreevats2201/imbalanced-data-resampling-technique,Imbalanced Data - Resampling technique,Sreevatsan Murthy,,2020-06-11T07:54:09.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sirslade/kernel6924c55248,kernel6924c55248,SirSlade,,2020-07-20T21:39:42.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,gugankailasam/santander-customer-satisfaction-svm-neuralnet,"santander-customer-satisfaction - SVM, NeuralNet",Gugan Kailasam,,2020-04-14T11:09:35.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bartomolina/xgboost,XGBoost,Barto Molina,,2020-01-15T16:34:41.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bartomolina/decision-tree-and-random-forest,Decision Tree and Random Forest,Barto Molina,,2020-01-15T04:10:21.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bartomolina/resampling,Resampling,Barto Molina,,2020-01-15T03:26:23.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bartomolina/pca-principal-component-analysis,PCA - Principal Component Analysis,Barto Molina,,2020-01-15T01:13:34.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mogado/santander-bank-kneighbors-algorithm,Santander Bank KNeighbors Algorithm,M.GADALLAH,,2020-01-08T13:14:22.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shiku0/santander-customer-satisfaction-analysis,santander customer satisfaction analysis,Shivam Kumar,,2019-10-21T18:05:56.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,aeiyuni/santander-customer-satisfaction,Santander: Customer Satisfaction,Aeiyuni,,2019-10-16T10:16:53.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ammar0211/santander-customer-satisfaction,santander_customer_satisfaction,Ammar Akhtar,,2019-10-18T05:13:19.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wmiscio/kernel524ef33d59,kernel524ef33d59,WalterDiMiscio,,2019-09-12T21:12:43.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,marlonferrari/santander-customer-satisfaction,Santander Customer Satisfaction,Marlon Ferrari,,2020-04-02T19:59:21.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anilkay/experiments,experiments,anil kaynar,,2019-07-16T20:39:53.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rolandas1369/santander-customer-satisfaction,Santander Customer Satisfaction,Rolandas Butkevičius,,2019-07-13T09:20:21.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zygimantaskazlauskas/bclassproject-santandercustomersatisfaction,bClassProject_SantanderCustomerSatisfaction,Žygimantas Kazlauskas,,2019-07-08T19:11:32.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ohi091/pca-visualization-on-customer-satisfaction, PCA visualization on Customer Satisfaction,Ohida Binte Amin,,2019-06-10T12:22:23.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wassim10/santander-happy-costumer,santander happy costumer,wassim henia,,2019-04-14T22:05:08.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kamusone/prediction-model-with-xgboost,Prediction model with xgboost,kamus,,2019-04-11T08:43:44.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,naushads/customer-happiness-prediction,Customer Happiness Prediction,Naushad Shukoor,,2019-03-26T11:18:09.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bakshitarun/santander-customers,Santander Customers,tarun bakshi,,2019-03-02T23:15:31.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rakesh6184/lasso-and-ridge-regularisation-286269,Lasso and Ridge Regularisation 286269,Rakesh Kumar,,2018-09-15T06:09:07.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rakesh6184/lasso-and-ridge-regularisation,Lasso and Ridge Regularisation,Rakesh Kumar,,2018-09-16T05:16:21.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,gauravgupta1991/eda-book-ipynb,eda_book.ipynb,GauravGupta,,2018-05-20T10:20:55.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,seifeleslam/udacity-capstone-santander-customer-satisfaction,Udacity Capstone - Santander Customer Satisfaction,Seif El-Eslam,,2018-05-29T21:26:15.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jihyeseo/santandar-happy-customer-eda-binary-371-columns,"santandar happy customer eda, binary, 371 columns",Jihye Sofia Seo,,2018-05-08T10:59:26.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kcbighuge/santander-customer-satisfaction-eda, Santander Customer Satisfaction EDA,James Lee,,2018-05-04T03:18:27.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kcbighuge/santander-customer-satisfaction-with-xgboost,Santander Customer Satisfaction with xgboost,James Lee,,2020-06-15T05:59:50.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xagor1/santander-part-2,Santander Part 2,Chris Kirkham,,2018-04-11T21:36:08.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alinesantos/projeto-am-basics,Projeto AM - basics,AGSantos,,2017-12-06T12:03:25.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rspadim/adversarial-validation-santander,Adversarial Validation - Santander,Roberto Spadim,,2017-10-27T13:29:14.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,haakanpersson/santander-customer-satisfaction-example,Santander Customer Satisfaction Example,Håkan Persson,,2017-07-01T15:34:31.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hkreddy/notebookd3e55a8c34,Notebookd3e55a8c34,HarinadhKunapareddy,,2017-06-05T04:03:09.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wdarwinjr/icmc-intro-aprend-m-quina-06-2017-grupo-darwin,ICMC Intro Aprend. Máquina 06/2017 - Grupo DARWIN,Darwin,,2017-06-10T20:47:11.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/141414414114tet4221241412141421411414,141414414114tet4221241412141421411414,Nika Ioramishvili,,2017-05-24T08:59:24.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/414114tet4221241412141421411414,414114tet4221241412141421411414,Nika Ioramishvili,,2017-05-23T16:18:50.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wkuzhpkb/data-analysis-of-santander-customer-satisfaction,Data analysis of Santander Customer Satisfaction ,WKUZHPKB,,2017-05-11T07:05:41.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/414114tet42212414121414,414114tet42212414121414,Nika Ioramishvili,,2017-05-09T09:59:57.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,silverlaws/my-trial,My trial,BIBO,,2017-05-07T12:00:10.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/python-xgb-lb-0-841047-1411414,Python XGB (LB 0.841047)1411414,Nika Ioramishvili,,2017-05-07T09:10:44.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/python-xgb-lb-0-841047-41,Python XGB (LB 0.841047)41,Nika Ioramishvili,,2017-05-05T12:27:05.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/python-xgb-lb-0-84104712412441241214,Python XGB (LB 0.84104712412441241214,Nika Ioramishvili,,2017-05-04T16:36:25.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jiqiujia/xgb-feat-selection-and-param-tuning,XGB- Feat selection and Param Tuning,K_Augus,,2017-05-02T05:37:40.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sanjib03/feat-selection-and-prediction-with-xgb-script,Feat selection and prediction with XGB - Script,sanjibdas,,2017-05-01T00:56:23.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sanjib03/xgb-feat-selection-and-param-tuning,XGB- Feat selection and Param Tuning,sanjibdas,,2017-05-01T00:00:35.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/4221241412,4221241412,Nika Ioramishvili,,2017-04-25T13:50:33.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ioramishvili/python-xgb-lb-0-841047-141,Python XGB (LB 0.841047)141,Nika Ioramishvili,,2017-04-25T09:36:41.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,datascientist78/santandercustsatis,SantanderCustsatis,datascientist78,,2017-04-23T13:30:07.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,datascientist78/notebook87b35210e8,Notebook87b35210e8,datascientist78,,2017-04-23T00:33:25.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,klykly/notebook3450199ed4,Notebook3450199ed4,klykly,,2017-04-21T05:15:40.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,airelly/notebookc18e4ef1e5,Notebookc18e4ef1e5,Airelly,,2017-04-13T09:11:04.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rainobowzhang/notebookf0475dae2f,Notebookf0475dae2f,zhanglei,,2017-04-12T12:19:01.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kamalsam/santander-customer-satisfication-practice,Santander Customer Satisfication Practice,Kamalesh,,2017-03-30T15:29:31.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,leagto/santander-customer-satisfaction-leandro-soares,Santander Customer Satisfaction - Leandro Soares,Leandro Soares,,2017-05-02T03:21:35.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,leagto/notebook231e0951b3,Notebook231e0951b3,Leandro Soares,,2017-03-28T22:32:36.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,martianlee/notebook4c1f363a40,Notebook4c1f363a40,李华阳Martian,,2017-03-28T06:31:38.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,leagto/notebookca22f761dc,Notebookca22f761dc,Leandro Soares,,2017-03-28T01:05:00.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,martianlee/notebooke7fcc2484e,Notebooke7fcc2484e,李华阳Martian,,2017-03-27T13:38:14.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,martianlee/notebookc61bff6b38,Notebookc61bff6b38,李华阳Martian,,2017-03-27T13:14:27.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,martianlee/notebooke35cb8058c,Notebooke35cb8058c,李华阳Martian,,2017-03-27T13:13:29.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,matheusmesquita/test1,Test1,Matheus Mesquita ,,2017-03-27T11:45:02.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,martianlee/notebook69c32f082e,Notebook69c32f082e,李华阳Martian,,2017-03-27T11:19:07.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,gurulhu/0-83-score-with-36-features-only,~0.83 score with 36 features only,Gurulhu,,2017-03-29T13:36:06.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,knighthawk989/notebooke327f20a9b,Notebooke327f20a9b,Sisir Sarkar,,2017-03-07T13:03:48.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,avishek/fork-of-feat-exploration,Fork of feat_exploration,Avishek,,2017-02-24T15:18:12.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yananwu/notebook87e4707b6d,Notebookccfb057ca9,wuyanan,,2017-02-24T02:04:00.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,halbuquerque/notebook387a151713,Notebook387a151713,Henrique,,2017-02-23T20:59:44.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,felamine/notebook3cf21e8ac8,Notebookc439a34da7,Mohamed F,,2017-02-21T13:52:25.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,thiagomatos/exploring-features,Exploring features,Thiago Matos,,2017-02-11T04:32:46.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,beletecheneke/exploring-features,Exploring features,beletecheneke,,2017-02-07T04:33:26.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cpngo0/exploring-features,Exploring features,ChristinaNgo,,2017-02-05T00:07:16.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,essalj/exploring-features,Exploring features,Lasse Jeremiassen,,2017-01-31T14:54:43.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,essalj/xgboost-and-simple-data-cleaning,Xgboost and simple data cleaning,Lasse Jeremiassen,,2017-01-30T10:37:21.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,johnsondata/exploring-features-3b8d69b5,Exploring features 3b8d69b5,FullySelfDrivingTang,,2017-01-25T22:33:11.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,elpeepirate/exploring-features,Exploring features,elpeepirate,,2017-01-24T17:24:25.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jk2015/pca-and-k-means-copy,PCA and K-Means Copy,jun4ai,,2017-01-22T15:44:06.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jk2015/pca-and-k-means,PCA and K-Means,jun4ai,,2017-01-22T15:43:24.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xunxun87/exploring-features,Exploring features,XunWang,,2017-01-18T19:02:25.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,halbuquerque/notebooka7a903dcf4,Notebooka7a903dcf4,Henrique,,2017-01-13T21:40:20.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,imcodebreaker/notebook433c9d4125,Notebook433c9d4125,Ayushman Gupta,,2017-01-09T13:15:35.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,deathlyhallows/notebook9a1de8f8f4,Notebook9a1de8f8f4,ManuAgarwal,,2017-01-06T07:53:51.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,deathlyhallows/cds12345,cds12345,ManuAgarwal,,2017-01-06T07:52:55.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,simmoncn/notebookedac549646,Notebookedac549646,SimmonLiu,,2017-01-05T07:57:59.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,attila007/notebook3500e3219a,Notebook3500e3219a,Attila,,2017-01-03T22:57:17.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jcpreddy/data-exploration,Data exploration,priyaranjanreddy,,2016-12-31T21:08:26.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,russianmike/notebook24dfe31d8b,Notebook24dfe31d8b,RussianMike,,2016-12-22T00:06:58.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,abhishekaarush/exploring-features,Exploring features,Abhishek Kumar,,2016-12-21T10:23:16.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,subhadeepb4/feature-ranges,Feature ranges,Subhadeep Bhattacharyya,,2016-12-20T16:20:37.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,muriyizz/gogogo,GoGoGO,my_GOD,,2016-12-19T14:23:28.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sajal0jain/exploring-features,Exploring features,Sajal Jain,,2016-12-18T03:18:38.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,richarlee/satisfaction-richarlee,satisfaction-richarlee,CharlLee,,2017-01-04T10:50:11.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mukulvirmani/exploring-features,Exploring features,Mukul Virmani,,2016-12-11T22:18:57.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,dmrasjvj/notebookda772c392a,Notebookda772c392a,Shubham,,2016-12-10T13:36:23.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ponadto/correlation-pairs,Correlation pairs,MTDzi,,2016-12-08T08:16:11.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ponadto/exploring-features,Exploring features,MTDzi,,2016-12-08T08:14:38.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alexun/notebook7cf3afa1f3,Notebook7cf3afa1f3,XunGao,,2016-12-07T03:59:55.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jinger123/exploring-features-73e40a63,Exploring features 73e40a63,guomeizi,,2016-12-06T11:55:27.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,dpdeparture/notebook53ffaf8593,Notebook53ffaf8593,PengDong,,2016-12-05T05:53:10.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,maneesh5/exploring-features,Exploring features,maneesh,,2016-12-04T14:06:51.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prakharagarwal2511/exploring-features,Exploring features,Prakhar Agarwal,,2019-11-01T04:33:01.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zard1991/exploring-features,Exploring features,Kenny,,2016-12-01T13:59:48.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,essalj/notebook6bbca49a41,Notebook6bbca49a41,Lasse Jeremiassen,,2016-11-28T05:29:04.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,essalj/notebooke82ab914f8,Notebooke82ab914f8,Lasse Jeremiassen,,2016-12-04T14:22:32.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,essalj/notebook1afa3fd7e3,Notebook1afa3fd7e3,Lasse Jeremiassen,,2016-11-28T05:18:02.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,elhamdaouiabdelmajid/notebookb601273d78,Notebookb601273d78,ELhamdaoui AM,,2016-11-28T01:21:09.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hansky/exploring-features-656bfe37,Exploring features 656bfe37,HanGuo,,2016-11-24T04:24:39.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,psahoo/exploring-features,Exploring features,Pallavi,,2016-11-21T23:04:54.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,johnsondata/exploring-features,Exploring features,FullySelfDrivingTang,,2016-11-17T07:08:12.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pulcherada/notebookc23bce996d,Notebookc23bce996d,pulcherada,,2016-11-16T09:59:13.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,christina1994/notebook5c6416cedf,Notebook5c6416cedf,Christina,,2016-11-14T12:02:59.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,dimamir999/notebook1bb5df895a,Notebook1bb5df895a,DimaMir,,2016-11-04T20:13:38.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,edisonlg/exploring-features,Exploring features,edisonlg,,2016-10-31T11:44:14.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,fanshaohua/exploring-features,Exploring features,sh fan,,2016-10-31T07:33:00.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xgwong0815/exploring-features,Exploring features,xgwong0815,,2016-10-29T14:29:49.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,chbimo/notebook5704d7de2e,Notebook5704d7de2e,chbimo,,2016-10-28T08:05:23.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sasakiwilson/notebook9a30bf21e3,Notebook9a30bf21e3,Wilson Sasaki,,2016-10-28T02:54:41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,praneethvarmapv/notebook0f8ae3e7b9,Notebook0f8ae3e7b9,praneethvarma,,2016-10-27T02:22:34.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,themarv/exploring-features,Exploring features,MarvinTaschenberger,,2016-10-26T11:35:36.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,unclelv/exploring-features-1c260d28,Exploring features 1c260d28,naivedreamer,,2016-10-26T01:14:03.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,dudenko/exploring-features,Exploring features,Dmytro Dudenko,,2016-10-24T15:05:17.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,dudenko/santander-exploratory,"Santander, exploratory",Dmytro Dudenko,,2016-10-24T14:25:39.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,unclelv/exploring-features,Exploring features,naivedreamer,,2016-10-24T05:02:55.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,waiyanminkyaing/exploring-features,Exploring features,WaiYanMinKyaing,,2016-10-23T13:07:05.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zengjk/notebook1e30c92448,Notebook1e30c92448,Jaykay Z,,2016-10-22T19:43:20.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rockandrolla13/advanced-feature-exploration,Advanced Feature Exploration,RockandRolla13,,2016-10-22T14:33:30.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,subway/basic-feature-exploration,Basic Feature Exploration,_harshranjan_,,2016-10-21T17:09:37.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,icecube314/notebook5930017c38,Notebook5930017c38,PiCubeisnot30,,2016-10-23T12:55:03.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,edwinshi/exploring-features,Exploring features,EdwinShi,,2016-10-15T17:18:54.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tuanndd/xgboost-on-santander-dataset,XGBoost on Santander dataset,Tuan Nguyen,,2016-10-14T15:00:06.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,allatarighati/notebook02e03a7a18,Notebook02e03a7a18,AllaTarighati,,2016-10-13T12:49:02.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tuanndd/notebook6abe95fb08,Notebook6abe95fb08,Tuan Nguyen,,2016-10-13T08:07:29.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jinger123/exploring-features,Exploring features,guomeizi,,2016-10-08T08:23:13.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wangyum/exploring-features,Exploring features,Yuming,,2016-10-08T02:32:19.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,terencelimzw/exploring-features,Exploring features,Terence,,2016-10-04T03:26:10.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rowanyuan/frist-code,frist code,earthMovingEquipment,,2016-10-02T04:39:03.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,clarkdjilo/exploring-features,Exploring features,Clark Djilo,,2016-09-29T15:02:55.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mrxair/exploring-features,Exploring features,mrxai,,2016-09-29T02:34:03.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,stgiles/exploring-features,Exploring features,StGiles,,2016-09-25T23:05:10.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shitman/exploring-features-9f5c5ac3,Exploring features 9f5c5ac3,shitman,,2016-09-23T14:57:06.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sgdantas/exploring-features,Exploring features,sgdantas,,2016-09-22T18:49:05.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vchagas/notebook49918ff788,Notebook29c137ab7b,Vitor Chagas,,2016-09-19T18:15:01.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,redfruit/exploring-features,Exploring features,KrishnaKumar,,2016-09-18T22:20:42.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,etignone/exploring-features,Exploring features,etignone,,2016-09-18T14:01:03.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wenbozhao/notebookdb9a85886a,Notebookdb9a85886a,Webber,,2016-09-17T15:49:32.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jibybabu/notebook6d5b1385d9,Notebook6d5b1385d9,Arsenal,,2016-09-16T23:01:50.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nguyentam/santander-classification,Santander classification,NguyenTam,,2016-09-16T16:34:16.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,renangohe/exploring-features,Exploring features,Rgohe,,2016-09-15T19:31:18.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vineetkothari/exploring-features,Exploring features,VineetKothari,,2016-09-13T13:24:22.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,fredlyy/exploring-features,Exploring features,climtiger,,2016-09-13T08:50:19.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,keerthisaran/notebook948580b7ec,Notebook948580b7ec,Saran,,2016-09-12T00:43:22.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,caiomsouza/basic-feature-exploration,Basic Feature Exploration,Keep Searching,,2016-09-10T14:58:06.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mdbmilkov/exploring-features,Exploring features,AMilkov,,2016-09-09T06:40:33.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sancychen/notebookca9872d417,Notebookca9872d417,Sancy,,2016-09-07T20:18:43.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shitman/exploring-features,Exploring features,shitman,,2016-09-07T14:36:34.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lucama/notebook2657a8800e,Notebook2657a8800e,LucaMariani,,2016-09-07T10:05:06.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ericwbzhang/gbm-preprocraw7,GBM_preprocRaw7,EricZ,,2016-09-06T16:07:00.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ericwbzhang/gbm-preprocraw2,GBM_preprocRaw2,EricZ,,2016-09-06T13:50:58.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,qintxx/exploring-features,Exploring features,qinxue,,2016-09-06T13:43:16.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ericwbzhang/gbm-preprocraw,GBM_preprocRaw,EricZ,,2016-09-06T13:45:21.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jdyojdyo/exploring-feature,exploring feature,jdyo,,2016-09-05T09:56:07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jdyojdyo/notebookfe3a35760c,Notebook21bbebbe40,jdyo,,2016-09-08T08:23:12.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jinger123/notebook056932c9dc,Notebook056932c9dc,guomeizi,,2016-09-03T02:01:04.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zenithfzh/exploring-features,Exploring features,Frederick Fu,,2016-08-31T12:11:59.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,s3ni0r/exploring-features,Exploring features,scalaman,,2016-08-31T09:05:20.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xiaofei/exploring-features,Exploring features,Xiaofei Zheng,,2016-08-30T02:34:33.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nsquared/exploring-features,Exploring features,nsquared,,2016-08-29T02:04:26.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yuanxu/exploring-features-68b18f73,Exploring features 68b18f73,YuanxuXu,,2016-08-26T13:35:17.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yuanxu/exploring-features,Exploring features,YuanxuXu,,2016-08-26T13:09:15.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,primaryobjects/notebook31caa67203,Notebook31caa67203,Kory Becker,,2016-08-26T01:25:31.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vamsiry/notebook862a7dca7b,Notebook2ff13ae1b7,vamsiry,,2016-08-25T06:06:16.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,msamogh/exploring-features,Exploring features,AmoghMannekote,,2016-08-23T10:29:58.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xllouis/notebookf759b5d15e,Notebookf759b5d15e,LiXU,,2016-08-22T20:35:08.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lilianapdam/notebook3d186981ff,Notebook3d186981ff,Liliana Pineda,,2016-08-21T00:50:15.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cnukaus/exploring-features-c1c04305,Exploring features c1c04305,Data Miner,,2016-08-20T05:20:55.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,fatwhale/exploring-features,Exploring features,fatwhale,,2016-08-20T05:04:59.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,luokai/xgboost-with-early-stopping,XGBoost with early stopping,dolly,,2016-08-19T07:06:20.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,luokai/exploring-features-44c90370,Exploring features 44c90370,dolly,,2016-08-19T06:33:26.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lkx621/exploring-features,Exploring features,lkx621,,2016-08-19T06:20:58.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,theone10211024/exploring-features-5c8e3fdf,Exploring features 5c8e3fdf,THEONE10211024,,2016-08-19T04:30:13.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,luokai/exploring-features,Exploring features,dolly,,2016-08-19T02:22:38.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,chleonhart/notebookdd1206c894,Notebookdd1206c894,leonhart,,2016-08-17T13:46:47.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,theone10211024/exploring-features,Exploring features,THEONE10211024,,2016-08-17T09:51:56.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cnukaus/exploring-features-16097b8d,Exploring features 16097b8d,Data Miner,,2016-08-17T09:45:37.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cnukaus/exploring-features-baa6fc6e,Exploring features baa6fc6e,Data Miner,,2016-08-17T06:32:44.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cnukaus/exploring-features-af7d70be,Exploring features af7d70be,Data Miner,,2016-08-17T03:20:17.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kuantumk/exploring-features,Exploring features,YJ,,2016-08-16T22:28:11.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cnukaus/exploring-features-0488a82a,Exploring features 0488a82a,Data Miner,,2016-08-16T11:56:52.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,felimartinez/pipelon,Pipelon,FelipeMartínezGranados,,2016-08-16T01:07:41.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,evelynstamey/fork-of-notebook0739cff996,Fork of Notebook0739cff996,Evelyn Stamey,,2016-08-15T21:32:08.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jxking/basic-feature-exploration,Basic Feature Exploration,JxKing,,2016-08-15T03:29:39.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wutao1530663/exploring-features,Exploring features,wutaotao,,2016-08-15T03:01:51.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jak131/exploring-features,Exploring features,JayKothari,,2016-08-13T01:41:47.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,boooook/exploring-features,Exploring features,BookCHan,,2016-08-10T12:49:57.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,naughtysquash/notebook1997224f1b,Notebook1997224f1b,BBQHarvey,,2016-08-08T19:25:20.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sugiantolauw/advanced-feature-exploration,Advanced Feature Exploration,sugianto lauw,,2016-08-07T13:03:35.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sugiantolauw/basic-feature-exploration,Basic Feature Exploration,sugianto lauw,,2016-08-07T13:02:50.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sugiantolauw/exploring-features,Exploring features,sugianto lauw,,2016-08-07T12:58:23.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jorgeporca1/notebook1d31829bf6,Notebook1d31829bf6,JorgePorca,,2016-08-05T07:31:30.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jorgeporca1/z12345,Z12345,JorgePorca,,2016-08-02T00:08:14.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,naughtysquash/santander-logistics-regression,santander_logistics_regression,BBQHarvey,,2016-07-26T18:32:28.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ilopezfr/testa,testa,ilopezfr,,2016-07-14T18:00:07.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zavodrobotov/python-xgb-lb-0-841047,Python XGB (LB 0.841047),ZavodRobotov,,2016-07-09T09:33:52.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wangjy1112/customer-satisfaction,Customer Satisfaction,Ivy Wang,,2016-07-09T08:03:43.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wangjy1112/santander-customer-satisfaction,Santander Customer Satisfaction,Ivy Wang,,2016-07-09T03:48:13.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,evaristoc/fork-santander-script,Fork Santander Script,ec-ccs,,2016-07-07T17:49:48.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tejdeep/practice-harder,Practice harder,Tejdeep K,,2016-06-23T14:42:21.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pawnty/explore,explore,Pawnty,,2016-06-23T06:34:53.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tejdeep/practice-py,Practice - Py,Tejdeep K,,2016-06-17T14:08:39.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,adrianvilaseco/memoria,Memoria,AdrianVilaseco,,2016-06-02T10:56:27.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lsilva/python-learning,python learning,Lucas Silva,,2016-07-15T22:12:32.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lsilva/python-training,Python training,Lucas Silva,,2016-06-01T23:53:16.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nisa1047/iterat17,Iterat17,вероникафедорова,,2016-05-26T07:01:34.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nisa1047/iter6,Iter6,вероникафедорова,,2016-05-21T20:52:17.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vivekhelsing/newone,newone,VivekanandanDheivendran,,2016-06-02T06:41:39.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,fujimotec/santander-test,santander_test,Gachimoto,,2016-05-19T13:25:27.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nisa1047/santander,Santander,вероникафедорова,,2016-05-19T09:29:55.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,fedoreme69/xgboost-feat-lr-py,xgboost_feat_lr.py,1V9,,2017-02-04T08:35:20.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nisa1047/satander6,Satander6,вероникафедорова,,2016-05-18T22:13:16.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bmithun/exploring-features-practice,Exploring Features Practice,BMC,,2016-05-19T01:12:20.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jingxlin/exploring-features,Exploring features,linjx,,2016-05-17T06:01:05.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ruqiang826/exploring-features,Exploring features,ruqiang,,2016-05-12T12:21:07.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,phphong/exploring-features,Exploring features,Phan Hai Phong,,2016-05-10T02:04:37.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tianzhang1000/post-deadline-private-lb-172-ranking,Post Deadline private LB 172 ranking,TianZhang,,2016-05-07T00:21:36.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,acs3235/baseline-stacking-prep,Baseline Stacking Prep,acs3235,,2016-05-06T04:04:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,databeast/exploring-features,Exploring features,Marcel S,,2016-05-03T01:47:59.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,loudog/testb,testb,loudog,,2016-05-03T01:46:00.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,oxjlisa/customers-v2,CustomerS_V2,OU,,2016-05-03T01:29:17.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,oxjlisa/customersatisfation,CustomerSatisfation,OU,,2016-05-03T12:21:33.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/46runjhj,46runjhj,prabhanjanbhat,,2016-05-02T23:43:01.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,dakick/pca-and-k-means,PCA and K-Means,dakick,,2016-05-02T23:05:00.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tianzhang1000/xgb-on-python,XGB on Python,TianZhang,,2016-05-02T20:05:09.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,animesh371/final-solution,Final Solution,AnimeshGaitonde,,2016-05-02T16:35:52.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tianzhang1000/keras-0-78-on-lb,Keras 0.78 on LB,TianZhang,,2016-05-02T18:39:20.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,leontanks/experiment-on-voting-classifier,Experiment on Voting Classifier,Leon,,2016-05-02T06:39:22.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tdiwan/ntrial,ntrial,Tanmay,,2016-05-02T01:52:44.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pganesha/basic-data-analysis-and-prediction,Basic Data Analysis and prediction,lathiga,,2016-05-02T00:45:37.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/46run,46run,prabhanjanbhat,,2016-05-02T23:28:38.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant8,sant8,Neel Shah,,2016-05-01T22:17:36.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant7,sant7,Neel Shah,,2016-05-01T22:17:16.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant6,sant6,Neel Shah,,2016-05-01T22:16:49.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant5,sant5,Neel Shah,,2016-05-01T22:16:25.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant4,sant4,Neel Shah,,2016-05-01T22:14:32.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant3,sant3,Neel Shah,,2016-05-01T22:14:00.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant2,sant2,Neel Shah,,2016-05-01T22:13:34.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/sant1,sant1,Neel Shah,,2016-05-01T22:13:15.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/75run,75run,prabhanjanbhat,,2016-05-01T22:11:52.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nitinl/lb-0-84-for-starters,testing pca,Nitin,,2016-05-01T17:07:22.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/600142,600142,prabhanjanbhat,,2016-05-01T22:11:37.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/sasdfvcxv,sasdfvcxv,prabhanjanbhat,,2016-05-01T22:11:06.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/nthread6,nthread6,prabhanjanbhat,,2016-04-30T23:21:24.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/asdfasfd-1,testsett,prabhanjanbhat,,2016-05-01T22:10:49.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jungli/final-submissions,final_submissions,AjaySharma,,2016-05-01T21:40:07.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,neelshah/demoo,demoo,Neel Shah,,2016-04-30T23:40:20.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hswater1/show-constant-and-duplicate-cols,Show constant and duplicate cols,ShenHuang,,2016-04-30T18:16:27.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prabhanjan1992/pcaxg,pcaxg,prabhanjanbhat,,2016-04-30T19:38:20.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hookemhorns/salamati,salamati,Hook'em,,2016-04-30T05:49:22.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hookemhorns/nnartt2,nnartt2,Hook'em,,2016-04-30T04:40:10.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hookemhorns/lalallala,lalallala,Hook'em,,2016-04-30T04:27:53.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hookemhorns/nnabol,nnabol,Hook'em,,2016-04-30T03:19:20.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,champion1955/santander-exploration,Santander Exploration,Datum,,2016-04-30T02:18:31.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ganliu/variable-selection,variable selection,Gan,,2016-04-29T22:42:20.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jamesliuzx/data-exploration,Data exploration,JamesLiu,,2016-04-29T19:06:53.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hookemhorns/salam,salam,Hook'em,,2016-04-29T18:06:27.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,adamgar03/adamgar03-sandtander,adamgar03_sandtander,The Mad Plotter,,2016-04-28T20:38:48.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brajen259/pca-and-xgb,PCA and xgb,br@zz,,2016-05-01T05:42:44.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pranav93/basucode,basucode,MadadiPranav,,2016-04-27T22:56:02.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/generalized-linear-model-ssz-apr27,Generalized Linear Model_ssz_apr27,Shize Su,,2016-04-27T20:17:10.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,manels/generalized-linear-model,Generalized Linear Model,Manel,,2016-04-27T19:33:57.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vivekhelsing/santander-trial,santander trial,VivekanandanDheivendran,,2016-04-27T13:57:00.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sivakumard/santander,santander,Sivakumar D,,2016-04-27T12:07:23.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ganliu/xgb-resample,XGB Resample,Gan,,2016-04-27T06:00:14.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ma350365879/visualization,Visualization,YijunMa,,2016-04-27T03:29:02.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rwhenderson/project-2,Project 2,WesleyHenderson,,2016-04-26T23:53:53.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ravishnkr/exploring-features,Exploring features,Ravisankar,,2016-04-26T16:55:37.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nclsbrl/santander-script,Santander Script,NicolasBurl,,2016-04-26T15:58:31.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brajen259/xgb-with-modified-features,Xgb with modified features,br@zz,,2016-04-26T14:11:58.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,llallo26/xxxxx,xxxxx,Eduardo López,,2016-04-26T13:24:18.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rwhenderson/testt,Testt,WesleyHenderson,,2016-04-26T12:54:03.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sitesharyan/test-2,test_2,Sitesh Indra,,2016-04-26T12:29:41.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sitesharyan/test-santander,test_santander,Sitesh Indra,,2016-04-26T12:01:49.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sitesharyan/exploring-features,Exploring features,Sitesh Indra,,2016-04-26T10:31:45.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bozhkov/explore-data,explore_data,Lachezar Bozhkov,,2016-04-26T10:45:41.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,missakmissak/testing,Testing,MissakBoyajian,,2016-04-26T09:43:51.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ramanand/team-overlord-101,Team_Overlord_101,Ramanandan ,,2016-04-26T06:14:45.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hermit84/0-8-auc,0.8 AuC,Vivek Pandit,,2016-04-26T02:56:36.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,airlrj/santander,santander,Renjie,,2016-04-26T00:22:33.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ganliu/xgb-param,XGB Param,Gan,,2016-04-26T22:26:58.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lambinvoker/testing-py,classifier.py,JustinTrotter,,2016-05-02T18:59:51.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,avidadollars/exploring-features,Exploring features,avidadollars,,2016-04-25T21:37:01.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jvdmbp/aaaaaa,AAAAAA,jvdmbp,,2016-04-25T16:28:28.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nguyentam/submission,Submission,NguyenTam,,2016-05-02T07:48:41.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brajen259/testing-ipython-notebook,Testing Ipython Notebook,br@zz,,2016-04-25T13:37:23.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lokm01/test1-12,test1 12,Jan Scherbaum,,2016-04-25T11:41:42.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,leontanks/testing,Testing,Leon,,2016-04-25T05:59:10.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sharif1093/python-xgb-lb-0-841047,Python XGB (LB 0.841047),Mohammad Reza,,2016-04-25T00:02:11.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,adegie/forked,forked,AdamGatnar,,2016-04-24T19:36:42.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hengluchang/exploring-features,Exploring features,Heng-Lu Chang,,2016-04-28T21:23:44.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tdcolorado/blending-rf-gbt-abc-and-xgb,"Blending RF,GBT,ABC and XGB",Doan Tri,,2016-04-24T01:00:08.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/rf-apr23-01,rf_apr23_01,Shize Su,,2016-04-23T21:13:09.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cast42/cv-xgboost-geometric-mean,CV XGBoost geometric mean,cast42,,2016-04-23T18:07:00.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,totruok/myfirstnotebook,MyFirstNotebook,Nikita Bogdanov,,2016-04-23T15:06:25.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rykachevskiy/test1,test1,Anton Rykachevskiy,,2016-04-23T12:30:26.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,magdalenawojcik/exploring-features,Exploring features,claygirl,,2017-11-30T15:24:04.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,valerioorfano/xgb-for-features-selection-0-837,XGB for features selection (0.837), valerio orfano,,2016-04-22T17:23:16.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pixels/python-test-1,python test 1,Andrew,,2016-04-22T14:01:26.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/xgb-10fea,xgb_10fea,Shize Su,,2016-04-22T13:01:16.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,trungnb/test-python,test_python,BaoTrungNguyen,,2016-04-26T19:40:48.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ehkgrace/test-001,test_001,EUNHYEKIM,,2016-04-22T06:32:42.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ggwong/main-xgboost-with-pls,MAIN_XGBOOST with PLS,GGWONG,,2016-04-21T22:51:07.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,canran/rfc-vs-xgb,RFC_vs_XGB,Canran Xu,,2016-04-21T18:44:05.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,canran/santander-satisfaction1,Santander_satisfaction1,Canran Xu,,2016-04-21T18:39:33.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,canran/santander-satisfaction,Santander_satisfaction,Canran Xu,,2016-04-21T18:32:47.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,adrianvilaseco/first-attempt2,First attempt2,AdrianVilaseco,,2016-05-23T19:16:21.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,adrianvilaseco/first-attempt,First attempt,AdrianVilaseco,,2016-04-21T14:50:45.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shahnawazakhtar/visualization,visualization,pip install kaggle,,2016-04-21T14:32:25.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yg46820/11234561,11234561,CaptureData,,2016-04-21T12:27:47.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,saintromeo/exploring-features,Exploring features,SaîntRomeô,,2016-04-21T12:16:53.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yg46820/1123456,1123456,CaptureData,,2016-04-21T11:33:13.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yg46820/eda123,eda123,CaptureData,,2016-04-21T01:23:34.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yg46820/exploring-features,Exploring features,CaptureData,,2016-04-21T01:21:11.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,srossgupta/1st-phase,1st Phase,SrossGupta,,2016-04-20T13:59:40.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,abughazaleh/pca-visualization,PCA visualization,Moh'dAbuGhazaleh,,2016-04-20T10:18:50.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alpoza/exploring-features,Exploring features,alpoza,,2016-04-20T14:09:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shahidare/test-1-dsfkjs,Test-1 dsfkjs ,Shahid,,2016-04-20T07:17:17.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kkothari93/trial,trial,KonikKothari,,2016-04-20T03:25:21.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ganliu/testwhy,testwhy,Gan,,2016-05-02T18:42:15.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ganliu/gbt-test,GBT test,Gan,,2016-04-22T23:04:01.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ma350365879/first-try,First Try,YijunMa,,2016-04-19T15:44:26.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,einsqiang/randomforestclassifier,RandomForestClassifier,EinsQiang,,2016-04-19T07:47:12.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jpoles1/kerasseq,KerasSeq,jpoles1,,2016-04-20T00:08:57.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jpoles1/initial-attempt,Initial Attempt,jpoles1,,2016-04-19T05:19:28.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brajen259/xgb-baseline-model,Xgb baseline Model,br@zz,,2016-04-27T14:18:59.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,avishek/corr-based-feat-clustering,corr_based_feat_clustering,Avishek,,2016-04-18T18:05:47.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,muhammedazamkhan/xgb-0-83-score-with-36-features-only,xgb_0.83 score with 36 features only,MAK,,2016-04-19T01:34:08.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brajen259/feature-selection,Feature_Selection,br@zz,,2016-04-25T13:31:41.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,muhammedazamkhan/this-is-forked-from-auc-0-88,This is forked from AUC 0.88,MAK,,2016-04-19T02:22:19.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wangyum/python-xgb-lb-0-841047,Python XGB (LB 0.841047),Yuming,,2016-04-17T12:21:59.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,andrewc94/first,first,andrewc94,,2016-04-17T02:38:03.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,animesh371/santander-pca,Santander PCA,AnimeshGaitonde,,2016-04-16T09:36:23.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,beedata/ddddd,ddddd,FengLi,,2016-04-16T02:01:43.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,beedata/advanced-feature-exploration,Advanced Feature Exploration,FengLi,,2016-04-16T02:06:45.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anurag173/exploring-features,Exploring features,AnuragPrabhakar,,2016-04-15T19:25:12.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kaiyuanf/random-forest,Random Forest,Kaiyuan Fan,,2016-04-15T17:17:54.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,animesh371/dataanalysis-1,DataAnalysis-1,AnimeshGaitonde,,2016-04-16T06:53:27.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,scholih/exploring-features,Exploring features,Hans Scholing,,2016-04-15T17:51:01.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bhushankhandelwal/xgb-simple,XGB Simple,Bhushan,,2016-04-14T19:26:08.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,avishek/feat-exploration,feat_exploration,Avishek,,2016-04-14T09:26:03.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anmutaka/sample2,sample2,anmuTaka,,2016-04-14T08:25:53.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,luisfer/prueba,prueba,luisfer,,2016-04-14T08:28:59.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anmutaka/sample,sample,anmuTaka,,2016-04-14T08:25:29.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vatsal2020/basicfeatureelimination,BasicFeatureElimination,Vatsal ,,2016-04-13T22:38:20.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/python-xgb-lb-0-841047,Python XGB (LB 0.841047),Shize Su,,2016-04-13T21:42:21.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,aishijiang/aqqqqqqq,aqqqqqqq,AJ,,2016-04-12T16:14:18.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,caspik/data-explore,data explore,Dmitriy,,2016-04-12T02:44:28.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ssaxena/sagar-saxena,Sagar Saxena,Sagar Saxena,,2016-04-12T01:13:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ma31sr/test1-to-start,test1_to_start,Marco Orlando Modena,,2016-04-11T13:10:57.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,w1154457423/xgboost1,xgboost1,chenxiaomin,,2016-04-11T10:54:34.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kumareshd/forked-script-asfd,Forked script asfd,Kumaresh,,2016-04-10T06:26:33.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kumareshd/forked-script,forked script,Kumaresh,,2016-04-10T05:52:13.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brigadius/korig,KOrig,KarthickThoppe,,2016-04-09T22:30:52.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jakublangr/random-forest,Random Forest,Jakub Langr,,2016-04-09T21:33:22.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anilcs/using-lasagne-error,using lasagne error,Anil Kumar,,2016-04-09T17:27:02.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yerzhan19/acaba,acaba,nevermind,,2016-04-09T05:35:53.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,robertehshi/l1-xgb,L1 XGB,RobertLutz,,2016-04-09T01:20:33.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brigadius/koriginal,KOriginal,KarthickThoppe,,2016-04-09T22:24:00.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brigadius/kaggle-analysis,Kaggle analysis,KarthickThoppe,,2016-04-08T20:59:55.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,brigadius/testing,Testing,KarthickThoppe,,2016-04-08T20:58:19.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anokas/tensorflow-test,tensorflow test,anokas,,2016-04-08T16:00:03.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,divyanshusuri/extratrees,ExtraTrees,DSXL,,2016-04-08T09:56:27.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yerzhan19/1111-1,1111_1,nevermind,,2016-04-09T05:05:42.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yerzhan19/11111,11111,nevermind,,2016-04-08T05:26:36.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yerzhan19/1-1-1-14,"1,1,1,14",nevermind,,2016-04-08T04:58:23.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,shapinb/testt,testt,shapinb,,2016-04-09T00:34:06.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,chriscc/santander-starter-1,santander_starter,ChrisCC,,2016-04-07T19:50:57.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,animesh371/script-santander,Script_Santander,AnimeshGaitonde,,2016-04-07T16:16:48.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,suanrong/thisis,thisis,suanrong,,2016-04-08T07:02:51.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yonzhang/advanced-feature-exploration,Advanced Feature Exploration,YongZhang,,2016-04-07T07:52:56.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,qf6101/testt,testt,qfeng,,2016-04-07T04:06:37.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mayajha/maya-learn,Maya_Learn,Nand ,,2016-04-06T23:58:52.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/mlp-try-ssz,MLP_Try_SSZ,Shize Su,,2016-04-06T11:30:59.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,husterwgm/xgb-engineer,xgb_engineer,Huster_wgm,,2016-04-06T08:47:10.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,manu291/title,title,Manu 291,,2016-04-06T02:50:29.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jasonwi1202/xgboost,xgboost,Jason,,2016-04-06T02:22:44.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,beardeer/advanced-feature-exploration,Advanced Feature Exploration,beardeer,,2016-04-05T18:59:36.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ahmedhelmi/first-run,first run,AhmedHelmi,,2016-04-05T17:15:59.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rcatajar/test-script,test_script,RomainCatajar,,2016-04-05T14:03:52.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,innerproduct/tensorflow-nn-notebook-for-santander,TensorFlow NN for Santander,Alexander Pushkin,,2016-04-06T12:33:21.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/ok-i-come-againe-a,OK! I COME AGAINE a,yanliu,,2016-04-05T07:46:44.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yerzhan19/1111111,1111111,nevermind,,2016-04-05T04:23:04.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/rf-try-ssz,rf_try_ssz,Shize Su,,2016-04-05T01:13:36.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,diogovaz/first,first,Diogo Vaz,,2016-04-04T21:12:52.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,admitry/santander,Santander,Dmitry Andreev,,2016-04-04T19:20:42.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/xgb-0-83-score-with-36-features-only,xgb_0.83 score with 36 features only,Shize Su,,2016-04-23T19:40:33.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/rf-0-814510-btb,rf_0.814510_btb,Shize Su,,2016-04-10T14:00:06.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lancerts/111111,111111,lancerts,,2016-04-03T21:02:05.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jthompson/santander-book,santander_book,jthompson,,2016-04-03T10:56:07.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xiaoshcihang/testothers,testothers,xiao,,2016-04-03T06:20:31.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,frankarp/basic-tensorflow-model,basic tensorflow model,Frank,,2016-04-02T23:55:16.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,montyhall/testing-something,testing something,Thomas,,2016-04-02T22:53:12.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,montyhall/exploring-features,Exploring features,Thomas,,2016-04-02T16:47:06.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yanwii/yanwii-1,yanwii,yanwii,,2016-04-02T11:33:57.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,arjoonn/lb-0-84-for-starters-score-test,LB ~0.84 for starters score_test,ArjoonnSharma,,2016-04-09T05:04:32.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,prince19/python-testing,Python testing,Himanshu Choudhary,,2016-04-02T05:09:32.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,harsh6gpt/test1no,test1no,Harsh Gupta,,2016-04-01T21:51:53.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mayasofsof/p12kjkj,p12kjkj,MayaSofsof,,2016-04-01T18:32:54.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/ok-i-come-againe,OK! I COME AGAINE,yanliu,,2016-04-01T14:24:07.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tejpratap/test-3-1,test 3,Tej Pratap,,2016-04-01T09:40:48.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tejpratap/test-1,Test 1,Tej Pratap,,2016-04-01T09:31:07.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/my-sciyan,my sciyan,yanliu,,2016-04-01T05:57:48.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ryanhausen/explore,Explore,RyanHausen,,2016-03-31T22:04:36.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jamesliuzx/sample-script,Sample_script,JamesLiu,,2016-03-31T16:23:57.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,trblnc/plotdata,plotData,IlkayS,,2016-03-31T17:26:12.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/1111111,1111111,yanliu,,2016-03-31T14:03:21.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/111111,111111,yanliu,,2016-03-31T12:44:40.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pagocmb/first-check,first_check,КонстантинКоротаев,,2016-03-31T11:32:19.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/my-script-2,my script 2,yanliu,,2016-03-31T11:04:09.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuyanchen/my-script,my script,yanliu,,2016-03-31T08:59:39.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bergsfam/bergssantander,BergsSantander,bergsfam,,2016-03-31T02:31:01.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,divyanshusuri/blending-trees,Blending Trees,DSXL,,2016-03-30T14:09:38.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ibrahimsobh/0-83-score-with-36-features-only,~0.83 score with 36 features only,Ibrahim Sobh,,2016-03-30T09:38:12.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lz890414/testxgb,testxgb,zliu,,2016-03-30T05:10:35.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mordock/santander-exploring-feature,Santander - Test Run,Mordock,,2016-05-05T17:05:43.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,esemi77/test-5,test_5,esemi77,,2016-03-29T15:42:50.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,saravanann/santander-2,santander_2,Saravanan N,,2016-04-21T07:32:06.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,pixixi/xgboost3,xgboost3,pixixi,,2016-03-29T05:55:03.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zihexu/lb-0-84-for-starters,LB ~0.84 for starters,Luke Xu,,2016-03-29T05:24:59.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,absurdfalcon/listinputdirectory,ListInputDirectory,The Psychohistorian,,2016-03-29T02:52:49.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yogeshbendre/ysb-santa,YSB_Santa,yogeshbendre,,2016-03-31T02:51:13.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jcireland/demo1,demo1,jcireland,,2016-03-28T23:18:44.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,arunsupe/testsaregood,testsaregood,arunsupe,,2016-03-28T22:47:51.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ssoumen/random,Random,Soumen Sadhukhan,,2016-03-28T17:36:45.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mrcrowley/aprendiendo,aprendiendo,Pedro Quiroz,,2016-03-28T14:52:57.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mdumar/test-script,test script,Muhammad umar,,2016-03-28T05:22:28.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cyhong549/try-cv,try_cv,big_data_cz,,2016-03-27T12:13:38.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,abhishek333/santander,Santander,abhishek333,,2016-03-27T21:01:00.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alicelane/testing-notebook,testing-notebook,AliceLane,,2016-03-27T03:59:20.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,aesnau/code1,code1,XKaggler,,2016-04-01T14:26:51.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,skyjiao/xgboost-bagging,xgboost bagging,sky,,2016-03-25T17:26:30.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,phuongvo87/testtest,testtest,Lucy,,2016-03-29T05:54:59.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,phuongvo87/customer-test1,customer_test1,Lucy,,2016-03-25T06:57:59.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mengqingdi/test0325,test0325,Qingdi Meng,,2016-03-25T06:11:51.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kashyap007/xgboost-with-early-stopping,XGBoost with early stopping,VishalKashyap,,2016-03-30T15:03:49.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,skyjiao/preprocess,preprocess,sky,,2016-03-31T08:31:25.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,skyjiao/test-script,test_script,sky,,2016-03-27T10:21:43.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,lengoanhcat/analyze-data,Analyze_data,levietmaanh,,2016-03-24T12:35:19.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,leadbest/nn-ssz-0-8,NN_CV4,HDKIM,,2016-04-06T06:02:21.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,waffleboy/dimensionality-reduced-dataset,Dimensionality Reduced Dataset,Jonsina - NUS - Singapore,,2016-03-24T16:40:50.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alvinstars/some-demo,some demo ,BinYang,,2016-03-24T04:38:05.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,wawanco/temp44,Temp44,Thibault,,2016-03-23T17:42:01.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,skyjiao/gradient-boost-sample,gradient boost sample,sky,,2016-03-24T10:19:48.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ifleezju/simple-random-forest,Simple Random Forest,iflee,,2016-03-23T03:31:56.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,thefountainhead86/santander-1,santander 1,thefountainhead86,,2016-03-29T10:24:08.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,saravanann/santander,santander,Saravanan N,,2016-03-29T12:53:20.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yogeshbendre/myscript,MyScript,yogeshbendre,,2016-03-29T02:25:27.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,vincentclaes/satisfactioooooooon,satisfactioooooooon,VincentClaes,,2016-03-29T19:36:11.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,davidhachuel/sbna-c-s,SBNA_C_S,David Hachuel,,2016-03-21T17:42:01.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sukase/first,first,consigliere,,2016-03-21T13:45:30.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,robertehshi/adabooster,ADABooster,RobertLutz,,2016-03-20T22:39:45.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,romanakhunov/piton,Piton,Roman Akhunov,,2016-03-20T10:03:20.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,erikreppel/santander-logistic-regression,Santander Logistic Regression,ErikReppel,,2016-03-20T04:45:40.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,w1154457423/santander-script,santander script,chenxiaomin,,2016-03-20T02:33:06.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,erikreppel/santander-customer-sentiment,Santander Customer Sentiment,ErikReppel,,2016-03-19T20:27:22.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,iradium/lb-0-84-for-starters,LB ~0.84 for starters,iradium,,2016-03-19T19:55:56.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,arjoonn/regression-investigation,Regression Investigation,ArjoonnSharma,,2016-03-19T12:01:32.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,antoniodeblasi/solution,Solution,tonidb,,2016-03-21T21:14:05.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rishiraj/treesandstuff,treesandstuff,Rishiraj,,2016-03-19T09:48:11.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rishiraj/xgboost2,xgboost2,Rishiraj,,2016-03-19T09:21:22.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rishiraj/xgboosting,xgboosting,Rishiraj,,2016-03-19T09:11:27.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,smurching/lb-0-84-for-starters,LB ~0.84 for starters,smurching,,2016-03-25T06:08:29.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,smurching/first-script,first-script,smurching,,2016-03-19T06:47:31.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,robertehshi/principalvectormachine,PrincipalVectorMachine,RobertLutz,,2016-03-20T15:00:25.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/rf-ssz-0-821,RF_SSZ_0.821,Shize Su,,2016-03-28T00:08:51.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mrcrowley/santanderclassificator,santanderClassificator,Pedro Quiroz,,2016-03-18T20:07:53.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mkrtich/where-is-var23,where_is_var23,Mkrtich Soghomonyan,,2016-03-18T16:12:53.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,omarelgabry/santander-correlation-predictions,Santander Correlation & Predictions,OMAR ELGABRY,,2016-03-18T16:19:42.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jofaichow/testing-h2o,Testing H2O,Jo-fai Chow,,2016-03-18T16:42:35.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jofaichow/testing,Testing,Jo-fai Chow,,2016-03-18T14:45:13.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rishiraj/lb-0-84-for-starters,LB ~0.84 for starters,Rishiraj,,2016-03-18T13:46:07.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/nn-ssz-0-8,NN_SSZ_0.8,Shize Su,,2016-04-07T20:58:29.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rishiraj/trialrun2,trialrun2,Rishiraj,,2016-03-18T12:39:11.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alexbaydin/new-file,new_file,AlexBaydin,,2016-03-18T12:04:13.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zhaoxiong/test2,test2,ZhaoXiong,,2016-03-18T02:00:31.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jonaspu/stder,stder,jonaspu,,2016-03-17T20:11:35.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,nit254/movefrombenchmark,movefrombenchmark,predict#,,2016-03-17T19:50:04.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sushize/nineteen-features-lb0-832,Nineteen Features_LB0.832,Shize Su,,2016-04-11T15:16:53.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alexbaydin/submission,submission,AlexBaydin,,2016-03-17T10:33:23.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,mark5907/first-run,first_run,Lei Yao,,2016-03-17T01:25:21.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,enriquesantos/xgboost,XGBoost,Enrique,,2016-03-15T22:20:44.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,enriquesantos/lb-0-84-for-starters,LB ~0.84 for starters,Enrique,,2016-03-15T21:48:53.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,baojun/lb-0-84-for-starters,LB ~0.84 for starters,freiz,,2016-03-17T10:18:19.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,xauen1980/first-test,first test,xauen,,2016-03-15T12:52:15.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,srodriguex/lb-0-84-for-starters,LB ~0.84 for starters,Sergio Rodrigues,,2016-03-15T17:33:11.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alphalep/model-and-feature-selection-then-xgboos,"Model and feature selection, then XGBoos",alphalep,,2016-03-28T19:27:37.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sureshshanmugam/xgboost-with-feature-selection,XGBoost with feature selection,varanid,,2016-03-14T13:19:45.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,chisu1/test-py,test.py,sunstick,,2016-03-13T20:46:16.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,bakiev/lb-0-84-for-starters,LB ~0.84 for starters,Saba,,2016-03-14T03:28:27.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hbghhy/random-forest-parameter1,random forest parameter1,hbghhy,,2016-03-13T15:16:48.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,perryjer1/testing,Testing,Jeremiah Perry,,2016-03-13T02:50:21.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alpoza/lb-0-84-for-starters,LB ~0.84 for starters,alpoza,,2016-05-05T09:14:06.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jiaoyanchen/script-py,script2.py,John,,2016-03-13T08:55:46.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,liuzq09/test-py,test.py,liuzq,,2016-03-12T10:34:19.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,ntdefreitas/santander,Santander,ntdef,,2016-03-12T08:07:34.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,alexbird99/95273q,95273q,alexbird,,2016-03-16T07:52:38.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,hbghhy/xgboost-test,xgboost_test,hbghhy,,2016-03-12T01:23:34.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,blackcore/lb-ext,LB_EXT,BlackCore,,2016-03-11T20:12:04.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,srodriguex/xgboost-refinement,XGBoost refinement,Sergio Rodrigues,,2016-03-17T20:25:20.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,srodriguex/xgboost-with-python,XGBoost with Python,Sergio Rodrigues,,2016-03-11T14:23:22.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tebesu/test-script-1,TEst Script,kitsune,,2016-03-11T23:21:36.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,earino/lb-0-84-for-starters,LB ~0.84 for starters,earino,,2016-03-11T01:51:11.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,giginim/santander-customer-satisfaction,santander-customer-satisfaction,giginim,,2016-03-10T23:43:11.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sntaus/happy-santander,Happy Santander,Shehzad Noor Taus Priyo,,2016-03-10T21:19:08.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,gryphus/helloworld,helloWorld,Amine,,2016-03-10T20:26:43.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,cosmochen/cjw001,cjw001,Jianwei Chen,,2016-03-10T16:23:48.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,kumareshd/lb-0-84-for-starters,LB ~0.84 for starters,Kumaresh,,2016-03-13T14:42:11.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,khultman/santander-test-of-notebook,Santander test of Notebook,Keith H.,,2016-03-10T15:08:13.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,derek11/katest,Katest,TCWQBY,,2016-03-10T12:04:37.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,tcorradi/justviewoutput,justviewoutput,TadeoCorradi,,2016-03-10T11:00:28.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,n0rdic/check-kernels,check kernels,N0rdIC,,2016-03-14T21:01:56.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,aydogankaragoz/santander,santander,Aydoğan Karagöz,,2016-03-10T07:56:31.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,saumyaprad/hello,Hello,Saumya Pradhan,,2016-03-08T06:06:55.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,andreylygun/simple-test,Simple test,Andrey Lygun,,2016-03-07T18:11:18.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,andreylygun/test1,Test1,Andrey Lygun,,2016-03-07T18:06:24.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,rishikksh20/basic-analysis-1,Basic Analysis,Rishikesh,,2016-03-12T21:52:09.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,anuraagsridhar/first-run-testing-of-learning,First run testing of learning,Anuraag Sridhar,,2016-03-07T01:09:29.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,sriraghu/xgb-santander,XGB_Santander,Sri Raghu Malireddi,,2016-03-07T05:18:56.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,yojimbo/testing,Testing,yojimbo,,2016-03-28T16:51:11.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,andrelopes1705/first-xgboost-script,First XgBoost Script,Andre lopes,,2016-03-06T16:44:06.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,gparameswaran/foobar,Foobar,Ganesh Parameswaran,,2016-03-06T01:30:19.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,albo86/something,something,AlbertoArrigoni,,2016-03-05T16:27:40.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,eymaros/asd223,asd223,Alexandr Karpovich,,2016-03-04T07:58:30.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,gaoxia2015/imprt12,imprt12,big data G.X,,2016-03-04T00:47:27.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,zizouvb/trial-model-testing,Trial Model Testing,zizou,,2016-03-03T18:08:51.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction
+,,,,,0,jaredchung/trial-model-testing,Trial Model Testing,Jared Chung,,2016-03-03T21:53:07.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santander-customer-satisfaction

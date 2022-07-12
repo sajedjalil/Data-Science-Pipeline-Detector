@@ -1,0 +1,439 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,davidgasquez/user-data-exploration,User Data Exploration,David Gasquez,,2015-12-13T10:31:26.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],160,airbnb-recruiting-new-user-bookings
+,,,,,0,krutarthhd/airbnb-eda-and-xgboost,Airbnb EDA and Xgboost,Krutarth Darji,,2020-05-18T10:03:14.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],88,airbnb-recruiting-new-user-bookings
+,,,,,0,svpons/script-0-8655,script_0.8655,Sandro,,2015-12-08T04:18:23.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,airbnb-recruiting-new-user-bookings
+,,,,,0,kevinwu06/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,kwu2u,,2016-02-01T15:54:17.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,airbnb-recruiting-new-user-bookings
+,,,,,0,davidgasquez/ndcg-scorer,NDCG Scorer,David Gasquez,,2016-02-04T21:06:51.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,airbnb-recruiting-new-user-bookings
+,,,,,0,svpons/three-level-classification-architecture,three_level_classification_architecture,Sandro,,2016-03-08T10:38:22.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,airbnb-recruiting-new-user-bookings
+,,,,,0,rounakbanik/airbnb-new-user-bookings,Airbnb New User Bookings,Rounak Banik,,2017-10-07T15:27:59.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,airbnb-recruiting-new-user-bookings
+,,,,,0,omarelgabry/airbnb-user-bookings,Airbnb User Bookings,OMAR ELGABRY,,2015-12-02T08:53:41.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,airbnb-recruiting-new-user-bookings
+,,,,,0,wendykan/ndcg-example,NDCG example,Wendy Kan,,2015-11-29T09:34:01.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,airbnb-recruiting-new-user-bookings
+,,,,,0,svpons/feature-engineering,feature_engineering,Sandro,,2016-02-27T00:56:07.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,airbnb-recruiting-new-user-bookings
+,,,,,0,nikhiljangam/exploratory-data-analysis,Exploratory Data  Analysis,Nikhil Reddy,,2017-09-13T05:18:06.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,airbnb-recruiting-new-user-bookings
+,,,,,0,roydatascience/airbnb-new-user-booking-random-forest,Airbnb New User Booking - Random Forest ,Ashish Gupta,,2018-11-16T22:35:03.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,airbnb-recruiting-new-user-bookings
+,,,,,0,hulkbulk/fisrtscript,FisrtScript,HulkBulk,,2015-11-26T19:32:31.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,airbnb-recruiting-new-user-bookings
+,,,,,0,pappukrjha/session-data,session_Data,Pulkit Jha,,2015-12-08T12:24:12.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,airbnb-recruiting-new-user-bookings
+,,,,,0,dietcoke/score-predictions-using-ndcg,Score predictions using NDCG,dietCoke,,2015-12-04T17:35:52.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,airbnb-recruiting-new-user-bookings
+,,,,,0,kevinwu06/feature-importance-w-xgboost,Feature Importance w/ XGBoost,kwu2u,,2016-02-04T22:44:55.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,airbnb-recruiting-new-user-bookings
+,,,,,0,jturkewitz/ndf-leak,ndf_leak,Jared Turkewitz,,2015-11-30T06:19:27.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,airbnb-recruiting-new-user-bookings
+,,,,,0,cathy64/beginner-plotly,Beginner Plotly 📈,cathy64,,2021-05-31T11:29:39.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbnb-recruiting-new-user-bookings
+,,,,,0,justk1/airbnb,AirBNB,K Bhambare,,2019-02-20T04:44:04.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbnb-recruiting-new-user-bookings
+,,,,,0,paullo0106/comebine-users-and-sessions-data,Comebine users and sessions data,Paul,,2015-12-18T10:02:47.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,airbnb-recruiting-new-user-bookings
+,,,,,0,nehalbandal/airbnb-predicting-user-s-1st-booking-destination,Airbnb: Predicting User's 1st Booking Destination,Nehal Bandal,,2020-10-19T13:09:08.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbnb-recruiting-new-user-bookings
+,,,,,0,gizemcemileelik/airbnb-rf-xgboost-label-encoded-resampled-not0-86,"Airbnb RF,XGboost label encoded, resampled_not0.86",Gizem Cemile Çelik,,2020-10-09T22:45:46.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbnb-recruiting-new-user-bookings
+,,,,,0,meicher/predicting-first-destination-4-models,Predicting First Destination - 4 Models,meicher,,2018-01-27T19:29:32.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,airbnb-recruiting-new-user-bookings
+,,,,,0,yasinnaal/airbnb-user-bookings-analysis,Airbnb User Bookings Analysis,Yasin Naal,,2021-07-07T13:52:38.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbnb-recruiting-new-user-bookings
+,,,,,0,fffjay/airbnb-new-user-bookings,Airbnb new user bookings,FJay,,2018-11-14T10:10:40.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,airbnb-recruiting-new-user-bookings
+,,,,,0,totalrecall/getting-started-1-0,getting started 1.0,boxybrown,,2016-01-31T19:34:44.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbnb-recruiting-new-user-bookings
+,,,,,0,gshguru/fisrtscript,FisrtScript,Gurupad Hegde,,2015-12-19T16:36:23.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,airbnb-recruiting-new-user-bookings
+,,,,,0,muhammadelemery/xgboost-80-important-features,XgBoost - 80% important features,Muhammad Elemery,,2022-02-22T18:53:43.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,gizemcemileelik/airbnbsubmissions,airbnbsubmissions,Gizem Cemile Çelik,,2020-10-05T09:59:51.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,akashbhiwgade/airbnb-ab,airbnb-ab,Akash Bhiwgade,,2020-08-16T14:53:25.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,naidudheerajvardhan/airbnb-xgboost,Airbnb xgboost,Dheeraj Vardhan,,2020-08-17T07:29:43.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,aryandec25/airbnb-booking-prediction,Airbnb Booking Prediction,Aniruddha,,2019-09-23T09:34:45.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,shaynarh/airbnb-cleaning-and-first-look-data,AirBnB - Cleaning and First Look @ Data,Shayna Howitt,,2018-07-06T21:34:48.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,simpleliquids/automated-data-visualization,Automated Data Visualization,Simple Liquids,,2016-01-12T19:35:32.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,etherqua/airbnbdemo,Airbnbdemo,Etherqua,,2015-12-18T16:17:42.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,tunguz/script-0-8655,script_0.8655,Bojan Tunguz,,2021-02-05T16:30:58.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,pappukrjha/data-exploration,lb_34_score_0.69,Pulkit Jha,,2015-12-08T06:26:21.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,airbnb-recruiting-new-user-bookings
+,,,,,0,petro98/mkhattab-airbnb,MKhattab-AirBnb,MahmoudKhattab,,2022-06-12T07:54:56.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,manas13/airbnb-new-user-bookings,Airbnb New User Bookings,Manas Ghosh,,2021-10-24T08:39:43.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,faridsharaf/airbnb-booking-recommendation-xgboost,Airbnb Booking Recommendation XGBoost,Farid,,2021-05-29T19:31:09.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,mattbast/airbnb-recommendation-engine,Airbnb - recommendation engine,Matt,,2020-05-16T09:45:48.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,terminate9298/airbnb-first-sample,AirBNB(First Sample ),Kaustubh Pathak,,2019-05-27T23:59:48.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/exploration,exploration,vLab,,2016-01-26T22:08:05.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,yib2irvine/ncdg-customized-eval-metric-xgboost,ncdg customized eval_metric xgboost,air,,2016-01-11T19:14:47.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,fuxinyi/explore,explore,xinyi Fu,,2015-12-29T09:33:35.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,camdenclark/exploring-age-gender-bkts-csv,Exploring Age_Gender_Bkts.csv,CamdenClark,,2015-12-02T10:03:55.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,ceruleus/airbnb-notebook,airbnb notebook,ceruleus,,2015-11-25T23:50:53.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,airbnb-recruiting-new-user-bookings
+,,,,,0,muhammadelemery/airbnb-xgboost,Airbnb - XgBoost ,Muhammad Elemery,,2022-02-20T09:09:02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,mohamedtaha7/airbnb-customer-segment-analysis,AirBNB Customer Segment Analysis,Mohamed Taha,,2021-05-30T09:49:50.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,yuchengleo/airbnb-eda-and-xgboost-c143d9,Airbnb EDA and Xgboost c143d9,YUCHENG LEO,,2021-05-26T02:44:00.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,karagain/kar-airbnb-pt-1-exploration,Kar Airbnb pt. 1 - Exploration,Kars,,2021-04-29T18:09:53.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,iraseidman/airbnb-competition,Airbnb Competition,Ira Seidman,,2021-03-08T19:16:18.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,gizemayurderi/gizem-airbnb-model-fitting,Gizem-airbnb-model fitting,Gizem Aydoğan Yurderi,,2020-10-09T00:10:42.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,mohammedkuheil/airbnb-eda-and-xgboost,Airbnb EDA and Xgboost,Mohammed Kuheil,,2020-07-06T07:30:21.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,youweizou/airbnb-20200617,Airbnb-20200617,weiweiwei,,2020-06-18T21:03:35.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,xialalala/airbnb-kernel-for-final-project-accuracy-0-86510,Airbnb Kernel For final project accuracy 0.86510,Xia Fu,,2020-02-14T20:15:43.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,ayafarrag/eventumtask,EventumTask,Aya Farrag,,2019-12-26T21:29:57.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,kb2900/airbnb-new-user-booking-prediction,Airbnb New User Booking Prediction,KangxinBao,,2019-12-04T01:56:16.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,jagannathrk/airbnb-eda,AirBNB - EDA,Kranti Kumar,,2019-11-27T18:26:26.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,ma7555/in-depth-analysis-and-a-keras-dense-model,In depth analysis and a keras dense model,ma7555,,2019-11-06T00:15:29.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,omarqasim/eventum-task,Eventum_task,Omar Qasim,,2019-08-29T22:44:03.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,sk3ptic/airbnb-part-2-of-3,Airbnb - Part 2 of 3,Aditya,,2019-08-20T03:38:25.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,sk3ptic/airbnb-part-1-of-3,Airbnb - Part 1 of 3,Aditya,,2019-08-20T03:37:55.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,malgoro39/predicci-n-de-destinos-airbnb,Predicción de destinos - Airbnb,Mauricio Gomez,,2019-06-11T19:13:12.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,raghavendrakotala/airbnb-springboard-eda,AirBnb__springBoard_EDA,raghavendrakuttala,,2019-06-05T14:00:49.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,krunal3kapadiya/airbnb-new-user-data,AirBnB New User Data,Krunal Kapadiya,,2019-01-04T09:46:55.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,gblondet/test-kaggle,Test_kaggle,gaëtan,,2017-03-20T19:27:44.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,latrous98/jiberish,jiberish,Latrous M.O.,,2017-03-20T19:31:47.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,toanngo/ml-data-venture-with-airbnb,ML Data Venture with AirBnB,toanngo,,2017-03-20T19:31:13.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,marioho/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,marioho,,2016-11-16T22:04:22.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,elaineches/user-data-exploration,User Data Exploration,eches,,2016-10-17T19:34:29.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,keiku322/dsbook-benchmark,DSBook_Benchmark,Keiku,,2016-09-30T04:10:21.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,vtrulyaev/ndcg-scorer,NDCG Scorer,vtrulyaev,,2016-07-25T08:28:23.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,jaredchung/understanding-stacking-generalisation,Understanding Stacking Generalisation,Jared Chung,,2016-04-21T04:41:59.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,itodorovic/airbnb-sessions-aggregator,Airbnb sessions aggregator,itod,,2016-02-05T13:28:56.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,bguberfain/bogus-date,Bogus Date?,Bruno G. do Amaral,,2016-02-02T17:17:30.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,sbairishal/xgboost,xgboost,Geeko,,2016-02-01T09:57:49.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,satomacoto/cross-val-score-for-sklearn-classifiers,cross_val_score for sklearn classifiers,stmct,,2016-02-03T02:29:53.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/let-s-combine,let's combine !,vLab,,2016-01-21T20:56:51.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,khaledfayed/script-0-1kf,script_0.1kf,Khaled Fayed,,2016-01-19T22:05:55.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,aikinogard/nan-in-sessions,NaN in sessions,Li Li,,2016-01-12T09:45:53.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,bguberfain/explore-sessions,Explore Sessions,Bruno G. do Amaral,,2016-01-07T18:12:27.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,abhishm/learning-from-the-others-work-0-8665,learning from the others work_0.8665,abhishek mishra,,2016-01-12T06:03:32.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,ryankopa/learning-rate-2,"learning rate .2, max_depth (5)",RyanKopa,,2015-12-31T01:56:00.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,domcastro/script-0-1acs,script_0.1acs,Bluefool,,2015-12-19T18:42:16.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,zhugds/test-script,test_script,pongba,,2016-02-03T02:49:17.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,kapetis/script-0-1,script_0.1,DataMiner,,2015-12-10T17:39:58.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,mohdatir/script-test,script_test,Mohd Atir,,2015-12-10T11:31:49.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,karma86/script-0,script_0.??,Sergei Bugrov,,2015-12-12T00:59:41.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,retroam/airbnb,AirBnB,retroam,,2015-12-03T23:23:29.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,weruioghvn/baseline-if-date-first-booking-is-null,Baseline (if date_first_booking is null),Xuan Wang,,2015-11-30T22:39:46.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,lnicalo/test1,test1,lnicalo,,2015-11-25T19:23:48.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,airbnb-recruiting-new-user-bookings
+,,,,,0,nick329/airbnb-new-user-bookings-w-xgb,Airbnb New User Bookings w/ XGB,nick_329,,2022-06-13T17:59:25.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,islameladwiy/airbnb-new-user-bookings,Airbnb New User Bookings,Islam Eladwiy,,2021-12-26T23:43:38.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yubi45/airbnb-new-user-bookings,Airbnb New User Bookings,yubi,,2021-12-20T04:57:08.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mostafasaad127/sprints-training-ef0bb7,Sprints Training ef0bb7,Mostafa Saad,,2021-10-10T00:00:18.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,youmnammma/sprints-training-ef0bb7,Sprints Training ef0bb7,Youmna Mohamed,,2021-10-09T22:33:39.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nadaomran/sprints-training,Sprints Training,Nada Omran,,2021-10-09T20:19:48.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ahmadossama/team-4-ds-training,Team 4 DS training,Ahmad Ossama,,2021-10-14T13:14:50.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,karimmahmoud1999/notebook9dc0d15949,notebook9dc0d15949,Karim Mahmoud1999,,2021-10-10T00:00:17.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,amiraabdelalim/vodafone-air-bnb-project,Vodafone_Air_BNB_Project,Amira AbdelAlim,,2021-05-31T09:05:03.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,karagain/kar-airbnb-pt-2-exploration-ml, Kar Airbnb pt. 2 - Exploration ML,Kars,,2021-05-04T17:57:57.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,apple1122/airbnb-eda-and-xgboost,Airbnb EDA and Xgboost,Kyle Huang,,2021-06-15T16:26:58.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mohamed1907/new-user-booking-final-prediction,New user Booking final prediction,Mohamed,,2021-03-15T20:57:26.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kenjishioya/airbnb-new-user-bookings,Airbnb New User Bookings,kenjishioya,,2021-02-21T12:48:18.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tangerinewang/submission,submission,Ziyu Wang,,2020-12-20T02:34:10.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,gizemayurderi/gizem-airbnb-model-fitting-drop-ndf,"Gizem-airbnb-model fitting-drop ""NDF""",Gizem Aydoğan Yurderi,,2020-10-08T23:37:17.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,gizemayurderi/gizem-airbnb-eda,Gizem-airbnb EDA,Gizem Aydoğan Yurderi,,2020-10-09T00:55:03.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,subwaymatch/airbnb-new-user-bookings-2,AirBnB New User Bookings 2,Ye Joo Park,,2020-08-02T04:33:31.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,carlosars2/kaggle-competition-xgboosting-and-decision-tree,Kaggle Competition - XGBoosting and Decision Tree ,CARLOS,,2020-04-08T17:52:37.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,rahulkumardubey/airbnb-data-analysis,Airbnb Data Analysis,Rahul Kumar Dubey,,2020-02-04T13:24:19.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mohamedbasueny/macathon1-0,macathon1.0,mohamed basueny,,2020-02-01T15:00:17.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yanjuwang/kernel1cca433714,kernel1cca433714,Yan Ju,,2020-01-02T11:29:47.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yanjuwang/finalexam,finalexam,Yan Ju,,2020-01-02T11:23:44.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mikaylaedwards/airbnb-ml,airbnb_ml,Mikayla Edwards,,2020-01-01T00:58:08.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,starngu1/kernel600b7dc6ce,kernel600b7dc6ce,Sida Chen,,2019-09-24T06:54:58.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sk3ptic/airbnb-part-3-of-3,Airbnb - Part 3 of 3,Aditya,,2019-08-20T03:50:48.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,star32134212/kernel418c1ff6f6,kernel418c1ff6f6,Orange4649,,2019-07-18T08:16:04.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,terminate9298/airbnb-second-kernel,AirBNB(Second Kernel),Kaustubh Pathak,,2019-05-21T15:15:46.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,rucrazia/rucrazia-s-airbnb-data-eda,Rucrazia's airbnb data EDA,rucrazia,,2019-03-16T14:54:46.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,alexshehata/airbnb-new-user-booking-vodafone,Airbnb-New user booking-Vodafone,Ahmed Shehata,,2019-01-11T08:26:49.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,rupambanerjee3/predicting-destination-bookings-of-airbnb-users,Predicting destination bookings of AirBnB users,Rupam Banerjee,,2019-01-23T17:22:30.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,lamdang/tutorial-airbnb,Tutorial AirBNB,Lam Dang,,2018-12-03T21:53:38.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kelvinclu/6-s198-user-data-exploration,6.s198 User Data Exploration,Kelvin Lu,,2018-09-25T17:39:59.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,architabanik/user-data-exploration,User Data Exploration,Archita,,2018-07-29T02:26:32.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,shaynarh/forked-airbnb-user-data-exploration,Forked - AirBnB User Data Exploration,Shayna Howitt,,2018-07-05T04:40:13.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jihyeseo/airbnb-eda-new-user-book,airbnb eda new user book,Jihye Sofia Seo,,2018-05-08T16:34:14.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,karagain/airbnb-exploratory-data-analysis-karsten,AirBnb Exploratory Data Analysis - Karsten,Kars,,2018-04-27T18:19:06.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yixinsunn/ndcg-example,NDCG example,Yixin Sun,,2018-04-20T14:14:56.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,apsivakumar/first-prediction-script,First prediction script,Sivakumar Palanivel,,2017-07-01T04:34:44.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mnshrs/data-cleaning,Data_cleaning,Machined Heuristics,,2017-06-20T11:00:36.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,smalhot/notebook6d79f820b1,Notebook6d79f820b1,SushantMalhotra,,2017-05-26T09:22:15.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,amalhotra/notebookdbde9b1a39,Notebookdbde9b1a39,malhot,,2017-05-26T06:47:35.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,divyamg/notebook370b621f82,Notebook370b621f82,DivyamGulati,,2017-07-03T19:54:15.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,liuyuwei61566/airbna-predict,Airbna_predict,maoxiaomeng615,,2017-05-23T06:53:43.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,xiaoyaonanjiea/notebook2c8d51050e,Notebook2c8d51050e,DongmingZhang,,2017-05-14T06:59:12.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,wafabenaissa/notebook7bbb5739c7,Notebook7bbb5739c7,WafaBA,,2017-04-30T12:35:26.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mdk1974/airbnb-0-86314,AirBnb 0.86314,Mickael Duchesne,,2017-04-30T16:07:16.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,wafabenaissa/notebook74039e8106,Notebook74039e8106,WafaBA,,2017-04-26T10:58:20.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,wafabenaissa/notebook351313c6c9,Notebook351313c6c9,WafaBA,,2017-04-26T10:00:08.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,harnalashok/notebook482ae0e516,Notebook482ae0e516,ashok k harnal,,2017-04-26T07:14:39.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,wafabenaissa/notebook560f77f6db,Notebook560f77f6db,WafaBA,,2017-04-30T12:40:08.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,maazsyed/notebook3ecc993fc0,Notebook3ecc993fc0,maazsyed,,2017-04-16T01:33:59.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,thiviyan/airbnb-customer-destination-prediction,AirBnb: Customer Destination Prediction,Thiviyan Thanapalasingam,,2017-04-11T20:37:14.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,euclid314/notebook474b49dbe3,Notebook474b49dbe3,Euclid314,,2017-04-05T02:42:09.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,dolfsquare/notebooke7cb37ca27,Notebooke7cb37ca27,Guillaume JORANDON,,2017-04-03T14:26:05.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,obledaym/partie-2,Partie 2,Aymeric OBLED,,2017-03-20T19:17:25.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,obledaym/notebook767746fb94,Notebook767746fb94,Aymeric OBLED,,2017-03-20T19:16:35.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hajerboussetta6/notebookeba6aaa734,Notebookeba6aaa734,hajer,,2017-03-27T16:59:09.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,alexdrak28/dataventure-session-2,DataVenture - Session 2,Alex,,2017-03-20T19:14:13.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,phamnuhuyentrang/session-2,Session 2,TrangPhạmNữHuyền,,2017-03-20T20:14:42.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,phamcong/section-2,section 2,Cong Cuong PHAM,,2017-03-20T19:28:53.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,bastienrolando/test-kaggle,Test Kaggle,RolaB,,2017-03-20T19:13:33.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ckerebel/notebookc6f3ff5b46,Notebookc6f3ff5b46,ckerebel,,2017-03-20T18:22:14.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,theophilemolcard/donio,donio,TheoM,,2017-03-20T19:12:20.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,augustin72/notebook8f9f1e2242,Notebook8f9f1e2242,Augustin,,2017-03-20T18:25:49.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,elwanh/test-kaggle,test Kaggle,elwan,,2017-03-21T12:31:24.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,leminhtr/airbnb-data-venture-sessions,AirBnB - Data Venture sessions,Minh Tri LÊ,,2017-03-20T21:13:35.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,roockinator/copain,Copain,Maxime,,2017-03-20T19:11:56.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,flyingv57/notebook7d2b41ab57,Notebook7d2b41ab57,Emilien WINGERT,,2017-03-20T18:20:57.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hajerboussetta6/notebookc3d266dd0d,Notebookc3d266dd0d,hajer,,2017-03-20T19:00:59.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mage45/session-2,Session #2,Emeric Ostermeyer,,2017-03-20T19:11:54.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,lliepchi/workshop-2,WorkShop_2,Laura Liepchitz,,2017-03-20T19:11:06.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,debugs/ceci-est-un-titre,Ceci est un titre,DeBugs,,2017-03-20T19:31:15.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,dolfsquare/training-course,Training course,Guillaume JORANDON,,2017-04-03T14:43:04.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,julieberteaux/workshop-2,WorkShop 2,Julie,,2017-03-20T19:11:14.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ehariz/data-test,Data test,Elias ,,2017-03-20T19:11:40.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,lauredecaudin/notebook588b816e6f,Notebook588b816e6f,Laure Decaudin,,2017-03-20T19:21:49.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,molleque/kaggle-session-2,kaggle_session_2,molleque,,2017-03-20T19:14:05.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,alexdrch/session2,session2,AlexisD,,2017-03-20T19:14:10.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,capucineprudhomme/sc-ance-2,Scéance 2,Capucine,,2017-03-20T19:34:05.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nonoan/session-2,session_2,nonoan,,2017-03-20T19:27:52.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ceparis/session-2,Session 2,Cédric Paris,,2017-03-20T18:19:35.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,lenkiii/my-first-python-notebook-some-data-cleaning,My first Python notebook - some data cleaning,Lenka,,2017-03-20T19:14:05.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,morenov/session-2,Session 2 ,Valentin Moreno,,2017-03-27T17:28:27.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,artemisart/handsonlab-2-airbnb,HandsOnLab 2 - airbnb,artemisart,,2017-03-20T19:10:56.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,loubonnet/data-clean,Data Clean,Louise Bonnet,,2017-03-20T19:11:28.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,perladbsky/data-cleaning,Data_cleaning,Perla Doubinsky,,2017-03-20T19:11:25.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,obledaym/notebook777ce7bf71,Notebook777ce7bf71,Aymeric OBLED,,2017-03-20T19:15:43.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,theodorebourgeon/session2,Session2,Theodore Bourgeon,,2017-03-27T17:32:11.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,camilledrs/test-kaggle,Test Kaggle,Camille Dresse,,2017-03-20T19:10:47.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,graveen22/session-2,Session 2,B.O.B,,2017-03-20T19:10:32.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,slaurent/hands-on-lab-ii,hands on lab II,slaurent,,2017-03-20T19:14:07.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ghurtado/notebook2bcc329ca1,Notebook2bcc329ca1,ghurtado,,2017-03-20T18:18:13.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ghurtado/notebook7e4c1c3dfc,Notebook7e4c1c3dfc,ghurtado,,2017-03-20T18:06:12.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,fcarley/testing,testing,Frank Carley,,2017-03-13T21:43:43.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,fcarley/three-level-classification-architecture-a2f80c,three_level_classification_architecture a2f80c,Frank Carley,,2017-03-13T21:43:02.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,gaoxiangak47/airbnb-new-user-country-prediction-practice,Airbnb new user country prediction practice,gaoxiangak47,,2017-03-04T03:37:04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,amiyazaki/notebook95b6055aeb,Notebook95b6055aeb,AMBC,,2017-03-02T21:51:42.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ninosaur/user-data-exploration,User Data Exploration,NinoZhang,,2017-02-24T08:21:03.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,suruisun/user-data-exploration,User Data Exploration,SuruiSun,,2021-03-03T21:19:57.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vinibarceloso/airbnb-user-bookings,Airbnb User Bookings,Vinícius Barcelos,,2017-02-02T23:23:40.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vinibarceloso/automated-data-visualization,Automated Data Visualization,Vinícius Barcelos,,2017-02-02T23:15:27.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,foutik/notebook5c2f042390,Notebook5c2f042390,foutik,,2017-02-03T09:21:21.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hberkia/notebookedeb21a2af,Notebookedeb21a2af,houssamberkia,,2017-02-02T10:22:42.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,praveenarangavajhula/user-data-exploration,User Data Exploration,PraveenaRangavajhula,,2017-01-30T05:51:09.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jxzhuang/notebookd8cd451bdf,Notebookd8cd451bdf,CharlieZhuang,,2017-01-24T17:01:04.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,gdataanalysis/notebook8e355495b4,Notebook8e355495b4,GiuseppeMarzano,,2017-01-24T15:08:44.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,foutik/random-forest-script,random_forest_script,foutik,,2017-02-08T11:35:23.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,foutik/random-forest-model,Random forest model,foutik,,2017-01-24T11:34:03.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,akashsharma/user-data-exploration,User Data Exploration,Akash Sharma,,2019-02-02T01:26:28.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,juliannahan/user-data-exploration,User Data Exploration,PeipeiHan,,2017-01-17T16:51:39.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,juliannahan/notebook105b1b1ba6,Notebook105b1b1ba6,PeipeiHan,,2017-01-17T16:49:37.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mshinoy/user-data-exploration,User Data Exploration,Mohammed Shinoy,,2017-01-14T21:42:17.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sevendeadlysins/airbnb-user-bookings,Airbnb User Bookings,Hongjun Wang,,2017-01-14T15:49:41.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kimseonbin/notebookbe2f45f0f9,Notebookbe2f45f0f9,Seonbin Kim,,2017-01-14T00:25:12.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,pkuhugo/learning-from-the-others-work-0-8665-5a49132c,learning from the others work_0.8665 5a49132c,Hugo,,2017-01-13T04:17:11.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,pkuhugo/learning-from-the-others-work-0-8665,learning from the others work_0.8665,Hugo,,2017-01-13T04:14:21.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,droidkari/user-data-exploration,User Data Exploration,droidkari,,2017-01-08T22:29:34.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,afabris/prova,prova,agnese,,2017-02-14T19:18:19.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,giuseppeiacono/notebook50b574ab6a,Notebook50b574ab6a,GiuseppeIacono,,2017-01-02T14:23:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,suruisun/three-level-classification-architecture,three_level_classification_architecture,SuruiSun,,2017-01-02T07:31:18.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,foutik/script-cleaning-data,Script_Cleaning_Data,foutik,,2017-02-08T11:21:59.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryankopa/rf1av,rf1av,RyanKopa,,2016-12-30T20:07:43.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,dbsnail/airbnb,Airbnb,Jason Li,,2016-12-22T18:50:57.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,foutik/user-data-exploration,User Data Exploration,foutik,,2016-12-20T21:32:32.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,curtisfocht/notebook27c57cfa0a,Notebook27c57cfa0a,CurtisFocht,,2016-12-19T03:29:18.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ineelsjl/three-level-classification-architecture,three_level_classification_architecture,John Sun,,2016-12-17T15:27:07.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,worldeditor07/three-level-classification-architecture-bfdd23da,three_level_classification_architecture bfdd23da,Hua,,2016-12-16T19:13:45.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,worldeditor07/three-level-classification-architecture,three_level_classification_architecture,Hua,,2016-12-13T04:59:39.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,pkuhugo/notebook43f95d1efb,Notebook43f95d1efb,Hugo,,2016-12-12T03:30:41.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,andrewand/notebook0bcf4533a3,Notebook0bcf4533a3,andrewand,,2016-12-10T02:00:28.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,uniquegino/user-data-exploration,User Data Exploration,Kanrong Yu,,2016-12-10T01:31:32.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zt724540/notebook114c30321a,Notebook114c30321a,Tian Zhang,,2016-12-08T22:03:23.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sazedul/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,Sazedul Alam,,2016-12-08T09:15:41.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,karsteng/notebook4f88e7b5d2,Notebook4f88e7b5d2,KarstenGielis,,2016-12-07T15:35:35.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sazedul/airbnb-user-bookings-f4d4b862,Airbnb User Bookings f4d4b862,Sazedul Alam,,2016-12-07T06:25:05.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sazedul/airbnb-user-bookings,Airbnb User Bookings,Sazedul Alam,,2016-12-07T06:10:57.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ebzimm/airbnb-capstone-project,AirBnb Capstone Project,ebzimm,,2016-12-07T00:41:02.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ambrusia/notebook834ab7c8f2,Notebook834ab7c8f2,Chen,,2016-12-04T20:52:29.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,omerasif57/airbnb-exploratory-analysis-2db75085,Airbnb Exploratory Analysis 2db75085,Omer Asif,,2016-12-04T16:27:58.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,omerasif57/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,Omer Asif,,2016-12-04T09:16:38.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sayan30/notebooke86eb7abd1,Notebooke86eb7abd1,SayanMajumdar,,2016-12-04T06:25:46.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sayan30/three-level-classification-architecture,three_level_classification_architecture,SayanMajumdar,,2016-12-03T21:22:24.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jooyeon/notebook489c240fa2,Notebook489c240fa2,JOOYEONJO,,2016-12-02T06:33:54.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,piakarski/first-competition,First competition ,AlesPiakarski,,2016-12-01T10:24:59.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,piakarski/beginning,Beginning ,AlesPiakarski,,2016-12-01T10:24:13.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,piakarski/notebookff460f5a32,Notebookff460f5a32,AlesPiakarski,,2016-12-01T10:21:15.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,oliverh1118/notebookc1b72ce818,Notebookc1b72ce818,oliverh1118,,2016-11-30T17:44:56.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ilacns/notebook694cbf96fa,Notebook694cbf96fa,Ilaria,,2016-11-24T21:03:59.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,bellafera/notebookacbab6d45d,Notebookacbab6d45d,Bella,,2016-11-22T02:33:14.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,stricklandc17/abcdedf,abcdedf,CharlieStrickland,,2016-11-18T23:20:20.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tingsg/notebookc17a23eb3f,Notebookc17a23eb3f,Ting,,2016-11-15T00:39:29.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,acconciamessa/notebook97330df473,Notebook97330df473,maccon,,2016-11-13T20:54:46.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,chinwee/notebook9f07287f69,Notebook9f07287f69,ChinWee,,2016-11-13T14:24:02.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,songsijun/three-level-classification-architecture-280b85da,three_level_classification_architecture 280b85da,SijunSong,,2016-11-12T13:55:24.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,songsijun/three-level-classification-architecture,three_level_classification_architecture,SijunSong,,2016-11-10T13:03:18.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tjdford/test1,test1,TJDurnford,,2016-11-07T23:23:21.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,aditisonik/airbnb-user-bookings,Airbnb User Bookings,aditisonik,,2016-11-07T10:22:51.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tingting007/notebookfffbcf8199,Notebookfffbcf8199,Tingting,,2016-11-07T02:02:15.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jbaragon79/notebook12773408e0,Notebook12773408e0,JavierBlancoAragón,,2016-11-04T17:19:11.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yingcheng/user-data-exploration,User Data Exploration,YingCheng,,2016-11-03T23:58:51.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,chriscaudill/notebook833ab6c8d2,Notebook833ab6c8d2,Chris Caudill,,2020-12-19T20:39:43.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,thomaxyu/notebook4769e21606,Notebook4769e21606,"Zhang, Xiaoyu",,2016-11-01T19:49:54.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,chriscaudill/notebook65c0e37a49,Notebook65c0e37a49,Chris Caudill,,2020-12-19T20:40:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,acconciamessa/w207-final-proj,W207 final proj,maccon,,2016-10-31T23:56:53.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,lidanyu18/three-level-classification-architecture,three_level_classification_architecture,Dan,,2016-10-30T14:21:31.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,deka108/notebook19a457c954,Notebook19a457c954,Deka Auliya,,2016-10-24T09:52:07.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,qjin076/user-data-exploration,User Data Exploration,JinQu,,2016-10-21T23:14:00.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ganj28/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,Anusha,,2016-10-09T02:50:25.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ruslans/user-data-exploration,User Data Exploration,silverio,,2016-10-05T21:55:53.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,dgwtexas/airbnb-user-bookings,Airbnb User Bookings,DGWTX,,2016-10-04T22:11:47.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mjhmjy/notebookf2b59b171e,Notebookf2b59b171e,ykmm,,2016-10-02T18:29:04.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nickwinton/notebook1f711b332a,Notebook1f711b332a,AlonAmar,,2016-10-02T09:28:13.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yuantorius/three-level-classification-architecture,three_level_classification_architecture,yuantorius,,2016-10-02T02:48:43.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,alonshoshan/user-data-exploration,User Data Exploration,AlonShoshan,,2016-10-01T16:49:17.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,cathyc/notebookf8fea3a405,Notebook2a7e5f57ee,DaisyChang,,2016-09-30T08:56:57.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,candydiamonds07/notebookafb171ce30,Notebookafb171ce30,candydiamonds07,,2016-09-28T15:23:03.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yueyulee/notebook0fcf8fa834,Notebook0fcf8fa834,YueYuLee,,2016-09-20T16:07:01.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,beyondrek/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,BeyondRek,,2016-09-09T14:00:30.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,shitman/user-data-exploration-03ebbdf0,User Data Exploration 03ebbdf0,shitman,,2016-09-07T23:13:27.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,shitman/user-data-exploration-671d2a1f,User Data Exploration 671d2a1f,shitman,,2016-09-07T15:39:40.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,shitman/user-data-exploration,User Data Exploration,shitman,,2016-09-07T08:00:31.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,karthikko/user-data-exploration,User Data Exploration,Kar,,2016-09-02T18:14:09.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,liangrc2012/notebookd683b24c0f,Notebookd683b24c0f,Ruochen Liang,,2016-08-31T03:23:51.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,darkgreigh/three-level-classification-architecture-340a9537,three_level_classification_architecture 340a9537,HarshitKhare,,2016-08-27T14:43:48.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,darkgreigh/three-level-classification-architecture,three_level_classification_architecture,HarshitKhare,,2016-08-27T14:02:48.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ssu008/three-level-classification-architecture,three_level_classification_architecture,ssu008,,2016-08-23T07:36:29.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,garethdjones/data-exploration,Data Exploration,GarethJones,,2016-08-17T04:29:57.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,aditya41295/notebookfdb450f7f0,Notebook03a43b89fe,Aditya Parashar,,2016-08-12T18:29:09.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hienmai/notebookf5dd545338,Notebookf5dd545338,Hien Mai,,2016-08-11T09:02:58.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hienmai/notebook4613e2fbf6,Notebook4613e2fbf6,Hien Mai,,2016-08-10T15:52:12.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hienmai/notebook3d96330116,Notebook3d96330116,Hien Mai,,2016-08-08T09:09:40.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,juujuujuujuu/airbnb-user-bookings,Airbnb User Bookings,AliceZ,,2016-08-09T03:11:59.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hienmai/notebookd5a2334db0,Notebookd5a2334db0,Hien Mai,,2016-08-07T06:40:26.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hienmai/notebook0d3f6f1ae0,Notebook0d3f6f1ae0,Hien Mai,,2016-08-05T20:01:34.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hienmai/notebookdc6984d234,Notebookdc6984d234,Hien Mai,,2016-08-05T11:03:43.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,advarot/automated-data-visualization,Automated Data Visualization,AdvaRot,,2016-08-05T10:31:50.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,moiaussi06/sandbox,sandbox,moiaussi06,,2016-07-24T08:38:45.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,falakmarri/testing-airbnb,Testing-AirBnB,FalakrMarri,,2016-07-10T21:25:04.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,rsbkr333/feature-importance-w-xgboost,XGBoost Hyper parameters,napster333,,2016-06-04T06:12:14.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jaredchung/testa,testa,Jared Chung,,2016-05-04T04:06:08.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,duohkaoz/three-level-classification-architecture,three_level_classification_architecture,WiriyangPipatsakulroj,,2016-04-14T09:09:32.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,potterxu/python-air4-11,python air4-11,potter xu,,2016-04-11T03:28:04.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,potterxu/r-demo,R demo,potter xu,,2016-04-11T04:22:36.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,stephenzou/first,first,Stephen Zou,,2016-04-07T01:13:21.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mlesna/three-level-classification-architecture,three_level_classification_architecture,mlesna,,2016-03-18T20:22:16.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,thodime/backup-purpose-airbnb,Backup_Purpose_Airbnb,Thodime,,2016-03-14T17:05:21.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryancorley/initialexploration,InitialExploration,Ryan,,2016-03-07T18:18:03.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryancorley/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,Ryan,,2016-03-07T19:08:51.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryancorley/exploring,Exploring,Ryan,,2016-03-07T19:17:33.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sbenhamou/testz,testz,Simon Benhamou,,2016-02-19T17:58:13.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nikseldon/asusual-01,asusual_01,NikSeldon,,2016-02-11T19:54:23.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,rajneeshk1990/airbnb-user-bookings,Airbnb User Bookings,Rajneesh,,2016-02-11T06:53:09.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,michaelpawlus/xgb-feature-exploration,xgb_feature_exploration,Michael Pawlus,,2016-02-11T14:33:51.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,xhuang2014/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,Conan,,2016-02-08T21:06:07.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,lisenegger/script-2,script_2,LaurentIsenegger,,2016-02-07T00:30:55.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,chuhimself/airbnb-lazy-exploration,Airbnb Lazy Exploration,Charles Chu,,2016-02-04T03:48:23.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,dloker/temp5,temp5,dloker,,2016-02-01T16:54:41.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,justfor/airbnb-bin,airbnb-bin,Justfor,,2016-02-02T22:13:56.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,shaharazulay/airbnb-cnt-prediction-pipe,airbnb_cnt_prediction_pipe,shahar_azulay,,2016-02-01T09:17:10.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,svashishtha/create-all-categorical-dummy-variables,Create all categorical dummy variables,Siddharth Vashishtha,,2016-01-31T12:45:37.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tonirincon/airbnb-exploratory-analysis,Airbnb Exploratory Analysis,ToniRincon,,2016-01-30T22:31:56.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,psismanis/a-try-for-airbnb,A try for Airbnb,PanagiotisSismanis,,2016-01-31T11:08:14.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/binarydest,binaryDest,vLab,,2016-01-30T14:09:55.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/script-all,script_all,vLab,,2016-01-30T13:37:23.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tonirincon/my-script-1,my_script_1,ToniRincon,,2016-01-29T23:28:48.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tonirincon/my-first-test,my_first_test,ToniRincon,,2016-01-29T23:23:01.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,justfor/just-air-play,Just-air-play,Justfor,,2016-02-03T22:39:30.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,korder/test-notebook-2,Test Notebook 2,Kord,,2016-01-29T07:14:22.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,korder/test-notebook,Test Notebook,Kord,,2016-01-29T04:49:52.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,korder/first-test-script,First test script,Kord,,2016-01-29T03:14:08.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,satomacoto/script-0-1-1,script_0.1.1,stmct,,2016-02-05T11:01:18.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,caaa81/otra-prueba,otra prueba,Carlos A. del Álamo Alonso,,2016-01-28T14:51:01.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kevinoconnor/airbnb-ko-1,AirBnB_KO_1,Kevin O'Connor,,2016-01-27T06:21:05.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/testf,testf,vLab,,2016-01-26T13:19:59.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zeagline/have-a-try,have a try,zeag,,2016-01-26T11:54:51.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,satomacoto/no-session-data,no session data?,stmct,,2016-02-07T14:00:41.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,satomacoto/script-0-1,script_0.1,stmct,,2016-02-01T01:56:37.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/testd,testd,vLab,,2016-01-25T13:00:37.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,maxdickinson/analysis,Analysis,maxdickinson,,2016-01-25T02:11:18.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryankopa/82result,.82result,RyanKopa,,2016-01-23T23:41:23.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zoso95/tf-notebook,tf notebook,GeoffreyBradway,,2016-01-23T00:36:10.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zoso95/introsnoteboke,introsnoteboke,GeoffreyBradway,,2016-01-23T13:36:25.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zoso95/testa,testa,GeoffreyBradway,,2016-01-22T22:46:47.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,alexlzzz/script-al-8888,script_al_9898,==>(AL)<==,,2016-01-27T02:03:25.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,antimage/data-analysis-by-sylar,Data analysis by  Sylar,John,,2016-01-22T12:40:19.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,techstrix/airbnb2,AirBnb2,Amit Gupta,,2016-01-22T08:58:13.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,techstrix/airbnb,AirBnb,Amit Gupta,,2016-01-22T08:55:05.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kesamet/xgb-test3-1,xgb_test3,Kok Meng Tan,,2016-01-22T08:10:33.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zhaochd/test-scripy,test_scripy,johnwall,,2016-01-30T09:50:14.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,timlincool/feature-importance-w-xgboost,Feature Importance w/ XGBoost,tempo,,2016-01-22T04:45:03.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,suvrathiran/airbnb,airbnb,Suvrat Hiran,,2016-01-24T08:35:14.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,aikinogard/short,short,Li Li,,2016-01-18T06:10:08.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nkhuyu/script-0-1,script_0.1,nkhuyu,,2016-01-18T04:36:46.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,l1norm/combined-user-and-session-data,Combined user and session data,arbrb,,2016-01-17T17:38:14.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kesamet/script-0-8655,script_0.8655,Kok Meng Tan,,2016-01-22T07:46:00.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,bendyna/gradient-boosting-classifier-0-863,difference between CV and LB,Ivan Bendyna,,2016-01-15T08:47:43.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jialiu54321/data-visualization,Data Visualization,LarryL,,2016-01-15T04:23:37.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vivedha/airbnb,Airbnb,Vivedha Elango,,2016-01-13T05:56:07.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryankopa/airbnb-v2,airbnb_v2,RyanKopa,,2016-12-03T04:14:05.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,simpleliquids/munger-py,Munger.py,Simple Liquids,,2016-01-12T19:06:35.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,mihobu/my-airbnb-workbook,My Airbnb Workbook,mihobu,,2016-01-24T23:48:59.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,totalrecall/ttesttttt,ttesttttt,boxybrown,,2016-01-22T23:31:16.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nickbowman/ndcg-example,NDCG example,Nick Bowman,,2016-01-08T16:56:59.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tonygracious/user-data-exploration,User Data Exploration,Tony Gracious,,2016-01-08T15:15:20.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sanketss/demo-try,demo_try,Sanket Sirsikar,,2016-01-08T09:06:36.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vikrams/user-data-exploration,User Data Exploration,Vikram,,2016-01-07T06:01:54.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vincnet/script-0-8655-reshaped,script_0.8655_reshaped,vLab,,2016-01-25T20:05:43.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,karlsurmacz/firstmodelbuild,FirstModelBuild,Flounder,,2016-01-05T16:17:49.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,angelico/bnbdataexplore,bnbDataExplore,fetta,,2016-01-05T11:03:04.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jmp405/test1,test1,Jim Parr,,2016-01-05T09:39:40.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,jmp405/bnbdataexplore,bnbDataExplore,Jim Parr,,2016-01-05T16:17:48.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,rocipher/learning-from-the-others-work-0-8665,learning from the others work_0.8665,rocipher,,2016-01-04T13:11:54.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryankopa/n-estimators-30,n estimators 30,RyanKopa,,2016-12-30T19:10:08.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vlandeau/user-data-exploration,User Data Exploration,VictorLandeau,,2016-01-03T11:41:25.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zihexu/test01,test01,Luke Xu,,2016-01-03T18:14:37.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,williamwang/xing-wang-test,xing_wang_test,xing wang,,2016-01-02T23:02:40.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,axplusb/baseline-uniform-predictions-0-85359,Baseline (uniform predictions | 0.85359),Samuel O. Ronsin,,2016-01-02T19:01:46.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ryankopa/learning-from-the-others-work-0-8665,learning from the others work_0.8665,RyanKopa,,2016-01-01T19:07:35.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,williamwang/test-william,test william,xing wang,,2016-01-03T22:16:53.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,abhishm/exploring-the-data,exploring the data,abhishek mishra,,2016-01-02T19:16:35.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,abhishm/persistence,persistence,abhishek mishra,,2016-01-01T07:26:03.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,niranjansonachalam/airbnb,Airbnb,Niranjan Sonachalam,,2015-12-31T17:01:35.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,oratier/testasd,testasd,oratier,,2015-12-29T14:59:37.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,stkwbc/notebook-test,notebook_test,skwbc,,2015-12-27T14:39:26.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,szelvenskiy/test1,test1,szelvenskiy,,2015-12-26T23:42:49.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,stkwbc/script-test,script_test,skwbc,,2015-12-26T16:39:24.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,geledek/test1234,Test1234,geledek,,2015-12-25T04:14:09.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,anastasiyaromana/age-xgb-5classes,age_xgb_5classes,anastasiyaromana,,2015-12-24T23:38:46.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,anastasiyaromana/xgboost-test,ages_preproc_xgboost,anastasiyaromana,,2015-12-24T23:52:09.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,atif137/testscript,testscript,Atif Tahir,,2015-12-24T20:42:15.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,npatta01/explore,explore,Nidhin Pattaniyil,,2015-12-22T23:33:03.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,apurandare/trial,Trial,Aditya Purandare,,2015-12-22T23:21:07.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,trizzzat/test1,test1,trizzzat,,2015-12-22T18:56:38.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,chiuyeelau/airbnbbookings,AirbnbBookings,ChiuyeeLau,,2015-12-22T09:00:56.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,dionhagan/airbnb-classify,airbnb_classify,Dion Hagan,,2015-12-22T00:58:59.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,gshs27/dsadsa,dsadsa,"Seungmin, Baik",,2015-12-20T06:19:49.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,hanshan/user-data-exploration,User Data Exploration,Hans Han,,2015-12-19T06:44:30.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,yashasbharadwaj/1st-r,1st.R,Yashas Bharadwaj,,2015-12-18T17:40:00.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,etherqua/random-forrest,Random_Forrest,Etherqua,,2015-12-18T04:04:40.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,etherqua/feature-study,Feature Study,Etherqua,,2015-12-18T04:14:04.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kagaav/script-1,Script_1,Amit,,2015-12-18T00:27:53.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,msaroufim/airbnb,airbnb,MarkSaroufim,,2015-12-17T06:15:06.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,srwalker101/srw-test,srw_test,Simon Walker,,2017-05-18T13:53:19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,guschadney/sandbox,sandbox,Gus Chadney,,2015-12-15T16:05:50.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,guschadney/sandpit,sandpit,Gus Chadney,,2015-12-15T15:25:57.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,juanlopez/first-script1,First Script1,Juanpa,,2015-12-14T13:52:58.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,juanlopez/first-script,First Script,Juanpa,,2015-12-14T13:52:06.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,upulbandara/my-starting-point,my_starting_point,Upul Bandara,,2015-12-14T12:38:32.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,pappukrjha/airbnb-nb,airbnb_nb,Pulkit Jha,,2015-12-14T09:45:12.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,pappukrjha/script-0-8655,script_0.8655,Pulkit Jha,,2015-12-14T09:08:28.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,soukaina/ndcg-example,NDCG example,Soukaina,,2015-12-13T17:01:28.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,wallinm1/script-0-1,script_0.1,Michael Wallin,,2015-12-12T21:28:32.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kylechen/naiveguess,NaiveGuess,KyleChen,,2015-12-12T16:05:29.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kylechen/testtest,testtest,KyleChen,,2015-12-12T15:48:32.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,brianconnorflynn/airbnb,airbnb,BrianFlynn,,2015-12-13T02:32:02.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,weiwang/script-0-8655,script_0.8655,weiWang,,2015-12-11T16:55:28.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,caaa81/otromas,otromas,Carlos A. del Álamo Alonso,,2015-12-14T13:24:31.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,romainlhez/airbnb,airbnb,RomainLhez,,2015-12-10T22:50:31.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,romainlhez/script-0-8655,script_0.8655,RomainLhez,,2015-12-10T22:33:35.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,caaa81/baseline3,baseline3,Carlos A. del Álamo Alonso,,2015-12-10T18:20:31.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,caaa81/baseline2,baseline2,Carlos A. del Álamo Alonso,,2015-12-10T18:15:57.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,luborliu/script-0-8655,script_0.8655,Lubor Liu,,2015-12-10T16:12:02.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vtomar/airbnb,airbnb,Varun Tomar,,2015-12-09T18:02:35.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,anubrata/airbnb,airbnb,Anubrata,,2015-12-09T14:44:00.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,calaba/testric,TestRic,Richard Calaba,,2015-12-09T00:13:10.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,pappukrjha/raw-model,raw_model,Pulkit Jha,,2015-12-10T18:15:05.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,blogoriver/airbnb-user-bookings,Airbnb User Bookings,LarryQing,,2015-12-07T05:35:21.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kofiboakye/airbnb-user-bookings,Airbnb User Bookings,KofiBoakye,,2015-12-07T16:11:43.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,vojnovski/blabla,BlaBla,Viktor Vojnovski,,2015-12-05T19:23:05.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,totalrecall/getting-started,getting started,boxybrown,,2015-12-16T16:50:27.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,camdenclark/ipythontesting,IPythonTesting,CamdenClark,,2015-12-02T02:59:06.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,nishkgp/temp12345,temp12345,Nishant Kumar,,2015-12-01T21:34:49.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,aikinogard/ndf-leak-short,ndf_leak_short,Li Li,,2015-12-01T19:06:16.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,qsuire/basic,Basic,Quentin Suire,,2015-11-30T17:14:48.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,qsuire/exploration,Exploration,Quentin Suire,,2015-11-30T17:01:21.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,danielbeckstein/test-1a,test-1a,Random Data,,2015-11-29T21:20:43.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,danielbeckstein/test-1,test-1,Random Data,,2015-11-29T21:19:32.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zenghua2013/airbnb-v2,Airbnb v2,EdwardHuaZeng,,2015-11-28T03:01:44.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,zenghua2013/bnbair,bnbair,EdwardHuaZeng,,2015-11-28T02:51:26.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,divyakkm/script1,Script1,Divya Menghani,,2015-11-27T05:49:23.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,phayes/competition,competition,PhilHayes,,2015-11-26T17:09:09.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,phayes/airbnb-competition,Airbnb Competition,PhilHayes,,2015-11-26T16:32:40.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,sweetsyrup/airbnb-eda,Airbnb_EDA,Hongtae Kim,,2016-01-02T13:31:55.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,tunguz/fisrtscript,FisrtScript,Bojan Tunguz,,2015-11-26T14:07:22.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,kunjal/fisrtscript,FisrtScript,Kunjal,,2015-11-27T17:00:57.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings
+,,,,,0,ceruleus/airbnb,airbnb,ceruleus,,2015-11-25T22:49:14.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,airbnb-recruiting-new-user-bookings

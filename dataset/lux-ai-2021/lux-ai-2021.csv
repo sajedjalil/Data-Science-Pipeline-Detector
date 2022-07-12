@@ -1,0 +1,99 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,huikang/lux-ai-working-title-bot,[Lux AI] Working Title Bot,Tong Hui Kang,,2021-10-01T14:11:43.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],162,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-with-imitation-learning,Lux AI with Imitation Learning,sazuma,,2021-09-21T05:49:11.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],141,lux-ai-2021
+,,,,,0,stonet2000/lux-ai-season-1-jupyter-notebook-tutorial,Lux AI Season 1 Jupyter Notebook Tutorial,Stone Tao,,2021-09-05T22:32:47.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],139,lux-ai-2021
+,,,,,0,robga/simulations-episode-scraper-match-downloader,Simulations Episode Scraper Match Downloader,robga,,2021-10-06T09:32:15.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],125,lux-ai-2021
+,,,,,0,aithammadiabdellatif/lux-ai-reinforcement-learning,[Lux AI ✨ ] Reinforcement Learning,AIT HAMMADI Abdellatif,,2021-09-14T13:55:45.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],94,lux-ai-2021
+,,,,,0,ilialar/lux-ai-risk-averse-baseline,[Lux AI] Risk averse baseline,Ilia Larchenko,,2021-08-25T15:17:33.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],91,lux-ai-2021
+,,,,,0,glmcdona/reinforcement-learning-openai-ppo-with-python-game,Reinforcement Learning OpenAI PPO with python game,Geoff McDonald,,2021-10-01T16:11:49.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],72,lux-ai-2021
+,,,,,0,realneuralnetwork/lux-ai-with-il-decreasing-learning-rate,Lux AI with IL (decreasing learning rate),Kabir Ivan,,2021-11-08T17:47:33.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,lux-ai-2021
+,,,,,0,stonet2000/lux-ai-season-1-jupyter-notebook-quickstart,Lux AI Season 1 Jupyter Notebook Quickstart,Stone Tao,,2021-09-05T22:33:17.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,lux-ai-2021
+,,,,,0,huikang/lux-ai-agent-evaluation,[Lux AI] Agent Evaluation,Tong Hui Kang,,2021-12-21T13:49:15.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-imitation-learning-keras,Lux AI Imitation Learning Keras,sazuma,,2021-10-17T08:27:42.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,lux-ai-2021
+,,,,,0,aithammadiabdellatif/lux-ai-deep-learning-imitate-the-strategy,[Lux AI ✨ ] Deep learning imitate the strategy ,AIT HAMMADI Abdellatif,,2021-09-15T12:40:29.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,lux-ai-2021
+,,,,,0,dwight9339/rule-based-q-learning-agent,Rule-Based + Q-Learning Agent,David White,,2021-10-05T19:23:20.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lux-ai-2021
+,,,,,0,nin7a1/lux-ai-rules-lux-ai,Lux AI Rules [Lux AI中文规则介绍],Nin7a1,,2021-10-05T09:30:25.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lux-ai-2021
+,,,,,0,isaacyong/lux-ai-tensorflow-dqn,Lux AI TensorFlow DQN,Isaac Yong,,2021-09-05T02:52:42.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-submit-unet-il,Lux AI Submit UNet IL,sazuma,,2021-12-06T22:47:56.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,lux-ai-2021
+,,,,,0,realneuralnetwork/lux-ai-with-il-ensemble-of-models,Lux AI with IL ensemble of models,Kabir Ivan,,2021-11-13T16:47:51.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,lux-ai-2021
+,,,,,0,cashfeg/play-game-by-hand-2-days,Play Game by hand (2 days + α),hoxosh,,2021-08-20T03:54:46.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,lux-ai-2021
+,,,,,0,stefanschulmeister87/all-properties-and-methods-on-one-page,All Properties and Methods on one Page,stefan schulmeister,,2021-12-07T09:55:27.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,lux-ai-2021
+,,,,,0,bachngoh/luxai-unet-immitationlearning,[LuxAI] UNet-ImmitationLearning ,Bach Ngo,,2021-12-07T13:33:50.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,lux-ai-2021
+,,,,,0,yalikesifulei/fast-il-in-keras,Fast IL in Keras,Oleksii Galganov,,2021-10-24T12:19:10.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,lux-ai-2021
+,,,,,0,robga/submission-statistics-with-meta-kaggle,Submission statistics with Meta Kaggle,robga,,2021-10-26T15:10:16.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,lux-ai-2021
+,,,,,0,nathankang/lux-ai-demo-helper-functions,Lux AI Demo + Helper Functions,Nathan Kang,,2021-08-27T03:09:31.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,lux-ai-2021
+,,,,,0,zaharch/bradley-terry-rating-system-for-kaggle-sim-comps,Bradley-Terry rating system for Kaggle sim comps,nosound,,2021-12-20T08:29:37.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,lux-ai-2021
+,,,,,0,robga/one-million-seeds-with-map-sizes,One million seeds with map sizes,robga,,2021-11-01T14:50:57.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lux-ai-2021
+,,,,,0,a24998667/fast-lux-ai-with-il-cached-inputs,Fast Lux AI with IL (cached inputs),Splend1dChan（燦爛）,,2021-10-18T12:20:28.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lux-ai-2021
+,,,,,0,huikang/lux-ai-working-title-bot-private-version,[Lux AI] Working Title Bot - Private Version,Tong Hui Kang,,2021-12-06T15:38:30.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-train-unet,Lux AI Train UNet,sazuma,,2021-12-06T14:43:15.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,lux-ai-2021
+,,,,,0,willyam42/luxai-ppo,LuxAI_PPO,Willyam42,,2021-11-03T23:52:21.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lux-ai-2021
+,,,,,0,takemi/lux-ai-season-1-jupyter-notebook-tutorial,【日本語版】Lux AI Season 1 Jupyter Notebook Tutorial,crinoid,,2021-10-01T01:31:57.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lux-ai-2021
+,,,,,0,stefanschulmeister87/lux-ai-rule-based-agent,Lux AI Rule Based Agent 🧐🔧🤖,stefan schulmeister,,2021-12-17T07:58:20.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,lux-ai-2021
+,,,,,0,maulberto3/luxai-a-simple-rl-approach,[LuxAI] A Simple RL Approach,Mauricio Maroto,,2022-03-07T19:37:10.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lux-ai-2021
+,,,,,0,horohoro/simple-visualization-of-each-item,Simple visualization of each item,horohoro,,2021-08-26T13:02:27.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-train-unet-city,Lux AI Train UNet City,sazuma,,2021-12-06T14:44:04.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lux-ai-2021
+,,,,,0,glmcdona/perf-benchmark-original-versus-python-replica-eng,Perf benchmark: Original versus Python replica eng,Geoff McDonald,,2021-10-04T04:29:33.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lux-ai-2021
+,,,,,0,lightmk/rule-based-agents-for-beginners,rule-based-agents-for-beginners,Light,,2021-09-26T06:23:51.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-datasets-city,Lux AI Datasets City,sazuma,,2021-12-06T14:22:54.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lux-ai-2021
+,,,,,0,yalikesifulei/bot-statistics-with-selenium-beautiful-soup,Bot statistics with Selenium & Beautiful Soup,Oleksii Galganov,,2021-10-24T10:11:53.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-datasets,Lux AI Datasets,sazuma,,2021-12-06T14:22:33.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lux-ai-2021
+,,,,,0,huikang/lux-ai-analyse-rating-updates,[Lux AI] Analyse Rating Updates,Tong Hui Kang,,2021-10-05T09:08:20.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lux-ai-2021
+,,,,,0,jnesbit6/pytorch-deep-q-learning-train,Pytorch Deep Q Learning - Train,John Nesbit,,2021-08-31T11:30:01.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lux-ai-2021
+,,,,,0,victorsullivan/lux-ai,Lux AI,Saravana Kumar,,2021-08-18T11:59:51.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,lux-ai-2021
+,,,,,0,takemi/lux-ai-season-1-jupyter-notebook-quickstart,【日本語版】Lux AI Season 1 Jupyter Notebook Quickstart,crinoid,,2021-09-29T14:55:37.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,lux-ai-2021
+,,,,,0,adityasharma01/lux-ai-with-il-decreasing-learning-rate,Lux AI with IL (decreasing learning rate),Aditya Sharma,,2021-11-23T10:03:33.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lux-ai-2021
+,,,,,0,durbin164/keras-lux-ai-reinforcement-learning,Keras Lux AI | Reinforcement Learning,Md. Masud Rana,,2021-08-30T18:54:28.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,lux-ai-2021
+,,,,,0,andrej0marinchenko/lux-ai-big-bd-model-train,Lux AI # big bd model train,Andrej Marinchenko,,2021-11-27T16:43:24.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lux-ai-2021
+,,,,,0,bachngoh/lux-ai-il-ensemble-softmax-probability-lb-1300,Lux AI IL ensemble(softmax probability) [LB 1300+],Bach Ngo,,2021-12-07T13:05:16.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lux-ai-2021
+,,,,,0,alphonus/graph-based-reinforcement-learning,Graph Based Reinforcement Learning,Alphonus,,2021-12-06T21:42:58.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lux-ai-2021
+,,,,,0,willyam42/luxai-dqn,LuxAI_DQN,Willyam42,,2021-10-26T16:29:38.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lux-ai-2021
+,,,,,0,thalesgaluchi/lux-ai-first-approach,Lux AI - First Approach,Thales Galuchi,,2021-09-29T19:20:20.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lux-ai-2021
+,,,,,0,durbin164/lux-ai-rules-base-agent,Lux ai | Rules base agent,Md. Masud Rana,,2021-09-07T22:10:39.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,lux-ai-2021
+,,,,,0,realneuralnetwork/lux-ai-with-imitation-learning-tbd-toad-brigade,Lux AI with Imitation Learning TBD & Toad Brigade,Kabir Ivan,,2021-10-19T13:07:53.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lux-ai-2021
+,,,,,0,konstantinklepikov/resource-distribution,resource distribution,KonstantinKlepikov,,2021-09-19T13:58:31.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lux-ai-2021
+,,,,,0,gopalkk1/notebookcdf4fc8f42,notebookcdf4fc8f42,Gopal K K 1,,2021-11-04T05:12:25.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lux-ai-2021
+,,,,,0,bachngoh/luxai-simple-reinforcement-learning,[LuxAI]-Simple Reinforcement Learning,Bach Ngo,,2021-09-02T01:01:52.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lux-ai-2021
+,,,,,0,stonet2000/lux-ai-season-1-performance-benchmark-debugging,Lux AI Season 1 Performance Benchmark / Debugging,Stone Tao,,2021-08-22T22:18:16.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,lux-ai-2021
+,,,,,0,yuko1658/lux-ai-random-move,Lux AI Random move(日本語コメント),Yukou,,2021-12-02T02:20:20.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,lux-ai-2021
+,,,,,0,bachngoh/50th-ish-ensemble-il-agents-hopefully-silver,50th (ish) ensemble IL agents(Hopefully silver),Bach Ngo,,2021-12-07T13:34:24.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lux-ai-2021
+,,,,,0,narendra/resource-statistics,resource statistics,doteeee,,2021-11-14T16:31:05.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lux-ai-2021
+,,,,,0,benwang/luxai-ppo-cnn,LuxAI_PPO_Cnn,tudou,,2021-11-18T11:07:20.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lux-ai-2021
+,,,,,0,cashfeg/play-game-semi-manually,Play Game semi-manually,hoxosh,,2021-08-31T15:02:06.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,lux-ai-2021
+,,,,,0,wavefunctioncollapse/inspecting-maps-for-lux-ai,Inspecting Maps for Lux AI,Phillip Crout,,2021-10-05T13:27:25.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lux-ai-2021
+,,,,,0,ruizjme/lux-ai-random-agent,[Lux AI] Random agent,Jaime,,2021-09-11T01:57:36.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,lux-ai-2021
+,,,,,0,sai11fkaneko/lux-ai-off-policy,lux ai off policy,Fumihiro Kaneko,,2021-12-19T10:09:00.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lux-ai-2021
+,,,,,0,bachngoh/luxai-unet-for-ctiles,[LuxAI] Unet_for_ctiles,Bach Ngo,,2021-12-07T13:13:34.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lux-ai-2021
+,,,,,0,barnabsts/lux-ai-season-1-jupyter-notebook-tutorial,Lux AI Season 1 Jupyter Notebook Tutorial,Barnabás Áts,,2021-11-12T18:58:45.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lux-ai-2021
+,,,,,0,fanbyprinciple/lux-ai-beginner-running-sentdex-agent,Lux Ai - beginner running sentdex agent,Ami,,2021-10-12T20:57:48.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lux-ai-2021
+,,,,,0,kirderf/check-your-err-code,check your err code,Kirderf,,2021-10-08T07:29:52.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-simulations-episode-scraper,Lux AI Simulations Episode Scraper,sazuma,,2021-12-06T14:08:31.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,lux-ai-2021
+,,,,,0,stonet2000/lux-ai-2021-data-pack,Lux AI 2021 Data Pack,Stone Tao,,2021-12-21T01:05:44.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,saraswatitiwari/lux-artificial-intelligence,Lux Artificial Intelligence,Saraswati Tiwari,,2021-12-04T09:18:55.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,narendra/one-worker-multiple-cities-ppo,one worker multiple cities-ppo,doteeee,,2021-11-24T17:33:44.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,maulberto3/luxai-maps-boards-simple-encoder,[LuxAI] Maps/Boards Simple Encoder,Mauricio Maroto,,2022-03-15T14:20:49.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,filipinogambino/lux-ai-transformers,Lux AI - Transformers,Nick Gorichs,,2022-01-21T21:54:25.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,scottleroux/debug-timeout-issue,Debug Timeout Issue,Scott Le Roux,,2021-10-14T14:38:43.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,valerich/lux-ai-2021-testing-rust-starter-kits,Lux AI 2021 - Testing Rust starter kits,Valery Kameko,,2021-10-15T06:21:03.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,stonet2000/lux-ai-2021-testing-new-non-python-starter-kits,Lux AI 2021 - Testing new non-python starter kits,Stone Tao,,2021-10-11T19:27:10.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,fbozoglilanian/notebook-template-and-game-render,Notebook template and game render,FabianBozoglilanian,,2021-10-11T13:22:05.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,narendra/luxai-survival-with-single-agent-convnet,luxai-survival with single agent-ConvNet,doteeee,,2021-11-14T08:09:04.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,shoheiazuma/lux-ai-meta-kaggle,Lux AI Meta Kaggle,sazuma,,2021-12-06T14:02:53.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,kausheeki01/lux-ai-season-1-jupyter-notebook-1,Lux AI Season 1 Jupyter Notebook #1 ,KAUSHEEKI,,2021-08-22T05:07:29.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,lux-ai-2021
+,,,,,0,kotguru/simple-agent,simple agent,Kot_Guru,,2021-12-05T15:02:59.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,abc67876/lux-ai-with-il-logic-dlr-e8c2aa,Lux AI with IL & Logic & DLR e8c2aa,FQ,,2021-12-06T11:27:30.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,youktinathbhowmick/random-game-map-for-lux-ai,Random Game Map For Lux AI,Youktinath Bhowmick,,2021-11-29T06:16:09.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,gaopengxuan/imitation-learning-decreaseinglearning,Imitation Learning decreaseinglearning,gaopengxuan,,2021-11-30T11:20:09.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,erikjergus/fin-lux-ai-project-ssy340,[FIN] Lux AI - Project SSY340,Erik Jergéus,,2021-10-24T09:22:44.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,arpitsolanki14/somewhat-intelligent-rule-based-agent-lb-600,Somewhat Intelligent Rule based Agent(LB 600+) ,Arpit Solanki,,2021-10-24T06:02:28.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,kachimako/simple-agent,simple agent,kachimako,,2021-10-28T01:18:21.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,lux-ai-2021
+,,,,,0,abc67876/code-illustration,code illustration,FQ,,2021-12-30T11:17:50.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,ivsiuliv/deep-ql,Deep QL,4siul4,,2021-12-20T20:25:11.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,teyosan1229/lux-ai-last-ensemble, Lux AI last ensemble,teyosan1229,,2021-12-06T23:26:19.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,promtding/lux-ai-with-il-logic-dlr,Lux AI with IL & Logic & DLR,ProMTDing,,2021-12-06T13:35:30.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,cheremhinaelena/lux-ai-working-title-bot,[Lux AI] Working Title Bot,Cheremhina Elena,,2022-01-17T17:19:27.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,weixxyy/group11-project,group11-project,weixxyy,,2021-12-29T14:26:35.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,chenxinmao/lux-ai-save-training-data,Lux AI - save training data,Chenxin Mao,,2021-12-03T06:22:00.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,chenxinmao/il-why-the-name-cannot-exceed-50-characters,IL-Why the name cannot exceed 50 characters?,Chenxin Mao,,2021-12-30T16:30:51.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,ironbar/select-agents-for-downloading-matches,Select agents for downloading matches,ironbar,,2021-12-16T06:19:35.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021
+,,,,,0,aithammadiabdellatif/lux-ai-900-of-12x12,[Lux AI ✨ ] 900 of 12x12,AIT HAMMADI Abdellatif,,2021-09-14T16:19:34.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,lux-ai-2021

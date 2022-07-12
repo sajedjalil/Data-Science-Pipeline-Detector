@@ -1,0 +1,403 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,vykhand/exploring-products,Exploring products,Andrey Vykhodtsev,,2016-06-15T22:51:16.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],148,grupo-bimbo-inventory-demand
+,,,,,0,anokas/exploratory-data-analysis,Exploratory Data Analysis,anokas,,2016-06-10T12:34:59.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,grupo-bimbo-inventory-demand
+,,,,,0,abbysobh/classifying-client-type-using-client-names,Classifying Client Type using Client Names,AbderRahman Sobh,,2016-08-13T01:15:07.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,grupo-bimbo-inventory-demand
+,,,,,0,ericcouto/using-82-less-memory,Using ~82% less memory,Eric Couto,,2016-07-30T03:46:51.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,grupo-bimbo-inventory-demand
+,,,,,0,scirpus/ftlr-use-pypy,FTLR (Use PYPY!),Scirpus,,2016-06-29T18:11:11.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,grupo-bimbo-inventory-demand
+,,,,,0,zfturbo/simple-bimbo-solution,Simple Bimbo Solution,ZFTurbo,,2016-06-11T15:31:00.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,grupo-bimbo-inventory-demand
+,,,,,0,rlomascolo/xgboost-python-script-lb-0-46249,XGBoost Python script LB: 0.46249,Rodolfo Lomascolo,,2016-08-22T15:41:54.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,grupo-bimbo-inventory-demand
+,,,,,0,maxpowerwastaken/plotting-rmsle-for-over-vs-under-preds,Plotting RMSLE for Over- vs Under- Preds,MaxPower,,2016-06-14T06:08:13.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,grupo-bimbo-inventory-demand
+,,,,,0,armalali/benchmark-medians,BenchmarkMedians(0.52718 on Leaderboard),Abhishek Malali,,2016-06-11T01:07:30.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,grupo-bimbo-inventory-demand
+,,,,,0,anokas/optimised-beat-the-benchmark,Naive beat-the-benchmark (0.82706),anokas,,2016-06-08T13:24:34.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,grupo-bimbo-inventory-demand
+,,,,,0,misfyre/simple-xgboost,Simple XGBoost,Nick Sarris,,2016-06-23T05:32:48.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,grupo-bimbo-inventory-demand
+,,,,,0,philldonn/log-mean-plus-lb-0-47-in-python,Log_Mean_Plus LB: 0.47 in python,PhillDonn,,2016-08-09T06:01:53.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,grupo-bimbo-inventory-demand
+,,,,,0,happycube/log-means-in-python-48578-v2,Log-means in Python (.48578) v2,happycube,,2016-07-09T03:38:15.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,grupo-bimbo-inventory-demand
+,,,,,0,zachmayer/floating-point-test,Floating-point test,Zach,,2016-06-08T14:24:22.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,grupo-bimbo-inventory-demand
+,,,,,0,eladgvirtz/exploring-products,Exploring products,EladGvirtz,,2017-05-13T15:27:53.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grupo-bimbo-inventory-demand
+,,,,,0,zonemercy/classifying-client-type-using-client-names,Classifying Client Type using Client Names,ZZ,,2016-08-19T13:16:34.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grupo-bimbo-inventory-demand
+,,,,,0,insaff/feature-hashing-with-partial-fitting,Feature hashing with partial fitting,Insaf Ashrapov,,2016-07-13T17:46:51.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grupo-bimbo-inventory-demand
+,,,,,0,happycube/log-means-in-python-v3-47927,log-means in python v3: .47927,happycube,,2016-07-10T23:30:14.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grupo-bimbo-inventory-demand
+,,,,,0,anokas/floating-point-test,Floating-point test,anokas,,2016-06-08T13:05:13.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,grupo-bimbo-inventory-demand
+,,,,,0,drsaunders/do-returns-predict-sales,Do returns predict sales?,Daniel Saunders,,2016-08-28T04:30:13.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grupo-bimbo-inventory-demand
+,,,,,0,kobakhit/xgboost,XGBoost,Koba ,,2016-06-16T18:07:40.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,grupo-bimbo-inventory-demand
+,,,,,0,wordsforthewise/using-82-less-memory,Using ~82% less memory,Nathan George,,2016-08-31T19:39:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,zstuwangrui/start-up,Start up,Stu. Rui,,2016-08-10T11:20:33.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,namra42/product-preprocessing,Product preprocessing,Namra,,2016-06-12T07:17:00.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,arjoonn/data-cleaning,Data cleaning?,ArjoonnSharma,,2016-06-09T09:17:52.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,nikolayburlutskiy/spatial-features-and-visualisation,Spatial Features and Visualisation,NikolayBurlutskiy,,2016-06-09T10:49:45.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,barrosm/exploratory-data-analysis,Exploratory Data Analysis,Monica Barros,,2016-06-08T18:38:16.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,company/gbid-1,GBID_1,Ravi Chandibhamar,,2016-06-09T08:28:32.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,grupo-bimbo-inventory-demand
+,,,,,0,willgraf/xgbimbo-python-implementation,XGBimbo - Python implementation.,Will,,2016-08-30T20:03:50.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,jcqedai/classifying-client-type-using-client-names,Classifying Client Type using Client Names,QED,,2016-08-30T19:21:15.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,jbm1966/notebook8e2b331467,Notebook8e2b331467,joaquin,,2016-08-25T19:01:53.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/python-log-mean,python_log_mean,Linganesan,,2016-08-21T11:19:59.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/new-taz-script-3,new_taz_script_3,Linganesan,,2016-08-23T15:55:01.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,dbgriffith01/classifying-client-type-using-client-names,Classifying Client Type using Client Names,dbgriffith01,,2016-08-19T18:47:49.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,wordsforthewise/check-out-missing-data,Check out missing data,Nathan George,,2016-08-18T10:39:03.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,osamir/notebook3d1c5541c5,Notebook3d1c5541c5,omarsamir,,2016-08-06T22:13:51.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,shuimuxixiha/test-1,test_1,sigmoidguo,,2016-07-31T14:51:22.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,lebroschar/make-time-series-training-data,make time-series training data,lebroschar,,2016-07-28T06:05:14.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,vargas/simple-mean-0-76354,simple mean 0.76354,vargas,,2016-07-15T08:30:14.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,happyxie/testbimbo,testbimbo,HappyXie,,2016-07-02T00:59:59.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,miibotree/eda-town,EDA_town,BotreeMii,,2016-06-18T08:05:34.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,company/gbid-2,GBID_2,Ravi Chandibhamar,,2016-06-16T06:09:39.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,grupo-bimbo-inventory-demand
+,,,,,0,ankitgodle/grupo,Grupo,Ankit Godle,,2022-05-10T05:43:03.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yurikoz/task-lr-2,task_lr_2,Yuriy Kozhev,,2021-10-11T14:08:55.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,greentearus/bimbo-w-dask-and-callbacks,Bimbo w/ Dask  and callbacks,Alexey C,,2019-11-25T14:22:30.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jihyeseo/grupo-eda,grupo eda,Jihye Sofia Seo,,2018-05-08T16:08:08.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jkw552403/notebook0dbc679fcf,Notebook0dbc679fcf,Man Chun Ko,,2017-05-08T09:46:45.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jkw552403/notebook7048d49cb6,Notebook7048d49cb6,Man Chun Ko,,2017-05-08T03:03:11.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jkw552403/notebook268342ee1b,Notebook268342ee1b,Man Chun Ko,,2017-04-27T08:08:53.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ireshaperera/firstscript,FirstScript,IreshaPerera,,2017-04-11T04:45:04.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,czw123/myfirstandtest,myfirstandtest,czw123,,2017-03-19T09:07:29.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,divyangjp/bakery-data-analysis-and-prediction,Bakery data analysis and prediction,Divyang Patel,,2017-03-15T09:17:32.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,harshratde/notebookd812e0aaf8,Notebookd812e0aaf8,\m/-;),,2017-03-09T10:11:18.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,lokokon/notebookf0b195eadf,Notebookf0b195eadf,kokon,,2017-01-25T09:31:15.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,cyivy1992/notebook5cb7747658,Notebook5cb7747658,YingCao,,2017-01-18T22:22:13.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,repomaxx/notebook7cb3b120c6,Notebook7cb3b120c6,repomaxx,,2017-01-12T12:07:46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,saezienne/simple-xgboost-week-9,Simple XGBoost Week 9,OumaimaK,,2017-01-10T00:27:29.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,saezienne/exploring-products,Exploring products,OumaimaK,,2017-01-10T00:27:05.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,benkoulouch/notebook8f79153b60,Notebook8f79153b60,Jihaneben,,2017-01-09T21:57:31.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,benkoulouch/notebooka87d2530ce,Notebooka87d2530ce,Jihaneben,,2017-01-09T21:52:10.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tennissuperstar/bimbo-bag-of-words,Bimbo - Bag of Words,AiswaryaSankar,,2017-01-02T04:20:17.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tennissuperstar/naive-solution-and-semana-exploration,Naive solution and Semana Exploration,AiswaryaSankar,,2017-01-02T04:38:02.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tennissuperstar/notebook16f70b6d32,Notebook16f70b6d32,AiswaryaSankar,,2016-12-23T14:54:02.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,josegzz/exploring-products,Exploring products,José González A.,,2021-01-02T21:00:06.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vanjaranihar/exploring-products,Exploring products,NiharVanjara,,2016-12-07T21:57:30.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,madmachine/deneme,deneme,ZaferAydin,,2016-11-26T12:43:59.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,anzershaffi/exploring-products,Exploring products,Anzer,,2016-11-22T06:08:13.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dalichow/exploring-products,Exploring products,BoyaoZhou,,2016-11-17T20:20:32.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rafeltaye/notebook9d935d14e1,Notebook9d935d14e1,Rafel Taye,,2016-11-16T16:40:27.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,julioarriaga/notebook29226d6fa7,Notebook29226d6fa7,JulioArriaga,,2016-11-04T22:37:50.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,hcmyds/notebook8607c4982c,Notebook8607c4982c,yuanchen Zhou,,2016-11-02T13:27:06.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,erfeiliu/notebooka528f0fcdf,Notebooka528f0fcdf,erfeiliu,,2016-11-02T06:32:05.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,coolboy215/notebook2678d92116,Notebook2678d92116,Charlie Lin,,2016-10-25T08:54:34.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kozazz/notebook5769f0cccb,Notebook5769f0cccb,kozazz,,2016-10-18T06:22:31.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kozazz/testbread,testbread,kozazz,,2020-04-29T02:27:16.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mercedes/notebook3790868d8d,Notebook7e0ca4641f,Mercedes ,,2016-10-17T21:17:37.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,danielvdml/notebook402d5e3623,Notebook402d5e3623,DanielMorenoLopez,,2016-10-16T06:31:22.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,varadha/exploring-products,Exploring products,VaradharajanChellappa,,2016-10-11T19:14:15.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alexplatasl/notebookd5a0857409,Notebook3ee059c414,Platas,,2016-10-04T18:17:11.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,benkoulouch/jihane,jihane,Jihaneben,,2016-09-22T23:35:33.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,benkoulouch/jihanebenkoulouch,JihaneBenkoulouch,Jihaneben,,2016-09-22T23:27:22.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,benkoulouch/essjihane,essjihane,Jihaneben,,2016-09-22T23:00:27.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,antonm/parse-products,parse_products,Anton Makouski,,2016-09-16T09:30:23.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,apapiu/notebookfc8a4e2010,Notebookfc8a4e2010,Alexandru Papiu,,2016-09-09T20:37:53.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,johncr3/exploring-products,Exploring products,John Rayburn,,2016-09-05T22:56:10.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,phua7008/learning-how-to-explore-the-data,Learning how to explore the data,PeterHuang,,2016-09-06T02:15:55.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,wordsforthewise/notebookcf57350cf0,Notebookcf57350cf0,Nathan George,,2016-09-03T22:42:17.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tdcolorado/notebook4e66a31d95,Notebook4e66a31d95,Doan Tri,,2016-09-02T00:20:58.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sapphire0/exploratory-data-analysis,Exploratory Data Analysis,Sema,,2016-09-01T10:11:45.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nirojan/new-script,new script,nirojan,,2016-09-01T09:00:06.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,clouds123/python-log-mean,Python_log_mean,clouds123,,2016-08-31T06:45:37.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,seanwang/notebook2bb59fa70c,Notebook1245775524,Sean Wang,,2016-08-31T04:48:45.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,scratgirl/notebook2fe4030bb3,Notebook2fe4030bb3,EnttäuschtesKind,,2016-08-30T15:11:34.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,wpanak/classifying-client-type-using-client-names,Classifying Client Type using Client Names,WilliamPanak,,2019-10-25T19:20:09.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,lijiangbioinfo/notebook2a792765c2,Notebook2a792765c2,L Jiang,,2016-08-30T14:28:53.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teampiratez/cdffdfdfd,cdffdfdfd,UoM_CSE_TeamPiratez,,2016-08-30T14:16:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,supunmadushanka/testing-1,testing 1,SupunMadushanka,,2016-08-30T08:24:17.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dhanurcg/test-2,test 2,Dhanushka,,2016-08-30T08:02:48.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kgkalani/notebook39339d2258,Notebook39339d2258,Gayathri Kalani,,2016-08-30T06:58:23.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dhanurcg/test-1,Test 1,Dhanushka,,2016-08-30T06:10:50.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teampiratez/finalsub,finalsub,UoM_CSE_TeamPiratez,,2016-08-30T09:56:33.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,damien123/script-py,script.py,DamienHood,,2016-08-29T05:37:24.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,georgem/notebookc461b8d143,Notebookc461b8d143,Evdilos_Ikaria,,2016-08-29T03:33:25.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,conifer/notebook1e293d9e55,Notebook1e293d9e55,conifer,,2016-08-28T05:24:07.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,viktor/notebook5a6a2133e6,Notebook5a6a2133e6,ВикторПортнов,,2016-08-27T16:09:28.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dinindu/simple-xgboost-week-9-33f2e071,Simple XGBoost Week 9 33f2e071,DininduNissanka,,2016-08-27T05:04:23.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,drsaunders/do-returns-predict-future-sales,Notebookeb4bf9fd8c,Daniel Saunders,,2016-08-26T20:32:43.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dinindu/simple-xgboost-week-9,Simple XGBoost Week 9,DininduNissanka,,2016-08-26T18:07:40.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,redstar/classifying-client-type-using-client-names,Classifying Client Type using Client Names,polkadotstingray,,2016-08-26T14:59:36.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yiyihuijia/test-test,test_test,yiyihuijia,,2016-08-26T13:40:38.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,danielsafai/notebooka731bae286,Notebooka731bae286,Dsaf,,2016-08-26T11:08:55.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rajat8878/notebook7bcd846355,Notebook7bcd846355,RajatKumar,,2016-08-26T07:59:02.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ozgunyalcin/testing-kaggle-script,testing kaggle script,Ozgun Yalcin,,2016-08-25T18:44:38.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,janitha12/notebook8bb104d83b,Notebook8bb104d83b,JanithaLokuge,,2016-08-25T13:50:03.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,abhilashawasthi/classifying-client-type-using-client-names,Classifying Client Type using Client Names,Abhilash Awasthi,,2016-08-25T06:49:16.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pcdragon/submissionmean,SubmissionMean,PcDragon,,2016-08-25T06:26:23.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pcdragon/submissionmedian,SubmissionMedian,PcDragon,,2016-08-25T06:16:25.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,chamupathi/my-bimbo-2,My Bimbo 2,ChamupathiMendis,,2016-08-24T17:03:41.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,chamupathi/my-bimbo-1,my bimbo 1,ChamupathiMendis,,2016-08-24T14:04:12.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,schekuri/eda-with-bimbo-in-r,Notebook135749efbe,Suresh Chekuri,,2016-08-24T11:21:22.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vahidseydi/notebook0c271aa351,Notebook0c271aa351,Vahid Seydi,,2016-08-24T09:04:28.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,viktor/notebook350b47cf77,Notebook350b47cf77,ВикторПортнов,,2016-08-24T08:38:18.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,adagyenes/notebook69e44861d2,Notebook69e44861d2,GyenesAdrienn,,2016-08-24T08:34:01.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dhanushka/bimbotest,bimbotest,dhanushkamadushan,,2016-08-24T07:05:07.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teampiratez/notebook086327dc7c,Notebook086327dc7c,UoM_CSE_TeamPiratez,,2016-08-24T06:20:41.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ryankresse/exploring-products-94b51406,Exploring products 94b51406,rhenry,,2016-08-23T23:47:21.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ryankresse/exploring-products-74a59149,Exploring products 74a59149,rhenry,,2016-08-23T21:42:52.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ryankresse/exploring-products,Exploring products,rhenry,,2016-08-23T21:19:02.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,schekuri/notebook9817fcf6b5,Notebooke57a41b121,Suresh Chekuri,,2016-08-23T17:45:52.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,y4suyuki/y4suyuki-bimbo,y4suyuki_bimbo,y4suyuki,,2016-08-23T01:01:06.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,derekknelson/notebook984ebafb6b,Notebook984ebafb6b,DerekNelson,,2016-08-22T19:40:38.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ivadev/notebooka409dd4719,Notebooka409dd4719,Iván Alfonso Díaz Eugenio,,2016-08-22T19:30:57.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,poiss0nriot/classifying-client-type-using-client-names,Classifying Client Type using Client Names,CalmeToi,,2016-08-22T10:49:21.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,andrewcurran/script-test,Script Test,AndrewCurran,,2016-08-22T09:51:34.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jasonkarpeles/notebook2688cffe89,Notebook2688cffe89,Jason Karpeles,,2016-08-22T09:13:51.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,liamsch/notebook3c3f459659,Notebook3c3f459659,Liam,,2016-08-21T11:31:03.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,khwunchai/notebook8d0a6737c9,Notebookf34a53a149,Khwunchai J.,,2016-08-21T08:32:27.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,goldstar/notebook3f7bf1309e,Notebook3f7bf1309e,goldstar,,2016-08-21T06:10:38.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alexeylive/classifying-client-type-using-client-names,Classifying Client Type using Client Names,Alexey Matveev,,2016-08-21T10:01:19.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,soulcoder/classifying-client-type-using-client-names,Classifying Client Type using Client Names,Eric Ng,,2016-08-20T07:44:52.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nirojan/paragus-script-one,paragus_script one,nirojan,,2016-08-20T06:40:05.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jindal/notebook294e85189c,Notebook294e85189c,Abhishek Jindal,,2016-08-19T19:57:25.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pablomarin/classifying-client-type-using-client-names,Classifying Client Type using Client Names,PabloMarin,,2016-08-19T19:06:17.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,udeesha/gblinear1,gblinear1,UdeeshaShehan,,2016-08-19T17:17:10.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/new-taz-script,new_taz_script,Linganesan,,2016-08-19T15:26:38.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zhenghuangcheng/log-mean-plus-lb-0-47-in-python,Log_Mean_Plus LB: 0.47 in python,hczheng,,2016-08-19T14:17:56.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/exploring-products,Exploring products,Linganesan,,2016-08-19T14:13:56.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,datamagic/notebook6c85dd22a7,Notebook6c85dd22a7,Brach,,2016-08-19T08:30:20.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,krvperera/classifying-client-type-using-client-names,Classifying Client Type using Client Names,KRV,,2016-08-19T08:21:34.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,lahirumadushanka/sort-and-download,sort and download,Lahiru Madushanka,,2016-08-22T06:43:03.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,berkerkozan/notebookbd174be8f7,Notebookbd174be8f7,BerkerKozan,,2016-08-18T10:53:49.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,shgidi/notebook93900bbb6a,Notebooka532ce820f,Gidi Shperber,,2016-08-17T20:25:23.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tomohiku/notebook182cbd6f64,Notebook182cbd6f64,tomohiku,,2016-08-17T11:25:30.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,blindfish/notebookc01bb10531,Notebookc01bb10531,Hyangmin Jeong,,2016-08-17T10:04:35.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tomohiku/notebookff4d2d87fd,Notebookff4d2d87fd,tomohiku,,2016-08-17T09:07:21.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ravem77/notebookb42e6ed78b,Notebookb42e6ed78b,Rafael Velazquez,,2016-08-17T08:25:02.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jruales/notebook20a63a026b,Notebook20a63a026b,Joaqo,,2016-08-17T07:32:25.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mirage20/notebook1b3c730d77,Notebook1b3c730d77,Mirage Abeysekara,,2016-08-17T04:44:32.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,krvperera/simple-xgboost-week-9,Simple XGBoost Week 9,KRV,,2016-09-02T18:09:33.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,leeguoo/notebooke31d7805c9,Notebooke31d7805c9,GuoLi,,2016-08-16T23:56:53.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mhv2109/notebook99e40d510e,Notebook99e40d510e,mhv2109,,2016-08-16T22:36:48.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sausax/notebook1c49777a4b,Notebook1c49777a4b,sausax,,2016-08-16T22:09:38.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,scgiller/notebookc318c290c5,Notebookc318c290c5,TNCP,,2016-08-16T19:04:53.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,epicuser/test-1,test 1,Damitha,,2016-08-16T18:24:59.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,bdavis/notebookf6150e96b3,Notebookf6150e96b3,thecolorblue,,2016-08-16T17:23:37.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sausax/notebook2cffe131d0,Notebook2cffe131d0,sausax,,2016-08-16T17:20:19.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,antediemterzium/notebookfd496f50ce,Notebookfd496f50ce,foolius,,2016-08-16T09:20:52.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,antediemterzium/notebook0d8b044a81,Notebook0d8b044a81,foolius,,2016-08-16T07:47:05.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,agalea91/notebook70c1d7e3f7,Notebook70c1d7e3f7,Alexander Galea,,2016-08-16T04:49:44.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,prasadm/prasad3,prasad3,PrasadMaduranga,,2016-08-16T01:25:23.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jbryant18/notebook12d0b2f9c8,Notebookaa974da83c,jbryant18,,2016-08-15T22:08:21.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mutalisk/notebook99f920d344,Notebook99f920d344,Mutalisk,,2016-08-15T21:18:26.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mutalisk/notebooka564bfbedb,Notebooka564bfbedb,Mutalisk,,2016-08-15T20:47:30.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,upekka/notebook308b72292a,Notebook308b72292a,Upekka,,2016-08-15T12:03:29.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,upekka/notebook4c22a1bb38,Notebook5e46441440,Upekka,,2016-08-15T11:44:24.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,supunmadushanka/test-1,test 1,SupunMadushanka,,2016-08-15T11:43:52.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,adityakumarsinha/forked-script,Forked Script,adityasinha,,2016-08-15T10:42:37.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/cse-taz,cse_taz,Linganesan,,2016-08-15T10:27:20.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/script-taz,script_taz,Linganesan,,2016-08-15T10:10:34.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,prasadm/prasad2,prasad2,PrasadMaduranga,,2016-08-15T09:51:10.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kaysuh/notebookf14d462b20,Notebookf14d462b20,Kwangsik Suh,,2016-08-15T09:01:26.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,prasadm/prasad1,prasad1,PrasadMaduranga,,2016-08-15T11:22:10.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,heaven/notebook54dc88152d,Notebook54dc88152d,heaven,,2016-08-15T01:54:19.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,andrewedwards/aedwards-bimbo,AEdwards_Bimbo,AEdwards,,2016-08-15T04:05:07.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teampiratez/test-new,test new,UoM_CSE_TeamPiratez,,2016-08-24T14:36:43.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teampiratez/test-1,test 1,UoM_CSE_TeamPiratez,,2016-08-24T06:36:21.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,udeesha/xgboost,XGBOOST,UdeeshaShehan,,2016-08-14T15:45:40.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,udeesha/exploring-products,Exploring products,UdeeshaShehan,,2016-08-14T15:41:51.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teampiratez/test-anaconda,test anaconda,UoM_CSE_TeamPiratez,,2016-08-14T15:47:48.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rninja/notebook17ff111e57,Notebook04ecc41a99,rpradeepmenon,,2016-08-14T10:16:50.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,bessalov/notebookf0c4fd3f05,Notebookf0c4fd3f05,Andrey Bessalov,,2016-08-14T09:46:14.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dulajr/xgboost,XGBOOST,Dulaj Rajitha,,2016-08-14T06:19:16.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,masatoh/notebook0959473390,Notebook0959473390,masatoh,,2016-08-14T06:11:53.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rprades/notebook5600bb02cc,Notebook5600bb02cc,Rprades,,2016-08-13T16:09:26.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,arunprasad/two-param,two param,ArunPrasad,,2016-08-13T15:50:54.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,lahirumadushanka/small-change,small change,Lahiru Madushanka,,2016-08-15T06:40:46.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,swana23/notebook5c9b09e2d2,Notebook5c9b09e2d2,SeungyeonWoo,,2016-08-13T05:33:18.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,abbysobh/notebook66ec097e01,Notebook66ec097e01,AbderRahman Sobh,,2016-08-13T01:06:24.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,lahirumadushanka/create-features,create features,Lahiru Madushanka,,2016-08-15T09:23:30.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,abbysobh/notebook5adb8d3170,Notebook5adb8d3170,AbderRahman Sobh,,2016-08-13T00:09:05.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,agalea91/demand-changes-week-to-week,Demand changes week-to-week,Alexander Galea,,2016-08-13T16:41:00.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,abbysobh/notebookb811fc1574,Notebookb811fc1574,AbderRahman Sobh,,2016-08-12T22:04:52.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,abbysobh/notebookbfd05a6e84,Notebookbfd05a6e84,AbderRahman Sobh,,2016-08-12T17:45:42.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,whijo2/notebook4267c29bc3,Notebook4267c29bc3,JosephWhiting,,2016-08-12T15:02:17.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,goldstar/log-mean-plus-lb-0-47-in-python-test1,Log_Mean_Plus LB: 0.47 in python test1,goldstar,,2016-08-12T09:16:54.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dsocaciu/notebook4ee576ff9e,Notebook4ee576ff9e,DMS_1108,,2016-08-11T20:38:37.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,isameer7/notebook73ce478b57,Notebook73ce478b57,Sameer Singh,,2016-08-11T20:25:55.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,goldstar/median-test1,median test1,goldstar,,2016-08-12T11:15:12.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,doublefox/exploring-products,Exploring products,DoubleFox,,2016-08-11T15:36:21.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,doublefox/exploratory-data-analysis,Exploratory Data Analysis,DoubleFox,,2016-08-11T13:26:14.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,konstantinkobs/notebook661482f231,Notebook661482f231,Konstantin Kobs,,2016-08-11T13:00:52.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,soulcoder/exploring-products-74d40e5e,Exploring products 74d40e5e,Eric Ng,,2016-08-11T07:08:04.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,soulcoder/exploratory-data-analysis,Exploratory Data Analysis,Eric Ng,,2016-08-11T07:07:25.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mhv2109/notebook7dd0459f34,Notebook7dd0459f34,mhv2109,,2016-08-11T05:07:45.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mhv2109/notebook5da88e7aad,Notebook5da88e7aad,mhv2109,,2016-08-11T05:07:15.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mhv2109/notebookf965bad142,Notebookf965bad142,mhv2109,,2016-08-11T04:10:13.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zhenjuan/bimbo-data-exploration,Bimbo Data exploration,zhenjuan,,2016-08-11T02:31:13.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,saurabhkulkarni/notebook14c21907d3,Notebook14c21907d3,Saurabh,,2016-08-11T02:16:00.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ruchiranga/notebook4b55ea148c,Notebook828b293f35,Ruchiranga,,2016-08-10T18:28:04.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ruchiranga/notebook1c4c070b60,Notebook1c4c070b60,Ruchiranga,,2016-08-10T18:24:44.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,liamsch/fork-of-data-exploration,Fork of Data exploration,Liam,,2016-08-10T15:37:36.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,liamsch/data-exploration,Data exploration,Liam,,2016-08-10T15:44:52.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,konstantinkobs/notebookee37a8359e,Notebookee37a8359e,Konstantin Kobs,,2016-08-10T12:36:35.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ynreaugk/notebooke82855ad9e,Notebooke82855ad9e,ravenrevolver,,2016-08-10T09:01:23.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ivanlflj/teste,Teste,Ivan Leitão Junior,,2016-08-09T19:50:33.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ashishsehgal/notebookf35130d098,Notebook9220059ab5,Ashish Sehgal,,2016-08-09T11:28:03.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,danielvdml/bimbo,Bimbo,DanielMorenoLopez,,2016-08-09T02:37:41.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alexjboyd/notebookc5ce2c2291,Notebookc5ce2c2291,Alex Boyd,,2016-08-09T02:02:19.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,aikinogard/xgboost,xgboost,Li Li,,2016-08-08T01:11:30.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sebasibarguen/bimbo-sales,Bimbo - Sales,sebasibarguen,,2016-08-07T23:52:32.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,wordsforthewise/extract-product-features,Extract product features,Nathan George,,2016-08-09T05:28:07.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rlomascolo/notebook83481dfe98,Notebook83481dfe98,Rodolfo Lomascolo,,2016-08-07T10:32:28.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rlomascolo/notebook7e52959583,Notebookd1142b0daa,Rodolfo Lomascolo,,2016-08-07T10:31:27.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rlomascolo/notebook3f91ba79ea,Notebook3f91ba79ea,Rodolfo Lomascolo,,2016-08-07T10:31:05.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jaydentan/notebook373e2020b6,Notebook373e2020b6,Jayden Tan,,2016-08-07T09:34:42.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,daolam/exploring-products,Exploring products,Dao Lam,,2016-08-07T02:49:28.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,menakasiri/script-4,script_4,Menaka,,2016-08-24T13:59:09.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,surajitbiswas/notebookfd6620775f,Notebookfd6620775f,SurajitBiswas,,2016-08-06T07:29:52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,surajitbiswas/notebookb708a99fda,Notebookb708a99fda,SurajitBiswas,,2016-08-06T07:29:01.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,lawrencewu/notebook6f8bceb04a,Notebook6f8bceb04a,law,,2016-08-06T00:21:28.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,agarwalsneha/data-analysis,data analysis,Sneha Agarwal,,2016-08-05T20:41:26.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zstuwangrui/feature-engine-first,Feature Engine First,Stu. Rui,,2016-08-05T14:31:20.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,daniellessa/notebook5a6850f1bd,Notebook5a6850f1bd,Daniel Lessa,,2016-08-05T14:26:19.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pedrohaamorim/exploring-products,Exploring products,Pedro Henrique Amorim,,2016-08-05T14:26:04.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zstuwangrui/feature-engine-1,Feature Engine 1,Stu. Rui,,2016-08-05T14:24:45.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zstuwangrui/from-stu-rui,from stu.rui,Stu. Rui,,2016-08-05T12:42:05.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zstuwangrui/notebook6cdbf359df,Notebook6cdbf359df,Stu. Rui,,2016-08-05T11:21:11.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zstuwangrui/grupo-bimbo-inventory-demand,Grupo Bimbo Inventory Demand,Stu. Rui,,2016-08-05T10:58:12.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mythicalboy/notebook9ec1afc911,Notebook9ec1afc911,MMKJUN,,2016-08-04T21:57:26.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jalfaizy/trial1,trial1,jalFaizy,,2016-08-04T14:35:23.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,konstantinkobs/notebook613f91bd74,Notebook613f91bd74,Konstantin Kobs,,2016-08-04T12:54:44.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,achtungbaby/exploring-products,Exploring products,mtgarden,,2016-08-04T03:33:11.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ferbncode/group-bimbo-dataset,Group Bimbo Dataset,suyash,,2016-08-03T17:29:40.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ferbncode/trying-the-group-bimbo-dataset,Trying the Group Bimbo Dataset. ,suyash,,2016-08-03T17:20:03.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,posiedon/notebookf7542045a3,Notebookf7542045a3,Poseidon,,2016-08-03T16:00:13.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,posiedon/notebook81f5c1ffa5,Notebooke0718ec766,Poseidon,,2016-08-03T15:56:33.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,thunderboltman/notebookb8fdd961ec,Notebookb8fdd961ec,Thunderboltman,,2016-08-03T15:30:51.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,birolkuyumcu/notebooke815b6ef23,Notebooke815b6ef23,birolkuyumcu,,2016-08-03T13:55:03.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vamtosh/dataexploration,DataExploration,Santo,,2016-08-03T08:04:45.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vamtosh/data-exploration,Data Exploration,Santo,,2016-08-02T10:20:05.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ahan123/aaaaaa,aaaaaa,ahan,,2016-08-01T17:58:30.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rilesdg3/test543,test543,rilesdg3,,2016-08-01T08:43:22.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,andrewpan/bimbo,bimbo,Coast,,2016-08-01T06:57:45.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,demischi/xgboost-and-less-memory-script,xgboost and less memory_script,DeMischi,,2016-08-01T07:25:49.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,demischi/xgboost-and-less-memory,xgboost and less memory,DeMischi,,2016-07-31T22:11:44.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yiyihuijia/testdata,testdata,yiyihuijia,,2016-08-05T01:09:53.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vicgalle/means,Means,Victor Gallego,,2016-08-13T14:30:37.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alexdlikman/bimbo2,bimbo2,Alex Dlikman,,2016-07-29T11:43:58.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alexdlikman/bimbo,bimbo,Alex Dlikman,,2016-07-29T11:38:59.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nik2710/groupbimbo,groupBimbo,NikhilSharma,,2016-07-29T10:37:56.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,selfconstruct3d/firstone,FirstOne,Dzenan Hamzic,,2016-07-28T16:28:24.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yiyihuijia/second,second,yiyihuijia,,2016-08-03T15:07:49.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mouna99/xuexi,xuexi,mouna,,2016-07-28T09:57:08.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yishan/exploratory-data-analysis,Exploratory Data Analysis,YHan,,2016-07-28T07:39:17.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,seneca126/test-run-1,test_run,DanielYoo,,2016-07-27T20:38:37.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pcdragon/exploring-products,Exploring products,PcDragon,,2016-07-26T08:28:11.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yiyihuijia/trying,trying,yiyihuijia,,2016-07-28T01:02:40.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,shklovsky/testing,testing,Vladimir Shklovsky,,2016-07-23T18:35:28.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jheelz/hgjgh,hgjgh,james healy,,2016-07-22T20:59:14.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sc151491124/testkernel,testkernel,SemiCoder,,2016-07-22T07:01:05.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ntdefreitas/first-attempt-1,first_attempt,ntdef,,2016-07-21T17:39:41.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,teddyshaw1992/python-sgd-regressor,Python - SGD Regressor,T3DDY,,2016-07-20T23:36:01.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,piushvaish/exploratory-analysis,Exploratory Analysis,piushvaish,,2016-07-19T23:20:20.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,menakasiri/script-2,script_2,Menaka,,2016-08-06T18:26:15.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,demischi/bimbopython,BimboPython,DeMischi,,2016-07-18T07:30:32.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,wangyewen/clinkz2,clinkz2,clinkz,,2016-07-17T12:33:10.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,linganesan/manitest,manitest,Linganesan,,2016-07-16T18:23:41.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,cfretter/first,First,ChristophFretter,,2016-07-16T15:19:07.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pathi108/decison-trees,Decison trees,Dilshan Pathirana,,2016-07-15T13:49:48.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vargas/log-test,log test,vargas,,2016-07-15T09:21:11.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,skgadi/testprogram,TestProgram,Suresh Kumar Gadi,,2016-07-14T14:31:05.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,datapanda17/second-note,Second note,Data Panda,,2016-07-14T10:46:48.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,datapanda17/first-note,First note,Data Panda,,2016-07-14T10:45:04.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,andrewpan/bimbo-explore,bimbo explore,Coast,,2016-07-14T10:41:02.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mtfall/mytest,mytest,Takuya Akiyama,,2016-07-14T10:40:07.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sergproger/tensor,Tensor,sergproger,,2016-07-14T06:22:28.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,beardicus/zugzug,ZugZug,beardicus,,2016-07-13T16:55:35.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rohansadale/just-exploring,Just Exploring,Ro,,2016-07-13T04:17:39.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,shriramkumar/explore,Explore,Shriram Kumar,,2016-07-11T15:35:41.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kautukp/trial1,Trial1,KautukPatil,,2016-07-11T13:56:21.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,elteik/elteik01,elteik01,elteik,,2016-07-11T13:16:09.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nemethpeter42/osztalyozas,osztalyozas,Péter Németh,,2016-07-11T14:38:50.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nemethpeter42/evaluate2,evaluate2,Péter Németh,,2016-07-11T14:31:47.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ildiii05/random1,Random1,Ildi Madák,,2016-07-12T08:50:04.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nemethpeter42/evaluate,evaluate,Péter Németh,,2016-07-11T12:05:13.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nicholashartmann/bimbo,Bimbo,Nicholas Hartmann,,2016-07-12T11:23:46.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,satendrakumar/exploring-products,Exploring products,SatendraKumar,,2016-07-10T06:16:19.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,udayrddy/cliente-tabla-cleansing,cliente_tabla cleansing,Uday,,2016-07-11T04:06:02.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zavodrobotov/log-means-in-python-48578-v2,Log-means in Python (.48578) v2,ZavodRobotov,,2016-07-09T09:18:39.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alexmulo/median-merge,Median_Merge,alex mulo,,2016-07-09T08:09:59.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,krrish1729/analyzingproducts,AnalyzingProducts,Krish Rekapalli,,2016-07-08T20:54:23.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,abhilashawasthi/tryingr65,tryingr65,Abhilash Awasthi,,2016-07-08T16:27:17.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mia1394/kd0708,KD0708,KulmanDorottya,,2016-07-08T11:45:44.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,adagyenes/highway-to-hell,highway to hell,GyenesAdrienn,,2016-07-11T11:34:58.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,esawtooth/simple-prediction,Simple Prediction,Rohit Jain,,2016-07-08T04:39:47.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,podviaznikoff/grupobimbo-xgb,GrupoBimbo XGB,Dmitry Podviaznikov,,2016-07-11T21:18:26.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,awangntu/grupobimbo-exploration,GrupoBimbo_exploration,TensorFrozen,,2016-07-06T11:40:07.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,slbteam/slbteam-script,slbTeam Script,slbTeam,,2016-07-06T07:42:05.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,basswan/python-script-for-bimbo,python script for bimbo,Vasiliy Lebedev,,2016-07-06T08:12:19.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,gullu39/bimbonew,BimboNew,PrakashSubedi,,2016-07-05T23:49:50.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,arva23/testsetstats,TestSetStats,arva23,,2016-07-05T10:27:19.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kvaradi94/elso-feladat,elso_feladat,KálmánVáradi,,2016-07-05T12:48:25.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,karteeksai/bimbo-sai-draft,BIMBO_Sai_Draft,Sai Karteek,,2016-07-04T12:07:18.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,nemethpeter42/valami,valami,Péter Németh,,2016-07-08T12:03:20.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kvaradi94/masodik-feladat,masodik_feladat,KálmánVáradi,,2016-07-04T13:43:45.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kvaradi94/abcde,abcde,KálmánVáradi,,2016-07-04T08:49:03.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,elteik/proba,proba,elteik,,2016-07-04T06:08:56.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,andrewpan/explore-bimbo,explore bimbo,Coast,,2016-07-04T05:09:12.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,alicelane/first-testing,First-testing,AliceLane,,2016-07-07T10:11:49.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,yiyihuijia/first,first,yiyihuijia,,2016-07-28T13:25:33.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,shezan1437/practice,Practice,Kazi Nazmul Haque,,2016-07-01T18:17:00.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,bdavis/exploring-better-sales,Exploring Better Sales,thecolorblue,,2016-07-25T00:05:12.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mcafee/grbimbo,grbimbo,PM,,2016-06-30T20:59:11.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,wals110/exploring-products,Exploring products,walidnamane,,2017-11-17T20:38:13.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,benhamner/playground-21,Playground,Ben Hamner,,2016-06-28T23:05:50.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zavodrobotov/simple-xgboost,Simple XGBoost,ZavodRobotov,,2016-06-30T18:56:23.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vitolee/explore,Explore,Vito Limandibhrata,,2016-06-26T01:31:57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,haopan456/kkkkkk,kkkkkk,haopan,,2016-06-25T02:36:21.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,elpacko/visualizedata,VisualizeData,Francisco Rivera,,2016-06-24T23:54:43.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tyhukg/bimbo-python,bimbo_python,tyhu,,2016-06-24T19:34:51.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,bsukkala/bhargavabimbo,BhargavaBimbo,Bhargava Sukkala,,2016-06-27T03:23:47.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,datapanda17/first-script,Quick Validator,Data Panda,,2016-06-23T13:05:21.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,franmeye/bimbo-test,bimbo-test,franmeye,,2016-06-23T13:06:20.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,giritharanb/exploring-products,Exploring products,maximus elephantus,,2016-06-23T03:05:45.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jd21670/asdfsdf,asdfsdf,Telperion,,2016-06-22T22:54:19.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kvn219/01-preprocessing,01 - Preprocessing,Kevin Nguyen,,2016-06-22T05:47:59.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ketulgupta/trying-out-notebook,trying out notebook,Ketul Gupta,,2016-06-28T13:02:24.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,henrilin28/first-script-for-kaggle,first_script_for_kaggle,Henrilin28,,2016-06-22T02:28:01.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,starwar/runne,runne,Anup,,2016-06-29T06:48:35.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,maheshgurav/client-duplicate-identification,Client_duplicate_identification,Mahesh_Gurav,,2016-06-21T11:32:14.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,westhyena/dontknowwhat2do,dontknowwhat2do,JungwooChae,,2016-06-20T01:52:49.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,zauddelig/hello,hello,zauddelig,,2016-06-19T11:05:33.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,renegarxia/latest-weeks-py,latest-weeks.py,ixxra,,2016-06-17T23:46:12.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,kamalkishor1991/basic-data-exploration,Basic Data exploration ,Kamal Joshi,,2016-06-17T19:00:04.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vivekhelsing/helsings-explorations,helsings explorations,VivekanandanDheivendran,,2016-06-17T15:22:04.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jwegas/salesbyseller,salesbyseller,Evgenii Zhukov,,2016-06-17T09:24:41.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,guilhermeprokisch/nothing,Nothing,GuilhermeProkisch,,2016-12-12T06:54:01.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,miibotree/exploratory-data-analysis,Exploratory Data Analysis,BotreeMii,,2016-06-16T13:34:37.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,cankoklu/preprocess-sample,preprocess sample,CanKoklu,,2016-06-16T12:03:19.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,markevans/firstnotebook,FirstNotebook,MarkEvans,,2016-06-15T19:30:57.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,liuyang1123/aaaaa,aaaaa,liuyang,,2016-06-15T15:08:13.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,evantan/test-notebook,Test notebook,EvanTan,,2016-06-15T13:21:55.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,sanjulademel/bimbo-1,BIMBO_1,Sanjula De Mel,,2016-06-16T03:35:29.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,gustavodemari/inventory-demand-prediction,Random Sampling + Random Forest,Gustavo De Mari,,2016-06-28T07:42:57.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,aagundez/exploring-bimbo,Exploring Bimbo,Aurelio Agundez,,2016-06-15T03:24:01.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,eddyod/simple-media-py,simple_median.py,eddyod,,2016-06-16T18:56:22.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/blaze-test,sample train.csv,Thomas,,2016-06-18T17:28:11.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,defenestration/simple-bimbo-solution,Simple Bimbo Solution,AJ Cloete,,2016-06-13T09:09:06.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,neerajgarg/simple-bimbo-solution,Simple Bimbo Solution,Neeraj,,2016-06-13T08:03:18.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/random-forest,random forest,Thomas,,2016-06-13T12:35:15.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,trappatoni/first-test,first_test,TRABELSIAhmed,,2016-06-12T14:18:21.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,deekaushal/explore,Explore,DeepakKaushal,,2016-06-14T15:52:25.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/test-week-4,test week 4,Thomas,,2016-06-12T13:45:50.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,gouyunfei/fortest-notebook,fortest_notebook,jim-gou,,2016-06-14T03:45:37.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,maxpowerwastaken/rmsle-for-over-vs-under-prediction,RMSLE for Over- vs Under-Prediction,MaxPower,,2016-06-11T21:20:46.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/mean1,mean1,Thomas,,2016-06-11T19:13:11.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/sklearn-test,top_N,Thomas,,2016-06-11T23:07:43.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/top-10,top_10,Thomas,,2016-06-11T13:20:01.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,dukebody/benchmarkmedians-0-52718-on-leaderboard,BenchmarkMedians(0.52718 on Leaderboard),Israel Saeta Pérez,,2016-06-19T15:23:17.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,clever/exploratory-data-analysis-forked,Exploratory Data Analysis (Forked),Dumb,,2016-06-11T06:05:25.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,pshelokar/prakbimbo,prakBimbo,Prakash Shelokar,,2016-06-10T18:06:55.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/hist2d-plot,hist2d plot,Thomas,,2016-06-11T12:13:13.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,jwegas/letsbeginonceagain,letsbeginonceagain,Evgenii Zhukov,,2016-06-17T08:58:31.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/test-input-2,test_input_2,Thomas,,2016-06-11T12:39:23.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/test-input-product,test_input product,Thomas,,2016-06-09T22:57:30.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,khanh94/exploratory-data-analysis,Exploratory Data Analysis,Nguyen Khanh,,2016-06-10T02:43:34.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mathtick/exploratory-data-analysis,Exploratory Data Analysis,mathtick,,2016-06-09T16:55:26.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,vetional/validate-data,validate data,PrateekShrivastava,,2016-06-09T16:49:56.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,hulkbulk/explore-data-bimbo,Explore Data Bimbo,HulkBulk,,2016-06-09T15:48:11.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,hulkbulk/explore-bimbo,Explore Bimbo,HulkBulk,,2016-06-09T14:26:48.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,cankoklu/first,First,CanKoklu,,2016-06-09T14:00:27.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,mohamedali/exploratory-data-analysis,Exploratory data analysis ,Mohamed Ali,,2016-06-14T16:51:24.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/test-input,test_input,Thomas,,2016-06-09T21:55:47.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,montyhall/exploratory-data-analysis,Exploratory Data Analysis,Thomas,,2016-06-09T11:04:33.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,atsutake/myfirstscript,myfirstscript,ATS,,2016-06-09T11:00:40.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,tunguz/gbid-2,GBID_2,Bojan Tunguz,,2016-06-09T01:45:17.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,amarimuthu/check-1,Check,MarimuthuAnanthavelu,,2016-06-08T20:58:28.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,taylor/cbt-second-try,CBT second try,Brian Taylor,,2016-06-08T20:58:39.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,ganliu/datapreview,DataPreview,Gan,,2016-06-08T20:32:45.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,rahulvishwakarma/kepler,Kepler ,Rahul Vishwakarma,,2016-06-08T14:39:50Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,swapniljariwala/basic-checks,basic_checks,SwapnilJariwala,,2016-06-19T16:23:14.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand
+,,,,,0,anujprakash/first-run-py,first_run.py,Anuj Prakash,,2016-06-08T05:04:47.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,grupo-bimbo-inventory-demand

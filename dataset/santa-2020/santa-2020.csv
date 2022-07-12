@@ -1,0 +1,95 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ilialar/simple-multi-armed-bandit,Simple multi-armed bandit,Ilia Larchenko,,2020-12-15T14:51:58.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],93,santa-2020
+,,,,,0,nagiss/santa2020-leaderboard-analysis,Santa2020 Leaderboard Analysis,nagiss,,2021-02-22T13:42:31.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],83,santa-2020
+,,,,,0,subinium/merry-christmas,🎅 Merry Christmas!! 🎅,Subin An,,2021-12-20T10:16:52.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,santa-2020
+,,,,,0,a763337092/pull-vegas-slot-machines-add-weaken-rate-continue5,pull_vegas_slot_machines add weaken rate continue5,Lindada,,2020-12-30T07:20:38.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],72,santa-2020
+,,,,,0,isaienkov/santa-2020-starter,Santa 2020 Starter,Kostiantyn Isaienkov,,2020-12-14T08:56:44.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,santa-2020
+,,,,,0,xhlulu/santa-2020-ucb-and-bayesian-ucb-starter,Santa 2020: UCB and Bayesian UCB Starter,xhlulu,,2020-12-11T16:55:15.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,santa-2020
+,,,,,0,lebroschar/1000-greedy-decision-tree-model,[1000+] Greedy Decision Tree model,lebroschar,,2020-12-24T22:37:11.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,santa-2020
+,,,,,0,aatiffraz/a-beginner-s-approach-to-performance-analysis,A beginner's approach to performance analysis,Aatif Fraz,,2020-12-22T15:36:01.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,santa-2020
+,,,,,0,nagiss/santa2020-stable-rating-estimation-leaderboards,Santa2020 Stable Rating Estimation & LeaderBoards,nagiss,,2021-02-24T15:41:46.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,santa-2020
+,,,,,0,masatomatsui/santa-episode-scraper,Santa Episode Scraper,e-toppo,,2021-01-11T11:15:08.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,santa-2020
+,,,,,0,xhlulu/santa-2020-epsilon-greedy-starter,Santa 2020: epsilon-greedy starter,xhlulu,,2020-12-10T23:25:09.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,santa-2020
+,,,,,0,sirishks/pull-vegas-slot-machines,pull_vegas_slot_machines,Sirish Somanchi,,2020-12-14T03:33:42.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,santa-2020
+,,,,,0,lebroschar/generate-training-data,Generate training data,lebroschar,,2020-12-24T07:31:11.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,santa-2020
+,,,,,0,lpkirwin/santa-2020-replay-visualizer,Santa 2020 replay visualizer,LiamKirwin,,2020-12-18T20:36:04.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,santa-2020
+,,,,,0,ahmedewida/santa-2020-agent3-best,Santa 2020: agent3 best,Ahmed Ewida,,2021-01-31T06:22:12.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,santa-2020
+,,,,,0,booooooow/santa-2020-leaderboard-race-animation,Santa 2020 - Leaderboard Race Animation,Boooooooooow,,2021-02-23T00:30:09.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,santa-2020
+,,,,,0,demche/santa-2020-who-s-lucky-eda,Santa-2020: who's lucky? (EDA),Demid Chernenko,,2021-03-02T15:53:17.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,santa-2020
+,,,,,0,iehnrtnc/santa2020,santa2020 方針など,iehn,,2020-12-12T10:13:55.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,santa-2020
+,,,,,0,mlconsult/regressor-bot,regressor_bot,Ken Miller,,2021-01-21T11:45:49.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,santa-2020
+,,,,,0,jamesmcguigan/santa-2020-agents-comparison,Santa 2020 - Agents Comparison,James McGuigan,,2021-01-28T01:49:01.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,santa-2020
+,,,,,0,aatiffraz/predicting-thresholds-by-emulating-bandits,Predicting Thresholds by Emulating Bandits,Aatif Fraz,,2021-01-16T17:15:10.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,santa-2020
+,,,,,0,shivammittal274/santa-scrapping-top-episodes-to-ml-modelling,SANTA (Scrapping Top Episodes' to ML Modelling),Shivam Mittal,,2021-01-22T12:46:18.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,santa-2020
+,,,,,0,xincuimath/weighted-expected-mean-and-std-estimation,Weighted expected mean and std estimation,Xin Cui,,2020-12-17T06:48:19.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,santa-2020
+,,,,,0,nagiss/imaginary-rudolph-prize-solution,Imaginary Rudolph Prize Solution 🦌,nagiss,,2021-02-01T10:58:35.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,santa-2020
+,,,,,0,vdebout/santa2020-global-and-boundary-analysis,Santa2020 global and boundary analysis,Vincent Debout,,2020-12-17T14:49:28.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,santa-2020
+,,,,,0,felipefonte99/ensemble-pull-vegas-decision-tree-model,Ensemble: Pull Vegas + Decision Tree Model,Felipe Loque,,2021-01-12T12:03:30.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,santa-2020
+,,,,,0,skanderbenmansour/not-so-secret-sauce-for-candy-cane-contest-agent,Not-So-Secret Sauce for Candy Cane Contest Agent,Skanderovitch,,2020-12-27T12:00:10.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,santa-2020
+,,,,,0,ddrbcn/drl-mab,DRL-MAB,ddrbcn,,2021-01-12T18:43:00.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,santa-2020
+,,,,,0,tyqiangz/plain-bayesian-ucb-is-not-enough,Plain bayesian UCB is not enough,Tay Yong Qiang,,2020-12-17T17:06:48.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,santa-2020
+,,,,,0,marlesson/what-is-multi-armed-bandits,What is Multi-armed Bandits?,Marlesson,,2020-12-09T22:23:24.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,santa-2020
+,,,,,0,naokimaeda/local-evaluation,Local Evaluation,Naoki Maeda,,2020-12-09T11:00:50.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,santa-2020
+,,,,,0,jtrotman/santa-2020-animated-shake-up-plot,Santa 2020 Animated Shake-up Plot,James Trotman,,2021-02-23T13:24:43.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,demche/rps-and-santa-2020-ranking-stability-eda,RPS and Santa-2020: ranking stability (EDA),Demid Chernenko,,2021-03-02T15:53:58.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,dott1718/santa20-lb-score-dynamics,santa20 lb score dynamics,dott,,2021-01-31T09:16:20.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,jyesawtellrickson/pvsmawrc-commented-explained,PVSMAWRC (commented/explained),JyeSR,,2021-01-08T22:56:18.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,iwatatakuya/how-to-submit-greedy-decision-tree-model,How to submit Greedy Decision Tree model,ganchan,,2020-12-30T13:23:05.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,mrgeislinger/visualizing-reward-outcomes,Visualizing Reward Outcomes,Victor Geislinger,,2020-12-12T19:59:55.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,somnambwl/santa-2020,Santa-2020,somnambWl,,2021-01-27T16:04:06.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,santa-2020
+,,,,,0,utkarshxy/secret-santa-with-python-merry-christmas,Secret Santa With Python🎅| Merry Christmas!🎄,Zeus,,2020-12-25T08:43:52.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santa-2020
+,,,,,0,iwatatakuya/santa-2020-viz-of-initial-threshold,Santa 2020: viz of initial threshold,ganchan,,2020-12-25T08:56:47.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santa-2020
+,,,,,0,dan3dewey/more-candy-santa-2020,More Candy - Santa 2020,Daniel Dewey,,2021-01-01T14:42:32.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santa-2020
+,,,,,0,hkpaul2020/simple-multi-armed-bandit,Simple multi-armed bandit,Paul Hd,,2020-12-10T10:29:40.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,santa-2020
+,,,,,0,hansungdev/santa-2020-beginner-w-a-simple-bandit,Santa 2020 - beginner (/w a simple bandit),hansung.dev,,2020-12-31T15:07:31.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santa-2020
+,,,,,0,rajindermavi/santa2020-mab-algorithm-comparison,Santa2020 MAB Algorithm Comparison,Rajinder Mavi,,2020-12-15T23:04:43.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santa-2020
+,,,,,0,xhlulu/santa-2020-thompson-sampling,Santa 2020: Thompson Sampling,xhlulu,,2020-12-11T03:39:07.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santa-2020
+,,,,,0,yegorbiryukov/kaptin-bluddflagg-vs-santa-2020,Kaptin Bluddflagg vs Santa 2020,Yegor Biryukov,,2020-12-12T17:09:15.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,santa-2020
+,,,,,0,steveroberts/an-introduction-to-multi-armed-bandits,An Introduction to Multi-Armed Bandits,Steve Roberts,,2020-12-11T18:15:19.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santa-2020
+,,,,,0,safavieh/santa2020-maximum-likelihood-estimation-agent,Santa2020 - Maximum Likelihood Estimation Agent,Ehsan,,2020-12-19T21:16:12.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,santa-2020
+,,,,,0,authman/animate-my-santa,Animate my Santa,عثمان,,2020-12-14T13:57:04.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,santa-2020
+,,,,,0,wht1996/5th-place-solution-transformer-explore,5th place solution - transformer & explore,(⊙﹏⊙),,2021-02-23T14:14:34.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santa-2020
+,,,,,0,kibuna/santa2020-lightgbm-quantile-agent,Santa2020-LightGBM-quantile-agent,kibuna,,2021-02-20T16:43:49.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santa-2020
+,,,,,0,nigelcarpenter/parallel-processing-agent-trials-using-ray,Parallel processing agent trials using ray,Nigel Carpenter,,2020-12-16T00:06:31.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santa-2020
+,,,,,0,slawekbiel/helper-class-historycollectingagent,Helper class HistoryCollectingAgent,Slawek Biel,,2020-12-11T17:16:41.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,santa-2020
+,,,,,0,iiyamaiiyama/santa2020-17th-place-lb1355,santa2020 17th place(LB1355),s_shohei,,2021-02-23T13:40:20.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2020
+,,,,,0,pedram/my-best-agent-in-the-lb,My best agent in the LB,Mehdi Pedram,,2021-02-07T10:25:05.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2020
+,,,,,0,salmanhiro/get-started-to-rl-epsilon-w-decaying-decay,get started to RL: Epsilon w/ decaying decay,Salman Chen,,2020-12-10T01:59:03.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2020
+,,,,,0,something4kag/santa-2020-viz,santa 2020 viz,something4kag,,2020-12-09T08:19:36.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,santa-2020
+,,,,,0,paulrohan2020/basic-n-armed-bandit,Basic-N-armed-Bandit,Data Storm,,2021-06-14T16:22:57.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santa-2020
+,,,,,0,thanhtinqn97/bandit-softmax-ucb,bandit_softmax_ucb,fuhodev,,2020-12-10T07:36:03.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santa-2020
+,,,,,0,jazivxt/breakroom,Breakroom,Daniel Preciado,,2020-12-10T08:04:22.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,santa-2020
+,,,,,0,johnmacgillivray/heuristic-scoring-bot,Heuristic scoring bot,John Macgillivray,,2021-02-03T23:19:18.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2020
+,,,,,0,jastan/bayesian-ucb-on-steroids,Bayesian UCB on Steroids,Jason,,2021-02-02T20:39:49.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2020
+,,,,,0,jamesmcguigan/rock-paper-candy-copy-opponent-move-unless-win,Rock Paper Candy - Copy Opponent Move Unless Win,James McGuigan,,2020-12-30T00:45:52.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2020
+,,,,,0,mrgeislinger/monkey-see-monkey-do-copy-opponent-strategy,"Monkey See, Monkey Do (Copy Opponent Strategy)",Victor Geislinger,,2020-12-13T00:02:17.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,santa-2020
+,,,,,0,jjj8989/greedy,ε -Greedy,joie_LEE,,2021-01-07T13:20:30.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2020
+,,,,,0,penchalaiah123/happy-christmas,Happy Christmas ,Praveen Kumar,,2020-12-26T11:12:45.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2020
+,,,,,0,pg1007/winning-game,Winning Game ,Priyanka Gupta ,,2020-12-12T09:31:13.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2020
+,,,,,0,ranbato/keep-playing-when-winning,Keep playing when winning,RobertAltena,,2020-12-10T09:11:33.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2020
+,,,,,0,mrgeislinger/santa2020-epsilon-greedy-solution,Santa2020-epsilon_greedy-solution,Victor Geislinger,,2021-01-17T23:59:21.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,santa-2020
+,,,,,0,jyesawtellrickson/performance-visualisation,Performance Visualisation,JyeSR,,2021-01-30T22:01:43.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,avinashyadav11/secret-santa-with-python-merry-christmas,Secret Santa With Python🎅| Merry Christmas!🎄,Avinash Yadav,,2021-01-05T03:53:00.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,arunppsg/thompson-sampling-for-mab,Thompson Sampling for MAB,Arun Palaniappan,,2020-12-15T07:33:31.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,lebroschar/sampled-a-posteriori-agent,Sampled a-posteriori agent,lebroschar,,2020-12-13T23:56:52.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,jamesmcguigan/rock-paper-candy-copy-opponent-move,Rock Paper Candy - Copy Opponent Move,James McGuigan,,2020-12-29T19:58:48.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,jamesmcguigan/candy-cane-optimized-ucb,Candy Cane - Optimized UCB,James McGuigan,,2020-12-10T12:52:53.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,jamesmcguigan/candy-cane-random-agent,Candy Cane - Random Agent,James McGuigan,,2020-12-09T14:40:45.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,santa-2020
+,,,,,0,mikeheald/modified-ucb-with-neural-net-estimating-q,Modified UCB with Neural Net Estimating Q,Mike Heald,,2021-02-23T16:44:15.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,mlconsult/fork-test-bot-submission-1205,Fork test_bot_submission 1205,Ken Miller,,2021-02-03T16:44:04.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,fernandoramacciotti/rotting-bandits-fewa-algorithm,Rotting Bandits - FEWA Algorithm,Fernando Ramacciotti,,2020-12-17T19:28:52.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,markjenei/decay-more-information-less-performance,"Decay - more information, less performance?",Mark Jenei,,2020-12-17T18:02:51.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,fernandoramacciotti/starters-epsilon-greedy-ucb-and-gradient-bandit,"Starters - Epsilon-Greedy, UCB and Gradient Bandit",Fernando Ramacciotti,,2020-12-14T19:03:23.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,karinafarhad/santa-s-contest-elf-vs-vending-machines,Santa's contest: elf vs vending machines,Karina Farhad,,2020-12-14T19:41:51.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,vedurumudipriyanka/santa-2020,Santa 2020 ,Vedurumudi Priyanka,,2020-12-10T04:56:15.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,santa-2020
+,,,,,0,somnambwl/posteriordistribution,PosteriorDistribution,somnambWl,,2021-02-07T13:20:55.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,profilecore28/start-from-regressorbot,start_from_regressorbot,profilecore,,2021-01-28T12:18:37.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,bitcrunch/feature-engineering-predicitons-ongoing,Feature engineering + predicitons - ongoing,Sebastian S,,2020-12-14T07:19:17.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,arunppsg/decaying-e-greedy,Decaying E-Greedy,Arun Palaniappan,,2020-12-15T07:48:59.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,basilcm/santa-2020,Santa 2020,Basil_CM,,2020-12-13T23:24:16.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,jamesmcguigan/candy-cane-multi-armed-bandit,Candy Cane - Multi-Armed Bandit,James McGuigan,,2020-12-29T19:59:25.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,jumabek/plot-comparison-ucb-vs-bayesian-isaienkov-s-code,Plot comparison| UCB vs Bayesian| isaienkov's code,JumabekAlihanov,,2020-12-14T01:57:18.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,santa-2020
+,,,,,0,petermichel/santa-2020-who-s-lucky-eda,Santa-2020: who's lucky? (EDA),Dehr Musa,,2021-02-08T23:41:02.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santa-2020
+,,,,,0,somnambwl/generalization-of-the-law-of-large-numbers,Generalization of the law of large numbers,somnambWl,,2021-02-02T01:23:13.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santa-2020
+,,,,,0,marioeid/santa-2020-competition,santa_2020 competition,marioeid,,2021-04-19T15:24:08.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santa-2020
+,,,,,0,saztorralba/santa2020-probabilityestimation,Santa2020-ProbabilityEstimation,Oscar,,2020-12-11T10:52:06.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,santa-2020

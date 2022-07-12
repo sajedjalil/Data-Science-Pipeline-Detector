@@ -1,0 +1,86 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ryanholbrook/getting-started-with-ai4code,Getting Started with AI4Code,Ryan Holbrook,,2022-05-17T15:39:58.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],227,AI4Code
+,,,,,0,aerdem4/ai4code-pytorch-distilbert-baseline,AI4Code Pytorch DistilBert Baseline,Ahmet Erdem,,2022-05-12T14:53:56.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],142,AI4Code
+,,,,,0,odins0n/ai4code-detailed-eda,AI4Code Detailed EDA📊,Sanskar Hasija,,2022-05-13T09:11:46.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],133,AI4Code
+,,,,,0,vad13irt/optimization-approaches-for-transformers,Optimization approaches for Transformers,Vadim Irtlach,,2022-06-26T12:08:56.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],130,AI4Code
+,,,,,0,andradaolteanu/ai4code-language-detection-and-model-tuning,📜 AI4Code - Language Detection and Model Tuning,Andrada Olteanu,,2022-06-21T14:36:33.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],98,AI4Code
+,,,,,0,yuanzhezhou/ai4code-pairwise-bertsmall-inference,AI4Code Pairwise BertSmall inference,yuanzhe zhou,,2022-05-22T16:43:25.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],86,AI4Code
+,,,,,0,suicaokhoailang/stronger-baseline-with-code-cells,Stronger baseline with code cells,Khoi Nguyen,,2022-05-25T07:11:36.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],80,AI4Code
+,,,,,0,dschettler8845/ai4code-eda-baseline,AI4Code - EDA & Baseline,Darien Schettler,,2022-05-25T01:40:31.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,AI4Code
+,,,,,0,yuanzhezhou/ai4code-distilbert-inference-777,AI4Code DistilBert inference 777,yuanzhe zhou,,2022-05-21T06:43:58.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],69,AI4Code
+,,,,,0,heyytanay/ai4code-pytorch-training-codebert-w-b,AI4Code PyTorch Training - 🤗 CodeBERT + W&B 📉,Tanay Mehta,,2022-06-07T04:59:27.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],67,AI4Code
+,,,,,0,yuanzhezhou/ai4code-distilbert-training-777,AI4Code DistilBert training 777,yuanzhe zhou,,2022-05-21T06:48:57.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],67,AI4Code
+,,,,,0,heyytanay/ai4code-training-bert-large-in-pytorch-w-b-amp,AI4Code Training BERT-Large in PyTorch - W&B + AMP,Tanay Mehta,,2022-06-07T17:52:03.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,AI4Code
+,,,,,0,shagkala/kaggle-notebooks-analysis,⭐️⭐️Kaggle Notebooks Analysis⭐️⭐️,Shagun Kala,,2022-06-18T13:47:04.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,AI4Code
+,,,,,0,ryanholbrook/competition-metric-kendall-tau-correlation,Competition Metric - Kendall Tau Correlation,Ryan Holbrook,,2022-05-15T10:19:50.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,AI4Code
+,,,,,0,yuanzhezhou/ai4code-pairwise-bertsmall-training,AI4Code Pairwise BertSmall Training,yuanzhe zhou,,2022-05-22T16:42:18.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,AI4Code
+,,,,,0,ilyaryabov/fasttext-sorting-with-cosine-distance-algo,FastText - Sorting with Cosine Distance Algo,Right Goose,,2022-06-09T20:59:29.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,AI4Code
+,,,,,0,azminetoushikwasi/intro-to-cross-validation-different-methods,➡️ Intro to Cross Validation ✅ Different Methods,Azmine Toushik Wasi,,2022-06-27T15:31:37.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,AI4Code
+,,,,,0,yasufuminakama/ai4code-most-common-kagglers,AI4Code / Most common kagglers,Y.Nakama,,2022-05-12T17:47:53.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,AI4Code
+,,,,,0,nickuzmenkov/ai4code-tensorflow-distilbert-baseline,AI4Code TensorFlow DistilBert Baseline,Nick Kuzmenkov,,2022-06-10T07:13:39.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,AI4Code
+,,,,,0,andreaspalmgren/ai4code-comprehensive-eda,AI4Code - Comprehensive EDA,Andreas Palmgren,,2022-06-01T03:17:55.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,AI4Code
+,,,,,0,erikbruin/ai4code-find-your-stuff-kendall-tau-and-eda,"AI4Code: Find your stuff, Kendall Tau and EDA",Erik Bruin,,2022-05-22T09:41:51.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,AI4Code
+,,,,,0,lucasmorin/ai4code-toc-post-processing,AI4Code - ToC post-processing,Lucas Morin,,2022-05-17T11:52:02.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,AI4Code
+,,,,,0,swaralipibose/a-detailed-eda-position-analysis,A detailed EDA  + Position Analysis,Sayantan Mazumdar,,2022-06-03T14:49:44.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,AI4Code
+,,,,,0,yuanzhezhou/ai4code-pairwise-bertsmall-pretrain,AI4Code Pairwise BertSmall Pretrain,yuanzhe zhou,,2022-05-22T16:41:23.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,AI4Code
+,,,,,0,yufuin/ai4code-linearity-of-kendall-s-tau-english,AI4Code: Linearity of Kendall's Tau [English+日本語],yufuin,,2022-06-18T03:31:32.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,AI4Code
+,,,,,0,nickuzmenkov/ai4code-tf-tpu-codebert-training,AI4Code TF TPU CodeBert - Training,Nick Kuzmenkov,,2022-06-22T18:31:57.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,AI4Code
+,,,,,0,nickuzmenkov/ai4code-tf-tpu-codebert-data-preparation,AI4Code TF TPU CodeBert - Data Preparation,Nick Kuzmenkov,,2022-06-22T10:17:01.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,AI4Code
+,,,,,0,mpwolke/correlations-dataprep-kendalltau,Correlations Dataprep KendallTau,Marília Prata,,2022-05-21T00:43:32.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,AI4Code
+,,,,,0,robikscube/google-ai4code-data-to-parquet-twitch-stream-eda,Google AI4Code Data to Parquet [Twitch Stream EDA],Rob Mulla,,2022-05-13T20:48:37.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,AI4Code
+,,,,,0,mpwolke/monotonic-relationships-are-beige,Monotonic Relationships are Beige,Marília Prata,,2022-05-12T23:54:54.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,AI4Code
+,,,,,0,thedevastator/error-analysis-visualize-codebert-s-attention,Error Analysis: Visualize CodeBERT's attention,The Devastator,,2022-06-26T11:56:36.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,AI4Code
+,,,,,0,haithamaliryan/ai4code-extract-all-functions-variables-names,"AI4Code Extract all functions, variables... names",Haitham ALiryan,,2022-06-12T06:59:51.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,AI4Code
+,,,,,0,nickuzmenkov/ai4code-tf-tpu-codebert-inference,AI4Code TF TPU CodeBert - Inference,Nick Kuzmenkov,,2022-06-22T14:59:23.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,AI4Code
+,,,,,0,cocoshe/how-to-hf-a-mini-template-to-start-big-models,How to 🤗HF——A mini template to start BIG models,cocoshe,,2022-05-14T10:57:38.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,AI4Code
+,,,,,0,astrung/language-detection-transformer,language-detection-transformer,Nguyentuananh,,2022-06-12T09:40:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,AI4Code
+,,,,,0,maunish/ai4code-some-random-stats,AI4Code: Some random stats,Maunish dave,,2022-05-20T13:33:30.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,AI4Code
+,,,,,0,jkstarc/part-i-the-hub,Part I: The Hub,John Kim,,2022-06-18T14:00:30.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,AI4Code
+,,,,,0,unsignedrant/ai4code-basic-eda-json-parquet-ipynb,"AI4Code - Basic EDA, json -> parquet/ipynb",UnsignedRant,,2022-05-31T01:35:31.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,AI4Code
+,,,,,0,jazivxt/code-theory,Code Theory,Daniel Preciado,,2022-06-01T02:15:01.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,AI4Code
+,,,,,0,leolu1998/ai4code-deberta-inference,AI4Code - Deberta Inference,Leo Lu,,2022-05-15T05:40:47.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,AI4Code
+,,,,,0,mindcool/top-5000-python-packages-descriptions,Top 5000 Python packages descriptions,Luis,,2022-05-14T01:10:24.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,AI4Code
+,,,,,0,happycube/ai4code-pytorch-codebert-baseline,AI4Code Pytorch CodeBERT Baseline,happycube,,2022-06-05T21:52:00.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,AI4Code
+,,,,,0,josecarmona/ai4code-notes-and-markdown-cells-eda,AI4Code Notes and markdown cells EDA,Jose Carmona,,2022-06-03T18:27:50.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,AI4Code
+,,,,,0,elindbergs/load-scripts-of-top-github-projects,Load Scripts of Top GitHub Projects,elind,,2022-05-21T22:56:31.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,AI4Code
+,,,,,0,aroksak/ai4code-languages-distribution,AI4Code: Languages Distribution,Sergey Dulikov,,2022-05-16T13:04:30.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,AI4Code
+,,,,,0,pjmathematician/kendall-tau-correlation-faster-o-nlogn,Kendall Tau Correlation : FASTER O(nlogn),pjmathematician,,2022-05-13T14:55:50.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,AI4Code
+,,,,,0,vincentwang25/real-benchmark-shuffle-markdown-cell-only,Real Benchmark - Shuffle Markdown Cell Only,Vincent Wang,,2022-06-14T14:43:40.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,AI4Code
+,,,,,0,josecarmona/ai4code-tryig-to-hack-the-lb,AI4Code Tryig to hack the LB,Jose Carmona,,2022-06-05T18:08:35.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,AI4Code
+,,,,,0,anuj6540/ai4code-eda,AI4Code EDA,blackjack,,2022-05-18T13:27:15.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,AI4Code
+,,,,,0,ilyaryabov/eda-collecting-training-dataset,EDA + collecting training dataset,Right Goose,,2022-05-12T08:44:03.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,AI4Code
+,,,,,0,jdoesv/data-sources-in-ai4code-notebooks,Data sources in AI4Code Notebooks,Sindhu V,,2022-05-13T15:48:43.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,AI4Code
+,,,,,0,cv13j0/ai4code-a-simple-neuronal-network,"📄 AI4Code, A Simple Neuronal Network",C4rl05/V,,2022-05-13T21:29:30.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,AI4Code
+,,,,,0,shilpagracev/notebooke207a94f5c,notebooke207a94f5c,SHILPA GraceV ,,2022-05-12T06:19:59.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,AI4Code
+,,,,,0,jkstarc/kaleage-alman-petal-statsay,Kaleage Alman Petal Statsay,John Kim,,2022-05-21T15:28:44.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,AI4Code
+,,,,,0,santosh1974/ai4code-first,AI4Code_First,Santosh Vaidya,,2022-06-24T18:36:55.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,jkstarc/part-ii-the-core,Part II: The Core,John Kim,,2022-06-19T17:35:34.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,arunamenon/ai4code-eda-modelling,AI4Code - EDA & Modelling,arunamenon,,2022-06-27T08:23:52.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,jkstarc/the-great-grey-wide-mouth,The Great Grey Wide Mouth,John Kim,,2022-06-13T18:58:01.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,harshwalia/ai4code-v1-easy-explanation-all-data,AI4Code-v1(EASY EXPLANATION)-ALL_DATA,Harsh Walia,,2022-06-05T12:55:23.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,jagofc/ai4code-kendall-tau-experiments,AI4Code - Kendall-tau Experiments,jagofc,,2022-05-28T21:11:43.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,ilyaryabov/fasttext-public-model-teaching,Fasttext public model teaching,Right Goose,,2022-05-17T17:29:27.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,cafelatte1/baseline-xgboost-imporved-by-hp-tuning,Baseline XGBoost imporved by HP Tuning,Cafelatte1,,2022-06-23T05:16:01.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,AI4Code
+,,,,,0,lvwerra/kendall-tau-with-evaluate,Kendall Tau with evaluate,lvwerra,,2022-06-14T13:36:27.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,AI4Code
+,,,,,0,happycube/ai4code-training-data-pre-processor,AI4Code training data pre-processor,happycube,,2022-06-04T23:47:48.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,AI4Code
+,,,,,0,tensorchoko/google-ai4code-eda,🟩Google AI4Code EDA,tensor choko,,2022-05-14T23:53:09.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,AI4Code
+,,,,,0,kaushiksuresh147/get-started-with-interactive-eda,Get started 🏃‍♂️ with Interactive EDA  📚,Kash,,2022-05-31T11:41:51.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,AI4Code
+,,,,,0,hitarthagarwal/kaggle-analysis,kaggle analysis,Hitarth Agarwal,,2022-06-24T05:41:22.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,fmakarem/ai4code-eda,AI4Code EDA,Fadi,,2022-06-22T17:29:38.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,samratthapa/ai4code-random-eda-comments-languages,"AI4Code Random EDA (Comments, Languages,..)",Samrat Thapa,,2022-05-30T12:09:26.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,jdoesv/flax-code-embeddings-usage,Flax Code Embeddings Usage,Sindhu V,,2022-05-12T12:10:04.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,arvinddevarkonda/ai4code-detail-eda,AI4Code_Detail_EDA_🔥🔥🔥,Arvind Devarkonda,,2022-05-12T19:03:09.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,adityajha1504/notebookc5865d43d4,notebookc5865d43d4,AdityaJha1504,,2022-05-12T12:52:15.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,jkstarc/gun-synthetic-soul-generic,Gun Synthetic Soul Generic,John Kim,,2022-05-21T15:31:47.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,AI4Code
+,,,,,0,fmakarem/prepare-data-ai4code,prepare data AI4Code,Fadi,,2022-06-26T14:40:44.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,AI4Code
+,,,,,0,elindbergs/load-urls-of-top-github-projects,Load Urls of Top GitHub Projects,elind,,2022-05-20T16:38:27.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,AI4Code
+,,,,,0,sundusaijaz/notebookaeffa2fbcb,notebookaeffa2fbcb,Sundus Aijaz,,2022-06-14T19:04:50.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,AI4Code
+,,,,,0,nguyentanvietk15hl/notebook4f63981692,notebook4f63981692,Nguyen Tan Viet (K15 HL),,2022-06-03T15:44:02.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,AI4Code
+,,,,,0,ankitkumar111/pytorch-baseline,PyTorch Baseline,Ankit Kumar,,2022-05-15T02:10:21.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,AI4Code
+,,,,,0,danofer/ai4code-most-common-kagglers,AI4Code / Most common kagglers,Dan Ofer,,2022-05-14T14:40:35.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,AI4Code
+,,,,,0,arunamenon/ai4code-bert-base-uncased-inference,AI4Code - BERT base uncased [Inference],arunamenon,,2022-06-27T19:56:41.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,AI4Code
+,,,,,0,kimnnm/roberta-base-inference,roberta-base-inference,kimnnm,,2022-06-30T06:19:10.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,AI4Code
+,,,,,0,hwsson/notebook766960e148,notebook766960e148,hwson,,2022-06-21T10:02:46.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,AI4Code
+,,,,,0,kayalvizhim/first-code,First-Code,Kayalvizhi M,,2022-06-04T10:02:50.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,AI4Code
+,,,,,0,nguyentanvietk15hl/ai4code-pairwise-bertsmall-inference,AI4Code Pairwise BertSmall inference,Nguyen Tan Viet (K15 HL),,2022-06-30T00:59:35.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,AI4Code
+,,,,,0,samratthapa/vectorizing-with-codebert-with-dataset,Vectorizing with Codebert (with Dataset) ,Samrat Thapa,,2022-06-01T13:42:34.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,AI4Code

@@ -1,0 +1,278 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,rajmehra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Raj Mehrotra,,2019-01-06T07:02:19.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],655,whats-cooking-kernels-only
+,,,,,0,shivamb/tf-idf-with-ovr-svm-what-s-cooking,TF-IDF with OvR SVM : What's Cooking,Shivam Bansal,,2019-11-14T07:52:39.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],192,whats-cooking-kernels-only
+,,,,,0,ash316/what-is-the-rock-cooking-ensembling-network,What Is The Rock Cooking??(Ensembling & Network),Ashwini Swain,,2018-07-13T04:51:09.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],85,whats-cooking-kernels-only
+,,,,,0,tanulsingh077/what-s-cooking,What's Cooking?,Mr_KnowNothing,,2019-11-19T20:19:11.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,whats-cooking-kernels-only
+,,,,,0,gloriahristova/a-walkthrough-eda-vizualizations-unigram-model,A Walkthrough - EDA+Vizualizations+Unigram Model,Gloria Hristova,,2018-09-06T11:23:03.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,whats-cooking-kernels-only
+,,,,,0,nicapotato/this-model-is-bland-simple-logistic-starter,This Model is Bland! Simple Logistic Starter,nicapotato,,2018-08-09T20:47:46.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,whats-cooking-kernels-only
+,,,,,0,codename007/cooking-cooking-cooking,Cooking Cooking Cooking... ✓✓,Lathwal,,2018-06-24T12:06:08.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,whats-cooking-kernels-only
+,,,,,0,rejasupotaro/what-are-ingredients,What are ingredients?,rejasupotaro,,2018-09-03T22:24:01.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,whats-cooking-kernels-only
+,,,,,0,rejasupotaro/let-s-cook-model,Let's cook model,rejasupotaro,,2018-09-11T18:00:13.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,whats-cooking-kernels-only
+,,,,,0,kppetrov/using-scikit-learn-intelex-for-what-s-cooking, Using scikit-learn-intelex for What's Cooking,Kirill,,2021-04-04T21:24:32.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,whats-cooking-kernels-only
+,,,,,0,ashishpatel26/scrumptious-cooking-foods,Scrumptious Cooking Foods 🍕🍕🍕,NowYSM,,2018-06-29T18:37:25.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,whats-cooking-kernels-only
+,,,,,0,ashishpatel26/think-differently-what-s-cooking,Think Differently What's Cooking..✔✔✔✔,NowYSM,,2018-09-18T17:32:02.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,whats-cooking-kernels-only
+,,,,,0,rejasupotaro/representations-for-ingredients,Representations for ingredients,rejasupotaro,,2018-09-13T19:36:42.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,whats-cooking-kernels-only
+,,,,,0,tejaeduc/whats-cooking-neural-nets-log-reg-svc,"Whats Cooking! (Neural  nets, log reg, svc)",Teja,,2018-09-19T00:07:34.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,whats-cooking-kernels-only
+,,,,,0,wendykan/what-s-cooking-eda,what's cooking EDA,Wendy Kan,,2018-06-22T17:50:48.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,whats-cooking-kernels-only
+,,,,,0,klmsathishkumar/find-what-s-cooking,Find What's Cooking? 😃 ,Sathishkumar,,2021-02-11T19:13:25.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,whats-cooking-kernels-only
+,,,,,0,sathyz/simple-nn-approach-kfold,Simple NN Approach (KFold),Satheesh Kumar Mohan,,2018-09-14T05:29:13.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,whats-cooking-kernels-only
+,,,,,0,kstathou/word-embeddings-logistic-regression,Word embeddings + Logistic Regression ,Kostas,,2018-07-31T19:53:00.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,whats-cooking-kernels-only
+,,,,,0,welgum/tf-idf-with-simple-nn-keras,TF-IDF with simple NN (keras),Aliaksei Welgum,,2018-09-21T13:14:58.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,whats-cooking-kernels-only
+,,,,,0,ashishpatel26/hyper-parameter-tuning-using-svm,Hyper parameter tuning using SVM,NowYSM,,2018-07-04T03:57:14.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,whats-cooking-kernels-only
+,,,,,0,ashishpatel26/up-to-all-food-and-all-models,Up to All Food and All Models,NowYSM,,2018-06-30T18:06:29.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,whats-cooking-kernels-only
+,,,,,0,nafisur/cooking,cooking,Nafisur Rahman,,2018-07-25T06:24:32.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,whats-cooking-kernels-only
+,,,,,0,skillsmuggler/ingredients-eda-wordcloud,Ingredients | EDA | WordCloud,skillsmuggler,,2018-06-25T17:15:01.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,whats-cooking-kernels-only
+,,,,,0,bsivavenu/my-favourite-cuisine-is,my favourite cuisine is ....,nikhil behra,,2018-06-25T10:28:28.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,whats-cooking-kernels-only
+,,,,,0,jrchua92/eda-what-s-cooking-in-the-pot,EDA - What's cooking in the pot?,Jia Chua,,2018-09-19T14:14:04.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,whats-cooking-kernels-only
+,,,,,0,zdeutsch/recipes-basic-visualizations-ml-models,"Recipes - basic visualizations, ML models",Zuzanna,,2018-08-13T07:10:29.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,whats-cooking-kernels-only
+,,,,,0,duboviy/what-is-the-rock-cooking-ensembling-network,What Is The Rock Cooking??(Ensembling & Network),Eugene Duboviy,,2020-04-26T15:30:20.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,anjanatiha/cuisine-prediction,Cuisine Prediction,Anjana Tiha,,2019-03-06T01:50:21.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,sshadylov/text-classification-ova-passive-aggressive,Text Classification (OvA Passive-Aggressive),Sanjar Adilov,,2019-11-20T07:20:34.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,lfyggg/lb-0-82743-with-simple-feature,Lb = 0.82743 with simple feature.,LFYGGWP,,2018-09-23T15:58:57.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,ismu94/tf-idf-deep-neural-net,TF-IDF Deep Neural Net,Orick,,2018-08-28T22:32:15.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,gcmartinelli/cooking-with-neural-nets,Cooking with Neural Nets,martinelli,,2018-08-28T17:58:44.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,gcmartinelli/sklearn-randomforestclassifier-1st-submission,SKLearn RandomForestClassifier - 1st submission,martinelli,,2018-08-28T07:31:26.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,arrogantlymodest/randomised-cv-search-over-keras-neural-network,randomised CV search over keras neural network,James Fulton,,2018-08-07T23:30:18.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,belousych/tfidf-lg-mlp-feature-importance,TfIdf + lg + MLP Feature Importance,Василий Белоусов,,2018-08-02T12:04:44.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,whats-cooking-kernels-only
+,,,,,0,panditdandgule/a-detailed-explanation-of-keras-embedding,A Detailed Explanation of Keras Embedding,Pandit Dandgule,,2020-03-07T13:37:21.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,sabinhashmi/what-is-cooking-text-analysis-basics,What is Cooking- Text Analysis Basics,Sabin Hashmi,,2020-01-03T12:06:56.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,joydeb28/what-s-cooking-with-svm,What's Cooking? with SVM,Joydeb Mondal,,2018-11-09T06:57:07.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,bhasha4995dushara/delicious-food-cooking-model,Delicious Food : Cooking Model ,Bhasha Dushara,,2018-09-20T05:20:10.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,barrywang/create-new-recipes-with-new-cooking-ideas,Create New Recipes with New Cooking Ideas,Mingjun Wang,,2018-08-27T04:34:47.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,pavlin/jaccard-similarity,Jaccard similarity,Pavlin,,2018-08-07T21:18:52.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,hengzheng/a-test-on-tf-idf-with-mlp-and-textcnn,A Test on TF-IDF with MLP and TextCNN,Heng Zheng,,2018-08-03T01:19:06.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,saifadeeb/what-s-cooking-kernel,What's Cooking Kernel,Saif Adeeb,,2018-07-24T14:47:06.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,paultimothymooney/predict-cuisine-type-from-recipe-ingredients,Predict cuisine type from recipe ingredients,Paul Mooney,,2018-06-30T23:38:21.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,rod92dar/baseline-model-tfidf-logit,Baseline model: TfIdf + logit,Daria Rodionova (CSCenter),,2018-07-02T18:15:44.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,whats-cooking-kernels-only
+,,,,,0,kavyasreeb/whats-cooking,Whats Cooking??? ,Kavya Sree,,2021-07-02T05:28:40.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking-kernels-only
+,,,,,0,saeedtqp/what-s-cooking,What's Cooking ?,Saeed Taghipour,,2019-12-06T01:39:13.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking-kernels-only
+,,,,,0,john77eipe/a-foodie-s-perspective,A foodie's perspective,John Eipe,,2019-12-03T13:36:05.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking-kernels-only
+,,,,,0,iavinas/what-s-cooking-working-with-text-tfidfvectorizer,"What's Cooking ,Working with text, TfidfVectorizer",Avinash Kumar,,2019-05-19T14:15:36.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking-kernels-only
+,,,,,0,srcecde/xg-svm-tf-cooking-svm-0-82260-xgb-0-77383,"xg_svm_tf_cooking (SVM: 0.82260, XGB: 0.77383)",Chirag,,2018-09-13T10:31:52.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking-kernels-only
+,,,,,0,priyadharshinis/what-s-cooking,What's Cooking?,Priyadharshini,,2018-07-11T12:48:31.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,whats-cooking-kernels-only
+,,,,,0,geochatz/what-s-cooking-classification,What's Cooking Classification,Georgios Chatzis,,2021-11-03T09:56:57.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,shiyugong/what-s-cooking-eda-and-multi-class-classification,What's Cooking: EDA and Multi-class Classification,Katrina Gong,,2019-02-08T08:33:27.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,catris25/logistic-regression-with-countvectorizer,Logistic Regression with CountVectorizer,Lia Ristiana,,2018-09-13T10:42:01.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,catris25/multinomial-naive-bayes-with-countvectorizer,Multinomial Naive Bayes with CountVectorizer,Lia Ristiana,,2018-09-13T10:38:39.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,alluxia/what-s-cooking-simple-model-0-79434,what's cooking?( simple model: 0.79434),xiao-xiao,,2018-09-11T22:34:21.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,tarunpaparaju/what-s-cooking-cuisine-prediction-with-gb-trees,What's Cooking? : Cuisine Prediction with GB Trees,Tarun Paparaju,,2018-09-18T08:42:17.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,jnjnqy/cooking-nn-0-80,Cooking NN 0.80+,JnJn,,2018-09-05T10:56:29.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,mtinti/kernel7fa5f6352e,kernel7fa5f6352e,MT,,2018-09-04T17:32:07.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,ksayantani/cuisine-analysis,Cuisine Analysis,ksayantani,,2018-11-29T13:48:50.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,omrialgazi/cooking-with-pytorch,Cooking with Pytorch!,Omri,,2018-08-12T12:21:19.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,andreaschandra/svm-and-gridsearchcv,SVM and GridSearchCV,AC,,2018-07-23T07:11:19.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,pkarkh/tfidf-peethon,tfidf peethon,Pavel Karkh,,2018-07-17T19:53:33.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,bathiamkwrdsbt/what-scookingsvm,What'scookingSVM,__bathia_mkwr__,,2018-07-17T15:34:10.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,nafisur/what-s-cooking,What's Cooking,Nafisur Rahman,,2018-07-17T06:15:19.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,dwoodlock/svm-parameter-tuning,SVM parameter tuning,Don Woodlock,,2018-07-10T13:34:29.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,whats-cooking-kernels-only
+,,,,,0,daviddirethucus/what-s-cooking,what's cooking,david milsky,,2021-12-25T18:33:42.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,reoneo97/recipe2vec-with-pytorch,recipe2vec with PyTorch,Reo Neo,,2020-08-11T08:21:32.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,saeedtqp/a-walkthrough-eda-vizualizations-unigram-model,A Walkthrough -EDA+Vizualizations+Unigram Model,Saeed Taghipour,,2019-12-06T17:42:07.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,rashmiek99/what-s-cooking,What's Cooking !!,Rashmi,,2021-06-02T18:07:43.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,bilal75210/ir-project,IR Project,Bilal Ashfaq,,2019-06-10T20:59:55.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,oracool/natty-svc-better-score-than-the-first-place,Natty SVC (Better score than the first place),Vadim Belov,,2019-02-15T13:26:20.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,shivamsarawagi/cookingprediction,CookingPrediction,Shivam,,2019-01-13T06:56:26.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,shineatml/cooking,cooking,iCan,,2018-10-01T06:57:28.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,sidjhanji/identify-the-cuisine-comparing-models,Identify the Cuisine - Comparing Models,Siddharth Jhanji,,2018-09-28T06:09:30.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,mohanrao/take-1-whats-cooking,Take 1 - Whats Cooking,Mohan rao,,2018-10-04T11:58:21.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,kskarakostas/ml-combo,ML_Combo,KostasKarakostas,,2018-09-18T09:12:58.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,heesoo37/facebook-s-fasttext-algorithm,Facebook's fastText algorithm,rgriffin,,2018-09-09T14:13:18.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,bigkirill/cooking,Cooking,Kirill Kostyrenko,,2018-08-30T13:48:37.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,belousych/tfidf-lg-lgbm-stack,tfidf+lg+lgbm+stack,Василий Белоусов,,2018-08-07T10:20:32.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,suyashgulati/n-grams-of-cnn-whats-cooking,N-grams of CNN Whats cooking?,Suyash Gulati,,2018-08-02T19:08:12.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,nicapotato/tfidf-svc-kmeans-lgbm,TFIDF - SVC - KMEANS - LGBM,nicapotato,,2018-07-26T16:19:53.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,dzkaggle/chef-keras-deep-cooking,Chef Keras Deep Cooking,David Zhang,,2018-07-21T03:31:08.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,dzkaggle/re-lemmatize-tfidf-svm-pretty-good-score,re + lemmatize + tfidf + svm = pretty good score,David Zhang,,2018-07-20T15:00:39.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,ch124uec/logisticregression,LogisticRegression,Chirag Choudhary,,2018-07-14T02:39:58.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,dwoodlock/svm-12jul18,SVM 12Jul18,Don Woodlock,,2018-08-31T20:43:05.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,atrisaxena/what-s-cooking-svm,What's Cooking: SVM ,Atri Saxena,,2018-07-12T12:45:35.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,whats-cooking-kernels-only
+,,,,,0,kanikar/what-s-cooking,What's Cooking?,Kanika Rathore,,2022-06-24T05:03:15.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,naokiokada/what-s-cooking,What's Cooking?,nao,,2021-04-28T05:46:20.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,deeptibala/deepti-whatscookinganalysis,Deepti-Whatscookinganalysis,Deepti,,2021-04-29T02:44:07.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,mikayelkhachaturyan/kernel552affbc57,kernel552affbc57,Mikayel Khachaturyan,,2020-07-17T11:57:51.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,aoutomromanov/kernel1786d85d74,kernel1786d85d74,Aoutom Romanov,,2020-07-20T10:39:00.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,brynnyin/what-s-cooking-cpu,what's cooking - cpu,Brynn Yin,,2020-01-30T09:18:02.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,subhadeep06/kernel74134cc569,kernel74134cc569,Subhadeep,,2019-12-16T09:26:26.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,jdbricker/naive-bayes-is-cooking,Naive Bayes is cooking,JeffBricker,,2019-10-21T19:10:48.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,stasler/nom-nom-nom-nn-edition,nom nom nom - nn edition,Sabine Tasler,,2019-09-13T08:17:55.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,diwang137/kernelcc21421019,kernelcc21421019,diwang,,2019-11-14T04:28:07.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,kuni2018/sklearn-cheat-sheet-is-useful,Sklearn cheat-sheet is useful!,kuni,,2019-04-10T03:15:12.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,acauveri/simple-cuisine-classification,Simple cuisine classification,Cauveri,,2019-02-13T12:54:20.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,justk1/let-s-cook-wait-what-can-we-cook,Let's Cook - wait ! what can we cook...,K Bhambare,,2019-02-26T02:08:30.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,akshaysiras/kernela1db0d290f,kernela1db0d290f,Akshay_Siras,,2018-12-12T05:22:25.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,rootofallevil/what-s-cooking,What's Cooking?,David Duan ,,2018-11-28T18:53:33.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,noachr/rnn-in-pytorch,RNN in Pytorch,Noah Rubinstein,,2018-11-16T22:59:03.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,uwaisiqbal/exploring-the-culinary-landscape,Exploring the Culinary Landscape,Uwais Iqbal,,2018-10-30T12:17:00.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,mehulgupta2016154/fork-of-tableau-cuisine,Fork of tableau & cuisine,Mehul Gupta,,2018-10-03T08:44:19.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,pathofdata/whats-cooking-simple-embedding-model,Whats cooking Simple Embedding model,Sotiris Koufos,,2018-10-02T16:03:33.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,pearl2201/cocking-recipe,Cocking recipe,Anh Ngọc,,2018-09-21T07:00:46.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,tarunpaparaju/what-s-cooking-cuisine-prediction-with-dnns-v2,What's Cooking? : Cuisine Prediction with DNNs v2,Tarun Paparaju,,2018-09-22T08:58:35.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,beatricecai/text-classification-a-cooking-example,Text classification (a cooking example),Beatrice Cai,,2018-10-15T22:21:37.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,a45632/hyperrealistic-dataset-view,Hyperrealistic Dataset View,Eric Vos,,2018-09-13T16:22:20.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,rejasupotaro/taste-predictions,Taste predictions,rejasupotaro,,2018-09-13T20:45:27.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,alluxia/what-s-cooking-in-keras,What's cooking in Keras!,xiao-xiao,,2018-09-08T04:37:58.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,ymatioun/lightgbm-v1,lightGBM v1,Youri Matiounine,,2018-09-07T14:53:34.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,john850512/what-s-cooking-compare-different-model,What's Cooking_compare different model,MAO-HSUN,,2018-09-11T14:15:52.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,drkalko/simple-eda-and-logistic-starter,Simple EDA and logistic starter,Dr Kal-ko,,2018-09-12T19:47:06.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,jscharbach/exploring-preprocessing-methods,Exploring Preprocessing Methods,John Scharbach,,2018-09-01T22:35:30.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,zeus75/cooking-eda-with-svc,Cooking EDA with SVC,Claudio Giorgio Giancaterino,,2018-09-06T22:33:11.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,alfasst/bag-of-ingredients-svd-and-keras,"Bag of Ingredients, SVD and Keras",Alfas Esty,,2018-08-30T11:06:39.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,inmanenz/ann-using-word-2-vec-embeddings,ANN Using Word 2 Vec Embeddings ,Enzo Inman,,2018-08-13T00:27:28.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,aalchemist/tfidr-bayesian-optimization,+TFIDR+BAYESIAN OPTIMIZATION,ashiqurrahman,,2018-08-08T08:43:26.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,suyashgulati/knowing-700-values-of-test-data-without-learning,knowing 700+ values of test data without learning,Suyash Gulati,,2018-08-03T12:28:07.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,tarunpaparaju/cuisine-predictor,Cuisine Predictor,Tarun Paparaju,,2018-07-31T12:18:38.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,suyashgulati/eda-of-the-what-s-cooking-data,EDA of the What's Cooking data,Suyash Gulati,,2018-07-30T20:31:58.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,aalchemist/word-embedding-logistic-regression,word embedding + logistic regression ,ashiqurrahman,,2018-08-08T14:50:37.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,aalchemist/pca-logistic-regression,PCA +logistic regression ,ashiqurrahman,,2018-08-02T23:07:03.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,ruthwikmasina/a-ratatouille-receipe,A Ratatouille Receipe,Ruthwik,,2018-07-10T18:32:58.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,eddyod/cooking-with-keras,cooking.with.keras,eddyod,,2018-07-12T14:18:46.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,ambarish/data-cook-python-mimic-abhishek-kernel,Data Cook - Python - Mimic Abhishek Kernel,Bukun,,2018-07-11T01:06:58.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,alfonsogarcia/nn-aproximation,NN aproximation,Alf's,,2018-07-04T08:50:27.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,alfonsogarcia/first-kaggle,First kaggle!,Alf's,,2018-07-03T09:42:53.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,danofer/yummly-json-to-csv,yummly json to csv,Dan Ofer,,2018-06-28T09:31:46.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,whats-cooking-kernels-only
+,,,,,0,miamiamiyu/miyu-1st-submission,miyu 1st submission,miamiamiyu,,2022-06-27T05:22:11.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,lahnova/lab3t3cuisine,lab3T3Cuisine,София Лахнова 351,,2021-12-16T09:44:57.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ladadavydova/what-s-cooking,What's cooking?,Lada Davydova,,2021-09-07T17:45:54.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,pittoulb/devinez-le-pays-tp-groupe,Devinez le pays - tp groupe,Pittoul B,,2021-06-24T14:35:33.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,sh3yn3/whatscookingtristanbouchier,Whatscookingtristanbouchier,Sh3yn3,,2021-06-24T13:21:27.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,girijeshcse/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Girijesh Prasad,,2021-05-09T05:24:14.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,maxdidato/my-attempt-in-predicting,My attempt in predicting,MaxDidato,,2021-04-28T21:55:02.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,jonatadesouzacunha/notebook3172cafbb3,notebook3172cafbb3,JONATA DE SOUZA CUNHA,,2021-04-14T23:29:06.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,xenakas/notebook4fbc84d81b,notebook4fbc84d81b,Xenia Kasianova,,2020-12-30T03:34:40.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,juliazhuravleva/notebook925d82a8be,notebook925d82a8be,Julia Zhuravleva,,2020-12-23T15:08:47.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,wcaine/flask,flask,Wilbert Caine,,2020-08-17T14:42:09.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,chandra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Chandra Teja Reddy,,2020-05-14T06:26:56.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vilceanumihnea97/kernel4164d67650,kernel4164d67650,Vilceanu Mihnea,,2020-01-08T20:23:10.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vilceanumihnea97/kernel2833eb6e1f,kernel2833eb6e1f,Vilceanu Mihnea,,2020-01-08T18:55:45.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vilceanumihnea97/kernel1fd023b510,kernel1fd023b510,Vilceanu Mihnea,,2020-01-08T16:35:31.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,pradneshmhatre/cuisine-detector-with-svm,Cuisine detector with SVM,Pradnesh Mhatre,,2019-12-26T17:51:10.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,zupepoto/tfidf-mlp-svc-top-2-public-leaderboard,Tfidf+MLP+SVC (Top 2% public leaderboard),Alfonso,,2019-11-20T15:28:59.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,zupepoto/preprocess-and-random-forest,Preprocess and Random Forest,Alfonso,,2019-11-14T15:51:44.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,sush392/kernel24d6d6d661,kernel24d6d6d661,Sushmitha Vemula,,2019-10-12T05:40:41.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,stasler/nom-nom-nom,nom nom nom,Sabine Tasler,,2019-08-30T12:18:33.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,drbalan/kernelb6bc87c03a,kernelb6bc87c03a,El Psy Congroo,,2019-07-23T12:15:00.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,nazakathussain/what-s-cooking-script,What's Cooking Script,nazakat,,2019-06-28T09:09:16.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,amrnasr/what-s-cooking,What's cooking?,amrnasr,,2019-06-30T15:52:05.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ridhimashinde23/kernelb737bed826,kernelb737bed826,Ridhima,,2019-06-10T14:23:47.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,longyg/svc-classification,SVC classification,Yg.Long,,2019-05-19T10:13:31.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,hisudha/whats-cooking-v1-st,whats_cooking_v1_st,hisudha,,2019-04-30T23:11:04.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,architpatil23/kernelae570edc1c,kernelae570edc1c,Archit Patil,,2019-04-18T09:02:40.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,siddhanthrao/what-s-cooking,What's Cooking!!,Siddhanth Rao,,2019-04-16T13:37:01.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,chaitali17/hey-what-s-cooking,Hey! What's Cooking?,ChaitaliBansal17,,2019-04-12T07:06:45.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,sruuujaaan/neural-net-used-for-prediction,Neural Net used for prediction,Srujan,,2019-04-08T22:02:40.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,alok268/what-s-your-cuisine,What's your cuisine,Alok Kumar Padhi,,2019-04-07T18:20:39.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,deepak6446/house-price-prediction-regression,house price prediction Regression,Deepak6446,,2019-04-11T12:09:23.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,choijieun/predict-cuisine-type,predict_cuisine_type,jieun,,2019-04-02T18:28:19.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,hrush777/simple-lstm,Simple LSTM,Hrushikesh Vitthal Vanga,,2019-04-03T05:59:38.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,sarthakpawar/kernel05b1676f50,kernel05b1676f50,Nobody,,2019-03-05T07:09:54.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,madoliver/kerneldf4919d6bc,kerneldf4919d6bc,OliverIsAParanoid,,2019-02-26T06:40:45.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,emily2008/is-this-your-favorite-food,Is this your favorite food?,Emily_Yao,,2019-02-09T19:04:40.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,jprusso/cooking-recipes,Cooking-Recipes,Juan Pablo Russo ,,2019-02-03T14:45:01.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,waseemkhalifa/what-s-cooking-simple-pandas-keras-ann-approach,What's Cooking - Simple Pandas Keras ANN Approach,Waseem Khalifa,,2019-01-30T15:14:06.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,claasen/seminar-notebook-minimized,Seminar Notebook Minimized,Rainer L.,,2019-01-28T19:36:00.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,akashsinha3008/cuisine-classification,Cuisine classification,AKASH SINHA,,2019-01-03T20:52:37.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,albytho/recipes-py,recipes.py,Brownknight97,,2018-12-25T21:44:24.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,nmquach/simple-try,Simple try,nmquach,,2018-12-16T20:34:23.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,codilis/cuisine-detection,Cuisine Detection,Palash Jain,,2019-02-26T08:55:44.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,evians/cousines,Cousines,ioan ivanov,,2018-12-27T13:16:13.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ivanryndin/tf-idf-and-svm,TF-IDF and SVM,Ivan Ryndin,,2018-12-01T22:59:55.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,anovax/1811-submission,1811_submission,Alexander Shuliar,,2018-11-18T17:45:17.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,dblmok/kernel901624e42b,kernel901624e42b,Dmitry E,,2018-11-15T08:23:47.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ivanryndin/simple-bag-of-words,Simple Bag of Words,Ivan Ryndin,,2018-11-09T02:19:29.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,kinoet/what-s-cooking,What's Cooking? ,kinoe_T,,2018-11-06T04:28:11.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,clairegao/whats-cooking-classification,whats cooking_Classification,ClaireGao,,2018-11-01T07:19:17.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,baburam1985/whats-cooking,Whats cooking ???,baburam1985,,2018-11-13T18:40:09.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,aalberti333/what-s-cooking-cuisine-prediction,What's Cooking (Cuisine Prediction),aalberti333,,2018-10-25T13:30:11.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,boomberung/a-lot-of-eda,A lot of EDA,Garaev Nick,,2018-10-24T00:06:49.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,jayjoshi31/ann-approach-for-what-is-cooking,ANN approach for What is Cooking,Jay Joshi,,2018-10-20T11:00:56.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,hugosev/cooking-with-tfidf,Cooking with TfIdf,Hugo Sev,,2018-10-19T11:35:27.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,souvikb07/what-s-cooking,what's cooking,Souvik Banerjee,,2018-10-07T07:19:57.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,aliciadeng24/linear-svc-detect-cuisine,Linear SVC - Detect cuisine,Alicia Deng,,2018-10-02T16:49:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,mehulgupta2016154/tableau-cuisine,tableau & cuisine,Mehul Gupta,,2018-10-02T10:47:23.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,anoojnair/simple-classifier,Simple Classifier,anooj,,2018-10-23T08:56:57.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,naveenc131/cooking-with-cnn,Cooking with CNN,Naveen Chaudhary,,2018-09-24T18:02:31.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ritesaluja/cooking-it,Cooking IT,Ritesh Saluja,,2018-09-24T07:08:14.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,faustbeirdo/what-s-cooking-ann,"What's cooking, Ann?",Oliver,,2018-09-19T10:31:48.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,brochinejr/whatiscooking-brochinejr-latest,whatiscooking_brochinejr_latest,Brochine Jr,,2018-09-24T17:09:45.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,alphadraco/submission-cooking,Submission cooking,Ashutosh Tiwari,,2018-10-02T14:57:47.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,bashir4909/what-are-we-cooking-tonight,What are we cooking tonight?,Balagardash Bashirov,,2018-09-12T17:44:08.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,kukulkan/cook-prediction-cnn,Cook-Prediction-CNN,kukulkan,,2018-09-14T02:27:09.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,lavifb/random-broccoli-classifier-onevsrest,Random Broccoli Classifier OneVsRest,Lavi,,2018-09-18T22:37:28.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,paraplu/plain-one-hot-encoding-and-random-forest,plain one-hot encoding and random forest,paraplu,,2018-09-10T22:37:01.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ymatioun/deep-ish-nn-v1-512-512,deep(ish) NN v1: 512+512,Youri Matiounine,,2018-09-09T13:02:56.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,saychelsea11/cuisine-prediction-tfidf-and-logistic-regression,Cuisine Prediction - TFIDF and Logistic Regression,sdas38,,2018-10-03T02:17:30.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ymatioun/lightgbm-v3-using-tfidfvectorizer,lightGBM v3  using TfidfVectorizer,Youri Matiounine,,2018-09-08T15:26:42.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,kukulkan/tf-idf-ovr,TF-IDF_OvR,kukulkan,,2018-09-21T10:04:04.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,tandonarpit6/cooking-challenge,Cooking challenge,Arpit Tandon,,2018-09-05T03:56:18.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,timothycwillard/lightly-tuned-polynomial-svc,Lightly Tuned Polynomial SVC,Timothy C Willard,,2018-09-02T13:00:54.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,uds5501/hey-girls-what-s-cookin,Hey Girls! What's Cookin' ?,Uddeshya Singh,,2018-09-02T10:48:27.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,bebaek/ingredients-nn-cuisine,Ingredients -> NN -> cuisine,Burm,,2018-09-05T23:52:31.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,nuthanreddy/first-submission,first submission,NuthanReddy,,2018-08-30T07:44:13.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,pallaviallada/tfidf-svm-linear,TFIDF_SVM_Linear,pallavia,,2018-08-30T05:46:30.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ismu94/tf-idf-neural-net-checkpoint,TF-IDF Neural Net Checkpoint,Orick,,2018-08-28T23:49:32.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,grafiszti/multiple-model-with-feature-engineering,Multiple model with feature engineering,Mateusz Choiński,,2018-10-17T09:26:09.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,zhaohuang12/tf-idf-nn-tensorflow-py,TF_IDF_NN_tensorflow.py,ZhaoHuang,,2018-08-27T13:33:16.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ericxu10101/tfidf-gbdt,tfidf + gbdt,Eric Xu,,2018-08-27T00:49:25.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,chandan2495/guess-the-cuisine,Guess the Cuisine?,Chandan Singh,,2018-08-26T17:36:07.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,cng885/cooking-lstm-basic,Cooking_LSTM_Basic,Chase Ginther,,2018-08-27T12:48:17.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,thisray/forgputest,forGPUtest,thisray,,2018-08-24T18:50:03.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ericxu10101/ideas,Ideas,Eric Xu,,2018-08-26T04:12:45.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vpapenko/dense-cooking,Dense Cooking,Victor Papenko,,2018-09-03T13:34:33.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,janeyb/what-s-cooking-kernel-logistic-regression,What's Cooking Kernel - Logistic Regression,Jane Baxter,,2018-08-22T17:00:33.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,madhavambati/what-s-cooking-a-basic-simple-model,What's Cooking: A basic simple Model ,Madhav Ambati,,2018-08-22T09:28:15.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,timothycwillard/tuning-a-ridge-classifier,Tuning a Ridge Classifier,Timothy C Willard,,2018-08-24T00:04:55.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,barrywang/hard-voting-classifier,Hard Voting Classifier,Mingjun Wang,,2018-08-20T17:05:14.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,timothycwillard/tuning-a-logistic-regression,Tuning a Logistic Regression,Timothy C Willard,,2018-08-22T00:30:45.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,jnsmorinigo/linearsvc-fcyt,LinearSVC_FCyT,Jonás Morinigo,,2018-08-15T17:21:08.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,janeyb/what-s-cooking-kernel,What's Cooking Kernel,Jane Baxter,,2019-02-12T21:04:50.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,wangweiyi/learn-nlp-from-cuisine-menu,learn NLP from cuisine menu,KateWang,,2018-08-10T08:02:08.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,martinpetrov/what-s-cooking-eda-and-quick-model,What's cooking EDA and quick model, MartinPetrov,,2018-09-12T08:37:21.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,abusiddik/cooking,Cooking,Abubakkar Siddik,,2018-08-08T07:29:51.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,abusiddik/what-s-cooking,What's  Cooking,Abubakkar Siddik,,2018-08-08T04:42:43.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,timothycwillard/cooking-with-linear-models,Cooking with Linear Models,Timothy C Willard,,2018-08-05T23:39:56.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,muxxer/baking-brainies,Baking Brainies,Muxxer,,2019-02-07T22:37:15.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,kstathou/deepcook-v2-tfidf-mlp,DeepCook v2: TFIDF + MLP,Kostas,,2018-08-03T09:53:12.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vijaykris/prediction-using-svm-rbf-grid-search,Prediction using SVM RBF Grid Search,Vijay,,2018-08-03T04:07:33.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,bjjoy2009/tf-idf-lr,tf_idf_lr,bjjoy,,2018-08-14T13:58:26.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,bjjoy2009/bag-rf,bag_rf,bjjoy,,2018-08-03T01:27:29.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,djsaunde/logistic-regression-cv-on-tf-idf-data,Logistic regression CV on TF-IDF data,Dan Saunders,,2018-08-02T13:22:01.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,kstathou/deepcook-a-simple-mlp-model,DeepCook: A simple MLP model,Kostas,,2018-08-02T11:38:09.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,plarmuseau/marcelo,marcelo,Paul Larmuseau,,2018-08-03T15:38:00.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,aalchemist/tfidr-pca-neural,TFIDR + PCA + Neural ,ashiqurrahman,,2018-08-04T22:24:52.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,djsaunde/what-s-cooking-logistic-regression-on-count-data,What's Cooking? Logistic regression on count data,Dan Saunders,,2018-08-02T12:02:46.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,plarmuseau/embed-logistic,Embed Logistic,Paul Larmuseau,,2018-08-07T14:39:07.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,figarrikeisha/cooking-time,Cooking Time,Figarri K,,2018-08-08T08:54:14.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vishreddy/predicting-cuisine,Predicting Cuisine,Vish,,2018-07-29T02:35:36.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,jujuwoman/what-s-cooking,What's Cooking?,Judy Wang,,2018-07-27T00:59:34.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,laurams/cuisine-tag-basic,Cuisine_tag_basic,youpi,,2018-08-03T13:58:28.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,aeter42/mix-those-ingredients-nn-sum-of-embeddings,"Mix those ingredients (NN, sum of embeddings)",Carlos Gonzalez,,2018-08-15T17:43:52.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,anku348/cooking-multinomial-nb,Cooking Multinomial NB,ANKITSHARMA,,2018-07-23T08:41:22.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,skooch/one-vs-all-extra-trees,One vs All - Extra Trees,Eric A. Scuccimarra,,2018-07-18T11:32:03.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,abhinav08/what-s-cooking-tfidf-bow-features,What's Cooking : Tfidf + BOW features,AbhinavBhatt,,2018-07-18T06:02:26.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,esipenko/first-try-countvectorizer-linearsvc,"First try, CountVectorizer + LinearSVC",Sergey Esipenko,,2018-07-17T15:58:28.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,pranavhonrao9/kernela5ad79c6a0,kernela5ad79c6a0,warrior09,,2018-07-17T22:20:24.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ibraheemmoosa/bag-of-trees,Bag of Trees,ibraheemmoosa,,2018-07-17T12:24:20.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,sarahjaynekessler/cuisine-guessing,Cuisine Guessing!!,Sarah Kessler,,2018-07-19T19:43:35.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ibraheemmoosa/logistic-regression,Logistic Regression,ibraheemmoosa,,2018-07-17T16:26:56.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ibraheemmoosa/multinomial-naive-bayes,Multinomial Naive Bayes,ibraheemmoosa,,2018-07-16T13:40:00.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,adityajn105/whats-cooking-countvectorizer-tfidf-and-xgboost,"Whats Cooking | CountVectorizer, TFIDF and XGBoost",adityajn105,,2018-07-14T13:47:06.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ibraheemmoosa/bernoulli-naive-bayes,Bernoulli Naive Bayes,ibraheemmoosa,,2018-07-15T12:19:51.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,plarmuseau/cosinesimilarity,CosineSimilarity,Paul Larmuseau,,2018-07-15T22:59:36.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,waltster/cleaning-the-citchen-before-cooking,Cleaning the citchen before cooking,Harald Walter,,2018-09-25T05:58:28.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,eddyod/ensemble-kfold,ensemble_kfold,eddyod,,2018-07-11T23:05:13.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,mehulgupta2016154/groupdclassifiers,groupDclassifiers,Mehul Gupta,,2018-07-11T14:43:57.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,plarmuseau/xtratrees,xtratrees,Paul Larmuseau,,2018-07-11T20:43:08.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,michelcarroll/simple-tf-idf-scoring,Simple TF-IDF Scoring,Michel Carroll,,2018-07-12T02:31:54.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,sanninjiraya/deep-cooking,Deep Cooking,Kartik Dutt,,2018-07-11T07:45:48.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,huangdapan/decision-tree,Decision Tree,huangdapan,,2018-07-13T05:57:24.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,adersonlucas/mamma-mia,Mamma Mia!,Aderson Lucas,,2018-07-10T14:48:33.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,nonreviad/what-s-cooking,What's cooking,Andrei Onea,,2018-07-22T14:28:59.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,vijaykris/prediction-using-svm-modified-regularisation,prediction using SVM-Modified regularisation,Vijay,,2019-03-17T13:57:15.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,qgh1223/xgboost-lightgbm-for-cooking,xgboost+lightgbm for cooking,qiuguhao,,2018-07-23T07:38:57.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,pangtong/what-s-cooking-tf-idf-onevsrest-linersvc,What's Cooking: TF-IDF OnevsRest LinerSVC,pangtong,,2018-07-07T03:10:26.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,bduarte12/adivina-a-qu-cocina-pertenece,Adivina a qué cocina pertenece,Blanca Duarte,,2018-08-11T18:34:55.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,rod92dar/word2vec-lightgbm,Word2vec + lightgbm,Daria Rodionova (CSCenter),,2018-07-02T18:03:50.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,smtech/tfidf-lgb,TFIDF + LGB,smtech,,2018-06-28T07:35:54.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,saduras/cooking-data,Cooking Data,David Speck,,2018-06-27T12:24:12.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,ibrahimkhan/cooking-net,cooking_net,Ibrahim Khan,,2018-06-28T05:39:09.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only
+,,,,,0,missingdays/mean-w2v,Mean w2v,Evgeny Bovykin,,2018-07-01T20:45:17.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,whats-cooking-kernels-only

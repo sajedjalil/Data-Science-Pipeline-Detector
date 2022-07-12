@@ -1,0 +1,18 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ateplyuk/inat2019-starter-keras-efficientnet,Inat2019 Starter Keras (EfficientNet),Alexander Teplyuk,,2019-06-01T14:48:15.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],106,inaturalist-2019-fgvc6
+,,,,,0,zfturbo/benchmark-2019-speed-of-image-reading,Benchmark 2019: Speed of image reading,ZFTurbo,,2019-07-08T18:36:07.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,inaturalist-2019-fgvc6
+,,,,,0,khursani8/fast-ai-ootb-cutout-efficientnet,fast.ai ootb (cutout+efficientnet),khursani,,2019-06-07T15:39:08.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,inaturalist-2019-fgvc6
+,,,,,0,feichin/inception3-last-years-baseline,Inception3 - last years baseline,Florian Eichin,,2019-04-09T03:31:42.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,inaturalist-2019-fgvc6
+,,,,,0,hsinwenchang/keras-data-augmentation-visualize,Keras Data Augmentation & Visualize,Beans,,2019-05-07T22:20:21.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,inaturalist-2019-fgvc6
+,,,,,0,macaodha/basic-inat2019-data-exploration,Basic iNat2019 data exploration,macaodha,,2019-04-02T00:53:45.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,inaturalist-2019-fgvc6
+,,,,,0,hsinwenchang/keras-mobilenet-data-augmentation-visualize,Keras MobileNet Data Augmentation & Visualize,Beans,,2019-05-08T08:58:27.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,inaturalist-2019-fgvc6
+,,,,,0,jas10022/cnn-hypernetwork,CNN HyperNetwork,Jaskaran Bakshi,,2019-06-11T19:21:38.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,inaturalist-2019-fgvc6
+,,,,,0,s3chwartz/inaturalist-2019-at-fgvc6,iNaturalist 2019 at FGVC6,singing man,,2019-06-03T17:39:07.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,inaturalist-2019-fgvc6
+,,,,,0,interneuron/previous-benchmark-in-a-kernel-v0-0-0,"previous benchmark in a kernel, v0.0.0",interneuron,,2019-04-03T04:24:52.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,inaturalist-2019-fgvc6
+,,,,,0,alainminda/kernel11ab6576ac,kernel11ab6576ac,robur,,2019-05-29T15:42:03.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,inaturalist-2019-fgvc6
+,,,,,0,lowecoryr/learn-from-other-kernels-fork-from-me,Learn From Other Kernels - Fork From Me,lowecoryr,,2019-05-04T18:15:13.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,inaturalist-2019-fgvc6
+,,,,,0,sujoykg/xception-keras,Xception Keras,Sujoy K Goswami,,2019-04-16T14:09:39.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,inaturalist-2019-fgvc6
+,,,,,0,byhwdy/inat-utils,iNat_utils,Zheng Shaohua,,2019-09-01T13:02:11.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,inaturalist-2019-fgvc6
+,,,,,0,praxitelisk/inaturalist-2019-eda-dl,iNaturalist 2019 EDA + DL,Praxitelis Nikolaos Kouroupetroglou,,2019-09-05T22:02:45.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,inaturalist-2019-fgvc6
+,,,,,0,chrisevans/kernelfea8793d3e,kernelfea8793d3e,ChrisEvans,,2019-05-11T20:55:49.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,inaturalist-2019-fgvc6
+,,,,,0,cedriclacrambe/inaturalist-xception-512,inaturalist xception 512,Cédric Lacrambe,,2019-06-15T17:29:35.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,inaturalist-2019-fgvc6

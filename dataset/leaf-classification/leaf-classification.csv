@@ -1,0 +1,1021 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jeffd23/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Jeff Delaney,,2016-09-04T18:20:48.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],343,leaf-classification
+,,,,,0,lorinc/feature-extraction-from-images,feature extraction from images,Lorinc,,2017-03-15T17:08:59.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],187,leaf-classification
+,,,,,0,abhmul/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,AbhijeetMulgund,,2016-12-28T18:09:59.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],111,leaf-classification
+,,,,,0,selfishgene/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,David Beniaguev,,2017-09-22T09:37:18.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],91,leaf-classification
+,,,,,0,selfishgene/visualizing-k-means-with-leaf-dataset,Visualizing K-Means with Leaf Dataset,David Beniaguev,,2017-10-25T23:50:13.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,leaf-classification
+,,,,,0,alexanderlazarev/simple-keras-1d-cnn-features-split,Simple Keras 1D CNN + features split,Alex Lazarev,,2016-12-01T08:39:01.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],32,leaf-classification
+,,,,,0,bmetka/logistic-regression,Logistic Regression,benjo,,2016-08-30T15:26:03.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,leaf-classification
+,,,,,0,yasserhessein/leaf-classification-best-score-98-49,Leaf Classification Best Score 98.49%,Yasir Hussein Shakir,,2021-05-02T21:40:05.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,leaf-classification
+,,,,,0,tobikaggle/nn-through-keras-copied-mod-shuffle,NN through Keras *Copied* mod shuffle,DDgg,,2018-06-26T00:05:10.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,leaf-classification
+,,,,,0,asparago/3-basic-classifiers-and-features-correlation,3 Basic Classifiers and Features Correlation,Federico,,2017-04-13T16:57:34.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,leaf-classification
+,,,,,0,najeebkhan/neural-network-through-keras,Neural Network through Keras,najeebkhan,,2016-09-11T16:18:46.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,leaf-classification
+,,,,,0,vchauhanusf/97-48-test-accuracy-leaf-image-classification,97.48 Test_Accuracy_Leaf_image_classification,vijay chauhan,,2020-07-16T22:35:44.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,leaf-classification
+,,,,,0,pierre54/bag-of-words-model-with-sift-descriptors,Bag-of-words model with SIFT descriptors,Pierre,,2017-01-15T10:18:12.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,leaf-classification
+,,,,,0,felixsoul/basic-neural-network-using-tensorflow,Basic Neural Network using Tensorflow,Andrea,,2016-09-07T04:15:57.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,leaf-classification
+,,,,,0,hooseygoose/directory-structure-and-moving-files,Directory Structure and Moving Files,HGoose,,2017-09-18T02:35:22.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,leaf-classification
+,,,,,0,udaysa/svm-with-scikit-learn-svm-with-parameter-tuning,SVM with Scikit-Learn (SVM with parameter tuning),uday,,2017-02-12T11:36:27.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,leaf-classification
+,,,,,0,group16/shapelets,Shapelets,Gilles Vandewiele,,2016-11-27T10:29:51.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,leaf-classification
+,,,,,0,anilnarassiguin/ml-classic-pipeline-python-xgboost,ML classic pipeline - Python - XGBoost,NiNil974,,2016-08-30T13:47:56.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,leaf-classification
+,,,,,0,zenstat/nn-through-keras-learn-through-trial-and-error,NN through Keras - Learn through Trial and Error,BlueDragon,,2019-03-27T21:22:13.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,leaf-classification
+,,,,,0,lorinc/feature-extraction-v4,feature extraction v4,Lorinc,,2016-11-18T15:40:18.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,leaf-classification
+,,,,,0,eliotbarr/tsne-exploration,TSNE Exploration,Eliot Barril,,2016-12-31T00:45:14.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,leaf-classification
+,,,,,0,desiredewaele/classifying-leaf-data-with-nearest-neighbors,Classifying Leaf Data with Nearest Neighbors,Desiré De Waele,,2016-11-24T14:17:35.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,leaf-classification
+,,,,,0,apapiu/neural-network-through-keras,Neural Network through Keras,Alexandru Papiu,,2016-09-26T17:01:27.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,leaf-classification
+,,,,,0,yinanxu/leaf-classification-simple,Leaf-Classification-Simple,YX,,2016-09-08T14:31:26.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,leaf-classification
+,,,,,0,towhid1/rforest-with-calibration-score-0-07948,RForest with calibration Score=0.07948,Nurul Akter Towhid,,2016-10-24T22:33:15.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,leaf-classification
+,,,,,0,lorinc/feature-extraction-from-images-2,feature extraction from images #2,Lorinc,,2016-10-21T19:19:05.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,leaf-classification
+,,,,,0,bhuvaneshwaran/leaf-classification,Leaf Classification,Bhuvaneshwaran K,,2016-10-03T13:06:25.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,leaf-classification
+,,,,,0,bestaar/fiddling-around-with-manifold-learning-methods,Fiddling around with manifold learning methods,bestaar,,2016-12-21T13:46:15.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,leaf-classification
+,,,,,0,shubhamsalokhe/leaf-classification,Leaf Classification,Shubham Salokhe,,2021-10-07T08:38:39.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,leaf-classification
+,,,,,0,abdalazez/final-leaf-classification,Final - Leaf Classification,Abd Alaziz Alswaisi,,2020-07-27T01:43:37.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,leaf-classification
+,,,,,0,yhyu13/leaf-classification-with-sklearn-mlp-lbfgs,Leaf Classification with sklearn MLP-lbfgs,Hang(Yohan) Yu,,2016-10-24T21:21:28.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,leaf-classification
+,,,,,0,rahulpawade/solving-leaf-classification-problem-by-xgboost,"solving ""leaf-classification"" problem by xgboost",Rahul Pawade,,2020-08-19T11:32:06.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,leaf-classification
+,,,,,0,abdalazez/leaf-classification,Leaf Classification,Abd Alaziz Alswaisi,,2020-07-27T00:53:41.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,leaf-classification
+,,,,,0,pratikpatil13/leaf-classification-n-n-and-m-l-95-95-accuracy,LEAF CLASSIFICATION N.N AND M.L 95.95 % ACCURACY,Pratik Patil,,2020-07-17T13:38:35.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,leaf-classification
+,,,,,0,alexionby/copy-mode,Copy_Mode,Alex Glinsky,,2017-02-26T16:24:28.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,leaf-classification
+,,,,,0,thisisnic/multinomial-logistic-regression-0-02983,Multinomial logistic regression 0.02983,Nic_C,,2016-09-10T21:09:45.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,leaf-classification
+,,,,,0,sunnyrain/random-forests-with-0-68-score,Random forests with 0.68 score,Steve,,2016-09-08T07:59:58.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,leaf-classification
+,,,,,0,mikhailg0/leaf-classification-solution,🍀 Leaf Classification Solution,Mikhail Grigorev,,2020-08-16T13:49:55.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,aqifilyaskhan/leaf-cls-95-acc-on-test-csv,Leaf_cls 95% Acc on test.csv,Aqif,,2020-07-25T13:41:48.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,somaktukai/model-selection-98-accuracy,Model Selection: 98% accuracy,somaktukai,,2018-11-02T16:43:18.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,guywhowantstolearnml/leaf-classification,Leaf Classification,Rahul Rishav Mohanti,,2018-01-24T13:15:22.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,ernie55ernie/keras-model-usage-on-leaf-classification,Keras model usage on leaf classification,Yu-WeiChang,,2017-02-10T15:30:33.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,rossxsy/model-stacking-with-logistic-regression,Model Stacking with Logistic Regression,RossXu,,2016-11-21T02:30:11.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,lorinc/custom-vs-provided-leaf-data,Custom vs. Provided Leaf Data,Lorinc,,2016-11-01T10:43:42.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,altrev/keras-neural-network-grid-searching,Keras Neural Network: Grid searching,Alan,,2016-10-10T11:13:07.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,leaf-classification
+,,,,,0,fatemehsharifi79/mlp-pytorch,mlp_pytorch,Fatemeh Sharifi79,,2022-01-26T05:47:22.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,gauravbhogale/assignment-9,Assignment 9,Gaurav Bhogale,,2021-09-21T15:23:05.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,sravanirayapati/leaf-classfication,Leaf Classfication,Sravani_Rayapati,,2021-07-27T10:40:14.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,tarunnagavinaysai/leaf-classification,Leaf Classification,Tarun Naga Vinay Sai,,2021-07-26T06:17:00.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,dhinakarswamy/leaf-classifications,Leaf classifications,Dhinakar Swamy,,2021-07-24T09:37:23.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,doaajaber/leaf-classification-cnnn,Leaf_Classification_CNNN,Doaa Jaber,,2020-08-02T05:36:27.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,mabreyaz/10-classifier-showdown-in-scikit-learn-forked,10 Classifier Showdown in Scikit-Learn (forked),Masum Billah,,2017-10-16T05:30:12.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,davidprakash/nn-kernel,NN kernel,David Prakash,,2017-02-27T10:46:30.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,tobikaggle/keras-model-average,Keras-model-average,DDgg,,2017-02-28T00:43:33.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,lileinba/some-notes-on-pca-bayes-algorithm,Some Notes on PCA+Bayes algorithm,李磊,,2017-01-31T08:49:18.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,ernie55ernie/sklearn-model-usage-on-leaf-classificaition,Sklearn model usage on leaf classificaition,Yu-WeiChang,,2018-08-23T18:07:19.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,jdpc557/leaf-knn,leaf-knn,João Costa,,2017-02-04T18:00:44.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,rossxsy/testing-multiple-classifiers,Testing Multiple Classifiers,RossXu,,2016-11-21T03:34:24.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,syaffers/basic-grid-search-svm-classifier,Basic grid search SVM Classifier,Syafiq Kamarul Azman,,2016-08-31T07:25:41.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-lazy-predict,Leaf Classification : Lazy Predict,Gaurav Dutta,,2022-03-14T13:17:34.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,mrinmoymdutta/leaf-classification-ultimate-beginner-kn-and-lr,Leaf Classification_Ultimate_Beginner_KN_and_LR,Mrinmoy M. Dutta,,2021-11-02T19:14:39.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,snikhil17/leaf-classification,Leaf Classification,Nikhil Shrestha,,2021-10-31T05:18:17.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,abolfazlasghari/notebook87cd6ae526,notebook87cd6ae526,abolfazl asghari,,2021-01-15T05:15:42.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,islammohaisen/leaf-classification-rfc,Leaf classification- RFC,Islam Mohaisen,,2020-07-28T00:41:40.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,ahmedalghaliz/leaf-classification,leaf_classification,Ahmed Al-Ghaliz,,2020-07-27T16:13:32.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,fatimaafifi/leaf-classification,leaf_classification,Fatima Afifi,,2020-07-21T06:05:12.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,naimur978/leaf-classification-based-on-neural-network,Leaf Classification based on Neural Network,Naimur Rahman,,2020-06-02T12:50:41.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,samratashok/quick-leaf-classification-weights-visualizaion,Quick Leaf Classification weights visualizaion,Somya Tripathi,,2019-12-04T13:31:26.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,saeedtqp/leaf-classification,leaf_classification,Saeed Taghipour,,2019-11-16T01:10:55.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,gokalpumur/dataset-vs-imagefolder,Dataset vs ImageFolder,Umur Gokalp,,2020-01-02T10:53:44.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,ghostintheshell/feature-extraction-from-images,feature extraction from images,Simon Tse,,2017-04-23T07:57:02.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,moonbury/feature-extraction-from-images,feature extraction from images,Keith,,2017-04-23T01:13:04.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,luikna/eda-and-tensorflow-implementation,EDA and Tensorflow Implementation,Lucas Rodés-Guirao,,2017-04-27T22:47:54.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,hugorgsilva/leaf-or-leave,Leaf or Leave,Hugo Rodrigues,,2017-02-13T02:08:32.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,natsu05/leaf-classification,leaf_classification,AVICK,,2017-01-23T20:05:18.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,rajaguru/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,GurunathRajagopal,,2017-09-07T14:02:40.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,rbales/leaf-sklearn-classifier,Leaf - SKLearn Classifier,Ryan Bales,,2017-01-10T17:51:23.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,stainsby/data-extraction-and-exploration,Data Extraction and Exploration,Sam Stainsby,,2017-01-04T03:51:48.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,srikanthrice/different-looking-leaves-in-same-class,Different Looking leaves in same class,Srikanth,,2016-12-30T12:44:28.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,yhyu13/10-classifier-showdown-in-scikit-learn-forked,10 Classifier Showdown in Scikit-Learn (forked),Hang(Yohan) Yu,,2016-12-01T03:46:35.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,dssariya/leaf-classification,leaf_classification,sariya,,2016-11-04T18:10:44.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,chrisml/svm-with-scikit-learn,SVM with Scikit-Learn,chris,,2016-10-16T21:27:34.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,elusivedelusive/exploring-leafs,Exploring Leafs,Jonatan Hoff,,2016-10-20T13:40:58.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,watermelone/leaf-classification-predictor,Leaf Classification Predictor,NanditaNaik,,2016-10-06T19:59:04.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,davidesd/effects-of-features-combination,Effects of Features combination,Davide_sd,,2016-09-14T15:48:55.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,userad/leaf-script,Leaf script,Konstantin Tumalevich,,2016-09-19T17:27:30.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,taylornelson/leaf-it-to-me,Leaf it to me,Taylor Nelson,,2016-09-13T22:10:05.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,mxcxsx/keras-w-merge-layer-logloss-0-21,Keras - w/ Merge Layer [logloss 0.21],Michael Semeniuk,,2016-09-05T17:52:21.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,sunnyrain/random-forest-benchmark,Random forest benchmark,Steve,,2016-09-01T03:58:48.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,anokas/simple-xgboost,Simple XGBoost,anokas,,2016-08-31T00:05:10.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-flaml-log-loss,Leaf Classification : FLAML : log_loss,Gaurav Dutta,,2022-03-14T16:00:21.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-flaml-micro-f1,Leaf Classification : FLAML : micro_f1,Gaurav Dutta,,2022-03-14T15:59:24.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-flaml-macro-f1,Leaf Classification : FLAML : macro_f1,Gaurav Dutta,,2022-03-14T15:58:20.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-flaml-roc-auc-ovo,Leaf Classification : FLAML : roc_auc_ovo,Gaurav Dutta,,2022-03-14T15:57:21.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-flaml-roc-auc-ovr,Leaf Classification : FLAML : roc_auc_ovr,Gaurav Dutta,,2022-03-14T15:56:11.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,gauravduttakiit/leaf-classification-flaml-accuracy,Leaf Classification : FLAML : accuracy ,Gaurav Dutta,,2022-03-14T13:44:42.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,sajutr/testing-on-99-species-b-w-leaves,Testing On 99 Species B&W Leaves,Saju T R,,2021-10-31T07:27:11.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,bhavithadurgap/leaf-classification,LEAF CLASSIFICATION,Pentapati Bhavitha Durga,,2021-07-27T11:38:35.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,hemamounika/leaf-classification,Leaf Classification,Hema Mounika,,2021-07-26T05:41:21.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,keerthi182e5/leaf-classification,leaf classification,Keerthi 18-2E5,,2021-07-24T15:10:04.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,nirmalvignu/leaf-classification,Leaf_Classification,Nirmal Vignu,,2021-07-24T09:18:24.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,dskagglemt/2-leaf-classification-working-on-images,2 Leaf Classification - working on images,Mayank Tripathi,,2020-10-11T08:42:49.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,dskagglemt/1-leaf-classification-understanding-dataset,1 Leaf Classification - Understanding Dataset ,Mayank Tripathi,,2020-10-11T05:39:20.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,mohgsam/leaf-classification,Leaf Classification,Mohammed Sammour,,2020-07-28T01:41:08.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,mahmoudalhallaq/leaf-mahmoud,Leaf - Mahmoud,Mahmoud Alhallaq,,2020-07-27T23:20:09.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,ayushirastogi15/leaf-classification,Leaf Classification,Ayushi Rastogi,,2020-07-26T14:48:33.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,fayrouzfarra/leaf-classification-xgboost-gridsearch,Leaf Classification XGBoost GridSearch,Fayrouz Farra,,2020-07-21T13:27:59.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,islammohaisen/leaf-classification-lda,Leaf classification- LDA,Islam Mohaisen,,2020-07-19T11:21:38.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,zhiminsunsun/leaf-classification,Leaf Classification,Zhimin Sun,,2019-11-19T15:19:50.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,thanhtra/leaf-classification-randomforest-svc-kneighbor,"Leaf classification (RandomForest, SVC, KNeighbor)",Tra Nguyen,,2019-09-25T20:33:51.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,venkatarathnam/leaf-classification,Leaf Classification,Venkata Rathnam Muralidharan,,2019-07-25T17:38:24.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,imranmik/leaf-classification,Leaf classification,Mohd Imran,,2019-07-20T20:12:34.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,princetyagi193/leaf-classification,Leaf_Classification,Prince Tyagi,,2018-12-30T06:02:41.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,biswa156/leaf-classification,Leaf Classification,Biswajeet Mahato,,2018-10-15T04:34:37.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,ywleung/simple-nn-model-with-high-accuracy,simple NN model with high accuracy,ywleung,,2018-10-02T16:14:04.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,krasnovna/getting-leaf-contour,Getting leaf contour ,Nikita Krasnov,,2018-07-11T13:14:49.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,mingming1121/leaf-classification-code,leaf classification code,Mira,,2018-06-21T19:54:41.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,fleanend/leaf-clustering-and-classification,Leaf Clustering and Classification,Edoardo Ferrante,,2018-05-09T09:50:08.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,peeyushsahu/classification-of-leaf,Classification of leaf ,Peeyush Sahu,,2018-04-06T13:59:13.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,warisqr007/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Waris Quamer,,2018-02-14T11:50:38.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,mark13juna/keras-model,Keras model,Shivam Prasad,,2018-01-31T17:37:36.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,vradore/classification-with-extracted-features,classification with extracted features,MG,,2017-07-25T14:22:17.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,zahaviguy/10-classifier-showdown-in-scikit-learn-copy,10 Classifier Showdown in Scikit-Learn copy,Guy Zahavi,,2017-05-05T10:28:51.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,weiyang7545/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,Yang,,2017-04-10T08:07:42.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,devinney/leaf-classification,Leaf Classification,James DeVinney,,2017-04-08T13:59:08.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,darrellulm/leaf-basic-attempt-fork-and-test,Leaf - Basic Attempt - Fork and test,Darrell Ulm,,2017-04-07T22:58:53.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,hemanth171/leaf-classification-using-keras,Leaf Classification Using Keras,Hemanth k,,2017-03-12T12:43:06.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,ypargaien/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Yogesh Pargaien,,2017-03-08T06:49:58.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,plarmuseau/a-svd-take-on-the-leaf-s,a SVD take on the Leaf's,Paul Larmuseau,,2017-02-27T14:15:23.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,shubhamnagaria/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Shubham Nagaria,,2017-02-26T05:16:09.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,apurve/leaf-notebook,Leaf Notebook,ApurveDave,,2017-02-25T19:03:12.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,raresbarbantan/leafs-with-tensorflow,Leafs with Tensorflow,Rares Barbantan,,2017-02-22T20:07:18.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,udaysa/notebook9c51422f6f,Notebook9c51422f6f,uday,,2017-02-11T11:13:54.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,miyadi/tensorflow-example,TensorFlow Example,Yasushi Miyajima,,2017-02-06T16:12:55.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,wolterlw/leave-classification-with-convnet-in-keras-wip,Leave classification with COnvNet in Keras WIP,Volodymyr,,2017-01-25T19:30:54.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,mgaringo/leaf-network-feature,Leaf Network Feature,mGaringo,,2017-01-13T18:32:04.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,mgaringo/possible-complementary-image-feature,Possible Complementary Image Feature,mGaringo,,2017-01-11T15:35:16.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,zhuoliliang/notebookf08355ab1c,LeafRecognition,ZhuoliLiang,,2017-01-08T22:51:18.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,wordsforthewise/neural-network-through-keras,Neural Network through Keras,Nathan George,,2017-01-06T02:24:51.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,connectwithghosh/notebooka56dfa9c62,Simple tuned Random Forest Classifier,the_tond,,2016-12-21T13:43:11.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,hpatel86/comparing-models,Comparing models,Harsit Patel,,2016-12-19T21:59:33.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,xhuang25/feature-extraction-from-images,feature extraction from images ,Xingxing Huang,,2016-11-29T02:33:18.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,tmfukui/notebook0db90c6d75,Notebook0db90c6d75,tmfi,,2016-11-25T16:33:23.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,icecube314/cv-knn-for-leaf-classification,CV-KNN for Leaf classification,PiCubeisnot30,,2016-11-14T08:30:23.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,tobikaggle/logistic-regression,Logistic Regression,DDgg,,2016-11-14T17:21:54.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,group16/feature-extraction-from-images,feature extraction from images,Gilles Vandewiele,,2016-11-12T15:55:06.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,gauravjoshi1986/leaf-classification,Leaf Classification,GauravJoshi,,2016-11-14T11:15:13.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,towhid1/lineardiscriminantanalysis,LinearDiscriminantAnalysis ,Nurul Akter Towhid,,2016-11-01T20:45:16.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,icecube314/merged-keras-for-leaf-classification,Merged Keras for leaf classification,PiCubeisnot30,,2016-11-09T12:32:37.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,ugopiq/test-leaf-classification,Test leaf classification,UgoPiq,,2016-10-26T16:15:09.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,thirdth/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,wang liang,,2016-10-24T07:10:37.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,yhyu13/neural-network-through-keras-64333566,Neural Network through Keras 64333566,Hang(Yohan) Yu,,2016-10-22T14:08:25.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,adriana/detect-leaves,detect leaves,hidden player,,2016-10-21T03:28:03.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,unicorn23/leaf-classification-with-xgboost,Leaf Classification with Xgboost ,unicorn,,2016-10-20T14:09:45.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,edebrouwer/leaves-classifier,Leaves Classifier,EdwardOnBrew,,2017-01-28T10:09:31.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,ludviglamm/feature-extraction-from-images,feature extraction from images,Ludvig,,2016-10-09T14:41:40.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,altrev/cnn-only-images,CNN only images,Alan,,2016-10-01T20:18:01.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,userad/keras,keras,Konstantin Tumalevich,,2016-09-30T11:41:54.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,eladshtilerman/simple-random-forest-classifier,Simple random forest classifier,EladShtilerman,,2016-09-26T19:11:30.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,prerit912/ml-algorithm-showdown-thanks-jeff-delaney,ML Algorithm Showdown  (Thanks  Jeff Delaney),Prerit Anwekar,,2016-09-21T20:51:03.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,prateekbhat/removing-features,Removing Features,Prateek,,2016-09-18T22:17:50Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,davidesd/logistic-regression-with-features-combination,Logistic Regression with features combination,Davide_sd,,2016-09-16T12:44:00.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,isosnovik/fork-of-random-jungle,Fork of Random Jungle,Ivan Sosnovik,,2016-09-13T18:18:40.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,sunnyrain/nerual-network-with-keras,Nerual Network with Keras,Steve,,2016-09-10T11:56:04.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,dautovri/logistic-regression,Logistic Regression,Ruslan,,2016-09-07T03:35:31.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,prateekbhat/keras-adam,Keras Adam,Prateek,,2016-09-03T19:24:12.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,leaf-classification
+,,,,,0,novinict1/notebook-1,Notebook-1,Alireza Mansouri,,2022-01-26T12:20:52.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sahilsunda/model-2,Model-2,Sahil Sunda,,2021-12-12T09:44:50.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sahilsunda/model-1,Model-1,Sahil Sunda,,2021-12-12T07:26:48.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cbkali/leaf-classification,Leaf Classification,Chetan Bansal,,2021-09-24T17:37:02.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kmanojreddy/notebook4739e961a3,notebook4739e961a3,K Manoj Reddy,,2021-09-24T14:43:39.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shubhiijain/leaf-classification,Leaf Classification,Shubhiijain,,2021-07-28T05:50:06.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,maniking0/leaf-classification,Leaf_Classification,Manikandan V,,2021-07-28T01:57:33.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,moruharika/leaf-classification,Leaf Classification,Moru Harika ,,2021-07-25T12:39:13.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,garbamoussa/featureextraction-image,Featureextraction_image,GARBA Moussa,,2021-06-11T17:49:03.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sevcandogramaci/machine-learning-project-leaf-classification,Machine Learning Project - Leaf Classification,Sevcan Doğramacı,,2021-02-26T22:40:50.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ameyachawla99/leafrecognition-ameyachawl,LeafRecognition#AmeyaChawl#,AmeyaChawla99,,2020-09-27T06:25:40.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mohammedkuheil/leaf-classification-xgboos,Leaf Classification_XGBoos,Mohammed Kuheil,,2020-08-15T05:12:25.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,israakhalil/fork-of-leaf-classification-v3,Fork of leaf classification V3 ,Israaalnabrisi,,2020-08-08T20:40:25.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nihalhaboush/leaf-classification-adv-reg-gsearchcv-xgb, Leaf Classification Adv. Reg GSearchCV XGB,Nihal Haboush,,2020-08-09T10:13:18.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,razanabudagen/leaf-classification-with-randomforest1,Leaf classification with RandomForest1,Razan Abu-Dagen,,2020-07-29T12:17:46.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fathialasali/leaf-classification-comp,leaf classification comp,fathi alasali,,2020-08-16T09:52:51.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,maimahdi/xgboostleafclass,XGBoostLeafClass,Mai Mahdi,,2020-07-22T00:48:02.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fayrouzfarra/leaf-classification-ranodmforest-gridsearch,Leaf Classification RanodmForest GridSearch,Fayrouz Farra,,2020-07-23T13:16:34.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,maimahdi/leafclassification,LeafClassification,Mai Mahdi,,2020-08-23T22:35:07.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,asiaahmedabushawish/leaf-classification,Leaf Classification,Asia Ahmed Abu Shawish,,2020-08-07T18:19:12.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nahedalsharif/leaf-classification-ml-classic-classification-xgb, Leaf Classification-ML Classic Classification XGB,Nahed El Shareif,,2020-07-20T12:45:45.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,doaajaber/leaf-classification,leaf classification,Doaa Jaber,,2020-07-18T20:34:20.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gaganks/kernela70e63951a,kernela70e63951a,Gagan K S,,2020-03-16T10:31:09.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ronnymaurhofer/leaf-classification-neural-network-model,leaf classification neural network model,Ronny Maurhofer,,2020-02-20T09:27:32.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,vydyam/leaf-classification-basic,Leaf Classification-Basic,Vydyam,,2020-01-14T19:18:29.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,radeweg4264/leaf-classification-automl,Leaf_Classification_AutoML,Radosław Węgrzyk,,2019-12-09T22:12:12.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhudongxiao/cnn-w-o-image-data,CNN w/o image data,Zhu dongxiao,,2019-08-01T06:52:26.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhudongxiao/cnn-for-classifier,CNN for Classifier,Zhu dongxiao,,2019-08-01T05:44:43.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ahkhalwai55/classifier-showdown,Classifier Showdown,Aftab Hasan,,2019-07-28T13:35:13.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,venkatarathnam/leaf-classification-custom-features,Leaf Classification - Custom Features,Venkata Rathnam Muralidharan,,2019-07-27T14:11:35.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,travelpark/leaf-classify,leaf classify,TravelPark,,2019-07-22T15:50:32.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jerrypan001/kernelc607afd0d6,kernelc607afd0d6,"Jerome(Jerry), P.",,2019-05-07T15:11:51.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rejae8y/leaf-classification-use-svm-gridsearch,leaf classification use SVM&GridSearch,Jason_Q,,2019-03-21T04:26:18.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dhiru29/leaf-classification,Leaf Classification,Dhirendra Mohan Jha,,2018-12-12T18:43:37.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bqueguin/impact-of-hyperparameters-on-svm-classifier,impact of hyperparameters on SVM classifier,Bruno QUEGUINER,,2018-11-23T03:45:04.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ai2prx/leaf-classification,Leaf Classification,Payam,,2018-11-09T19:53:06.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,carloskl12/model-with-sift-descriptors,model with SIFT descriptors,CarlosJaka,,2018-09-03T14:49:48.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhoulingyan0228/lda-nn-on-leaf-classification,LDA && NN on Leaf Classification,Lingyan Zhou,,2018-07-04T08:49:57.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yukunpeng/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yukun,,2018-06-12T21:20:07.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jihyeseo/leaf-images-classify,"leaf images, classify",Jihye Sofia Seo,,2018-05-08T18:21:55.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sharique001/leafclassificationproject,LeafClassificationProject,Sharique,,2018-05-01T09:23:42.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mountainguest/pca-tsne-visu-kneighbors-randomforest,PCA (TSNE visu) + KNeighbors & RandomForest,maxpv,,2018-03-22T21:21:01.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sagar123/leaf-with-neural-nets,leaf with neural nets,sagar.rao,,2018-03-14T12:14:43.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,akhileshjoshi/ann-keras-dropout-99-6-accuracy,ANN (Keras) dropout (99.6% Accuracy),Akhilesh,,2018-02-04T02:45:17.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,guruprasathvicky/fork-of-high-accuracy-model,Fork of High accuracy model,Guru ,,2018-02-02T16:48:59.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kuanhoong/scikit-learn-logistic-regression,Scikit-Learn Logistic Regression,KuanHoong,,2018-01-28T05:00:22.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,qianchao/got-a-0-009-in-test-with-keras,Got a 0.009 in test with keras,Lving,,2017-12-22T06:02:32.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sofiahidayah/notebook7d06b0c1a8,Notebook7d06b0c1a8,SofiaHidayah,,2017-12-16T02:57:21.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fadhli/seeing-neighbors-on-leaf,Seeing Neighbors on Leaf,Fadhli,,2017-12-11T22:53:44.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jairomateo/test-for,test for ,Jairomateo,,2017-12-07T11:15:23.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tohfarabab/leaf-classification-using-multilayer-perceptron,Leaf_Classification_Using_Multilayer_perceptron,gift,,2017-11-21T17:10:37.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,adithyakag/scikitlearn-mlp,scikitlearn_MLP,adithya,,2017-10-09T04:09:43.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chengasiajaicy/detect-leaves,detect leaves,Chengasia,,2017-10-05T16:41:09.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,linshenzhen/notebook6bfab10ff4,Notebook6bfab10ff4,linshenzhen,,2017-06-09T11:44:47.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,evilgod/notebookc2fe02cefd,Notebookc2fe02cefd,evilgod,,2017-06-09T01:48:41.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,czfshine/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,zefan chen,,2017-06-08T07:18:12.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yujunnes/notebookef2f429314,Notebookef2f429314,kin yu,,2017-06-07T13:37:04.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tpbuffer/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,buffer,,2017-06-07T02:03:10.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,te87037/notebook2f208646d2,Notebook2f208646d2,Rexlin,,2017-06-04T22:57:28.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,te87037/notebook9e98450ac4,Notebook9e98450ac4,Rexlin,,2017-06-01T02:54:35.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anshulsingla/notebook2befcf9340,Notebook2befcf9340,AnshulSingla,,2017-05-29T17:58:23.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ranakj/rana-s-awesome-leaf-classification,Rana's Awesome Leaf Classification,Rana,,2017-05-10T23:50:32.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,asiegel1/notebooked0b5084c2,Notebooked0b5084c2,A. Siegel,,2017-05-10T03:37:34.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,asiegel1/notebookc68c07ecb1,Notebookc68c07ecb1,A. Siegel,,2017-05-10T03:21:58.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wwwept/notebooka821b6d1fe,Notebooka821b6d1fe,WT,,2017-05-09T12:44:30.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,marcboettinger/notebook16a9b111ce,Notebook16a9b111ce,Marc Boettinger,,2017-05-08T12:33:26.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,k900733/notebookba1c438e74,Notebookba1c438e74,Pei-Yau Lung,,2017-05-02T21:04:33.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,haichenliu/notebook7c71affbe2,Notebook7c71affbe2,HaichenLiu,,2017-05-02T07:55:53.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhxiangxyang/notebookabaf2d2d9f,Notebookabaf2d2d9f,NEUxzx,,2017-04-28T12:16:13.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhxiangxyang/notebookf0007e1581,Notebookf0007e1581,NEUxzx,,2017-04-28T02:59:19.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,luikna/notebook52f16b7876,Notebook52f16b7876,Lucas Rodés-Guirao,,2017-04-27T19:13:49.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhxiangxyang/notebook0bdd8bdbc7,Notebook0bdd8bdbc7,NEUxzx,,2017-04-27T10:23:24.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhxiangxyang/notebooka630fc3fcd,Notebooka630fc3fcd,NEUxzx,,2017-04-27T10:19:55.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhxiangxyang/notebooke08bab035f,Notebooke08bab035f,NEUxzx,,2017-04-27T10:17:40.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhxiangxyang/notebookd997ed2ac5,Notebookd997ed2ac5,NEUxzx,,2017-04-27T08:53:51.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,r2dliu/notebookefa799a453,Notebookefa799a453,David Liu,,2017-04-25T18:57:04.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cgomes/notebookc6941a0163,Notebookc6941a0163,CaioGomes,,2017-04-20T19:14:24.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mzr2017/notebookafae950bf2,Notebookafae950bf2,zr,,2017-04-13T11:25:40.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anantzoid/default,Default,anantzoid,,2017-04-11T00:07:38.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hankpeng03/lc-001,LC-001,HaoPeng,,2017-04-10T13:40:07.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hankpeng03/notebookba0d1a3a5b,Notebookba0d1a3a5b,HaoPeng,,2017-04-10T08:35:26.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,linj5411/notebook65260e4284,Notebook65260e4284,木木sama,,2017-04-06T05:48:03.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gaokai/notebook067196b827,Notebook067196b827,gaokai,,2017-03-30T08:51:25.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gaokai/notebook6d433b1a47,Notebook6d433b1a47,gaokai,,2017-03-30T08:05:45.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ziscor/notebook8d8070ca91,Notebook8d8070ca91,ZhuoZheng,,2017-03-28T12:19:53.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pyobro/leaf-classification-deepbro,leaf_classification_deepbro,KyungpyoKo,,2017-03-26T04:22:37.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rraju2/leaf-classification-example,Leaf classification example,rraju2,,2017-03-24T21:21:47.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rraju2/notebook4e1917511a,Notebook4e1917511a,rraju2,,2017-03-24T19:45:06.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rraju2/notebooka82344a591,Notebooka82344a591,rraju2,,2017-03-24T19:20:30.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,liuteng/notebookef32d8ff55,Notebookef32d8ff55,liuteng,,2017-03-21T16:40:07.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anamika1292/notebookdd8ddb92b6,Notebookdd8ddb92b6,Anamika,,2017-03-16T12:59:26.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,thomasbriner/notebook52480455c3,Notebook52480455c3,ThomasBriner,,2017-03-09T10:43:28.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,karthirajasekaran/notebooke26e58968a,Notebooke26e58968a,KarthikeyanRajasekaran,,2017-03-08T08:26:21.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,lehisx/a-simple-method,A simple method ,Lehis,,2017-03-10T09:46:50.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yangxiaocs/feature-extraction-from-images,feature extraction from images,yangxiao,,2017-03-07T07:32:01.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,scotttarlow/test1,Test1,Scott Tarlow,,2017-03-02T20:40:12.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,willyboy0/notebookc0383cd71f,Notebookc0383cd71f,PaladinWill,,2017-03-02T00:17:34.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,scalacoder/notebook59c287f08e,Notebook59c287f08e,Jinja Ninja,,2017-03-02T07:22:43.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,scalacoder/sample,sample,Jinja Ninja,,2017-03-01T14:21:29.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tinmantapestry/notebookecef528801,Notebookecef528801,Tinashe James Manzou,,2017-02-28T13:11:55.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tinmantapestry/notebooka0a6b2866c,Notebooka0a6b2866c,Tinashe James Manzou,,2017-02-28T12:25:07.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,billwang/notebook61eb4ae62d,Notebook61eb4ae62d,王立炜,,2017-02-28T09:06:57.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,plarmuseau/fork-of-a-svd-take-on-the-leaf-s-fc8e55,Fork of a SVD take on the Leaf's fc8e55,Paul Larmuseau,,2017-02-27T20:15:16.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,philipxue/fork-of-leaf-classification-using-cnn-354ed9,Fork of Leaf Classification using CNN 354ed9,Philip Xue,,2017-02-27T06:28:10.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,philipxue/fork-of-leaf-classification-using-cnn,Fork of Leaf Classification using CNN,Philip Xue,,2017-02-27T06:17:24.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,philipxue/leaf-classification-using-cnn,Leaf Classification using CNN,Philip Xue,,2019-08-19T12:40:23.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,efuentes/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Erick Fuentes,,2020-01-27T13:15:39.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,naveengoje/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,naveengoje,,2019-04-04T02:06:25.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,momentaj/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Amir Pournasserian,,2017-02-27T00:45:12.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,majidmortazavi/neural-network-through-keras,Neural Network through Keras,Majid Mortazavi,,2017-02-26T15:21:15.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kswada/notebook542f0ce291,Notebook542f0ce291,Gould-bach,,2017-02-26T15:10:45.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,plarmuseau/an-svd-on-train-csv-versus-test-csv,an SVD on train.csv versus test.csv,Paul Larmuseau,,2017-02-26T14:33:59.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/notebookcbc6345b8f,Notebookcbc6345b8f,Alex Glinsky,,2017-02-26T16:14:19.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yevgenpukhta/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Yevgen Pukhta,,2017-02-26T13:00:30.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,iamsiva11/3-basic-classifiers-and-features-correlation,3 Basic Classifiers and Features Correlation,Siv,,2017-02-26T12:36:19.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kotaroito/notebookd450e0e009,Notebookd450e0e009,KotaroIto,,2017-02-26T12:08:55.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/keras-neural-network-grid-searching,Keras Neural Network: Grid searching,DDgg,,2017-02-27T02:09:31.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tejusg/leaf-classification,Leaf classification,Tejus Gupta,,2017-02-26T03:11:05.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tejusg/neural-network-through-keras,Neural Network through Keras,Tejus Gupta,,2017-02-26T02:20:43.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,louhehe/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,爷们louhaha,,2017-02-26T02:01:53.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tejusg/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Tejus Gupta,,2017-02-26T01:38:41.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yeyedaren/logistic-regression-based-on-sklearn,Logistic regression based on sklearn,Dalei Li,,2017-02-25T20:02:19.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apurve/lineardiscriminantanalysis,LinearDiscriminantAnalysis,ApurveDave,,2017-02-25T19:39:35.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apurve/fork-of-leaf-notebook-430890,Fork of Leaf Notebook 430890,ApurveDave,,2017-02-25T19:33:32.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apurve/fork-of-leaf-notebook,Fork of Leaf Notebook,ApurveDave,,2017-02-25T19:18:19.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,johnlovelove/nn-through-keras-copied-mod-shuffle,NN through Keras *Copied* mod shuffle,Dragos C.,,2017-02-25T17:46:27.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nikunjm88/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Nikunj,,2017-02-25T14:04:37.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,guerrapin/notebookd41500310d,Notebookd41500310d,DataFace - UPMC - France,,2017-02-25T11:31:40.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,newriverchan/keras-convnet-lb-0-0052-w-visualization-d48023,Keras ConvNet LB 0.0052 w/ Visualization d48023,newriver,,2017-02-25T08:21:47.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,justonsong/notebooka7b8333777,Notebookb36d41e86e,JustonSong,,2017-02-25T07:52:22.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hrxufly/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,wy562963269,,2017-02-24T11:48:55.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ermochi/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,AVP,,2017-02-24T07:08:08.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,auygur/nn-through-keras-copied-mod,NN through Keras *Copied* mod,ArmanUygur,,2017-02-24T01:34:14.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/keras-convnet-lb-0-0052-w-visualization-c0df5e,Keras ConvNet LB 0.0052 w/ Visualization c0df5e,Robert J. Regalado,,2017-02-23T15:00:34.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alutrin/simple-cnn-leaves-with-features-plugged-in-later,Simple CNN leaves with features plugged in later,alutrin,,2017-04-17T09:17:59.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alutrin/simple-keras-1d-cnn-features-split,Simple Keras 1D CNN + features split,alutrin,,2017-02-23T13:39:48.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,madhumala/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,@madhu,,2017-02-23T11:10:38.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alutrin/notebook70d51778d8,Notebook70d51778d8,alutrin,,2017-02-23T10:35:48.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jimmytran/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,JimmyTran,,2017-02-23T08:39:52.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rishiyadav/notebook582eb3a5eb,Notebook582eb3a5eb,RY,,2017-02-23T08:13:17.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hailam/leaf-classification,Leaf classification,Hai Lam,,2017-02-23T07:32:51.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,liamhe/keras-convnet-lb-0-0052-w-visualization-141db3,Keras ConvNet LB 0.0052 w/ Visualization 141db3,Lie He,,2017-02-23T04:54:40.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,natnael/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,NTHamda,,2017-02-23T02:39:19.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kswada/shapelets,Shapelets,Gould-bach,,2017-02-22T22:55:12.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zarmeen/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Zarmeen,,2017-02-22T12:13:47.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pavan85/feature-extraction-from-images,feature extraction from images,pava,,2017-02-22T12:11:55.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,liamhe/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Lie He,,2017-02-22T11:24:28.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zarmeen/tensorflow-example,TensorFlow Example,Zarmeen,,2017-02-22T11:16:43.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zarmeen/tensorflow-framework-with-logistic-regression,Tensorflow framework with Logistic Regression,Zarmeen,,2017-02-22T11:11:28.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,stepanhlushak/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,stepan,,2017-02-22T04:19:02.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pinjutien/notebookd9ff1f875d,Notebookd9ff1f875d,Pin-Ju Tien,,2017-02-22T03:39:41.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jlglover/nn-through-keras-copied-mod,NN through Keras *Copied* mod,Jack G,,2017-02-22T03:27:58.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,abdulmohsen09az/notebook8058a474dc,Notebook8058a474dc,abdulmohsen,,2017-02-21T19:21:21.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,souravsingh/predi,predi,SouravSingh,,2017-02-21T19:20:14.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,souravsingh/predict-leaf,predict_leaf,SouravSingh,,2017-02-21T18:52:43.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ningyuma/10-classifier-showdown-in-scikit-learn-c2ea3c,10 Classifier Showdown in Scikit-Learn c2ea3c,Ningyu Ma,,2017-02-21T17:59:11.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ningyuma/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Ningyu Ma,,2017-02-21T17:57:13.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/simple-keras-1d-cnn-features-split,Simple Keras 1D CNN + features split,Robert J. Regalado,,2017-02-21T17:16:26.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/keras-convnet-lb-0-0052-w-visualization-1454bd,Keras ConvNet LB 0.0052 w/ Visualization 1454bd,Robert J. Regalado,,2017-02-21T17:06:29.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xuxiaoyu/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,xuxiaoyu,,2017-02-21T07:18:53.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dshlhaaa/nn-through-keras-copied-mod-shuffle,NN through Keras *Copied* mod shuffle,Xuechen Li,,2017-02-21T05:15:02.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,blargl/notebook985d3c3978,Notebook985d3c3978,blargl,,2017-02-20T14:59:15.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,avklesh/nn-through-keras-copied-mod-shuffle,NN through Keras *Copied* mod shuffle,avk,,2017-02-20T10:45:33.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,root009/notebook869a3729a8,Notebook869a3729a8,ROOT,,2017-02-19T12:45:03.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kotaroito/using-randomforest,Using RandomForest,KotaroIto,,2017-02-19T12:39:54.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alvysinger/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Alvysinger,,2017-02-19T06:20:38.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wheeler8/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,wheeler8,,2017-02-18T15:22:28.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dexter01/10-classifier-showdown-in-scikit-learn-556963,10 Classifier Showdown in Scikit-Learn 556963,Ritesh Prasad,,2017-02-18T11:20:53.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dexter01/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Ritesh Prasad,,2017-02-18T10:07:18.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cockapotamus/keras-convnet-lb-0-0052-w-visualization-b6dc70,Keras ConvNet LB 0.0052 w/ Visualization b6dc70,Phil Davies,,2017-02-18T00:08:17.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cockapotamus/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Phil Davies,,2017-02-17T22:29:20.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,arneoi/notebook9d4af1caa0,Notebook9d4af1caa0,FergusBarratt,,2017-02-17T14:49:14.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,abonec/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Alexander Barontes,,2017-02-17T10:57:49.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jelly08/visualizing-pca-with-leaf-dataset-5893d9,Visualizing PCA with Leaf Dataset 5893d9,GuoDong Wang,,2017-02-17T07:05:28.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,DDgg,,2017-02-17T06:41:22.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,huihuangchh/notebooka58a7412b3,Notebooka58a7412b3,ChenHuihuang,,2017-02-17T03:03:41.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zeamxie/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Shaojun Xie,,2017-02-16T20:16:20.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nereusz/basic-neural-network-using-tensorflow,Basic Neural Network using Tensorflow,Shawn,,2017-02-16T06:24:03.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,brendanlafferty/notebook55b035ff84,Notebook55b035ff84,brendan lafferty,,2017-02-16T04:27:18.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ashideldar/feature-extraction-from-images,feature extraction from images,AshiDeldar,,2017-02-16T03:28:14.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,huihuangchh/neural-network-through-keras,Neural Network through Keras,ChenHuihuang,,2017-02-16T02:10:12.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shrikeler/keras-convnet-lb-0-0052-w-visualization-9297e4,Keras ConvNet LB 0.0052 w/ Visualization 9297e4,Rob Treichler,,2017-02-15T19:30:45.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shrikeler/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Rob Treichler,,2017-02-15T19:29:29.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,momentaj/notebook41d9faf7d0,Notebook41d9faf7d0,Amir Pournasserian,,2017-02-15T15:21:35.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jelly08/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,GuoDong Wang,,2017-02-15T15:19:04.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yusridh/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yusri,,2017-02-15T10:12:52.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,newriverchan/mark-keras-convnet-lb-0-0052-w-visualization,mark！- Keras ConvNet LB 0.0052 w/ Visualization,newriver,,2017-02-15T08:20:17.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,huihuangchh/leaf-classification-py,leaf_classification.py,ChenHuihuang,,2017-02-17T03:41:47.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhenhao/nn-through-keras-copied-mod,NN through Keras *Copied* mod,Plusjavascript,,2017-02-14T08:04:27.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,allenhuang/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,The Alchemist,,2017-02-14T07:36:46.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhenhao/atest,atest,Plusjavascript,,2017-02-14T09:26:37.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gjwei1993/my-submission,my_submission,xxxx,,2017-02-14T03:41:56.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xiaowang111/keras-convnet-lb-0-0052-w-visualization-685b44,Keras ConvNet LB 0.0052 w/ Visualization 685b44,xiaowang,,2017-02-14T03:00:18.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xhuang25/nn-through-keras-copied-mod,NN through Keras *Copied* mod,Xingxing Huang,,2017-02-13T21:45:28.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nathanyee/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,NathanYee,,2017-02-13T20:44:00.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dieden/notebook801e732c84,Notebook801e732c84,DieDen,,2017-02-13T18:15:01.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,makeyoureal/notebookde69a403a9,Notebookde69a403a9,ОлегКремнёв,,2017-02-13T07:46:41.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sarahcaso/notebook0463f9d7a9,Leaf Recognition,SarahCaso,,2017-02-13T04:47:19.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,blargl/nn-through-keras-copied-mod,NN through Keras *Copied* mod,blargl,,2017-02-12T13:16:56.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,udaysa/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,uday,,2017-02-12T11:37:49.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,udaysa/separate-network-for-margin-shape-texture,"Separate network for margin, shape, texture",uday,,2017-02-11T19:58:41.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,aakash2121995/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Aakashaggawral,,2017-02-11T14:52:56.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pierretisseur/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Pierre Tisseur,,2017-02-11T13:35:21.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,udaysa/test123,test123,uday,,2017-02-11T17:47:21.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,udaysa/notebookf47d172fd4,Notebookf47d172fd4,uday,,2017-02-11T10:10:24.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hadrienhamel/test123,test123,HadrienHamel,,2017-02-10T21:37:53.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kswada/feature-extraction-from-images,feature extraction from images,Gould-bach,,2017-02-10T10:37:47.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/neural-network-through-keras,Neural Network through Keras,Alex Glinsky,,2017-02-09T21:17:32.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/notebookb54c3ab920,Notebooka95a325b16,Alex Glinsky,,2017-02-09T21:14:21.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,janpeter/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,JP11,,2017-02-09T17:27:42.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,aerolsh/tensorflow-framework-with-logistic-regression,Tensorflow framework with Logistic Regression,Sunhwan,,2017-02-09T02:25:18.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,aerolsh/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Sunhwan,,2017-02-09T01:51:31.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andriuss/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Andres Garcia,,2017-02-08T19:25:34.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,svesal/notebookd862457829,Notebookd862457829,Aramis,,2017-02-08T14:15:45.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pkuwjh/sklearn-model-usage-on-leaf-classificaition,Sklearn model usage on leaf classificaition,pkuwjh,,2017-02-08T11:14:08.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,davidzornek/notebookd529195dd2,Notebookc1c90fd36f,DavidZornek,,2017-02-08T05:28:01.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kumarmankala/notebook28cc954bd1,Notebooke05accadaa,Kumar Mankala,,2017-02-08T03:29:58.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xd1234/logistic-regression,Logistic Regression,XD123,,2017-02-08T06:27:19.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xd1234/notebook4a64284a7c,Notebook4a64284a7c,XD123,,2017-02-08T01:29:37.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pasoa94/feature-extraction-from-images-2,feature extraction from images #2,LucaPajola,,2017-02-07T19:15:04.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kaushalshetty/using-randomforest-score-0-69372,Using RandomForest Score=0.69372,SahasaSimha,,2017-02-07T11:32:30.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,uj2295/10-classifier-showdown-in-scikit-learn-e24267f4,10 Classifier Showdown in Scikit-Learn e24267f4,Utkarsh Jain,,2017-02-07T11:27:01.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,uj2295/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Utkarsh Jain,,2017-02-07T11:19:37.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xd1234/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,XD123,,2017-02-07T09:40:26.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/fork-of-nn-through-keras-copied-mod-8ac359d1,Fork of NN through Keras *Copied* mod 8ac359d1,DDgg,,2017-02-07T05:39:36.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/fork-of-nn-through-keras-copied-mod-ff28256b,Fork of NN through Keras *Copied* mod ff28256b,DDgg,,2017-02-07T05:39:23.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pogologos/notebook29acc193cf,Notebook29acc193cf,pogologos,,2017-02-07T02:59:54.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rafaelmm/leaf-skeleton-possible-features,Leaf Skeleton - Possible Features,Rafael Moraes,,2017-02-07T02:39:08.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,funapi/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,funapi,,2017-02-07T01:35:57.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gesingle/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,gesingle,,2017-02-06T22:17:18.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,draschemus/notebookffac2da147,Notebookffac2da147,Zyrith,,2017-02-06T21:09:55.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chridam/10-classifier-showdown-in-scikit-learn-4974eeb8,10 Classifier Showdown in Scikit-Learn 4974eeb8,chridam,,2017-02-06T20:47:23.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,miyadi/notebook3eddaeb9a4,Notebook3eddaeb9a4,Yasushi Miyajima,,2017-02-06T15:24:09.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sananth12/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Anantha Natarajan S,,2022-07-02T23:00:15.0767241Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sananth12/notebooke350365571,Notebooke350365571,Anantha Natarajan S,,2017-02-06T03:34:07.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Robert J. Regalado,,2022-07-02T23:01:51.3458283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gszjulcsi/different-looking-leaves-in-same-class-dab63602,Different Looking leaves in same class dab63602,gszjulcsi,,2017-02-05T20:49:36.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gszjulcsi/different-looking-leaves-in-same-class,Different Looking leaves in same class,gszjulcsi,,2017-02-05T20:37:15.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,draschemus/notebookfe4b68bfef,Notebookfe4b68bfef,Zyrith,,2017-02-05T17:50:18.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rohitmohan96/leafs,Leafs,Rohit Mohan,,2017-02-05T17:16:55.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,majidmortazavi/keras-convnet-lb-0-0052-w-visualization-52107b23,Keras ConvNet LB 0.0052 w/ Visualization 52107b23,Majid Mortazavi,,2017-02-05T14:13:31.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,majidmortazavi/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Majid Mortazavi,,2017-02-04T21:47:32.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,forsure/notebook07a5689bd8,Notebook07a5689bd8,seektruth,,2017-02-04T04:21:43.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pengcheng4451/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,Yang,,2017-02-04T01:06:55.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chenfenghui/notebook0c4f84acaa,Notebook5331e8752c,chenfenghui,,2017-02-03T08:21:37.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pengcheng4451/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yang,,2017-02-03T03:49:52.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rafaelmm/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Rafael Moraes,,2017-02-03T03:19:56.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wangping25/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Ping Wang,,2017-02-03T17:59:05.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,romero/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,romero,,2017-02-02T23:39:18.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratik1390/notebookf4212c569d,Notebookf4212c569d,Pratik Parekh,,2017-02-02T21:55:02.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nielsonsoares/notebook5f877ce039,Notebookf6918b6515,Nielson Soares,,2017-02-02T16:00:44.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bcwang95/visualizing-pca-with-leaf-dataset,example,BCWANG,,2017-02-02T08:57:52.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sgoriv/feature-extraction-from-images,feature extraction from images,Santi,,2017-02-01T19:56:29.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ngarciasantos/rookie-applies-pca-and-analyses-4-models,ROOKIE APPLIES PCA AND ANALYSES 4 MODELS ,Brisa,,2017-02-01T15:39:32.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ngarciasantos/notebookca565fded9,Notebookca565fded9,Brisa,,2017-02-01T15:23:18.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chridam/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,chridam,,2017-02-01T08:21:10.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mrisdal/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Meg Risdal,,2020-04-04T00:01:51.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mrisdal/keras-convnet-lb-0-0052-w-visualization-e95586bd,Keras ConvNet LB 0.0052 w/ Visualization e95586bd,Meg Risdal,,2017-02-01T02:56:50.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mrisdal/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Meg Risdal,,2017-02-01T02:47:28.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nicort/notebook2dbdcbd667,Notebook2dbdcbd667,Nicort,,2017-02-01T01:02:40.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ngarciasantos/notebookc8d62dde3e,Notebook272d5d2cda,Brisa,,2017-01-31T17:48:42.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cyriljoly/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Cyril Joly,,2017-01-31T14:26:19.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kaichenphys/notebookd1a37dbea1,Notebookd1a37dbea1,QPZM,,2017-01-31T04:05:46.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sethzgold/notebook3c937eeca0,Notebook3c937eeca0,Seth Goldberg,,2017-01-31T03:21:30.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,raghubanshgupta/notebook0e85e32769,Notebook0e85e32769,Raghu,,2017-01-31T02:20:27.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,daielchom/notebookbf855fe07c,Notebookbf855fe07c,DaielChom,,2017-01-30T22:48:43.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,daielchom/pca-data-and-imges-lineardiscriminantanalysis,PCA data and imges + LinearDiscriminantAnalysis,DaielChom,,2017-01-30T22:13:19.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mangogao/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,mangogao,,2017-01-30T13:30:24.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,lileinba/notebookbc41b6d58a,Notebookbc41b6d58a,李磊,,2017-01-30T07:35:18.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,lileinba/notebook0401c8be54,Notebook0401c8be54,李磊,,2017-01-30T06:41:01.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jbcollins4/leaf-classification-working,Leaf Classification -- Working,John Collins,,2017-01-30T00:40:12.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jorcox/ucode-script-2,uCode Script 2,Jorge Cáncer,,2017-01-29T20:16:23.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jorcox/ucode-notebook,uCode Notebook,Jorge Cáncer,,2017-01-29T20:13:59.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jorcox/keras-convnet-lb-0-0052-w-visualization-273bd51c,Keras ConvNet LB 0.0052 w/ Visualization 273bd51c,Jorge Cáncer,,2017-01-29T19:45:12.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,octavianh/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Octavian Hasna,,2017-01-29T19:19:10.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,octavianh/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Octavian Hasna,,2017-01-29T18:48:21.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jorcox/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Jorge Cáncer,,2017-01-29T19:43:41.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dysonlin/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,林湧森 (Dyson Lin),,2017-01-29T17:23:02.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rnels12/notebook13351c48ea,Notebook13351c48ea,Ryne60,,2021-09-26T12:56:31.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jorcox/neural-network-through-keras,Neural Network through Keras,Jorge Cáncer,,2017-01-29T13:32:06.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shababa/notebookad7a399dc0,Notebookad7a399dc0,ShababaBakht,,2017-01-29T08:26:16.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ananyamukh/notebookbb0ddad9dc,Notebookbb0ddad9dc,ananyamukh,,2017-01-29T05:48:40.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,prassinoux/feature-extraction-from-images,feature extraction from images,RASSINOUXPhilippe,,2017-01-28T20:09:03.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yannickqi/10-classifier-showdown-in-scikit-learn-dea16a89,10 Classifier Showdown in Scikit-Learn dea16a89,Yannick,,2017-01-28T19:17:56.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zbridges/notebooka1450b5e5f,Notebooka1450b5e5f,Zachary Bridges,,2017-01-27T19:37:07.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jbcollins4/empty-notebook-0002,Empty Notebook 0002,John Collins,,2017-08-26T11:59:32.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,honeybird/feature-extraction-from-images,feature extraction from images,ChengWang,,2017-01-27T03:24:46.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,honeybird/leaf-classification-study-cw,leaf_classification_study_cw,ChengWang,,2017-01-27T03:02:04.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,raahuls/notebooke8dc1552b8,Notebooke8dc1552b8,Raahul Seshadri,,2017-01-26T14:00:10.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hanshan/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Hans Han,,2017-01-26T11:44:06.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,acewhite/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Ace Bai,,2017-01-26T03:01:27.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yannickqi/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yannick,,2017-01-26T02:13:36.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jiahee/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,HeJIA,,2017-01-26T02:29:42.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,liudahchris/notebooka27014e417,Notebooka27014e417,ChrisLiu,,2017-01-25T20:07:38.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,silencerain/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,silencerain,,2017-01-25T11:17:47.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,renjiuhu/notebook4140f20e11,Notebook4140f20e11,Gabriel_Hu,,2017-01-25T06:46:06.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ashokumawat/effects-of-features-combination,Effects of Features combination,ashok kumawat,,2017-01-24T09:59:22.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mrquan/notebookf2cd93e042,Notebookf2cd93e042,Quan Nguyen,,2017-01-23T16:14:01.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ecnuykh/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,YAO KEHUI,,2017-01-23T10:56:29.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jeeyung/notebook15292d7770,Notebook15292d7770,jeeyung ,,2017-01-23T08:38:46.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,liprais/notebook18af3fd133,Notebook18af3fd133,Liprais,,2017-01-23T07:09:29.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,advaitp/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,quvik rosbee,,2017-01-23T00:47:07.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,greenorange1994/notebook5dd8309de1,Notebook5dd8309de1,JadeZhou,,2017-01-22T20:52:11.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jaduol/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,JoshuaAduol,,2017-01-22T10:37:01.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jaduol/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,JoshuaAduol,,2017-01-22T09:50:19.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gazpachoverde/test5,test5,gazpachoverde,,2017-01-21T23:19:26.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,blargl/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,blargl,,2017-01-21T17:25:40.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kilasue/notebook9afaee89ed,Notebook9afaee89ed,kilasuelika,,2017-01-21T09:27:32.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mitchfrump/leaf-classification,Leaf Classification,Mitchell Owen,,2017-01-21T07:34:03.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mitchfrump/notebook2108b65b29,Notebook2108b65b29,Mitchell Owen,,2017-01-21T04:21:58.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,varshinig/notebookf3ee8d8895,Notebookf3ee8d8895,varshiniguddanti,,2017-01-20T21:42:45.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,matthewmckay/notebookbcf517f9f1,Notebookbcf517f9f1,MatthewMcKay,,2017-01-20T20:36:37.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dylanrutter/feature-extraction-from-images,feature extraction from images,DylanRutter,,2017-01-20T19:07:46.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,naivecharles/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,CharlesLane,,2017-01-20T18:11:54.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,angelmm/leaf-cnn-with-image-generator,Leaf CNN with image generator,churandy,,2017-01-20T16:51:13.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bobsmith2/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Bob2,,2017-01-20T12:44:57.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratik/notebook1d41242583,Notebooka5f4f82702,Pratik,,2017-01-20T03:36:37.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratik/notebook2a7446ca1d,Notebook2a7446ca1d,Pratik,,2017-01-20T02:39:28.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,takeaki/notebook0b29f2552e,Notebook0b29f2552e,Taki,,2017-01-20T02:38:28.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratik/notebook9f0cd32476,Notebook9f0cd32476,Pratik,,2017-01-20T02:38:20.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratik/notebookfbef116255,Notebookfbef116255,Pratik,,2017-01-20T02:28:50.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,takeaki/notebook4f99acaefb,Notebook4f99acaefb,Taki,,2017-01-20T01:11:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mathieugaron/simple-keras-1d-cnn-features-vizualisation,Simple Keras 1D CNN + features (Vizualisation),MathieuGaron,,2017-01-19T23:35:54.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mathieugaron/simple-keras-1d-cnn-features-split-f9c16fda,Simple Keras 1D CNN + features split f9c16fda,MathieuGaron,,2017-01-19T22:17:58.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jaduol/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,JoshuaAduol,,2017-01-19T20:05:32.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jaduol/notebookd53ac88342,Notebookd53ac88342,JoshuaAduol,,2017-01-19T18:49:00.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mathieugaron/simple-keras-1d-cnn-features-split-1232e3d8,Simple Keras 1D CNN + features split 1232e3d8,MathieuGaron,,2017-01-19T18:04:48.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jiaminglin/notebook66c357e1b4,Notebook1ecd92b3bd,JiaMingLin,,2017-01-19T10:48:11.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jiaminglin/notebook60c7f601f3,Notebook60c7f601f3,JiaMingLin,,2017-01-19T10:45:49.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,agbmurphy/classifying-leaf-data-with-nearest-neighbors,Classifying Leaf Data with Nearest Neighbors,Arvind Betrabet,,2017-01-19T05:55:13.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yczhouqiang/notebook3775faef89,Notebook3775faef89,yczhouqiang,,2017-01-18T19:07:57.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rajaguru/fork-of-visualizing-pca-with-leaf-dataset,Fork of Visualizing PCA with Leaf Dataset,GurunathRajagopal,,2017-01-18T13:38:56.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,serj1izh/feature-extraction-from-images-2,feature extraction from images #2,SergeyGavrin,,2017-01-18T12:12:37.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,invariant47/notebook9ad99c3797,Notebooka7153f3d46,Prudhvi Tej,,2017-01-18T06:14:08.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andyhe/10-classifier-showdown-in-scikit-learn-6f312c75,10 Classifier Showdown in Scikit-Learn 6f312c75,Andy He,,2017-01-18T03:02:33.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andyhe/10-classifier-showdown-in-scikit-learn-9fa7214b,10 Classifier Showdown in Scikit-Learn 9fa7214b,Andy He,,2017-01-18T03:01:43.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ramirojc/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,Ramiro Caro,,2017-01-18T00:30:54.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,te87037/leaner,LEANER,Rexlin,,2017-01-17T23:41:35.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dvirfalik/visualizing-pca-with-leaf-dataset-e08bb283,Visualizing PCA with Leaf Dataset e08bb283,DvirFalik,,2017-02-02T16:05:44.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dvirfalik/notebook6d26d889c4,Notebook6d26d889c4,DvirFalik,,2017-01-17T17:50:19.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,davidhou/simple-attempt-on-leaf-classification,Simple Attempt On Leaf Classification,David Hou,,2017-01-17T07:43:42.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratik/notebook782bddbe33,Notebook782bddbe33,Pratik,,2017-01-16T23:05:07.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mgaringo/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,mGaringo,,2017-01-16T21:58:03.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,raseique/trouble,trouble,João Sequeira,,2017-01-16T22:53:26.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dvirfalik/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,DvirFalik,,2017-01-19T09:18:12.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,octaexon/notebookbe93466a62,Notebookbe93466a62,octaexon,,2017-01-16T18:57:32.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zfrysrylmz/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,a-ZaferYasirYILMAZ,,2017-01-16T18:27:46.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pedroraposo/notebook320384858d,Notebook320384858d,Pedro R,,2017-01-16T16:10:42.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pedroraposo/last-one,last_one,Pedro R,,2017-01-17T15:24:52.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexanderlazarev/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Alex Lazarev,,2017-01-16T10:45:25.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zfrysrylmz/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,a-ZaferYasirYILMAZ,,2017-01-16T10:31:52.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,adiamb/notebookf00ed8c9af,leaf classification,Aditya,,2017-01-16T03:53:11.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xiaowang111/keras-convnet-lb-0-0052-w-visualization-90e7c32d,Keras ConvNet LB 0.0052 w/ Visualization 90e7c32d,xiaowang,,2017-01-16T03:04:44.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xiaowang111/keras-convnet-lb-0-0052-w-visualization-c040fddd,Keras ConvNet LB 0.0052 w/ Visualization c040fddd,xiaowang,,2017-01-16T03:04:03.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xiaowang111/fork-of-keras-convnet-lb-0-0052-w-visualization,Fork of Keras ConvNet LB 0.0052 w/ Visualization,xiaowang,,2017-01-16T03:01:32.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,joanamartins/nn-through-keras-copied,NN through Keras *Copied*,JoanaMartins,,2017-01-15T22:55:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kgatilin/notebook52b2dff52e,Notebook52b2dff52e,Konstantin Gatilin,,2017-01-15T20:18:03.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,achraf112/notebookd8d0bf1311,Notebook6cf7fb1840,Achraf BENLEMKADDEM,,2017-01-15T18:49:54.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratikshaj/feature-extraction-from-images,feature extraction from images,Pratiksha Jain,,2017-01-15T16:02:57.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielani/jjjjjjjjj,jjjjjjjjj,DanielaAzevedo,,2017-01-15T00:05:56.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,blckgamer/fourth-attempt,Fourth Attempt,Blckgamer,,2017-01-14T21:00:38.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,blckgamer/third-attempt,Third Attempt,Blckgamer,,2017-01-14T20:53:40.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,blckgamer/first-attempt,First Attempt,Blckgamer,,2017-01-14T20:29:37.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/svm-f,svm-f,FernandoCruz,,2017-01-14T19:23:35.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pratikshaj/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Pratiksha Jain,,2017-01-19T17:58:53.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pedroraposo/mimimi,mimimi,Pedro R,,2017-01-14T19:49:25.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/svm-final-final,svm_final_final,FernandoCruz,,2017-01-14T17:16:32.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,artie88/10-classifier-showdown-in-scikit-learn-b2e53265,10 Classifier Showdown in Scikit-Learn b2e53265,Yongjin Cho,,2017-01-13T23:45:14.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielani/lilalila,lilalila,DanielaAzevedo,,2017-01-16T19:11:12.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielani/newone,newone,DanielaAzevedo,,2017-01-13T22:12:18.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/test-svmm,test_svmm,FernandoCruz,,2017-01-13T19:33:55.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,baconx2/fritabatata,fritabatata,Bacon,,2017-01-16T22:33:49.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fwlpku/notebookd5a4a06923,Notebookd5a4a06923,fwlpku,,2017-01-13T10:32:15.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jaduol/leafclassification,LeafClassification,JoshuaAduol,,2017-01-19T18:41:55.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,thisray/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,thisray,,2017-01-13T03:54:36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,namluu/notebook85419ce4ca,Notebook85419ce4ca,Luu,,2017-01-13T02:44:37.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielani/lalalalala,lalalalala,DanielaAzevedo,,2017-01-12T21:54:07.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,okaradeli/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,okaradeli,,2017-01-12T20:37:59.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/testetststs,testetststs,FernandoCruz,,2017-01-12T19:21:35.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,frjo0083/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,Fredrik Jonsson,,2017-01-12T17:45:55.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/neural-networks,neural_networks,FernandoCruz,,2017-01-12T17:10:45.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jiaminglin/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,JiaMingLin,,2017-01-12T14:58:55.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nolanlee/leaf-classifier,Leaf Classifier,Li Guanchun,,2017-01-12T14:43:03.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mundra/possible-complementary-image-feature,Possible Complementary Image Feature,AnkurMundra,,2017-01-12T13:49:15.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mundra/simple-keras-1d-cnn-features-split,Simple Keras 1D CNN + features split,AnkurMundra,,2017-01-12T13:45:16.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mundra/feature-extraction-from-images-2,feature extraction from images #2,AnkurMundra,,2017-01-12T13:34:38.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/test-reps-probs,Test_reps_probs,FernandoCruz,,2017-01-12T12:42:11.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hilbertatkaggle/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,Hilbert,,2017-01-12T07:02:24.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hilbertatkaggle/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Hilbert,,2017-01-12T07:01:16.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielani/mimimi,mimimi,DanielaAzevedo,,2017-01-11T23:00:17.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielani/ninini,ninini,DanielaAzevedo,,2017-01-11T22:57:59.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,progmatix/notebookf1894c520c,Notebookf1894c520c,Progmatix,,2017-01-11T19:53:25.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mgaringo/notebook49586ae705,Notebook49586ae705,mGaringo,,2017-01-11T18:09:11.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,seemakanuri/notebook457d1db54d,Notebook457d1db54d,Seema Rani Kanuri,,2017-01-11T16:44:15.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,azzikl/neural-network-through-keras,Neural Network through Keras,Vic Poliakov,,2017-01-11T14:42:17.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,murxor/custom-vs-provided-leaf-data,Custom vs. Provided Leaf Data,Max ,,2017-01-11T14:02:40.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andreiacscampos/notebook75b6783574,Notebook75b6783574,Andreia,,2017-01-11T11:20:45.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jiaminglin/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,JiaMingLin,,2017-01-11T10:56:05.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nitinvijay23/leaf-classification,Leaf Classification,Nitin Vijay,,2017-01-11T09:59:26.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gdhsjwj/notebook1cbc51da06,Notebook1cbc51da06,dongdong,,2017-01-11T03:08:43.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,peymanml/notebookd93b58859c,Notebookd93b58859c,Peiman,,2017-01-11T02:03:31.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/test-2,test_2,FernandoCruz,,2017-01-11T12:13:38.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anji2727/notebook21a983e0a8,Notebook21a983e0a8,An Ji,,2017-01-10T18:43:10.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,liujianying/notebook9feadc9b3e,Notebook9feadc9b3e,lalalala,,2017-01-10T15:52:20.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kaka6599/notebookf5d0b48beb,Notebookf5d0b48beb,Karthik Kannan,,2017-01-10T15:49:38.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andyhe/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Andy He,,2017-01-10T06:51:13.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andyhe/learning-classifier,Learning classifier ,Andy He,,2017-01-10T06:41:10.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andyhe/leaf-classifier,leaf_classifier,Andy He,,2017-01-10T06:30:17.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,musella/notebook551d9280e8,Notebook551d9280e8,musella,,2017-01-10T00:10:30.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,aristocatt/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,AristoCatt,,2017-01-09T20:45:26.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mgaringo/notebook14341f2bb8,Notebook14341f2bb8,mGaringo,,2017-01-09T20:15:31.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fizik2/notebookdc77e43480,Notebookdc77e43480,TamoGochi,,2017-01-09T19:35:26.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/first-test,first test,FernandoCruz,,2017-01-11T22:48:26.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/test-nando,Test_nando,FernandoCruz,,2017-01-09T18:04:28.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fizik2/notebookfe2aaa20d2,Notebookfe2aaa20d2,TamoGochi,,2017-01-10T13:39:28.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fernandocruz/notebookf7848fa81e,Notebookf7848fa81e,FernandoCruz,,2017-01-09T17:58:08.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jkulak/categorise-leaves-by-shape,categorise-leaves-by-shape,jkulak,,2017-01-09T13:31:23.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,james90/notebook72fb7247c3,Notebook72fb7247c3,James,,2017-01-09T10:38:24.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,arvidzt/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,arvidzt,,2017-01-09T03:11:14.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pomodorochris/notebookd8aad42d61,Notebookd8aad42d61,Chris,,2017-01-08T21:22:41.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hofpcp/10-classifier-showdown-in-scikit-learn-forked,10 Classifier Showdown in Scikit-Learn (forked),Peter Carsten Petersen,,2017-01-08T20:33:03.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andriid/notebookbf7cbc9e12,Notebookbf7cbc9e12,Andrii,,2017-01-08T15:59:41.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,joanamartins/notebookb239b49ec3,Notebookb239b49ec3,JoanaMartins,,2017-01-08T14:06:27.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nrupatunga/10-classifier-showdown-in-scikit-learn-03871d4b,10 Classifier Showdown in Scikit-Learn 03871d4b,Nrupatunga,,2017-01-08T12:13:49.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bluesaturn/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,SachinSingh,,2017-01-08T08:22:46.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,virzy7/visualizing-pca-with-leaf-dataset,Visualizing PCA with Leaf Dataset,ChrisChia,,2017-01-08T08:19:43.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,qilishia/notebookf93493a04a,Notebookf93493a04a,QILISHIa,,2017-01-08T06:53:44.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,auygur/simple-keras-1d-cnn-features-split,Simple Keras 1D CNN + features split,ArmanUygur,,2017-01-08T04:51:45.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nrupatunga/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Nrupatunga,,2017-01-08T04:44:26.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,akindolud/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,Akindolu Dada,,2017-01-09T06:33:45.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sn7ghost/notebook8d2f418d7a,Notebook8d2f418d7a,SACHINNOWAL,,2017-01-07T16:31:51.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,teresajurado/first-practice,First practice. ,TeresaJuradoCañero,,2017-01-07T13:37:13.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/fork-of-nn-through-keras-copied-mod-40de711a,Fork of NN through Keras *Copied* mod 40de711a,DDgg,,2017-01-07T10:13:11.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hbk008/nn-through-keras-copied-mod,NN through Keras *Copied* mod,HimanshuHbk,,2017-01-07T05:17:30.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wjholst/notebook7ba604292c,Notebook7ba604292c,Bill Holst,,2017-01-07T01:03:27.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gtrimarc/visualizing-pca-with-leafs,Visualizing PCA with Leafs,Maurolycus,,2017-01-06T16:36:14.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,qilishia/notebook4dfffe3331,Notebook4dfffe3331,QILISHIa,,2017-01-06T06:46:37.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,qilishia/notebook9dd0adb308,Notebook9dd0adb308,QILISHIa,,2017-01-06T06:46:29.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xiaowang111/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,xiaowang,,2017-02-14T02:17:58.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,orionnr/notebookea89a12a45,Notebookea89a12a45,BlueGold,,2017-01-06T03:00:48.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sonder/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,DS,,2017-01-06T00:27:13.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,daniboy000/notebook54816798c6,Notebook54816798c6,Daniel de Aguiar,,2017-01-06T00:01:40.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,logits/notebook86b73c83f6,Notebook86b73c83f6,logits,,2017-01-06T17:59:45.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,logits/leaf-playground,leaf playground,logits,,2017-01-06T00:55:17.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sonder/feature-extraction-from-images,feature extraction from images,DS,,2017-01-05T21:39:17.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,clevereve/notebook632648a794,Notebookda47502842,cleve,,2017-01-05T14:31:42.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xiaowang111/nn-through-keras-copied-mod,NN through Keras *Copied* mod,xiaowang,,2017-01-05T13:11:32.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sramirez/notebook17bf3529e4,Notebook17bf3529e4,ademdum,,2017-01-05T11:39:03.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dkr1993/simple-tuned-random-forest-classifier,Simple tuned Random Forest Classifier,duanran,,2017-01-05T10:35:54.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mistymis/notebookf47921443d,Notebook5411a96f0b,joshua.park,,2017-01-05T10:23:21.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sonder/leaf-prediction,leaf prediction,DS,,2017-01-05T09:58:57.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,notom234/notebookf90213fa74,Notebookf90213fa74,notom234,,2017-01-05T07:47:20.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,virzy7/feature-extraction-from-images-6febf474,feature extraction from images 6febf474,ChrisChia,,2017-01-05T03:19:56.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,virzy7/feature-extraction-from-images,feature extraction from images,ChrisChia,,2017-01-05T03:19:38.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kushalmiglani01/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,KushalMiglani,,2017-01-04T13:50:44.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,luokai/feature-extraction-from-images,feature extraction from images,dolly,,2017-01-04T13:05:28.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,epuertas/notebookcb3218a20d,Notebookcb3218a20d,Enrique Puertas,,2017-01-04T10:49:41.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,te87037/leaf-classification-using-svm-ed127f05,Leaf Classification using SVM ed127f05,Rexlin,,2017-01-04T07:54:44.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,te87037/leaf-classification-using-svm,Leaf Classification using SVM,Rexlin,,2017-01-04T07:54:14.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wpf5511/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,wpf5511,,2017-01-04T07:38:58.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,artie88/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yongjin Cho,,2017-01-04T05:14:23.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pappumoni/notebookdf5e3d8a27,Notebook4de226009d,Pappumoni Bordoloi,,2017-01-04T05:02:36.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pappumoni/notebook40aef93204,Notebook33daa8f213,Pappumoni Bordoloi,,2017-01-04T05:01:12.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pappumoni/notebook3dcd7842b8,Notebookbcd2bf1f89,Pappumoni Bordoloi,,2017-01-04T05:00:35.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yevgenpukhta/sketch,sketch,Yevgen Pukhta,,2017-01-03T19:36:13.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yevgenpukhta/neural-network-through-keras-9793789d,Neural Network through Keras 9793789d,Yevgen Pukhta,,2017-01-03T19:34:42.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yevgenpukhta/neural-network-through-keras,Neural Network through Keras,Yevgen Pukhta,,2017-01-03T16:59:30.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yevgenpukhta/rforest-with-calibration-score-0-07948,RForest with calibration Score=0.07948,Yevgen Pukhta,,2017-01-03T16:26:32.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/10-classifier-showdown-in-scikit-learn-6935da07,10 Classifier Showdown in Scikit-Learn 6935da07,Robert J. Regalado,,2017-01-03T15:55:53.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,luokai/rf-0-98-on-test-data-that-20-of-train,rf 0.98 on test data that %20 of train,dolly,,2017-01-04T09:35:18.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,clevereve/3-basic-classifiers-and-features-correlation,3 Basic Classifiers and Features Correlation,cleve,,2017-01-05T14:07:14.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bestdaze/feature-extraction-from-images,feature extraction from images,BestDaze,,2017-01-03T13:15:49.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,luojiejian/feature-extraction-from-images,feature extraction from images,luoba,,2017-01-03T08:20:39.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zbyte64/skflow-dnn-classifier,skflow DNN classifier,JasonKraus,,2017-01-03T00:19:04.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yevgenpukhta/notebook6b6e4ff22d,Notebook6b6e4ff22d,Yevgen Pukhta,,2017-01-02T20:33:14.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,johanvermeire/notebookd56de86c46,Notebookd56de86c46,JohanVermeire,,2017-01-02T14:06:14.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,clevereve/notebook3c7c777d4d,Notebook3c7c777d4d,cleve,,2017-01-02T13:50:27.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rparra/notebook809b2b0144,Notebook809b2b0144,Rodrigo Parra,,2017-01-02T11:53:07.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,puhoshville/nn-through-keras-copied-9e12dea0,NN through Keras *Copied* 9e12dea0,Dmitrii Pukhov,,2017-01-02T16:03:13.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,puhoshville/nn-through-keras-copied-94c0f3f4,NN through Keras *Copied* 94c0f3f4,Dmitrii Pukhov,,2017-01-01T00:40:19.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,puhoshville/nn-through-keras-copied,NN through Keras *Copied*,Dmitrii Pukhov,,2017-01-01T00:32:05.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,quark6/leaf-classification,Leaf classification,NormanIsrael,,2017-01-02T18:48:24.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tainguyen/nn-through-keras-copied-mod,NN through Keras *Copied* mod,TAI_NGUYEN,,2016-12-31T07:25:23.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tainguyen/feature-extraction-from-images,feature extraction from images,TAI_NGUYEN,,2016-12-31T07:24:16.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,selmahfo/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,El Mahfoudi Saad,,2016-12-29T22:26:07.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,clevereve/notebook39f1bff85f,Notebook39f1bff85f,cleve,,2016-12-29T12:53:23.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ipranata/my-first-script,My First Script,L03ng,,2016-12-29T10:31:24.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,orionnr/notebook105e5af71e,Notebook105e5af71e,BlueGold,,2016-12-29T05:41:18.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hoondori/notebooke203cd9fdc,Notebooke203cd9fdc,SeonghoonJung,,2016-12-28T14:22:23.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nikkou/notebookfaf93cd6d5,Notebookfaf93cd6d5,Alexander Lyzhov,,2017-07-05T10:32:29.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,feirie/notebook0ecade71ad,Notebook0ecade71ad,Feirie,,2016-12-28T01:00:40.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,puhoshville/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Dmitrii Pukhov,,2016-12-27T12:11:28.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yongyang/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,echo,,2016-12-27T07:58:07.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,louisguth/train-random-forest,train_random_forest,Louis Guthmann,,2016-12-27T08:44:35.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,DDgg,,2016-12-27T04:39:50.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sn2234/keras-convnet-lb-0-0052-w-visualization-e33f601d,Keras ConvNet LB 0.0052 w/ Visualization e33f601d,sn2234,,2016-12-26T23:59:45.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,akindolud/nn-through-keras-copied-mod,NN through Keras *Copied* mod,Akindolu Dada,,2016-12-29T15:19:41.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,murgev/neural-network-through-keras,Neural Network through Keras,muratgevrekci,,2016-12-25T20:59:14.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,upgrade/notebook474d7432ab,Notebook474d7432ab,Sai Aditya,,2016-12-25T18:30:43.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pursuingyu/nn-through-keras-copied-mod,NN through Keras *Copied* mod,Pursuing,,2017-01-01T12:58:49.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,f2ostie/neural-network-through-keras,Neural Network through Keras,f2ostie,,2016-12-25T14:05:03.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nkimi2016/mytest,mytest,nkimi2016,,2016-12-25T02:04:56.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bcpmax/notebook619f2fb71c,Notebook619f2fb71c,BrandonPurvis,,2016-12-24T23:51:39.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,aolejnichenko/notebookddf58efb25,Notebookddf58efb25,Alexander Oleynichenko,,2016-12-23T12:48:35.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,f2ostie/shapelets,Shapelets,f2ostie,,2016-12-22T18:37:34.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,twarakavi/feature-extraction-from-images,feature extraction from images,AdiTwarak,,2016-12-22T16:00:26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mingze/notebookb71e79af8e,Notebookb71e79af8e,Nicolas Ni,,2016-12-22T14:25:35.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,adiwijaya/notebook9026624159,Notebook9026624159,AdiWijaya,,2016-12-22T08:15:44.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,skyeagle/notebookd9e6080454,Notebookd9e6080454,XiTu,,2016-12-22T00:31:52.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ajith12/notebook9f1ec4b9f4,Notebook9f1ec4b9f4,Aj12,,2016-12-21T05:59:45.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ymcdull/nn-through-keras-copied-mod-forked,NN through Keras *Copied* mod（forked) ,Yunfeng Zhu,,2016-12-20T17:29:05.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ymcdull/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yunfeng Zhu,,2016-12-20T17:05:55.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tiagobarbosa/notebooka101feed04,Notebooka101feed04,TiagoBarbosa,,2016-12-20T16:34:28.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/simple-keras-1d-cnn-features-split-6f7086b6,Simple Keras 1D CNN + features split 6f7086b6,Alex Glinsky,,2016-12-21T12:58:21.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/simple-keras-1d-cnn-features-split,Simple Keras 1D CNN + features split,Alex Glinsky,,2016-12-20T09:14:56.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,thomeou/notebook5885a25015,Notebook5885a25015,thomeou,,2016-12-20T05:56:42.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,duanhb/feature-extraction-from-images,feature extraction from images,DuanHB,,2016-12-20T05:04:33.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,iteglas/first-notebook,First Notebook,iteglas,,2016-12-19T19:03:30.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hpatel86/notebookc00c91d5e2,Notebookc00c91d5e2,Harsit Patel,,2016-12-19T13:23:34.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,debabhik/notebook3874ab1810,Notebook046882b064,AbhikDeb,,2016-12-19T12:19:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kumarabhishek9/notebookfbbb21d376,Notebook927a904927,AbhishekKumar,,2016-12-18T14:54:23.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,midhun/notebook950cb7b5bb,Notebook3c02db35ed,midhu n n,,2016-12-18T06:02:20.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ravichinoy/notebook942e55f0c0,Notebook778223d570,RaviChinoy,,2016-12-18T01:26:55.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,saracardoso/notebook3b72582a45,Notebook3b72582a45,Sara Cardoso,,2016-12-17T23:17:26.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,d3potf/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,D3PO,,2016-12-17T11:08:16.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,khosravifard/notebook774665f9f5,Notebookd141c636fe,khosravifard,,2016-12-17T08:11:20.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jbuhler/notebookba88e860da,Notebookba88e860da,JuanBuhler,,2016-12-16T20:11:46.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gongzhitaao/mlp-with-image-pixels,MLP with image pixels,gongzhitaao,,2016-12-16T19:12:35.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gongzhitaao/rescale-aspect-ratio-kept-raw-images,Rescale (aspect ratio kept) raw images,gongzhitaao,,2016-12-16T22:07:08.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wangqixun/notebook23f23463cc,Notebook23f23463cc,Naonao,,2016-12-16T17:57:27.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andreytapuzov/keras-convnet-lb-0-0052-w-visualization,Keras ConvNet LB 0.0052 w/ Visualization,AndreyTapuzov,,2016-12-16T15:04:42.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dc4data/notebooke66e3be516,Notebooke66e3be516,DC4data,,2016-12-16T13:34:01.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andreytapuzov/leaf-classification-dc,Leaf classification - DC,AndreyTapuzov,,2016-12-16T13:10:41.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dc4data/leaf-classification-dc,Leaf classification - DC,DC4data,,2016-12-16T10:08:18.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,qianlyu/notebook8ff7d8eed8,Notebook8ff7d8eed8,Qian Lyu,,2016-12-15T21:47:30.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,abhmul/notebook8bc848521e,Notebookc14ff785a2,AbhijeetMulgund,,2016-12-15T19:22:37.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,edomedo/feature-extraction-from-images-2,feature extraction from images #2,edomedo,,2016-12-16T08:59:33.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,edomedo/feature-extraction-from-images,feature extraction from images,edomedo,,2016-12-16T08:59:30.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,peymanml/notebooked0acde552,Notebooked0acde552,Peiman,,2016-12-15T08:39:24.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shahbazi/notebook1df424851d,Notebook1df424851d,m.shahbazi,,2016-12-15T08:14:56.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jakelee/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,JakeLee,,2016-12-15T04:55:59.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gongzhitaao/mlp-with-feature-data,MLP with feature data,gongzhitaao,,2016-12-16T14:04:42.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gongzhitaao/notebook6008a17364,Notebook6008a17364,gongzhitaao,,2016-12-14T21:20:41.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kanishkapsingh2/notebookb57f3e800d,Notebookb57f3e800d,kanishkapsingh,,2016-12-14T11:12:59.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,farewellxd/notebook25f7f175d9,Notebook25f7f175d9,LU YA JUNG,,2016-12-14T09:04:36.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,youzi2016/notebook43c197ebe9,Notebook43c197ebe9,youzi,,2016-12-14T07:48:14.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,moonlake/notebook2b785bdc8b,Notebook2b785bdc8b,Moonlake,,2016-12-14T02:14:58.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,moonlake/notebookb178b7ddfa,Notebookb178b7ddfa,Moonlake,,2016-12-14T02:14:48.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,louisedeschaetzen/notebooke4fb564f7c,Notebooke4fb564f7c,Louise de Schaetzen,,2016-12-13T19:26:47.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kamanli/notebook4b6d1c6e2d,Notebook4b6d1c6e2d,A.Burak,,2016-12-13T12:56:39.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kamanli/notebookab57e770c8,Notebookab57e770c8,A.Burak,,2016-12-13T12:51:22.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kamanli/notebook12e0053d1c,Notebook12e0053d1c,A.Burak,,2016-12-13T12:50:54.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nasiri/notebook935a188bc4,Notebook935a188bc4,sajad.nasiri,,2016-12-12T19:58:07.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,angelmm/leaf-keras-2layerednn,Leaf_Keras_2layeredNN,churandy,,2016-12-12T17:05:14.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,woshikangfei/notebook52238e16a7,Notebook52238e16a7,kangfei,,2016-12-12T09:30:35.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shaha91/rforest-with-calibration-score-0-07948,RForest with calibration Score=0.07948,shaha,,2016-12-11T13:10:56.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shaha91/10-classifier-showdown-in-scikit-learn-9083449f,10 Classifier Showdown in Scikit-Learn 9083449f,shaha,,2016-12-11T11:45:46.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mawady/notebook0077643d81,Notebook0077643d81,Mohamed Elawady,,2016-12-10T17:47:09.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jinrui/nn-through-keras-copied-mod,NN through Keras *Copied* mod,jimmyjin,,2016-12-10T13:09:24.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jinrui/leaf-classification-richarlee,Leaf Classification-richarlee,jimmyjin,,2016-12-10T12:12:48.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jinrui/notebook0cff30484a,Notebook0cff30484a,jimmyjin,,2016-12-10T13:14:53.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xhuang25/my-first-random-forest-run-score-0-12,My first random forest run (score=0.12),Xingxing Huang,,2016-12-09T08:05:16.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nnn211/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Hello nnn,,2016-12-09T05:38:40.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anwenq/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,AnwenQ,,2016-12-09T01:29:47.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anwenq/feature-extraction-from-images,feature extraction from images,AnwenQ,,2016-12-09T01:29:14.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pomcat/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,AndrewPolyakov,,2016-12-08T23:35:32.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,allen266/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Allen,,2016-12-08T19:43:14.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,davesteps/notebookee153f2b75,Notebookb871eed115,davesteps,,2016-12-08T17:47:31.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhonghuir/notebookbbeafb084e,Notebookbbeafb084e,Melody,,2016-12-08T17:31:43.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhonghuir/classifying-leaf-data-with-nearest-neighbors,Classifying Leaf Data with Nearest Neighbors,Melody,,2016-12-08T17:23:00.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xhxr219/notebook28811c448e,Notebook28811c448e,xhxr219,,2016-12-08T15:56:51.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jdpc557/notebook5b7a3d3cef,Notebook5b7a3d3cef,João Costa,,2016-12-08T13:54:55.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jdpc557/leaf-tf,leaf-tf,João Costa,,2017-02-04T19:06:22.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ecrtk8/leaf-classification,leaf classification ,ecrtk8,,2016-12-07T17:05:02.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gauravjoshi1986/leaf-classification-through-keras,Leaf Classification through-keras,GauravJoshi,,2018-04-06T10:43:06.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ryanjiang1014/notebook62c3f7ebd8,Notebookb46215b73b,Ryanjiang1014,,2016-12-06T21:15:03.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ryanjiang1014/notebook79f4611974,Notebook79f4611974,Ryanjiang1014,,2016-12-06T21:10:28.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ryanjiang1014/notebook3540ddbfff,Notebook87c24657ae,Ryanjiang1014,,2016-12-06T20:59:05.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ryanjiang1014/notebook5a553e23ab,Notebook5a553e23ab,Ryanjiang1014,,2016-12-06T20:43:50.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ryanjiang1014/notebook3ac936831e,Notebook3ac936831e,Ryanjiang1014,,2016-12-06T20:37:03.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pizzaslice/notebook64f2209e18,Notebook64f2209e18,Andrew Hillard,,2016-12-06T20:33:23.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ecrtk8/notebooka479d19e18,Notebooka479d19e18,ecrtk8,,2016-12-06T19:13:38.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wufasa/test-py,Test Py,Jvranken,,2016-12-06T15:20:07.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,vincentt/testing,Testing,VincentTatan,,2016-12-06T10:44:58.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,richarlee/leaf-classification-richarlee,Leaf Classification-richarlee,CharlLee,,2016-12-15T08:46:52.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pandukovur/notebookc52c2b2898,Notebook3e10021faa,Pandu Rangacharyulu Kovur,,2016-12-06T07:01:40.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pizzaslice/neural-network-through-keras,Neural Network through Keras,Andrew Hillard,,2016-12-06T02:49:42.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chaitu56/neural-network-through-keras,Neural Network through Keras,Chaitanya Rajasekhar,,2016-12-05T18:27:47.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,richarlee/leaf-classification,leaf-classification,CharlLee,,2016-12-05T10:59:30.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,maciejmarek/notebook8fea8012af,Notebook2afc8633d8,MaciejMarek,,2016-12-05T08:44:14.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hamidsardar/neural-network-through-keras,Neural Network through Keras,HamidSardar,,2016-12-05T04:35:02.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mwa259/nn-keras,nn keras,ibprofin,,2016-12-05T02:36:59.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chaitu56/classifying-leaf-data-with-nearest-neighbors,Classifying Leaf Data with Nearest Neighbors,Chaitanya Rajasekhar,,2016-12-04T22:13:28.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/first-attempt,First attempt,Alex Glinsky,,2016-12-06T21:44:10.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pkuwalker/notebookff0c580f19,Notebookff0c580f19,zhangs,,2016-12-04T04:15:29.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,data3group/notebook993f3fb12f,Notebook993f3fb12f,studyisfun,,2016-12-03T22:20:43.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,negation/work-in-progress,Work In Progress,NegatioN,,2016-12-03T21:12:58.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kainaguo/notebook53bcecf24b,Notebook53bcecf24b,Kaina_G,,2016-12-03T18:21:44.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xhuang25/nn-through-keras-copied,NN through Keras *Copied*,Xingxing Huang,,2016-12-03T05:39:10.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xhuang25/neural-network-through-keras,Neural Network through Keras,Xingxing Huang,,2016-12-03T05:25:19.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anjithgeorge/nn-through-keras-copied-mod,NN through Keras *Copied* mod,Anjith George,,2016-12-03T04:50:03.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shubhamagrawal/notebook59ea1d99f9,Notebook59ea1d99f9,Shubham Agrawal,,2017-03-18T22:45:10.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,odysseask/linear-svm-attempt,Linear SVM Attempt,Odysseas K.,,2016-12-02T15:40:10.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexionby/notebook5c215ccbe6,Notebook5c215ccbe6,Alex Glinsky,,2016-12-02T10:08:08.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,coppensg/notebook7f7b8dce21,Notebook7f7b8dce21,Senwog,,2016-12-01T15:56:08.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,coppensg/notebookb1cc37b723,Notebookb1cc37b723,Senwog,,2016-12-01T15:49:26.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gvenkat/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Gautam Venkatraman,,2016-12-01T12:45:36.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sumihan/feature-extraction-from-images,feature extraction from images,SumiHan,,2016-12-01T10:52:12.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,daneelrolivaw1/basic-neural-network-using-tensorflow,Basic Neural Network using Tensorflow,Daneelrolivaw,,2016-12-01T08:46:35.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kirovverst/notebook6c3dd5c349,Notebook6c3dd5c349,KirovVerst,,2016-11-30T20:18:39.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wenjin/visualize-leaf-images,Visualize Leaf Images,Wenjin,,2016-11-30T16:41:47.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,andeliero/notebook2c8ba013d9,Notebook2c8ba013d9,AlbertoAndeliero,,2016-11-30T12:55:04.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,linkinparkcs/sketch,sketch,ShinodaC,,2016-11-30T05:55:21.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,subhodeepstat75/notebook3a51eb704b,Notebook3a51eb704b,Subhodeep,,2016-11-29T08:05:52.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xhuang25/notebookdf92c89986,Notebookdf92c89986,Xingxing Huang,,2016-11-29T07:32:39.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/keras-neural-net-multiclass-problem,Keras-Neural-Net-multiclass-problem,DDgg,,2016-11-30T03:27:57.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/fork-of-nn-through-keras-copied-mod,Fork of NN through Keras *Copied* mod,DDgg,,2016-12-01T08:06:27.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,vikasp/notebook25a2562005,Notebook25a2562005,Vikas Pandey,,2016-11-28T16:02:30.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kyfoop/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,kyfoop,,2019-06-17T08:16:46.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/nn-through-keras-copied,NN through Keras *Copied*,DDgg,,2016-11-28T06:51:17.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ynhdng/notebook77fc645db8,Notebook77fc645db8,ynhdng,,2016-11-28T05:13:35.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mawady/notebook1fad844c6e,Notebook1fad844c6e,Mohamed Elawady,,2016-11-27T23:12:39.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mawady/notebook0d8d146102,Notebook0d8d146102,Mohamed Elawady,,2016-11-27T23:10:16.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ryankenning/notebookf11f0ddfd1,Notebookf11f0ddfd1,RyanKenning,,2016-11-27T14:48:53.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,edmwanza1/notebook0abd4ff7f6,Notebook0abd4ff7f6,Ed Mwanza,,2016-11-27T11:29:59.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,edmwanza1/notebook666f49417c,Notebook666f49417c,Ed Mwanza,,2016-11-27T10:21:49.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kzlav1/notebook19eee74e49,Notebook19eee74e49,Khalil,,2016-11-26T23:44:03.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nathanyee/notebook9ca63345e4,Notebook9ca63345e4,NathanYee,,2016-11-26T21:12:12.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,waterfling2008/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,hanwei2008,,2016-11-26T05:43:42.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kzlav1/notebookf2445cdd49,Notebookf2445cdd49,Khalil,,2016-11-25T20:53:31.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jianxin/notebook2d36a1dc57,Notebook2d36a1dc57,jianxin,,2016-11-25T20:52:34.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rosfeber/notebookc34452493b,Notebookc34452493b,rosfeber,,2016-11-25T19:08:55.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ymcdull/neural-network-through-keras,Neural Network through Keras,Yunfeng Zhu,,2016-11-25T14:37:35.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/fork-of-10-classifier-showdown-in-scikit-learn,Fork of 10 Classifier Showdown in Scikit-Learn,Robert J. Regalado,,2016-11-25T14:19:07.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rojre1979/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Robert J. Regalado,,2016-11-25T14:10:24.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,valeryvladimirovich/notebooke9e3b49545,Notebooke9e3b49545,Valery Silivanov,,2016-11-24T18:46:30.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ttusuresh/neural-network-through-keras,Neural Network through Keras,Swathi_TTU,,2016-11-24T03:39:11.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kyfoop/notebookb68b596b8d,Notebookb68b596b8d,kyfoop,,2016-11-23T11:49:37.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,freedomabcd/notebookdffd8fbadf,Notebookdffd8fbadf,ShijieLi,,2016-11-23T07:35:43.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,snojekba/notebook00c6957f7b,Notebook00c6957f7b,Sebastian,,2016-11-22T20:41:26.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ganliu/notebookbe7cd2a522,Notebookbe7cd2a522,Gan,,2016-11-23T03:15:48.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,agoncharenko1992/simple-network-with-lasagne,Simple network with Lasagne,agoncharenko1992,,2016-11-28T04:29:20.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,geoffcc/scikitlearn-mlp,scikitlearn_MLP,Geoff,,2016-11-26T10:50:53.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,agoncharenko1992/simple-ensemble-nn-and-logistic-regression,Simple ensemble NN and Logistic Regression,agoncharenko1992,,2016-11-22T03:27:33.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,youngkil9999/notebook05646bad8c,Notebook05646bad8c,Jayh,,2016-11-22T00:54:26.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,youngkil9999/notebookc5c4ec06e5,Notebookc5c4ec06e5,Jayh,,2016-11-22T00:10:00.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rossxsy/fork-of-eda-and-a-logistic-regression-lb-0-04,Fork of EDA and a Logistic Regression (LB:0.04),RossXu,,2016-11-21T15:59:05.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,divyasr/feature-extraction-from-images,feature extraction from images,DIVYASRINIVASAN,,2016-11-21T12:36:45.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rossxsy/notebook8e2d4a9d90,Notebook8e2d4a9d90,RossXu,,2016-11-21T04:04:25.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,angelajinyq/test-submission,test_submission,AngelaJin,,2016-11-20T21:58:21.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,toddgaron/leaf-classification-attempt-0,Leaf Classification Attempt 0,ToddGaron,,2016-11-19T18:10:18.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,passionofml/notebook80053e7f0f,Notebookf03f88e5fd,PoojaBiswas,,2016-11-19T15:43:59.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,leonmax/10-classifier-showdown-in-scikit-learn-66be0d6a,10 Classifier Showdown in Scikit-Learn 66be0d6a,YangmingHuang(leonmax),,2016-11-19T06:24:21.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pmdamora/custom-vs-provided-leaf-data,Custom vs. Provided Leaf Data,Paul D'Amora,,2016-11-18T19:51:17.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ttusaman/notebooke86e090acf,Notebooke86e090acf,ttusamanbina,,2016-11-18T19:29:33.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,philippgaertner/notebook4913f83397,Notebook051f3f9c8a,Philipp Gärtner,,2016-11-18T17:52:56.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,vasanthegde/notebook37ac3625a1,Notebook37ac3625a1,VasanthHegde,,2016-11-18T10:09:31.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,erikolson/notebook3c67436386,Notebook75eb8992b4,Erik Olson,,2016-11-18T03:07:30.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,babatee/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,BabatundeAdekunle,,2016-11-18T01:29:29.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,icecube314/keras-3-layer-nn,Keras 3 layer NN,PiCubeisnot30,,2016-11-17T20:46:32.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,icecube314/keras-neural-network,Keras neural network,PiCubeisnot30,,2016-11-17T20:34:49.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,skibaai/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Artem Skiba,,2016-11-17T09:54:31.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,maggy96/neural-network-through-keras,Neural Network through Keras,Magnus,,2016-11-16T13:12:16.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,datadatadata/notebook7014055cab,Notebook7014055cab,iotsj,,2016-11-16T09:12:48.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,leonmax/feature-extraction-from-images-6a41d1d5,feature extraction from images 6a41d1d5,YangmingHuang(leonmax),,2016-11-16T07:39:47.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,praschau7/notebookeead160869,Notebookeead160869,PrasannaChaudhary,,2016-11-16T04:11:37.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,leonmax/feature-extraction-from-images,feature extraction from images,YangmingHuang(leonmax),,2016-11-16T04:08:19.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wangweiching/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,WeiChingWang,,2016-11-15T17:36:47.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,coppensg/notebook2d36ced3c0,Notebook2d36ced3c0,Senwog,,2016-11-15T00:47:38.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/multinomial-logistic-regression-mod,Multinomial logistic regression (mod),DDgg,,2016-11-15T04:16:43.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tobikaggle/multinomial-logistic-regression-0-02983,Multinomial logistic regression 0.02983,DDgg,,2016-11-14T08:49:13.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sabarathinam/3-basic-classifiers-and-features-correlation,3 Basic Classifiers and Features Correlation,saba,,2016-11-14T01:22:45.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,odysseask/basic-neural-network-using-tensorflow,Basic Neural Network using Tensorflow,Odysseas K.,,2016-11-13T13:02:32.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mikell/neural-network-through-keras,Neural Network through Keras,insist,,2016-11-13T10:30:46.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pankajtamhane/3-basic-classifiers-and-features-correlation,3 Basic Classifiers and Features Correlation,PankajTamhane,,2016-11-11T14:40:33.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sjia723/neural-network-through-keras,Neural Network through Keras,ShinJiah,,2016-11-10T12:48:05.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,praschau7/notebook1b90cbf35d,Notebook1b90cbf35d,PrasannaChaudhary,,2016-11-09T23:29:12.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rajdev/notebookd5323e4e59,Notebook5beba3c489,devM,,2016-11-09T16:22:08.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,geoffcc/leaf1,Leaf1,Geoff,,2016-11-09T00:05:27.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rickycheng/notebookbda018c3c5,Notebookbda018c3c5,Ricky,,2016-11-07T12:44:27.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,skibaai/notebookeb3f90a7a7,Notebookeb3f90a7a7,Artem Skiba,,2016-11-07T09:33:38.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gopigrip7/feature-extraction-from-images,feature extraction from images,Gopinath J,,2016-11-06T13:03:38.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mwransky/notebook03f3a37e8c,Notebook03f3a37e8c,Ahsoka,,2016-11-06T00:38:54.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rj2017/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,rj2017,,2016-11-05T20:23:47.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tsvetk0ff/rrrrr,rrrrr,Tsvetkov Igor,,2016-11-05T20:10:14.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,evgeniymalishev/randomforest,RandomForest,Evgeniy Malishev,,2016-11-04T14:10:55.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,evgeniymalishev/notebookbd09b43721,Notebookbd09b43721,Evgeniy Malishev,,2016-11-04T14:07:04.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,evgeniymalishev/notebook061ed132f8,Notebook061ed132f8,Evgeniy Malishev,,2016-11-04T12:25:47.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cyrano5614/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,inhansong,,2016-11-04T10:05:19.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,icecube314/script00121213342,script00121213342,PiCubeisnot30,,2016-11-03T19:00:49.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rossxsy/eda-and-a-logistic-regression-lb-0-04,EDA and a Logistic Regression (LB:0.04),RossXu,,2016-11-04T01:20:21.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,esoeff/notebooke28fe79e79,Notebooke28fe79e79,David Ehsoev,,2016-10-31T13:20:49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shreyaarora/testing-1-2-3,"Testing 1,2,3",Shreya Arora,,2016-10-30T16:17:58.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shreyaarora/notebookbf777eef0f,Notebookbf777eef0f,Shreya Arora,,2016-10-30T16:06:43.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,i0riban/feature-extraction-from-images,feature extraction from images,IvanDobrovolskiy,,2016-10-30T15:56:57.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ftrestour/notebook87abb7f877,Notebook87abb7f877,FabienTrestour,,2016-10-28T11:29:57.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bburns/notebook4dad39628f,Notebook4dad39628f,Brian Burns,,2016-10-28T09:30:33.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chbimo/notebookee6b031cb5,Notebookee6b031cb5,chbimo,,2016-10-28T07:08:57.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,icecube314/cv-log-reg-for-leaf-classification,CV log reg for Leaf Classification,PiCubeisnot30,,2016-11-08T10:07:41.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,davidyanez/test1,test1,DavidYanez,,2016-10-27T20:10:56.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,grizlk/neural-network-through-keras,Neural Network through Keras,Grizlk,,2020-05-28T16:06:39.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mikelangel/3-basic-classifiers-and-features-correlation,3 Basic Classifiers and Features Correlation,Mikelangel,,2016-10-29T11:16:01.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,icecube314/simple-random-forest-for-lead-classification,Simple Random Forest for Lead Classification,PiCubeisnot30,,2016-10-26T20:10:56.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kishensurajp/notebook8e5e97229c,Notebook8e5e97229c,mistborn,,2016-10-26T16:24:08.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,vicomedina/notebook1275d8bb6d,Notebook1275d8bb6d,Vico,,2016-10-25T15:40:28.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,geoheil/feature-extraction-from-images,feature extraction from images,geoHeil,,2016-10-25T08:53:00.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,gstbimo/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,gbimo,,2020-12-17T14:59:39.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bmatthewtaylor/bmt-test-1,bmt test 1,AspiringGuru,,2016-10-25T02:19:27.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,towhid1/custom-vs-provided-leaf-data,Custom vs. Provided Leaf Data,Nurul Akter Towhid,,2016-10-24T20:43:24.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yusridh/custom-vs-provided-leaf-data,Custom vs. Provided Leaf Data,Yusri,,2017-02-01T21:33:10.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ktimothy/maintest,mainTest,Timothy K,,2016-10-24T15:03:14.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fangdongxiang/notebook3eb0805a8d,Notebook3eb0805a8d,tjoe,,2016-10-24T14:52:01.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,stogim/notebook6654769e24,Notebook6654769e24,Stogica Máté,,2016-10-24T09:59:36.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wangweiching/feature-extraction-from-images,feature extraction from images,WeiChingWang,,2016-10-23T19:11:27.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alokranjan1234/notebook3cb86682e9,Notebook070e13eb83,AlokRanjan,,2016-10-22T19:11:45.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,leonmax/tryout,tryout,YangmingHuang(leonmax),,2016-10-22T09:06:35.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bsparks/notebookb8dbdc31ba,Notebookb8dbdc31ba,bsparks,,2016-10-21T21:15:46.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jonnyevans/feature-extraction-from-images-2,feature extraction from images #2,JonnyEvans,,2016-10-21T14:32:28.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,dezmoanded/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Paul Lorenz,,2016-10-21T13:55:44.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yrowe483/notebook81a07c02dd,Notebook2b1f6bb193,rowe,,2016-10-21T11:51:46.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,thebr3w/leaf-classifier-kneighborsclassifier,Leaf Classifier: KNeighborsClassifier ,Pavel Malikov,,2016-10-21T11:31:43.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yogiman/feature-extraction-from-images,feature extraction from images,yogiman,,2016-10-21T09:00:31.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,adriana/notebook201a7b8049,Notebook201a7b8049,hidden player,,2016-10-21T03:23:13.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yhyu13/neural-network-through-keras,Neural Network through Keras,Hang(Yohan) Yu,,2016-10-21T02:49:06.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yrowe483/10-classifier-showdown-in-scikit-learn-db1d474d,10 Classifier Showdown in Scikit-Learn db1d474d,rowe,,2016-10-21T00:39:19.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,b10100101010101/notebook02e738d9de,Notebook02e738d9de,11001011010010101010,,2016-10-21T01:19:40.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ahasha/messing-around,messing_around,ahasha,,2016-10-20T22:42:37.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,maevalence/notebook96582cb903,Notebook96582cb903,Maeve,,2016-10-20T22:26:28.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mrquan/notebook13b86e36a5,Notebook6a0145e4ad,Quan Nguyen,,2016-10-20T22:35:53.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,perouz/notebook29e351bd59,Notebook29e351bd59,perouz,,2016-10-20T22:07:19.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mdimercurio/test-submission,test_submission,Matthieu Di Mercurio,,2016-10-20T23:04:06.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yrowe483/notebook88541bf6a1,Notebook88541bf6a1,rowe,,2016-10-20T07:23:07.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,lesnio/10-classifier-showdown-in-scikit-learn-660a36c4,10 Classifier Showdown in Scikit-Learn 660a36c4,lesnio,,2016-10-20T02:48:13.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wisape/leaf-leaf-done,Leaf Leaf Done,Wisape,,2016-10-19T09:26:10.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,charliewillard/neural-network-through-keras,Neural Network through Keras,CharlieW,,2016-10-19T09:06:42.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,thebr3w/notebookbcc6a3cec8,Notebookbcc6a3cec8,Pavel Malikov,,2016-10-19T07:17:38.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wujia000/notebook339fc3c496,Notebook339fc3c496,JiaWu,,2016-10-19T06:53:44.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jaylkim/notebooke05083f9c1,Notebooke05083f9c1,J,,2016-10-18T15:43:06.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,elusivedelusive/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Jonatan Hoff,,2016-10-18T13:32:23.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yrowe483/notebookb3264b61ef,Notebookb3264b61ef,rowe,,2016-10-18T12:31:44.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,thebr3w/notebookfb202a0d81,Notebookfb202a0d81,Pavel Malikov,,2016-10-18T07:05:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,axecalever/feature-extraction-from-images,feature extraction from images,Axec,,2016-10-18T06:59:28.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rtimpe/test-kernel,test kernel,rtimpe,,2016-10-18T06:16:49.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,megabhyse/feature-extraction-from-images-1,feature extraction from images #1,Aashay Bhise,,2016-10-16T21:53:11.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chrisml/sketch,sketch,chris,,2016-10-16T16:34:44.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chrisml/nothing-serious,Notebook3b93ed8811,chris,,2016-10-16T15:12:58.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chrisml/notebook11811c27fb,Notebook11811c27fb,chris,,2016-10-16T13:12:25.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,moonbury/leaf-classification-using-svm,Leaf Classification using SVM,Keith,,2016-12-10T05:44:12.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,coppensg/notebook9d26dd9d81,Notebook9d26dd9d81,Senwog,,2016-10-15T18:47:57.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anantzoid/neural-network-through-keras,Neural Network through Keras,anantzoid,,2016-10-15T12:53:04.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,diegospereira/script,script,Diego Pereira,,2016-10-15T04:09:27.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,diegospereira/notebook691ff825af,Notebook691ff825af,Diego Pereira,,2016-10-15T04:07:01.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,timothymiko/notebook1eecbc77f9,Notebook1eecbc77f9,Timothy Miko,,2016-10-15T01:13:44.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cogsbox/neural-network-through-keras,Neural Network through Keras,alexhallam,,2016-10-14T18:15:57.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,joheras/notebook9a30bf2991,Notebook9a30bf2991,Jónathan Heras,,2016-10-14T14:55:50.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,darrenchan/notebook4dd8023157,Notebookedbf271b91,DarrenChan陈驰,,2016-10-14T13:23:43.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apapiu/notebook319edfa4c9,Notebook319edfa4c9,Alexandru Papiu,,2016-10-14T09:09:32.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,wangzhenxjh/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,lusan coder,,2016-10-14T08:04:52.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,vhorvath/notebook17a2c32b54,Notebook17a2c32b54,ViktorHorvath,,2016-10-13T20:32:42.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bbbarbel/notebook8ad951d93f,Notebook8ad951d93f,bbbarbel,,2016-10-13T14:00:55.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ismaila/notebooka55804e6bd,Notebooka55804e6bd,Ismaila Djimera,,2016-10-13T10:04:21.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anantzoid/keras-given-features,Keras - given features,anantzoid,,2016-12-04T07:05:26.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anki08/leaf-clssifier,leaf_clssifier,Ankita Sinha,,2016-10-13T03:45:37.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kosmonautas/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,kosmonautas,,2016-10-12T18:10:29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anki08/logistic-regression-leaf-classification,logistic regression leaf classification,Ankita Sinha,,2016-10-12T17:20:25.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jasonhan/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,jasonHan,,2016-10-12T16:10:26.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anantzoid/notebookfcfdda8093,Notebookfcfdda8093,anantzoid,,2016-10-12T08:12:58.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,philippgaertner/notebook0efe217126,Notebook0efe217126,Philipp Gärtner,,2020-12-13T09:55:19.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,plantsgo/notebook628d430f80,Notebook628d430f80,plantsgo,,2016-10-12T03:44:51.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tcrowson/testing,testing,TristanCrowson,,2016-10-12T02:27:50.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,minggli2015/notebook9c3f4331ae,Notebook9c3f4331ae,Ming,,2016-10-11T23:32:04.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ashtonyqteng/feature-extraction-from-images,feature extraction from images,ashtonteng,,2016-10-11T20:06:22.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,xljxlj/firstly,firstly,jiege,,2016-10-11T13:30:49.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,chatcat/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Alan Schoen,,2016-10-11T03:20:17.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,fabriceyhc/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,FabriceHarel-Canada,,2016-10-11T02:11:26.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,anich003/notebookfb7322d5bb,Notebookfb7322d5bb,Anich003,,2016-10-10T23:18:19.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,frenzykryger/notebook40d958bda6,Notebook40d958bda6,Boris Filippov,,2016-10-10T19:44:46.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jennysy2002/neural-network-through-keras-eb06a7e5,Neural Network through Keras eb06a7e5,Minnilyn,,2016-10-10T17:08:13.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jennysy2002/neural-network-through-keras-1d8ea321,Neural Network through Keras 1d8ea321,Minnilyn,,2016-10-10T16:24:09.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,altrev/keras-grid-search-for-simple-mlp,Keras grid search for simple MLP,Alan,,2016-10-10T12:15:33.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ludviglamm/notebookaa71c9cf54,Notebookaa71c9cf54,Ludvig,,2016-10-09T15:09:23.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sarthak96agarwal/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Sarthak,,2016-10-08T10:11:15.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,lesnio/10-classifier-showdown-in-scikit-learn-bbea6be3,10 Classifier Showdown in Scikit-Learn bbea6be3,lesnio,,2016-10-08T07:42:34.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,datayetian/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Ye Tian,,2016-10-07T13:56:56.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apapiu/notebook6d81617ade,Notebook6d81617ade,Alexandru Papiu,,2016-10-07T02:46:44.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cooperxiong/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Cooper Xiong,,2016-10-06T15:06:25.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kraskevich/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Igor Kraskevich,,2016-10-06T12:23:54.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,cheerdiandian/notebook9be52085f1,Notebook9be52085f1,diandian,,2016-10-06T09:04:41.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apurveyajnik/neural-network-through-keras-b8299a50,Neural Network through Keras b8299a50,Apurve Yajnik,,2016-10-06T04:47:14.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apurveyajnik/neural-network-through-keras-6f2a25d4,Neural Network through Keras 6f2a25d4,Apurve Yajnik,,2016-10-05T18:19:16.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,arjoonn/scoutscript-1,ScoutScript,ArjoonnSharma,,2016-10-04T17:03:03.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shunonoda/testtest,testtest,ShunOnoda,,2016-10-04T13:52:13.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,spikyspider/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Yeshwanth,,2016-10-04T12:03:24.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,inspiron221/notebook6354aeb2e3,Notebook6354aeb2e3,inspiron,,2016-10-04T06:35:00.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,shivam1612/leaf-class,leaf_class,ShivamSachan,,2016-10-03T20:00:55.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,mbcheung/neural-network-through-keras,Neural Network through Keras,MichaelCheung,,2016-10-04T23:02:48.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,lesnio/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,lesnio,,2016-10-03T13:35:15.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jerrywu0904/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,JerryWu,,2016-10-03T05:43:18.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,iamchanchal/randomforest-grid-search,RandomForest_Grid_Search,ChanchalSarkar,,2016-10-03T01:25:33.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jerrywu0904/notebook9c4cde9929,Notebook9c4cde9929,JerryWu,,2016-10-02T21:06:56.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,iamyoda/leaf-logistic,Leaf logistic ,Mayank Kumar,,2016-10-03T13:39:15.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yrowe483/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,rowe,,2016-10-02T03:51:28.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ashish2709/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Ashish,,2016-10-01T23:30:00.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apapiu/notebook232805d70d,Notebook232805d70d,Alexandru Papiu,,2016-10-01T19:39:32.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zavodrobotov/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,ZavodRobotov,,2016-10-31T15:26:24.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,apapiu/notebook35e2507ffa,Notebook35e2507ffa,Alexandru Papiu,,2016-10-01T06:30:18.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,tennissuperstar/notebook963489bf6e,Notebook963489bf6e,AiswaryaSankar,,2016-10-01T04:01:02.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielhuckins/notebookcf30da374f,Notebookcf30da374f,Daniel Huckins,,2016-09-30T19:58:45.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,danielhuckins/svm-attempt-1,svm attempt 1,Daniel Huckins,,2016-09-30T19:59:11.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,redsml/notebookb03141a888,Notebook44d2bee703,reds,,2016-10-02T22:39:11.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,franknet/10-classifier-showdown-in-scikit-learn-ca292cd2,10 Classifier Showdown in Scikit-Learn ca292cd2,franknet,,2016-09-30T16:41:54.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,guilhermescha/notebook9675b3c2ed,LeafClassificationTest,Guilherme Schá Vieira,,2016-09-30T14:31:06.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,golesco/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Scott,,2016-09-30T04:22:50.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,redsml/notebookb3f0068a01,Notebookb3f0068a01,reds,,2016-09-30T03:50:21.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,redsml/notebook1e1003264b,Notebookfab68014e7,reds,,2016-09-30T01:59:10.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,clustersrus/neural-network-through-keras,Neural Network through Keras,Philippe Gaudreau,,2016-09-27T17:22:46.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,franknet/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,franknet,,2016-09-27T16:54:41.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,bosun001/notebook60e6cbddab,Notebook60e6cbddab,austin sun,,2016-09-27T15:57:52.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rahulpenti/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Rahul Penti,,2016-09-27T14:49:27.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jameslong/notebook3118d870fa,Notebook3118d870fa,jameslong,,2016-09-26T17:57:34.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,amit5s3/notebookd19da1bf7f,Notebookd19da1bf7f,AmitSingh,,2016-09-26T14:58:33.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,kaarthik/notebookedfe078c98,Notebookedfe078c98,Kaarthikeyan Subramaniam,,2016-09-26T09:48:16.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hudsonhuang/neural-network-through-keras-91da370a,Neural Network through Keras 91da370a,hudsonhuang@SCUT,,2016-09-26T06:00:00.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hudsonhuang/leaf-script-rf,Leaf script_RF,hudsonhuang@SCUT,,2016-09-26T05:53:00.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,alexeyivanov/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Alexey Ivanov,,2016-09-25T23:40:15.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,amanzotti/notebookf18c7b4a38,Notebookf18c7b4a38,amanzotti,,2016-09-25T23:26:18.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hudsonhuang/leaf-script2,Leaf script2,hudsonhuang@SCUT,,2016-09-25T14:38:03.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,svadams2/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,SamanthaAdams,,2016-09-25T10:45:03.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sukeshperla/notebook8feefdee8f,Notebook8feefdee8f,sukeshperla,,2016-09-25T08:16:27.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,seungwooyoo/notebook25a2943beb,Notebook25a2943beb,Seungwoo Yoo,,2016-09-25T04:01:37.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,echowuhao/neural-network-through-keras,Neural Network through Keras,echo55555,,2016-09-24T23:13:06.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nithum/notebook6cfc8a026e,Notebook6cfc8a026e,nithum,,2016-09-24T13:15:09.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,iitrankit/ankit-1,ankit_1,AnkitShrivastava,,2016-09-24T11:45:25.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,abhilashawasthi/neural-network-through-keras,Neural Network through Keras,Abhilash Awasthi,,2016-09-23T17:14:30.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,altrev/neural-network-through-keras,Neural Network through Keras,Alan,,2016-09-23T10:54:55.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,watermelone/leaf-classifier,Leaf Classifier,NanditaNaik,,2016-09-22T20:07:43.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yuzhibo/notebook497d66c483,Notebook497d66c483,Daitu,,2016-09-22T08:38:50.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,stanleyxie/10-classifier-showdown-in-scikit-learn-2d57e56d,10 Classifier Showdown in Scikit-Learn 2d57e56d,sxie,,2016-09-21T17:36:26.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,stanleyxie/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,sxie,,2016-09-21T17:33:53.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,nitinagarwal/neural-network-through-keras,Neural Network through Keras,Nitin Agarwal,,2016-09-21T06:08:20.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,boswald/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Bryan O,,2016-09-20T22:47:51.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,pussinboots/first-script,first script,grand_cat_unknown,,2016-09-20T14:55:36.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,praveendua/notebook3c0765fb67,Notebookb5c4f800e3,Praveen Dua,,2016-09-20T02:52:54.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,rmsgrk/10-classifier-showdown-in-scikit-learn,10 Classifier Showdown in Scikit-Learn,Radhakrishnan Guhan,,2016-09-19T19:15:40.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,zhhtc200/my-notebook,My notebook,ZHU Henghui,,2016-09-19T14:08:01.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,jinkook/notebook7a03f82166,Notebook2692c7b323,JINKOOK KIM,,2016-09-19T09:40:59.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,iezepov/notebookf41681cab5,Notebookf41681cab5,Ilya Ezepov,,2016-09-19T08:09:10.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,amanzotti/notebook34f7bce888,Notebook34f7bce888,amanzotti,,2016-09-18T22:57:15.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sudipd/notebook55e70f25e4,Notebook55e70f25e4,siberiancrane,,2016-09-18T17:29:49.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,emptycasket/fork-of-notebook373d42a647,Fork of Notebook373d42a647,Daniel Sherwood,,2016-09-18T14:02:27.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,hist0613/notebook176f41238a,Notebook176f41238a,hist0613,,2016-09-17T16:00:29.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,yuhuang/test-regress,test_regress,yu_huang,,2016-09-17T14:59:04.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,ldecamp/notebookc0f8f067b1,Notebookc0f8f067b1,Laurent Decamp,,2016-09-16T19:51:06.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification
+,,,,,0,sunnyrain/testforsteve,testforsteve,Steve,,2016-09-16T20:17:36.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,leaf-classification

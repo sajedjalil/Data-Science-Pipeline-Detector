@@ -1,0 +1,518 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,elenapetrova/time-series-analysis-and-forecasts-with-prophet, Time Series Analysis and Forecasts with Prophet,Elena,,2017-07-19T11:33:33.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],448,rossmann-store-sales
+,,,,,0,omarelgabry/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,OMAR ELGABRY,,2018-11-29T19:14:20.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],86,rossmann-store-sales
+,,,,,0,cast42/xgboost-in-python-with-rmspe-v2,XGBoost Feature Importance,cast42,,2015-11-21T15:44:56.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,rossmann-store-sales
+,,,,,0,juniorbueno/sales-prediction,Sales Prediction,Luiz Bueno,,2022-02-27T19:04:08.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,rossmann-store-sales
+,,,,,0,danspace/rossmann-store-sales-xgboost,rossmann store sales xgboost,Diane Yuan,,2018-09-20T08:44:10.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,rossmann-store-sales
+,,,,,0,hortonhearsafoo/fast-ai-lesson-3,fast.ai lesson 3,William Horton,,2018-08-04T22:39:24.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,rossmann-store-sales
+,,,,,0,zygmunt/predict-sales-with-pandas-py,predict_sales_with_pandas.py,Foxtrot,,2015-10-18T19:53:25.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,rossmann-store-sales
+,,,,,0,xwxw2929/rossmann-sales-top1,Rossmann Sales  Top1%,Aicanghai_Smile,,2018-07-13T10:40:03.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,rossmann-store-sales
+,,,,,0,paso84/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Paso,,2015-10-07T09:43:47.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,rossmann-store-sales
+,,,,,0,stefanozakher94/eda-and-forecasting-with-rfregressor-final-updated,EDA and forecasting with RFRegressor_FINAL_UPDATED,Stefano Zakher,,2018-06-14T18:15:16.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,rossmann-store-sales
+,,,,,0,vinhnguyen/evolutionary-algorithms-for-param-tuning,Evolutionary Algorithms for param tuning,Vinh Nguyen,,2015-10-27T03:46:26.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,rossmann-store-sales
+,,,,,0,novikovanastya/submission-novikova,Submission_Novikova,Nastya,,2017-04-29T15:06:11.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,rossmann-store-sales
+,,,,,0,dvasyukova/predict-sales-with-pandas-py,predict_sales_with_pandas.py,dune_dweller,,2015-10-07T12:09:30.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,rossmann-store-sales
+,,,,,0,swinalmeshram/rossmann-sales,rossmann sales,Swinal Meshram,,2019-11-21T18:43:29.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,rossmann-store-sales
+,,,,,0,cast42/xgboost-extra-features,XGBoost + extra features,cast42,,2015-11-20T15:03:44.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,rossmann-store-sales
+,,,,,0,sunlightsedu/sunlightsedu-rossmann,Sunlightsedu - Rossmann,sunlightsedu,,2020-02-06T15:48:31.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,rossmann-store-sales
+,,,,,0,ashwathbalaji/rossmann-store-sales,Rossmann Store Sales,Ashwath Balaji,,2019-11-13T15:04:16.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,rossmann-store-sales
+,,,,,0,yogesh94/coding-for-rapid-ml-experimentation-part-i,coding for rapid ml experimentation part i ,Sri Yogesh,,2020-07-26T03:55:19.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,rossmann-store-sales
+,,,,,0,smksett11/rossmann-entityembedding,rossmann_EntityEmbedding,m.hirakawa,,2019-10-18T06:06:18.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,rossmann-store-sales
+,,,,,0,ananya77041/randomforestpython,RandomForestPython,AnanyaMishra,,2015-10-03T21:21:32.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,rossmann-store-sales
+,,,,,0,mdementyev/dementyev-maxim,Dementyev Maxim,m_dementyev,,2017-04-29T08:35:41.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,rossmann-store-sales
+,,,,,0,shadimoodad/basic-visualization,Basic Visualization,Shadi Moadad,,2015-10-25T09:47:42.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,rossmann-store-sales
+,,,,,0,ashishpatel26/rossman-stores-sales-analysis,Rossman Stores Sales Analysis,NowYSM,,2018-05-17T07:35:28.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,rossmann-store-sales
+,,,,,0,sirkrabye/efimovvladislav-technosphere,EfimovVladislav[Technosphere],Владислав Ефимов,,2017-04-26T20:33:26.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,rossmann-store-sales
+,,,,,0,sammyshen/exploratory-and-randomforest,Exploratory and RandomForest ,Mi Sammy Shen,,2015-10-27T16:43:22.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,rossmann-store-sales
+,,,,,0,alpertemel/rossmann-store-sales-rne-i,Rossmann Store Sales Örneği,Alper Temel,,2020-11-28T07:54:01.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,rossmann-store-sales
+,,,,,0,aswathikv/rossmanstoresales,RossmanStoreSales,Aswathi KV,,2019-11-06T06:38:42.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,rossmann-store-sales
+,,,,,0,evgenyvasilyev/evgeny-vasilyev,Evgeny Vasilyev,EvgenyVasilyev,,2017-04-28T18:02:31.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,rossmann-store-sales
+,,,,,0,yashnaik12/rossmann-store-sales-analysis,Rossmann Store Sales Analysis,Yash Naik,,2019-11-05T15:05:23.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,rossmann-store-sales
+,,,,,0,blackbear2017/rossman-data-master,Rossman_data_master,Roman Degtyarev,,2017-06-24T09:14:49.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,rossmann-store-sales
+,,,,,0,budukalex/notebookda85513b95,Notebookda85513b95,Alex Budyuk,,2017-04-27T18:44:52.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,rossmann-store-sales
+,,,,,0,dmitry103/notebook50b1ee36b5,Notebook50b1ee36b5,dmitry103,,2017-04-28T17:52:45.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,rossmann-store-sales
+,,,,,0,temkahap/rossman-mini-rfr-final,Rossman Mini RFR final,temkahap ,,2017-04-26T15:52:06.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,rossmann-store-sales
+,,,,,0,sudharsan1297/rossmann-store-sales-final,Rossmann store sales final,Sudharsan Suresh,,2019-11-06T10:30:22.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,rossmann-store-sales
+,,,,,0,juhi1994/rossmann-store-sales-case-study,Rossmann Store Sales- Case Study,Juhi Badiyani,,2019-11-10T06:38:20.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,rossmann-store-sales
+,,,,,0,apoorvaappz/rossmann-store-sales,Rossmann Store Sales ,Apoorva Mahalingappa,,2019-11-21T08:57:27.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,rossmann-store-sales
+,,,,,0,asimandia/technospherebaseline,TechnoSphereBaseline,Pizzaboi,,2019-08-30T11:11:45.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,rossmann-store-sales
+,,,,,0,zigawick/sphere-belozerov-hw,sphere_belozerov_hw,Mikhail,,2017-04-27T16:52:21.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,rossmann-store-sales
+,,,,,0,virusme/rossmann-store-insights,Rossmann Store - Insights,Virus,,2016-08-09T00:50:16.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,rossmann-store-sales
+,,,,,0,amithanayak/predict-rossmann-sales,predict Rossmann Sales,Amitha Nayak,,2021-01-06T14:26:56.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,rossmann-store-sales
+,,,,,0,vikasbhadoria/time-series-forecasting-using-facebook-prophet,Time Series Forecasting using Facebook Prophet.,Vikas Bhadoria,,2020-06-21T18:55:01.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,rossmann-store-sales
+,,,,,0,amulyamanne/rossmann-store-sales-case-study,Rossmann Store Sales - case study,Amulya,,2019-11-06T06:26:35.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,rossmann-store-sales
+,,,,,0,kunwarakash/rossmann-store-sales-forecast-ml-model-by-xgboost,Rossmann Store Sales Forecast ML Model by XGBoost,Akash Kunwar,,2021-09-08T03:20:14.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,rossmann-store-sales
+,,,,,0,adakibet/eda-rossmanstores,EDA-RossmanStores,Ada Kibet,,2021-06-23T03:04:31.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,rossmann-store-sales
+,,,,,0,sharmistha96/rossmann-store-sales-analysis,Rossmann Store Sales Analysis,Sharmistha Ghosh,,2019-11-22T03:18:36.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,rossmann-store-sales
+,,,,,0,aahaan007/store-sales,Store_Sales,Ameer Khan,,2019-11-06T06:34:16.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,rossmann-store-sales
+,,,,,0,moussaadamouidrissa/suicide-squad,Suicide_Squad,Moussa Adamou Idrissa,,2022-03-10T18:46:10.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,arcticai/rossmann-sales-analysis-with-facebook-prophet,Rossmann Sales Analysis with Facebook Prophet,Javier Martínez,,2022-01-14T19:16:06.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,rsesha/rossmann-store-deep-autoviml,Rossmann_Store_Deep_AutoViML_,RSESHA,,2021-08-14T15:57:45.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,simongrest/rossman-with-causal-impact,Rossman with Causal Impact,Simon Grest,,2020-10-07T11:14:39.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,tarunkoutharapu/rossmann-store-analysis,Rossmann Store Analysis,Tarun K,,2019-11-06T10:46:13.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,puchkinda/danilapuchkin-technosphere,DanilaPuchkin[technosphere],DanilaPuchkin[technosphere],,2017-04-27T21:59:05.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,sramaj/rossmann-stores-clustering-and-forecast,Rossmann Stores Clustering and Forecast,Sokol Ramaj,,2017-01-05T08:33:31.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,tushartilwankar/sklearn-rf,Sklearn RF,Tushar Tilwankar,,2015-10-05T06:40:54.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,rossmann-store-sales
+,,,,,0,shivam017arora/rossmann-sales-prediction-top-1-solution,Rossmann Sales Prediction (Top 1% Solution),Shivam Arora,,2021-06-28T16:12:43.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,arunpurakkatt/predicting-sales-time-series-analysis-forecasting,Predicting Sales:Time Series Analysis Forecasting,Arun Purakkatt,,2021-06-04T08:02:45.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,amithanayak/cleaning-feature-engg-eda-rossmann-sales,cleaning + feature engg + EDA Rossmann Sales,Amitha Nayak,,2021-01-06T14:20:34.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,amitmisra2000/how-to-increase-roseman-sales,How to Increase Roseman Sales,Amit Misra,,2020-11-04T07:44:36.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,ranwasakshi/rossman-sales,Rossman-sales,Sakshi Ranwa,,2019-11-23T17:51:44.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,omgrodas/rossmann-deep-learning-with-fast-ai-v1,Rossmann deep learning with fast.ai v1,Ole Morten Grodås,,2019-01-18T06:31:59.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,xiaoxiao1989/rossmann-sales-prediction-exploration-cleaning,Rossmann Sales Prediction - Exploration & Cleaning,xiaoxiao,,2018-03-21T03:05:08.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,orlando23/h2o-py-random-forest,h2o_py_random_forest,Orlando Ding,,2017-12-06T10:08:35.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,dromosys/fastai-rossmann-store-sales-v3,FastAI Rossmann Store Sales,Dromosys,,2018-10-10T06:09:00.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,sergotail/rossman-store-sales-kernel,Rossman Store Sales Kernel,Sergey,,2017-04-28T05:34:41.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,rogachev/rogachevalexander-technosphere,RogachevAlexander[technosphere],Alexander Rogachev,,2017-04-27T19:00:10.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,wswuai/randomforest,RandomForest,Manyu Gou,,2015-10-07T03:28:50.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,rossmann-store-sales
+,,,,,0,jefersonyehuda/eda-prediction-with-prophet,📈EDA + Prediction with Prophet👨‍💻,Jeferson Ben-Yehuda,,2022-04-03T04:39:04.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,mahmoudtaya/xgboost-ml,XGBoost ML,Mahmoud Adel Taya Mohamed,,2021-09-08T23:11:12.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,ezhilpersonal/rossmann-store-data-analysis-and-sales-prediction,Rossmann Store Data Analysis and Sales Prediction,Ezhilarasan,,2020-10-26T15:30:35.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,duonghoanvu1/sale-prediction,SALE PREDICTION,Max Duong,,2020-06-14T10:14:07.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,panamby/rossmann-store-sale,Rossmann_Store_Sale,Victor Hugo Pereira,,2020-07-11T18:44:56.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,aksha17/rossmann-store-sales,Rossmann-store-sales,Akaanksha Mishra,,2019-11-26T11:01:19.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,saibharath12/rossmann-store-sales,Rossmann_store_sales,saibharath,,2019-11-06T11:44:35.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,micmia/rossmann-store-sales-prediction-based-on-xgboost,Rossmann Store Sales Prediction Based on XGBoost,micmia,,2019-07-29T16:55:51.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,horoshenkiy/horoshenkiy-rossman-technosphere,Horoshenkiy Rossman Technosphere,Ilya Horoshenkiy,,2017-04-27T16:40:43.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,mmourafiq/data-viz,data viz,mmourafiq,,2015-11-11T19:02:22.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,albinocordeiro/trying-out-ipython,Trying out IPython,AlbinoCordeiroJr,,2015-10-24T12:21:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,justdoit/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,justdoit,,2015-10-18T14:38:39.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,rossmann-store-sales
+,,,,,0,manthanoice/rossman-sales,Rossman Sales,Manthan Bosamiya,,2022-02-05T18:06:11.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,skathirmani/gl-ml-case-study-s1-2022-02-05,GL - ML Case Study - S1 - 2022_02_05,Kathirmani Sukumar,,2022-02-05T10:34:03.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,nguyntrncnghuy/rossmann-visualization,Rossmann Visualization,Nguyễn Trần Công Huy,,2021-11-04T01:34:11.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,skathirmani/ml-case-study-aug-2021-session-2,ML Case Study - Aug 2021 - Session 2,Kathirmani Sukumar,,2021-08-29T04:53:33.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,nagireddyseelam/prabhukiran,prabhukiran,Nagi Reddy,,2021-06-26T04:17:43.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,vickydavid/sales-prediciton-with-facebook-prophet,Sales Prediciton with Facebook Prophet,Waqar Ahmed,,2020-12-12T14:19:39.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,maksimbahdanchyk/rossmann-eda-timefeatures-meanenc-xgboost-draft,Rossmann EDA/TimeFeatures/MeanEnc/XGBoost DRAFT,Maksim Bahdanchyk,,2020-08-06T14:46:51.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,residentmario/pytorch-tabular-feedforward-v-2-gpu-poc,"pytorch_tabular_feedforward_v_2 [GPU, PoC]",Aleksey Bilogur,,2019-10-28T01:22:37.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,dawgwelder/rossman-xgb-solution,Rossman XGB solution,Dawg Welder,,2018-08-19T16:05:06.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,dynamic22/rossman-store-sales-basic,Rossman Store Sales Basic,Amol Naik,,2017-03-14T16:02:23.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,scirpus/xgb-on-individual-stores,XGB on individual stores,Scirpus,,2015-12-07T14:27:46.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,rossmann-store-sales
+,,,,,0,zizimouad/rossmann-solutionsales-proposation,Rossmann-solutionSales-proposation,Zizi Mouad,,2022-03-30T22:59:06.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,renanfioramonte/sales-predict-fbprophet,sales_predict_fbprophet,Renan Fioramonte,,2022-02-25T13:10:20.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,alogomachine/rossman-result,Rossman Result,Alogomachine,,2022-02-26T13:54:50.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,manishleo10/gradient-boosting-machines-gbms-with-xgboost,Gradient Boosting Machines (GBMs) with XGBoost,Manish kumar,,2022-02-15T09:55:44.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,skathirmani/gl-slr-srm-2022-01-23,GL - SLR - SRM - 2022_01_23,Kathirmani Sukumar,,2022-01-22T07:04:56.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,nikhilkhandelwal0119/rossmann-store-sales-prediction-xgboost,Rossmann Store Sales Prediction (XGBoost),Nikhil Khandelwal,,2021-11-17T08:56:54.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,zapppsy/rossmannstoresaleskerasmodel,rossmannStoreSalesKerasModel,zappPsy,,2021-11-15T10:59:50.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,ravinash218/drug-stores-sales-prediction-xgboost,Drug Stores Sales Prediction (XGBoost),Avinash,,2021-07-28T19:25:48.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,jeonghyunjhkim/rossmann-store-sales-linear-regression-practice,[Rossmann Store Sales] Linear Regression Practice,Jeonghyun Kim,,2021-03-08T07:25:51.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,ibnuthoriqh/sarimax-with-semi-monthly-smoothing,SARIMAX with semi-monthly smoothing,Ibnu Thoriq H,,2020-11-29T22:00:29.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,cyccccc/lue-team,Lue_team,CYCCCCC,,2020-11-18T02:11:03.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,uknowabhishek/regression-with-xgb,Regression with XGB,Abhishek Rastogi,,2020-10-24T22:04:17.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,rohinigarg/random-forest-and-xgboost-parameter-tuning, Random Forest and XGBoost Parameter tuning,rohini garg,,2020-10-14T15:02:38.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,kazukihashizume/rossmannstoresales-linear-model-and-xgb,RossmannStoreSales(Linear Model and XGB),kazuki.hashizume,,2020-08-01T19:53:36.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,yusukeamano/rossmannstoresales-linear-model,RossmannStoreSales(Linear Model),Yusuke Amano,,2020-07-31T00:14:16.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,chinugupta/predicting-rosmann-stores-salesprice,Predicting Rosmann Stores SalesPrice ,Bhupen Gupta,,2020-06-12T09:41:47.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,moon2002/store-sales-prediction,Store Sales Prediction,M Dube,,2020-02-13T10:39:06.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,sm12120552/rossmann-store-sales,Rossmann Store Sales ,Sourabh Mehta,,2019-11-13T16:33:09.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,abhisarnarkhede/rossman-store-sales,Rossman-Store-Sales,Abhisar Narkhede,,2019-11-06T06:27:28.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,residentmario/pytorch-tabular-feedforward-v-1-cpu-poc,"pytorch_tabular_feedforward_v_1 [CPU, PoC]",Aleksey Bilogur,,2019-10-27T15:53:31.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,riow1983/state-space-models-by-statsmodels,State space models by statsmodels,Ryosuke Horiuchi,,2019-08-25T11:09:20.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,manoelverissimo/rossmann-store-keras-model,Rossmann Store Keras Model,Manoel Veríssimo,,2019-04-23T23:37:32.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,omgrodas/rossmann-data-engineering,Rossmann data engineering,Ole Morten Grodås,,2019-01-18T06:34:28.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,thishya/vaithiro,VaiThiRo,Thishya Venkat,,2015-12-08T05:26:26.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,benhamner/pandas-version,Pandas Version,Ben Hamner,,2015-11-18T00:18:56.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,loknar/submission-files-blender,Submission files blender,Loknar,,2015-11-04T13:22:58.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,rusticodanan/exploratory-and-randomforest,Exploratory and RandomForest ,Rustico Danan  IV,,2015-10-28T02:05:55.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,cast42/xgboost-via-sklearn,XGboost via sklearn,cast42,,2015-11-07T16:13:38.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,letranduckinh/xgboost-in-python,XGboost in python,Duc-Kinh Le Tran,,2015-10-29T18:56:47.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,jasontam/can-gbrt-do-simple-forecasting,Notebook a8dddfcfe4647abbee7e,( ͡° ͜ʖ ͡°),,2015-10-15T15:48:57.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,graemec/store-features,Store features,GjC,,2015-10-01T17:48:26.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,rossmann-store-sales
+,,,,,0,mohammad2012191/rossmann-store-sales-prediction-top-100-solution,Rossmann Store Sales Prediction - Top 100 Solution,Mohamed Eltayeb,,2022-05-18T12:12:21.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,skathirmani/gl-ml-case-study-26-03-2022,GL - ML Case Study - 26_03_2022,Kathirmani Sukumar,,2022-03-26T07:19:26.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,atinux/sangoku,Sangoku,atinux,,2022-03-30T16:24:39.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,dasarimohana/rossmann-store-sales,Rossmann_Store_Sales,dasari_mohana,,2021-11-23T12:28:56.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,harshashesh/traditional-ts-fb-prophet-interesting-insights,Traditional TS + FB Prophet + Interesting Insights,Harsh,,2021-10-15T05:20:44.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,mehedeehassan/deep-neural-network-to-forecast-sale-part-1,Deep Neural Network to forecast sale [Part 1],Mehedee Hassan,,2021-07-25T15:44:18.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,skathirmani/data-science-course-session-26,Data Science Course - Session 26,Kathirmani Sukumar,,2021-04-27T09:53:48.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,apovidlo/rossmann-store-sales-course-project,Rossmann Store Sales - Course project,Andrey Stebenkov,,2021-03-03T07:55:56.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,marianaalm/rossman-sales-prediction-with-facebook-prophet,Rossman Sales prediction with Facebook Prophet,Mariana Almeida,,2021-02-07T08:19:40.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,yindachen/rossmann,Rossmann,Yinda Chen,,2020-12-26T03:33:15.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,fanbyprinciple/rossmann-with-fastai-v3,Rossmann with fastai v3,Ami,,2020-09-06T04:07:39.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,dibgerge/rossmann-fastai,rossmann-fastai,Gerges Dib,,2020-09-06T20:27:20.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,miorgash/ml-5-1-rossmannstoresales-minimum,ml-5_1(RossmannStoreSales-Minimum),Miori,,2020-07-16T10:15:00.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,brandog/rossmann-sales-fastai-and-external-data-sets,Rossmann Sales Fastai and External Data Sets,brandog,,2020-06-24T18:53:48.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,ayeongjeong/fork-of-rossmann-store-sales-analysis,Fork of Rossmann Store Sales Analysis,Ayeong,,2020-08-05T01:17:37.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,prashantlal/rossman-store-sale-prediction-using-random-forest,Rossman Store sale prediction using RANDOM FOREST,Prashant Lal,,2020-05-04T08:36:53.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,mooventhchiyan/decision-tree-regressor,Decision Tree Regressor,Mooventh Chiyan,,2020-04-06T21:09:20.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,offerupedu/offerup-edu-rossmann,OfferUP Edu - Rossmann,Offer-UP EDU,,2020-03-29T13:40:13.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,mnoman/densenet-noman-rohit-vinita,Densenet_noman_rohit_vinita,NomanShafqat,,2019-12-11T18:22:38.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,owaismoa/rossmann-sales,rossmann sales,owais,,2019-11-19T14:31:20.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,narendra123580/rossman-store-sales-analysis,Rossman store sales analysis,Narendra shandilya,,2020-07-06T07:14:52.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,jayvimalathithan/ross-agg,Ross-Agg,Jay Vimal,,2019-03-29T12:49:33.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,omarsayed7/xgboost-rossman-sales,XgBoost_Rossman_sales,Omar sayed,,2019-03-16T19:10:11.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,naresh31/rossmann-store-sales,Rossmann Store Sales,Naresh Kumar,,2019-01-08T18:09:49.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,hisashikarazu/rossmann-python-forecasting-learning-notebook,Rossmann Python Forecasting (learning notebook),Nick Cronshaw,,2019-01-11T16:03:25.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,patthoo/fast-ai-lesson-3,fast.ai lesson 3,Patrick_Hoo,,2018-12-03T22:27:19.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,kunalvats/working-on-rossmann,Working on Rossmann,Kunal Vats,,2018-10-13T17:13:44.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,holoong9291/udacity-final-project-rossmann,Udacity Final Project - Rossmann,Ho Loong,,2019-11-04T02:22:46.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,dineshvg/rossman-dataset-analysis,rossman-dataset-analysis,Dinesh,,2018-06-22T14:57:37.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,xiaoxiao1989/rossmann-data-cleaning-and-feature-engineering,Rossmann - Data Cleaning and Feature Engineering,xiaoxiao,,2018-03-28T05:21:55.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,loveall/fork-of-time-series-analysis-and-forecasts-with-p,Fork of  Time Series Analysis and Forecasts with P,Gokagglers ,,2017-11-10T07:12:46.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,ikozlov/kozlovivan-technosphere-v2,KozlovIvan[Technosphere] v2,Ivan Kozlov,,2017-04-28T19:25:00.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,kapitonov/hw3-kapitonov-technosphere,hw3_Kapitonov Technosphere,Kapitonov,,2017-04-27T16:52:09.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,iluzin/hw3-luzin,hw3_luzin,Igor Luzin,,2017-05-06T08:49:41.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,igetii/111111,111111,Galitskiy Igor,,2017-04-27T00:05:54.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,kusuma1294/exploratory-and-randomforest-cf9fb399,Exploratory and RandomForest  cf9fb399,chaos1294,,2016-12-03T23:18:52.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,solomonk/notebooke9b069d1e0,R +H20,QuantScientist,,2016-09-08T11:56:13.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,history/sales,sales,HiStory,,2016-01-10T09:50:38.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,wildwizard/xgboost-rossman-0-11478,XGBoost Rossman _0.11478,WhizWilde,,2015-12-16T13:56:27.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,valerossi46/lontroneboostv2,LontroneBoostV2,Lontrone74,,2015-12-21T00:45:49.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,konradb/xgboost-2,XGboost 2%,Konrad Banachewicz,,2015-12-13T18:27:28.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,soerendip/xgbwithclustering,xgbWithClustering,Klaus,,2015-12-08T21:59:05.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,anshumanyp/rossman,Rossman,Anshuman Pradhan,,2015-11-26T10:39:42.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,cast42/debugging,debugging,cast42,,2015-11-17T10:43:13.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,cast42/test1,test1,cast42,,2015-11-16T18:53:26.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,boldoo/randomforest,RandomForest,bold,,2015-11-08T04:59:11.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,soerendip/xgboost,xgboost,Klaus,,2021-04-12T18:46:39.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,nkhuyu/xgboost-in-python1,XGboost in python1,nkhuyu,,2015-10-31T00:36:57.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,heartyguy/lb-progression,lb progression,Tian Wang,,2015-10-22T12:58:24.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,saurabh1331/random-forest-notebook,random_forest_notebook,saurabh agarwal,,2015-10-17T18:16:23.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,oliverthemodeler/notebook-a7b1ba78dee9e80519b6,Notebook a7b1ba78dee9e80519b6,Oliver J.,,2015-10-13T22:25:09.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,boscotsang/xgboost,XGBoost,BoscoTsang,,2015-10-13T09:53:32.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,cast42/randomforest,RandomForest,cast42,,2015-10-06T14:00:13.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,inpefess/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Boris Shminke,,2015-10-07T14:30:36.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,cast42/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,cast42,,2015-10-19T11:08:25.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,rossmann-store-sales
+,,,,,0,kinsiangchia/rossmann-sales-emblayer-xg-lgb,Rossmann sales (EmbLayer + XG + LGB),Kin Siang Chia,,2022-06-04T10:28:09.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mohammedelhamraoui/dnn-for-supervised-learning,DNN-for-Supervised-Learning,Mohammed El Hamraoui,,2022-02-22T18:42:44.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saswatipadhi/notebook661c609aa7,notebook661c609aa7,Saswati Padhi,,2022-02-08T07:46:43.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,skathirmani/gl-ml-case-study-day-1-2021-12-18,GL - ML Case Study - Day 1 - 2021_12_18,Kathirmani Sukumar,,2021-12-23T07:09:41.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,omkarkhandekar/storewise-try-on-rossmann-compitition-data,Storewise try on Rossmann Compitition Data,Omkar Khandekar,,2021-12-11T03:09:40.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,noyalrajan/rossman-sales,Rossman_Sales,Noyal Rajan,,2022-01-25T12:55:49.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,davidbroin/ml2-trabajo-final-david-broin,ML2 - Trabajo final - David Broin,David Broin,,2021-11-15T16:32:45.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,davidbroin/ml1-trabajo-final-david-broin,ML1 - Trabajo final - David Broin,David Broin,,2021-09-10T05:54:13.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mohamedjafirashraf/rossmann-store-sales-prediction-using-dnn,Rossmann Store Sales Prediction using DNN,Mohamed Jafir Ashraf,,2021-08-15T14:01:47.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,anitharajamani/sales-prediction,Sales Prediction,Anitha Rajamani,,2021-07-22T09:49:18.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,guyko81/xgboost-basic,xgboost basic,guyko,,2021-07-12T10:39:33.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,galaxx/time-series-analysis-and-forecasts-with-prophet, Time Series Analysis and Forecasts with Prophet,Gabriel Almeida,,2021-06-25T00:51:01.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,arunabh04/rossmann-store-sales,Rossmann_Store_Sales,arunabh04,,2021-06-12T10:43:26.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mogu4iy/rossman-store-sales,Rossman store sales,Bohdan Nikitin,,2021-05-31T11:52:49.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,soerendip/rossmann-with-tabnet-pytorch,Rossmann with TabNet (pytorch),Klaus,,2021-04-14T04:14:00.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jeonghyunjhkim/rossmann-store-sales-data-preprocessing-and-eda,[Rossmann Store Sales] Data Preprocessing and EDA,Jeonghyun Kim,,2021-03-08T05:34:18.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jdrzejchmielarski/data-mining,Data Mining,Jędrzej Chmielarski,,2021-01-21T07:10:21.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yogeshkumarpatel/yogeshpatel-rossman-store-sales,YOGESHPATEL(ROSSMAN_STORE_SALES),YOGESHKUMAR PATEL,,2021-01-03T22:05:29.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,carroltuna/rossmann-mlp,Rossmann MLP,Eonyong jeong,,2021-01-03T15:16:49.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yakupsame/forecasting-sales,Forecasting Sales,Yakup Üsame,,2021-01-28T04:54:58.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ksuthalia/rossmann-future-sales,Rossmann Future Sales,ksuthalia,,2020-09-25T15:49:00.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yukibessho/20200821-bessho,20200821_bessho,yuki bessho,,2020-08-20T13:33:07.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,omkardray/rossmann-store-sales-prediction-with-prophet,Rossmann Store Sales Prediction with Prophet,Omkar Ray,,2020-08-21T22:01:43.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yusukeamano/rossmann-linearmodel,Rossmann_LinearModel,Yusuke Amano,,2020-08-16T07:50:30.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,miorgash/ml-6-1,ml-6-1,Miori,,2020-08-02T01:42:11.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,axylos/rossmannsales-timeseriesforecasting,RossmannSales_Timeseriesforecasting,Vignesh S,,2020-08-09T18:03:13.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,chandra03/time-series-analysis-with-prophet, Time Series Analysis with Prophet,Chandra Teja Reddy,,2020-04-24T04:44:27.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mmanohar10/comp-analysis,Comp Analysis,MManohar10,,2020-04-14T15:01:26.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mooventhchiyan/case-study,Case Study,Mooventh Chiyan,,2020-04-06T19:01:29.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hammadshahid/ai-project,AI_Project,Hammad Shahid,,2020-05-31T21:52:05.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hanitha72/kernel503e74cb76,kernel503e74cb76,Hanitha,,2020-03-01T14:47:02.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,raymant/eda-model-building,"EDA, Model Building",Raymant Raj,,2020-05-07T13:36:46.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,davidyee/dvs-rossmann-sales,DVS Rossmann Sales,David Yee,,2020-01-30T09:49:22.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,santoshkumar1709/rossmann-store-sales,rossmann store sales,santosh1709,,2019-12-27T21:56:01.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zongtseng/rossmann-time-series-data-engineering,Rossmann time-series data engineering,Zong TSENG,,2019-11-14T05:15:08.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zongtseng/rossmann-time-series-prediction-deep-learning,Rossmann time-series prediction deep learning,Zong TSENG,,2019-11-20T01:49:48.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,smaransogi/rossmann-sales,rossmann sales,data_flash,,2020-01-31T11:53:52.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,gurramkondasaicharan/rossmann-store-sales,Rossmann Store Sales,Gurramkonda Sai Charan,,2019-11-06T06:23:46.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,terminate9298/rossmann-store-sale-prediction,Rossmann Store Sale Prediction,Kaustubh Pathak,,2020-10-10T17:22:09.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dboyaoao/rossmann-sales,Rossmann Sales,dboyaoao,,2020-04-06T10:15:54.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wcdyg8253/rossman-explore-and-preprocess,Rossman_explore_and_preprocess,"Yung gune, Son",,2019-03-29T00:44:17.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sivaprasadml/rossman,Rossman,Sivaprasad,,2019-03-25T12:22:30.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,workhfailflearna/linear-regression,Linear regression,Ahmed Nader,,2019-03-21T18:43:27.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saisaranya/rossmann-kalai,Rossmann_KALAI,SaiSaranya,,2019-03-26T13:21:37.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,therri1227/learning-how-to-kaggle,Learning how to kaggle,Octav,,2019-03-19T01:08:31.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,omgrodas/rossmann-exploratory-data-analysis,Rossmann exploratory data analysis,Ole Morten Grodås,,2019-01-18T06:30:46.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,kokovidis/rossman-store-sales-prediction-with-xgboost,Rossman Store Sales prediction with XGBoost,Symeon Kokovidis ,,2019-01-12T12:44:21.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,omgrodas/rossmann-deep-learning-with-fast-ai-v1-simple,Rossmann deep learning with fast.ai v1 (simple),Ole Morten Grodås,,2019-01-18T06:34:43.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,akhilyeduresi/rossmans-store-prediction,Rossmans store prediction,Akhil yeduresi,,2019-01-16T11:46:03.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thawatchai2018/time-series-analysis-and-forecasts-with-prophet, Time Series Analysis and Forecasts with Prophet,Thawatchai Rangsihiranrat,,2018-11-18T04:55:40.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,massyl/rossman-store-sales,Rossman Store Sales,Massyl,,2020-11-10T09:07:32.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vmelonari/rossmann,Rossmann,Vlad Melonari,,2019-01-03T14:47:38.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ashwinbaskar97/capstone,capstone,Ashwin baskar,,2018-10-05T07:02:10.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,princeashburton/fast-ai-lesson-3-structured-data,Fast.ai Lesson 3:  Structured Data,Amo Moloko,,2018-08-30T10:03:56.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,insotc/rossmann-prediction,rossmann prediction,哈哈哈哈哈哈哈,,2018-07-30T05:51:03.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,stefanozakher94/eda-forecasting-randomforestregressor-final,EDA_Forecasting_RandomForestRegressor_Final,Stefano Zakher,,2018-06-14T17:11:14.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thushear/my-first-sales-forecast-rossman-store,my first sales forecast rossman store,thushear,,2018-05-17T10:36:49.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jihyeseo/rossmann-eda-time-series,rossmann eda,Jihye Sofia Seo,,2018-05-08T10:34:30.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,muthukannan91/optimizing-promos-rossmann,Optimizing Promos -Rossmann,Muthu Kannan Subramanian,,2018-05-03T00:19:48.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,muthukannan91/are-promos-affecting-sales-rossmann,Are promos affecting Sales ? Rossmann,Muthu Kannan Subramanian,,2018-05-02T17:50:11.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,afetisov/hw11-ts,hw11_ts,Anatolii Fetisov,,2018-04-18T02:17:58.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mithileysh/time-series-analysis-and-forecasts-with-prophet, Time Series Analysis and Forecasts with Prophet,Mithileysh,,2018-04-16T16:00:51.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saiyesaswym/using-xgboost-final-score-0-12587,Using XGBoost (Final score = 0.12587),Sai Yesaswy,,2018-04-14T23:19:04.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,amarpreetsingh/rossmann-store-sales-predictor-poc,Rossmann Store Sales Predictor | poc,Amarpreet Singh,,2018-02-09T08:52:49.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jas1994/notebook8f25990a28,Notebook8f25990a28,JasdeepChhabra,,2017-12-21T05:09:43.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,uburuntu/rossmann-4,Rossmann 4,Ramzan Bekbulatov,,2017-07-01T12:03:44.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,prijha/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Priyanka,,2017-06-05T15:40:28.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,skyblue1/notebook0dacb6e997,Notebook0dacb6e997,AnkurSingh,,2017-05-29T03:40:57.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,xieyufish/notebooke9aee87f89,Notebooke9aee87f89,Fish,,2017-05-20T03:45:55.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,guyko81/notebook66053ee076,Notebook66053ee076,guyko,,2017-05-17T09:37:09.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,petertrr/notebook1ec3fbbc79,Notebook1ec3fbbc79,Peter Trifanov,,2017-04-28T21:05:52.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ilukyanchikov/notebook1ec93bac48,Notebook1ec93bac48,ilukyanchikov,,2017-04-28T19:45:07.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sannikowaa/artyomsannikow-technosphere,ArtyomSannikow[technosphere],Sannikow,,2017-06-27T16:30:51.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mfseyf/omarovtemirkhanhw3,OmarovTemirkhanHW3,Temirkhan Omarov,,2017-04-28T17:53:52.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,panser/notebooka009393e7e,Notebooka009393e7e,Gleb Skiba,,2017-04-28T17:30:25.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jekrus/notebookc5f30550be,Notebookc5f30550be,Artur Elokhov,,2017-04-27T20:06:36.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sannikowaa/notebook426ff2736c,Notebook426ff2736c,Sannikow,,2017-04-27T19:30:13.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jekrus/rossmann,Rossmann,Artur Elokhov,,2017-04-28T21:01:28.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,crazyvaskya/notebook54926acadc,Notebook54926acadc,Vladislav Rybakov,,2017-04-27T18:07:26.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,novikovanastya/notebookec5d1c9813,Notebookec5d1c9813,Nastya,,2017-04-27T16:24:34.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,iluzin/notebook88be28c27e,Notebook88be28c27e,Igor Luzin,,2017-04-27T14:28:41.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,iluzin/notebooke581219df2,Notebooke581219df2,Igor Luzin,,2017-04-27T14:28:30.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vanyail/notebookc1417082ad,Notebookc1417082ad,vanyail,,2017-04-27T13:53:44.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vanyail/ilyin-technosphere,ilyin_technosphere,vanyail,,2017-04-27T14:00:14.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vanyail/notebook65150b9977,Notebook65150b9977,vanyail,,2017-04-27T13:36:01.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,marsiik/dm-intro-kernel,DM_intro kernel,KostyaTesker,,2017-04-27T15:58:57.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,kapitonov/notebook43fd275546,Notebook43fd275546,Kapitonov,,2017-04-27T14:56:06.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zigawick/notebookb1c23c69a1,Notebookb1c23c69a1,Mikhail,,2017-04-27T10:57:54.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,kaaggravator/rossman,Rossman,KAAgg,,2017-04-27T10:38:10.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,delta37/data-dz3,Data_dz3,GeorgeKasparyants,,2017-04-27T10:10:25.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikrylov/kiss-linear-model-ikrylov-sphere-rmspe-2,"KISS linear model, ikrylov@sphere, RMSPE ~ .2",Ivan Krylov,,2017-05-14T21:20:00.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikozlov/rossman-technosphere,Notebook6447fd0655,Ivan Kozlov,,2017-04-27T00:48:00.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikozlov/rossman,Rossman,Ivan Kozlov,,2017-04-27T10:20:45.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ilukyanchikov/notebook3e6bd419a5,Notebook3e6bd419a5,ilukyanchikov,,2017-05-02T21:02:11.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikozlov/rossman-store-sales,Rossman Store Sales,Ivan Kozlov,,2017-04-26T22:35:46.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikozlov/notebookf0d57e2465,Notebookf0d57e2465,Ivan Kozlov,,2017-04-26T21:04:49.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,iamthesenate/notebook8e864be9c6,Notebook8e864be9c6,Jabarda,,2017-04-27T11:25:10.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,delta37/data-python-dz3,data_python_dz3,GeorgeKasparyants,,2017-04-26T20:54:09.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikozlov/notebook6eccbbbd49,Notebook6eccbbbd49,Ivan Kozlov,,2017-04-26T22:36:04.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,marsiik/notebooka9a4f73c8f,Notebooka9a4f73c8f,KostyaTesker,,2017-04-26T19:01:46.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,blackbear2017/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Roman Degtyarev,,2017-04-26T17:35:29.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zigawick/notebook0bea6761bb,Notebook0bea6761bb,Mikhail,,2017-04-26T15:47:32.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,temkahap/rfr-rosman,RFR Rosman,temkahap ,,2017-04-26T13:59:49.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,temkahap/notebookca958be504,Notebookca958be504,temkahap ,,2017-04-26T13:59:30.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,temkahap/notebookce38e2371c,Notebookce38e2371c,temkahap ,,2017-04-26T13:59:17.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,temkahap/notebook6db5ac53ac,Notebook6db5ac53ac,temkahap ,,2017-04-26T13:40:18.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,gusevslava/notebook6b91567713,Notebook6b91567713,GusevSlava,,2017-04-26T08:07:36.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,petertrr/notebook3f66fb937b,Notebook3f66fb937b,Peter Trifanov,,2017-04-25T15:28:32.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,petertrr/notebook4ffbcedf04,Notebook4ffbcedf04,Peter Trifanov,,2017-04-28T21:11:05.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jekrus/notebook0875a7f819,Notebook0875a7f819,Artur Elokhov,,2017-04-24T23:14:24.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jekrus/notebook5d31cddd9c,Notebook5d31cddd9c,Artur Elokhov,,2017-04-24T23:11:48.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,petertrr/my-kernel,my_kernel,Peter Trifanov,,2017-04-25T15:23:24.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,budukalex/rossmann,Rossmann,Alex Budyuk,,2017-04-27T18:41:40.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zaitcevav/home-work3,Home_work3,Zaitcev Aleksandr,,2017-04-26T23:43:08.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ploshkin/testlr,TestLR,ploshkin,,2017-04-23T18:52:50.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,igetii/galitskiy-igor,Galitskiy_Igor,Galitskiy Igor,,2017-04-27T00:01:44.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,delta37/notebook918850378e,Notebook918850378e,GeorgeKasparyants,,2017-04-19T20:50:56.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,delta37/notebook0d55f2096f,Notebook0d55f2096f,GeorgeKasparyants,,2017-04-19T20:10:27.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,delta37/notebook76752b7e06,Notebook76752b7e06,GeorgeKasparyants,,2017-04-19T19:57:16.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zjplab/rossmann-stores-clustering-and-forecast,Rossmann Stores Clustering and Forecast,JP Zhang,,2017-04-18T08:24:45.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,andrewracine1/notebook6a2395e94d,Notebook6a2395e94d,AndrewRacine,,2017-04-17T20:11:20.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,delta37/notebookf8de32485b,Notebookf8de32485b,GeorgeKasparyants,,2017-04-13T15:18:30.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mdimercurio/notebook934e65d2bf,Notebook934e65d2bf,Matthieu Di Mercurio,,2017-04-12T01:56:43.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jschengcong/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,jschengcong,,2017-04-04T02:07:09.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sarawagi/notebook8bf75a0be1,Notebook8bf75a0be1,Anupam,,2017-03-25T15:09:22.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yassiin/notebook5b2901662d,Notebook5b2901662d,yassine,,2017-12-11T15:05:52.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,tdiliii/notebooke1d3eaacd2,Notebooke1d3eaacd2,abracadabra,,2017-03-14T06:20:04.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,apmfifty/predict-sales-with-pandas-using-median-mean,predict_sales_with_pandas using median & mean,Pengju,,2017-03-12T15:43:43.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sbleszek/notebook0e23367ab6,Notebook0e23367ab6,leszek,,2017-03-07T18:37:48.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,linxue1991/notebookff09fb605e,Notebookff09fb605e,xuelin,,2017-03-07T00:39:28.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yangxiaocs/notebook675b900698,Notebook675b900698,yangxiao,,2017-03-07T00:48:02.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,luoluox/notebookdf0c113a25,Notebookdf0c113a25,luoluo,,2017-02-28T11:32:22.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,darkice1/test1,test1,林叶（Neo）,,2017-02-22T13:16:00.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,darkice1/notebook5a6695375e,Notebook5a6695375e,林叶（Neo）,,2017-02-22T10:09:54.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hiterstone/rossmann-store-insights,Rossmann Store - Insights,HiterStone,,2017-02-21T14:29:13.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hiterstone/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,HiterStone,,2017-02-21T13:39:12.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,beenyoung/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Kevin,,2017-02-17T02:38:53.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,allenpeng/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Scorpio ,,2017-02-14T13:59:59.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,fridayily/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,fridayily,,2017-02-12T15:23:48.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vikibytes/notebook1a1901dc14,Notebook0298aa7b63,Vikas Phatak,,2017-02-11T07:48:08.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dingding22yu/exploratory-and-randomforest,Exploratory and RandomForest ,Ding Ding,,2017-02-10T12:15:23.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,kriahi/notebook11d0536e92,Notebook11d0536e92,KhadijaRiahi,,2017-02-07T15:45:48.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,antonrossmann/notebook1a54a67734,Notebook0b0acd289e,antonrossmann,,2017-02-07T07:21:41.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,winny6093/rossmann-stores-clustering-and-forecast,Rossmann Stores Clustering and Forecast,yangWang,,2017-02-07T06:54:57.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mengxing/notebook1ff59f5faf,Notebook1ff59f5faf,meng,,2017-02-01T09:35:34.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,pgnepal/rossmann-stores-clustering-and-forecast,Rossmann Stores Clustering and Forecast,Prakash,,2017-01-31T05:47:35.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,golhar/notebook6b7a3317a0,Rossmann Sales Data,DoubleL,,2017-01-23T13:17:23.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,subon999/notebookfdc1f493a1,Notebookfdc1f493a1,Subhasish Bhaumik,,2017-01-19T22:19:34.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mydream/testrossmann,testRossMann,mydream,,2017-01-13T03:58:58.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,inthiyan/notebook529367c2f3,Notebook529367c2f3,Meen Sathish,,2017-01-12T05:19:54.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,caomaocao/notebookfd36e52369,Notebookfd36e52369,caomaocao,,2017-01-12T02:04:47.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dean2016/first-prediction-project,First prediction project ,SuperD,,2017-01-11T17:44:50.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dean2016/notebook409c69cc3c,Notebook409c69cc3c,SuperD,,2017-01-11T17:43:22.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,krisuncy/notebookb61b25f6d5,Notebookb61b25f6d5,Krisuncy,,2017-01-11T03:21:59.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,krisuncy/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Krisuncy,,2017-01-10T15:36:59.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,arvidzt/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,arvidzt,,2017-01-05T14:15:20.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vaibhavlaturkar/fork-of-notebook3ce9530c8b,Fork of Notebook3ce9530c8b,Vaibhav.L,,2017-01-03T11:18:23.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vaibhavlaturkar/notebook14d7688e1e,Notebook3ce9530c8b,Vaibhav.L,,2017-01-03T10:53:50.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vagrantguy/notebookd248f1083e,Notebookd248f1083e,vagrantguy,,2016-12-14T08:17:08.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,petrosf/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Petros,,2016-12-13T14:53:24.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mgoodman6/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,MatthewGoodman,,2016-12-08T23:39:39.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jjionee/notebook497a2c3473,Notebook497a2c3473,JiwonPark,,2016-12-08T04:41:56.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saitejadatascientist/exploratory-and-randomforest,Exploratory and RandomForest ,Sai Teja Gogineni,,2020-03-13T17:52:53.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ravichinoy/notebook53576d94cf,Notebook53576d94cf,RaviChinoy,,2016-12-04T17:20:22.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jjionee/notebookffc472cd6b,Notebookffc472cd6b,JiwonPark,,2016-12-03T11:41:10.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,angelikazw/notebook9fff4be5d8,Notebook9fff4be5d8,Angelika,,2016-11-29T09:46:27.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,harikongu/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,hari,,2016-11-20T11:52:13.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yarvalcher/notebook7a4ae1cae1,Notebook7a4ae1cae1,Yaroslav C.,,2016-11-16T21:06:21.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,marcsun/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,marcsun,,2016-11-15T00:06:34.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,teyeoo/firstrun,FirstRun,Tomasz,,2016-11-14T14:12:22.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thtsai/notebook31494da20d,Notebook31494da20d,Tsung-HengTsai,,2016-11-05T18:08:16.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,grepper/notebook8a763fd8e2,Notebook8a763fd8e2,tanglek,,2016-11-02T01:31:40.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,tennissuperstar/notebookff6b1f93aa,Notebookff6b1f93aa,AiswaryaSankar,,2016-11-01T02:03:13.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wenxuanmo/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,wenxuanMo,,2016-10-28T23:09:40.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wenxuanmo/exploratory-and-randomforest,Exploratory and RandomForest ,wenxuanMo,,2016-10-28T22:28:23.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wenxuanmo/basic-visualization,Basic Visualization,wenxuanMo,,2016-10-28T22:00:26.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zxzjim/notebooke720fc930e,Notebooke720fc930e,JamesZhang,,2016-10-20T13:26:04.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hannibunny/rossmann-store-insights,Rossmann Store - Insights,JohannesMaucher,,2016-10-19T19:05:55.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,harishbchalam204/notebook5828b1a9dd,Notebook5828b1a9dd,Harish Chalam,,2016-10-19T05:49:00.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,abogushov/notebookfdefbb4e1f,Notebookfdefbb4e1f,Alexander Bogushov,,2016-10-15T08:59:56.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,shuangnicole/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,ShuangNicole,,2016-10-14T09:15:12.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ethannguyen/notebookf15ffe6bd4,Notebookf15ffe6bd4,Ethan Ng,,2016-10-13T21:18:40.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,peter78789/notebook17a06c7b52,Notebook17a06c7b52,October,,2016-10-08T20:21:26.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jameelanalyst/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,jameel,,2016-09-25T05:20:02.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ashishatpug01/notebook29164e860a,Notebook29164e860a,AshishGupta,,2016-09-18T16:15:08.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,canran/notebookb36418b33d,Notebookb36418b33d,Canran Xu,,2016-09-07T07:18:49.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sterlingsun/notebookb727aeb39f,Notebook769867b925,Ming,,2016-08-31T03:07:07.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,msaroufim/notebook21a6d64c5b,Notebook21a6d64c5b,MarkSaroufim,,2016-08-28T00:16:08.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,msaroufim/notebookc237107c98,Notebookc237107c98,MarkSaroufim,,2016-08-27T19:54:37.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jasonkuruzovich/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,RPIAnalyst,,2016-08-22T15:50:52.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,virusme/rossmann-store-forecasting-sales-part-1,Notebook46323d04b5,Virus,,2016-08-19T10:29:56.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ghaddad/notebookcac6721fee,Notebookcac6721fee,ghaddad,,2016-08-18T22:26:30.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,praveshsj/notebook8777882233,Notebook8777882233,Pravesh Sundriyal,,2016-08-11T03:33:22.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,youwbpyr/notebookf66106eb95,Notebookf66106eb95,Orange,,2016-08-10T08:41:45.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,virusme/notebook1b27cd9d56,Notebook1b27cd9d56,Virus,,2016-08-08T06:50:35.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,virusme/redundant,redundant,Virus,,2016-08-08T06:48:08.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,virusme/notebook71b9dcb234,Notebook71b9dcb234,Virus,,2016-08-08T03:32:31.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,virusme/notebook685b0678f6,Notebook685b0678f6,Virus,,2016-08-08T03:27:58.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,virusme/rossmann-store-sales-insights-exploration,Rossmann Store Sales - Insights Exploration,Virus,,2016-08-08T02:17:26.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,harishbchalam204/harish,Harish,Harish Chalam,,2016-07-22T10:47:44.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,alanzis/first-1,First,Alan Cardozo Sarli,,2016-06-26T08:42:34.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,smsahu/test1,test1,SmrutiranjanSahu,,2016-06-13T17:33:57.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,gau2112/predict-sales-with-pandas-py,predict_sales_with_pandas.py,Gautam Kumar,,2016-04-09T19:55:59.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hermit84/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,Vivek Pandit,,2016-02-11T10:01:36.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,skylabreddy/testfor-asset,Testfor asset ,skylabreddy,,2016-02-03T08:17:07.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,aivin24/my-first-script,my_first_script,AIvin24,,2016-01-23T09:56:59.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,johnsonwu/johnsonwu-test,johnsonwu-test,johnsonwu,,2016-01-18T11:24:34.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,history/rossmann-py,rossmann.py,HiStory,,2016-01-10T05:47:28.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,tamal059/check,check,TamalRoy,,2016-01-07T12:43:57.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,alexboy/test1,test1,alex,,2015-12-29T08:56:23.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,desuanuroop/demo5,demo5,desuanuroop,,2015-12-20T22:51:59.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,pgurov/gurov-rossmann-py,gurov_rossmann.py,Pavel Gurov,,2015-12-15T04:31:58.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wangyx05/xgboost-extra-features,XGBoost + extra features,YuxingW,,2015-12-15T02:59:58.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,signochastic/xgboost-feature-importance,XGBoost Feature Importance,Reza,,2015-12-13T16:59:21.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,valerossi46/test-con-random-forest,test con random forest,Lontrone74,,2015-12-13T03:24:38.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,lihao814386741/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Hao Li,,2015-12-12T17:10:12.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vdsharma/myscript,MyScript,VishnuSharma,,2015-12-12T14:19:40.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,rkoli1/rossmann,Rossmann,rohankoli,,2015-12-12T04:11:20.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,benhamner/demo-asdfasdfasdfa,demo asdfasdfasdfa,Ben Hamner,,2015-12-11T23:15:44.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,stlstl/first-test-script,first_test_script,stlstl,,2016-02-20T16:51:21.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jszymczak/test1,Test1,Jarek,,2015-12-10T11:13:49.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,malzantot/trying-it,trying it,Moustafa Alzantot,,2015-12-10T05:10:58.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,qwang88/test1-1,test1,Qingchen,,2015-12-09T20:28:39.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,rkoli1/rossman,Rossman,rohankoli,,2015-12-07T22:49:36.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thishya/rossmantrial,rossmantrial,Thishya Venkat,,2015-12-07T21:40:19.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,desuanuroop/demopy3,DemoPy3,desuanuroop,,2015-12-07T20:03:37.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,desuanuroop/demopy2,DemoPY2,desuanuroop,,2015-12-07T19:56:20.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,desuanuroop/demopy1,DemoPY1,desuanuroop,,2015-12-07T19:47:16.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,desuanuroop/demopy,DemoPy,desuanuroop,,2015-12-07T19:46:10.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,piekit/first,first,chuan,,2015-12-05T21:55:57.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,isawjet/rossmann1,rossmann1,isawjet,,2015-12-05T08:52:14.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,bbhore/rossman,ROssman,Maggie,,2015-12-05T05:35:35.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jiajunyang/test-work,test_work,J.J. Young,,2015-12-04T16:51:17.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,skylabreddy/test4now,Test4now,skylabreddy,,2016-01-11T08:58:29.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,damiencarol/rossmann-start,Rossmann start,Damien Carol,,2015-12-03T19:35:30.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,manasrkar/xgboost-feature-importance,XGB Feat Imp + Overlap,Manas Ranjan Kar,,2015-12-11T05:53:43.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,yddben/yy-ross,yy_ross,Emily's wonder land,,2015-12-01T21:31:32.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,perseba/new-not,new_not,psps,,2015-12-01T11:01:29.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thishya/trial1,trial1,Thishya Venkat,,2015-11-30T21:27:52.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wangyx05/fdfeerfdfdft,fdfeerfdfdft,YuxingW,,2015-11-30T07:10:16.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,glj898932/testtest,testtest,L-J Gao,,2015-11-28T16:37:37.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,roshinjj/script-py,script.py,ROSHINJOHNSON,,2015-11-28T13:24:44.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,opraveen/a-journey-through-rossmann-stores,A Journey through Rossmann Stores,OP,,2015-11-28T09:39:15.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,fdhalluin/tutorial,Tutorial,flal,,2015-11-26T17:08:18.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,jyangdaily/rossmann-sale-prediction,Rossmann Sale Prediction,Ji Yang,,2015-11-25T18:40:56.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sampwing/abcdef,abcdef,Sam W,,2015-11-23T22:08:11.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sisira/storefeatures,Storefeatures,sisira,,2015-11-23T21:47:22.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sisira/store-features,Store features,sisira,,2015-11-23T21:45:57.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,uttara/note2kaggle,note2kaggle,LordBiskerton,,2015-11-23T20:27:17.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thishya/thitry1,thitry1,Thishya Venkat,,2015-11-22T23:02:56.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,vgediger/try1def,try1def,VaibhavGedigeri,,2015-12-08T21:59:40.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,krishnakumarselvam/rossman,Rossman,Krishna Kumar Selvam,,2015-11-22T17:56:53.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,datacanary/test1-3,Test1,DataCanary,,2015-11-21T10:27:31.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,merlin101/script-test-1,Script test 1,Arkadeep Adhikari,,2015-11-20T20:09:59.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saliluna/firstgo,Firstgo,SallyZhen,,2015-11-20T11:37:20.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,lkirch/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,lkirch,,2015-11-19T16:25:16.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,archypkosh/tacoo,tacoo,ArchypKosh,,2015-11-19T08:17:00.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,antgoldbloom/needs-a-title-to-run,Needs a title to run,Anthony Goldbloom,,2015-11-18T00:36:24.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,shirejr/test12,test12,Shire Jr.,,2015-11-17T16:45:53.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,gustavodemari/rossman-store,Rossman Store,Gustavo De Mari,,2015-11-17T14:33:33.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,alexxanderlarko/data-39,Data_39,Alexander  Larko,,2015-11-17T04:57:21.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,benhamner/debugging,Debugging,Ben Hamner,,2015-11-17T01:33:25.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,kehanghan/trial,trial,Kehang,,2015-11-17T01:32:15.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,christophertg86/holaa,Holaa,ChristopherTorres,,2015-11-16T22:05:25.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,chopra/first-try,first try,AnujChopra,,2015-11-16T06:48:00.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,qichaotang97/rossmann-store-sales,Rossmann-Store-Sales,qichaotang,,2015-11-15T08:18:11.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,uditsaini/explore-python,explore_python,udit,,2015-11-15T09:23:12.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dimitrislev/evolutionary-algorithms-for-param-tuning,Evolutionary Algorithms for param tuning,Dimitris Leventis,,2015-11-14T16:25:15.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,smilesun/xgboost-feature-importance,XGBoost Feature Importance,smilesun,,2015-11-14T17:05:25.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,studiocardo/rossmann,Rossmann,studiocardo,,2015-11-13T00:50:55.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,drizzt/choosing-estimator,choosing_estimator,Karl,,2015-11-12T17:15:18.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,haopeng/script,script,Hao Peng,,2015-11-12T00:54:33.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikdd01/test99999,test99999,Kai-Cheng Lu,,2015-11-11T14:23:44.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ikdd01/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Kai-Cheng Lu,,2015-11-11T08:44:50.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,robinsingh/sales-predict,sales_predict,Robin,,2015-11-09T21:50:26.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mashhoori/predict-sales-with-pandas-py,predict_sales_with_pandas.py,A.M.,,2015-11-08T23:06:09.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wtichen/wtichen,wtichen,wtichen,,2015-11-08T16:00:58.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,czmie6l/script1,script1,czmie6l,,2015-11-08T14:10:33.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,wtichen/first-try,first try,wtichen,,2015-11-08T08:42:53.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,nkhuyu/xgb-11-07,xgb_11_07,nkhuyu,,2015-11-08T03:01:20.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,nkhuyu/xgboost-feature-importance-11-06,XGBoost Feature Importance 11-06,nkhuyu,,2015-11-07T20:55:53.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,asligizem/title,title,AslıGizemBaysal,,2015-11-06T15:05:16.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,alanhe/test-notebook,test_notebook,H19,,2015-11-05T12:19:40.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zeroblue/predict-sales-with-pandas-py,predict_sales_with_pandas.py,Michael Hartman,,2015-11-25T17:53:50.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mdimercurio/test1235,test1235,Matthieu Di Mercurio,,2015-11-04T01:41:07.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,svendaehne/test1,Test1,Sven Dähne,,2015-11-03T16:27:19.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,selsaas/xgboost-in-python-nkhuyu,XGboost in python nkhuyu,Lars Ropeid Selsås,,2015-11-16T07:01:01.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hirendrathakur/rossmann,rossmann,hirendrathakur,,2015-11-02T12:03:35.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,datacanary/python-default-script,Python default script,DataCanary,,2015-11-02T09:06:06.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,cdcttr/rossmann-test,rossmann-test,David Johnson,,2015-11-02T07:56:01.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ryo3ryosuu/test01,test01,G13,,2015-11-01T16:38:02.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,hakimhakim/predict-sales-with-medians-0-12561,Predict Sales with medians (0.12561),Hakim Hakim,,2015-11-01T16:00:07.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,alexxc/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Alex C,,2015-11-06T01:15:22.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,datasj/scriptr2,scriptr2,jigyasu10,,2015-10-31T18:49:34.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,becky1166/predict-sales-with-pandas-py,predict with mean,becky1166,,2015-10-31T15:42:06.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,nkhuyu/xgboost-in-python-nkhuyu,XGboost in python nkhuyu,nkhuyu,,2015-10-31T16:19:29.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,belovedcong/predict-sales-with-pandas-py,predict_sales_with_pandas.py,zzbyy,,2015-10-29T02:13:08.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dhbrown/scripty-001,Scripty-001,dhbrown,,2015-10-28T23:35:01.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,datasj/xgboost2,Xgboost2,jigyasu10,,2015-10-28T15:44:13.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sammyshen/exploratory-and-randomforest-1st-run,Exploratory and RandomForest 1st run,Mi Sammy Shen,,2015-10-27T14:44:42.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,lkirch/testingrossmanndata-ipynb,TestingRossmannData.ipynb,lkirch,,2015-12-09T18:19:05.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,tmjiang/observation,observation,b6s,,2015-10-25T11:51:16.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,rhinodaveb/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,David Bobillot,,2015-10-25T15:27:01.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ululkag/totoaa,totoaa,ulul,,2015-10-24T12:24:28.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,qqgeogor/qq-testing,qq testing ,qianqian,,2015-10-24T11:31:01.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mikejiang/abcdef,abcdef,Mike Jiang,,2016-04-20T19:54:50.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,oliviers/xgboost-feature-importance,XGBoost Feature Importance,OlivierS,,2015-10-24T08:39:04.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,prinkesh/predict-sales-with-pandas-py,predict_sales_with_pandas.py,PrinkeshSharma,,2015-10-22T01:28:44.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mickeylyh/randomforestpython,RandomForestPython,LinYuhui,,2015-10-21T18:37:04.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,momofat/randomforest-binarizedfeature,randomforest_binarizedfeature,momo,,2015-10-21T18:48:14.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,kumareshd/xgboost-feature-importance,XGBoost Feature Importance,Kumaresh,,2015-10-21T15:14:58.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,sh1ngg/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,sh1ng,,2015-10-21T13:32:15.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mtambos/xgboost-feature-importance,XGBoost Feature Importance,Mario Tambos,,2015-10-20T10:06:35.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,mtambos/test-xgb,test xgb,Mario Tambos,,2015-10-20T08:55:41.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,queiroz85/analise-inicial,Analise_Inicial,Iuri Queiroz,,2015-10-19T18:42:54.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,neutronabsorber/regression,Regression,Neutron Absorber,,2015-10-19T18:09:53.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,knottb/predict-sales-with-pandas-py,predict_sales_with_pandas.py,brak,,2015-10-19T03:25:32.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,liwzhi/xgboost,XGBoost,liwzhi,,2015-10-18T05:44:50.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,balakumarank/testt,testt,balakumarank,,2015-10-18T03:54:56.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saurabh1331/benchmark-random-forest,benchmark_random_forest,saurabh agarwal,,2015-10-17T19:23:39.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,lilithasya/test-ay,Test_AY,Lilith Asya,,2015-10-17T08:55:22.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,achenzion/test-1,Test_1,Ayal Chen-Zion,,2015-10-16T04:39:46.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,valerossi46/test-1,test 1,Lontrone74,,2015-10-15T12:47:00.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,alkrot/first,first,akrot,,2015-10-15T09:57:07.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,andfor/a-boring-test,a boring test,ZhenhuaLiu,,2015-10-15T07:12:15.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,lihao814386741/first-try,First Try,Hao Li,,2015-10-14T19:56:01.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,ibobriakov/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Igor Bobriakov,,2015-10-13T23:56:10.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thedoctor46/test-notebook,test_notebook,Mudit Jain,,2015-10-13T18:06:54.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,thorben/python-xgboost-0-10567-0-10655, Python_xgBoost(0.10567-0.10655)_,Thorben J. Wübbenhorst,,2015-10-13T12:53:19.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,selmiy/data-se,data_se,SELMI Youssef,,2015-10-13T10:13:03.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,zeroblue/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Michael Hartman,,2015-10-13T04:57:32.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dimitrislev/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Dimitris Leventis,,2015-10-10T17:15:35.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,achuthraomv/check-ks,check_ks,DeepCuriosity,,2015-10-10T16:47:53.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,dataying/testfile,TestFile,Ying,,2015-10-10T15:23:26.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,linpingta/test-py,test.py,linpingta,,2015-10-10T06:50:45.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,beiwenwu/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,:-D,,2015-10-06T23:01:20.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,anandbr/randomforestpython,RandomForestPython,AnandRajagopalan,,2015-10-06T17:29:25.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saber00/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,huangduojia,,2015-10-06T13:29:09.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,saber00/randomforest,RandomForest,huangduojia,,2015-10-06T12:41:42.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,qmaruf/xgboost-in-python-with-rmspe,XGBoost in python with RMSPE,Quazi Marufur Rahman,,2015-10-06T11:52:19.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,beiwenwu/rffillna,RFFillNa,:-D,,2015-10-06T06:50:03.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales
+,,,,,0,adason/xgboost,XGBoost,Adason,,2015-10-02T01:20:53.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,rossmann-store-sales

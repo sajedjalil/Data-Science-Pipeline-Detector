@@ -1,0 +1,81 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,fujisan/use-keras-pre-trained-vgg16-acc-98,use Keras pre-trained VGG16  acc 98%,fujisan,,2017-05-10T06:00:05.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],76,invasive-species-monitoring
+,,,,,0,jamesrequa/keras-k-fold-inception-v3-1st-place-lb-0-99770,Keras k-fold Inception V3 (1st place LB 0.99770),James Requa,,2017-08-16T00:02:22.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],41,invasive-species-monitoring
+,,,,,0,ievgenvp/keras-flow-from-directory-on-python,Keras flow_from_directory on Python,ievgen,,2017-08-09T18:48:20.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,invasive-species-monitoring
+,,,,,0,crequena/starter-s-pack-for-invasives-detection,Starter's Pack for Invasives Detection,Crequena,,2017-05-06T22:05:21.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,invasive-species-monitoring
+,,,,,0,finlay/naive-bagging-cnn-pb0-985,Naive Bagging CNN(PB0.985),MaXXX,,2017-05-26T07:53:50.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,invasive-species-monitoring
+,,,,,0,paulorzp/xgboost-starter,XGBoost Starter,Paulo Pinto,,2017-05-12T20:26:37.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,invasive-species-monitoring
+,,,,,0,algila/inception-v3-and-k-fold-in-python-0-98996,Inception v3 and k-fold in Python (0.98996),AlGiLa,,2017-08-06T00:14:38.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,invasive-species-monitoring
+,,,,,0,chmaxx/finetune-vgg16-0-97-with-minimal-effort,Finetune VGG16: 0.97% with minimal effort,chmaxx,,2017-05-26T08:42:01.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,invasive-species-monitoring
+,,,,,0,ardiya/tensorflow-vgg-pretrained,Tensorflow VGG Pretrained,Aditya Ardiya,,2017-05-15T18:35:23.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,invasive-species-monitoring
+,,,,,0,lbronchal/keras-pre-trained-vgg16-kaggle-runnable-version,Keras pre-trained VGG16 [KAGGLE RUNNABLE VERSION],Luis Bronchal,,2018-05-24T14:18:03.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,invasive-species-monitoring
+,,,,,0,idv2005/pytorch-starter-lb-0-988,Pytorch starter LB 0.988,chicm,,2017-07-04T03:50:59.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,invasive-species-monitoring
+,,,,,0,shuyuan00/resnet50-with-0-985lb,ResNet50 with 0.985LB,Shuyuan Zhao,,2017-08-09T23:41:09.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,invasive-species-monitoring
+,,,,,0,patilpramod2157/transfer-learning-using-inception-resnet-v2,Transfer learning using inception_resnet_v2,Pramod Patil,,2017-05-21T04:46:58.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,invasive-species-monitoring
+,,,,,0,ambarish/invasive-species-monitoring-analysis,Invasive Species Monitoring Analysis,Bukun,,2018-09-07T09:57:50.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,invasive-species-monitoring
+,,,,,0,mbeierling/retraining-inception-v3,Retraining Inception v3,Martin Beierling-Mutz,,2017-06-03T23:20:54.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,invasive-species-monitoring
+,,,,,0,amlacorp/keras-starter-fork,Keras Starter Fork,AMLA Corporation,,2017-05-11T22:57:57.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,invasive-species-monitoring
+,,,,,0,suhasmallya/keras-based-model-0-98lb,Keras based model - 0.98LB,Suhas,,2017-07-30T10:55:01.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,invasive-species-monitoring
+,,,,,0,netzone/visualization-using-cv2-and-keras-starter,Visualization using CV2 and Keras Starter,Net ,,2017-07-11T02:35:59.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,invasive-species-monitoring
+,,,,,0,vievie31/invasive-species-monitoring-lbp-descriptor,Invasive Species Monitoring: LBP descriptor,VieVie31,,2017-05-30T21:41:00.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,invasive-species-monitoring
+,,,,,0,joelpires/pytorch-invasive-species,Pytorch-invasive-species,Joel Pires,,2019-12-29T17:24:33.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,invasive-species-monitoring
+,,,,,0,shivamsarawagi/speciesimagedetection,SpeciesImageDetection,Shivam,,2019-03-21T04:36:05.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,invasive-species-monitoring
+,,,,,0,bhuvaneshwaran/invasive-species-monitoring-keras,Invasive Species Monitoring - Keras,Bhuvaneshwaran K,,2017-07-06T13:34:37.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,invasive-species-monitoring
+,,,,,0,darrellulm/keras-pretrained-vgg16-sample-test,Keras pretrained VGG16  Sample Test,Darrell Ulm,,2017-05-26T20:08:23.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,invasive-species-monitoring
+,,,,,0,crequena/notebook35d1a2a5e3,Notebook35d1a2a5e3,Crequena,,2017-05-06T13:29:37.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,invasive-species-monitoring
+,,,,,0,oysteijo/apriori-probabilities,Apriori probabilities,Øystein Schønning-Johansen,,2017-05-05T23:55:43.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,invasive-species-monitoring
+,,,,,0,leesangju92/ism-inceptionresnetv2,ISM_InceptionResNetV2,LSJU,,2019-09-28T02:55:13.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,anuragshas/invasive-species,Invasive Species,Anurag Singh,,2019-04-10T09:25:57.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,sahuja295/invasive-species-monitoring,invasive_species_monitoring,s.ahuja,,2018-10-31T08:14:28.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,jaredarcilla/invasive-species-inception,Invasive Species - Inception,Jared Arcilla,,2017-09-22T22:24:12.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,harveywang/use-keras-pre-trained-vgg16-acc-98,use Keras pre-trained VGG16  acc 98%,Harvey,,2017-07-27T23:40:05.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,cristianpb/explore-the-pictures-how-invasive-looks-like,Explore the pictures. How invasive looks like ?,CristianP,,2017-06-02T16:34:30.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,fenggoahead/starter-for-cnn-keras-not-finished,Starter for CNN & Keras(not finished),LiuFeng,,2017-05-21T13:29:21.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,canisindica/sd-keras-beginner,SD Keras beginner,Samhita,,2017-05-15T00:15:37.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,invasive-species-monitoring
+,,,,,0,afzal1232981/invasive-species-monitoring-lbp-descriptor,Invasive Species Monitoring: LBP descriptor,Afzal123*2981,,2021-12-10T08:18:58.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,simpletonwang/dl-hw1,DL HW1,Tianqi Wang,,2019-05-30T21:13:27.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,rajeevctrl/invasivespeciesmonitoring-cnn,InvasiveSpeciesMonitoring_CNN,Rajeev Pratap Singh,,2018-09-03T12:13:04.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,cooldba/keras-pre-trained-vgg16-kaggle-runnable-version,Keras pre-trained VGG16 [KAGGLE RUNNABLE VERSION],Denis Meng,,2018-10-22T13:55:15.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,vijaypagi/invasive-species,Invasive Species,Vijay P,,2018-07-30T03:47:57.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,jihyeseo/image-identify,image identify,Jihye Sofia Seo,,2018-05-08T18:12:24.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,david26694/invasive-species-with-transfer-learning,Invasive Species with Transfer Learning,david,,2018-04-16T17:37:00.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,lipei13/keras-k-fold-inception-v3-1st-place-lb-0-99770,Keras k-fold Inception V3 (1st place LB 0.99770),NUDT丁兆云DM课程,,2017-11-24T14:00:23.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,alusravs/invasive-species-vgg16-starter-code-91-2,Invasive Species - VGG16 (Starter Code) - 91.2%,sravani,,2017-08-23T13:16:52.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,manojagr/need-help-with-plain-tensorflow-cnn,Need Help with plain TensorFlow CNN,Manoj Agrawal,,2017-09-10T22:58:42.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,denespanta/custom-nn-with-keras,Custom NN with Keras,DenesPanta,,2017-08-05T12:24:15.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,meikintom/finetune-vgg16-0-97-with-minimal-effort,Finetune VGG16: 0.97% with minimal effort,Meikintom,,2017-08-04T02:29:01.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,jonahhsmith/w207-jonah,W207 Jonah,JonahSmith,,2017-08-03T02:37:06.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,animatronbot/solving-invasive-species-monitoring,solving Invasive Species Monitoring,AnimatronBot,,2017-07-28T09:44:31.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,zhiyue/visualization-using-cv2-and-keras-starter,Visualization using CV2 and Keras Starter,zhiyue,,2017-07-19T06:05:41.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,thefighter/keras-starter,Keras Starter,Rahul Gurnani,,2017-07-17T12:08:12.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,h123453047/build-cnn-model-with-keras,build cnn model with keras,Edison,,2017-07-07T06:38:17.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,ayaseeli/getting-started-cnn,Getting Started CNN,Akhiyar Waladi,,2017-08-08T13:14:37.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,itjygql/notebook406e0cac97,Notebook406e0cac97,ItGql,,2017-06-12T07:52:27.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,fenggoahead/using-pca-and-svm-not-useful,using PCA and SVM(not useful),LiuFeng,,2017-06-11T13:23:51.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,ylchan87/testscript,testscript,YLChan,,2017-06-09T05:04:33.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,djobey/notebook5f181316a1,Notebook5f181316a1,Obeyda,,2017-06-09T02:21:00.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,pfnsec/notebook4cf76027ce,Notebook4cf76027ce,Peter Sherman,,2017-06-03T18:43:44.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,czarnik/invasive,Invasive,Christian Hansen,,2017-05-31T15:20:11.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,czarnik/notebookb1b909f44d,Notebookb1b909f44d,Christian Hansen,,2017-06-01T04:06:37.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,czarnik/notebook765ce6d368,Notebook765ce6d368,Christian Hansen,,2017-05-31T15:14:22.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,ramaswamy/notebookc8c00d19ff,Notebookc8c00d19ff,Ramaswamy M,,2017-05-30T09:34:10.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,jinrui/youhaizhiwu,youhaizhiwu,jimmyjin,,2017-05-29T12:33:27.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,kalhan/testing,Testing,Kalhan Dhar,,2017-05-26T18:22:01.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,sweetriya/notebookf4787b27de,Notebookf4787b27de,RiyaAgrawal,,2017-05-18T06:16:19.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,babala/test-demo1,test demo1,ChengBi,,2017-05-16T15:01:46.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,babala/notebook5fe05d1427,Notebook5fe05d1427,ChengBi,,2017-05-16T14:54:35.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,ardiya/notebook46aac50ee0,Notebook46aac50ee0,Aditya Ardiya,,2017-05-15T17:40:56.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,manishsaraswat/invasive,Invasive,Erlich Bachman,,2017-05-15T08:51:48.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,pratik1390/notebook21d5d90bac,Notebook21d5d90bac,Pratik Parekh,,2017-05-14T06:49:24.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,pratik1390/notebook1dbf89f94b,Notebook1dbf89f94b,Pratik Parekh,,2017-05-14T06:49:04.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,shu2cheng/notebook69422b5d7b,Notebook69422b5d7b,who's your daddy,,2017-05-12T09:32:51.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,xd1234/notebooke186c6f2fc,Notebooke186c6f2fc,XD123,,2017-05-12T06:22:33.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,arjoonn/notebook6a9ea51564,Notebook6a9ea51564,ArjoonnSharma,,2017-05-10T11:54:51.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,aariani/notebookab0541d6f7,Notebookab0541d6f7,AndreaAriani,,2017-05-08T19:51:00.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,rikenmehta03/notebook5c8e6de130,Notebook5c8e6de130,Riken Mehta,,2017-05-08T10:54:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,rikenmehta03/notebookf0fc2a6069,Notebookf0fc2a6069,Riken Mehta,,2017-05-08T10:04:41.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,kengoichiki/notebooke813b17308,Notebooke813b17308,Kengo Ichiki,,2017-05-16T03:33:05.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,wisedoge/simple-data-visualization,Simple data visualization,Doge,,2017-05-08T03:23:08.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,stansilas/data-exploration-first-trial,Data Exploration:First Trial ,VivekMangipudi,,2017-05-06T22:52:33.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,wendykan/invasive-species-list-files,invasive species list files,Wendy Kan,,2017-05-05T22:34:04.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring
+,,,,,0,aagundez/notebook727b3a7234,Notebook727b3a7234,Aurelio Agundez,,2017-05-05T22:30:46.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,invasive-species-monitoring

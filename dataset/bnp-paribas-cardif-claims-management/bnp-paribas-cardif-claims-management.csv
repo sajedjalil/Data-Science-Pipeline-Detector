@@ -1,0 +1,271 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jpmiller/grouping-items-by-stockout-pattern,Grouping Items by Stockout Pattern,JohnM,,2020-04-07T21:07:55.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],92,bnp-paribas-cardif-claims-management
+,,,,,0,trottefox/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,Trottefox,,2016-04-15T18:17:12.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,bnp-paribas-cardif-claims-management
+,,,,,0,mpearmain/bayesianoptimization-of-random-forest,Bayesian Hyperparam Optimization of RF,Mike Pearmain,,2016-02-13T10:50:13.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,bnp-paribas-cardif-claims-management
+,,,,,0,bobcz3/exploring-bnp-data-distributions,Exploring BNP Data Distributions,BobC,,2016-02-25T04:12:02.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,bnp-paribas-cardif-claims-management
+,,,,,0,saisatish09/a-beginner-s-guide-to-feature-selection-methods,A beginner's guide to feature selection methods,Satish Varma,,2021-06-03T02:25:14.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,bnp-paribas-cardif-claims-management
+,,,,,0,adarshsng/extensive-advance-feature-selection-tutorial,Extensive: Advance Feature Selection Tutorial ! 🚀,KA-KA-shi,,2021-06-19T12:18:51.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,bnp-paribas-cardif-claims-management
+,,,,,0,trottefox/blending-trees,Blending trees,Trottefox,,2016-02-12T16:21:29.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,bnp-paribas-cardif-claims-management
+,,,,,0,director/simple-xgboost-0-46146,Simple XGBoost (0.46146),Dmitry M.,,2016-02-04T16:22:53.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,bnp-paribas-cardif-claims-management
+,,,,,0,confirm/xfeat-cudf-lightgbm-catboost-wip,xfeat + cuDF + LightGBM + CatBoost (WIP),Kohei,,2020-06-20T16:15:32.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,bnp-paribas-cardif-claims-management
+,,,,,0,chabir/extratreesclassifier-score-0-45-v5,ExtraTreesClassifier002,eagle4,,2016-03-24T19:13:20.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,bnp-paribas-cardif-claims-management
+,,,,,0,rushter/et-classifier,ET classifier,Artem Golubin,,2016-03-22T10:51:19.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bnp-paribas-cardif-claims-management
+,,,,,0,scirpus/benouilli-naive-bayes,Benouilli Naive Bayes,Scirpus,,2016-03-05T11:45:36.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,bnp-paribas-cardif-claims-management
+,,,,,0,omarelgabry/bnp-correlation-predictions,BNP Correlation & Predictions,OMAR ELGABRY,,2016-03-18T14:57:39.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bnp-paribas-cardif-claims-management
+,,,,,0,jstaker7/tensorflow-starter,Tensorflow Starter,jstaker7,,2016-02-18T04:07:27.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bnp-paribas-cardif-claims-management
+,,,,,0,rdslater/more-visualization,More visualization,Ronin,,2016-03-04T21:17:28.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bnp-paribas-cardif-claims-management
+,,,,,0,ouranos/lasagne-nn,Lasagne NN,Ouranos,,2016-03-12T10:56:46.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bnp-paribas-cardif-claims-management
+,,,,,0,yuhaichina/extratreesclassifier-score-0-45911,ExtraTreesClassifier (score 0.45911),yuhai,,2016-02-23T04:11:00.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bnp-paribas-cardif-claims-management
+,,,,,0,mpearmain/calibrated-sgdclassifier,Calibrated SGDClassifier,Mike Pearmain,,2016-02-10T09:09:27.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bnp-paribas-cardif-claims-management
+,,,,,0,scirpus/genetic-programming-2,Genetic Programming,Scirpus,,2016-03-10T10:59:21.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bnp-paribas-cardif-claims-management
+,,,,,0,monigame/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,monigame,,2016-04-16T12:06:14.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bnp-paribas-cardif-claims-management
+,,,,,0,remap1/correlations,Correlations,Gerard Toonstra,,2016-02-06T19:38:43.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bnp-paribas-cardif-claims-management
+,,,,,0,anokas/extratreesoptimisation,ExtraTreesOptimisation,anokas,,2016-03-11T20:29:10.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bnp-paribas-cardif-claims-management
+,,,,,0,confirm/xfeat-catboost-cpu-only,xfeat + catboost (cpu only),Kohei,,2020-06-19T13:17:26.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bnp-paribas-cardif-claims-management
+,,,,,0,mt77pp/mljar-automl-bnp-claims-management,MLJAR AutoML BNP Claims Management,Piotr,,2021-03-24T16:35:40.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bnp-paribas-cardif-claims-management
+,,,,,0,anokas/processing,processing,anokas,,2016-03-31T22:42:20.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bnp-paribas-cardif-claims-management
+,,,,,0,insaff/xgboost,XGboost,Insaf Ashrapov,,2016-03-21T14:37:41.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bnp-paribas-cardif-claims-management
+,,,,,0,dkozyr/xgb-feature-experiments,XGB feature experiments,Kozyr,,2016-02-24T22:04:42.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bnp-paribas-cardif-claims-management
+,,,,,0,uditsaini/exploring-bnp-paribas-data,Exploring_BNP_PARIBAS_data,udit,,2016-02-15T10:09:48.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bnp-paribas-cardif-claims-management
+,,,,,0,sakvaua/simple-na-visualization-python-script,Simple NA visualization python script,DennisSakva,,2016-04-04T20:53:17.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bnp-paribas-cardif-claims-management
+,,,,,0,insaff/trees,TREES,Insaf Ashrapov,,2016-03-17T13:03:57.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bnp-paribas-cardif-claims-management
+,,,,,0,kishoreb4/extratrees,ExtraTrees,kishore,,2016-03-12T17:20:08.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bnp-paribas-cardif-claims-management
+,,,,,0,bguberfain/v22-classifier,V22 classifier,Bruno G. do Amaral,,2016-03-05T16:31:19.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bnp-paribas-cardif-claims-management
+,,,,,0,anokas/xgb-quick-hack,XGB quick hack,anokas,,2016-02-05T21:02:29.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bnp-paribas-cardif-claims-management
+,,,,,0,remap1/xgb-quick-hack,XGB quick hack,Gerard Toonstra,,2016-02-03T23:28:40.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bnp-paribas-cardif-claims-management
+,,,,,0,kinsiangchia/bnp-claim-mgmt-catb,BNP Claim Mgmt (CatB),Kin Siang Chia,,2022-07-03T10:59:42.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,vijaykumarsh/bnp-paribas-eda-and-ensemble-approach,BNP Paribas EDA and Ensemble approach,vijaykumarSH,,2021-08-07T07:21:19.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,bguberfain/auto-data-un-scaling,Auto Data Un-scaling,Bruno G. do Amaral,,2016-05-13T22:17:47.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,gilmar2013/bnp-xgboost,Bnp_Xgboost,ToDelete,,2016-04-18T14:36:10.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,liviux/brief-exploration-categorical-variables,Brief Exploration: Categorical Variables,liviu,,2016-04-12T20:59:42.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,scirpus/ordinal-xgb-lb-46190,Ordinal XGB (LB .46190),Scirpus,,2016-04-06T07:41:47.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,tgrammat/et-cleanencoded-wo-collinear-attribs,ET (CleanEncoded wo Collinear attribs),tz512,,2016-03-28T13:26:09.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,anilcs/ectra-with-new-features,ectra with new features,Anil Kumar,,2016-03-27T18:51:34.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,engenious/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,Masoud Farivar,,2016-03-23T01:35:07.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,ogrellier/xtc-on-half-cols,XTC on full samples only,olivier,,2016-05-31T11:56:55.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,anilkumarkuppa/extratreesclassifier-score-0-45911,ExtraTreesClassifier (score 0.45911),AnilKumar,,2016-03-04T05:59:20.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,bguberfain/exploring-nan-s,Exploring NaN's,Bruno G. do Amaral,,2016-02-24T00:58:22.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,happycube/simple-cv-example-one-feature-near-rf,"Simple CV example (one feature, near-RF)",happycube,,2016-02-17T04:51:39.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,j55511/simple-skflow,simple skflow,drala,,2016-02-19T01:35:43.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bnp-paribas-cardif-claims-management
+,,,,,0,abylai57/xgboost,xgboost,Azamatov Abylaikhan,,2022-02-09T13:52:55.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,iambankaratharva/eda-ensemble-xgboost-et-bnp-paribas-cardif,EDA + Ensemble (XGBoost & ET) BNP Paribas Cardif,Atharva Bankar,,2020-06-01T17:57:58.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,ksamaiah/bnp-paribas-classification-problem,BNP Paribas Classification problem,Krishna chaitanya ,,2019-12-08T02:35:11.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,samrotashoka/bnp-xgboost,Bnp_Xgboost,Ashok kumar ,,2016-04-18T18:16:12.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,tonylin/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,Lin,,2016-04-17T16:12:10.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,mohdatir/new-trial,new_trial,Mohd Atir,,2016-04-15T06:13:51.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,sajal0jain/extratreesclassifier002,ExtraTreesClassifier002,Sajal Jain,,2016-04-14T16:50:28.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,paullo0106/tensorflow-starter,Tensorflow Starter,Paul,,2016-04-13T09:41:57.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,mohdatir/trail,trail,Mohd Atir,,2016-04-13T10:08:28.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,fmarinp/extratreesclassifier002,ExtraTreesClassifier002,fmarinp,,2016-04-13T07:58:23.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,happycube/ordinal-xgb-ii-lb-45787-cv-es,"Ordinal XGB II+ (LB .45787, CV + ES)",happycube,,2016-04-13T05:43:05.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,potterxu/first-python,first python ,potter xu,,2016-04-11T09:45:09.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,samrotashoka/et-classifier,ET classifier,Ashok kumar ,,2016-04-10T21:45:59.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,hmicha01/itsme,itsme,Hamdy Ay,,2016-04-09T16:06:48.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,mohdatir/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,Mohd Atir,,2016-04-08T06:08:47.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,towhid1/checking2,checking2..,Nurul Akter Towhid,,2016-04-05T07:33:57.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,kes367/extratrees,ExtraTrees,kes367,,2016-04-02T15:11:18.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,andriatrigeorgi/firsttesting,firsttesting,AndriaTrigeorgi,,2016-04-11T15:13:52.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,husterwgm/keras-neural-net,keras neural net,Huster_wgm,,2016-03-27T16:03:08.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,paullo0106/visualizing-the-nas-in-python,Visualizing the NAs in Python,Paul,,2016-03-27T15:25:03.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,anilcs/sgd-with-cv,SGD with CV,Anil Kumar,,2016-03-24T21:25:19.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,anilcs/et-classifier,ET classifier,Anil Kumar,,2016-04-15T03:05:14.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,akaggleg/xgboost-hyperopt-with-early-stopping,xgboost_hyperopt_with_early_stopping,aurelien Galicher,,2016-03-21T20:50:58.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,beesinspace/hackathon-initial-script,hackathon_initial_script,BeesInSpace,,2016-03-19T11:21:37.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,ranpan/whatisthis,whatisthis,Ran2015,,2016-03-15T05:29:53.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,chabir/extratreesclassifier-score-0-45755,ExtraTreesClassifier (score 0.45444 v1),eagle4,,2016-03-09T17:33:35.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,bobcz3/exploring-data-distributions,Exploring Data Distributions,BobC,,2016-02-25T03:55:44.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,mohdatir/bayesian-hyperparam-optimization-of-rf,Bayesian Hyperparam Optimization of RF,Mohd Atir,,2016-02-23T12:09:12.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,aaronkub/rf-w-numerics-subset-of-categoricals,RF w/ Numerics & Subset of Categoricals,Aaron Kub,,2016-02-21T16:50:10.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,pogodinstas/gradientboosting-0-47119,GradientBoosting: 0.47119,pogodinstas,,2016-02-17T14:44:33.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,director/clustering-data,Clustering Data,Dmitry M.,,2016-02-16T22:38:39.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,pauloalves/show-ram,Show RAM,Paulo Alves,,2016-02-15T13:58:10.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,leapming/insurance-claim,Insurance Claim,Luming,,2016-02-14T11:31:38.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,ys19931006/blending-trees,Blending trees,yshan,,2016-02-13T06:46:09.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,khaledfayed/xgb-quick-hack1,XGB quick hack1,Khaled Fayed,,2016-02-05T16:44:04.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,dkozyr/xgb-quick-hack,XGB quick hack,Kozyr,,2016-02-22T10:04:22.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,husseinnegm/simple-xgboost-0-46146,Simple XGBoost (0.46146),Hussein Negm,,2016-02-08T13:52:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bnp-paribas-cardif-claims-management
+,,,,,0,diasdusembek/lightgbm-gridsearch,LightGBM GridSearch,dusembekd,,2022-02-16T08:01:20.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,diasdusembek/lightgbm,LightGBM,dusembekd,,2022-02-15T10:41:49.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,abylai57/xgboost-prediction,xgboost prediction,Azamatov Abylaikhan,,2022-02-09T13:47:19.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,anggidwifiani/machine-learning-with-select-k-best,Machine Learning with Select K-Best,Anggi Dwifiani,,2021-07-13T23:44:38.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,slavavvv/bnp-paribas-cardif-claims-svyatoslav,bnp-paribas-cardif-claims Svyatoslav,Slava slava,,2020-10-26T20:10:20.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yukikita/ramdomforest-labelencoding,RamdomForest_LabelEncoding,Yuki Kita,,2020-05-22T00:56:01.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jihyeseo/cardif-eda-binary-class-130-cols,cardif eda binary class 130 cols,Jihye Sofia Seo,,2018-05-08T13:40:58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ozgurb/paribas-v1,paribas_v1,ozukun,,2018-04-12T06:40:00.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rspadim/adversarial-validation-bnp-paribas,Adversarial Validation - BNP Paribas,Roberto Spadim,,2017-10-27T14:47:19.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,lianghn/dropkbest-extratreesclassifier-solution,DropKBest-ExtraTreesClassifier-Solution,liang,,2017-09-09T10:30:44.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,lianghn/script-for-time-measurement-with-diff-ml-methods,Script for Time measurement with Diff. ML methods,liang,,2017-09-08T15:16:05.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,lianghn/simple-extratreesclassifier-solution,Simple-ExtraTreesClassifier-Solution,liang,,2017-09-08T15:11:16.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rsoren/notebook0522592744,Notebook0522592744,Reed Sorensen,,2017-05-14T23:47:58.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,mparker3/notebook07123b942c,Notebook07123b942c,Matthew Parker,,2017-04-28T19:13:34.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,qweasddd/notebookdc08e635cd,Notebookdc08e635cd,Maksim Golyadkin,,2017-03-26T19:07:21.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ashwinikmr/notebook9d3a3cdc51,Notebook9d3a3cdc51,ASHWINIKUMAR,,2017-03-08T19:25:05.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,heenadabke/notebook871ce3307f,Notebook871ce3307f,HeenaDabke,,2017-03-08T11:20:27.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,heenadabke/notebookdfbcffbba3,Notebookdfbcffbba3,HeenaDabke,,2017-03-08T11:12:00.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,mtfall/notebookc344a5bb85,Notebookc344a5bb85,Takuya Akiyama,,2017-02-14T05:00:05.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,benoua/notebook89d1eca1e7,Notebook89d1eca1e7,BenoitLetournel,,2017-02-01T16:43:04.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,geet17/notebook206b46e923,Notebook206b46e923,Bhavya Geethika,,2017-01-31T02:40:04.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,geet17/notebook7f70f20e03,Notebook7f70f20e03,Bhavya Geethika,,2017-01-31T02:39:47.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,longuial/notebook14d865f70e,Notebook14d865f70e,Aguillon Olivier,,2017-01-25T18:49:41.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,fatousall/notebooked35c5db6d,Notebooked35c5db6d,FatouSall,,2016-12-14T21:53:27.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,a1660398197/notebook7c7604ad4a,Notebook7c7604ad4a,ritian,,2016-12-11T00:48:08.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yogeshparte/notebook609cb0b199,Notebook609cb0b199,YogeshParte,,2016-12-09T00:51:37.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,kanalytics/bnp-correlation-predictions,BNP Correlation & Predictions,KanishkAgarwal,,2016-12-13T10:27:53.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,kanalytics/exploring-bnp-data-distributions,Exploring BNP Data Distributions,KanishkAgarwal,,2016-12-08T08:45:36.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,dplt280/notebookbb27513d84,Notebookbb27513d84,dplt,,2016-11-13T19:43:35.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,daihongxia/notebook02c0c3eedd,Notebook02c0c3eedd,HongxiaDai,,2016-11-13T18:38:42.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,daihongxia/notebook33871688aa,Notebook33871688aa,HongxiaDai,,2016-10-22T21:02:43.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,daihongxia/notebook4daf7b509d,Notebook4daf7b509d,HongxiaDai,,2016-10-22T20:11:32.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,zengjk/notebook420e5c54d8,Notebook420e5c54d8,Jaykay Z,,2016-10-22T20:10:42.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,bodhbhdearg/notebook6493ae28fd,Notebookb43ed1d39b,Daniel O'Shaughnessy,,2016-10-12T21:02:20.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rsifrain/exploring-bnp-data-distributions,Exploring BNP Data Distributions,Rocheny Sifrain,,2016-10-06T22:11:52.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,prateekgaur/exploring-bnp-data,Exploring BNP Data,Prateek Gaur,,2016-09-30T13:14:56.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chenchaodev/bnp-correlation-predictions,BNP Correlation & Predictions,Tony Chen,,2016-09-07T01:56:01.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chenchaodev/bruno-g-do-amaral-v22,Notebookf1f6f0bc6d,Tony Chen,,2016-09-05T13:24:59.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chenchaodev/auto-data-un-scaling,Auto Data Un-scaling,Tony Chen,,2016-09-05T12:57:45.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,nimanafisi/notebook33fc4c398c,Notebook33fc4c398c,nima,,2016-08-26T13:16:29.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,gurupanda/bnp-correlation-predictions,BNP Correlation & Predictions,Panda_Guru,,2016-08-18T13:04:37.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,achraf112/kmeans,kmeans,Achraf BENLEMKADDEM,,2016-08-01T11:29:17.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ssanyal/soumya,Soumya,ssanyal,,2016-06-29T22:05:07.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,starkjarvis/bnp-claims-mgmt-using-randomforestclass,BNP Claims Mgmt using RandomForestClass.,Rajat Sharma,,2016-05-29T12:38:23.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,kalyancharan/proscript,proscript,Kalyancharan,,2016-05-05T03:59:48.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jphan32/bnp-xgboost,Bnp_Xgboost,Sangjoon Han,,2016-04-18T23:21:04.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,wrudebusch/xgboost-erpack,xgboost(erpack),William Rudebusch,,2016-04-18T19:44:24.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chrislontos/knntest,KNNtest,Χρήστος Λόντος,,2016-04-18T13:40:09.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,pecoraro/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,pecoraro,,2016-04-18T16:06:14.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,hycu201401055/last-fork,LAST Fork,HoSangLee,,2016-04-18T12:24:46.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,grasspot/ex-tree-classifier,ex tree classifier,grass,,2016-04-18T13:31:47.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,divyanshusuri/d1ghkp,d1ghkp,DSXL,,2016-04-18T07:01:28.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,fmarinp/test01,test01,fmarinp,,2016-04-19T00:02:29.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chengjiun/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,cjma,,2016-04-17T09:02:27.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,grasspot/et-classifier2,ET classifier2,grass,,2016-04-17T03:53:08.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,kotomord/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,Kotomord,,2016-04-16T23:05:15.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,viveksarmar/nearest-neighbour-linear-features,Nearest Neighbour Linear Features,Vivek Sarma,,2016-04-16T12:57:26.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jop5oup/testtest2,testtest2,JoshuaEvans,,2016-04-16T05:18:45.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jop5oup/testtest,testtest,JoshuaEvans,,2016-04-16T05:17:42.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,juchul/et-classifier-v2,ET classifier_v2,juchuloh,,2016-04-18T15:43:57.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,juchul/et-classifier,ET classifier,juchuloh,,2016-04-18T08:56:14.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,devilica/et-classifier,ET classifier,xeraph,,2016-04-16T09:16:41.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,gilmar2013/et-classifier,ET classifier,ToDelete,,2016-04-17T20:09:58.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,scirpus/ordinal-xgb-ii-lb-45787-cv-es,"Ordinal XGB II+ (LB .45787, CV + ES)",Scirpus,,2016-04-16T07:34:20.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,pecoraro/decision-tree,decision tree,pecoraro,,2016-04-13T21:50:04.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,dstefa01/my-xgb-cross-val,My_xgb-cross-val,dstefa,,2016-04-12T17:55:38.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,algonell/bnp-paribas-fusion,BNP Paribas Fusion,Andrew Kreimer,,2016-04-14T08:17:50.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,dstefa01/extraoptimizedtree,ExtraOptimizedTree,dstefa,,2016-04-16T11:44:15.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,scirpus/ordinal-xgb-ii-lb-457,Ordinal XGB II (LB ~.457),Scirpus,,2016-04-12T12:58:21.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,pecoraro/esame-variabili,Esame variabili,pecoraro,,2016-04-18T08:55:22.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,nkishore/et-classifier,ET classifier,Nand Kishore,,2016-04-12T10:04:25.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tommontroy/et-classifier,ET classifier,TomM,,2016-04-11T16:46:04.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,pecoraro/my-first-test-xgboost,My first test xgboost,pecoraro,,2016-04-11T15:11:32.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ardalanm/testsd,testsd,Ardalan,,2016-04-11T12:47:04.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ekonst07/find-stdv,find_stdv,ekonst07,,2016-04-11T16:16:03.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,kain198/et-classifier,ET classifier,Artem Antipov,,2016-04-11T09:13:01.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,apostolia14/cool-team,cool team,apostolia,,2016-04-10T15:46:06.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,bakiev/et-classifier-1,ET classifier-1,Saba,,2016-04-10T15:24:40.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,apostolia14/linear09,linear09,apostolia,,2016-04-10T15:16:34.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,raghparihar/test123,Test123,raghvendra singh,,2016-04-09T18:33:58.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tgrammat/xgbtree-cleanencoded-wo-collinr-attribs,XGBTree[CleanEncoded wo Collinr Attribs],tz512,,2016-04-21T19:41:09.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,breezeintopieces/et-classifier,ET classifier,Yi Li,,2016-04-09T12:28:26.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yiangos/hello,hello,yiangos,,2016-04-12T13:24:40.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,pecoraro/exploring-bnp-data-distributions,Exploring BNP Data Distributions,pecoraro,,2016-04-11T12:07:01.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tsetsenos/firstpyscript,firstPyScript,Tsetsen,,2016-04-13T21:03:46.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,dariyush/notebook-2732ad466b2dd98a6a8f,Notebook 2732ad466b2dd98a6a8f,Dariyush,,2018-03-11T10:55:22.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,maddula/testing,Testing,Sampath Kumar,,2016-04-08T10:50:08.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rishikksh20/feature-extraction,Feature Extraction,Rishikesh,,2016-04-08T06:37:46.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,dkyang/exploring-bnp-data-distributions-1,Exploring BNP Data Distributions,dkyang,,2016-04-06T15:22:58.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jphan32/generic-workflow-for-binary-probability,Generic Workflow 0.48334,Sangjoon Han,,2016-04-04T21:30:06.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,nishkgp/benouilli-naive-bayes,Benouilli Naive Bayes,Nishant Kumar,,2016-04-04T20:11:15.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,nishkgp/raaaa,Raaaa,Nishant Kumar,,2016-04-04T02:37:37.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,nishkgp/data1,data1,Nishant Kumar,,2016-04-04T02:13:55.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,isaacmoore7/trial4,trial4,isaacmoore7,,2016-04-03T15:35:08.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,bassem16/et-classifier,ET classifier,Babar16,,2016-04-03T09:13:56.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,arjoonn/starter,Starter,ArjoonnSharma,,2016-04-07T09:32:06.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ramankaggle/et-classifier,ET classifier,RamanKaggle,,2016-04-01T15:54:36.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,aaronpennington/etclassifierdb,ETclassifierDB,Capt#Crunch,,2016-03-31T21:20:04.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tonylin/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,Lin,,2016-03-31T07:35:49.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,aldente/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,aldente,,2016-03-30T08:00:22.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,lamsiyuen/testing-for-my-learning-purpose,testing for my learning purpose,lamsiyuen,,2016-03-29T22:55:46.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,isaacmoore7/trial2,trial2,isaacmoore7,,2016-03-29T11:39:01.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,guanqing/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,Quincy,,2016-03-29T08:00:50.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,innerproduct/etclassifier-feature-importances,ETclassifier Feature Importances,Alexander Pushkin,,2016-03-29T00:49:47.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,aldocp/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,AldoCP,,2016-03-27T22:23:27.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jayendran/et-classifier-2,ET classifier 2,GS Jayendran,,2016-03-27T08:00:04.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,quanto123/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,quanto123,,2016-03-25T16:00:04.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,relopezbriega/mymodel,myModel,Raul Lopez Briega,,2016-03-25T03:42:21.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,leadbest/nn-cv4,NN CV4,HDKIM,,2016-03-24T22:54:23.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,zhuangh/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,zhuangh,,2016-03-23T21:14:01.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,scsmith2/et-classifier,ET classifier,Scott Smith,,2016-03-23T19:57:21.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,mystarta/abcdefg,abcdefg,JinSeon-a,,2016-03-23T14:14:56.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tjinsmu/datasss,datasss,tjin-smu,,2016-03-23T06:20:29.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,saravanann/bnp-cardif,bnp_cardif,Saravanan N,,2016-03-22T12:44:44.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,michaelfan/extratree,extratree,Miao Fan,,2016-03-22T07:33:29.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tazhoodeen/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,Tazhoo Deen,,2016-03-21T19:39:14.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,spiind/test-script,test_script,Filipe Spindola,,2016-03-21T13:33:45.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,datawitches/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,DataWitch,,2016-03-20T22:11:36.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,sushize/xgb-ssz-1,xgb_ssz,Shize Su,,2016-03-19T15:26:01.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rishiraj/trees,trees,Rishiraj,,2016-03-19T10:30:31.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,viveksarmar/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,Vivek Sarma,,2016-03-19T09:44:05.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,xarles/first-try,first try,Thales Sinelli Lima,,2016-03-18T19:51:52.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,xauen1980/firsttest1,firsttest1,xauen,,2016-03-18T16:23:10.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yar0vik/test-code,test_code,yar0vik,,2016-04-01T09:32:19.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chengjiun/generic-workflow-for-binary-probability,Generic Workflow for Binary Probability,cjma,,2016-03-18T08:37:46.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rdslater/lasagne-nn,Lasagne NN,Ronin,,2016-03-18T01:55:21.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,michaelfan/extreeeemetreee,ExtreeeemeTreee,Miao Fan,,2016-03-18T18:32:52.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,samliuxi/lasagne-nn,Lasagne NN,Xianghang Liu,,2016-03-17T00:42:32.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yupbank/test-bnp,test_bnp,peng yu,,2016-03-16T05:25:28.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,victordeb/first-test,First test,VictorDebray,,2016-03-14T21:21:29.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yangnanhai/extratrees,ExtraTrees,Vincent.Y,,2016-03-13T12:47:08.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,bakiev/try-it,Try it,Saba,,2016-03-13T13:03:12.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,innerproduct/extratrees-nb,ExtraTrees-nb,Alexander Pushkin,,2016-03-12T20:57:05.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,bakiev/boosting,Boosting,Saba,,2016-03-13T03:31:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,blackcore/extratrees-test,ExtraTrees_test,BlackCore,,2016-03-12T11:44:13.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,rganeshprasath/bnp-paribas-prelim,BNP_Paribas_prelim,Ganesh Prasath,,2016-03-12T17:57:16.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,liamdodd/ld-storm,ld-storm,LiamDodd,,2016-03-12T08:27:13.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,thakurrajanand/extratreesclassifier-score-0-45-v5,ExtraTreesClassifier (score 0.45 v5,DataGeek,,2016-03-12T03:13:19.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,outliar/sc111,sc111,Mohammad Shadab Alam,,2016-03-12T05:12:27.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,thomaskahn/initial-exploration,initial_exploration,thomaskahn,,2016-03-11T15:57:33.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tgrammat/extratreesclassifier-score-0-45911,ExtraTreesClassifier (optimized params),tz512,,2016-03-12T16:46:55.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,mujtabaasif/extratrees,ExtraTrees,MujtabaAsifAasi,,2016-03-11T11:34:40.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,blackcore/extratreesclassifier-test,ExtraTreesClassifier_test,BlackCore,,2016-03-11T11:47:52.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,sanjeevmk/get-input,get_input,sanjeev mk,,2016-03-10T01:32:05.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,michaelfan/extraboostree,EXTRABOOSTREE,Miao Fan,,2016-03-11T19:18:51.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,sanjeevmk/collect-and-clean,collect_and_clean,sanjeev mk,,2016-03-09T19:34:55.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,andreusancho/extratreesclassifier-score-0-45911,ExtraTreesClassifier (score 0.45755),Andreu Sancho-Asensio,,2016-03-11T17:22:30.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,sanjeevmk/data-analysis,Data analysis,sanjeev mk,,2016-03-08T13:17:44.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,danbizdadea/test111111111-11-11,test111111111 11 11,DanBizdadea,,2016-03-07T13:28:19.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,anilkumarkuppa/extratreesclassifier-score-0-45750,ExtraTreesClassifier (score 0.45750),AnilKumar,,2016-03-04T07:11:24.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,datawitches/test-001,Test_001,DataWitch,,2016-03-03T12:44:14.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ram1angadala/extratreesclassifier-score-0-45911,ExtraTreesClassifier (score 0.45911),RaPy,,2016-03-03T01:35:18.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,alexxanderlarko/extratreesver1,ExtraTreesVer1,Alexander  Larko,,2016-03-01T04:15:17.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,deeiip/first-test,first_test,Dipanjan,,2016-02-29T14:47:48.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,myloginid/bayesian-hyperparam-optimization-of-rf,Bayesian Hyperparam Optimization of RF -,Manish Maheshwari,,2016-02-29T10:37:27.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,anantb/aaaaaa,aaaaaa,AnantBhardwaj,,2016-02-28T18:46:43.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,gingayoshizawa/violinplots-of-numeric-variables,violinplots of numeric variables,Ginga,,2016-02-27T02:07:09.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ldw4678/test-1,test_1,李大大伟,,2016-02-26T11:04:09.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jszymczak/h2o-test-again,h2o test again,Jarek,,2016-03-31T08:32:27.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,johnfreeman/1123ddd,1123ddd,John Freeman,,2016-02-24T21:49:51.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,weiyu322/simple-xgboost-0-46146,Simple XGBoost (0.46146),Weiyu_SEU,,2016-02-24T08:40:33.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yidishui/trytry,trytry,yidishui,,2016-02-24T09:34:49.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,yidishui/testh,testH,yidishui,,2016-02-23T09:26:52.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,ujjwalshridhar/python-session-walmart-1,python_session_walmart_1,UJJWALSHRIDHAR,,2016-02-23T09:20:34.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,pshelokar/dataanalysis,DataAnalysis,Prakash Shelokar,,2016-02-23T07:25:18.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,dkozyr/xgboost-tiny,XGBoost tiny data,Kozyr,,2016-02-23T21:38:53.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,balakumarank/bnp1234,bnp1234,balakumarank,,2016-02-22T07:30:14.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chuhimself/beginner-analysis,Beginner Analysis,Charles Chu,,2016-02-21T11:37:51.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,chuhimself/elementary-analysis,Elementary Analysis,Charles Chu,,2016-02-21T07:08:45.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,bahman7891/nbayes,NBayes,Bahman,,2016-02-20T12:10:30.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jezifm/bnp-claims,bnp_claims,jezifm,,2016-02-21T03:54:22.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,sunnymarius/accelerate,accelerate,Marius,,2016-02-19T07:38:47.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,director/first-notebook-test,first_notebook_test,Dmitry M.,,2016-02-16T22:15:00.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,divyanshusuri/test-file,Test File,DSXL,,2016-02-16T13:59:23.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,signochastic/blending-trees,Blending trees,Reza,,2016-02-19T18:52:45.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,aaronkub/too-simple-random-forest-model,[TOO] Simple Random Forest Model,Aaron Kub,,2016-02-17T14:09:41.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,amandus/can-rf-challenge-xgboost,Can RF Challenge XGBoost,amandus,,2016-02-13T15:11:35.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,caspik/explore-data,explore_data,Dmitriy,,2016-02-13T00:03:34.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tuannng/testa,testa,novpla,,2016-02-11T08:18:08.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,jcjoy42/bnp-paribas-contest,BNP Paribas Contest,James Joy,,2016-02-17T03:01:50.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,fabsod/simple-xgboost-0-46146,Simple XGBoost (0.46146),fsodogandji,,2016-03-15T23:15:46.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,cliffpackman/simple-xgboost-0-46146,Simple XGBoost (0.46146),Cliff-Lee Packman,,2016-02-10T08:12:37.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,tjrileywisc/bnp-tjrileywisc,bnp_tjrileywisc,Timothy Riley,,2016-02-10T01:55:25.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,drpatrickchan/gbtreedepth6,gbtreedepth6,Patrick Chan,,2016-02-09T01:24:02.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management
+,,,,,0,totalrecall/getting-started-0-1-1,getting started 0.1,boxybrown,,2016-02-12T23:28:59.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bnp-paribas-cardif-claims-management

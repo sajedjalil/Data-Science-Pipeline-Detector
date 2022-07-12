@@ -1,0 +1,12 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sudalairajkumar/rainfall-of-rr1-percentile-bins,Rainfall of RR1 percentile bins ,SRK,,2015-06-09T19:14:01.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,how-much-did-it-rain
+,,,,,0,sudalairajkumar/rainfall-histogram-plot,Rainfall Histogram Plot,SRK,,2015-06-09T18:53:34.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,how-much-did-it-rain
+,,,,,0,devinanzelmo/kde-and-scatter-plot,Kde and Scatter plot,Devin Anzelmo,,2015-06-24T04:58:00.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,how-much-did-it-rain
+,,,,,0,devinanzelmo/component-cdf-s-and-sample-predictions,Component cdf's and sample predictions,Devin Anzelmo,,2015-06-23T02:11:53.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,how-much-did-it-rain
+,,,,,0,devinanzelmo/fiddling-with-xgb,Fiddling with XGB,Devin Anzelmo,,2015-06-08T05:08:28.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,how-much-did-it-rain
+,,,,,0,suchith0312/predicting-rainfall,Predicting rainfall,abccba,,2018-03-05T08:20:23.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,how-much-did-it-rain
+,,,,,0,devinanzelmo/log-histogram-of-label-values-version1,Histograms of label values ,Devin Anzelmo,,2015-06-23T02:12:03.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,how-much-did-it-rain
+,,,,,0,jihyeseo/rain-eda-need-to-unzip,rain eda - need to unzip,Jihye Sofia Seo,,2018-05-08T13:37:07.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain
+,,,,,0,jetheurer/liz-python,liz_python,Liz,,2015-10-11T23:00:54.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain
+,,,,,0,annavictoria/no-rain-no-gain-s-code,Test code for blog,Anna Montoya,,2015-06-08T21:21:44.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain
+,,,,,0,elenacuoco/splitmeandata-py,SplitMeanData.py,Elena Cuoco,,2015-05-14T10:38:13.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,how-much-did-it-rain

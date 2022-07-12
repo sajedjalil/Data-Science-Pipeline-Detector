@@ -1,0 +1,283 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,abhishek/vote-me-up,Beating the Benchmark ;) (0.71+),Abhishek Thakur,,2015-05-12T04:16:09.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],115,predict-west-nile-virus
+,,,,,0,vascovv/west-nile-heatmap,West Nile heatmap,Vasco,,2015-04-26T14:34:25.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,predict-west-nile-virus
+,,,,,0,fchollet/keras-deep-net-starter-code,Keras deep net starter code,fchollet,,2016-01-02T18:21:06.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,predict-west-nile-virus
+,,,,,0,bitsofbits/simple-lasagne-nn,Simple Lasagne NN,Tim Hochberg,,2015-05-20T13:05:30.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,predict-west-nile-virus
+,,,,,0,duttaroy/enhanced,enhanced,OverfitterScientist,,2015-06-17T07:32:46.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,predict-west-nile-virus
+,,,,,0,neilsummers/west-nile-heatmap-by-year,West Nile heatmap by year,Neil Summers,,2015-05-03T01:54:25.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,predict-west-nile-virus
+,,,,,0,binghsu/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Bing Xu,,2015-04-23T04:22:34.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,predict-west-nile-virus
+,,,,,0,irfanmansuri/west-nile-virus,West_Nile_Virus,iffy_,,2020-09-23T17:58:19.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,predict-west-nile-virus
+,,,,,0,triskelion/random-late-benchmark,Random late benchmark,Triskelion,,2015-06-12T20:26:12.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,predict-west-nile-virus
+,,,,,0,kotomord/simple-lasagne-nn,Simple Lasagne NN,Kotomord,,2015-06-10T14:51:30.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,predict-west-nile-virus
+,,,,,0,vascovv/positive-traps-per-week,Positive traps per week,Vasco,,2015-04-28T23:29:33.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,predict-west-nile-virus
+,,,,,0,kazanova/enhanced,enhanced,Μαριος Μιχαηλιδης KazAnova,,2015-06-15T11:55:45.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,predict-west-nile-virus
+,,,,,0,molozhenko/simple-lasagne-nnb,Simple Lasagne NNb,Evgeniy Molozhenko,,2015-06-17T04:26:24.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,predict-west-nile-virus
+,,,,,0,kazanova/simple-lasagne-nnb,Simple Lasagne NNb,Μαριος Μιχαηλιδης KazAnova,,2015-06-16T13:31:44.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,predict-west-nile-virus
+,,,,,0,ouranos/simple-lasagne-nnb,Simple Lasagne NNb,Ouranos,,2015-06-13T09:38:05.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,predict-west-nile-virus
+,,,,,0,hiendang/compute-auc-on-valid-set,compute AUC on valid set,Hien Dang,,2015-05-27T09:14:46.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,predict-west-nile-virus
+,,,,,0,vaibhavs2/west-nile-virus-complete-eda,West Nile Virus Complete EDA ,Vaibhav Srivastava,,2020-04-26T16:40:47.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predict-west-nile-virus
+,,,,,0,mlandry/starterpy,starterPy,mlandry,,2015-06-09T14:10:11.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predict-west-nile-virus
+,,,,,0,psilogram/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Silogram,,2015-04-23T18:32:08.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predict-west-nile-virus
+,,,,,0,despurious/simple-lasagne-nn,Simple Lasagne NN,DeSpurious,,2015-05-24T19:14:57.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predict-west-nile-virus
+,,,,,0,keithtrnka/species-by-year,Species by year,Keith Trnka,,2015-05-06T20:54:53.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predict-west-nile-virus
+,,,,,0,dchudz/show-map-image-in-python,Show Map Image in Python,David Chudzicki,,2015-04-22T17:48:57.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predict-west-nile-virus
+,,,,,0,vijaykrishnalikhith/190030375-westnile-virus,190030375_WESTNILE_VIRUS,vijaykrishna likhith,,2021-10-25T06:48:17.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predict-west-nile-virus
+,,,,,0,ctrlaltdel/west-nile-virus-prep-and-model,West Nile Virus Prep and Model,ATB,,2017-02-14T03:00:17.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predict-west-nile-virus
+,,,,,0,barisumog/random-late-benchmark,Random late benchmark,barisumog,,2015-06-12T21:55:43.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predict-west-nile-virus
+,,,,,0,alexxanderlarko/nn325x325x160,NN325x325x160,Alexander  Larko,,2015-06-04T07:40:01.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predict-west-nile-virus
+,,,,,0,bharatgarg/adaboost,adaboost,Bharat Garg,,2015-06-01T07:58:11.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predict-west-nile-virus
+,,,,,0,sjfcannon/spray-heatmap-by-year-species,Spray Heatmap by Year & Species,sjfcannon,,2015-05-12T22:01:59.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predict-west-nile-virus
+,,,,,0,alexxanderlarko/xgboost-rem,"XGBoost_ rem,",Alexander  Larko,,2015-06-10T03:13:37.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predict-west-nile-virus
+,,,,,0,bharatgarg/adaboost-valid-score,adaboost valid score,Bharat Garg,,2015-06-01T03:26:37.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predict-west-nile-virus
+,,,,,0,inversion/mosquitos-count-heatmap-by-year,Mosquitos Count heatmap by year,inversion,,2015-05-31T21:43:10.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predict-west-nile-virus
+,,,,,0,thedoctor46/lasagne-nn,lasagne nn,Mudit Jain,,2015-05-25T21:53:33.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predict-west-nile-virus
+,,,,,0,saireddydwarampudi/190030431-westnile-virus,190030431_WESTNILE_VIRUS,sai reddy Dwarampudi,,2021-10-09T14:06:14.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,kobiyashimaru/west-nile-virus-basic-eda-with-maps,West Nile virus Basic EDA with Maps,Aakash Bakhle,,2020-09-21T13:45:28.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,rajathmc/west-nile-virus-prediction,West Nile Virus Prediction :),Rajath Chidananda,,2018-03-08T12:47:11.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,wrudebusch/importance-of-features-forest,Importance of Features - Forest,William Rudebusch,,2016-04-05T22:18:15.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,mikezawitkowski/scriptexploration,ScriptExploration,Mike Zawitkowski,,2016-03-23T00:02:52.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,bharatgarg/garbage,garbage,Bharat Garg,,2015-07-07T10:59:24.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,alemorales/gradientboost-744,gradientboost-.74459,alekoki,,2015-06-15T00:31:25.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,askrotov/simple-lasagne-nn55,Simple Lasagne NN55,Anatoly Krotov,,2015-06-15T02:05:08.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,askrotov/simple-lasagne-nn,Simple Lasagne NN,Anatoly Krotov,,2015-06-10T07:29:07.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,lhy123/adaboost,gradientboost,LHY4,,2015-06-02T07:01:13.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,cleerline/my-first-script,My First Script,cleerline,,2015-06-01T19:23:20.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,bharatgarg/naive,naive,Bharat Garg,,2015-06-01T00:45:30.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,earino/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),earino,,2015-05-31T22:12:44.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,brianbai/west-nile-heatmap-by-year,West Nile heatmap by year,Brian Bai,,2015-05-30T22:39:38.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,alexxanderlarko/lasagne-nn-3, Lasagne NN_3,Alexander  Larko,,2015-05-28T04:07:00.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,molozhenko/wnvp-lasagne-nn,WNVP Lasagne NN,Evgeniy Molozhenko,,2015-05-25T14:10:24.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,thedoctor46/weather-data,weather_data,Mudit Jain,,2015-05-21T18:39:40.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,jpison/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),F.J.Martinez-de-Pison,,2015-05-21T15:16:49.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,abhisheksimhadri/simple-lasagne-nn,Simple Lasagne NN,Abhishek Simhadri,,2015-05-23T19:10:52.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,mathurinache/simple-lasagne-nnn,Simple Lasagne NNn,Mathurin Aché,,2015-05-20T11:27:07.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,mathurinache/xgboost-starter-code-python-0-69-msdw,"XGBoost Starter Code (python), 0.69 msdw",Mathurin Aché,,2015-05-26T08:23:12.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,keithtrnka/annual-precip-by-station,Annual precip by station,Keith Trnka,,2015-05-14T19:16:33.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,aymankh/simple-lasagne-nn,Simple Lasagne NN,Ayman Khalafallah,,2015-05-10T13:00:33.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,weilizhang/west-nile-heatmap,West Nile heatmap,Weili Zhang,,2015-05-09T04:39:17.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,mathurinache/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Mathurin Aché,,2015-05-08T19:37:45.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,mathurinache/simple-lasagne-nn,Simple Lasagne NN,Mathurin Aché,,2015-05-26T09:57:12.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,sunnymarius/first-try,First Try,Marius,,2015-06-11T04:35:37.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,amielm/testdshbvkjasbdougvbasoiuvbusihgv,testdshbvkjaSBdougvbasoiuvbusiHGv,amiel meiseles,,2015-04-27T12:58:33.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,sjfcannon/scratch,West Nile Heatmap by Year & Species,sjfcannon,,2015-05-12T21:37:52.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,apptrain/mosquito,mosquito,Michael,,2015-04-23T15:31:25.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,mmucha/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Marcin Mucha,,2015-04-23T09:43:38.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predict-west-nile-virus
+,,,,,0,chenzecharya/west-nile-virus-ensemble, West Nile Virus ensemble,Chen Zecharya,,2021-05-03T19:18:58.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,sergeydor/notebook933f3230ca,notebook933f3230ca,SergeyDormidontov,,2020-11-07T22:40:49.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,priyaldoshi/notebook69d5c6b8c8,notebook69d5c6b8c8,priyal,,2020-08-18T04:14:50.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shuunette/kernel333bd5eb54,kernel333bd5eb54,Ursu Lenne,,2019-10-04T14:14:37.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shuunette/kernel2385969e41,kernel2385969e41,Ursu Lenne,,2019-10-04T13:43:00.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,rishickesh/west-nile,WEst nile,Rishi99,,2019-03-27T17:15:54.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jihyeseo/mosquito-eda-every-2-years,mosquito eda every 2 years?,Jihye Sofia Seo,,2018-05-08T10:50:29.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,barudwale20/west-nile-ml-data-visualisation-data-analysis,WEST NILE- ML+ Data Visualisation + Data Analysis,Shubham Barudwale,,2018-03-25T19:25:39.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/notebook4afc9d811f,Notebook4afc9d811f,challenger,,2017-06-10T07:36:08.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/my-script,my script,challenger,,2017-06-08T21:18:31.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/notebookf132615c17,Notebookf132615c17,challenger,,2017-06-08T21:09:33.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/notebook08631533f4,Notebook08631533f4,challenger,,2017-06-08T21:01:11.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/notebook30f32f5d31,Notebook30f32f5d31,challenger,,2017-06-08T19:08:01.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/notebook443f45264c,Notebook443f45264c,challenger,,2017-06-09T19:21:24.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,royrosemarin/notebook6e168e2d80,Notebook6e168e2d80,challenger,,2017-06-09T18:51:28.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,reshma123/wne-prediction,WNE_prediction,blossom,,2017-05-30T12:42:16.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,netivs/west-nile-heatmap-by-year,West Nile heatmap by year,datahacker,,2017-05-12T02:38:42.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mjspeck/notebookd7b850c4f9,Notebookd7b850c4f9,mjspeck,,2017-04-17T13:06:33.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mikesnth/notebookd767f17e94,Notebookd767f17e94,Mike,,2017-04-17T00:16:36.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,umeshdhanwal/seemsfinal,SeemsFinal,Umesh,,2017-03-26T17:10:35.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,umeshdhanwal/trial,Trial,Umesh,,2017-03-29T06:27:41.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,karthiv/notebook2e676bbc70,Notebook2e676bbc70,KARTHI V,,2017-02-07T12:31:14.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,aaa789/notebook2a17a0c66d,Notebook2a17a0c66d,aaa789,,2017-01-30T12:27:23.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,aaa789/notebook27d55a88ef,Notebook27d55a88ef,aaa789,,2017-01-30T12:26:47.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vcop2x/notebook6b14cf8a55,Notebook6b14cf8a55,VijayaBhaskar,,2017-01-11T19:06:59.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,natejhall89/notebookd519e7ed02,Notebookd519e7ed02,halluva_good_time,,2017-01-09T16:11:45.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,samizdat/notebook0dda4f9953,Notebook0dda4f9953,R_B_,,2017-01-07T19:47:46.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,bazooz/testtesttest,testTESTTEST,bazooz,,2016-12-13T21:39:36.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,bazooz/notebook023bd425a9,Notebook023bd425a9,bazooz,,2016-12-13T21:34:16.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,bazooz/notebook7b237af677,Notebook7b237af677,bazooz,,2016-12-13T21:31:43.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,bazooz/notebook33b79f6cdb,Notebook33b79f6cdb,bazooz,,2016-12-13T21:31:37.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,micahhp/notebook5e8f3ccbee,Notebook5e8f3ccbee,MicahPerry,,2016-12-13T21:29:28.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cpleasants/notebook875313a811,Notebookbe1b58d00b,Chris Pleasants,,2016-12-08T23:36:14.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,yyalbert/notebookcd0da899f7,Notebookcd0da899f7,Albert Yu-Ying Lee,,2016-12-08T04:52:34.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,psahoo/notebookaf6a98dabe,Notebookaf6a98dabe,Pallavi,,2016-12-06T13:27:59.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,rajivtanna/test123,test123,Rajiv Tanna,,2016-12-05T16:10:09.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,chudovamarina/notebookb951a31584,Notebookb951a31584,Chudova Marina,,2016-11-29T15:43:34.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dnaylor/west-nile,west nile,DanNaylor,,2016-11-21T21:51:27.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,melaanya/fejfdddd,fejfdddd,melaanya,,2016-11-17T09:32:36.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,richardwall/west-nile-code,west_nile_code,RichardWall,,2016-11-13T02:35:57.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,richardwall/notebook07c868af29,Notebook07c868af29,RichardWall,,2016-11-12T15:25:43.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,arkadi/testing-kaggle-scripting,testing_kaggle_scripting,arkadi,,2016-11-02T10:36:55.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,antgoldbloom/notebooka5050839b7,Notebooka5050839b7,Anthony Goldbloom,,2016-10-21T23:13:52.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,liuy0095/notebookc02ff7a881,Notebookc02ff7a881,YangLiu,,2016-10-05T10:54:14.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,lulu4430/notebook47ffabc987,Notebook47ffabc987,lulu4430,,2016-09-26T16:15:00.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,isaac7/explore-data,Explore data,Isaac,,2016-09-16T03:18:27.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,tm1010/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Hans,,2016-09-13T05:49:04.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,tm1010/hans-west-nile-virus,Hans-West-nile-virus,Hans,,2016-09-13T05:43:21.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,tm1010/notebook624c225b20,Notebook624c225b20,Hans,,2016-09-13T05:39:44.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jasoncolon/notebooka244a78ab3,Notebooka244a78ab3,jasonc,,2016-08-30T23:40:02.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,lippmann/notebook5a9a15cf47,Notebook5a9a15cf47,RLippmann,,2016-08-17T13:14:08.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,somsuvra/notebook928df356b2,Notebook928df356b2,somsuvraChatterjee,,2016-08-12T10:26:14.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wencheih/notebook2b35227598,Notebook2b35227598,ml_science,,2016-08-10T07:48:40.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,indian/keras-deep-net-starter-code,Keras deep net starter code,Indian,,2016-07-26T06:16:25.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,tendlya/dhuyu,dhuyu,Tendlya,,2016-07-26T01:16:18.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,sanfranciscos/jkjhkjhkhk,jkjhkjhkhk,TakumaOishi,,2016-07-25T18:45:22.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dariusalaska/west-nile-heatmap,West Nile heatmap,Dalaska,,2016-05-30T14:38:21.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,elite1111cyj/test1wow,test1wow,YoungJae Jang,,2016-05-12T04:27:03.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,rachidbel/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),Rachid Belmeskine,,2016-04-26T13:42:16.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wrudebusch/beating-the-benchmark-0-71,RandomForestClassifier Minus a Few,William Rudebusch,,2016-04-05T22:27:32.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,hitfishking/this-is-my-folked-test-script,This is my folked test script,DongZheng,,2016-03-31T05:44:30.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,hitfishking/west-nile-heatmap,West Nile heatmap,DongZheng,,2016-03-31T05:24:51.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mikezawitkowski/mikeipynbexploration,MikeiPynbExploration,Mike Zawitkowski,,2016-03-22T23:49:30.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,heartreader/west-nile-heatmap,West Nile heatmap,Fan,,2016-03-27T19:49:56.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vasantha/jingle4,jingle4,Aricent,,2016-03-11T03:01:43.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vasantha/jingle-3,jingle 3,Aricent,,2016-03-11T02:43:31.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vasantha/jingle2,jingle2,Aricent,,2016-03-11T02:40:19.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vishalj88/hello,Hello,vishaljada,,2016-02-29T19:22:35.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shirmeir/shir-adaboost,Shir_adaboost,ShirMeir,,2016-02-09T17:31:16.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,zylix666/zylix666-first-class,Zylix666-first class,Simon Li,,2016-08-01T03:29:13.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,renelancine/west-nile-heatmap,West Nile heatmap,RenéLancineDoumbouya,,2015-12-21T15:50:20.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,gunerarslan/mytest,MyTest,Guner,,2015-12-12T22:39:21.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,frank10tank/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),Frank,,2015-12-12T15:40:00.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kipkeston/enhanced,enhanced,kkaggle,,2015-10-31T20:03:12.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,khyh00/west-nile-heatmap,West Nile heatmap (with comments ),khyh,,2015-10-17T15:48:15.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,pranabesh/kagglescriptsintro,kagglescriptsintro,PranabeshSinha,,2015-10-13T18:00:27.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,zhangchizju/chizhang1,chizhang1,ChiZhang,,2015-10-05T19:41:16.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,toonsegers/testhc,TestHC,toon,,2015-08-01T16:47:49.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jasiekgda/simple-lasagne-nnb-lc,Simple Lasagne NNb lc,jasiek,,2015-06-29T21:22:19.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,nhlx5haze/simple-lasagne-nnb,Simple Lasagne NNb,nhlx5haze,,2015-06-19T16:16:03.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kymhorsell1/simple-lasagne-nnbz,Simple Lasagne NNbz,kymhorsell,,2015-06-17T16:58:40.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,duttaroy/new-test,new test,OverfitterScientist,,2015-06-17T16:55:05.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,nkhuyu/onlyspeciese,OnlySpeciese,nkhuyu,,2015-06-17T01:27:56.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,liuyanyxy/extra-random-trees-auc-0-92-cv,Extra Random trees - AUC 0.92+ (CV),liuyanyxy,,2015-06-16T20:17:02.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,malais/hello-world,Hello World,Malai,,2015-06-16T15:07:55.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kotomord/simple-lasagne-nnb-small-shuffle,Simple Lasagne NNb small_shuffle,Kotomord,,2015-06-16T14:37:36.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mrandrewandrade/trying-out-kaggle-scripts,trying out kaggle scripts,Andrew Andrade,,2015-06-16T03:46:41.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,psaadbye/simple-lasagne-nnb-2week-weather,Simple Lasagne NNb 2week weather,Peter Saadbye,,2015-06-22T09:37:09.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,qiujiqiong/simple-lasagne-nnb-qiqi-test,Simple Lasagne NNb qiqi test,Jiqiong QIU,,2015-06-14T19:21:36.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,signipinnis/simple-lasagne-nnb-m2,Simple Lasagne NNb - M2,Signipinnis,,2015-06-14T16:22:15.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kymhorsell1/simple-lasagne-nnbb,Simple Lasagne NNbb,kymhorsell,,2015-06-14T00:59:15.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,farmiurl/script-1,script_1,Moussa Taifi,,2015-06-14T00:27:59.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kymhorsell1/enhanced2,enhanced2,kymhorsell,,2015-06-13T05:48:23.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kymhorsell1/simple-lasagne-nnz,Simple Lasagne NNz,kymhorsell,,2015-06-16T00:11:47.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,signipinnis/simple-lasagne-nnb,Simple Lasagne NNb,Signipinnis,,2015-06-12T19:48:42.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jmerlo/myscript,myscript,Jared,,2015-06-12T17:15:24.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,gshguru/simple-lasagne-nnb,Simple Lasagne NNb,Gurupad Hegde,,2015-06-14T17:03:42.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,yshan1980/thunder-script,thunder script,ShanYin,,2015-06-12T07:28:39.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,genoki/lasagne-test,lasagne_test,genoki,,2015-06-12T01:36:22.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,alexxanderlarko/nn1106,NN1106,Alexander  Larko,,2015-06-11T07:40:05.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,alemorales/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",alekoki,,2015-06-15T00:52:37.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,hmnshu/simple-lasagne-nn,Simple Lasagne NN,Himanshu Gamit,,2015-06-10T20:28:00.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,leizhou/firstkaggle,firstKaggle,Lei Zhou,,2015-06-10T18:26:00.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shawnwoo/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),shawnwoo,,2015-06-10T12:03:25.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,deepcnn/xgb-0-69,XGB (0.69),Deep,,2015-06-09T20:11:38.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,askrotov/enhanced3,enhanced3,Anatoly Krotov,,2015-06-09T11:10:39.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vk4arm/simple-lasagne-nn-with-spray-data-v3,Simple Lasagne NN with Spray data v3,Victor Kuriashkin,,2015-06-09T10:48:42.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kotomord/simple-lasagne-nn-with-spray-data,Simple Lasagne NN with Spray data,Kotomord,,2015-06-10T11:43:42.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,askrotov/enhanced2,enhanced2,Anatoly Krotov,,2015-06-09T03:39:11.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,askrotov/lb-0-71957-updated-forked-code,LB 0.71957 (updated forked code),Anatoly Krotov,,2015-06-09T02:45:52.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vk4arm/simple-lasagne-nn12,Simple Lasagne NN12,Victor Kuriashkin,,2015-06-10T17:59:02.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,askrotov/enhanced1,enhanced1,Anatoly Krotov,,2015-06-08T12:33:54.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,behnam/test01,test01,Behnam,,2015-06-08T05:39:59.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,pbkaran/simple-lasagne-nn,Simple Lasagne NN,Karan,,2015-06-07T18:58:43.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,ruilin/test-script-1,test-script-1,rlin,,2015-06-07T16:30:53.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,juandoso/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",juandoso,,2015-06-07T02:09:44.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,juandoso/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),juandoso,,2015-06-07T01:48:42.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dimitrislev/simple-lasagne-nn,Simple Lasagne NN,Dimitris Leventis,,2015-06-09T17:40:54.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,sorenravn/simple-lasagne-training-predictions,Simple Lasagne Training Predictions, sravn,,2015-06-06T06:55:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,stevendu/forked-keras-deep-net-starter-code,FORKED_Keras deep net starter code,Steven Du,,2015-06-05T15:51:47.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,xgwang/hello-wnv,hello wnv,xgwang,,2015-06-05T01:36:32.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,xgwang/simple-lasagne2,Simple Lasagne2,xgwang,,2015-06-05T07:16:01.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shihpeng/my-first-try,my-first-try,shihpeng,,2015-06-04T19:31:29.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kg2irq13/enhanced-test,enhanced_test,chronos,,2015-06-14T17:33:42.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,xgwang/theano,Lasagne1.2,xgwang,,2015-06-04T14:26:10.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,thakurrajanand/testing-1,Testing,DataGeek,,2015-06-04T10:19:25.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mpearmain/simple-lasagne-nn-v7,Simple Lasagne NN - adagrad,Mike Pearmain,,2015-06-07T01:00:17.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,deepcnn/nn-lasegne,NN (Lasegne),Deep,,2015-06-07T00:06:30.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wyywyp/adaboost-from-others,adaboost from others,wyywyp,,2015-06-09T03:28:30.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cristianounix/my-first-script,My First Script,Cristiano,,2015-06-02T01:42:52.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,despurious/simple-lasagne-nn3,Simple Lasagne NN3,DeSpurious,,2015-06-01T01:07:19.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,nikhil11/xgboost-python,XGBoost  (python),Nikhil,,2015-05-31T11:25:27.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dchudz/example-script-at-open-data-science,example script at open data science,David Chudzicki,,2015-05-30T20:53:14.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,clustifier/simple-lasagne-nn3,Simple Lasagne NN3,clustifier,,2015-05-30T18:59:29.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wooohooo/simple-lasagne-nn,Simple Lasagne NN_adlayer_aeasd,Thomas Rost,,2015-05-30T19:08:25.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,ihphpc/simple-lasagne-nn,Simple Lasagne NN,ihph,,2015-05-30T13:45:05.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,gshguru/simple-lasagne-nn3,Simple Lasagne NN3,Gurupad Hegde,,2015-06-14T16:57:21.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mpearmain/simple-lasagne-nn,Simple Lasagne NN,Mike Pearmain,,2015-05-29T08:01:52.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vk4arm/xgboost-python,XGBoost  (python),Victor Kuriashkin,,2015-05-28T23:44:31.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wenhao/testscript,TestScript,WenhaoLiu,,2015-05-28T12:34:47.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,milivojevic/simple-lasagne-nn-f3,Simple Lasagne NN f3,Čeduljko,,2015-05-27T14:25:03.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,benhamner/interactive-map-option-possible-bugfix,Interactive Map Option - Possible Bugfix,Ben Hamner,,2015-05-26T22:29:45.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wyywyp/copy-from-simple-lasagne-nn,copy_from_Simple Lasagne NN,wyywyp,,2015-06-02T06:47:22.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,elmira/simple-lasagne-nn,Simple Lasagne NN,Elmira,,2015-05-28T13:49:06.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,enigmadecoder/sample-script,sample script,Sai Krishna Bala,,2015-05-24T15:21:49.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,charmchi/beating-the-benchmark-1,Beating the Benchmark ;),Sadegh,,2015-05-24T09:09:50.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dchudz/another-map-option-interactive,Another Map Option - Interactive,David Chudzicki,,2015-05-24T02:24:37.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vadimomelchenko/experimentz,Experimentz,Vadim Omelchenko,,2015-05-23T21:17:36.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,fr3akp/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",fr3ak,,2015-05-23T09:42:17.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,alexxanderlarko/lasagne-sample-01,Lasagne_sample_02,Alexander  Larko,,2015-05-26T09:06:10.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,duttaroy/beating-the-benchmark,LB 0.71957 (updated forked code),OverfitterScientist,,2015-06-12T06:32:26.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wyywyp/my-test,my_test,wyywyp,,2015-06-01T14:54:43.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,molozhenko/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),Evgeniy Molozhenko,,2015-05-22T03:20:41.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,wangyuqi1991/simple-lasagne-nn,Simple Lasagne NN,Yuqi Wang,,2015-05-21T03:23:58.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,charmchi/simple-lasagne-nn,Simple Lasagne NN,Sadegh,,2015-06-05T11:46:00.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,ouranos/simple-lasagne-nn,Simple Lasagne NN,Ouranos,,2015-06-07T14:22:32.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,deepcnn/simple-lasagne-nn-m,Simple Lasagne NN - m,Deep,,2015-05-19T04:53:25.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,zolifekete/test-run,test run,ZoliFekete,,2015-05-18T08:47:58.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,tvural/starter,Starter,TimurVural,,2015-05-16T01:34:43.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,gzsiceberg/beating-the-benchmark-0-71,Beating the Benchmark ;) (0.71+),Gzs_iceberg,,2015-05-13T10:49:38.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,brianweickmann/testy,testy,BrianWeickmann,,2015-05-11T22:45:29.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,bharathsrikanth/my-script,My script,Bharath Srikanth,,2015-05-11T18:52:34.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shawn775/simple-lasagne-nn,Simple Lasagne NN,shawn,,2015-05-08T17:01:33.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,alexxanderlarko/simple-lasagne-nn,"Simple Lasagne NN_0,6,7,9",Alexander  Larko,,2015-05-08T05:42:36.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,aesnau/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",XKaggler,,2015-05-08T17:39:02.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,zechxu/testing,testing,Freeemaen,,2015-05-07T00:21:51.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,findingsatya/satya,Satya,Satya,,2015-05-06T06:28:03.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,chitterman/imi-on-the-nile-virus,Imi on the Nile Virus,Imi Chitterman,,2015-05-05T01:58:06.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,xianen/test-virus,test_virus,Angus,,2015-05-03T18:54:05.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,akilaw/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Akila Wajirasena,,2015-05-02T03:52:24.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,miguel76/initialtest,InitialTest,Miguel Ceriani,,2015-05-01T19:03:12.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,akilaw/keras-deep-net-starter-code,Keras deep net starter code,Akila Wajirasena,,2015-05-01T18:46:12.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,maryfatima/xgboost-python,XGBoost (python),CS822_MaryamQamar-SughraRazzaq,,2015-05-01T02:35:25.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mattvonrohr/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Matt,,2015-04-30T14:22:34.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dilipreddydevaram/first,First,Dilip Reddy Devaram,,2015-04-30T10:51:45.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,teracrator/xgboost-starter-code-python-0-69,XGBoost  (python),Teracrator,,2015-05-28T20:13:08.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,lmatamba/westnile,WestNile,Lemma,,2015-04-27T17:10:58.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,katzmann/test-12321,test 12321,Katzmann,,2015-04-27T07:44:12.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,shuntaromaeda/testscript,testscript,Shuntaro Maeda,,2015-04-27T05:27:30.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jkbschwarz/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",jkbschwarz,,2015-04-26T13:54:52.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,tsereda/keras-deep-net-starter-code,Keras deep net starter code,taras sereda,,2015-04-26T08:06:55.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,ff243305/test1,test1,f f,,2015-04-26T02:47:03.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jbobtaylor/show-map-image-in-python,Show Map Image in Python,jakeybob,,2015-04-25T16:01:28.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,craveiro/previously,Previously,Craveiro,,2015-04-26T00:16:03.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vcwong/xgboost-starter-code-python-v1,"XGBoost Starter Code (python), v2",Vincent Wong,,2015-04-25T06:17:00.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cs822ms1/xgboost-starter-code-python-temp,XGBoost Starter Code (python)temp,CS822-MS,,2015-04-25T05:15:20.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,lancezhange/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",lancezhange,,2015-04-25T03:13:38.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,rshield/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",rshield,,2015-04-25T03:00:13.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,maryfatima/xgboost-starter-code-python,XGBoost Starter Code (python),CS822_MaryamQamar-SughraRazzaq,,2015-04-25T02:56:34.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,daniharsh28/start-py,start.py,Harsh Dani,,2015-04-24T22:33:03.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,ezequielaguilar/https-www-kaggle-com-c-predict-west-ni,https://www.kaggle.com/c/predict-west-ni,Ezequiel Aguilar-Gonzalez,,2015-04-24T22:12:48.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dandye/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Dan D.,,2015-04-24T21:53:45.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,danbenson/title,Title,DanBenson,,2015-04-24T21:35:32.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,polyaxon/polyaxon,polyaxon,polyaxon,,2015-04-24T21:05:48.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,machine/keras-deep-net-starter-code,Keras deep net starter code,deccs,,2015-04-24T21:03:02.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vmachan/test1,test1,Vinu,,2015-04-24T20:15:41.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,timcdlucas/firsttest,FirstTest,timcdlucas,,2015-04-24T18:53:17.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,ronanmoynihan/keras-deep-net-starter-code,Keras deep net starter code,Ronan Moynihan,,2015-04-24T18:51:09.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vkushwaha/keras-deep-net-starter-code,Keras deep net starter code,Vivekanand,,2015-04-24T18:36:21.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,vpdelta/testing,Testing,Vitaly Pimenov,,2015-04-24T18:22:30.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,alamot/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Alamot,,2015-04-24T18:02:53.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,jeffrharrison/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Joof,,2015-04-24T17:52:41.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,retroam/tro-m,tro_m,retroam,,2015-04-24T17:32:59.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,mnarayan/xgboost-starter-code-python-0-70,"XGBoost Starter Code (python), 0.70",jern,,2015-05-12T21:52:42.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,philschmidt/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Philipp Schmidt,,2015-04-24T16:35:57.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,thibaultverhoeven/keras-deep-net-starter-code,Keras deep net starter code,ThibaultV,,2015-04-24T12:15:27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cs822ms1/xgboost-starter-code-python-edited,"XGBoost Starter Code (python),edited",CS822-MS,,2015-04-24T09:49:26.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cs822ms/xgboost-starter-code-python-edited,"XGBoost Starter Code (python),edited",CS822_M_S,,2015-04-24T07:01:08.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,maryfatima/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",CS822_MaryamQamar-SughraRazzaq,,2015-04-24T05:31:48.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,kakuta0/python-demo,python demo,kakuta,,2015-04-24T03:41:00.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,deepcnn/xgboost-starter-code-python,XGBoost Starter Code (python),Deep,,2015-04-24T03:31:24.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cs822am/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python),temporary",CS822_AM,,2015-04-24T10:33:52.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,credo61020/pattem-trial,pattem_trial,credo,,2015-04-23T17:34:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,machine/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",deccs,,2015-04-23T15:02:21.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,cfhlearns/test1,test1,cfh,,2015-04-23T07:02:58.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,alexxanderlarko/xgboost-starter-code-python-0-69,"XGBoost Starter Code (python), 0.69",Alexander  Larko,,2015-04-23T06:13:33.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dchudz/which-python,Which python?,David Chudzicki,,2015-04-23T04:52:53.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,juandoso/loadingfiles,LoadingFiles,juandoso,,2015-04-22T23:21:49.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus
+,,,,,0,dchudz/input-files-1,Input Files,David Chudzicki,,2016-11-14T15:23:57.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predict-west-nile-virus

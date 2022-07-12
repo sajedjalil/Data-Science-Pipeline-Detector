@@ -1,0 +1,830 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,anokas/time-travel-eda,Time Travel (EDA),anokas,,2016-08-05T16:48:26.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],196,predicting-red-hat-business-value
+,,,,,0,abriosi/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,Gonçalo Abreu,,2016-08-26T22:22:16.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],99,predicting-red-hat-business-value
+,,,,,0,zfturbo/xredboost,XRedBoost,ZFTurbo,,2016-08-02T08:48:22.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],74,predicting-red-hat-business-value
+,,,,,0,ijkilchenko/python-ver-of-group-1-and-date-trick,Python ver. of group_1 and date trick,Alex Ilchenko,,2016-08-17T01:14:20.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,predicting-red-hat-business-value
+,,,,,0,qqgeogor/keras-benchmark,keras benchmark,qianqian,,2016-09-02T03:25:21.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,predicting-red-hat-business-value
+,,,,,0,scirpus/lr-0-978744,LR ~ 0.978744,Scirpus,,2016-08-06T16:45:35.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,predicting-red-hat-business-value
+,,,,,0,yassinealouini/hyperopt-the-xgboost-model,Hyperopt the Xgboost model,Yassine Alouini,,2016-08-25T06:19:25.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,predicting-red-hat-business-value
+,,,,,0,jeffd23/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Jeff Delaney,,2016-08-02T07:16:34.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,predicting-red-hat-business-value
+,,,,,0,yassinealouini/features-processing,Features processing,Yassine Alouini,,2016-08-21T10:00:09.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,predicting-red-hat-business-value
+,,,,,0,anokas/beat-the-benchmark-0-54940,Beat the Benchmark! (0.54940),anokas,,2016-08-01T21:21:41.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,predicting-red-hat-business-value
+,,,,,0,kevinpalm/simplified-leak-starter-template,Simplified Leak Starter Template,Kevin Palm,,2016-08-19T23:15:40.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,predicting-red-hat-business-value
+,,,,,0,jtrotman/generate-pixel-plots-of-outcome-by-group-day,Generate pixel plots of outcome by group/day,James Trotman,,2016-09-20T14:04:07.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,predicting-red-hat-business-value
+,,,,,0,nickel/beat-the-benchmark-88-with-char-38,Beat the Benchmark (.88) with char_38,Rafael Crescenzi,,2016-08-03T19:24:38.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,predicting-red-hat-business-value
+,,,,,0,scirpus/gp-lb-0-984930,GP LB 0.984930,Scirpus,,2016-09-13T07:29:33.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,predicting-red-hat-business-value
+,,,,,0,amazingbob/naive-bayes-categorical-feature-only,naive bayes (categorical feature only),Jianbo Ye,,2016-08-02T02:01:03.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,predicting-red-hat-business-value
+,,,,,0,deepakkumargunjetti/classify-customer-potential,Classify Customer Potential,Deepak kumar Gunjetti,,2021-11-16T07:14:15.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,predicting-red-hat-business-value
+,,,,,0,anokas/0-92-in-5-lines,0.92 in 5 lines,anokas,,2016-08-17T02:05:03.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predicting-red-hat-business-value
+,,,,,0,vangaa/deep-try-with-keras-auc-0-93025,Deep try with Keras. AUC = 0.93025,Vang,,2016-08-04T13:15:38.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predicting-red-hat-business-value
+,,,,,0,dautovri/pipeline-votingclassifier-0-95347,Pipeline & VotingClassifier 0.95347,Ruslan,,2016-08-06T08:56:16.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predicting-red-hat-business-value
+,,,,,0,divnull/explore-people-activity-count,Explore People Activity Count,Div-Null,,2016-08-02T10:20:05.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,predicting-red-hat-business-value
+,,,,,0,dataengel/predicting-red-hat-business-value,Predicting Red Hat Business Value,Miguel Angel Velazquez Romero,,2021-03-21T05:25:42.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predicting-red-hat-business-value
+,,,,,0,wafadje/predicting-red-hat-business-value,Predicting Red Hat Business Value,Wafa,,2020-11-17T14:43:01.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predicting-red-hat-business-value
+,,,,,0,happycube/python-ver-of-group-1-and-date-trick,Python ver. of group_1 and date trick,happycube,,2016-09-04T17:03:10.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predicting-red-hat-business-value
+,,,,,0,garethjns/the-eleanor-roosevelt-approach,The Eleanor Roosevelt approach,GarethJones,,2016-08-05T08:41:25.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predicting-red-hat-business-value
+,,,,,0,jeffd23/analysis-of-char-38-key-feature,Analysis of char_38 - Key Feature,Jeff Delaney,,2016-08-02T18:23:13.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,predicting-red-hat-business-value
+,,,,,0,qqgeogor/keras-cnn-based-benchmark,keras cnn based benchmark,qianqian,,2016-09-13T09:06:30.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,tejasshinge27/redhat-humds,Redhat  - HUMDS,Tejas Shinge,,2016-09-10T18:57:52.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,ogrellier/folding-per-group-to-mimic-train-test-dataset,Folding per group to mimic train/test dataset,olivier,,2016-09-09T18:45:17.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,scirpus/gp-plus-santander-style-heuristics,GP plus santander-style heuristics!,Scirpus,,2016-08-23T16:33:16.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,anokas/redhatxgb-bb505a62,RedHatXGB bb505a62,anokas,,2016-08-21T20:31:27.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,scirpus/power-divergence-to-find-parameters,Power Divergence to find parameters,Scirpus,,2016-08-21T09:58:59.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,yassinealouini/red-hat-data-exploration,Red hat data exploration,Yassine Alouini,,2016-09-04T14:45:51.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,kevinpalm/people-eda-and-decomposition,People EDA and Decomposition,Kevin Palm,,2016-08-14T23:56:38.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,garethjns/combined-forests-0-95,Combined forests (0.95+),GarethJones,,2016-08-03T18:49:26.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-with-leak,XGBoost with Leak,ilovescience,,2016-09-13T21:26:49.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,bostdiek/initial-look-at-dates-and-profit,Initial look at dates and profit,Bryan,,2016-08-20T22:03:02.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,unicorn23/redhat-data-analysis-part1,Redhat data analysis - part1,unicorn,,2016-08-09T10:12:35.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,anokas/notebook2a6ebc2ab6,Notebookd6fc8964c0,anokas,,2016-08-03T21:38:53.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,anokas/deconfusion,Notebook001e44363a,anokas,,2016-08-03T21:36:16.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,mohdatir/xredboost,XRedBoost,Mohd Atir,,2016-08-02T12:39:09.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,letfoolsdie/beat-the-benchmark-0-54940,Beat the Benchmark! (0.54940),Nikolay Semyachkin,,2016-08-01T21:45:09.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,predicting-red-hat-business-value
+,,,,,0,mohammedelhamraoui/dnn-red-hat-business-value,DNN Red_Hat_Business_Value,Mohammed El Hamraoui,,2022-02-24T15:01:35.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,marinovik/predicting-business-value-with-lightgbm-red-hat,Predicting Business Value with LightGBM. Red Hat.,marinovik,,2021-02-08T14:03:22.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,wwu651/lightgbm-with-sklearn-interface,LightGBM with Sklearn interface,M.J. Wu,,2019-03-13T03:39:33.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,harshitnarang/redhat-business-value-prediction,Redhat Business Value Prediction ,harshitnarang,,2018-07-03T05:27:56.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,xingobar/classify-xgboost,classify_xgboost,Gary Ng,,2016-12-03T11:23:07.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,xingobar/classify-group,classify_group,Gary Ng,,2016-12-03T06:29:33.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,wordsforthewise/keras-benchmark,keras benchmark,Nathan George,,2016-09-23T06:49:25.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,itsmeumesh/red-hat-script,Red_hat_script,Umesh k ,,2016-09-17T16:30:15.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,zonemercy/notebook3b11ef1b04,Notebook3b11ef1b04,ZZ,,2016-09-15T14:40:38.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,fanxain/first-project,First-Project,fanxian,,2016-09-14T23:56:13.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,mousehead/data-from-raw-to-sparse-and-ready-to-fit,Data from raw to sparse and ready to fit,Sergey Kuznetsov,,2016-09-13T00:11:39.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,salkaa/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,Sasho Nedelkoski,,2016-09-07T14:54:58.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,iamchanchal/customerpotential-xgboost,CustomerPotential(xgBoost),ChanchalSarkar,,2016-09-06T14:53:07.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,rockingthunder17/notebookc1a9a24a49,Notebookc1a9a24a49,Gourav Sb,,2016-09-05T14:35:54.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,juleswang/group-1-trick,group_1 trick,Jules,,2016-09-06T02:50:01.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,elenacuoco/redhat-using-pyspark,RedHat using PySpark,Elena Cuoco,,2016-09-01T16:05:11.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,marcinchilik/testroc,TestROC,Marcin Chilik,,2016-08-14T22:45:06.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,imannekooeimehr/handling-categorical-variables,Handling Categorical Variables,Iman Nekooeimehr,,2016-08-15T05:30:53.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,kaysuh/data-munging-red-hat,Data munging red hat,Kwangsik Suh,,2016-08-08T12:50:17.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,kretes/eda-duplicates-and-train-vs-test-distributions,EDA - duplicates and train vs. test distributions,Tomasz Bartczak,,2016-08-07T20:38:36.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,dipayan/redhatter,RedHatter,DipayanSinhaRoy,,2016-08-08T09:20:52.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,moscolitos/notebookd6fed3220f,Notebookd6fed3220f,RedouaneChafi,,2016-08-04T11:59:21.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,apartmentguru/boost-the-red,Boost the Red,Jorellano,,2016-09-13T17:05:56.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,anokas/notebook9205bf38ab,deconfusion2,anokas,,2016-08-03T21:39:27.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,kevinkirchhoff/outcome-by-mean-of-char38,Outcome by mean of char38,Kevin Kirchhoff,,2016-08-03T17:26:01.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,iampritishpatil/xredboost,XRedBoost,Pritish Patil,,2016-08-02T20:05:00.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,hulkbulk/xredboost,XRedBoost,HulkBulk,,2016-08-02T12:55:24.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,jwegas/data-exploration,data_exploration,Evgenii Zhukov,,2016-08-02T05:27:39.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,predicting-red-hat-business-value
+,,,,,0,christianhritter/predictbusinessvalue-eda,PredictBusinessValue_EDA,Christian Ritter,,2020-11-25T15:22:35.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,raivokoot/0-982-using-neural-networks-and-embeddings,0.982 Using Neural Networks and Embeddings,Raivo Koot,,2020-04-04T16:58:03.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gvm1999/red-hat-prediction,Red Hat Prediction,Guilherme Vallim,,2019-08-27T13:49:07.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,muthuraja/red-hat-muthuraja,Red Hat - Muthuraja,muthu,,2019-03-23T03:30:48.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jihyeseo/redhat-eda-category-classify,redhat eda category classify,Jihye Sofia Seo,,2018-05-08T10:39:18.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jayspeidell/red-hat-exploratory-data-analysis,Red Hat - Exploratory Data Analysis,Jay Speidell,,2018-04-29T01:50:00.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cloudly/redhat-behavioural-study,RedHat Behavioural study,Lyth,,2017-06-22T09:17:03.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,itnasssss/folding-per-group-to-mimic-train-test-dataset,Folding per group to mimic train-test dataset,SantiAbando,,2017-05-14T07:12:50.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,harshratde/notebooka87e6f6ee1,Notebooka87e6f6ee1,\m/-;),,2017-05-05T12:22:12.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,flpxiao/notebooke679ff0c20,Notebooke679ff0c20,Philip Xiao,,2017-04-23T04:43:37.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,deevisha/notebook077f800c93,Notebook077f800c93,deevishaverma,,2017-04-20T09:18:47.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,deevisha/notebook55fc18d5cd,Notebook55fc18d5cd,deevishaverma,,2017-04-19T11:26:28.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,deevisha/notebook4d9afd098b,Notebook4d9afd098b,deevishaverma,,2017-04-19T13:09:22.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,infzero/notebookee8c19c8eb,Notebookee8c19c8eb,infzero,,2017-04-16T03:33:21.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vanint/notebook77b847503b,Notebook77b847503b,Yifan Zhang,,2017-03-30T13:06:33.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shanshanlv/notebook16161f187a,Notebook16161f187a,Shanshan,,2017-03-16T03:57:25.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,donalmaceoin/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,DanielJackson,,2017-03-02T12:41:03.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,deepin/notebook67af89b16a,Notebook67af89b16a,Allen,,2017-03-02T06:38:34.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yananwu/time-travel-eda,Time Travel (EDA),wuyanan,,2017-02-27T08:06:59.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hlchen/notebooke0fbe34b76,Notebooke0fbe34b76,chenhl,,2017-02-24T05:38:28.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kuchi428/notebookb26e8153ce,Notebookb26e8153ce,ruthwick,,2017-02-20T12:46:57.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hiromikuu/sklearn-mlp,SKLEARN MLP,Hiromi,,2017-02-10T13:03:57.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ozymandius/notebookdfeb103bd1,Notebookdfeb103bd1,shri,,2017-01-27T22:27:45.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maximeledantec/notebookc415af421f,Notebookc415af421f,MaximeLeDantec,,2017-01-26T10:20:08.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,funapi/time-travel-eda,Time Travel (EDA),funapi,,2017-01-18T21:46:24.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mryuyu1111/test-script,test script,Kelvin,,2017-01-15T15:58:45.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,krisuncy/notebook576aa223a5,Notebook576aa223a5,Krisuncy,,2017-01-11T03:42:05.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jotarodriguez/time-travel-eda,Time Travel (EDA),JeffersonRodriguez,,2017-01-06T19:47:26.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anmolinsearch/classifier,classifier,AnmolGupta,,2016-12-27T06:48:06.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,wenbo5565/notebook6c75fc0d9d,Notebook6c75fc0d9d,Wenbo,,2016-12-21T15:28:14.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ajeshbabu/notebook895061f48b,Notebook895061f48b,Ajesh,,2016-12-16T10:49:02.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/final,final,SharminPathan,,2016-12-14T04:08:10.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebookb4aedb033e,Notebookb4aedb033e,SharminPathan,,2016-12-14T03:30:25.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/with0-0,with0.0,SharminPathan,,2016-12-13T23:35:50.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook49d4c15e22,Notebook49d4c15e22,SharminPathan,,2016-12-13T23:23:38.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/minus1v1,minus1v1,SharminPathan,,2016-12-14T01:19:47.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook017751e487,Notebook017751e487,SharminPathan,,2016-12-13T20:14:08.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebookd76522e2c1,Notebookd76522e2c1,SharminPathan,,2016-12-12T15:50:50.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,fanxain/notebookff02598567,Notebookff02598567,fanxian,,2016-12-03T09:46:52.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,wanderbene/time-travel-eda,Time Travel (EDA),Bene,,2016-12-03T03:43:21.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebookd1b156d0fc,Notebookd1b156d0fc,SharminPathan,,2016-11-30T19:07:35.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook4613ec82ca,Notebook4613ec82ca,SharminPathan,,2016-11-30T18:47:11.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebookd8306534a6,Notebookd8306534a6,SharminPathan,,2016-11-30T18:45:02.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook218e5db91d,Notebook218e5db91d,SharminPathan,,2016-11-30T18:43:12.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,funnyjourney/time-travel-eda,Time Travel (EDA),Raining Up,,2016-11-28T12:59:13.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maejor/feature-selection-using-python,Feature Selection using Python,Nemo,,2016-11-28T04:38:13.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alvyxc/notebookc237e23599,Notebookc237e23599,Alvy Chen,,2016-11-27T00:25:58.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alvyxc/notebook7a6bf62f9f,Notebook7a6bf62f9f,Alvy Chen,,2016-11-27T00:25:39.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook20463eea9a,Notebook20463eea9a,SharminPathan,,2016-11-26T22:11:57.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chirag0734/redhat-eda,Redhat EDA ,Chirag Jain,,2016-11-24T17:04:57.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mouse1231/time-travel-eda,Time Travel (EDA),Wang,,2016-11-23T08:18:54.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amitweil/notebook0a918139b7,Notebook0a918139b7,Amit_Weil,,2016-11-22T12:41:47.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chirag0734/minions,minions,Chirag Jain,,2016-12-02T18:48:27.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sklearner/notebook2af22d3572,Notebook2af22d3572,sklearner,,2016-11-18T11:25:38.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dporunne/notebooka0092da3d6,Notebooka0092da3d6,DavisPorunnedam,,2016-11-17T20:37:10.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yinhe10/notebooke067e2c8fb,Notebooke067e2c8fb,YinHe,,2016-11-17T03:10:53.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chirag0734/notebookbf289922b7,Notebookbf289922b7,Chirag Jain,,2016-11-16T15:21:31.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook63404b77bc,Notebook63404b77bc,SharminPathan,,2016-11-11T01:41:51.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharmin/notebook4034b32888,Notebook4034b32888,SharminPathan,,2016-11-11T00:53:59.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bonnieli/notebook229913691c,Notebook229913691c,bonnieli,,2016-11-10T18:55:30.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,fanshaohua/time-travel-eda,Time Travel (EDA),sh fan,,2016-10-30T12:53:25.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,katanoyu/notebook96dda008b3,Notebook96dda008b3,katanoyu,,2016-10-26T02:02:30.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xiahricky/data-teseting,Data teseting,Ricki,,2016-10-21T00:09:08.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,wenbo5565/notebookf0c04e2d31,Notebookf0c04e2d31,Wenbo,,2016-10-19T19:45:59.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,apmfifty/notebook4ee7a3d0a1,Notebook4ee7a3d0a1,Pengju,,2016-10-19T08:58:34.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,umeshsati/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,UmeshSati,,2016-10-23T06:29:40.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,simbehl/notebook0a81047045,Notebook0a81047045,Simran,,2016-10-10T01:50:24.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sharonaire/notebook7976288290,Notebook7976288290,Sharonaire,,2016-10-08T06:12:44.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ruslans/time-travel-eda,Time Travel (EDA),silverio,,2016-10-05T21:58:45.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bystray/notebookec91395a26,Notebookec91395a26,PavelBystray,,2016-10-03T06:18:59.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,acbarrettomdp/notebook12e460e606,Notebook12e460e606,Alfredo Carlos Barretto,,2016-09-28T23:36:53.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xingobar/notebook15410810b0,Notebook15410810b0,Gary Ng,,2016-09-26T13:45:32.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,madoliver/time-travel-eda,Time Travel (EDA),OliverIsAParanoid,,2019-02-26T06:42:51.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,lucaswonderley/initial-look-setting-up-predictive-model,Initial look. Setting up predictive model.,LucasWonderley,,2016-09-25T20:41:47.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,j0shua/notebook3ef12e8090,Notebook3ef12e8090,Joshua Havelka,,2016-09-25T13:20:17.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dimplepatel/time-travel-eda,Time Travel (EDA),Dimple Patel,,2016-09-22T19:11:07.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,goodlearn/power-divergence-to-find-parameters,Power Divergence to find parameters,zero,,2016-09-22T00:40:46.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/notebooke6776e489d,Notebooke6776e489d,Ben Hamner,,2016-09-21T23:49:43.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aagundez/notebookdceed26ab6,Notebookdceed26ab6,Aurelio Agundez,,2016-09-21T22:31:55.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alesgb/notebookf0e50cdac7,Notebookf0e50cdac7,Aleś,,2016-09-21T13:45:48.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,supeng/notebook4f1ee1103a,Notebook4f1ee1103a,Supeng,,2016-09-20T21:20:46.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alwayssnape/notebook185c74f9fd,Notebook185c74f9fd,KrishnakanthSingh,,2016-09-20T18:59:34.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebook3e8be194d6,Notebook3e8be194d6,udit,,2016-09-20T17:15:39.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chunfu/notebook8540f95b63,Notebook8540f95b63,chunfu,,2016-09-20T05:26:22.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,outliar/notebook327b2e92f9,Notebook327b2e92f9,Mohammad Shadab Alam,,2016-09-20T01:54:01.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amazingbob/notebook3eadb2cf06,Notebook3eadb2cf06,Jianbo Ye,,2016-09-19T23:18:06.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,demonzheg/notebookc73bc78bb5,Notebookc73bc78bb5,DmitryZheglov,,2016-09-19T22:41:30.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pchoengtawee/notebook814743745d,Notebook814743745d,Pinkaew,,2016-09-19T21:07:50.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/redhat-v22,redhat_v22,stella,,2016-09-19T23:06:39.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yiyang186/notebookeb346a18b6,Notebookeb346a18b6,Yvan Peng,,2016-09-19T18:29:45.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaloyannikov/interpolation-randomforest-without-people-csv,Interpolation + RandomForest without people.csv,KaloyanNikov,,2016-09-19T11:15:16.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,valadi/raddar-xgb-people-ids-cross-validation,Raddar XGB + people_ids cross validation,Jayaraman,,2016-09-19T12:20:50.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,adatacurioususer/notebook076fe06750,Notebook076fe06750,adatacurioususer,,2016-09-19T07:55:23.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vidarr/notebookb53fd0e80b,Notebookb53fd0e80b,Dmitry,,2016-09-19T06:42:50.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cttsai/keras-feature-process,keras feature process,Chia-Ta Tsai,,2016-09-19T08:18:59.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tetevi/notebook3b81f8883f,Notebook3b81f8883f,Tetevi,,2016-09-19T02:41:53.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hmphuc/notebooke23f2d3689,Notebookfaaef3ec07,MinhPhúcHuỳnh,,2016-09-18T11:18:49.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,scirpus/small-gp,Small GP ,Scirpus,,2016-09-18T09:34:45.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,x75a40890/notebooke86442e9df,Notebooke86442e9df,Alejandro Mosquera,,2016-09-18T07:16:23.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/notebookcd1a523731,Notebookcd1a523731,ilovescience,,2016-09-18T04:07:14.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,murali12180/redhattest,redhattest,murali,,2016-09-17T18:10:38.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chesnokov/raddar-xgb-people-ids-cross-validation,Raddar XGB + people_ids cross validation,Mikhail Chesnokov,,2016-09-18T21:34:27.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pm1729/redhatbusinessvalue,RedHatBusinessValue,PranavManeriker,,2016-09-17T04:32:57.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebook436da607f1,Notebook436da607f1,stella,,2016-09-17T02:36:48.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nufo17/people-eda-and-decomposition,People EDA and Decomposition,Ranulfo P Sobrinho,,2016-09-16T17:37:53.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,josnancy/time-travel-eda,Time Travel (EDA),NancyJoseph,,2016-09-16T16:34:51.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,feanolmo/single-unified-table-0-94-sklearn-3503ebeb,Single Unified Table ~0.94 Sklearn 3503ebeb,Egor Maximov,,2016-09-16T14:39:07.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,assa2as/notebook44bfac53e7,Notebook44bfac53e7,Andrey Selivanov,,2016-09-16T13:18:15.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shrutigodbole15792/datetime,datetime,Shruti Godbole,,2016-09-16T10:31:53.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maddynit/hhhhhhhhhhh, hhhhhhhhhhh,MontiChandra,,2016-09-16T09:59:42.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jals123/notebook68901d77b3,Notebook68901d77b3,Jals123,,2016-09-16T01:54:58.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yasserabbass/notebook366c08671e,Notebook74661d7882,yasser.abbass,,2016-09-15T13:57:58.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,saurograndi/notebook0bd29d3476,Notebook0bd29d3476,Sauro Grandi,,2016-09-15T11:07:38.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cttsai/keras-benchmark-struct-tweak-date-and-label-cv,"keras benchmark; struct tweak, +date and label-cv",Chia-Ta Tsai,,2016-09-15T16:54:06.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pankajmishra/notebookbfa634872d,Notebookbfa634872d,PankajMishra,,2016-09-15T05:10:02.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,makoamena/boost-the-red,Boost the Red,Barea,,2016-09-14T21:11:54.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,andrewdumit/pythonxgb,PythonXGB,AndrewD,,2016-09-15T02:09:52.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shihaozhang/notebook46bb3a2e0c,Notebook46bb3a2e0c,ShihaoZhang,,2016-09-14T17:51:04.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,feanolmo/notebook720f79bf8f,Notebook720f79bf8f,Egor Maximov,,2016-09-14T16:00:59.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rodgexu/redhat-humds,Redhat  - HUMDS,rodge,,2016-09-14T14:21:39.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zonemercy/gp-lb-0-984930,GP LB 0.984930,ZZ,,2016-09-14T10:49:02.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaloyannikov/notebooke8ade739f1,Notebooke8ade739f1,KaloyanNikov,,2016-09-14T08:44:20.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,thedarkl0rd/notebook1b773bda3f,Notebook1b773bda3f,The_DarkLord,,2016-09-14T07:16:10.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,eeeennnn/notebook181da1f1e3,Notebook181da1f1e3,eenn,,2016-09-14T04:46:05.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shawnheide/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,Shawn Heide,,2016-09-13T20:11:53.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aditya963/notebook18cee29a90,Notebook18cee29a90,Luffy,,2016-09-13T18:02:44.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/temp-s,temp_s,udit,,2016-09-13T17:30:17.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mohanpb/raddar-0-98-trying-with-gbtree,"raddar 0.98 , trying with gbtree",Bhambhani Mohan,,2016-09-13T11:43:45.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,janpreets/notebookc3413a3e48,Notebookc3413a3e48,DatumX,,2016-09-13T08:37:24.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,apurveyajnik/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Apurve Yajnik,,2016-09-13T06:17:46.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,birolkuyumcu/notebookcb55ef1f79,Notebookcb55ef1f79,birolkuyumcu,,2016-09-13T03:41:11.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,poteman/xgboost-with-leak,XGBoost with Leak,poteman,,2016-09-13T02:05:57.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,richardparker11/notebook19f80d1a36,Notebook448ebfd4a2,Navjot,,2016-09-12T21:33:37.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tejasshinge27/notebooke14d255044,Notebooke14d255044,Tejas Shinge,,2016-09-12T20:41:54.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/notebook563c604c3c,Notebook563c604c3c,Ben Hamner,,2016-09-12T19:44:38.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mryuyu1111/notebooka5843880fa,Notebooka5843880fa,Kelvin,,2016-09-12T19:31:00.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xellos/notebook5a08a283a4,Notebook822cbfddca,ArtemBohulenkov,,2016-09-12T18:48:06.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jennysy2002/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,Minnilyn,,2016-09-12T14:28:57.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anantgupta/python-data-analysis,Python Data Analysis,Anant Gupta,,2016-09-12T14:21:45.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebook4e93c7cf96,Notebook4e93c7cf96,stella,,2016-09-12T14:11:28.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chao2016/lalala,lalala,Yiningchao,,2016-09-12T13:40:13.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,emilyzhang/notebooke916f1c49e,Notebooke916f1c49e,emily,,2016-09-12T12:50:01.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaloyannikov/data-cleaning-and-random-forests-python-2-7,Data Cleaning and Random Forests Python 2.7,KaloyanNikov,,2016-09-12T12:09:25.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shenggao/test-script-redhat,Test-Script-Redhat,Sean Zhu,,2016-09-12T12:22:21.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hewb14xmm/notebookd59734cd4c,Notebookd59734cd4c,sync _cnys,,2016-09-12T08:51:06.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abonglee/notebook23f9eb3166,Notebook23f9eb3166,abonglee,,2016-09-12T08:31:31.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anantgupta/notebook748a62d0e6,Notebook748a62d0e6,Anant Gupta,,2016-09-12T07:48:41.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,praveen24kumar/notebookf5d1027e72,Notebookf5d1027e72,StillTrying,,2016-09-12T07:39:18.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,muxiaoqing/notebook54ba0402f7,Notebook54ba0402f7,muxiaoqing,,2016-09-12T07:18:36.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,israelmugunga/notebook2ae06c6fbf,Notebook2ae06c6fbf,Mugunga Israel,,2016-09-12T07:10:51.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sparktsao/notebook8dc127bd12,Notebook8dc127bd12,SparkTsao,,2016-09-12T05:59:56.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yizhipangda/notebookaf2b7f1e59,Notebookaf2b7f1e59,He Li,,2016-09-12T03:37:36.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,biembbiessola/time-travel-eda,Time Travel (EDA),manbassa,,2016-09-11T20:07:42.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,databiomining/notebook7ec8600ae5,Notebook7ec8600ae5,DataBioMining,,2016-09-11T19:20:06.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shihaozhang/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,ShihaoZhang,,2016-09-12T16:00:51.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,itsmeumesh/initial-v1,Initial_v1,Umesh k ,,2016-09-17T18:38:23.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shihaozhang/notebookc4ac3891d7,Notebookc4ac3891d7,ShihaoZhang,,2016-09-11T17:34:13.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,breakhearts/test-run,test_run,breakhearts,,2016-09-11T16:44:21.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,feanolmo/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Egor Maximov,,2016-09-11T16:37:35.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ermochi/notebook7b260e4e4e,Notebook7b260e4e4e,AVP,,2016-09-11T16:39:14.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,itsmeumesh/notebookd2c6537f05,Notebookd2c6537f05,Umesh k ,,2016-09-11T15:28:30.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vedgupta/notebookfc31ce0296,Notebookfc31ce0296,Ved Gupta,,2016-09-11T15:14:32.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebook38b8a327d4,Notebook38b8a327d4,udit,,2016-09-11T15:06:15.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mousehead/raw-data-into-sparse-matrices,Raw data into sparse matrices ,Sergey Kuznetsov,,2016-09-11T14:19:49.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anujgrover/redhat-humds,Redhat  - HUMDS,Anuj Grover,,2016-09-12T22:07:35.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hiteshprabhu92/redhat-predicting-business-value-hitesh,RedHat Predicting Business Value - Hitesh,HiteshPrabhu,,2016-09-11T00:18:26.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,reshsekar15/notebook6612dec3dd,Notebook6612dec3dd,LadyBird,,2016-09-11T00:15:31.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,darshanms1991/notebooka5a4ae6018,Notebooka5a4ae6018,M S Darshan,,2016-09-10T23:54:55.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,darshanms1991/msd-notebook-1,MSD_Notebook,M S Darshan,,2016-09-11T14:20:55.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/notebook0a6efdf823,Notebook0a6efdf823,NAIN,,2016-09-10T21:26:17.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amroy4u/redhat-humds,Redhat  - HUMDS,Amit Rai,,2016-09-14T17:55:27.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tejasshinge27/fork-of-redhat-humds,Fork of Redhat  - HUMDS,Tejas Shinge,,2016-09-10T19:23:54.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anujgrover/notebook349694e1ad,Notebook349694e1ad,Anuj Grover,,2016-09-10T19:19:46.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/me-fork-of-xgboost-with-leak-feature-engi,Me Fork of XGBoost with Leak - feature engi,ilovescience,,2016-09-11T01:04:17.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amroy4u/notebook8cded22892,Notebook8cded22892,Amit Rai,,2016-09-10T19:01:53.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,adityakumarsinha/raddar-0-98-trying-with-gbtree,"raddar 0.98 , trying with gbtree",adityasinha,,2016-09-10T19:50:50.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yuyanglao/notebook64dc1d11d9,Notebook64dc1d11d9,Yuyang Lao,,2016-09-10T17:32:41.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,milin15/notebookd874ec16eb,Notebookd874ec16eb,Milin,,2016-09-10T11:41:54.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aman1391/notebook33b533bbd3,Notebook33b533bbd3,Aman Kapoor,,2016-09-10T08:53:55.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kalyani13/ghyvbn,ghyvbn,Kalyani,,2016-09-10T04:10:25.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sunnyrain/time-travel-eda,Time Travel (EDA),Steve,,2016-09-10T01:43:48.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebookd50392ed0e,Notebookd50392ed0e,stella,,2016-09-10T01:22:52.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alshahrani/notebook939391689c,Notebook939391689c,Ayedh,,2016-09-09T21:42:14.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tranquynhnhu/notebookd2ba711eb0,Notebook9d0efce855,NhuTran,,2016-09-09T19:11:46.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,afrozhussain/getting-started-with-kernels,Getting started with kernels,Afroz Hussain,,2016-09-11T15:11:55.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,statchen/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Eric,,2016-09-09T17:45:38.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rnavarro/predicting-red-hat-business-value,Predicting Red Hat Business Value,rnavarro,,2016-09-09T06:38:01.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ggautama/notebook4abcd4350a,Notebook4abcd4350a,ggautama,,2016-09-09T03:13:17.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anujgrover/notebookbc71099c15,Notebookbc71099c15,Anuj Grover,,2016-09-09T02:48:58.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,eddiecunningham/notebook5facd11c04,Notebook5facd11c04,eddie_cunningham,,2016-09-09T01:23:34.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vykhand/some-redhat-exploration,Some RedHat exploration,Andrey Vykhodtsev,,2016-09-08T22:44:07.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sushize/xredboost-zfturbo,XRedBoost_ZFTurbo,Shize Su,,2016-09-08T20:15:00.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,spidermanxyz/xredboost,XRedBoost,spidermanxyz,,2016-09-08T19:35:17.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,muneeb2405/redhat-model,RedHat Model,Muneeb ul Hassan,,2016-09-09T12:19:27.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,spidermanxyz/notebook4111498f6f,Notebook4111498f6f,spidermanxyz,,2016-09-08T18:27:17.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pankajmishra/fork-of-notebookcff4ede027,Fork of Notebookcff4ede027,PankajMishra,,2016-09-08T18:02:07.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mk2759/notebookd00dc69d29,Notebookd00dc69d29,mk2759,,2016-09-08T17:49:14.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cow1029/notebook625dd9f98c,Notebook625dd9f98c,cow1029,,2016-09-08T14:44:44.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chsovankrishna/notebookddadead66c,Notebookddadead66c,sovankrishna,,2016-09-08T11:33:44.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chsovankrishna/notebookd8b5f7d05d,Notebookd8b5f7d05d,sovankrishna,,2016-09-08T10:56:53.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sansri/notebookba6614c400,Notebookba6614c400,san_sri12,,2016-09-08T08:06:52.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jameszhou92/notebook4ec8397857,Notebook4ec8397857,James,,2016-09-08T06:59:58.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pankajmishra/notebook59885274b4,Notebook59885274b4,PankajMishra,,2016-09-08T06:56:55.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jameszhou92/notebook93b48e8f60,Notebook93b48e8f60,James,,2016-09-08T06:37:55.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,keskarnitish/first-pass,First Pass,keskar.nitish,,2016-09-07T22:49:07.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,keskarnitish/notebook3b6fc3034c,Notebook3b6fc3034c,keskar.nitish,,2016-09-07T22:46:51.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/playground-22,Playground,Ben Hamner,,2016-09-07T22:04:15.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,peabody/test-for-1st-time,test_for_1st_time,TinaL,,2016-09-07T18:44:48.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pngamhir/notebook9601f1133a,Notebook9601f1133a,Preechapatt Roro,,2016-09-07T15:07:44.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,wliping/notebooke28b012aee,Notebooke28b012aee,wlpdlut,,2016-09-07T13:22:58.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sidedish/my-redhat-prediction,my redhat prediction,wwcai,,2016-09-07T09:31:50.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pankajmishra/notebookcc2f338184,Notebookcc2f338184,PankajMishra,,2016-09-07T07:17:15.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shrutigodbole15792/feature-selection,feature selection,Shruti Godbole,,2016-09-09T10:36:43.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,taeheekim/notebookf117949fa4,Notebook77411c28f6,TaeheeKim,,2016-09-07T04:48:58.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aamir121a/xgboost-with-leak,XGBoost with Leak,aamir121a,,2016-09-07T04:18:00.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sunglasses1011/xgboost-with-leak,XGBoost with Leak,crazy_ninja,,2016-09-07T02:35:15.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/fork-of-xgboost-with-leak-cv,Fork of XGBoost with Leak - CV,ilovescience,,2016-09-07T02:45:31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaggleval/notebook9834f77c79,Notebook115b251f34,kVAL,,2016-09-07T00:00:30.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tracyxu2013/notebookfdc99d5f16,Notebookfdc99d5f16,TX,,2016-09-06T21:45:53.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,miguel2523/notebookc2525dff18,Notebookc2525dff18,Miguel,,2016-09-06T21:34:31.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,goelvj/notebook5a46bae642,Notebook5a46bae642,Vijay goel,,2016-09-06T20:22:51.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebook7583aa2968,Notebook7583aa2968,stella,,2016-09-06T18:32:07.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,avishek/time-travel-eda-111,Time Travel (EDA)111,Avishek,,2016-09-06T14:15:57.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xanderhorn/notebook227cee2fa9,Notebook4b3d8021f8,Pondering Panda,,2016-09-06T12:20:59.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,whonghui/time-travel-eda,Time Travel (EDA),Beginner,,2016-09-06T09:36:21.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,loststar/notebook3c202cf927,Notebook3c202cf927,lifeisfunny,,2016-09-06T07:17:49.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xredboost-cv,XRedBoost CV,ilovescience,,2016-09-13T21:04:41.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,manikanta91/notebook3c206d09cf,Notebook3c206d09cf,MANIKANTAC,,2016-09-06T06:46:10.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebook5f97b6ad5b,Notebook5f97b6ad5b,stella,,2016-09-17T02:40:23.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,roggin/time-travel-eda,Time Travel (EDA),rogginHuang,,2016-09-06T03:49:29.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebook24378fca3c,Notebook24378fca3c,stella,,2016-09-06T02:53:43.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/fork-of-xgboost-hyperparameter-tuning,Fork of XGBoost hyperparameter tuning,ilovescience,,2016-09-06T02:07:16.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,architgarg1515/notebooke3323e86f8,Notebooke3323e86f8,ArchitGarg,,2016-09-06T01:17:42.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-hyperparameter-tuning,XGBoost hyperparameter tuning,ilovescience,,2016-09-07T03:15:40.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mcclouda2/notebook0de7259a9d,Notebook0de7259a9d,mcclouda2,,2016-09-06T00:15:30.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pucenoise/notebookd10e12a925,Notebookd10e12a925,IanWelland,,2016-09-05T21:09:23.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,brassmonkey381/notebookc0ab02793c,Notebookc0ab02793c,brassmonkey,,2016-09-06T02:13:58.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,j0shua/notebook6818373c91,Notebook6818373c91,Joshua Havelka,,2016-09-05T17:21:58.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,madmaxliu/redhat-max,Redhat - Max,Max.liu,,2016-09-05T17:18:42.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/redhat-v1,redhat_v1,stella,,2016-09-05T17:11:37.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,icecreamot/notebook4740dc1618,Notebook4740dc1618,stella,,2016-09-06T04:32:57.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,harjeet/notebookdf2c5b51b6,Notebookdf2c5b51b6,harjeet,,2016-09-05T14:55:59.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jals123/notebooke460dd4ea8,Notebooke460dd4ea8,Jals123,,2016-09-05T14:42:10.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,harjeet/notebook7eef2b28ca,Notebook7eef2b28ca,harjeet,,2016-09-05T07:51:52.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,roggin/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,rogginHuang,,2016-09-05T12:35:47.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sunnymarius/clean,clean,Marius,,2016-09-05T09:13:35.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-with-leak-hyperparameter-tuning,XGBoost with Leak - hyperparameter tuning,ilovescience,,2016-09-05T02:33:19.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zhuangye/test-package,test_package,radiofoot,,2016-09-05T00:55:09.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ryancaldwell/gradient-boosting-model,Gradient Boosting Model,RyanCaldwell,,2016-09-04T21:06:31.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,iamchanchal/classify-customer-potential-redhat,Classify_customer_potential(RedHat),ChanchalSarkar,,2016-09-04T19:20:59.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sangwoochoi/notebook56345be439,Notebook56345be439,SangwooChoi,,2016-09-04T17:13:09.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,frantap/time-travel-eda,Time Travel (EDA),franta polach,,2016-09-04T15:44:40.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,takuyasakaguchi/time-travel-eda,Time Travel (EDA),Takuya,,2016-09-04T13:34:36.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rshigemori/notebookfb2db479fd,Notebookfb2db479fd,RyotaShigemori,,2016-09-04T12:32:07.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ultrajack/notebook12da5793e3,Notebook12da5793e3,ultra-jack,,2016-09-04T11:14:40.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xiaorun/notebookfed44e8f78,Notebookfed44e8f78,Aaron Zhou,,2016-09-04T11:01:44.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aamir121a/notebook548b96ee99,Notebook548b96ee99,aamir121a,,2016-09-04T08:58:48.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vivekverma239/redhat-vivek,Notebook8ef066295f,VivekVerma,,2016-09-04T08:48:05.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,achtungbaby/notebook39d9d7e2d8,Notebook39d9d7e2d8,mtgarden,,2016-09-04T08:45:31.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,valadi/exploratory-data-analysis,Exploratory Data Analysis,Jayaraman,,2016-09-04T08:33:30.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aamir121a/test-xg,test_xg,aamir121a,,2016-09-04T08:07:16.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,adityakumarsinha/people-eda-and-decomposition,People EDA and Decomposition,adityasinha,,2016-09-04T07:36:19.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ishaanv/redhat-eda-and-visualisations,RedHat EDA and visualisations,ishaan,,2016-09-12T11:33:18.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zhuangye/notebook45cde781f4,Notebook45cde781f4,radiofoot,,2016-09-04T01:45:06.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/notebookc9fb363957,Notebookc9fb363957,ilovescience,,2016-09-04T00:48:19.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-scikit-learn-grid-search,XGBoost Scikit-learn Grid Search,ilovescience,,2016-09-04T00:15:48.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-scikit-learn,XGBoost Scikit-learn,ilovescience,,2016-09-03T23:54:25.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-parameter-tuning,XGBoost - parameter tuning,ilovescience,,2016-09-03T22:27:48.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,violinbeats/red-hat-eda,Red hat EDA,Violinbeats,,2016-09-03T21:58:16.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abedben/notebookb4dc9b5b13,Notebookb4dc9b5b13,Abed,,2016-09-03T21:48:09.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chsovankrishna/redhat-prediction-v-0,RedHat_Prediction_V_0,sovankrishna,,2016-09-03T20:42:10.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ravidatascience/ravi-analysis-redhat-business,ravi_analysis_redhat_business,ravi.data.science,,2016-09-03T20:02:56.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ravidatascience/ravi-analyze-redhat-business,ravi_analyze_redhat_business,ravi.data.science,,2016-09-03T19:20:35.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,seylom/notebook0b45ecaec4,Notebook0b45ecaec4,seylom ayivi,,2016-09-03T15:10:01.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yuanxu/notebook1c77a3b51b,Notebook1c77a3b51b,YuanxuXu,,2016-09-03T13:29:28.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jasonwang592/test-script,Test Script,jasonwang592,,2016-09-03T13:22:35.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,notaapple/exploratory-data-analysis,Exploratory Data Analysis,AiO,,2016-09-03T08:48:40.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,surjya/time-travel-eda,Time Travel (EDA),Surjya Padhi,,2016-09-03T08:46:57.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,andirey/starter-script,Starter Script,andrii,,2016-09-03T08:01:27.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,weiyii/first,first,Yi Wei,,2016-09-03T03:19:58.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xgboost-without-leak-parameter-tuning,XGBoost without Leak - parameter tuning,ilovescience,,2016-09-03T04:46:02.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,evanzhu2013/time-travel-eda-930c9ce4,Time Travel (EDA) 930c9ce4,Evanzhu2013,,2016-09-03T02:46:28.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,evanzhu2013/time-travel-eda,Time Travel (EDA),Evanzhu2013,,2016-09-03T02:11:54.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,fannyxiaoya/time-travel-eda,Time Travel (EDA),smallduck,,2016-09-03T00:29:48.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,isaacmoore7/deep-try-with-keras-auc-0-93025,Deep try with Keras. AUC = 0.93025,isaacmoore7,,2016-09-02T23:46:55.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nkdxczh/notebookf490f7dfab,Notebookf490f7dfab,Zhanhao Chen,,2016-09-02T21:02:53.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abriosi/notebook8bdd1e5fd4,Notebook8bdd1e5fd4,Gonçalo Abreu,,2016-09-02T19:07:28.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kevinpalm/xgboost-with-leak,XGBoost with Leak,Kevin Palm,,2016-09-02T14:40:58.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hardaniel/time-travel-eda,Time Travel (EDA),DanielHarris,,2016-09-02T13:42:47.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hxyyuan123/testsfor,testsfor,Fisher mining,,2016-09-02T07:51:28.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hxyyuan123/notebook9830bc4bba,Notebook9830bc4bba,Fisher mining,,2016-09-02T07:50:09.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chimera0kimura/notebookd378dcbe19,Notebookd378dcbe19,Chimera-ca,,2016-09-02T06:24:27.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,venkybuddy/notebookd0eec35f59,Notebookd0eec35f59,Venky,,2016-09-02T05:17:58.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/notebookf12ad30113,Notebookf12ad30113,ilovescience,,2016-09-01T23:53:16.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xiaofei/time-travel-eda,Time Travel (EDA),Xiaofei Zheng,,2016-09-01T19:39:36.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,madraziw/notebookf949e3d638,Notebookf949e3d638,mad chang,,2016-09-01T13:57:41.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,le3sym44/notebookcfba024425,Notebookcfba024425,sym44,,2016-09-01T13:36:32.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,crailtap/notebook4e16f2b16e,Notebook4e16f2b16e,Chris Cross,,2016-09-01T12:00:56.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sauravshishodia/notebook7f2fd0cf2d,Notebook7f2fd0cf2d,cruxxX,,2016-09-01T10:41:38.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zubati/notebook090488a418,Notebook090488a418,JaraninBoonpee,,2016-09-01T10:30:47.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/simplified-leak-starter-template,Simplified Leak Starter Template,ilovescience,,2016-09-01T05:20:32.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zishan/notebook6e7119cffa,Notebook6e7119cffa,ZishanAhmad,,2016-09-01T04:26:56.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,invinciblejha/xgboost,XGBoost,Vikram Jha,,2016-08-31T22:46:08.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,samhashmi/random-forest-for-prediction,Random_Forest for Prediction,Agha Muhammad,,2016-09-22T15:51:23.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,herilalaina/notebook4e5df07b4c,Notebook4e5df07b4c,Herilalaina Rakotoarison,,2016-08-31T20:15:45.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hskksk/notebook4c8e8ba0fc,Notebook5af302ed06,hskksk,,2016-08-31T14:52:48.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jals123/notebooka6dd1f2c64,Notebooka6dd1f2c64,Jals123,,2016-08-31T10:44:18.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,afshinamiri/notebooka490b985a8,Notebooka490b985a8,AfshinAmiri,,2016-08-31T10:15:29.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,williamqzc/raddar-0-98-xgboost-sparse-matrix-python,raddar 0.98 xgboost sparse matrix python,data ran,,2016-08-31T06:30:52.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,williamqzc/python-ver-of-group-1-and-date-trick,Python ver. of group_1 and date trick,data ran,,2016-08-31T05:44:33.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nsynsy001/notebookb423b18d98,Notebookb423b18d98,ShiyuNiu,,2016-08-31T03:15:08.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,williamqzc/notebookbe6b6d59db,Notebookbe6b6d59db,data ran,,2016-08-31T02:44:24.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,williamqzc/without-leak-8-31,without_leak_8.31,data ran,,2016-08-31T05:48:03.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vivekkmurthy/vivek,vivek,Vivek Krishnamurthy,,2016-08-31T01:26:26.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,donhan/notebook0bb759410e,Notebook0bb759410e,donhan,,2016-08-31T01:19:21.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/xredboost,XRedBoost,ilovescience,,2016-09-08T04:02:16.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mikeyhu2014/notebook8bdab43c07,Notebookfe9403a8e9,mikeyhu2014,,2016-08-30T18:44:28.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mikeyhu2014/notebooka352de16f9,Notebooka352de16f9,mikeyhu2014,,2016-08-30T18:15:39.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,informationminer/notebook0232457a33,Notebook0232457a33,Seendon,,2016-08-30T15:39:20.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,roelsmits/notebook6c24fe45b3,Notebook6c24fe45b3,roels,,2016-08-30T14:49:11.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mryuyu1111/notebook72e5b29c4f,Notebook72e5b29c4f,Kelvin,,2016-08-30T14:14:53.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uthalcalthing/notebookbc2c4de5d3,Notebookbc2c4de5d3,Uthalcalthing,,2016-08-30T13:17:50.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zeugma/notebook7633b6cba3,Notebook7633b6cba3,zeugma,,2016-08-30T12:56:50.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,omaxim/notebook1aa3deae55,Notebook1aa3deae55,MaximOzhogin,,2016-08-30T12:03:02.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tkw1110/firstsumb,FirstSumb,Kewen Tang,,2016-08-30T08:33:40.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nsynsy001/fork-of-kaggle-first-experience,Fork of Kaggle First Experience,ShiyuNiu,,2016-08-30T08:16:03.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,statarb/notebookf053f1de28,Notebookf053f1de28,Savage,,2016-08-30T07:53:16.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nsynsy001/kaggle-first-experience,Kaggle First Experience,ShiyuNiu,,2016-08-30T08:27:08.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shivani192/notebook29c38bba4b,Notebook29c38bba4b,Shivani Saini,,2016-08-30T06:05:31.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bandari/classify-customer-potential-red-hat,Classify customer potential  - Red Hat,JinMyungKwak,,2016-08-30T23:41:36.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nitink12/notebook056c0f6a68,Notebook9d4a4368de,Nitin,,2016-08-30T04:19:16.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,clandgon/notebook0dac70e78c,Notebook0dac70e78c,ChristopherLangdon,,2016-08-30T02:34:11.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnnyeades/blank,Notebook489bc7e887,John Eades,,2016-08-29T20:50:33.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ahmedg/xredboost,XRedBoost,Ahmed Gamal,,2016-08-30T19:07:45.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ahmedg/notebook4ae707f502,Notebook4ae707f502,Ahmed Gamal,,2016-08-31T08:16:12.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,k11245/notebookd9fe67529b,test book,11245,,2016-08-29T18:23:30.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,madmaxliu/betacat,BetaCat,Max.liu,,2017-02-08T16:22:14.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,madmaxliu/notebook44ca2f304e,Notebook44ca2f304e,Max.liu,,2016-08-29T18:19:11.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ahmedg/notebookbba7671376,Notebookbba7671376,Ahmed Gamal,,2016-08-29T16:55:45.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rodgexu/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,rodge,,2016-08-29T15:53:25.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,epratt8181/practice,practice,Edward Pratt,,2016-08-29T15:45:29.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,epratt8181/notebook1e0811f117,Notebook1e0811f117,Edward Pratt,,2016-08-29T15:45:08.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,quentinr49/notebook8123a75cbe,Notebook8123a75cbe,Quentinr49,,2016-08-29T15:11:16.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ayushthakur/notebook7f2fdf3fad,Notebook7f2fdf3fad,AyushThakur,,2016-08-29T14:50:56.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,scirpus/naive-bayes,Naive Bayes,Scirpus,,2016-08-29T13:53:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,doublefox/time-travel-eda,Time Travel (EDA),DoubleFox,,2016-08-29T09:31:13.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tporkka/notebookdf0e66db6a,Notebookdf0e66db6a,tporkka,,2016-08-29T01:17:11.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xingchenzhuifeng/notebook044883604c,Notebook044883604c,ziwusun,,2016-08-28T09:27:35.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dbwldnd/notebookc55ef49b70,Notebookc55ef49b70,유-지웅,,2016-08-28T08:40:26.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zhhtc200/first-try-on-rh-data,First Try on RH data,ZHU Henghui,,2016-08-27T23:50:43.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,skidsteerpilot/notebook96a1ecbcf4,Notebook96a1ecbcf4,WinfieldHenry,,2016-08-27T21:27:35.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tinaheiligers/notebookcf343accba,Notebookcf343accba,ChristianeHeiligers,,2016-08-27T20:39:10.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hyunyouchoi/notebooke67cb7ac50,Notebooke67cb7ac50,HyunyouIreneChoi,,2016-08-27T15:32:02.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,leonji/notebook7c8f4e51bc,Notebook7c8f4e51bc,leonji,,2016-08-27T14:33:51.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,akash222/single-unified-table-0-95-sklearn-added-date,Single Unified Table ~0.95 Sklearn (added date),Akash Gupta,,2016-08-28T05:16:47.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,prakashanand/notebook0ebf2b17fa,Notebook0ebf2b17fa,PrakashAnand,,2016-08-27T07:10:07.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jialin/time-travel-eda,Time Travel (EDA),JialinZou,,2016-08-27T00:32:12.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,diegodelazzari/notebookadbc9e1f19,Notebookadbc9e1f19,Diego De Lazzari,,2016-08-26T19:22:04.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rockstar08/time-travel-eda,Time Travel (EDA),RockStar,,2016-08-26T18:20:14.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,isameer7/notebook272ce25325,Notebook272ce25325,Sameer Singh,,2016-08-26T18:02:28.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,burakyilmaz321/notebook77db3571e2,Notebook77db3571e2,Burak Yılmaz ,,2016-08-26T18:00:49.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,don123/notebook44acd3ba3e,Notebook44acd3ba3e,GabrielSantos,,2016-08-26T17:05:52.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,knpnaveen/redhatbvanalysis,RedHatBVAnalysis,naveen kondapaneni,,2016-08-26T13:45:57.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cheerchen/notebookd091875cbb,Notebookd091875cbb,Dating,,2016-08-26T12:51:11.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,popularmit/notebook82b96e5a4d,Notebook82b96e5a4d,yalong,,2016-08-26T07:33:44.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,holevikrant/time-travel-eda,Time Travel (EDA),VikrantHole,,2016-08-26T06:49:44.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rajat8878/notebookc73111212f,Notebookc73111212f,RajatKumar,,2016-08-26T06:40:37.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anzaianzai/notebooke1d3841292,Notebooke1d3841292,anzaianzai,,2016-08-26T06:02:24.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,liangzhou/notebook21440fbb2f,Notebook21440fbb2f,LiangZ,,2016-08-26T05:07:32.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,thebear19/myxgboost,myXgboost,Chatchawan Niyomthum,,2016-09-16T07:06:58.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,weinerjm/red-hat-data-exploration,Red Hat Data Exploration,Joshua Weiner,,2016-08-26T03:00:34.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abriosi/notebook33f54300ff,Notebook33f54300ff,Gonçalo Abreu,,2016-08-26T02:43:28.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zizano/notebook8b5ebd5d68,Notebook8b5ebd5d68,Nick Zizos,,2016-08-25T21:34:28.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ricgama/notebook99262bc0c5,Notebook99262bc0c5,RW,,2016-08-25T21:27:06.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,fangyuns/notebookbbf92f7cfc,Notebookbbf92f7cfc,fys,,2016-08-25T18:35:52.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,igauty/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Vishwadeep,,2016-08-25T17:45:10.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,arjoonn/notebook8d9c54e4e5,Notebook8d9c54e4e5,ArjoonnSharma,,2016-08-25T17:22:04.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,davidmsoto/notebook30b9586b6f,Notebook30b9586b6f,DavidMSoto,,2016-08-25T16:25:03.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vedgupta/time-travel-eda,Time Travel (EDA),Ved Gupta,,2016-08-25T15:40:10.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maddynit/vffgvvvvvvvv,vffgvvvvvvvv,MontiChandra,,2016-08-26T10:10:37.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maddynit/vffgvvvvvvv,vffgvvvvvvv,MontiChandra,,2016-08-25T13:10:54.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,isameer7/notebookaaeb312531,Notebookaaeb312531,Sameer Singh,,2016-08-26T18:34:19.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kramster/notebook1c68e31425,Notebook1c68e31425,Mark Arjay,,2016-08-25T02:10:38.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,whitebox/notebook10d548a565,Notebook10d548a565,Louis Keating,,2016-08-25T02:00:09.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ericwbzhang/python-ver-of-group-1-and-date-trick-v2,Python ver. of group_1 and date trick V2,EricZ,,2016-08-25T00:43:16.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ravidatascience/notebook44f7872b61,Notebook44f7872b61,ravi.data.science,,2016-08-24T23:13:08.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cagbal/random-forest-classifier,Random Forest Classifier ,cagatayodabasi,,2016-08-24T23:09:35.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ericwbzhang/python-ver-of-group-1-and-date-trick,Python ver. of group_1 and date trick,EricZ,,2016-08-24T22:04:03.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,justina/redhat,RedHat,Justina Petraityte,,2016-08-24T20:05:28.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,przemekd/notebook35d6c81e87,Notebook35d6c81e87,PD,,2016-08-24T19:47:20.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xellos/notebook02aedc9aa1,Notebook02aedc9aa1,ArtemBohulenkov,,2016-08-24T18:29:41.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rsumbaly/notebookec423928f0,Notebookec423928f0,Ronak Sumbaly,,2016-08-24T18:04:26.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gooron/data-preparation-for-performing-xgboost-model,Data preparation for performing XGBoost Model,gooron,,2016-08-24T17:54:49.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sattvikc/notebook9cad8f90b2,Notebook9cad8f90b2,SattvikChakravarthy,,2016-08-24T15:01:31.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maddynit/ccccccccccccccccccc,ccccccccccccccccccc,MontiChandra,,2016-08-24T17:52:17.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ericwbzhang/notebook1eb9f73041,Notebook7a1b1e1899,EricZ,,2016-08-24T14:24:22.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,david101/exploratory-analysis,Exploratory Analysis,David Kazaryan,,2016-08-24T13:06:07.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,xellos/exploringdata,ExploringData,ArtemBohulenkov,,2016-08-24T09:01:00.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,songsong/notebook208ac41fb5,Notebook208ac41fb5,Song,,2016-08-24T03:50:22.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnewz/time-travel-eda,Time Travel (EDA),WizardKingZ,,2016-08-24T03:44:49.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ayocca/data-preparation-for-performing-xgboost-model,Data preparation for performing XGBoost Model,Andrew Yocca,,2016-08-24T03:30:45.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,walmaguer1/notebook94f5f5f425,Notebook94f5f5f425,Wilfredo,,2016-08-24T03:24:14.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shalabhgupta/python-ver-of-group-1-and-date-trick,Python ver. of group_1 and date trick,Shalabh,,2016-08-24T03:04:00.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shalabhgupta/redhat-ver1,RedHat-Ver1,Shalabh,,2016-08-24T02:24:39.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,omarsultan/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Omar Sultan,,2016-08-24T02:21:17.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,minimini/notebookc0343fdab2,Notebookc0343fdab2,Xiaxin Xu,,2016-08-24T01:35:41.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vthummadi/notebooke0247ccda2,Notebooke0247ccda2,kagglebaggle,,2016-08-24T01:19:32.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tanlikesmath/notebook158f981c65,Notebook158f981c65,ilovescience,,2016-08-24T00:47:47.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jovidam/notebooka6a461d497,Notebooka6a461d497,Charles Deng,,2016-08-23T21:14:41.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anvesh2953/customer-classification,customer classification,AnveshMuttavarapu,,2016-08-23T20:49:49.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,baoerpoo/predicting-red-hat-business-value,Predicting Red Hat Business Value,baoerpoo,,2016-08-24T01:58:44.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vikash/notebook11d3f7233d,Notebook11d3f7233d,vikash,,2016-08-23T15:37:43.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alekseyklementiev/test-1-1,test 1,Aleksey Klementiev,,2016-09-05T19:24:31.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mahatmus/notebook095b9b4bce,Notebook095b9b4bce,Andrey Ponomarev,,2016-08-23T14:36:39.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ashishsehgal/notebook5c4acdb345,Notebookd0e3297250,Ashish Sehgal,,2016-08-23T11:51:34.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dilshod/notebook81f748f0e2,Notebook81f748f0e2,Dilshod,,2016-08-23T11:12:29.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dilshod/notebook13b2e3dc68,Notebook13b2e3dc68,Dilshod,,2016-08-23T11:12:29.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gykovacs/notebooka19baa2951,Notebooka19baa2951,gykovacs,,2016-08-23T10:49:01.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,indigan/notebook961abc1a53,Notebookc626525182,Indira Krishnamoorthi,,2016-08-23T07:22:06.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,idrcee/notebook88accf258f,Notebook88accf258f,WhiteBoardMarker,,2016-08-23T04:56:42.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sunnymarius/ttttt,ttttt,Marius,,2016-08-23T02:59:00.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,admitry/notebook8d18d22672,Notebook8d18d22672,Dmitry Andreev,,2016-08-22T20:00:10.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/redhatxgbnew,RedHatXGBNew,NAIN,,2016-09-14T21:15:19.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shuaiwang/time-travel-eda,Time Travel (EDA),shuai,,2016-08-22T16:59:27.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,loqutus/notebook3e6eefa01e,Notebook3e6eefa01e,RuslanGustomyasov,,2016-08-22T14:10:10.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,selektamk/example-visualising-data-with-using-matplotlib,Example visualising data with using matplotlib,MehdiK,,2016-08-23T08:28:51.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marieanani/suu-s-notebook,Notebookc06d565122,MarieAnani,,2016-08-22T11:01:11.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnkiran/notebook5ec0d0d4b4,Notebook5ec0d0d4b4,John Kiran,,2016-08-30T10:24:34.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shivamm/notebook155b038da9,Notebook155b038da9,Shivam,,2016-08-22T09:29:46.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kuphy98/notebookc9f394eb47,Notebookc9f394eb47,kuphy98,,2016-08-22T01:57:08.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,transplanted/notebook8ba757f4a0,Notebook8ba757f4a0,transplanted_tree,,2016-08-21T23:48:33.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nkelly/eda-notebook,EDA Notebook,nkelly13,,2016-08-21T22:22:50.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nkelly/notebook89632d3ca7,Notebook89632d3ca7,nkelly13,,2016-08-21T19:34:08.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,birdieorbust/notebookf02d7c4113,Notebookf02d7c4113,SamHall,,2016-08-21T16:54:02.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,artbataev/notebook15ee52ccf1,Notebook15ee52ccf1,Artbataev,,2016-08-21T16:32:38.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gooron/power-divergence-to-find-parameters,Power Divergence to find parameters,gooron,,2016-08-21T14:52:16.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,scp173/data-extraction,data_extraction,SCP-173,,2016-08-21T14:08:40.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,praveenhegde/random-forest-classifier,random forest classifier,Praveen Hegde,,2016-08-21T11:08:43.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hommayushi3/notebook2261fef531,Notebook2261fef531,YushiHomma,,2016-08-21T05:23:13.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,williamhau/notebook8450cb9b00,Notebook8450cb9b00,William Hau,,2016-08-21T02:25:26.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,beletecheneke/notebook4dc595c1f8,Notebook4dc595c1f8,beletecheneke,,2016-08-21T01:53:35.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jfirminger/test-notebook-rc,Test Notebook - RC ,Josh Firminger,,2016-08-20T22:09:00.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anokas/redhatxgb,RedHatXGB,anokas,,2016-08-20T20:37:43.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/redhatxgb,RedHatXGB,NAIN,,2016-08-20T20:48:26.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,lujing/data-explore,data_explore,Jing Lu,,2016-08-20T17:03:09.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gaomingwu/notebook64e264aae1,Notebook64e264aae1,Barton,,2016-08-20T15:23:35.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/notebooke36013f7c4,Notebooke36013f7c4,NAIN,,2016-08-20T13:12:39.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,maatkara/time-travel-eda,Time Travel (EDA),maatkara,,2016-08-20T12:30:43.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,janpreets/exploration,exploration,DatumX,,2016-08-20T10:25:23.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,antimage/notebook0c44d3a205,Notebook0c44d3a205,John,,2016-08-20T08:14:45.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,garywang/notebook18aa25c13b,Notebook451c9c303d,Sunrisetofu,,2016-08-20T08:13:49.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,antimage/notebook1aa5fcf9b7,Notebook1aa5fcf9b7,John,,2016-08-20T06:56:56.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sushize/date-ssz01,date_ssz01,Shize Su,,2016-08-19T23:40:36.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,syednasar/notebook1f643490d1,Notebook1f643490d1,"Nasar, Syed",,2016-08-19T23:22:05.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ankitsdhingra/notebook8c3396e3f6,Notebook8c3396e3f6,Ankit Dhingra,,2016-08-19T23:14:36.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jeffd23/notebook9e6f27c5ee,Notebook9e6f27c5ee,Jeff Delaney,,2016-08-19T21:18:45.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sushize/rf-0-597-try,rf_0.597_try,Shize Su,,2016-08-19T23:28:17.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,songsong/notebook02ab95dcb3,Notebooka0092da3d6,Song,,2016-08-19T20:02:27.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,garywang/notebook59eb47b5e9,Notebook59eb47b5e9,Sunrisetofu,,2016-08-19T19:04:53.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alexanbl/notebook7e8db2fa30,Notebook7e8db2fa30,Accentax,,2016-08-19T19:02:59.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,songsong/notebook15520d2ede,Notebook15520d2ede,Song,,2016-08-19T18:58:16.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ashishluthara/my-python-redhat,My python redhat,AshishLuthra,,2016-08-19T18:12:56.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marcelpedroso/notebook122e3c1206,Notebook122e3c1206,Marcel Pedroso,,2016-08-19T17:46:10.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,molinjian/people-eda-and-decomposition,People EDA and Decomposition,mo1in,,2016-08-19T16:06:27.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rohitbora/notebook0558a33bab,Notebook0558a33bab,rohit bora,,2016-08-19T14:06:54.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jtrpinto/notebookb2f87b54e4,Notebookb2f87b54e4,JoãoRibeiroPinto,,2016-08-19T09:54:23.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rohitbora/time-travel-eda,Time Travel (EDA),rohit bora,,2016-08-19T05:27:34.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,antimage/sylar-test,Sylar_Test,John,,2016-08-19T03:03:24.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,antimage/notebook92d477c789,Notebook92d477c789,John,,2016-08-19T02:40:34.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jfirminger/notebookfcc829039f,Notebookfcc829039f,Josh Firminger,,2016-08-19T01:33:33.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,snigdhendu/notebook4449574123,Notebook4449574123,SnigdhenduMukhopadhyay,,2016-08-18T23:31:46.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rubtsovvasiliy/notebook53d216d25a,Notebook53d216d25a,Vasiliy Rubtsov,,2016-08-18T19:14:43.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amitkumarjaiswal/python-ver-of-group-1-and-date-trick,Python ver. of group_1 and date trick,Amit Kumar Jaiswal,,2016-08-18T19:12:15.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,selektamk/notebookb80aa7256d,Notebookb80aa7256d,MehdiK,,2016-08-18T15:11:55.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,isosnovik/xghat,XGHat,Ivan Sosnovik,,2016-08-18T14:20:17.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,luokai/predicting-red-hat-business-value,predicting-red-hat-business-value,dolly,,2016-08-18T07:50:24.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,luokai/time-travel-eda,Time Travel (EDA),dolly,,2016-08-18T07:11:18.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rocklee/notebook441e4334df,Notebook441e4334df,Rocklee,,2016-08-18T05:27:24.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,farahfaize/notebook81291dd290,Notebook81291dd290,Farah,,2016-08-18T01:33:40.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,goelhardik/keras-starter,Keras Starter ,Hardik,,2016-08-18T02:53:42.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,elzurdo/exploratory,Exploratory,el Zurdo,,2016-08-17T22:16:48.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,michaelerasmus/notebook95b2399fb2,Notebook95b2399fb2,Michael Erasmus,,2016-08-17T21:32:52.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,michaelerasmus/time-travel-eda,Time Travel (EDA),Michael Erasmus,,2016-08-17T20:04:25.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,strongsquirrel/prediction-based-on-1-feature-0-8276,Prediction based on 1 feature 0.8276,StrongSquirrel,,2016-08-17T18:54:52.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shirleyli00/notebook7aee646946,Notebook7aee646946,shirleyli,,2016-08-17T18:47:58.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kiminaka/time-travel-eda,Time Travel (EDA),Kimitaka,,2016-08-17T17:41:26.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnnylee/redhat,Redhat ,Johnny Lee,,2016-08-17T16:56:19.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,easybreezy/notebook76ccdf8959,Notebook76ccdf8959,Darcy Yau,,2016-08-17T16:03:01.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,easybreezy/playground,playground,Darcy Yau,,2016-08-17T16:02:37.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dariaei/notebook6527c8abda,Notebook6527c8abda,daria,,2016-08-17T12:34:14.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anirbanlahiri/notebook7e3f1251a7,Notebook653baeb8db,Anirban Lahiri,,2016-08-17T12:06:49.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dariaei/notebook7fcd4e8dd2,Notebook7fcd4e8dd2,daria,,2016-08-17T10:24:07.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,whatever2099/notebookefb743a771,Notebookefb743a771,Gavin,,2016-08-17T09:28:51.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,philipsun/notebookd101008863,Notebookd101008863,phils,,2021-01-25T09:08:07.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aagundez/time-travel-eda,Time Travel (EDA),Aurelio Agundez,,2016-08-20T05:39:27.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ryancaldwell/gradient-boosting,Notebookfc02dc34cc,RyanCaldwell,,2016-09-03T02:22:08.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,philipsun/time-travel-eda,Time Travel (EDA),phils,,2021-01-25T09:08:55.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anmoldubey/filechecking,fileChecking,anmolDubey,,2016-08-17T04:08:40.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aishsmash/filechecker,fileChecker,AishDubey,,2016-08-17T04:07:21.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marziye/redhat,redhat,MarZiYa,,2016-08-17T04:14:33.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tonyabracadabra/notebookc42c6ca28e,Notebookc42c6ca28e,tonyabracadabra,,2016-08-17T03:07:42.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jensonjoy/notebook8019df79eb,Notebook7501cf6a46,geek ninja,,2016-08-17T01:57:01.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,prangana/time-travel-eda-8903a098,Time Travel (EDA) 8903a098,Pandu Ranganath,,2016-08-17T01:32:46.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jensonjoy/notebookda0d79ab4d,Notebook67e02be9f9,geek ninja,,2016-08-17T01:25:07.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,prangana/time-travel-eda,Time Travel (EDA),Pandu Ranganath,,2016-08-17T00:31:15.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,prateekbhat/time-travel-eda,Time Travel (EDA),Prateek,,2016-08-17T00:30:21.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,thomasseleck/notebookea920f7210,Notebookea920f7210,Thomas SELECK,,2016-08-16T21:47:37.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mounikm/notebook6b6fc298cf,Notebook6b6fc298cf,Mounik Muralidhara,,2016-08-16T21:30:02.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,irmo322/notebookd8a42281ba,Notebookd8a42281ba,Benjamin Maréchal,,2016-08-16T19:32:16.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abhinav2710/notebooke0f3dd7d32,Notebooke0f3dd7d32,Abhinav Garlapati,,2016-08-16T19:26:18.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,phtimo/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,PhilippTimoshenko,,2016-08-16T19:11:24.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gooron/generalized-linear-mixed-model,Generalized Linear Mixed Model,gooron,,2016-08-16T16:18:42.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amanrana20/time-travel-eda,Time Travel (EDA),Aman Rana,,2016-08-16T16:15:26.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abbracione/notebook4ba2398a69,Notebook4ba2398a69,gatto_ds,,2016-08-16T14:44:14.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gelinator/notebook4f9a580e65,Notebook4f9a580e65,Dave Gélinas,,2016-08-16T11:02:23.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,karacgun/notebooka5c28f1578,Notebooka5c28f1578,Karacgun,,2016-08-16T06:47:25.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/notebooka740235869,Notebooka740235869,Yifan_Kaggle,,2016-08-15T21:28:42.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/notebook4102a123c2,Notebook4102a123c2,Yifan_Kaggle,,2016-08-15T21:26:01.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/time-travel-eda-2bbb3de8,Time Travel (EDA) 2bbb3de8,Yifan_Kaggle,,2016-08-15T21:24:01.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/time-travel-eda,Time Travel (EDA),Yifan_Kaggle,,2016-08-15T20:24:52.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mryuyu1111/notebook1b71674fa7,Notebook1b71674fa7,Kelvin,,2016-08-15T20:24:25.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mryuyu1111/notebook7f427bb74c,Notebook7f427bb74c,Kelvin,,2016-08-15T19:59:17.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/notebookd12372da92,Notebookd12372da92,Yifan_Kaggle,,2016-08-15T19:54:40.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/notebookaf0edd6e1c,Notebookaf0edd6e1c,Yifan_Kaggle,,2016-08-15T19:47:18.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yfchow/notebook328b5f8a29,Notebook328b5f8a29,Yifan_Kaggle,,2016-08-15T19:35:28.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rodgexu/notebook7fa6585713,Notebook7fa6585713,rodge,,2016-08-15T17:16:14.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dorvik/notebookd7cbe86cc8,Notebookd7cbe86cc8,DORvik,,2016-08-15T14:41:35.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,slimlink3/notebookd482a9f959,Notebookd482a9f959,Slimlink,,2016-08-15T12:02:22.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,adagyenes/redhat,redhat,GyenesAdrienn,,2016-08-15T09:47:19.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sixthprime/trial-run,Trial Run,Sixth Prime Number,,2016-08-15T09:42:16.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,francescobonazzi/time-travel-eda,Time Travel (EDA),Francesco Bonazzi,,2016-08-15T09:01:52.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jayasimha/notebookdcddbfdc55,Notebookdcddbfdc55,classyfire,,2016-08-15T08:55:03.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebook573799b9c1,Notebook1f31733253,udit,,2016-08-15T08:27:33.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebookabe265732b,Notebook672c67e47d,udit,,2016-08-15T08:18:17.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tiffanyrenee/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Tiffany Montgomery,,2016-08-15T05:34:48.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,wusy1209/onepp,onepp,wusy1209,,2016-08-15T03:33:24.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/fork-of-gridsearch-and-pipeline,Fork of GridSearch and pipeline,Kwangsik Suh,,2016-08-15T00:14:15.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/gridsearch-and-pipeline,GridSearch and pipeline,Kwangsik Suh,,2016-08-15T00:13:25.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebookfc08f64a8c,Notebookfc08f64a8c,Kwangsik Suh,,2016-08-15T00:08:05.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anokas/predicting-leaderboard-shake,Predicting Leaderboard Shake,anokas,,2016-08-14T23:48:42.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marcinchilik/neuralnetwork,NeuralNetwork,Marcin Chilik,,2016-08-15T18:37:16.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mirkoluc/notebook88b05507c1,Notebook88b05507c1,Mirko Lucchese,,2016-08-14T21:13:08.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marcinchilik/testtrain,TestTrain,Marcin Chilik,,2016-08-14T22:35:03.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sbalajis/exploring-the-redhat-data,Exploring the Redhat Data,sbalajis,,2016-08-14T20:39:41.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gregho/notebooke020ba91f3,Notebooke020ba91f3,Ze Yu,,2016-08-14T19:50:15.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marcinchilik/mainkernel,MainKernel,Marcin Chilik,,2016-08-14T20:36:50.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,arunprasad/start,start,ArunPrasad,,2016-08-15T07:28:54.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,syednasar/notebookcd40a63b71,Notebookcd40a63b71,"Nasar, Syed",,2016-08-14T18:32:06.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tomanuniwat/notebook7f8e16127d,Notebook7f8e16127d,tommy_anuniwat,,2016-08-14T16:19:18.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebooke824a84c67,Notebook3f7368507b,udit,,2016-08-14T15:19:57.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook57143f3d15,Notebook57143f3d15,Kwangsik Suh,,2016-08-14T12:03:00.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/notebookb252c07581,Notebookb252c07581,NAIN,,2016-08-14T09:25:28.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zerostack/notebook917f1a6672,Notebookf83189072a,ZeroStack,,2016-08-14T08:51:29.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jonathanscanlan/notebook91e656aa40,Notebook91e656aa40,Jonathan Scanlan,,2016-08-14T06:34:12.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,imannekooeimehr/notebookcc154c7f5a,Notebookcc154c7f5a,Iman Nekooeimehr,,2016-08-13T23:03:39.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,themantalope/notebook9d8973898e,Notebook9d8973898e,Matt,,2016-08-13T21:23:30.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,deenmohan/notebookf93a22d9c2,Notebookf93a22d9c2,Deen Dayal,,2016-08-13T20:40:19.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rcprasanth/notebooke5bf28785e,Notebook0e4520a338,Prasanth,,2016-08-13T20:37:47.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pambos82/notebookd810d4c64d,Notebookd810d4c64d,Pambos,,2016-08-13T18:55:18.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alekseyklementiev/notebookbb9293fd9e,Notebookbb9293fd9e,Aleksey Klementiev,,2016-08-13T18:45:29.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sushize/models-ssz,models_ssz,Shize Su,,2016-08-13T15:32:52.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aky1994/data-preparation-for-performing-xgboost-model,Data preparation for performing XGBoost Model,AshishYadav,,2016-08-13T13:48:23.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jajeffries/redhat,redhat,James Jeffries,,2016-08-13T12:19:43.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/notebook53b904bc20,Notebook53b904bc20,NAIN,,2016-08-13T11:18:03.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kharvd/notebook6d490c15ac,Notebook6d490c15ac,Valery Kharitonov,,2016-08-13T09:22:13.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook55c653c11c,Notebook55c653c11c,Kwangsik Suh,,2016-08-13T00:51:54.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dariaei/notebookd3f95dbc97,Notebookd3f95dbc97,daria,,2016-08-12T20:30:22.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,campbellchristopher/notebookf2941a9e13,Notebookf2941a9e13,CampbellChristopher,,2016-08-12T20:29:42.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,syednasar/z-archived-redhat-eda,Z_ARCHIVED - Redhat | EDA,"Nasar, Syed",,2017-06-15T17:38:06.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anshumaan/predredhatbusval,PredRedHatBusVal,Anshu,,2016-08-12T16:05:24.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,avishek/notebookec45344629,Notebookec45344629,Avishek,,2016-08-12T15:39:19.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,intael/notebook41d0c51c27,Notebook41d0c51c27,Valde,,2016-08-12T14:55:14.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,fandang/python-ntbk-1,Python Ntbk 1,fandang,,2017-12-05T15:12:22.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook500ab60260,Notebook500ab60260,Kwangsik Suh,,2016-08-12T13:17:56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,marcinchilik/time-travel-eda-8d1308c0,Time Travel (EDA) 8d1308c0,Marcin Chilik,,2016-08-12T12:13:43.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anshumaan/notebookd31f540187,Notebookd31f540187,Anshu,,2016-08-12T11:09:59.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ankittalele/notebook7eaa344ac3,Notebookd16c44df76,AnkitTalele,,2016-08-12T10:50:49.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mayou36/notebookae7e362622,Notebookae7e362622,Mayou36,,2016-08-12T09:19:56.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,enemiakel/data-preparation-for-performing-xgboost-model,Data preparation for performing XGBoost Model,EneMikael,,2016-08-12T08:56:16.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,drorsimon/notebook0b97fbc593,Notebook0b97fbc593,DrorSimon,,2016-08-12T08:17:35.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,siyaozheng/modelbuilding,modelbuilding,Siyao Zheng,,2016-08-12T07:40:24.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,taiyangdixia/notebook6db284ccd4,Notebook6db284ccd4,taiyangdixia,,2016-08-12T06:54:04.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,thiagotouya/notebook63a04c211e,Notebook63a04c211e,ThiagoTouya,,2016-08-11T19:16:30.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,eleijonmarck/notebook2f329a6348,Notebook2f329a6348,eleijonmarck,,2016-08-11T18:47:09.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,eleijonmarck/hellllllllo,Hellllllllo,eleijonmarck,,2016-08-11T18:44:49.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,eleijonmarck/playground-0-2,Playground 0.2,eleijonmarck,,2016-08-11T17:58:05.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,dorvik/notebook04edebdadb,Notebook04edebdadb,DORvik,,2016-08-11T17:51:04.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,afournier/notebook809d8331eb,Notebook809d8331eb,AmauryFournier,,2016-08-11T15:38:05.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,gooron/time-travel-eda,Time Travel (EDA),gooron,,2016-08-11T14:43:54.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sushize/redhatboost,redhatboost,Shize Su,,2016-08-11T13:57:59.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jibybabu/notebook203954a42f,Notebook203954a42f,Arsenal,,2016-08-11T13:30:35.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bckatarzyna/redhatboost,redhatboost,Katarzyna,,2016-08-11T13:10:33.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bckatarzyna/notebook5d8588f368,Notebook5d8588f368,Katarzyna,,2016-08-11T11:48:26.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebookd842f6dff8,Notebookd842f6dff8,Kwangsik Suh,,2016-08-11T11:47:44.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook4c09a8456a,Notebook4c09a8456a,Kwangsik Suh,,2016-08-11T11:47:34.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mia1394/notebookb9f7a76358,Notebookb9f7a76358,KulmanDorottya,,2016-08-11T11:18:44.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bckatarzyna/notebook630855ab39,Notebook630855ab39,Katarzyna,,2016-08-11T11:09:07.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bckatarzyna/notebook4fc81dcfa1,Notebook4fc81dcfa1,Katarzyna,,2016-08-11T10:31:36.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,claracaba/testing,Testing...,ClaraCaba,,2016-08-11T08:42:56.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mia1394/notebookdb34ef9027,Notebookdb34ef9027,KulmanDorottya,,2016-08-11T08:34:51.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ktrueda/fork-of-20160811-9ea3cf48,Fork of 20160811 9ea3cf48,ktrueda,,2016-08-11T08:21:58.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ktrueda/fork-of-20160811,Fork of 20160811,ktrueda,,2016-08-11T08:21:14.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ktrueda/notebook32c1856799,Notebook32c1856799,ktrueda,,2016-08-11T08:14:58.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mia1394/kd0811,KD0811,KulmanDorottya,,2016-08-11T11:18:32.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,redpine/time-travel-eda,Time Travel (EDA),Xiaosong Zhang,,2016-08-11T03:27:38.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zhhtc200/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,ZHU Henghui,,2016-08-11T02:28:41.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shgidi/notebookb39f53a317,Notebookb39f53a317,Gidi Shperber,,2016-08-10T20:58:48.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,pramodatre/notebook076fe1feaa,Notebook076fe1feaa,Pramod,,2021-01-19T14:14:41.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,poiss0nriot/lr-0-978744,LR ~ 0.978744,CalmeToi,,2016-08-10T22:43:32.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnsonwu/check-data,check data,johnsonwu,,2016-08-10T17:34:26.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnsonwu/notebook4cb9c83b58,Notebook4cb9c83b58,johnsonwu,,2016-08-10T17:33:31.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,johnsonwu/notebookf3895919fa,Notebookf3895919fa,johnsonwu,,2016-08-10T17:25:03.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sushize/lr-0-978744,LR ~ 0.978744,Shize Su,,2016-08-11T13:09:19.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,olivermeyfarth/notebook95a8d8b702,Notebook95a8d8b702,Oliver Meyfarth,,2016-08-10T10:27:57.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook786e8b191b,Notebook786e8b191b,Kwangsik Suh,,2016-08-10T10:27:19.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bharathirajamstat/time-travel-eda,Time Travel (EDA),Bharathi Raja,,2016-08-10T06:46:41.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook39483d80aa,Notebook39483d80aa,Kwangsik Suh,,2016-08-10T05:23:12.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hydnrich/notebook42ed0548c6,Notebook42ed0548c6,hydnrich,,2016-08-10T01:59:26.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tippytom/predictingredhat-lewis,Notebook974151b17a,Thomas Nolan,,2016-08-10T01:16:50.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,datascininja/notebook6e8925e887,Notebook6e8925e887,Daniel Lee,,2016-08-10T00:06:42.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,thedarkl0rd/notebookcc29822f98,Notebookcc29822f98,The_DarkLord,,2016-08-09T21:57:54.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vitidn/notebookbfc56909e1,Notebookbfc56909e1,vitidN,,2016-08-09T20:33:47.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/notebook1cbf669751,Notebook1cbf669751,NAIN,,2016-08-09T20:02:45.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,bostdiek/notebook8a949da171,Notebook8a949da171,Bryan,,2016-08-09T17:34:21.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shanmukha1987/notebook83badecb89,Notebook0c2b4fdc23,Shanmukha,,2016-08-09T16:58:45.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shivaramkrs/understanding-the-data,Understanding the data,Shivaram K R,,2016-08-09T14:16:28.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shubhamsikarwar14/notebook1808d3efc6,Notebook1808d3efc6,SHUBHAM SIKARWAR,,2016-08-09T13:14:57.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebookcc48b73f1b,Notebookcc48b73f1b,Kwangsik Suh,,2016-08-09T10:52:41.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebookd5eb0e1066,Notebookd5eb0e1066,Kwangsik Suh,,2016-08-09T07:01:16.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sattvikc/notebook74c6d58ef3,Notebook74c6d58ef3,SattvikChakravarthy,,2016-08-09T05:48:10.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ganeshan/notebook68b4006599,Notebook68b4006599,Ganeshan Iyer,,2016-08-09T05:22:31.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook71e190d1c8,Notebook71e190d1c8,Kwangsik Suh,,2016-08-09T04:35:07.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mrisdal/notebook2d4c9faaae,Notebook2d4c9faaae,Meg Risdal,,2016-08-09T04:17:51.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cnukaus/time-travel-eda-xueyuancopy,Time Travel (EDA) xueyuancopy,Data Miner,,2016-08-09T01:04:35.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebookb36ae1c409,Notebookb36ae1c409,Kwangsik Suh,,2016-08-09T01:01:28.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook59b11a580f,Notebook59b11a580f,Kwangsik Suh,,2016-08-09T00:50:21.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,andrewedwards/explore-redhat-problem-with-almostimplemented,Explore RedHat problem with almostimplemented,AEdwards,,2016-08-08T23:24:26.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,andrewedwards/almostimplemented-redhat,almostimplemented_Redhat,AEdwards,,2016-08-08T23:24:23.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aakashnain/notebook27df99b8f5,Notebook27df99b8f5,NAIN,,2016-08-08T23:24:23.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rodgexu/time-travel-eda-5d027bad,Time Travel (EDA) 5d027bad,rodge,,2016-08-08T23:24:23.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,rodgexu/time-travel-eda,Time Travel (EDA),rodge,,2016-08-08T23:24:22.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebooke2108760c9,Notebooke2108760c9,Kwangsik Suh,,2016-08-08T13:00:13.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kaysuh/notebook0d094b4bf2,Notebook0d094b4bf2,Kwangsik Suh,,2016-08-08T12:46:32.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/demo-assdfdf,Demo ASsdfdf,Ben Hamner,,2016-08-08T12:33:42.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,cfretter/notebooka411edd2f1,Notebooka411edd2f1,ChristophFretter,,2016-08-08T10:46:23.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alexxanderlarko/lr-exp,LR_exp,Alexander  Larko,,2016-08-08T09:19:21.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mesdsingh/time-travel-eda,Time Travel (EDA),Sudarshan Singh,,2017-12-06T09:37:53.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,renancampos/time-travel-eda,Time Travel (EDA),RenanCampos,,2016-08-08T02:50:28.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jaredchung/notebookd39e455a27,Notebookd39e455a27,Jared Chung,,2016-08-08T02:29:29.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jadhavad/notebook4817cb74ba,Notebook4817cb74ba,Ray_Cord,,2016-08-07T23:58:47.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zllake/data-exploration,data_exploration,LakeZhang,,2016-08-07T19:14:56.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shivamm/time-travel-eda,Time Travel (EDA),Shivam,,2016-08-07T18:48:31.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kuphy98/notebook49ced27d8a,Notebook49ced27d8a,kuphy98,,2016-08-07T18:39:39.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebookb1e3967848,Notebookb1e3967848,udit,,2016-08-07T15:33:20.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sugiantolauw/time-travel-eda,Time Travel (EDA),sugianto lauw,,2016-08-07T12:38:54.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,avishek/notebookd4de1b32bc,Notebookd4de1b32bc,Avishek,,2016-08-07T12:25:42.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mayou36/notebook466aa1b7ac,Notebook466aa1b7ac,Mayou36,,2016-08-07T07:51:09.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nealtao/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,NealTao,,2016-08-07T06:41:50.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,avishek/notebook7262e29397,Notebook7262e29397,Avishek,,2016-08-07T04:46:29.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,luicaian/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,LCA,,2016-08-07T04:22:55.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kartikr/notebook699a64aeed,Notebookd9438d8003,aryabhatta2014,,2016-08-06T20:31:12.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,tylanmurphy/notebook18679ddb6f,Notebook18679ddb6f,tjmurphy,,2016-08-06T20:24:41.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/time-travel-eda,Time Travel (EDA),Ben Hamner,,2016-08-06T19:26:45.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,captainc/notebook89ee6643b2,Notebook89ee6643b2,Russell.C,,2016-08-06T19:15:57.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebookc75dcafc4f,Notebook194cb3897a,udit,,2016-08-06T18:49:41.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/redhattest,redhattest,udit,,2016-08-06T18:33:10.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chschroeder/notebook708a2e6501,Notebook708a2e6501,Christopher Schröder,,2016-08-06T18:16:17.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chschroeder/notebook9937ed335b,Notebook9937ed335b,Christopher Schröder,,2016-08-06T17:57:09.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,arthurmarkus/notebook16a5877d04,Notebook16a5877d04,Ar2r,,2016-08-06T17:19:26.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ctjohnson/notebook61f865b645,Notebook61f865b645,Chris Johnson,,2016-08-06T15:35:12.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,uditsaini/notebookde141626fa,Notebookde141626fa,udit,,2016-08-06T13:05:24.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,quietrags/notebook05ea7333d7,Notebook05ea7333d7,quietrags,,2016-08-06T11:01:51.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,flytosky/my-first-script,my_first_script,on_the_go,,2016-08-06T11:30:21.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kliang/notebookd822757c42,Notebookd822757c42,Andrew,,2016-08-06T05:42:37.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nealtao/test-red,test_red,NealTao,,2016-08-06T05:40:41.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nealtao/notebookad83179455,Notebookad83179455,NealTao,,2016-08-06T05:40:01.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nealtao/notebook5a2fbadea7,Notebook5a2fbadea7,NealTao,,2016-08-06T03:47:21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,taylo5jm/notebookf4f23e07a2,Notebookde85f7a7e4,JustinTaylor,,2016-08-06T02:32:03.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jwegas/notebook5fb800ffa4,Notebookd823bca0f1,Evgenii Zhukov,,2016-08-06T01:46:13.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jwegas/notebookd08806aa5e,Notebookd08806aa5e,Evgenii Zhukov,,2016-08-06T01:45:47.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jasontam/notebook49d4a554b2,Notebook49d4a554b2,( ͡° ͜ʖ ͡°),,2016-08-06T00:58:54.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jasontam/notebook08ee1c948f,Notebook08ee1c948f,( ͡° ͜ʖ ͡°),,2016-08-06T00:58:52.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,frjo0083/labelencoder-and-randomforest,LabelEncoder() and RandomForest,Fredrik Jonsson,,2016-08-06T00:09:43.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zgrkpnr/zxczxc,zxczxc,GrendersGrenders,,2016-08-05T19:17:31.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,zgrkpnr/notebook0fc3e97cbc,Notebook0fc3e97cbc,GrendersGrenders,,2016-08-05T19:13:17.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aahmd703/labelencoder-and-randomforest,LabelEncoder() and RandomForest,adam,,2016-08-05T17:21:37.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yiyunzhou/notebookc497bdb733,Notebookc497bdb733,YiyunZhou,,2016-08-05T17:18:01.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,egergo/notebookfb871366b2,Notebookfb871366b2,Gergo Ertli,,2016-08-05T16:13:25.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yanxinjia/fork-of-sparse-redhat-xgb,Fork of Sparse Redhat xgb,YanxinJia,,2016-08-05T15:25:17.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,oisinfitz/notebookd4447c693f,Notebookd4447c693f,oisin,,2016-08-05T10:05:00.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nealtao/test-1,test-1,NealTao,,2016-08-05T09:31:38.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,potterxu/redhat-predict,redhat predict,potter xu,,2016-08-05T07:11:41.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sakares/notebook7729b71f98,Notebook7729b71f98,Sakares Saengkaew,,2016-08-05T06:51:38.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,thinkdata/notebookc6676bae91,Notebookc6676bae91,thinkdata,,2016-08-05T06:09:28.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kbhola/redhat,REDHAT,Kishavan Bhola,,2016-08-05T01:13:14.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,akhaleghi/notebook2406044639,Notebook2406044639,akhaleghi,,2016-08-04T23:36:56.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,lusiliang93/notebookef9eb5c666,Notebookef9eb5c666,Stubborn donkey,,2016-08-04T20:33:11.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,lusiliang93/notebook48ffd1a4f0,Notebook48ffd1a4f0,Stubborn donkey,,2016-08-07T20:32:35.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,garethjns/fork-of-the-eleanor-roosevelt-approach,Fork of The Eleanor Roosevelt approach,GarethJones,,2016-08-04T19:42:25.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,garethjns/explore-people-activity-count,Explore People Activity Count,GarethJones,,2016-08-04T18:07:17.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,patanouk/xredboost,XRedBoost,Patanouk,,2016-08-04T16:04:40.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jianyuan/test-data,Test data,Jian Yuan Lee,,2016-08-04T15:53:32.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amanzotti/notebook56bb66a8a1,Notebook56bb66a8a1,amanzotti,,2016-08-04T14:59:39.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,headings/notebook899923a567,Notebook899923a567,jacobian,,2016-08-04T14:52:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jianyuan/test-run,Test Run,Jian Yuan Lee,,2016-08-04T15:21:00.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jianyuan/notebook146560ed4c,Notebook146560ed4c,Jian Yuan Lee,,2016-08-04T14:49:54.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jianyuan/notebook31520bdd89,Notebook31520bdd89,Jian Yuan Lee,,2016-08-04T14:49:17.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,headings/notebookdc3a4efdd5,Notebookdc3a4efdd5,jacobian,,2016-08-04T14:46:04.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,chitrakgupta144/notebook2610669364,Notebook2610669364,Chitrak,,2016-08-04T14:19:56.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,crailtap/keras-starter,Keras Starter ,Chris Cross,,2016-08-04T13:36:44.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abhishekdatascience/trying2,trying2,abhishek bhardwaj,,2016-08-04T13:33:38.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abhishekdatascience/notebook4ede3cc2f0,Notebook4ede3cc2f0,abhishek bhardwaj,,2016-08-04T13:31:59.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abhishekdatascience/fork-of-test-1,Fork of Test-1,abhishek bhardwaj,,2016-08-04T13:22:27.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abhishekdatascience/notebookfe61c412de,Notebookfe61c412de,abhishek bhardwaj,,2016-08-04T13:21:51.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,abhishekdatascience/test-1,Test-1,abhishek bhardwaj,,2016-08-04T12:56:43.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,amman123/notebook256e2d54b4,Notebook256e2d54b4,amman,,2016-08-04T12:43:57.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nverma22/notebook79d6499f7a,Notebook79d6499f7a,thakur naresh,,2016-08-04T11:54:42.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,darshanms1991/notebook7284683bb5,Notebook7284683bb5,M S Darshan,,2016-08-04T11:22:06.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,darshanms1991/notebook1d1a05b618,Notebook1d1a05b618,M S Darshan,,2016-08-04T11:20:46.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,darshanms1991/notebookedea41af4a,Notebookedea41af4a,M S Darshan,,2016-08-04T11:20:28.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vangaa/notebook796aa93aca,Notebook796aa93aca,Vang,,2016-08-04T10:16:48.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,vangaa/notebook93836ebeb7,Notebook93836ebeb7,Vang,,2016-08-04T09:24:52.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alicelane/redhat,RedHat,AliceLane,,2016-08-04T09:52:44.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,apartmentguru/fork-of-notebookc24282e11f,Fork of Notebookc24282e11f,Jorellano,,2016-08-04T05:24:26.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,claud10/quick-start,Quick Start,claud10,,2016-08-04T05:15:24.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,yurrzz/notebook5899d2067d,Notebook5899d2067d,YuriPiebenga,,2016-08-04T04:32:05.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nunally/first-try,First_try,Samiksha,,2016-08-04T10:40:24.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,nverma22/notebook8b8cf89cf1,Notebook8b8cf89cf1,thakur naresh,,2016-08-04T10:40:24.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,datacanary/deconfusion2,deconfusion2,DataCanary,,2016-08-04T18:01:36.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,web8341/notebook89f77d1811,Notebook89f77d1811,web8341,,2016-08-04T02:50:30.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jsab16/notebookb9d9b52013,Notebookb9d9b52013,JSab,,2016-08-04T02:50:30.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jsab16/notebook52082a4ba6,Notebook52082a4ba6,JSab,,2016-08-03T22:20:10.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/notebook548a4aaf4d,Notebook548a4aaf4d,Ben Hamner,,2016-08-03T21:02:38.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jibybabu/notebook31731f9700,Notebook31731f9700,Arsenal,,2016-08-03T20:57:02.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,lgrzybowski/notebook9ed1bc5b2f,Notebook9ed1bc5b2f,Łukasz Grzybowski,,2016-08-03T20:02:59.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sarath0210/notebook8954d89538,Notebook8954d89538,shekkizh,,2016-08-03T18:16:52.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,benhamner/notebook7d67e426f6,Notebook7d67e426f6,Ben Hamner,,2016-08-03T16:49:25.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,goelvj/notebook646b91b239,Notebook646b91b239,Vijay goel,,2016-08-03T16:33:47.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,kateswierz/notebook8e43ccae0e,Notebook8e43ccae0e,KateSwierz,,2016-08-03T15:27:07.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,anantgupta/feature-selection-using-python,Feature Selection using Python,Anant Gupta,,2016-08-03T14:09:35.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,sankar1535/main-copy1,main_copy1,Sank,,2016-08-03T13:36:03.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,myf0111/rhpredictions,rhPredictions,ramosma,,2016-08-03T12:29:26.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,iampritishpatil/somenote,somenote,Pritish Patil,,2016-08-03T09:40:39.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,jwegas/single-unified-table-0-94-sklearn,Single Unified Table ~0.94 Sklearn,Evgenii Zhukov,,2016-08-03T06:56:41.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,majhra/xredboost,XRedBoost,MCOC,,2016-08-03T23:51:52.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,aky1994/myredhat,Myredhat,AshishYadav,,2016-08-03T06:00:14.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,om1042/xgboost-enhanced,xgboost_enhanced,ompanda,,2016-08-03T06:17:09.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,isaaczurn/red-hat,Red Hat,Isaac Zurn,,2016-08-02T19:09:20.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,om1042/first-script,first_script,ompanda,,2016-08-02T17:38:57.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,datenkieker/xredboost-1712,XRedBoost 1712,qudade,,2016-08-02T10:30:05.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,mohamedali/what-s-in-there,what's in there? ,Mohamed Ali,,2016-08-02T12:44:16.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hironori/sample,sample,onoue,,2016-08-02T09:11:34.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alexxanderlarko/xgb-0208sing,xgb_0208sing,Alexander  Larko,,2016-08-02T05:03:22.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,shifanmao/beat-the-benchmark-0-54940,Beat the Benchmark! (0.54940),shifanbamboo,,2016-08-02T04:05:08.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,hroark/xredboost,XRedBoost,hroark,,2016-08-02T03:49:16.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,alexxanderlarko/xgb-0208,xgb_0208,Alexander  Larko,,2016-08-02T03:44:07.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,ynreaugk/beat-the-benchmark,Beat the benchmark,ravenrevolver,,2016-08-02T01:30:29.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,krishnateja614/benchmark,benchmark,Murali krishna teja,,2016-08-01T22:31:35.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,crocopie/beat-the-benchmark-0-54940,Beat the Benchmark! (0.54940),Anton Lozhkov,,2016-08-01T21:41:09.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value
+,,,,,0,karma86/tensorflow,tensorflow,Sergei Bugrov,,2016-08-01T21:47:15.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,predicting-red-hat-business-value

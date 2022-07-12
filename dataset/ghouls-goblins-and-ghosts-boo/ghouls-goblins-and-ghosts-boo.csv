@@ -1,0 +1,439 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,daavoo/tensorflow-1vs1,Tensorflow 1vs1,David de la Iglesia Castro,,2016-11-16T18:19:01.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,ghouls-goblins-and-ghosts-boo
+,,,,,0,mrtgocer/from-zero-to-hero-lightgbm-classifier,from ZERO to HERO LightGBM Classifier,Murat Gocer,,2021-01-20T08:15:43.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,ghouls-goblins-and-ghosts-boo
+,,,,,0,samratp/machine-learning-with-ghouls-goblins-and-ghosts,"Machine Learning With Ghouls, Goblins and Ghosts",Samrat Pandiri,,2018-12-10T06:57:11.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,ghouls-goblins-and-ghosts-boo
+,,,,,0,oysteijo/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Øystein Schønning-Johansen,,2016-11-11T07:40:50.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,ghouls-goblins-and-ghosts-boo
+,,,,,0,lilyelizabethjohn/standardization-using-standardscaler,Standardization using StandardScaler,Lily Elizabeth John,,2016-11-10T03:53:55.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,ghouls-goblins-and-ghosts-boo
+,,,,,0,hhllcks/comparison-between-classifiers,Comparison between classifiers,Hendrik Hilleckes,,2016-11-15T09:06:04.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,ghouls-goblins-and-ghosts-boo
+,,,,,0,artgor/eda-and-models-score-0-74291,EDA and models. Score 0.74291,Andrew Lukyanenko,,2016-11-12T07:59:05.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,ghouls-goblins-and-ghosts-boo
+,,,,,0,yoyocm/let-s-explore-and-classify-monsters,Let's explore and classify monsters,yoyocm,,2016-11-13T11:25:13.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,ghouls-goblins-and-ghosts-boo
+,,,,,0,yoyocm/why-goblins-classification-is-so-weak,Why goblins classification is so weak !?,yoyocm,,2016-11-08T21:27:15.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,ghouls-goblins-and-ghosts-boo
+,,,,,0,hhllcks/neural-net-with-gridsearch,Neural Net with GridSearch,Hendrik Hilleckes,,2016-11-18T11:59:10.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ghouls-goblins-and-ghosts-boo
+,,,,,0,shahules/ghouls-goblins-and-ghosts,"Ghouls, Goblins and Ghosts",Shahules,,2018-09-02T02:26:50.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ghouls-goblins-and-ghosts-boo
+,,,,,0,sudalairajkumar/simple-exploration-notebook-1,Simple Exploration Notebook,SRK,,2016-11-09T11:42:16.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ghouls-goblins-and-ghosts-boo
+,,,,,0,gauravjoshi1986/ghostbuster-data,Ghostbuster data,GauravJoshi,,2016-11-25T09:19:56.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ghouls-goblins-and-ghosts-boo
+,,,,,0,anastasiiaselezen/monsters-classification,Monsters classification ,Anastasiia Selezen,,2021-06-13T14:32:10.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ghouls-goblins-and-ghosts-boo
+,,,,,0,xingobar/ghost-data-visualization,Ghost Data Visualization,Gary Ng,,2016-11-25T08:39:06.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,ghouls-goblins-and-ghosts-boo
+,,,,,0,quadmx08/monsters-first-submission,Monsters First Submission,WaylonWalker,,2016-11-12T14:19:49.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ghouls-goblins-and-ghosts-boo
+,,,,,0,chromerai/ghouls-goblins-neural-net,"Ghouls,Goblins-Neural net",Kaustubh Mishra,,2021-06-05T15:46:19.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ghouls-goblins-and-ghosts-boo
+,,,,,0,mikhailg0/monsters-classification-solution,👻 Monsters Classification Solution,Mikhail Grigorev,,2020-08-16T14:05:12.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ghouls-goblins-and-ghosts-boo
+,,,,,0,netopedro/nn-approach-to-ghouls-goblins-and-ghosts,"NN Approach to ""Ghouls, Goblins, and Ghosts """,NetoPedro,,2018-08-13T09:08:17.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ghouls-goblins-and-ghosts-boo
+,,,,,0,anki08/classifying-ghouls-goblins-and-ghosts-using-svm,Classifying ghouls goblins and ghosts using svm,Ankita Sinha,,2016-11-02T19:36:15.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ghouls-goblins-and-ghosts-boo
+,,,,,0,aryaadesh/ggg-neuralnetwork,GGG_NeuralNetwork,Arya Adesh,,2021-06-15T07:23:20.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,akshatpathak/multiclass-data-classification,Multiclass data classification,akshatp,,2018-08-25T13:31:24.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,eponymous/blinky-pinky-inky-and-clyde,"Blinky, Pinky, Inky and Clyde",eponymous,,2016-11-25T23:51:06.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,negation/find-the-ghosts-ghouls-and-goblins,Find the Ghosts (+Ghouls and Goblins),NegatioN,,2016-11-27T19:08:24.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,dssariya/ghouls-goblins-and-ghosts,"Ghouls, Goblins, and Ghosts",sariya,,2016-11-16T17:30:13.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,semisupervised/semi-supervised-sklearn,Semi-Supervised sklearn,SemiSupervised,,2016-11-12T12:58:30.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,yhyu13/eda-and-models-score-0-74291-forked,EDA and models. Score 0.74291 (forked),Hang(Yohan) Yu,,2016-11-10T15:03:23.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,david101/boo-keras-xgboost-bagging-starter,Boo! Keras + XGBoost bagging starter,David Kazaryan,,2016-11-13T12:04:38.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,juandoso/a-simple-haunted-random-forest, A (simple) Haunted (random) Forest,juandoso,,2016-11-05T01:51:24.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ghouls-goblins-and-ghosts-boo
+,,,,,0,harshkondkar/1st-notebook-eda-on-ghouls-goblins-and-ghosts,"1st Notebook: EDA on Ghouls, Goblins and Ghosts ",Harsh Kondkar,,2021-05-20T06:19:37.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,karthikbhandary2/ghouls-goblins-or-ghosts,Ghouls-Goblins or Ghosts??,KARTHIK BHANDARY,,2020-10-18T09:28:49.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,renjithrrkj/eda-of-ghouls,EDA of ghouls,mastanBhai,,2020-07-21T09:41:46.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,milian/boooom,Boooom,pmil,,2016-12-01T10:32:06.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,sora4222/eda-graphing-of-each-feature,EDA Graphing of Each Feature.,RossDog,,2016-11-25T11:24:48.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,sudalairajkumar/notebook6d0de153b7,Notebook6d0de153b7,SRK,,2016-11-09T13:48:21.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,geekfox/chasing-ghosts-with-keras,Chasing ghosts with Keras,GeekFox,,2016-11-07T15:28:32.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ghouls-goblins-and-ghosts-boo
+,,,,,0,mwilla/ghouls-goblins-and-ghosts-boo,ghouls-goblins-and-ghosts-boo,Mwilla,,2021-03-16T09:51:41.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,pravdychvitalii/pvs-ghouls-goblins-and-ghosts,PVS_Ghouls_ Goblins_and_Ghosts,PravdychVitalii,,2020-07-27T16:34:32.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,julianbenny/ghouls-goblins-ghosts-keras,Ghouls-Goblins-Ghosts-Keras,Julian Benny,,2020-07-25T07:00:33.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,shounakdesai/ghouls-goblin-and-ghosts,ghouls-goblin-and-ghosts,Shounak Desai,,2020-07-07T10:19:15.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,kategera06/random-forest-classifier,Random Forest Classifier,Kateryna Herashchenko,,2020-03-28T08:09:02.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,iqrar99/ghouls-goblins-and-ghosts-voting-classifier,"Ghouls, Goblins, and Ghosts! (Voting Classifier)",Iqrar Agalosi Nureyza,,2020-03-10T09:49:18.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,santoshapr7/how-to-get-a-perfect-score-of-0-000,How to get a perfect score of 0.000 ,Santosh A,,2019-11-06T01:48:22.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,kewalkishang/ghosts-goblins-and-ghouls-classification,"Ghosts, Goblins and Ghouls! -classification",Kewal Kishan Gokuldas,,2018-01-31T06:34:29.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,zhangjuefei/explore-classify-the-goblin-ghost-ghoul-dataset,Explore & Classify the Goblin-Ghost-Ghoul dataset,zjf,,2017-01-06T06:13:10.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,kcorpse/beginner-ghouls-ghosts-classifier,"[Beginner] Ghouls, Ghosts... Classifier",kcorpse,,2016-12-24T00:21:30.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,gd10396101/first-data-exploration,First data exploration,Gianmarco,,2016-11-22T12:37:21.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,rafalpronko/notebook5f44ad931d,test1,maruda,,2016-11-21T21:16:19.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,anokas/bazooka-init,bazooka init,anokas,,2016-11-08T18:53:17.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,robinfaber/monsters-a-simple-logistic-regression-approach,Monsters: A simple logistic regression approach,Robin Faber,,2016-11-06T12:51:04.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,lewuathe/keras-model-for-classifying-monster,Keras model for classifying monster,Kai Sasaki,,2016-11-06T03:28:38.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ghouls-goblins-and-ghosts-boo
+,,,,,0,thomazquiain/participation-th-o-m,Participation Théo.M,Théo Mazquiain,,2022-01-19T16:59:02.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,svnsdhananjayreddy/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo!",SATTI VIJAY NAGA SRI DHANANJAY REDDY RA1811033010085,,2021-11-30T13:01:33.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,tefusha/3g-tefu1,3g tefu1,tefusha,,2021-07-11T07:24:04.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,nicapotato/tabular-nn-goblins-cat-and-num,Tabular NN Goblins - Cat and Num,nicapotato,,2020-12-21T10:40:21.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,qroshi/kernel73fa466455,kernel73fa466455,Semyon Komarov,,2020-07-29T12:44:24.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,pranavmittal88/ghosts,Ghosts,PRANAV MITTAL,,2020-07-18T11:37:51.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,arifintahu/ghouls-goblins-and-ghosts-classification,"Ghouls, Goblins, and Ghosts Classification",Miftahul Arifin,,2020-05-16T09:54:36.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,drumstasd/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo!",Donatas Drumstas,,2019-06-28T06:14:32.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,shivamsarawagi/generategouls,GenerateGouls,Shivam,,2019-04-05T02:12:59.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,iamcylee/kernela678bf8139,kernela678bf8139,Chanyoung Lee,,2019-01-30T14:14:57.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,mfirat/what-kind-of-freak-are-you,What Kind Of Freak Are You!?,Mehmet Fırat KOMURCU,,2018-06-03T12:56:06.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,vamsi023/notebook246633288f,Notebook246633288f,vamsi krishna,,2017-10-25T15:29:20.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,guidoman/ghosts-and-goblins-competition,Ghosts and Goblins competition,Guido Casiraghi,,2016-12-21T16:00:57.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,wangquan/test-all-train-data,test_all_train_data,Quan Wang,,2016-11-29T04:02:51.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,anishshah/ghosts-goblins-and-ghouls,"Ghosts, Goblins and Ghouls.",Anish Shah,,2016-11-25T11:47:03.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,gd10396101/fork-of-first-data-exploration-model-validation,Fork of First data exploration: Model Validation,Gianmarco,,2016-11-25T08:18:21.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,robscovell/gggaussian,GGGaussian,Rob Scovell,,2016-11-23T00:49:54.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,dmitryor/notebook4da753591d,Notebook6b0d0dfcfb,Dmitry Orlovsky,,2016-11-20T23:00:46.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,dempton/comparison-between-classifiers,Comparison between classifiers,Konstantin Gavrilchik,,2016-11-17T12:24:06.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,group16/tensorflow-1vs1,Tensorflow 1vs1,Gilles Vandewiele,,2016-11-14T08:39:48.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,feliper2/kmeans-ghouls-goblins-and-ghosts-boo,Kmeans ghouls-goblins-and-ghosts-boo,Felipe Rafael,,2016-11-13T16:49:09.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,group16/eda-and-models-score-0-74291-forked,EDA and models. Score 0.74291 (forked),Gilles Vandewiele,,2016-11-12T10:57:05.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,casuru/spooky-exploration-and-classification,Spooky Exploration and Classification,Chineye Asuru,,2016-12-10T08:21:14.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,aakash2121995/right-tools-for-ghosts-goblins-and-ghouls,"Right Tools for Ghosts,Goblins and Ghouls",Aakashaggawral,,2016-11-11T19:30:01.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,group16/stacking-xgb-knn-svm-lr,"Stacking [XGB, KNN, SVM] -- [LR]",Gilles Vandewiele,,2016-11-11T09:54:34.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,garnetreds7/nn-layer-2,NN_Layer_2,Garnet,,2016-11-12T12:05:35.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,yhyu13/tensorflow-hunting-forked,tensorflow hunting (forked),Hang(Yohan) Yu,,2016-11-10T05:34:58.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,alitvin/neural-networks-with-keras,Neural networks with Keras,alitvin,,2016-11-20T16:01:56.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,yhyu13/eda-and-models-score-0-73724-forked,EDA and models. Score 0.73724 (Forked),Hang(Yohan) Yu,,2016-11-08T21:13:21.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,cttsai/xgb-voting-weighted-goblins,"xgb voting, weighted goblins ",Chia-Ta Tsai,,2016-11-17T04:27:01.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,mishc9/normal-distribution-ggg,normal_distribution_ggg,Mikhail,,2016-11-02T21:50:17.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,anki08/classification-of-ghosts-using-svm,classification of ghosts using svm,Ankita Sinha,,2016-11-02T19:10:33.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ghouls-goblins-and-ghosts-boo
+,,,,,0,panagiotisvasdekis/mlteam16-cse-uoi-na-ve-bayes-classifier,mlteam16@cse-uoi (Naïve Bayes classifier),Panagiotis Vasdekis,,2022-05-04T11:33:50.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,panagiotisvasdekis/mlteam16-cse-uoi-svm,mlteam16@cse-uoi (SVM),Panagiotis Vasdekis,,2022-05-04T11:39:14.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,panagiotisvasdekis/mlteam16-cse-uoi-neural-network,mlteam16@cse-uoi (Neural Network),Panagiotis Vasdekis,,2022-05-03T12:36:08.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,panagiotisvasdekis/mlteam16-cse-uoi-k-nn,mlteam16@cse-uoi (k-NN),Panagiotis Vasdekis,,2022-05-04T11:36:19.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lethaldiran/ggg-dnn,GGG: DNN,lethaldiran,,2022-03-17T16:17:40.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lethaldiran/ggg-notebook,GGG: Notebook,lethaldiran,,2022-03-17T14:00:54.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,julieroussat/notebookjrghost,notebookJRghost,julie roussat,,2022-01-21T13:51:12.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nastyastrashnova/notebook749c9635c4,notebook749c9635c4,Nastya Strashnova,,2022-01-08T20:11:03.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,akornienko123/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo!",AKornienko,,2021-09-23T16:32:34.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,varunsimhareddy/ghouls-goblins-and-ghosts-boo-varun,"Ghouls, Goblins, and Ghosts... Boo-VARUN",VARUN SIMHA REDDY,,2021-09-12T14:14:05.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nikhiln2312/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo!",Nikhil N,,2021-09-09T17:09:40.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pranjal6192/notebook94f36b144a,notebook94f36b144a,PRANJALKUL,,2021-08-06T09:40:42.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mgen2020/ghouls-andglobins,Ghouls andglobins,M Gen,,2021-08-05T10:21:27.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tejasboss/ghouls-and-goblins,ghouls and goblins,Tejasboss,,2021-08-04T15:48:56.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,voluch346/ghouls-goblins-and-ghosts-boo-public,ghouls-goblins-and-ghosts-boo-public,Volodymyr Dubyna,,2021-07-27T17:22:29.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,konnyaku1234/boo-vote-isorution,boo_vote_Isorution,konnyaku1234,,2021-07-28T01:58:34.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tefusha/boo3g,boo3g,tefusha,,2021-07-28T01:32:00.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,itsukitanioka/notebook76dac5c978,notebook76dac5c978,Itsu_Toku,,2021-07-27T05:42:04.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rajeshwaris/ghouls-goblins-ghosts,Ghouls-Goblins-Ghosts,Rajeshwari S,,2021-07-24T15:30:14.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,prathikshabr/nn-ghoulsgoblins-ghosts-kaggleproject-7,NN-GhoulsGoblins&Ghosts-KaggleProject(7),Prathiksha B R,,2021-07-24T15:44:13.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,konnyaku1234/boo-vote,boo_vote,konnyaku1234,,2021-07-24T07:49:33.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,keerthanamreddy/neural-networks-week-5,Neural Networks WEEK 5, KeerthanaMreddy,,2021-07-20T13:26:28.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,shayistamulla/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo!",Shayista Mulla,,2021-07-18T18:23:31.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tefusha/3g-nn-core2,3g nn core2,tefusha,,2021-07-13T18:43:11.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tefusha/3g-fore-total,3g fore total,tefusha,,2021-07-12T22:11:59.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tefusha/3g-nn-tefu,3g nn tefu,tefusha,,2021-07-12T22:08:04.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,konnyaku1234/notebook67fb202070,notebook67fb202070,konnyaku1234,,2021-07-14T06:26:56.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tefusha/ggg-part3-tefu,ggg part3 tefu,tefusha,,2021-07-09T14:06:52.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,anu332/ghouls-goblins-and-ghosts-boo-nn,"Ghouls, Goblins, and Ghosts... Boo! (NN)",Anu332,,2021-06-30T13:32:32.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sakshi0100/gggboo,GGGBOO,Sakshi Singh,,2021-06-24T08:37:31.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,denimthangjam/ghouls-goblins-and-ghosts-boo,"::Ghouls, Goblins, and Ghosts... Boo!::",Denim,,2021-06-15T06:32:23.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sajjadwasti/notebookb7181cc78a,notebookb7181cc78a,Sajjad Wasti,,2021-05-22T22:39:40.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,diyadodwad/notebookd0228f906e,notebookd0228f906e,diya dodwad,,2021-05-23T16:39:13.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sachingupta2212/notebookdcf724b158,notebookdcf724b158,Sachin Gupta,,2021-04-25T18:57:44.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mohdmaazkhan/keras-ggg,Keras-GGG,Mohd Maaz khan,,2021-04-25T17:42:53.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xevator/neural-networks,Neural Networks,Xevator,,2021-03-28T15:25:08.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,yaroslavhladkyi/knn-classification-ghouls-goblins-and-ghosts,"KNN Classification | Ghouls, Goblins, and Ghosts..",Yaroslav Hladkyi,,2021-03-18T22:37:06.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dhawalsoni/neural-networks,Neural Networks,DHAWAL SONI,,2021-03-07T08:53:20.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nishita17/g3-notebook,G3 Notebook,Nishita Agarwal,,2021-03-03T11:31:39.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,subhamsagarpaira/beginners-neural-networks,Beginners-Neural Networks,Subham Sagar Paira,,2021-02-26T05:07:21.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,arko007/neural-networks-ghouls-goblins-and-ghosts,"Neural Networks - Ghouls, Goblins, and Ghosts...",Diganta,,2021-02-09T13:30:31.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sanskrutighadipatil/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo",Sanskruti Ghadipatil,,2021-02-06T15:45:43.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rohitjagirdar/notebook3ea557ba52,notebook3ea557ba52,rohit jagirdar,,2021-01-28T13:08:50.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dmytrochornyy/looking-for-ghost,Looking for ghost,Dmytro Chornyy,,2020-12-28T23:51:00.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,semenedel/notebook9524f1c5e3,notebook9524f1c5e3,saptarsi halder,,2020-12-12T11:57:12.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,kanekoakifumi/ghouls-goblins-and-ghosts-boo-aki,"Ghouls,Goblins,and Ghosts...Boo!_Aki", Kaneko Akifumi,,2020-12-01T17:41:22.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ayusheeagarwal/ghost-ghoul-goblin,Ghost...Ghoul...Goblin,Ayushee Agarwal,,2020-11-06T11:18:00.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,roohisharma/ghouls-goblins-ghosts-ann,Ghouls Goblins Ghosts ANN,Roohi Sharma,,2020-10-05T19:37:09.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,hiro1005/ghouls-goblins-and-ghosts-boo,"Ghouls, Goblins, and Ghosts... Boo!",Akihiro Kondo,,2020-10-26T07:26:57.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sakshichadha29/neural-networks-with-keras,Neural networks with Keras,SAKSHI CHADHA29,,2020-09-22T20:34:19.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lovishjindal/101703312,101703312,LOVISH JINDAL,,2020-09-22T16:19:18.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,haggarwal/notebook80317d0e7e,notebook80317d0e7e,HARDIK AGGARWAL,,2020-09-22T10:32:44.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sgoyal4be17/deeplearning-assignment-101703530,DeepLearning-assignment_101703530,SHUBHAM GOYAL,,2020-09-21T20:51:22.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tushardobhal273/notebooke79c982e6c,notebooke79c982e6c,tushar dobhal,,2020-09-22T14:45:34.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,and8080/notebook5b67ff7176,notebook5b67ff7176,And8080,,2020-09-11T11:53:27.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,teramera/kernel10ca177c23,kernel10ca177c23,Vicky Pandey,,2020-07-26T06:54:27.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,junooolee/find-creatures-by-classification-model, Find creatures by classification model,junolee,,2020-06-09T07:41:46.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ashishgeorg009/ghostcatcher,GhostCatcher,300237228-Ashish Muttumana,,2020-06-05T20:12:13.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dhruvgupta2801/neural-networks,Neural Networks,Dhruv,,2020-05-31T17:14:37.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,justineyu/ghouls,GHOULS,Justine Guenez,,2020-03-09T10:30:49.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,radeweg4264/kernel7b01a61d29,kernel7b01a61d29,Radosław Węgrzyk,,2020-01-05T23:52:55.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,abhinavcs13/ghosts-problem-using-multilayer-perceptron-keras,Ghosts Problem using Multilayer perceptron (Keras),Abhinav Sharma,,2019-08-22T13:42:10.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,kaledata/ghouls-goblins,Ghouls & Goblins,kaledata_kaggle,,2019-08-01T11:07:36.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,falconi/onevsrest-logisticregression,OneVsRest LogisticRegression,Falconi Nicasio,,2019-05-01T03:06:19.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,harvy8/ghosts-ghouls-or-goblins-using-svm,"Ghosts, Ghouls or Goblins using SVM",Hardik Vijayvargiya,,2019-02-23T10:00:53.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dipeshpoudel/ghouls-goblins-and-ghosts-in-random-forest,"Ghouls, Goblins, and Ghosts In Random Forest",Dipesh Poudel,,2018-12-23T09:28:38.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,davengo/project-3,project_3,davidNgo,,2018-12-01T20:10:53.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ritesaluja/halloweenspecial,HalloweenSpecial ,Ritesh Saluja,,2018-10-26T09:29:04.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,adrienphx/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Adrien,,2018-10-05T14:55:28.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mofurl/ghouls,Ghouls,mof,,2018-09-22T15:41:47.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,zhoulingyan0228/mysterious-creature-viz-and-classification,Mysterious Creature Viz and Classification,Lingyan Zhou,,2018-07-03T23:53:45.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,askhanna/ghosts-and-goblins,Ghosts and Goblins,Ashish Khanna,,2018-06-10T04:09:01.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jihyeseo/eda-ghost-3-class-4-con-1-cat-x,"eda ghost 3 class,4 con, 1 cat x",Jihye Sofia Seo,,2018-05-08T13:55:22.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,seregaworld/notebook49e6db2102,Notebook49e6db2102,Serega Ivanov,,2017-12-07T13:40:30.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,salsamarisha/ghoul-goblin-and-ghost-boo,"Ghoul, goblin, and ghost.... boo!",Marisha Salsabila,,2017-11-11T04:42:30.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,raphaelfp/ghouls-goblins-and-ghosts,"Ghouls, Goblins and Ghosts",Raphael Fernandes Pereira,,2017-11-18T19:23:29.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,a1058514/notebookac2236a5ae,Notebookac2236a5ae,Braden,,2017-10-18T03:58:50.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mzr2017/comparison-between-classifiers,Comparison between classifiers,zr,,2017-05-25T01:37:50.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,killichigo/notebook9352e34700,Notebook9352e34700,JoãoPauloAmaral,,2017-05-08T22:28:15.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,awi123/a-simple-haunted-random-forest, A (simple) Haunted (random) Forest,awinsalian,,2017-04-25T12:53:45.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,haritha1313/halloween-neural,halloween_neural,HarithaNair,,2017-04-23T18:49:30.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,haritha1313/halloween-nocolor,halloween_nocolor,HarithaNair,,2017-04-23T18:31:58.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,haritha1313/halloween-neighbors,halloween_neighbors,HarithaNair,,2017-04-23T07:16:28.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vermashresth/ghostsknn,GhostsKnn,ShresthVerma,,2017-04-23T07:10:09.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vermashresth/ghostssvcnew,GhostsSVCNEw,ShresthVerma,,2017-04-23T06:17:49.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vermashresth/ghostssvc,GhostsSVC,ShresthVerma,,2017-04-23T05:31:06.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,haritha1313/halloween,halloween,HarithaNair,,2017-04-23T06:21:48.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vermashresth/ghosts,Ghosts,ShresthVerma,,2017-04-22T21:21:48.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,hankpeng03/notebook8bcb16b5ff,Notebook8bcb16b5ff,HaoPeng,,2017-04-13T02:45:11.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,flpxiao/notebook1e04b4ed5f,Notebook1e04b4ed5f,Philip Xiao,,2017-04-08T12:29:56.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,flpxiao/notebooke210dec30e,Notebooke210dec30e,Philip Xiao,,2017-04-08T12:25:58.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mandeep94/halloween,Halloween,Mandy,,2019-08-23T10:20:59.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fastkms/first,first,mung,,2017-03-23T11:47:55.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fastkms/notebook94b5c8fc5b,Notebook94b5c8fc5b,mung,,2017-03-23T05:06:03.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,asogani/first-pass,first_pass,burrito,,2017-03-08T04:15:13.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,asogani/basic-run,basic_run,burrito,,2017-03-08T03:11:12.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,knighthawk989/notebook79204719ee,Notebook79204719ee,Sisir Sarkar,,2017-03-06T09:17:29.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,knighthawk989/notebook9b0c251bd6,Notebook9b0c251bd6,Sisir Sarkar,,2017-03-06T08:57:52.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,knighthawk989/notebookdc97c8691c,Notebookdc97c8691c,Sisir Sarkar,,2017-02-28T17:10:49.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ashwinikmr/p-testing-kaggle-first-time-with-ghosts,:P Testing Kaggle first time with ghosts ,ASHWINIKUMAR,,2017-02-27T19:17:27.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jja725/comparison-between-classifiers-b18844,Comparison between classifiers b18844,jja725,,2017-02-25T06:17:18.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jja725/comparison-between-classifiers,Comparison between classifiers,jja725,,2017-02-25T06:11:49.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,abdghani/notebook944cfd82ef,Notebook944cfd82ef,AbdullahGhani,,2017-02-19T20:09:40.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,knighthawk989/notebookaa6189193b,Notebookaa6189193b,Sisir Sarkar,,2017-02-19T19:48:33.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,knighthawk989/notebooke9a39399b6,Notebooke9a39399b6,Sisir Sarkar,,2017-02-19T18:24:28.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ramesharvind/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),RameshArvind,,2017-02-19T11:43:43.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,emem01/notebook846943736f,Notebook846943736f,emem01,,2017-02-17T08:34:09.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,emem01/notebook98d94abc43,Notebook98d94abc43,emem01,,2017-02-17T08:08:39.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,emem01/notebookdbb971c53c,Notebookdbb971c53c,emem01,,2017-02-16T19:01:24.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,emem01/notebookcde31a50d7,Notebookcde31a50d7,emem01,,2017-02-16T17:41:28.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,danchyy/ghosts-ghouls-goblins-test,"Ghosts, Ghouls, Goblins test",danchyy,,2017-02-17T19:37:09.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,m09kaa4/ghostbuster-data,Ghostbuster data,Такие.дела,,2017-02-06T06:39:27.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,zifannan/notebook07b78d31f6,Notebooka62112f6d6,Zifan Nan,,2017-02-04T01:45:45.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,unmesh/tensorflow-1vs1,Tensorflow 1vs1,unmesh,,2017-02-02T21:52:17.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sunyuhao222/comparison-between-classifiers-2b2051ec,Comparison between classifiers 2b2051ec,NoMoreFE,,2017-01-31T14:53:20.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sunyuhao222/comparison-between-classifiers,Comparison between classifiers,NoMoreFE,,2017-01-31T14:52:59.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,kummar/comparison-between-classifiers,Comparison between classifiers,深圳吴彦祖,,2017-01-23T07:01:19.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,svg325/first-notebook,First Notebook,SVG325,,2017-01-20T12:26:20.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,meliho/comparison-between-classifiers-58c47485,Comparison between classifiers 58c47485,Mr. Tall,,2017-01-18T03:25:00.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,meliho/comparison-between-classifiers,Comparison between classifiers,Mr. Tall,,2017-01-18T03:00:11.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,meliho/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Mr. Tall,,2017-01-17T23:47:00.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/notebookfa4cfaf52f,Notebookfa4cfaf52f,Hippo,,2017-01-12T13:16:39.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/notebookcda64524ca,Notebookcda64524ca,Hippo,,2017-01-12T08:28:44.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vanic2016/tensorflow-1vs1,Tensorflow 1vs1,vanic,,2017-01-08T18:01:32.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,johnmin/explore-classify-the-goblin-ghost-ghoul-dataset,Explore & Classify the Goblin-Ghost-Ghoul dataset,John Min,,2017-01-06T04:11:46.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,uyuutosa/explore-classify-the-goblin-ghost-ghoul-dataset,Explore & Classify the Goblin-Ghost-Ghoul dataset,YuSato,,2017-01-05T13:10:52.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,berkkarahan/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),BerkKarahan,,2017-01-05T10:03:49.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sramaj/notebook55d531c132,Notebook55d531c132,Sokol Ramaj,,2017-01-05T08:43:11.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,larkin/explore-classify-the-goblin-ghost-ghoul-dataset,Explore & Classify the Goblin-Ghost-Ghoul dataset,Jane,,2017-01-05T08:34:57.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,longtengteng/wowowow,wowowow,ZeroScore,,2016-12-26T11:44:01.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,kcorpse/notebooka8093fda9a,Notebooka8093fda9a,kcorpse,,2016-12-24T03:22:28.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/tensorflow-1vs1,Tensorflow 1vs1,Hippo,,2016-12-22T08:19:50.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,baciuciprian/notebookade5e9ff0d,Notebookade5e9ff0d,BaciuCiprian,,2016-12-19T16:03:37.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/notebook7593b81c2e,Notebook7593b81c2e,Hippo,,2016-12-17T14:55:38.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/notebookd5cca0eec4,Notebookd5cca0eec4,Hippo,,2016-12-17T12:24:32.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Hippo,,2016-12-17T12:09:30.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuziying0618/notebookd180005dc5,Notebookd180005dc5,Hippo,,2016-12-17T10:58:10.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,coderanger/ghosts,Ghosts,Kireeti Gupta,,2016-12-16T11:58:01.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sansinghsanjay/simple-nn,simple_nn,Sanjay Singh,,2016-12-14T15:26:10.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mwhcis/notebookc77149b57f,Notebookc77149b57f,mwhcis,,2016-12-14T07:44:31.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,zengxy/notebookdd432a8918,Notebookdd432a8918,zengxy,,2016-12-13T03:32:28.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-20161208v11h,classify_ghosts_20161208v11h,fzhurd,,2016-12-09T05:45:56.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mwhcis/notebook2db850a933,Notebook2db850a933,mwhcis,,2016-12-09T02:49:50.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,shravandhanuka/classification-decision-tree,Notebookd8bf99925d,Shravan,,2016-12-08T10:24:52.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lf2ccc2/notebook29c10534b5,Notebook29c10534b5,lf2ccc2,,2016-12-08T03:53:09.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lubai0512/notebook00bd9608ad,Notebook00bd9608ad,LuBai,,2016-12-06T21:35:04.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,arthas/comparison-between-classifiers,Comparison between classifiers,Fan Ming Chen,,2016-12-06T09:20:03.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,benjaminchan/notebookc23546c606,Notebookc23546c606,Benjamin Chan,,2016-12-05T19:46:27.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xhe1997/notebookb3a924b446,Notebookb3a924b446,XinweiHe,,2016-12-04T16:49:31.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pramodmna/ghostbuster-data,Ghostbuster data,pramodanantha,,2022-05-20T15:10:25.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pramodmna/comparison-between-classifiers,Comparison between classifiers,pramodanantha,,2016-12-02T10:15:35.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,danicodes/notebook2ca57dfa9f,Notebook2ca57dfa9f,danicodes,,2016-12-01T22:42:28.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,anjithgeorge/keras-script3,Keras script3,Anjith George,,2016-12-01T15:18:35.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,alecongia/notebooka9fd5258fc,Notebooka9fd5258fc,Alex,,2016-12-01T12:44:59.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/tensorflow-1vs1,Tensorflow 1vs1,Lavande233,,2016-12-01T10:40:55.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/svm-prediction,svm prediction,Lavande233,,2016-12-01T09:52:27.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nolanlee/notebookc362a34d99,Notebookc362a34d99,Li Guanchun,,2016-12-01T09:02:02.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v10h20161130,classify_ghosts_v10h20161130,fzhurd,,2016-12-01T08:57:11.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/notebook67a1a98d81,Notebook67a1a98d81,Lavande233,,2016-12-01T07:05:38.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/notebook129e3500a6,Notebook129e3500a6,Lavande233,,2016-12-01T07:05:30.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/blinky-pinky-inky-and-clyde-65116cef,"Blinky, Pinky, Inky and Clyde 65116cef",Lavande233,,2016-12-01T06:58:49.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/blinky-pinky-inky-and-clyde,"Blinky, Pinky, Inky and Clyde",Lavande233,,2016-12-01T06:32:06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/predict-with-svm-and-knn,predict with svm and knn,Lavande233,,2016-12-01T07:22:09.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuliang/notebook2f618d75aa,Notebook2f618d75aa,Sean,,2016-12-01T03:42:25.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fuglede/normally-distributed-monsters,Normally distributed monsters,fuglede,,2016-11-30T20:43:26.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/forest-knn-boosting-svm,forest/knn/boosting/svm,Lavande233,,2016-11-30T20:20:46.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/notebook7db14ac5b0,Notebook7db14ac5b0,Lavande233,,2016-11-30T17:55:21.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/notebook1853c22824,Notebook1853c22824,Lavande233,,2016-11-30T17:55:09.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lavande233/notebook010a0fa441,Notebook010a0fa441,Lavande233,,2016-11-30T17:54:24.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,hangman1993/comparison-between-classifiers,Comparison between classifiers,Srihari Gopi,,2016-11-30T17:10:03.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ketulgupta/mytry2,mytry2,Ketul Gupta,,2016-11-30T14:00:17.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ketulgupta/notebookddc93b5ebb,Notebookddc93b5ebb,Ketul Gupta,,2016-11-30T12:27:24.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,iujevic/notebook7515da57ef,Notebook7515da57ef,iujevic,,2016-11-30T10:35:46.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dennisdt/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Dennis Tran,,2016-11-29T22:55:28.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ervachon/notebookd55a13f0b7,Notebookd55a13f0b7,ML,,2016-11-29T20:57:03.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,shan4224/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),shan,,2016-11-29T20:49:56.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,anjithgeorge/keras-script,Keras script,Anjith George,,2016-11-29T08:14:29.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ervachon/notebook996c3e085b,Notebook996c3e085b,ML,,2016-11-28T12:33:22.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,shaka911/notebook40d39196cd,Notebookbd8ce76dd0,xiaochangLiu,,2016-11-28T11:06:51.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vagrantlyun/notebook071a12cd28,Notebook071a12cd28,YunLiu,,2016-11-28T10:33:50.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ranipakeyur/notebook070382a905,Notebook070382a905,Keyur Ranipa,,2016-11-28T09:47:08.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wangquan/comparison-between-classifiers,Comparison between classifiers,Quan Wang,,2016-11-28T09:11:23.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,willsuen/notebookbcbc09b44a,Notebookbcbc09b44a,Wei,,2016-11-27T19:57:25.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jadsruben/comparison-between-classifiers,Comparison between classifiers,JADS Ruben,,2016-11-27T17:03:41.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ranipakeyur/notebookfb51ea3581,Notebookfb51ea3581,Keyur Ranipa,,2016-11-27T07:49:46.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v8h220161126,classify_ghosts_v8h220161126,fzhurd,,2016-11-27T07:48:14.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v8h20161126,classify_ghosts_v8h20161126,fzhurd,,2016-11-27T07:29:33.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ranipakeyur/notebookb5f0de9509,Notebookb5f0de9509,Keyur Ranipa,,2017-07-10T09:32:48.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v7h220161126,classify_ghosts_v7h220161126,fzhurd,,2016-11-27T05:49:03.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v7h20161126,classify_ghosts_v7h20161126,fzhurd,,2016-11-26T23:36:47.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sominwadhwa/xgboost-approach,XGBoost Approach,Somin Wadhwa,,2016-11-26T20:59:50.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sominwadhwa/notebook6633dcc73e,Notebook6633dcc73e,Somin Wadhwa,,2016-11-26T20:49:48.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jadsruben/notebookacbfa61682,Notebookacbfa61682,JADS Ruben,,2016-11-26T20:26:22.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jadsruben/notebooked98c3aada,Notebooked98c3aada,JADS Ruben,,2016-11-26T20:24:45.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v5h320161125,classify_ghosts_v5h320161125,fzhurd,,2016-11-26T07:36:37.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v5h220161125,classify_ghosts_v5h220161125,fzhurd,,2016-11-26T07:33:05.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,greattnk/notebook39fd14b615,Notebook39fd14b615,Taiki,,2016-11-26T07:06:21.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghost2-v5h220161125,classify_ghost2_v5h220161125,fzhurd,,2016-11-26T06:30:15.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v5h,classify_ghosts_v5h,fzhurd,,2016-11-26T06:21:57.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jacola/ggg-xgboost-sandbox,GGG XGBoost Sandbox,Jacques Lalancette,,2016-11-26T02:48:56.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuliang/comparison-between-classifiers-dfa2294e,Comparison between classifiers dfa2294e,Sean,,2016-11-26T01:19:47.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ssk1994/fork-of-ghosts-n-goblins-n-neural-networks,Fork of Ghosts'n'Goblins'n'Neural Networks,SergeyKochegarov,,2016-11-25T14:28:05.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rajatjn/neural-network-tensorflow,neural network-tensorflow,rajatjain,,2016-11-25T13:36:08.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,gd10396101/fork-of-first-data-exploration-34f3d0d2,Fork of First data exploration 34f3d0d2,Gianmarco,,2016-11-25T10:48:04.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mlennox562/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),mlennox562,,2016-11-25T10:09:06.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fzhurd/classify-ghosts-v2h20161124,classify_ghosts_v2h20161124,fzhurd,,2016-11-25T07:02:53.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tangfan/notebook55d8b8f569,Notebook55d8b8f569,Tang Fan,,2021-02-23T09:07:03.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,gd10396101/fork-of-first-data-exploration-225f2efc,Fork of First data exploration 225f2efc,Gianmarco,,2016-11-24T21:13:05.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,gd10396101/fork-of-first-data-exploration,Fork of First data exploration,Gianmarco,,2016-11-24T20:39:05.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sora4222/haunted-kaggle-eda-graphing-the-data,Haunted Kaggle EDA (Graphing the data),RossDog,,2016-11-24T11:47:52.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,yuvisu/notebookbefb6ce1d7,Notebookbefb6ce1d7,AhWoo,,2016-11-24T10:07:26.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sonder/ghosts-n-goblins-n-neural-networks-d36c4772,Ghosts'n'Goblins'n'Neural Networks d36c4772,DS,,2016-11-24T06:16:30.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sonder/ghosts-n-goblins-n-neural-networks,Ghosts'n'Goblins'n'Neural Networks,DS,,2016-11-24T06:16:12.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,balintfodor/notebookd06c1e9a37,Notebookd06c1e9a37,BálintFodor,,2016-11-23T16:26:06.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wangquan/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Quan Wang,,2016-11-23T13:28:40.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wangquan/notebookad61215b3b,Notebook1d25647d0c,Quan Wang,,2016-11-23T12:03:08.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,namra42/notebook1fc9bae558,Notebook1fc9bae558,Namra,,2016-11-23T11:14:00.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,freedomabcd/notebook849cb99279,Notebook849cb99279,ShijieLi,,2016-11-23T08:05:33.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,freedomabcd/notebook78fb4aa5c4,Notebook78fb4aa5c4,ShijieLi,,2016-11-23T07:42:00.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vikramgarg/notebook486a43749b,Notebook486a43749b,Vikram,,2016-11-23T06:50:29.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vikramgarg/notebook5f5af9fc82,Notebook5f5af9fc82,Vikram,,2016-11-23T06:17:38.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuliang/comparison-between-classifiers,Comparison between classifiers,Sean,,2016-11-23T06:13:27.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,robscovell/ghouls-ghosts-and-gaussians,"Ghouls, Ghosts and Gaussians",Rob Scovell,,2016-11-23T01:01:09.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nanou021711/comparison-between-classifiers,Comparison between classifiers,Anne MORELL-BRETONNIERE,,2016-11-22T14:03:40.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lucgudev/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),LucguQolfiera,,2016-11-22T12:13:23.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jweber/this-is-a-test,This is a test,Josef,,2016-11-22T07:37:21.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,derek11/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),TCWQBY,,2016-11-22T07:09:17.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ashaytamhane/notebookc185a78c6a,Notebookc185a78c6a,ashay,,2016-11-22T02:30:10.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vanic2016/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),vanic,,2016-11-21T17:20:58.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dovreshef/test01,test01,DovReshef,,2016-11-21T16:47:18.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,badoun/notebooke3e57e15a9,Notebooke3e57e15a9,kuhung ,,2016-11-21T15:57:16.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,robvanputten/eda-and-models-score-0-74291,EDA and models. Score 0.74291,RobvanPutten,,2016-11-21T14:17:47.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuliang/play-ground,Play ground,Sean,,2016-12-01T05:12:17.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,chanchan/fork-of-goblin-monster-hunting,Fork of goblin_monster_hunting,chanchan,,2016-11-21T09:31:25.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,hhllcks/classification-with-xgboost,Classification with XGBoost,Hendrik Hilleckes,,2016-11-21T09:59:46.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wangquan/notebook736bf382a9,Notebook736bf382a9,Quan Wang,,2016-11-21T07:45:05.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wangquan/test1,test1,Quan Wang,,2016-11-30T12:56:34.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,chanchan/goblin-monster-hunting,goblin_monster_hunting,chanchan,,2016-11-21T09:09:18.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,vallegro/let-s-explore-and-classify-monsters,Let's explore and classify monsters,vanic,,2016-11-21T01:13:09.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jadssake/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),JADS_Sake,,2016-11-20T19:20:50.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pindapinda/notebook857feb55f8,Notebook857feb55f8,JADS Pindapinda,,2016-11-20T19:19:22.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,yhyu13/notebook21d32c3eb2,Notebook21d32c3eb2,Hang(Yohan) Yu,,2016-11-20T16:14:41.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,priyaananthram/notebookc9f253f29f,Notebookc9f253f29f,Priya Ananthram,,2016-11-20T14:13:56.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xuliang/notebookf68349c668,Notebookf68349c668,Sean,,2016-11-21T00:54:12.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,taotie12010/notebook2e7645381e,Notebook2e7645381e,HAA WUU,,2016-11-20T06:35:09.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,yhyu13/notebookd377918d28,Notebookd377918d28,Hang(Yohan) Yu,,2016-11-19T21:59:01.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,chanchan/monsters-prediction,monsters prediction,chanchan,,2016-11-19T15:46:00.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wwymak/ghosts-et-al,Ghosts et.al,wwymak,,2016-11-18T19:36:49.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,enovictor/eda-and-models-score-0-74291-forked,EDA and models. Score 0.74291 (forked),EnoVictor,,2016-11-18T16:34:20.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,evgeniymalishev/comparison-between-classifiers,Comparison between classifiers,Evgeniy Malishev,,2016-11-18T15:04:38.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,a7999011/comparison-between-classifiers,Comparison between classifiers,风仙云s,,2016-11-18T07:22:05.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ari994/notebook-1,Notebook_1,Arijit Mukherjee,,2016-11-21T08:53:12.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dmitryor/notebooka30453eea8,Notebookb5a046e53a,Dmitry Orlovsky,,2016-11-18T06:46:21.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dmitryor/notebookf7f12a71f3,Notebookd1078cf9fc,Dmitry Orlovsky,,2016-11-18T01:43:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,alexisdrx/catch-em-all,Catch'em all,AlexisDurieux,,2016-11-17T21:21:09.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,hrsfn9/normal-distribution-ggg,normal_distribution_ggg,HerasfinIsyana,,2016-11-17T11:12:27.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,remilia/notebookf2a0e4f475,Notebookf2a0e4f475,xymeow,,2016-11-17T07:02:59.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sampathbgsu/notebook31fade6cfb,Notebook96d6ddb216,p_sampath,,2016-11-17T04:14:35.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tyasnk/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Tyas Nuur Khoolish,,2016-11-17T04:04:17.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rpadgilw/notebookea5c2d4af7,Notebookea5c2d4af7,Rajesh16,,2016-11-16T23:14:08.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,chinski99/boo-hoo-2,boo hoo 2,KonradOlszewski,,2016-11-20T20:44:26.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dssariya/exploration-classification,Exploration & Classification,sariya,,2016-11-16T16:40:17.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,happymoon/happymoon,happyMoon,happyMoon,,2016-11-19T13:08:42.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,happymoon/notebook7d68035b68,Notebook7d68035b68,happyMoon,,2016-11-16T09:19:37.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dalviprasad/notebook13c19cb237,Notebook45d1f359e1,PrasadDalvi,,2016-11-16T06:29:33.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,kanishkapsingh2/notebook85896f3cb1,Notebook85896f3cb1,kanishkapsingh,,2016-11-16T04:29:40.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,bigheiniu/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),HaiLi,,2016-11-16T04:28:05.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,gtouzin/notebook46110e525d,Notebook46110e525d,GuillaumeTouzin,,2016-11-16T01:23:24.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,justfor/eda-and-models,EDA and models,Justfor,,2016-11-15T23:51:44.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,kanishkapsingh2/notebook0d4f624881,Notebook0d4f624881,kanishkapsingh,,2016-11-16T07:41:46.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jadssake/tensorflow-1vs1,Tensorflow 1vs1,JADS_Sake,,2016-11-29T21:29:38.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nightshade7/notebook0e07e2ed3a,Notebook410150dcd5,Abhishek Sehgal,,2016-11-14T17:42:54.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rymyung/notebookb7cc767efa,Notebookb7cc767efa,YeoMyungRo,,2016-11-14T11:56:05.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pindapinda/notebook5844e82e41,Notebook5844e82e41,JADS Pindapinda,,2016-11-14T10:16:38.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tyasnk/why-goblins-classification-is-so-weak,Why goblins classification is so weak !?,Tyas Nuur Khoolish,,2016-11-14T08:14:35.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jiageng/tensorflow-1vs1,Tensorflow 1vs1,我想割麦子,,2016-11-14T07:07:35.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pcjung/tensorflow-1vs1,Tensorflow 1vs1,Paul Jung,,2019-06-04T00:15:54.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ingrid/tensorflow-1vs1,Tensorflow 1vs1,Ingrid,,2016-11-13T23:55:40.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,balintfodor/notebook862f82326c,Notebook862f82326c,BálintFodor,,2016-11-13T17:20:23.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,feliper2/notebook1f2a354063,Notebook1f2a354063,Felipe Rafael,,2016-11-13T16:47:46.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lakeri/tensorflow-1vs1,Tensorflow 1vs1,lakeri,,2016-11-13T07:47:20.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,smeesumali/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),Syed Meesum Ali Zaidi,,2016-11-12T19:12:52.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,indrajati/ghosts-n-goblins-n-neural-networks-lb-0-74858,Ghosts'n'Goblins'n'Neural Networks (LB: 0.74858),indrajati,,2016-11-12T07:09:52.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,soft201mssb/notebook44358a3e13,Notebook44358a3e13,soft201mssb,,2016-11-12T06:33:20.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ruxizhang/ghost-prediction,Ghost Prediction,Ruxi Zhang,,2016-12-04T23:40:03.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wizuriel/comparison-between-classifiers,Comparison between classifiers,Ira Taraday,,2016-11-11T19:17:33.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lustigerguanaco/tensorflow-0-741,Tensorflow 0.741,JCh,,2016-11-11T18:53:14.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,dinhjeffrey/tensorflow-0-741,Tensorflow 0.741,clefairy,,2016-11-11T18:15:22.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,cukstn/tensorflow-0-741,Tensorflow 0.741,inno-vn,,2016-11-11T16:06:50.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ketulgupta/notebook1075bd596f,Notebook1075bd596f,Ketul Gupta,,2016-11-11T15:08:09.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,corwinliu9669/eda-and-models-score-0-74291,EDA and models. Score 0.74291,Corwin  Liu,,2016-11-11T14:16:35.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,prabhubct2/tensorflow-0-741,Tensorflow 0.741,Prabhakar Bhanudas Ghorpade,,2016-11-11T15:59:52.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,felixzhao/notebook6e543aee80,Notebook93e46720f0,FelixZhao,,2016-11-11T12:32:22.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,ravijp/tensorflow-0-741,Tensorflow 0.741,jhajhria,,2016-11-11T11:40:51.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,garnetreds7/keras-copy,Keras_copy,Garnet,,2016-11-12T12:00:40.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,alitvin/notebook7b32d3e97a,Notebook7b32d3e97a,alitvin,,2016-11-11T07:17:59.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,charithz997/notebook2c15adfa47,Notebook2c15adfa47,CharithU,,2016-11-11T05:46:55.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,wizuriel/tensorflow-0-741,Tensorflow 0.741,Ira Taraday,,2016-11-10T20:28:03.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pomalley08/tensorflow-0-741,Tensorflow 0.741,Patrick O'Malley,,2016-11-10T19:38:04.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jendrik/notebook5c371246e2,Notebook5c371246e2,Jendrik,,2016-11-10T17:13:24.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,awesomegabe/comparison-between-classifiers,Comparison between classifiers,AwesomeGabe,,2016-11-10T15:09:03.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,paohui1/eda-and-models-score-0-74291,EDA and models. Score 0.74291,Z.Chi,,2016-11-10T13:46:24.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,indrajati/notebook0c92c9402b,Notebook0c92c9402b,indrajati,,2016-11-10T08:50:06.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mxylin/notebookfeef964b6c,Notebookec3c67b16b,Xuan-Yi Lin,,2016-11-10T06:37:51.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,opanchenko/notebook4d8f66c257,Notebook4d8f66c257,Oleksandr Panchenko ,,2016-11-09T13:11:22.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,fpolimen/tensorflow-hunting,tensorflow hunting,Francesco Polimeni,,2019-04-01T15:19:29.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rp7275/novice-ghost-attempt,Novice Ghost Attempt,Rajesh,,2016-11-09T08:09:47.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rp7275/notebook0e7908de61,Notebook0e7908de61,Rajesh,,2016-11-09T05:34:01.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,aceb1shmael/notebookf2b60759c7,Notebookf2b60759c7,Aceb1shmael,,2019-10-17T13:59:50.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rafascar/of-monsters-and-men,Of monsters and men,Rafael Scarduelli,,2016-11-08T22:11:56.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rafascar/notebook4041e26565,Notebook4041e26565,Rafael Scarduelli,,2016-11-08T22:06:42.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,bluebite/notebook982b0126dc,Notebook982b0126dc,BlueBite,,2016-11-08T18:57:43.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pwsapwsa/notebookdc46b6c2ff,Notebookdc46b6c2ff,Pavel Samokhin,,2016-11-08T15:50:10.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,pallada92/notebook0281d15d8e,Notebook0281d15d8e,Ярослав Сергиенко 144,,2016-11-08T09:56:24.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,joygarfield/notebook6464df10cb,Notebook78c4991ce3,JoyGarfield,,2016-11-08T09:24:51.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rp7275/test-with-goblins,Test with goblins,Rajesh,,2016-11-08T08:43:28.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,shaka911/notebookd3bcea0c69,Notebookd3bcea0c69,xiaochangLiu,,2016-11-08T07:25:50.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,lilyelizabethjohn/why-goblins-classification-is-so-weak,Why goblins classification is so weak !?,Lily Elizabeth John,,2016-11-07T21:53:02.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jweber/notebook7388d9d274,Notebook7388d9d274,Josef,,2016-11-07T16:31:11.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,manurfr/notebook437090c771,Notebook437090c771,manur,,2016-11-07T10:11:13.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,babatee/first-submission-on-kaggle,First Submission on Kaggle,BabatundeAdekunle,,2016-11-07T03:40:49.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,casuru/notebookb2578f82eb,Notebookb2578f82eb,Chineye Asuru,,2016-11-06T20:20:09.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,antonyharnist/notebooke93d38ec19,Notebooke93d38ec19,AntonyHarnist,,2016-11-06T20:12:37.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,simonlaurin/notebook8c0b580a0a,Notebook8c0b580a0a,simon,,2016-11-06T19:48:33.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,tumm1944/let-s-explore-and-classify-monsters,Let's explore and classify monsters,Rajesh,,2016-11-06T18:45:34.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,alanmbarr/attempt-using-different-classifiers,Notebook0a36d15826,AlanBarr,,2016-11-06T23:29:37.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mroverlord/notebook36ca49b6b6,Notebook36ca49b6b6,Marcin Briański,,2016-11-07T18:54:21.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,midhun/notebook29d822fcb6,Notebook3564143e64,midhu n n,,2016-11-06T14:37:22.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,gflores1023/why-goblins-classification-is-so-weak,Why goblins classification is so weak !?,GabrielFlores,,2016-11-05T20:49:17.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,eminik/notebook5230962d29,Notebook9aaf02a819,Eminik,,2016-11-05T14:36:54.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,evgeniymalishev/a-simple-haunted-random-forest, A (simple) Haunted (random) Forest,Evgeniy Malishev,,2016-11-05T13:14:12.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rajatjn/let-s-explore-and-classify-monsters,Let's explore and classify monsters,rajatjain,,2016-11-05T06:33:22.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,rossxsy/eda-and-a-logistic-regress-benchmark-lb-0-727,EDA and a Logistic Regress Benchmark.  LB: 0.727,RossXu,,2016-11-05T04:16:02.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,edopic/notebookf7433c5722,Notebookf7433c5722,EdoardoPiccari,,2016-11-04T14:47:40.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,matthiaskirsch/notebookca2eba7bca,Notebook354520c7b7,MatthiasKirsch,,2016-11-04T14:10:05.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jertel/notebook32bd8093c4,Notebook32bd8093c4,JE,,2016-11-04T14:07:48.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,gauravjain/ghost-ipynb,ghost.ipynb,GAURAV JAIN,,2016-11-04T07:44:23.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,hydnrich/notebook2a97b11110,Notebook4734c1a286,hydnrich,,2016-11-04T00:58:29.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,shehio/trial,trial,shehab yasser,,2017-12-21T19:44:06.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,xheimlich/notebook6400dcfd89,Notebook9178f20f88,Diego Navarro,,2016-11-03T12:38:37.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,anki08/trial,trial,Ankita Sinha,,2016-11-03T12:08:32.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,anki08/chasing-ghosts-with-keras,Chasing ghosts with Keras,Ankita Sinha,,2016-11-03T12:04:03.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,nitinkd/classifying-ghouls-goblins-and-ghosts-using-xgb,Classifying ghouls goblins and ghosts using XGB,nkd,,2016-11-03T11:37:50.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,visionarytom/notebookc80c4ca5dd,Notebookc80c4ca5dd,Visionarytom,,2016-11-03T13:11:19.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,stavgrossfeld/my-first-nb,my_first_nb,StavGrossfeld,,2016-11-03T06:47:34.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,stavgrossfeld/halloween-competition,halloween_competition,StavGrossfeld,,2016-11-03T04:42:30.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,danielhuckins/decision-tree,decision tree,Daniel Huckins,,2016-11-03T22:30:22.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mikhailyurasov/lstms-in-keras-0-7,"LSTMs in Keras, 0.7+",MY,,2016-11-03T01:34:29.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,jweber/notebook01ba88c501,Notebook01ba88c501,Josef,,2016-11-02T13:31:11.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sr71nighthawk/notebook1f7164f1b1,Notebook1f7164f1b1,Sreenivasa Raghavan,,2016-11-02T10:32:02.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,duytruong/notebook1056a51e66,Notebookeda829fb6a,TrươngDuy,,2016-11-02T02:15:17.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,sidgan/a-simple-haunted-random-forest, A (simple) Haunted (random) Forest,Siddha Ganju,,2020-03-17T21:34:44.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,juandoso/notebook99720a060d,Notebook99720a060d,juandoso,,2016-11-01T02:13:04.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,mangara/notebook6112c313a2,Notebook6112c313a2,Sander Verdonschot,,2016-11-01T01:21:16.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo
+,,,,,0,juandoso/first-random-haunted-forest,First Random Haunted Forest,juandoso,,2016-10-31T23:48:25.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ghouls-goblins-and-ghosts-boo

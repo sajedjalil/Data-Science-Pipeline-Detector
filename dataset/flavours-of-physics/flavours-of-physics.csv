@@ -1,0 +1,190 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,triskelion/testing-python-3,Mapping 'IsoBDT' to 'track_Chi2D',Triskelion,,2015-08-30T16:12:13.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,flavours-of-physics
+,,,,,0,benhamner/rf-xgboost-example,RF + XGBoost Example (0.982253),Ben Hamner,,2015-08-04T22:55:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,flavours-of-physics
+,,,,,0,phunter/gridsearchcv-with-feature-in-xgboost,GridSearchCV with feature in xgboost,phunter,,2015-10-14T20:06:38.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,flavours-of-physics
+,,,,,0,fchollet/keras-starter-code-deep-pyramidal-mlp,Keras starter code: deep pyramidal MLP,fchollet,,2016-01-02T18:25:25.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,flavours-of-physics
+,,,,,0,abhishek/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Abhishek Thakur,,2015-07-23T13:08:04.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,flavours-of-physics
+,,,,,0,benhamner/flatness-boosting-example,Flatness Boosting Example,Ben Hamner,,2015-07-29T22:12:27.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,flavours-of-physics
+,,,,,0,gramolin/histograms,Histograms,Alexander Gramolin,,2015-09-15T21:24:18.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,flavours-of-physics
+,,,,,0,karma86/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Sergei Bugrov,,2015-09-11T20:21:33.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,flavours-of-physics
+,,,,,0,harshaneel/check-you-agreement-correlation-and-roc,"Check you Agreement, Correlation and ROC",Harshaneel Gokhale,,2015-07-28T21:51:40.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,flavours-of-physics
+,,,,,0,josefslavicek/simplified-version-of-my-solution,Simplified version of 3rd place solution,Josef Slavicek,,2015-10-17T04:56:58.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-keras-flatline,RF + XGBoost + keras + flatline,Bluefool,,2015-08-29T00:09:51.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,flavours-of-physics
+,,,,,0,holzner/candidate-mass,candidate mass distributions,Andre Holzner,,2015-10-13T09:10:19.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,flavours-of-physics
+,,,,,0,cast42/gridsearchcv-with-feature-in-xgboost,GridSearchCV with feature in xgboost,cast42,,2015-09-24T06:53:46.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-keras,RF + XGBoost + keras .983402,Bluefool,,2015-07-29T14:08:55.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,flavours-of-physics
+,,,,,0,rakhlin/abcde,Get to the top 5 with 75 lines of code,rakhlin,,2015-10-17T21:42:01.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,justfor/gridsearchcv-with-feature-in-xgboost,Ensemble Boost,Justfor,,2015-10-12T22:18:11.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,yashpatel5400/particle-feature-importance,Particle Feature Importance,yashpatel5400,,2015-08-27T17:52:45.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,udibr1/quantize,quantize,udibr,,2015-08-07T00:38:40.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,adamwong/rf-xgboost-example-0-982253,RF + XGBoost Example (0.983XXX),Adam W,,2015-07-26T12:10:23.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,triskelion/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Triskelion,,2015-07-23T12:00:30.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,benhamner/running-agreement-and-correlation-tests,Running Agreement and Correlation Tests,Ben Hamner,,2015-07-23T07:38:01.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,flavours-of-physics
+,,,,,0,scirpus/genetic-programming,Genetic Programming,Scirpus,,2015-10-15T08:42:48.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,flavours-of-physics
+,,,,,0,tunguz/agreement-correlation-and-roc,"Agreement, Correlation and ROC 3",Bojan Tunguz,,2015-10-09T15:42:05.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,flavours-of-physics
+,,,,,0,omkardray/flavour-of-physics,Flavour of Physics,Omkar Ray,,2020-08-12T20:38:37.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,nachogarcia88/xgboost-gridsearchcv,XGBoost (GridSearchCV),Ignacio Garcia,,2018-09-25T16:28:36.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,sionek/ugbc-gs2,UGBC-GS-simplified,Grzegorz Sionkowski,,2015-10-16T13:36:12.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,threeplusme/ensemble-boost,Ensemble Boost,threeplusme,,2015-10-11T13:03:14.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,scirpus/signal-is-for-the-birds,Signal is for the Birds,Scirpus,,2015-10-07T12:31:00.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,ankitccuser/uboost-gradientboost,Uboost+Gradientboost (0.9811170),root,,2015-09-11T18:05:16.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,amtousch/a-suggested-training-submission-pipeline,A suggested training/submission pipeline,Anne-Marie,,2015-09-08T07:54:08.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,edguy99/have-a-look-at-the-tree,Have a look at the tree,edguy99,,2015-08-09T03:16:12.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,edguy99/test1,First look at data,edguy99,,2015-08-10T07:05:56.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,mathseer/rf-xgboost-keras-flatline-0-983843,RF + XGBoost + keras + flatline 0.983,Oshaya,,2015-08-13T10:04:46.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,abhishek/rf-xgboost-keras-flatline,RF + XGBoost + keras + flatline,Abhishek Thakur,,2015-07-30T15:53:12.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,flavours-of-physics
+,,,,,0,matteomonzali/xgboost-model,XGBoost model,Matteo Monzali,,2020-10-28T15:48:37.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,sionek/ugbc-gs-simplified-mod1,UGBC-GS-simplified-mod1,Grzegorz Sionkowski,,2015-10-26T13:08:57.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,sionek/simplified-version-of-3rd-place-solution,Simplified version of 3rd place solution,Grzegorz Sionkowski,,2015-10-17T08:19:42.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,behrang/check-you-agreement-correlation-and-roc,"Check you Agreement, Correlation and ROC",Behrang,,2015-09-29T23:12:47.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,sachinvernekar/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Sachin Vernekar,,2015-09-13T21:51:32.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,cleberamaral/script-2,Script_2,Cleberson,,2015-08-28T02:07:43.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,ijaganjac/validation-weighted-gbm-rf,Validation weighted GBM/RF,Lamb,,2015-08-21T17:17:30.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,kumareshd/modified-xgboost-new,Modified XGBoost new,Kumaresh,,2015-08-09T16:46:45.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,edguy99/compare-a-couple-of-variables,Compare a couple of variables,edguy99,,2015-08-11T20:09:03.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,kheuton/rf-xgboost-keras-flatline,RF + XGBoost + keras + flatline,Kyle Heuton,,2015-08-05T19:50:14.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,ryutek/rf-xgboost-keras,RF + XGBoost + keras,U023,,2015-07-29T22:21:41.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,rickyhennessy/ugbfl,uGBFL,RickyHennessy,,2015-07-29T15:38:12.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,domcastro/xgboost-keras,XGBoost + keras ,Bluefool,,2015-07-29T14:54:50.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,deepcnn/rf-xgboost-example-0-983xxx,RF + XGBoost Example (0.983XXX),Deep,,2015-07-23T16:17:11.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,sionek/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Grzegorz Sionkowski,,2015-10-07T06:49:29.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,flavours-of-physics
+,,,,,0,matteomonzali/rfc-model,RFC model,Matteo Monzali,,2020-10-28T16:54:52.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,matteomonzali/nn-model,NN model,Matteo Monzali,,2020-10-28T15:48:42.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,matteomonzali/t-3u-decay-submitted,t-->3u Decay Submitted,Matteo Monzali,,2020-10-24T10:45:20.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,purpleplanet/kernel75db018963,kernel75db018963,Steven Alsheimer,,2020-05-19T18:50:28.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,jihyeseo/eda-tau-muon-unzip,eda tau muon unzip,Jihye Sofia Seo,,2018-05-08T15:45:36.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kenanjfarmer/notebooke45b491a87,Notebooke45b491a87,kenanfarmer,,2017-04-23T02:32:57.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,maxkarpov/notebook738c054885,Notebook738c054885,MaxKarpov,,2017-01-10T15:40:58.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,pankajmishra/python-script,Python script,PankajMishra,,2016-12-15T19:55:54.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ronnnwu/notebookd67250d207,Notebookd67250d207,honey_spirit(not_so_holy),,2016-09-13T03:25:54.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ronnnwu/notebookb988bd0ca5,Notebookb988bd0ca5,honey_spirit(not_so_holy),,2016-09-13T01:30:21.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ronnnwu/notebook1b6d79438d,Notebook1b6d79438d,honey_spirit(not_so_holy),,2016-09-09T13:42:22.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,abhicloudstalk/abhish4,Abhish4,AbhishekNandy,,2016-06-23T13:19:47.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,strawberrypie/test-keras,test_keras,Anton Kiselev,,2016-02-22T12:08:42.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,dominicmills/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Dominic Mills,,2015-10-12T23:13:39.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sushize/ensemble-boost-try-ssz2,Ensemble Boost_try_ssz2,Shize Su,,2015-10-12T21:00:06.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,thedoctor46/test-xgb,test_xgb,Mudit Jain,,2015-10-12T16:08:47.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sushize/ensemble-boost-try,Ensemble Boost_try,Shize Su,,2015-10-12T19:19:14.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michelj/ensemble-boost,Ensemble Boost,MichelJ,,2015-10-12T11:54:58.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,luciferase/ensemble-boost,Ensemble Boost,Alex Jacobs,,2015-10-12T15:32:33.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,tunguz/ensemble-boost-3,Ensemble Boost 3,Bojan Tunguz,,2015-10-12T02:27:07.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,thedoctor46/test-keras,test_keras,Mudit Jain,,2015-10-12T19:00:58.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,thedoctor46/test46,test_ugb,Mudit Jain,,2015-10-12T18:13:24.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,justfor/ensemble-boost-2,Ensemble Boost 2,Justfor,,2015-10-12T22:18:33.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sushize/ensemble-boost,Ensemble Boost_ssz,Shize Su,,2015-10-11T18:15:41.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,scirpus/mass-on-sunday,Mass on Sunday?,Scirpus,,2015-10-11T10:06:53.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,pinocchio/naivebayes,NaiveBayes,Hamed Seyed-allaei,,2015-10-11T10:17:11.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,opraveen/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),OP,,2015-10-10T19:49:59.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,threedb/rf-xgboost-keras-flatline-v-2-0k,RF + XGBoost + keras + flatline v 2.0k,threedB,,2015-10-10T23:30:26.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,liwzhi/gridsearchcv-xgb-ssz,GridSearchCV_xgb_ssz,liwzhi,,2015-10-10T06:59:38.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sushize/gridsearchcv-xgb-ssz,GridSearchCV_xgb_ssz,Shize Su,,2015-10-09T22:39:15.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,threedb/rf-xgboost-keras-flatline-v-2-0m,RF + XGBoost + keras + flatline v 2.0m,threedB,,2015-10-10T01:21:31.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,threedb/rf-xgboost-flatline-v-2-0z,RF + XGBoost  + flatline v 2.0z,threedB,,2015-10-09T18:55:56.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sushize/acr2-ssz,ACR2_SSZ,Shize Su,,2015-10-09T17:44:02.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,stepobr/agreement-correlation-and-roc,"Agreement, Correlation and ROC",Stepan Obraztsov,,2015-10-09T13:37:40.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michelj/rf-xgboost-keras-flatline-v-2-0-2,RF + XGBoost + keras + flatline v 2.0.2,MichelJ,,2015-10-09T13:17:09.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,mfradkin/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Michael Fradkin,,2015-10-08T00:53:30.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,mingjerli/python-98-4,Python 98.4,mingjerli,,2015-10-07T19:11:21.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,paso84/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Paso,,2015-10-12T23:01:00.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sionek/flatness-boosting-example-1,test2,Grzegorz Sionkowski,,2015-10-07T06:54:07.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,vikrant24/rf-xgboost-keras-flatline-v-7-0,RF + XGBoost + keras + flatline v 7.0,Vikrant Kumar,,2015-10-07T01:12:35.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michelj/rf-xgboost-keras-flatline-v-2-0-1,RF + XGBoost + keras + flatline v 2.0.1,MichelJ,,2015-10-08T07:41:14.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,flashnik/imprf-xgboost-keras-flatline-v-2-0,impRF + XGBoost + keras + flatline v 2.0,flashnik,,2015-10-06T09:42:34.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,giusco/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Gius,,2015-10-06T22:56:47.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,arnocandel/python-98-4,Python 98.4,Arno Candel,,2015-10-05T22:09:56.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,luyaoly/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,paladin_o_newengland,,2015-10-03T15:03:07.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,interesting/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Nathaniel Shimoni,,2015-10-06T22:50:25.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,stepobr/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Stepan Obraztsov,,2015-10-01T12:34:22.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,mikeskim/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Mike Kim,,2015-10-06T23:19:24.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,pinocchio/gaussiannb,RandomForest,Hamed Seyed-allaei,,2015-09-29T15:05:50.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,iezepov/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,Ilya Ezepov,,2015-09-27T18:09:01.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,urvesh/rf-xgboost-example-0-982253-try1,RF + XGBoost Example (0.982253)try1,UrveshD,,2015-09-26T21:35:37.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,twitter/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Shouvik,,2015-09-26T02:14:38.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,cadrev/rf-et-xgb,rf_et_xgb,Felan Carlo Garcia,,2015-09-25T06:55:03.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,giusco/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,Gius,,2015-09-21T22:45:44.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,cadrev/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Felan Carlo Garcia,,2015-09-21T16:43:25.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ankitccuser/uboost-gb-xgb-ada,UBoost+GB+Xgb+ADA,root,,2015-09-21T19:52:48.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,pinocchio/adaboost,AdaBoost,Hamed Seyed-allaei,,2015-09-28T12:01:46.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,justfor/rf-xgb,RF-xgb,Justfor,,2015-10-10T05:46:30.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,uditsaini/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,udit,,2015-09-15T11:05:18.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sylvialee/gradiantboosting,GradiantBoosting,Sylvia Lee,,2015-09-15T07:46:04.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ankitccuser/gradientboost-uboost-binflatnessloss,"Gradientboost+ Uboost,binflatnessloss ",root,,2015-09-12T03:36:32.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,visoks/something-1,something,Jonas Kibildis,,2015-09-12T08:18:23.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,rgsachin/helloworld,HelloWorld?,Sachin,,2015-09-11T04:18:31.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,alexlzzz/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),==>(AL)<==,,2015-09-09T05:19:01.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ouranos/xgboost-1,xgboost,Ouranos,,2015-09-07T16:49:35.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,abhijitk/rf-xgboost-keras-flatline-laziness,RF + XGBoost + keras + flatline laziness,Abhijit K,,2015-09-05T17:48:39.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,gramolin/simple-svm,Simple logistic regression (0.965271),Alexander Gramolin,,2015-09-06T08:16:23.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,benhamner/demo-stub,Demo Stub,Ben Hamner,,2015-09-04T20:51:10.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michaelpawlus/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Michael Pawlus,,2015-09-07T02:56:25.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michaelpawlus/rf-xgboost-keras-flatline-v-2-1,RF + XGBoost + keras + flatline v 2.1,Michael Pawlus,,2015-09-04T20:26:38.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michaelpawlus/rf-xgboost-keras-flatline-v-2-0,XGBoost,Michael Pawlus,,2015-09-03T18:29:08.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,zelectricity/rf-xgboost-keras-flatline-v-2-0,RF + XGBoost + keras + flatline v 2.0,zelectricity,,2015-09-03T03:41:30.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michaelpawlus/rf-xgboost-keras-flatline-0-983754,RF + XGBoost,Michael Pawlus,,2015-09-02T20:05:24.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,uditsaini/xgboost-test-1,xgboost_test,udit,,2015-09-02T11:19:24.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,uditsaini/xgboot-test,xgboot_test,udit,,2015-09-02T10:40:27.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sushize/rf-xgboost-example,RF + XGBoost Example,Shize Su,,2015-08-31T11:54:48.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,interesting/rf-xgboost-keras-flatline-nati,RF + XGBoost + keras + flatline nati,Nathaniel Shimoni,,2015-08-30T22:08:18.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,zelectricity/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,zelectricity,,2015-08-30T17:11:46.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,zelectricity/rf-xgboost-keras-flatline,RF + XGBoost + keras + flatline,zelectricity,,2015-08-29T21:36:08.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,tomorrowdawn/neural-net-experiment,neural_net_experiment,Romanov.Michael,,2015-08-30T13:30:57.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,yashpatel5400/gradient-boosting-particle,Gradient Boosting Particle,yashpatel5400,,2015-08-29T23:27:12.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ijaganjac/physics-gbm,physics_gbm,Lamb,,2015-08-23T13:04:52.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,uditsaini/test-xgboot,test_xgboot,udit,,2015-08-23T08:10:20.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,uditsaini/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),udit,,2015-08-23T07:27:32.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,mestari/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Tapio Räsänen,,2015-09-16T22:51:44.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,dahmanmo/essai-1,essai,Dahmanmo,,2015-08-19T14:28:21.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/differentmix,differentmix,Bluefool,,2015-08-19T13:21:03.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/usuals,usuals,Bluefool,,2015-08-17T21:19:17.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,Bluefool,,2015-08-17T20:50:56.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michaelpawlus/rf-xgboost-keras-flatline-0-983,RF + XGBoost + keras + flatline 0.983,Michael Pawlus,,2015-08-17T15:56:34.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,alexxanderlarko/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,Alexander  Larko,,2015-08-17T06:20:26.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ouranos/keras-starter-code-deep-pyramidal-mlp,Keras starter code: deep pyramidal MLP,Ouranos,,2015-09-06T07:22:14.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,zhonghuaxi/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,Zhonghua Xi,,2015-08-13T17:33:16.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgb,RF XGB,Bluefool,,2015-08-14T23:57:57.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,michelj/rf-xgboost-keras-flatline-0-983754,RF + XGBoost + keras + flatline 0.983754,MichelJ,,2015-08-11T12:03:22.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,triskelion/quantize,quantize,Triskelion,,2015-08-07T17:15:19.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,jonmanly/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),dataGuy716,,2015-08-13T16:55:33.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/modified-xgboost,Modified XGBoost,Kumaresh,,2015-08-06T05:45:33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,jonathanslomka/rf-xgboost-keras-flatline-try,RF + XGBoost + keras + flatline try,JonathanSlomka,,2015-08-05T12:26:34.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,jonathanslomka/testtttt,testtttt,JonathanSlomka,,2015-08-05T11:17:07.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,duttaroy/modified-xgboost,Modified XGBoost,OverfitterScientist,,2015-10-09T02:14:20.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sravanb/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Sravan Babu Bodapati,,2015-08-05T02:04:02.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,korbonits/rf-xgboost-keras-flatline-0-983843,RF + XGBoost + keras + flatline 0.983843,korbonits,,2015-08-04T05:16:11.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,korbonits/baseline,baseline,korbonits,,2015-08-04T05:36:19.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,korbonits/rf-xgboost-keras-flatline-550,RF + XGBoost + keras + flatline 550,korbonits,,2015-08-04T15:55:09.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/rf-xgboost-keras-flatline-550,RF + XGBoost + keras + flatline 550,Kumaresh,,2015-08-04T03:19:58.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kheuton/rf-xgboost-keras-flatline-0-983843,RF + XGBoost + keras + flatline 0.983843,Kyle Heuton,,2015-08-03T21:24:24.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/rf-xgboost-keras-flatline-55,RF + XGBoost + keras + flatline 55,Kumaresh,,2015-08-02T22:47:48.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgb-flatness-gbm,RF + XGB + flatness + gbm,Bluefool,,2015-08-09T20:04:11.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-keras-flatline-ada,RF + XGB + keras + flatness + gbm,Bluefool,,2015-08-01T00:23:26.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,deepcnn/rf-xgboost-nn-ugb,RF + XGBoost + NN + uGB,Deep,,2015-07-31T14:34:13.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,rickyhennessy/rf-xgboost-keras-flatline-0-983843,RF + XGBoost + keras + flatline 0.983843,RickyHennessy,,2015-07-30T18:19:14.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/rf-xgboost-keras-flatline,RF + XGBoost + keras + flatline,Kumaresh,,2015-08-01T01:22:03.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,sionek/rf-xgboost-keras-few-variables,RF + XGBoost + keras - few variables,Grzegorz Sionkowski,,2015-07-30T09:10:02.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/rf-xgboost-keras,RF + XGBoost + keras,Kumaresh,,2015-07-30T13:32:35.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/how-long-do-you-take-flatness-boosting,how long do you take? Flatness Boosting,Bluefool,,2015-09-15T19:45:47.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/rf-xgboost-xgboost,RF + XGBoost +XGBoost,Kumaresh,,2015-07-29T17:09:38.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,timevans/rf-xgboost-keras,RF + XGBoost + keras,Tim Evans,,2015-07-28T23:39:52.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,mindlessjoker/script-testing,Script testing,MindlessJoker,,2015-07-28T20:49:32.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ouranos/rf-xgboost-example-2,RF + XGBoost Example (2),Ouranos,,2015-10-11T08:36:13.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,kumareshd/just-xgboost,Just XGboost,Kumaresh,,2015-07-28T15:16:01.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,ouranos/keras-starter-code-deep-pyramidal-mlp-2,Keras starter code: deep pyramidal MLP 2,Ouranos,,2015-07-28T16:29:28.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/try-agreement-correlation-and-roc,"try Agreement, Correlation and ROC",Bluefool,,2015-07-31T13:09:32.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,thodime/xg-boost-v1,xg_boost_v1,Thodime,,2015-07-27T18:51:51.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/et-small-but-random,adaboost v1 (FAILS),Bluefool,,2015-07-27T10:44:14.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-tune-2,ET + XGBoost ,Bluefool,,2015-07-26T12:44:44.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,duttaroy/modified-script,modified_script,OverfitterScientist,,2015-07-26T02:34:18.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,duttaroy/rf-xgboost-trial,RF_XGBoost_Trial,OverfitterScientist,,2015-07-27T02:49:39.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/kera-try-1,kera try 1,Bluefool,,2015-09-09T15:11:50.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-tune-1,RF + XGBoost - tune 1,Bluefool,,2015-07-25T15:19:31.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,oussamaahmia/xgbtest,xgbtest,Oussama Ahmia,,2015-07-25T14:20:37.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,mandalsubhajit/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Subhajit Mandal,,2015-07-25T03:14:26.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,oussamaahmia/0123456,0123456,Oussama Ahmia,,2015-07-25T15:38:30.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,alexxanderlarko/rf-etc-xgboost-example-xxxxx,RF +ETC XGBoost Example (xxxxx),Alexander  Larko,,2015-07-24T09:40:52.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,deepcnn/keras-starter-code-deep-pyramidal-mlp,Keras starter code: deep pyramidal MLP,Deep,,2015-07-24T07:06:36.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,binghsu/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Bing Xu,,2015-07-24T00:44:21.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,deepcnn/rf-xgboost,RF + XGBoost,Deep,,2015-07-25T02:30:42.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,domcastro/rf-xgboost-example-0-982253,RF + XGBoost - JK fields (0.982445),Bluefool,,2015-07-23T14:17:34.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,janekk/rf-xgboost-example-0-982253,RF + XGBoost Example (0.982253),Janek,,2015-07-23T13:47:43.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics
+,,,,,0,benhamner/default-python-script-3,Default Python Script,Ben Hamner,,2015-07-23T05:20:25.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,flavours-of-physics

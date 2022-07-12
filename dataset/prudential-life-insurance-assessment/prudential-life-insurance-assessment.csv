@@ -1,0 +1,311 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,fahadmehfoooz/classification-with-model-interpretation,Classification with Model Interpretation  💯 💯,Fahad Mehfooz,,2022-01-06T09:24:05.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],98,prudential-life-insurance-assessment
+,,,,,0,zeroblue/xgboost-with-optimized-offsets,XGBoost with optimized offsets,Michael Hartman,,2016-02-07T01:49:47.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,prudential-life-insurance-assessment
+,,,,,0,inversion/digitize,Digitize,inversion,,2016-01-25T01:42:21.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,prudential-life-insurance-assessment
+,,,,,0,tdevries/neural-network-example,Neural Network Example,TDeVries,,2015-12-15T03:51:37.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,prudential-life-insurance-assessment
+,,,,,0,scirpus/genetic-programming-lb-0-64,Genetic Programming LB ~ 0.64,Scirpus,,2016-01-21T12:00:30.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,prudential-life-insurance-assessment
+,,,,,0,inspector/keras-hyperopt-example-sketch,Keras Hyperopt Example Sketch,Inspector,,2016-01-10T01:40:17.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,prudential-life-insurance-assessment
+,,,,,0,kkondo/ridge-regression-score-0-55443,Ridge Regression (Score: 0.55443),Kenji Kondo,,2017-11-28T10:12:06.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,prudential-life-insurance-assessment
+,,,,,0,omarelgabry/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,OMAR ELGABRY,,2015-11-30T10:35:33.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,prudential-life-insurance-assessment
+,,,,,0,vignesh1609/prudential-life-insurance-eda,prudential life insurance-EDA,Vignesh Gopalakrishnan,,2020-07-04T20:23:37.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,prudential-life-insurance-assessment
+,,,,,0,threecourse/plotting-histograms,plotting histograms,threecourse,,2015-12-01T14:46:59.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,prudential-life-insurance-assessment
+,,,,,0,pathanamjadkhan/logloss-precesion-roc-recall-classification-90,logloss+Precesion+Roc+Recall+Classification+90%,PathanAmjadKhan,,2021-11-26T17:54:59.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,prudential-life-insurance-assessment
+,,,,,0,akhilyeduresi/life-insurance-risk-assessment,Life Insurance Risk Assessment,Akhil yeduresi,,2019-04-24T12:01:56.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,prudential-life-insurance-assessment
+,,,,,0,ashwiniprakash/life-insurance-assesment,Life Insurance Assesment,Ashwini Prakash,,2018-07-14T12:40:15.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,prudential-life-insurance-assessment
+,,,,,0,bobcz3/journey-through-prudential,Journey Through Prudential,BobC,,2015-12-17T15:13:29.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,prudential-life-insurance-assessment
+,,,,,0,abhikjha/prudential-life-assessment-fastai,Prudential Life Assessment - Fastai,Abhik Jha,,2019-09-12T13:23:41.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,prudential-life-insurance-assessment
+,,,,,0,jonathanslomka/python-xgboost-starter,Python XGBoost Starter,JonathanSlomka,,2015-12-15T14:22:13.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,prudential-life-insurance-assessment
+,,,,,0,scirpus/genetic-programming-ii-lb-0-662,Genetic Programming II - LB ~ 0.662,Scirpus,,2016-02-11T13:47:24.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,prudential-life-insurance-assessment
+,,,,,0,zeroblue/bayesian-ridge,Bayesian Ridge,Michael Hartman,,2016-02-06T06:23:11.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0501,xgb_offset0501,Alexander  Larko,,2016-01-09T07:09:48.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,prudential-life-insurance-assessment
+,,,,,0,cdouay/prudentialvisualisation,PrudentialVisualisation,Camille,,2016-01-13T15:20:47.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,prudential-life-insurance-assessment
+,,,,,0,jayahn0104/ordinal-classification-tune-sklearn-skorch,"Ordinal Classification (tune_sklearn, skorch)",Jay Ahn,,2022-03-11T05:22:27.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,prudential-life-insurance-assessment
+,,,,,0,realtwo/xgb-test,xgb_test,realtwo,,2016-02-05T08:44:30.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,prudential-life-insurance-assessment
+,,,,,0,lifepreserver/simple-sklearn-randomforestclassifier, Simple Sklearn RandomForestClassifier,ebdd0304e745872f59bc5597a2f20fb9f7a5a8a704098a5aedbb0bcefc24d11b,,2015-11-24T16:49:32.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,prudential-life-insurance-assessment
+,,,,,0,mehtanaman/kernel-naman-insurance,kernel_naman_insurance,Naman Mehta,,2019-10-14T16:21:49.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,qwang88/testtest2,testtest2,Qingchen,,2016-01-29T21:02:49.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,tfglaser/prudential-visualization,Prudential Visualization,TomGlaser,,2016-01-26T00:36:26.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,cdouay/rf-features-importances,RF features importances,Camille,,2016-01-26T16:25:14.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,heaviside9/sklearn-linear-regression-benchmark,sklearn linear regression benchmark,do the heaviside step,,2016-01-17T19:32:45.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,bobcz3/neural-network-example,NN Example (with Kappa callback),BobC,,2015-12-22T23:35:00.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,khyh00/response-plot,response plot,khyh,,2015-11-25T12:53:47.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,prudential-life-insurance-assessment
+,,,,,0,alexdarge/modele-pr-dictif,Modele prédictif,Alex,,2020-11-23T08:42:12.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,altersystem/my-classification,My Classification,Oleg Zagorulko,,2020-11-04T22:41:47.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,etugoluk/predict-insurance-level,predict insurance level,Yevheniia Tuholukova,,2020-05-05T09:12:27.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,peteryun/first-prudential,first_prudential,yun,,2017-04-16T04:30:23.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,scirpus/xgb-test,xgb_test,Scirpus,,2016-02-05T10:39:04.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,wojciechmigda/xgboost-version-on-kaggle,XGBoost version on Kaggle,Display Name,,2016-01-31T00:54:22.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,yangnanhai/testtest,testtest,Vincent.Y,,2016-01-28T02:49:39.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,janekk/xgboost-with-optimized-offsets,XGBoost with optimized offsets,Janek,,2016-01-03T18:03:02.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,prudential-life-insurance-assessment
+,,,,,0,krishanubera/annova-and-isolationforest,Annova_And_IsolationForest,Krishanu B,,2021-08-31T16:05:56.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,sungminsim/prudential-risk-classification,prudential risk  Classification,sungminsim,,2020-12-22T08:26:07.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,kkhuiaa/feature-selection-notebook,feature selection notebook,Jay Hui,,2020-10-09T05:13:29.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,prashantch83/kernel379a0b003e,kernel379a0b003e,Prashant,,2019-12-11T09:53:54.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,shoichisawada/svm-randomforest-and-dnn,"SVM, RandomForest and DNN",Shoichi Sawada,,2019-12-10T06:50:57.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,atriptoparadise/prudential-life-insurance-assessment-with-xgb-demo,Prudential Life Insurance Assessment with XGB demo,Cyrus,,2019-05-06T13:28:53.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,rhinodaveb/xgb-test-fold5,xgb_test fold5,David Bobillot,,2016-02-14T18:57:08.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,m4ch1n3/xgb-test2,xgb_test2,3mb3r,,2016-02-14T03:56:49.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,autostrat/xgb-test-67459,xgb_test_67459,autostrat,,2016-02-15T23:42:58.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,kesamet/xgb-test4,xgb_test4,Kok Meng Tan,,2016-02-15T07:09:38.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,vitaliyradchenko/xgb-test,xgb_test,Vradchenko,,2016-02-11T09:32:22.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,t2mretro/xgb-test-mod,xgb_test_mod,t2mretro,,2016-02-09T08:58:07.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,soundwaveli00/xgb-test,xgb_test,Hang,,2016-02-09T04:45:24.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,michaelpawlus/testing-run-errors,testing_run_errors,Michael Pawlus,,2016-02-09T16:18:23.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,dkozyr/xgboost,xgboost,Kozyr,,2016-02-05T21:59:13.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,apshreyans/tuned,tuned,apshreyans,,2016-02-04T13:42:01.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,mlproness/testtest2,testtest2,MLPro,,2016-02-12T09:37:50.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,ys19931006/xgb-test1,xgb_test1,yshan,,2016-02-04T05:11:31.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,ys19931006/xgb-test,xgb_test,yshan,,2016-02-04T04:30:42.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,srikiyer/xgb-prud1,xgb_prud1,Srikanth Sankaran Iyer,,2016-02-01T21:55:16.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,director/simple-rn,Simple RN,Dmitry M.,,2016-01-27T17:35:41.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,tfglaser/prudential-ml,Prudential ML,TomGlaser,,2016-01-26T00:45:31.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,kilimnik/testtest,testtest,KK,,2016-01-26T00:03:52.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,raosatyan/prudential,prudential,data_sniper,,2016-01-20T23:55:09.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,alpoza/prudentialtest,prudentialtest,alpoza,,2016-02-08T01:16:44.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,ys19931006/4444444,4444444,yshan,,2016-01-10T13:38:58.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,thedarkl0rd/xgb-offset,xgb_offset,The_DarkLord,,2016-01-08T18:12:14.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,thedarkl0rd/xgb-offset0501,xgb_offset0501,The_DarkLord,,2016-01-08T12:09:47.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,gustavodemari/prudential-classification-mlp-with-keras,Prudential Classification MLP with Keras,Gustavo De Mari,,2015-12-28T22:48:29.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,cast42/exploring-prudential,Exploring Prudential,cast42,,2015-12-14T19:19:23.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,onidzelskyi/data-analysis-of-chat-messages-dataset,Data Analysis of chat messages dataset,Oleksii Nidzelskyi,,2017-10-03T02:22:45.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,prudential-life-insurance-assessment
+,,,,,0,kayhanbehdin/notebook,Notebook,Kayhan Behdin,,2022-01-13T22:25:34.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexdarge/fork-of-modele-pr-dictif,Fork of Modele prédictif,Alex,,2020-12-11T08:57:27.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexdarge/approche-bay-sienne,Approche Bayésienne,Alex,,2020-10-28T11:06:35.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sachin88/kernel239ebf5e5f,kernel239ebf5e5f,SachinGalugade,,2019-11-08T12:15:26.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,pallavirana/insurance,Insurance,PallaviRana,,2019-05-24T15:10:20.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,pahadia/xgboost-with-optimized-offsets,XGBoost with optimized offsets,Pahadia,,2018-11-22T15:16:06.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,jihyeseo/prudential-regression-eda-128-var-most-continuous,"prudential regression eda 128 var, most continuous",Jihye Sofia Seo,,2018-05-08T11:20:47.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,lianghn/classification-solution-prudential-assurance-level,Classification_Solution_Prudential_assurance_level,liang,,2017-09-10T21:00:16.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rohinikram1/analysis-of-data-using-xgboost,Analysis of Data using Xgboost,rohini kalyan,,2017-07-14T09:22:49.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,jacobxieyuan/notebook942441d343,Notebook942441d343,Jacob Xie,,2017-05-04T02:55:37.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,abhishek1singh/notebookcb455fd6be,Notebookcb455fd6be,Abhishek Kumar Singh,,2017-05-02T07:43:07.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shababa/neural-network-example7,Neural Network Example7,ShababaBakht,,2017-04-22T17:33:25.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shababa/neural-network-example2-0-75-0-75,Neural Network Example2 0.75/0.75,ShababaBakht,,2017-04-22T02:49:27.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shababa/neural-network-example2-0-5-0-2,Neural Network Example2 0.5/0.2,ShababaBakht,,2017-04-22T02:42:48.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shababa/neural-network-example2,Neural Network Example2,ShababaBakht,,2017-04-22T02:38:47.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shababa/neural-network-example,Neural Network Example,ShababaBakht,,2017-04-22T02:25:40.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,zhangj5/notebookbdb0e5cf4f,Notebookbdb0e5cf4f,JinsongZhang,,2017-04-17T00:49:00.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,simoneludwig/notebook9b73a0ac08,Notebook9b73a0ac08,Simone,,2017-02-02T13:41:25.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,simoneludwig/notebook8a0d52deff,Notebook8a0d52deff,Simone,,2017-02-01T18:40:25.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,manu92/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,ApaarShanker,,2017-01-28T23:39:12.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dorsatum/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,Projjol Banerji,,2017-01-28T18:11:11.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,nimishr/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,nimish,,2017-01-23T16:19:40.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,raghavendra018/notebookf02a249325,Notebookf02a249325,Raghavendra,,2017-01-19T18:36:40.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,nasserm/rf-features-importances,RF features importances,Namooman,,2017-01-17T15:52:14.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,yunc84/notebook0cd3d80df2,Notebook0cd3d80df2,Yunc,,2017-01-05T19:53:11.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,yunc84/notebook4a94c794d2,Notebook4a94c794d2,Yunc,,2017-01-05T19:46:06.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saratmuppana/notebook006c09e556,Notebook006c09e556,MuppanaSarat,,2017-01-05T16:15:26.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,jinger123/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,guomeizi,,2016-12-26T13:07:21.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alangham/notebookdbfe9e0662,Notebookdbfe9e0662,alangham,,2016-12-22T15:49:49.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,njuysen/rf-features-importances,RF features importances,njuysen,,2016-12-22T14:41:01.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,thunderbelly/notebook2d5d0f2453,Notebook2d5d0f2453,thunderbelly,,2016-12-20T17:21:45.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kamikaze78/notebook2f0f05c09c,Notebook2f0f05c09c,kamikaze78,,2016-12-14T19:22:01.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,bonniegu/notebookaf8442ffac,Notebook42dc9508e9,Bonnie,,2016-12-09T01:08:11.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,akaakaaka/notebookc84887fb8a,Notebookc84887fb8a,Krishna,,2016-11-22T21:02:39.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gohilankit/notebook9449e8b56b,Notebook9449e8b56b,AnkitGohil,,2016-11-22T01:56:39.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,startakovsky/notebookd7ce6beb33,Notebookd7ce6beb33,steven t,,2016-11-17T21:51:47.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,atifhalim/notebookaec5ecb5a2,Notebookaec5ecb5a2,Atif ,,2016-11-08T03:58:38.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,atifhalim/tester,Tester,Atif ,,2016-11-08T03:57:21.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ahoppity/notebook6d152da235,Notebook6d152da235,ahoppity,,2016-11-02T16:52:27.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,chbimo/hello-world,Hello world,chbimo,,2016-10-28T06:33:35.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kimaniwandirangu/rf-features-importances,RF features importances,KĩmaniWaNdirangũ,,2016-10-26T07:14:47.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,codewatson/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,PrateekAgrawal,,2016-10-26T00:46:10.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rezamahani/notebookb0c172a0b8,Notebook595e7354cb,Reza Mahani,,2016-10-19T20:53:20.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,raiever/notebook6cdb78a630,Notebook6cdb78a630,SungHwan,,2016-10-13T07:59:30.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,selene0622/notebook7c3a92bc04,Notebook7c7a0c92f1,seleneM,,2016-09-28T03:10:39.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,xalamine/notebook411568c260,Notebook411568c260,Rudolph Layko,,2016-09-09T22:57:48.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,lihongqiang/notebook3b8285c990,Notebook3b8285c990,lihongqiang,,2016-08-30T13:12:50.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kkondo/notebook04675aac2a,Notebook04675aac2a,Kenji Kondo,,2019-07-15T07:04:31.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kouheinish/notebook1406d4d5f1,Notebook1406d4d5f1,Kohei Nishimura,,2016-08-26T07:06:47.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,algoai/notebook444b792f53,Notebook444b792f53,Jingangjing,,2016-08-13T06:21:15.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mhauptmann/notebookf5bdcb46a7,Notebookf5bdcb46a7,mhauptmann,,2016-08-11T13:02:15.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,jlgranda/notebookc30ce6fdf9,Notebookc30ce6fdf9,José Luis Granda,,2016-08-05T03:57:22.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,cdhawan/fun123,fun123,Chaitanya Dhawan,,2016-06-12T19:16:22.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,hiteck/test1,test1,Teck,,2016-06-09T19:22:43.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mahendran/prudential001,Prudential001,Mahendran,,2016-05-26T08:30:19.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,guyweiss/check-prudential,Check Prudential,GuyWeissman,,2016-04-04T15:20:19.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,hitfishking/dong1,dong1,DongZheng,,2016-03-24T13:11:00.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,samrotashoka/genetic-programming-ii-lb-0-662,Genetic Programming II - LB ~ 0.662,Ashok kumar ,,2016-02-15T21:39:12.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ctrabuco/xgb-test0,xgb_test0,Carlos Trabuco,,2016-02-15T17:26:57.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,datake/totototo,totototo,AK_OW,,2016-02-15T10:25:19.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rhinodaveb/xgb-test-fold4,xgb_test fold4,David Bobillot,,2016-02-14T18:03:08.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rhinodaveb/xgb-test-fold3,xgb_test fold3,David Bobillot,,2016-02-14T17:59:43.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rhinodaveb/xgb-test-fold2,xgb_test fold2,David Bobillot,,2016-02-14T17:59:25.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rhinodaveb/xgb-test-fold1,xgb_test fold1,David Bobillot,,2016-02-14T17:59:09.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,raghparihar/xgb-te,xgb_te,raghvendra singh,,2016-02-14T19:32:00.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shiva90/xgb-testdsasasa,xgb_testdsasasa,ShivaRajendran,,2016-02-14T13:39:45.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,takaki/xgb-test-fork,xgb_test fork,sora,,2016-02-14T14:54:18.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shiva90/xgb-test12313212,xgb_test12313212,ShivaRajendran,,2016-02-14T13:19:39.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dkozyr/xgb-new-vars,xgb_new_vars,Kozyr,,2016-02-15T11:23:58.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,porcej/xgb-attempt-1,xgb_attempt_1,Joe Porcelli,,2016-02-13T22:53:42.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ctrabuco/xgb-800-offsets,xgb_800_offsets,Carlos Trabuco,,2016-02-13T22:32:25.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,jindal/testtest2-v1,testtest2_v1,Abhishek Jindal,,2016-02-13T18:23:39.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,andreobereigner/xgb-test,xgb_test,hahahaha,,2016-02-13T20:38:46.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,longnguyen/xgb-test,Test_Prudential,Long Nguyen,,2016-02-15T14:43:06.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rajdeltarobo/xgb-test,xgb_test,RajVardhanSingh,,2016-02-13T10:00:32.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saurabhkansal/saurabh123,saurabh123,SAURABH KANSAL,,2016-02-12T11:52:53.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,vykhand/genetic-programming-lb-0-64,Genetic Programming LB ~ 0.64,Andrey Vykhodtsev,,2016-02-11T23:46:33.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,vkat72293/merged-train-and-test-data-predictor,Merged Train and Test Data Predictor,Vadim Katsemba,,2016-02-11T05:39:02.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mindmi/xgb-test,python_xgb,Mind,,2016-02-11T02:09:28.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/xgb-test-7459,xgb_test_7459,Shize Su,,2016-02-09T14:36:45.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,t2mretro/prudential-seed-23,prudential_seed_23,t2mretro,,2016-02-09T07:54:38.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tharindudr/xgboost-with-optimized-offsets,XGBoost with optimized offsets,Tharindu Ranasinghe,,2016-02-09T03:50:12.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,verion/xgb-testsave,xgb_testsave,Vaska Vasilenko,,2016-02-08T18:05:48.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,m4ch1n3/xgb-test,xgb_test,3mb3r,,2016-02-08T10:29:13.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kumarsharma/testp,TestP,@AKS,,2016-02-10T15:22:50.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/testtesttest,testtesttest,Fatemeh Sharifi,,2016-02-08T02:42:52.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/testtest1,testtest1,Fatemeh Sharifi,,2016-02-08T02:19:41.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,verion/zalupa,zalupa,Vaska Vasilenko,,2016-02-07T21:49:29.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,verion/xgb-test,xgb_test,Vaska Vasilenko,,2016-02-08T05:17:18.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,verion/fork123,Fork123,Vaska Vasilenko,,2016-02-07T21:00:57.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,raghparihar/xgb-test-feature-eng,xgb test + feature eng,raghvendra singh,,2016-02-08T00:29:30.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,felipeclopes/xgb-test-feature-eng,xgb test + feature eng,felipeclopes,,2016-02-07T19:37:33.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dreeux/xgb-offset0501,xgb_offset0501,dreeux,,2016-02-07T12:43:50.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sergiorivera/xgbser,xgbser,Sergio Rivera,,2016-02-07T02:56:38.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,veronikayu/xgb-test-3,xgb_test_3,Veronika_Y,,2016-02-06T22:37:20.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,signochastic/xgb-test-lb0-67390,xgb_test_LB0.67390,Reza,,2016-02-06T17:41:44.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,jindal/testtest2,testtest2,Abhishek Jindal,,2016-02-05T08:10:44.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,pateladitya/xgb-test,xgb_test,Aditya Patel,,2016-02-12T06:26:29.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,marcellonegro/testtest,testtest,Marcello Negro,,2016-02-05T12:47:30.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gunner4life/xgb-test,xgb_test,The Wiz of Oz,,2016-02-09T19:30:15.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/xgb-test-lb0-67390,xgb_test_LB0.67390,Shize Su,,2016-02-04T14:37:54.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,marcellonegro/xgboost-with-optimized-offsets,XGBoost with optimized offsets_MN,Marcello Negro,,2016-02-05T22:31:02.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,flashnik/xgb-test,xgb_test,flashnik,,2016-02-04T12:00:34.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kdeepak/xgb-test,xgb_test,comaha,,2016-02-04T06:22:11.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,datake/xgb-test,xgb_test,AK_OW,,2016-02-14T22:10:50.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,oivanov/xgb-test-don-t-eat,xgb_test_don't_eat,AI,,2016-02-03T13:52:12.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/xgb-test-67459,xgb_test_67459,Shize Su,,2016-02-03T13:28:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,michaelfan/xgbst,xgbst,Miao Fan,,2016-02-03T13:19:53.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mopkobb1/test-pow2,test_copy,Nick M,,2016-02-09T09:35:52.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,bidhya/keras-nn,Keras NN,bidhya,,2016-02-03T00:31:42.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,grishak/trrrryyy1,trrrryyy1,Grisha K,,2016-02-02T15:51:15.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ujjwalshridhar/myfirst,myfirst,UJJWALSHRIDHAR,,2016-02-02T16:04:39.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,beteemde/testtest2,testtest2,btmd,,2016-02-02T15:04:25.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sitesharyan/testwith,testWith,Sitesh Indra,,2016-02-02T08:58:24.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,peiyuanmao/asdasd,asdasd,Peiyuan Mao,,2016-02-02T02:03:41.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,oivanov/testtest,testtest,AI,,2016-02-01T21:44:23.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,zhugds/test-script-2-1,test_script_2,pongba,,2016-02-11T18:58:37.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/test-lb0-67306,test_LB0.67306,Shize Su,,2016-01-31T19:14:04.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/testtes,testtes,Fatemeh Sharifi,,2016-01-30T19:25:42.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,michaelfan/try-packages,try packages,Miao Fan,,2016-01-30T00:36:05.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,qwang88/prudential-seed-233,prudential_seed_233,Qingchen,,2016-01-29T18:09:15.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/testtestt,testtestt,Fatemeh Sharifi,,2016-01-30T16:55:46.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gunner4life/test-fork,test_fork,The Wiz of Oz,,2016-01-30T15:24:12.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/testtest,testtest,Fatemeh Sharifi,,2016-01-29T02:19:16.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,burness/mytest,mytest,burness,,2016-02-04T05:25:32.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dssrec/get-test2,get test2,dss_yhd,,2016-01-28T14:30:34.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dssrec/get-train,get train,dss_yhd,,2016-01-28T14:26:34.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,apshreyans/check,check,apshreyans,,2016-01-28T06:46:14.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,michaelfan/try-it,Try it,Miao Fan,,2016-01-28T00:43:41.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/test-lb0-67087,test_LB0.67087,Shize Su,,2016-01-27T22:42:25.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,justinabel/prud-1,Prud 1,Justin Abel,,2016-01-28T18:54:25.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rblourenco/test-1,Test_1,Ricardo Barros Lourenço,,2016-01-27T16:22:20.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,apshreyans/python-copied-and-selftuned,python copied and selftuned,apshreyans,,2016-01-27T04:57:59.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,datapath/xgboost-with-optimized-offsets-33-50,XGBoost with optimized offsets 33_50,DataPath,,2016-01-26T20:58:09.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,director/test-prudential,test_prudential,Dmitry M.,,2016-01-26T18:30:13.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alpoza/testtest-2,testtest_2,alpoza,,2016-01-27T15:56:04.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sureshshanmugam/script-workbook,Script Workbook,varanid,,2016-01-25T06:13:10.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alemozz/first-notebook,first_notebook,Alessandro,,2016-01-24T16:23:42.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,aldente/testtest-forked-for-playing,testtest (forked for playing),aldente,,2016-01-24T07:16:46.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shuimuxixiha/prudential-1,prudential_1,sigmoidguo,,2016-01-24T04:37:54.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dimitrislev/testtest,testtest,Dimitris Leventis,,2016-01-23T18:59:26.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gilmar2013/testtest,testtest,ToDelete,,2016-02-14T19:14:52.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shuimuxixiha/111111-1,111111,sigmoidguo,,2016-01-23T11:18:40.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,shuimuxixiha/11111,11111,sigmoidguo,,2016-01-23T11:17:22.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saileshmohanty/neural-network-example,Neural Network Example,Mojojojo_Tokyo,,2016-01-23T08:29:26.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saurabhkansal/xgboost-1,XGBoost_1 ,SAURABH KANSAL,,2016-01-28T16:44:19.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,marcellonegro/prudential-seed-23,prudential_seed_23,Marcello Negro,,2016-01-22T02:47:09.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,timlincool/testtest,testtest,tempo,,2016-01-22T04:53:21.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,anupam1924/prud-1,prud_1,Anupam Pandey,,2016-01-22T10:05:25.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kesamet/xgb-test1,xgb_test1,Kok Meng Tan,,2016-01-21T05:18:15.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,chenglongchen/prudential-seed-23,prudential_seed_23,ChenglongChen,,2016-01-20T18:26:52.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gpistre/prud-xgb,prud_xgb,Gerome Pistre,,2016-01-20T08:33:15.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sunnymarius/insurance,insurance,Marius,,2016-02-01T06:49:54.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saileshmohanty/xgboost-1,XGBoost-1,Mojojojo_Tokyo,,2016-01-20T10:37:12.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saileshmohanty/xgboost-with-optimized,XGBoost with optimized,Mojojojo_Tokyo,,2016-01-20T04:08:37.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,saileshmohanty/xgboost-with-optimized-offsets-1,XGBoost with optimized offsets-1,Mojojojo_Tokyo,,2016-01-19T17:16:14.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,beteemde/prudential-seed-23-2,prudential_seed_23_2,btmd,,2016-01-19T10:02:37.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gedankenexperiment/try-try-again,try_try_again,gedankenexperiment,,2016-01-20T00:15:56.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,xiazhidongzhi/test123q,test123q,Evanwong,,2016-01-18T08:47:44.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,aldente/prudential-xgb-with-offset-play,prudential_xgb_with_offset_play,aldente,,2016-01-19T22:19:36.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tsingcoo/nn00001,nn00001,MF1533052,,2016-01-17T03:28:26.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,xiazhidongzhi/sjffff,sjffff,Evanwong,,2018-06-07T15:59:18.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ryabokonroman/prudential-seed-23,prudential,Roman Ryabokon. Ezetech LLC.,,2016-02-15T06:44:19.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,flecogui/essai-du-script,Essai du script,FrédéricLeCoguiec,,2016-01-15T15:41:40.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,manasrkar/xgboost-with-optimized-offsets,XGBoost with optimized offsets,Manas Ranjan Kar,,2016-01-15T14:50:06.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-1501,xgb_1501,Alexander  Larko,,2016-01-15T05:10:17.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tsingcoo/666666,666666,MF1533052,,2016-01-14T06:24:58.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,pararols/xgboost-with-optimized-offsets,XGBoost with optimized offsets,APS,,2016-02-05T02:12:06.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,wojciechmigda/rfclf-py,RFClf.py,Display Name,,2016-01-11T20:53:25.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,zeroblue/xgb-offset,xgb_offset,Michael Hartman,,2021-04-13T16:46:01.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,xscripter/life-01,life_01,Ralph Neumann,,2016-01-11T16:25:12.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset1101-01,xgb_offset1101_01,Alexander  Larko,,2016-01-11T12:54:56.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,thomascleberg/ordinal-regression,Random Forest,Thomas Cleberg,,2016-01-12T01:17:04.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset1101,xgb_offset1101,Alexander  Larko,,2016-01-11T12:15:05.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,lsancerio/tesac,tesac,Limiardi,,2016-01-11T01:07:14.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tsingcoo/version-7,version_7,MF1533052,,2016-01-10T06:13:25.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,elentir/xgb-offset0501,xgb_offset0501,Boris A.,,2016-01-08T21:01:50.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,stijn545/testscript,testScript,Stijn Verhoeven,,2016-01-08T18:15:22.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,zakrottier/zakrottier,ZakRottier,ZakRottier,,2016-01-08T16:54:05.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0801-02,xgb_offset0801_02,Alexander  Larko,,2016-01-08T10:37:14.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mg1533060/mg1533060,mg1533060,MG1533060,,2016-01-08T06:19:28.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,marcellonegro/xgb-offset0501,xgb_offset0501,Marcello Negro,,2016-01-12T07:10:44.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0801-01,xgb_offset0801_01,Alexander  Larko,,2016-01-08T04:49:38.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0801,xgb_offset0801,Alexander  Larko,,2016-01-08T03:57:53.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,justfor/xgb-offset0501,xgb_offset0602,Justfor,,2016-02-06T10:35:41.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/xgb-offset0501,xgb_offset0501,Fatemeh Sharifi,,2016-01-09T03:42:51.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dipeshsingh/pru-dipeshks,pru_dipeshks,Dipesh Kumar Singh,,2016-01-07T10:59:58.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rajnitjsr/firstpythonscript,firstpythonscript,Rajendra Kumar Gupta,,2016-01-06T08:11:06.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,enbyly/xgb-offset-0501-02,xgb_offset_0501_02,Liz Young,,2016-01-05T23:53:09.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0501-03,xgb_offset0501_03,Alexander  Larko,,2016-01-05T13:00:38.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset-0501-02,xgb_offset_0501_02,Alexander  Larko,,2016-01-05T12:36:37.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mg1533089/adfse,adfse,R-Pires,,2016-01-05T08:56:22.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0501-01,xgb_offset0501_01,Alexander  Larko,,2016-01-05T08:36:43.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ryanyu/test11,test11,RyanYu,,2016-01-04T13:00:44.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset-0401-02,xgb_offset_0401_02,Alexander  Larko,,2016-01-04T10:45:17.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,alexxanderlarko/xgb-offset0401-01,xgb_offset0401_01,Alexander  Larko,,2016-01-04T09:53:00.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/xgboost-with-optimized-offsets-0-66281,XGBoost with optimized offsets_0.66281,Shize Su,,2016-01-03T23:14:31.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ianding/justtry,JustTry,winnerdy,,2016-01-02T03:33:42.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,lifepreserver/randomjunk001,XGB_LinearReg_IsotonicReg,ebdd0304e745872f59bc5597a2f20fb9f7a5a8a704098a5aedbb0bcefc24d11b,,2016-01-01T17:55:32.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,abhilashawasthi/prudential-insurance-risk-predictions,Prudential Insurance Risk Predictions,Abhilash Awasthi,,2015-12-30T11:16:15.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,windgwt/script,script,Fruit,,2015-12-28T15:37:23.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,junfeng/nn-with-kappa-callback-and-custom-activ,NN with Kappa callback and custom activ ,junfeng,,2015-12-25T12:56:20.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,leftwind17/test1,test1,XiaoFan Niu,,2015-12-23T13:50:42.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tsingcoo/version-6,version 6,MF1533052,,2015-12-23T05:30:08.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,sushize/nn-ssz-v1,NN_SSZ_V1,Shize Su,,2015-12-23T01:50:38.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tsingcoo/version1,version1,MF1533052,,2015-12-22T15:05:01.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rho123/python-xgboost-starter,Python XGBoost Starter,Rho Ackerman,,2015-12-21T22:15:46.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,totalrecall/cluster,Cluster,boxybrown,,2015-12-21T17:08:27.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mf1533018/printinput,printinput,MF1533018,,2015-12-21T13:14:32.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,syroejka/prudential-new,Prudential_new,Syroejka,,2015-12-20T19:59:20.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,syroejka/prudential-xgboost,Prudential xgboost,Syroejka,,2015-12-18T19:38:11.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,totalrecall/getting-started-0-1,getting started 0.1,boxybrown,,2015-12-22T20:25:13.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,karthikeya/test123,test123,Karthik,,2015-12-18T04:14:07.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gustavodemari/prudential-life-insurance-classification,Prudential Life Insurance Classification,Gustavo De Mari,,2015-12-17T20:39:25.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tyhukg/tyhu-test-netbook,tyhu_test_netbook,tyhu,,2015-12-15T23:14:53.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tyhukg/tyhu-test,tyhu_test,tyhu,,2015-12-16T02:33:13.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,tzneal/testing,Testing,Todd,,2015-12-15T14:00:42.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,brianconnorflynn/prudential,prudential,BrianFlynn,,2015-12-15T01:10:44.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,gelinator/prudentially,Prudentially,Dave Gélinas,,2015-12-14T00:57:39.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,bazinga/test01,test01,Sean Maybee,,2015-12-13T13:02:12.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ksar00/example,Example,ksar,,2015-12-13T00:16:31.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,erfansa/logisticreg,logisticReg,Erfan,,2015-12-12T09:35:56.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/test-all-anova,test all anova,Fatemeh Sharifi,,2015-12-12T06:35:17.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,fsharifi/test-all,test all,Fatemeh Sharifi,,2015-12-12T03:24:47.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,erfansa/first-try,First try,Erfan,,2015-12-12T08:01:57.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mindmi/my-first-notebook,My first notebook,Mind,,2015-12-10T16:27:27.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,ryo3ryosuu/test01-1,test01,G13,,2015-12-10T10:10:15.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,guicaro/testing,Testing,Meminsky,,2015-12-09T17:06:18.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kaalih/notebooktest,NotebookTest,Daniel Tidström,,2015-12-09T12:49:29.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kbartol/simple-sklearn-randomforestclassifier, Simple Sklearn RandomForestClassifier,Kristijan Bartol,,2015-12-06T15:39:15.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,granota/testinsurance,testInsurance,Marian Dragt,,2015-12-05T18:57:05.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,lulalachen/first-test,First Test,Lulala Chen,,2015-12-03T17:02:09.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,singerbj/derpfile,derpfile,Benjamin Singer,,2015-12-03T04:41:53.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,mikegee/my-notebook,My Notebook,sherlock,,2015-12-01T16:04:59.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,dataninja/dataninja,dataninja,dataninja,,2015-12-01T04:44:26.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,danielsack/modified-basic-xgb-example,Modified basic XGB example,daniel.sack,,2015-12-01T04:30:51.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kapetis/sdfvxcbn,sdfvxcbn,DataMiner,,2015-11-30T18:14:11.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,kapetis/sdfvxc,sdfvxc,DataMiner,,2015-11-30T18:11:01.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,rajapasupuleti/testnotebook,TestNoteBook,Rajag,,2015-11-25T19:11:55.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,realdeo/kaggle,Kaggle,Kerenza Deo,,2015-11-25T02:45:27.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment
+,,,,,0,datacanary/python-template-script-1,Python template script,DataCanary,,2015-11-22T19:16:35.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,prudential-life-insurance-assessment

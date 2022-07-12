@@ -1,0 +1,248 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,shahules/an-overview-of-encoding-techniques,An Overview of Encoding Techniques,Shahules,,2019-10-23T03:21:07.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],663,cat-in-the-dat
+,,,,,0,kabure/eda-feat-engineering-encode-conquer,EDA & Feat Engineering - Encode & Conquer ,Leonardo Ferreira,,2019-09-04T00:36:57.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],356,cat-in-the-dat
+,,,,,0,subinium/11-categorical-encoders-and-benchmark,11 Categorical Encoders and Benchmark ,Subin An,,2021-04-01T12:22:40.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],194,cat-in-the-dat
+,,,,,0,peterhurford/why-not-logistic-regression,Why Not Logistic Regression?,Peter Hurford,,2019-08-23T23:52:10.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],137,cat-in-the-dat
+,,,,,0,abhishek/entity-embeddings-to-handle-categories,Entity embeddings to handle categories,Abhishek Thakur,,2019-08-23T23:17:36.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],97,cat-in-the-dat
+,,,,,0,faressayah/data-science-best-practices-with-pandas-part-1,📊Data Science BEST Practices📋with Pandas||PART 1,Fares Sayah,,2021-08-07T14:27:43.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],94,cat-in-the-dat
+,,,,,0,superant/oh-my-cat,OH my Cat,Ant 🐜,,2019-10-10T14:50:34.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],89,cat-in-the-dat
+,,,,,0,adaubas/2nd-place-solution-categorical-fe-callenge,2nd place Solution - Categorical FE Callenge,aldparis,,2019-12-10T18:51:12.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,cat-in-the-dat
+,,,,,0,caesarlupum/catcomp-simple-target-encoding, 🐱 CatComp - Simple Target Encoding ,Caesar Lupum,,2019-12-31T18:34:21.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,cat-in-the-dat
+,,,,,0,caesarlupum/cat-with-null-importance-target-permutation,🐱 Cat with Null Importance - Target Permutation,Caesar Lupum,,2022-01-20T12:30:38.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],63,cat-in-the-dat
+,,,,,0,faressayah/k-means-clustering-private-vs-public-universities,K-Means Clustering🎓Private vs Public Universities,Fares Sayah,,2021-11-25T21:42:06.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],61,cat-in-the-dat
+,,,,,0,faressayah/knneighbors-private-vs-public-universities,KNNeighbors 🎓Private vs Public Universities,Fares Sayah,,2021-12-03T23:37:51.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,cat-in-the-dat
+,,,,,0,vikassingh1996/handling-categorical-variables-encoding-modeling,Handling Categorical Variables:Encoding & Modeling,Vikas Singh,,2019-11-04T05:40:10.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,cat-in-the-dat
+,,,,,0,gogo827jz/catboost-baseline-with-feature-importance,CatBoost Baseline with Feature Importance,Yirun Zhang,,2019-08-27T19:08:16.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],57,cat-in-the-dat
+,,,,,0,antoreepjana/statistics-for-ml-data-analysis,Statistics for ML & Data Analysis,antoreepjana,,2021-06-12T14:10:49.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,cat-in-the-dat
+,,,,,0,faressayah/hyperparameter-optimization-for-machine-learning,🎯Hyperparameter Optimization for Machine Learning,Fares Sayah,,2021-06-14T04:51:40.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,cat-in-the-dat
+,,,,,0,artgor/exploring-categorical-encodings,Exploring CATegorical encodings,Andrew Lukyanenko,,2019-08-29T19:01:39.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,cat-in-the-dat
+,,,,,0,caesarlupum/cat-h2o-ai-from-linear-models-to-deep-learning,🐱Cat - H2O.ai-From Linear Models to Deep Learning,Caesar Lupum,,2021-03-07T18:32:23.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,cat-in-the-dat
+,,,,,0,pavelvpster/cat-in-dat-ohe-vs-thermometer-logit,Cat in dat: OHE vs Thermometer + Logit,Pavel Prokhorov,,2019-12-11T07:53:08.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,cat-in-the-dat
+,,,,,0,bhavikapanara/frequency-encoding,Frequency Encoding,Bhavika,,2019-09-06T12:04:15.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,cat-in-the-dat
+,,,,,0,cuijamm/simple-onehot-logisticregression-score-0-80801,Simple OneHot & LogisticRegression(Score: 0.80801),Jamm,,2019-10-03T06:36:51.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,cat-in-the-dat
+,,,,,0,prazhant/a-detailed-guide-to-different-encoding-schemes,A detailed guide to different encoding schemes,Ritisha Jaiswal,,2019-09-04T10:55:55.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,cat-in-the-dat
+,,,,,0,abhishek/entity-embeddings-to-handle-categories-using-mish,Entity embeddings to handle categories using Mish,Abhishek Thakur,,2019-10-15T15:41:46.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,cat-in-the-dat
+,,,,,0,hocop1/eda-and-a-neural-network,EDA and a Neural Network,Ruslan Baynazarov,,2019-09-05T17:22:42.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,cat-in-the-dat
+,,,,,0,ruchibahl18/categorical-data-encoding-techniques,Categorical Data encoding techniques,ruchibahl,,2019-11-28T13:48:34.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,cat-in-the-dat
+,,,,,0,asimandia/let-s-try-some-feature-engineering,Let's try some feature Engineering,Pizzaboi,,2019-09-03T13:30:58.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,cat-in-the-dat
+,,,,,0,martin1234567890/logistic-regression,Logistic Regression,Martin Matta,,2019-10-13T18:51:29.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,cat-in-the-dat
+,,,,,0,vbmokin/one-hot-stratified-logregress-with-my-tuning,"One-Hot, Stratified, LogRegress with my tuning",Vitalii Mokin,,2019-12-04T23:08:36.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,cat-in-the-dat
+,,,,,0,vbmokin/cfec-fe-model-selection-xgb-lgbm-logr-linr,"CFEC - FE&Model selection - XGB, LGBM, LogR, LinR",Vitalii Mokin,,2019-12-06T17:49:18.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,cat-in-the-dat
+,,,,,0,vbmokin/logisticregressioncv,LogisticRegressionCV,Vitalii Mokin,,2019-12-04T21:30:42.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,cat-in-the-dat
+,,,,,0,subinium/lightgbm-is-powerful,LightGBM is powerful!!,Subin An,,2019-10-13T04:58:18.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,cat-in-the-dat
+,,,,,0,subinium/eda-visualization-categorical-data,EDA + Visualization : Categorical Data,Subin An,,2019-09-26T15:34:17.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,cat-in-the-dat
+,,,,,0,pavelvpster/cat-in-dat-le-ohe-te-fe-lgb-bo,"Cat in dat: LE,OHE,TE + FE + LGB + BO",Pavel Prokhorov,,2019-10-18T08:10:08.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,cat-in-the-dat
+,,,,,0,karad1818/approaching-almost-any-machine-learning-problem,Approaching almost any machine learning problem,Karad_1818,,2021-08-16T10:42:33.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,cat-in-the-dat
+,,,,,0,vbmokin/cfec-probability-calibration,CFEC - Probability calibration,Vitalii Mokin,,2019-12-04T20:48:14.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,cat-in-the-dat
+,,,,,0,tunguz/adversicat,Adversicat,Bojan Tunguz,,2019-08-28T00:14:40.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,cat-in-the-dat
+,,,,,0,a03102030/compare-logistic-lgbm,"compare Logistic,LGBM",Jensen,,2019-09-23T03:30:58.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,cat-in-the-dat
+,,,,,0,arashnic/cats-vs-lgbm,Cats Vs Lgbm,Möbius,,2019-08-25T09:19:50.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,cat-in-the-dat
+,,,,,0,neibyr/mean-target-encoding,Mean target encoding,Kirill Tushin,,2019-08-24T17:10:48.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,cat-in-the-dat
+,,,,,0,werooring/powerful-and-simple-eda-for-everyone,🎈Powerful and Simple EDA for Everyone😊,Baek Kyun Shin,,2021-01-28T14:32:24.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,cat-in-the-dat
+,,,,,0,tolgahancepel/applying-different-encoding-methods-and-eda,Applying Different Encoding Methods and EDA,tolgahancepel,,2019-10-04T08:37:40.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,cat-in-the-dat
+,,,,,0,kickitlikeshika/easy-76,Easy 76%,Ahmed Khaled,,2020-12-10T16:00:34.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cat-in-the-dat
+,,,,,0,subinium/interpretable-xgboost-lgbm-catboost,Interpretable XGBoost/LGBM/Catboost,Subin An,,2019-11-26T14:59:18.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cat-in-the-dat
+,,,,,0,caesarlupum/catcomp-split-test,🐱 CatComp - Split Test,Caesar Lupum,,2019-10-19T22:27:53.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cat-in-the-dat
+,,,,,0,bhavikapanara/an-interesting-discovery,An interesting discovery,Bhavika,,2019-09-11T04:17:20.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,cat-in-the-dat
+,,,,,0,hkalita/feature-encoding,Feature Encoding,Dark_Horse,,2020-08-31T17:28:06.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,cat-in-the-dat
+,,,,,0,afajohn/lightgbm-nom-5-9-transformation,"LightGBM - Nom_[5,9] Transformation",Dorukhan Afacan,,2019-10-24T09:40:09.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,cat-in-the-dat
+,,,,,0,dkomyagin/cat-in-the-dat-0-80285-private-lb-solution,Cat-in-the-dat 0.80285 private LB solution,KDJ2020,,2019-12-10T16:39:33.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,sureliu/oh-my-cat,OH my Cat,SureLiu,,2019-10-25T07:22:53.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,kulkarnivishwanath/categorical-feature-encoding-challenge-eda-model,Categorical Feature Encoding Challenge (EDA&Model),Vishwanath R Kulkarni,,2019-10-15T12:26:32.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,iwanenko/why-not-catboost,Why Not CatBoost?,V Ivanenko,,2019-09-15T23:40:57.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,robikscube/starter-eda-categorical-feature-challenge,🐈 Starter EDA Categorical Feature Challenge,Rob Mulla,,2019-08-24T15:48:29.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,prateek0x/feature-encoding-xgb,Feature Encoding + XGB ,Prateek Mishra,,2019-08-27T14:02:43.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,sugawarya/h2o-automl-30000sec,H2O_autoML_30000sec,Sugawarya,,2019-08-23T17:49:33.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,cat-in-the-dat
+,,,,,0,delafields/a-thorough-guide-on-categorical-feature-encoding,A Thorough Guide on Categorical Feature Encoding,Jeremy Fields,,2019-10-08T02:18:04.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,cat-in-the-dat
+,,,,,0,drcapa/categorical-feature-engineering-xgb,Categorical_Feature_Engineering_XGB,DrCapa,,2020-11-27T13:55:58.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,cat-in-the-dat
+,,,,,0,navneetkr123/eda-targetencoding-logistic,EDA+TargetEncoding+Logistic-,Navneet Kumar,,2020-01-09T12:42:01.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,cat-in-the-dat
+,,,,,0,werooring/top-1st-place-solution-on-private-lb,🥇Top 1st Place Solution on Private LB🏆,Baek Kyun Shin,,2021-01-28T14:27:45.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cat-in-the-dat
+,,,,,0,q839651612/adversarial-validation-for-data-selection,Adversarial Validation for Data Selection,Frank Zhao,,2019-10-18T22:56:03.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cat-in-the-dat
+,,,,,0,jazivxt/cat-encode,Cat Encode,Daniel Preciado,,2019-09-03T07:43:42.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cat-in-the-dat
+,,,,,0,inversion/simple-rf-starter,Simple RF Starter,inversion,,2019-10-10T15:04:46.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,cat-in-the-dat
+,,,,,0,yogeshkumarsingla/multi-column-labelencoder,Multi-Column LabelEncoder,Yogesh Singla,,2020-03-11T05:07:19.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cat-in-the-dat
+,,,,,0,ejaz22/simple-xgboost-model,simple xgboost model,Ejaz Ahmed,,2019-12-12T16:24:24.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cat-in-the-dat
+,,,,,0,shrutimechlearn/all-about-cyclic-features-deep-dive,All About Cyclic Features - Deep Dive,Shruti_Iyyer,,2019-10-13T11:05:13.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cat-in-the-dat
+,,,,,0,purist1024/minimalist-ohe-and-cv-blend-21-lines-for-top-20,Minimalist OHE and CV blend (21 lines for top 20%),Robert Stockton,,2019-10-08T01:54:24.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cat-in-the-dat
+,,,,,0,jeongyoonlee/embeddingencoder-autolgb-in-kaggler,EmbeddingEncoder + AutoLGB in Kaggler,Jeong-Yoon Lee,,2019-10-03T19:44:07.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,cat-in-the-dat
+,,,,,0,c7934597/on-hot-encoding-for-categorical-encoding,On Hot Encoding For Categorical Encoding,Weiming Lin,,2020-10-30T18:31:14.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cat-in-the-dat
+,,,,,0,purist1024/a-minimalist-baseline-19-lines-for-top-50,A Minimalist Baseline (19 lines for top 50%),Robert Stockton,,2019-10-06T04:27:05.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cat-in-the-dat
+,,,,,0,praxitelisk/categorical-feature-encoding-challenge-eda-ml,CATegorical Feature Encoding Challenge EDA+ML,Praxitelis Nikolaos Kouroupetroglou,,2019-11-13T08:51:30.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cat-in-the-dat
+,,,,,0,stephenmugisha/labelencoder,LabelEncoder,Stephen Mugisha,,2020-04-29T21:22:04.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,cat-in-the-dat
+,,,,,0,ritvik1909/entity-embeddings,Entity Embeddings,Ritvik Rastogi,,2021-12-18T07:29:36.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,krkirov/minimalist-code-0-80257-private-score,Minimalist Code - 0.80257 Private Score,KRKirov,,2019-12-11T15:36:15.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,tezdhar/lr-v2,lr_v2,Mohsin hasan,,2019-12-09T19:12:39.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,ravijoe/vanilla-logistic-regression,Vanilla Logistic Regression,ravi tanwar,,2019-11-30T17:54:25.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,delimixx/boosting-model-check,Boosting Model Check 👌👍,YOON,,2019-11-21T14:52:07.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,lgmsantos/month-and-day-insights,Month and Day insights,Luiz Gustavo,,2019-11-06T05:41:12.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,bustam/one-hot-stratified-logistic-regression,"One-Hot, Stratified, Logistic Regression",Ronald Bustamante,,2019-11-15T02:36:07.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,todork/using-sample-weight-parameter-in-lr,Using sample_weight parameter in LR,Todor Kichukov,,2019-10-15T08:45:39.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,pavelvpster/cat-in-dat-solution-1,Cat in dat: Solution 1,Pavel Prokhorov,,2019-10-11T05:47:28.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,ossinova/simple-catboost-0-8-auc-v2-0,Simple Catboost - 0.8 AUC v2.0,Oscar Dyremyhr,,2019-09-20T22:43:17.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,cat-in-the-dat
+,,,,,0,werooring/ch7-eda,[ch7] EDA,Baek Kyun Shin,,2022-03-04T08:46:26.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,oguzhansahin/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Oguzhan Sahin,,2019-12-08T11:09:20.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,pavelvpster/cat-in-dat-ohe-logit,Cat in dat: OHE + Logit,Pavel Prokhorov,,2019-11-06T08:47:03.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,kaushal2896/cat-in-the-dat-eda-fe-ensembling-stackig,Cat in the Dat: EDA + FE + Ensembling/Stackig,Kaushal Shah,,2019-11-10T13:44:25.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,vladlee/categorical-feature-encoding-ohe-nn,Categorical Feature Encoding - OHE - NN,Vlad Lee,,2019-10-16T18:45:43.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,donkeys/scripting-pickled-catboost,Scripting Pickled Catboost,averagemn,,2019-10-01T13:58:44.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,michaelwong2018/lightgbm-with-one-hot-encoder-for-beginner,LightGBM with One Hot Encoder For Beginner,Michael Wong,,2019-09-28T16:54:25.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,jeongyoonlee/embeddingencoder-targetencoder-autolgb,EmbeddingEncoder + TargetEncoder + AutoLGB,Jeong-Yoon Lee,,2019-10-09T01:45:15.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,egolinko/qgel-embed-lookup,qGEL - embed/lookup,Eric G,,2019-11-13T21:24:02.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,heshamasem/is-there-a-cat-in-the-dat,Is There a Cat in the Dat ?,Hesham Asem,,2019-09-08T20:54:48.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,deepshekhar/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,deepshekhar,,2019-10-05T17:42:38.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,thirumani/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Satya Thirumani,,2019-12-29T13:33:53.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,jrw2200/adaboost-smoteboost-and-rusboost,"AdaBoost, SMOTEBoost and RUSBoost",Andrew W,,2019-09-01T16:50:28.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,asimandia/cyclic-features-exploration,Cyclic features exploration,Pizzaboi,,2019-08-30T11:02:20.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,cat-in-the-dat
+,,,,,0,werooring/ch7-baseline,[ch7] Baseline,Baek Kyun Shin,,2022-03-04T14:03:38.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,werooring/a-1-feature-summary,[A.1] Feature Summary,Baek Kyun Shin,,2022-03-08T02:39:39.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,archingupta/archin-gupta-101703094,Archin Gupta_101703094,Archin Gupta,,2020-09-23T00:18:29.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,samhithavadlamani/categorical-encoding-challenge,Categorical Encoding Challenge,Samhitha Vadlamani,,2020-09-14T08:44:13.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,darwinwin/h2o-automl-30000sec,H2O_autoML_30000sec,darwinwin,,2020-02-23T08:42:50.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,jagannathrk/categorical-feature-entity-embeddings,Categorical Feature - Entity embeddings,Kranti Kumar,,2019-12-01T14:08:08.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,evgeniipetukhov/logisticregression,LogisticRegression,Evgenii Petukhov,,2019-12-16T17:58:12.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,khoongweihao/categorical-feature-encoding-cat-in-dat-top-10,[Categorical Feature Encoding] Cat in dat Top 10%,Wei Hao Khoong,,2020-01-09T14:18:21.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,avishake/categorical-2,Categorical_2,Avishake_Dutta,,2019-11-24T11:21:01.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,akgeni/combining-onehot-and-target-encoding-features,Combining onehot and target encoding features ,anshu,,2019-11-25T10:04:04.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,devkhant24/categorical-encoding-classification-prediction,Categorical encoding classification prediction,Dev Khant,,2019-11-17T10:50:52.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,peterbon/cat-in-the-dat,cat-in-the-dat,Peter_Sang,,2019-11-02T08:36:11.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,jollibobert/cat-distribution-target-rate-eda,Cat Distribution & Target Rate EDA,Robert Tacbad,,2019-10-28T15:44:10.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,vladlee/categorical-feature-encoding-lgbm,Categorical Feature Encoding - LGBM,Vlad Lee,,2019-10-09T19:33:23.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,mlisovyi/distribution-of-ordinal-frequencies,Distribution of ordinal frequencies,Misha Lisovyi,,2019-10-01T05:41:36.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,superant/cat-relations,Cat Relations,Ant 🐜,,2019-09-25T08:00:14.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,errolpereira/catboost-model,Catboost Model,Errol Pereira,,2019-09-24T03:47:28.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,yutanakamura/prml-4-2-3-probabilistic-generative-model,PRML §4.2.3 - probabilistic generative model,osakanachan,,2019-09-21T13:01:34.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,pavelvpster/cat-in-dat-stack,Cat in dat: Stack,Pavel Prokhorov,,2019-09-23T10:33:52.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,pr1c3f1eld/classification-with-xgboost-classifier,Classification with XGBoost Classifier,Baasit,,2019-09-02T12:51:37.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,maramsofyan94/cat-in-dat,Cat in Dat !!,Maram S.,,2019-09-08T10:01:25.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,chiduralasunny/categorical-feature-encoding-challenge-sunny,Categorical Feature Encoding Challenge - sunny,Sunny Chidural,,2019-08-26T06:43:27.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,cat-in-the-dat
+,,,,,0,maksudaislamlima/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Maksuda Islam Lima,,2022-06-18T05:22:03.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,anasnofal/1st-place-solution,🥇1st Place Solution ,Anas Nofal ,,2022-06-10T11:49:27.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,werooring/ch7-notebook,[ch7] Notebook,Baek Kyun Shin,,2022-02-16T07:04:32.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,werooring/ch7-modeling,[ch7] Modeling,Baek Kyun Shin,,2022-03-04T14:31:45.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,werooring/ch7-modeling2,[ch7] Modeling2,Baek Kyun Shin,,2022-03-04T14:34:44.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,kedarnath07/cat-feature-encoding-prediction,Cat_feature_encoding_prediction,kedar galande,,2021-09-05T06:55:55.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,shivamkc3/auc-scores-with-folds-using-ml-algo,AUC_scores_with_folds_using_ML_Algo,Shivam Chhetry,,2021-08-25T10:18:49.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,antoreepjana/deep-learning-approaches-for-tabular-datasets,Deep Learning Approaches for Tabular Datasets,antoreepjana,,2021-06-29T03:09:34.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,tj0612/late-submit-just-enjoy,late submit: just enjoy,Tajimi,,2020-11-12T13:51:02.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,aravindpadman/eda-and-baseline-model-with-learning-curve,EDA and Baseline Model with Learning Curve,Aravind P,,2020-10-10T08:41:37.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,diljotwadia/notebookd53bffcf48,notebookd53bffcf48,jellyfish67,,2020-09-22T18:05:50.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,pdx250697/logistic-regression-solution,Logistic_Regression_solution,prakhardixit,,2020-02-06T07:09:42.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,karnakarthoorpu/methods-to-analyze-categorical-data,Methods to Analyze Categorical Data ,KarnakarReddy,,2019-12-14T12:42:15.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,satishkundanagar/categorical-feature-encoding,Categorical_Feature_Encoding,SatishSK,,2019-12-10T09:02:46.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,sangyunkang/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Branden Kang,,2019-12-10T08:35:50.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,gukai1212/encoding-for-category-in-my-learning,Encoding for category in my learning ,gukai1212,,2019-12-09T15:28:09.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,viktorpopov/cat-in-data,cat in data,Виктор Попов,,2022-02-01T13:35:12.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,krsna540/categorical-feature-encoding,Categorical Feature Encoding,Krishna Chaitanya,,2019-12-11T15:59:16.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,dskagglemt/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Mayank Tripathi,,2019-11-28T22:35:54.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,vladlee/categorical-feature-encoding-simple-xgb,Categorical Feature Encoding - simple XGB,Vlad Lee,,2019-12-13T20:09:38.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,saibharath12/handling-categorical-variables-encoding-modeling,Handling Categorical Variables:Encoding & Modeling,saibharath,,2019-11-13T04:16:52.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,yutanakamura/25-line-model-of-lightgbm,25-line-model of LightGBM,osakanachan,,2019-11-03T15:04:09.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,nicapotato/categorical-catboost-pool-cv-bayes-opt,Categorical Catboost Pool CV Bayes_Opt,nicapotato,,2019-11-01T22:27:27.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,lukemonington/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Luke Monington,,2020-07-06T13:13:25.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,takaishikawa/catboost-starter-with-k-fold-no-fe,Catboost Starter with k-fold (No FE),Tak,,2019-10-06T22:12:54.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,mxiaoyu/logistic-regression-is-strong,Logistic Regression Is Strong,xiecheng,,2019-09-26T07:35:41.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,errolpereira/blending-with-logisitic,Blending With Logisitic,Errol Pereira,,2019-10-14T15:35:29.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,rahulvks/gradient-boosting-with-catboost,Gradient boosting With CatBoost,RVK,,2020-02-16T16:30:36.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,errolpereira/logistic-regression,Logistic Regression,Errol Pereira,,2019-09-26T06:28:53.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,bearing/improving-performance-for-one-hoc-encoding,Improving performance for One Hoc Encoding,Denys Skalskyy,,2019-09-14T06:48:02.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,nandhuelan/catembed,Catembed,Nandhu Elango,,2019-09-06T11:48:39.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,tapanpatro/let-s-do-some-binary-classification,Let's Do Some Binary Classification,Tapan Patro,,2019-08-29T15:06:45.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,martinab/categorical-features-encoding,Categorical Features Encoding,Martina Bohunicka,,2019-12-07T15:17:27.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,cat-in-the-dat
+,,,,,0,maximseveryn/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge ,Maxim Severyn,,2021-05-30T14:11:38.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,gyanbahadurmagar/baseline-solution-cat-encoding-logistic-regression,Baseline Solution Cat Encoding Logistic Regression,Gyan bahadur magar,,2021-03-27T12:06:15.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,arjunaacharya/baseline-soln-categorical-enc-logistic-regresion,Baseline Soln Categorical Enc Logistic Regresion,Arjun Acharya,,2021-03-27T11:48:57.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,schorsi/decision-tree-training-accuracy-expirement,Decision tree training accuracy expirement,Neil Kloper,,2021-02-09T07:02:03.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,mahmoud1youssef/categorical-features-study,Categorical Features Study,Mahmoud Youssef,,2020-11-01T17:24:02.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,diljotwadia/notebook66faab00c3,notebook66faab00c3,jellyfish67,,2020-09-22T12:58:29.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,chaejihan/thisisthetitle,thisisthetitle,Jihan Chae,,2020-09-20T05:47:05.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,rahmanimohsen/feature-encoding-and-classification,Feature Encoding and Classification,Mohsen Rahmani,,2020-07-18T20:42:33.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,chuvik89/one-hot-encoding-on-raw-data,One-Hot-Encoding on raw data,Evgeny,,2020-06-12T13:11:42.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,elpiloto/kernel703182c934,kernel703182c934,ElPiloto,,2020-05-25T11:43:28.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,tushvjti/cat-featureencoding2,Cat_FeatureEncoding2,TushVJTI,,2020-02-12T12:30:46.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,alexandervc/just-lightgbm,Just LightGBM,Alexander,,2020-01-13T18:28:10.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,ricopue/cramers-v-correlation-for-cat-i-cat-ii,Cramers_v correlation for Cat_I CAT_II,ricopue,,2020-01-13T10:54:50.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,ihorshypunov/kernel1fcd084e65,kernel1fcd084e65,Игорь Шипунов,,2020-01-01T19:24:18.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,talk2ranjanktr/categorical-feature-encoding,Categorical Feature Encoding,Ranjan Kumar Jha,,2019-12-20T14:52:28.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,radream/logistic-regression-for-cat,Logistic Regression for Cat,Yu-ray Li,,2019-12-05T10:14:24.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,dskagglemt/categorical-feature-encoding-challenge-2,Categorical Feature Encoding Challenge_2,Mayank Tripathi,,2019-11-30T04:25:35.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,robgol/catsinthedat-trying-all,CatsInTheDat...trying all :),Robgol,,2019-12-04T16:40:35.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,norm154845/kernel49510b5a77,kernel49510b5a77,norm,,2019-11-26T16:27:12.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,kaushal2896/cat-in-the-dat-simple-logistic-regression,Cat in the Dat: Simple Logistic Regression,Kaushal Shah,,2019-11-11T15:24:14.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,stocks/gm-secret-encoding,GM Secret Encoding,Mycroft Holmes,,2019-11-09T04:14:49.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,yutanakamura/45-line-model-of-lightgbm-optuna,45-line-model of LightGBM + Optuna,osakanachan,,2019-11-03T13:17:06.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,gsdeepakkumar/categorical-encoding,Categorical Encoding,GSD,,2019-11-20T14:38:16.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,teejmahal20/cat-comparing-logistic-regression-and-xgb,CAT - Comparing Logistic Regression and XGB,TJ Klein,,2019-10-30T16:35:00.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,lashch/cat-encoding-w-keras,Cat Encoding w Keras,Yuliya Lashch,,2019-10-29T10:45:58.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,ashkash247/categorical-feature-encoding,Categorical Feature encoding,Ashirr,,2020-03-16T19:07:20.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,jirakst/categorical-data-with-target-encoding,Categorical data with target encoding,Stanislav Jirák,,2019-10-24T13:24:01.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,fycher/categorical-features-and-gbm,Categorical Features and GBM,flych3r,,2019-10-16T16:56:34.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,mak4alex/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Ales,,2019-10-12T19:07:52.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,songjiseop/let-s-try-some-feature-engineering,Let's try some feature Engineering,sjsjs,,2019-10-02T18:27:32.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,donkeys/simple-preprocessing,Simple Preprocessing,averagemn,,2019-10-01T10:27:12.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,sks27199/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Shubham Kumar Singh,,2019-09-16T12:53:33.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,merckel/target-encoding,Target Encoding,Loic Merckel,,2019-09-15T11:21:34.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,alexanderdbooth/fun-with-catboost,Fun With CatBoost,Alexander Booth,,2019-09-12T00:28:34.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,ayusov/embedding-single-vs-multiple-cats,embedding single vs multiple cats,Andrei Yusov,,2019-09-18T02:38:10.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,heshamasem/is-there-a-cat-in-the-dat-kernel-2,Is There a Cat in the Dat ? ( Kernel 2 ) ,Hesham Asem,,2019-09-10T21:29:50.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,vegetasaiyanprince/kernel-cat-data,kernel cat data,om prakash,,2019-09-23T05:43:23.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,plarmuseau/logistic-regression,Logistic Regression,Paul Larmuseau,,2019-09-07T06:15:45.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,saikumar587/feature-encoding-and-scaling-xgbclassifier-dnn,"Feature Encoding and Scaling,XGBClassifier,DNN ",Sai Kumar Yava,,2019-09-04T18:35:26.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,sudipta10/cat-dat,Cat_Dat,Sudipta Patra,,2019-09-03T17:49:22.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,magreen/my-first-published-kernel,my first published kernel,Michael Green,,2019-09-03T18:33:59.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,gsdeepakkumar/categorical-encoding-training,Categorical Encoding Training,GSD,,2019-09-07T06:06:58.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,cat-in-the-dat
+,,,,,0,hongjopark/ch7-notebook,[ch7] Notebook,hong-jo Park,,2022-06-14T04:58:21.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,merabetasma/cat-encoding-0-80286-in-private-lb,cat_encoding_0.80286 in private LB,merabet asma,,2022-05-25T16:53:58.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,domafordarwin/ch7-notebook-my-test,[ch7] Notebook_my_test,domafordarwin,,2022-06-06T16:28:19.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,dfo4653/interactive-exercise-data-analysis-i-and-data-pre,Interactive exercise: Data analysis I and data-pre,dfo4653,,2022-05-09T23:13:06.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,jiangtt/lightautoml-0-80599-private-lb,LightAutoML 0.80599 Private LB,JiangTT,,2021-07-14T10:54:58.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,ganiyuolalekan/precision-recall-trade-off,Precision-Recall Trade-off, Ganiyu Olalekan,,2021-04-09T15:14:15.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,ganiyuolalekan/eda-on-the-various-categorical-data-0-80464,EDA on the various categorical data (0.80464), Ganiyu Olalekan,,2021-04-08T07:20:47.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,amitraj54/multiple-encoding-techniques-eda-modelling-77,Multiple Encoding Techniques: EDA & Modelling(77%),Amit Raj,,2021-03-29T09:38:36.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,funxexcel/baseline-sol-cat-encoding-logistic-regression,Baseline Sol Cat Encoding Logistic Regression,Kunaal Naik,,2021-03-27T12:07:30.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,santoshbothe/an-overview-of-encoding-techniques,An Overview of Encoding Techniques,AISense,,2021-02-04T10:08:39.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,marselaaliaj/aliaj-categorical-feature-encoding-challenge-v01,[Aliaj]Categorical_Feature_Encoding_Challenge_v01,Marsela Aliaj,,2021-02-02T02:44:43.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,sakshammangal/deep-learning-assignment-saksham-mangal,Deep-Learning-Assignment-Saksham_Mangal,Saksham Mangal,,2020-09-22T21:45:02.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,harneetkaurchahal26/cat-in-the-dat-harneetchahal,Cat_in_the_dat_harneetchahal,Harneet Kaur Chahal,,2020-09-22T17:49:26.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,vkehfdl1/nom-advanced-analysis,nom - advanced analysis,Dongkyu Kim,,2020-09-20T05:47:05.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,sarojbisi/categorical-feature-encoding-challenge-1,Categorical-Feature-Encoding-Challenge-1,saroj bisi,,2020-07-07T19:49:15.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,adarsh415/entity-embedding-pytorch,Entity_Embedding_pytorch,Adarsh Kumar,,2020-04-17T22:36:33.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,adarsh415/entity-embedding-tf2-0,Entity_embedding_TF2.0,Adarsh Kumar,,2020-04-14T21:42:37.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,annananan/kernel3d3f712a1a,kernel3d3f712a1a,Anna Vlasova,,2020-04-05T21:01:55.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,asgusev/cat-dat-test,cat_dat_test,Andrei Gusev,,2020-04-05T18:07:55.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,yertayzhiyenbayev/v3-robt407-categorical-feature-encoding-challenge,v3__ROBT407_Categorical Feature Encoding Challenge,Yertay Zhiyenbayev,,2020-04-04T05:49:51.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,jarodc/kernelf7e6080591,kernelf7e6080591,Jarod C,,2020-05-01T01:31:27.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,shashank177064/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Shashank Tiwari,,2020-02-04T16:32:14.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,gheesung/ntu-assignment-2020,NTU Assignment 2020,Ghee Sung,,2020-04-09T13:54:08.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,sourabhdattawad/vanilla-catboost-with-no-preprocessing-0-80451,Vanilla-Catboost-with-no-preprocessing-0.80451,Sourabh Dattawad,,2019-12-21T08:11:11.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,roshninaidu/feature-encoding-logistic-regression,Feature Encoding - Logistic Regression,Roshni Naidu,,2019-12-09T23:02:11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,cmcready/final-project,Final Project,Corey McReady,,2019-12-09T07:48:49.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,shaunshibu/like-a-woman-treat-the-categ-variable-right,"Like a woman, treat the categ. variable right!!",Shaun Shibu,,2019-12-08T06:34:52.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,robonimo86/disparity-in-values-of-test-and-training-set,Disparity in Values of Test and Training Set,Don Michael Lloyd Walpola,,2019-11-30T04:30:04.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,nicoisaverage/categorical-feature-encoding,Categorical Feature Encoding,Nick Anderson ,,2020-01-13T16:51:13.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,niranjankumarc/categorical-feature-encoding-modeling,Categorical Feature Encoding  & Modeling,Niranjan_NKC,,2019-11-26T09:49:19.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,srbestha/categorical-feature-encoding,Categorical Feature Encoding,Srinivas M Besthar,,2019-12-09T19:48:20.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,avishake/categorical-1,Categorical_1,Avishake_Dutta,,2019-11-20T13:38:13.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,imdevskp/what-traditional-encoding-methods-would-give-you,What traditional encoding methods would give you ?,Devakumar K. P.,,2019-11-18T01:20:53.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,ma7555/a-logit-and-a-sparse-matrix,A Logit and a Sparse Matrix ,ma7555,,2019-11-21T01:37:24.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,n2718281/qucik-eda-and-starter-pipeline,Qucik eda and starter pipeline,n2718281,,2019-11-29T20:46:35.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,adarsh415/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Adarsh Kumar,,2019-12-09T07:35:02.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,scottolson/kernel58610bf71d,kernel58610bf71d,scott olson,,2019-11-19T07:13:11.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,pranaiyadav/categorical-encoding,categorical encoding,Pranai Yadav D,,2019-11-15T18:48:18.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,cserajendra/deep-drive-into-encoding-tech-s,Deep Drive Into Encoding Tech's.,Rajendra Prasad,,2019-11-06T03:18:11.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,evgeniya1/cat-in-dat-modeling,Cat-in-dat modeling,Evgeniya Dontsova,,2019-10-25T04:09:46.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,ajithvallabai/categorical-ecoding-cat-challange-solved,Categorical_ecoding_Cat_challange_solved,ajithvallabai,,2019-11-01T13:26:44.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,valkenberg/cats-cat-cate-categories,Cats....Cat...Cate...Categories!!,Shantam Saxena,,2019-10-15T06:08:05.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,harshavardhanbabu/ensembleencoding-classifier,EnsembleEncoding_Classifier,HarshaVardhanBabu,,2019-10-06T15:11:37.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,lowecoryr/eda-first-pass,EDA First Pass,lowecoryr,,2019-10-09T12:56:15.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,grecs2001/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Fabien M.,,2019-12-09T10:28:43.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,lipsita/naive-bayes,Naive Bayes,Lipsita Senapati,,2019-09-28T12:59:19.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,ezamir/simple-scikit-pipeline,Simple Scikit Pipeline,EvanZamir,,2019-09-25T20:09:53.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,errolpereira/simple-data-exploration,Simple data exploration.,Errol Pereira,,2019-09-22T16:08:04.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,evgeniya1/eda-for-cat-in-dat,EDA for cat-in-dat,Evgeniya Dontsova,,2019-10-25T03:28:28.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,ipg2014xxx/cat-in-the-dat-kernel,Cat in the Dat Kernel,Ashish Tiwari,,2019-10-01T06:31:27.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,winterwind9/kernel3958712a1b,kernel3958712a1b,Marcus Reyes,,2019-09-17T00:03:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,merckel/target-encoding-and-lightgbm,Target Encoding and LightGBM,Loic Merckel,,2019-09-16T22:08:21.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,abhishek9599/not-using-one-hot-encoding,Not_using_one_hot_encoding,Abhishek Prasad,,2019-10-06T17:24:29.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,atiko9876/mean-target-encoding,Mean target encoding,ATiKO98,,2019-09-16T08:38:23.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,plarmuseau/we-are-predicting-something-random,we are predicting something random ?,Paul Larmuseau,,2019-09-07T12:47:22.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat
+,,,,,0,chetanambi/categorical-feature-encoding-challenge,Categorical Feature Encoding Challenge,Chetan Ambi,,2019-09-03T04:23:52.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,cat-in-the-dat

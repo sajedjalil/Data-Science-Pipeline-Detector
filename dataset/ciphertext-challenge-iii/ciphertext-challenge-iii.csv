@@ -1,0 +1,26 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,pednt9/something-to-begin-with-a-first-hint,Something to begin with: a first hint,Paul Dnt,,2019-08-14T18:30:27.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,ciphertext-challenge-iii
+,,,,,0,tarobxl/cipher-level-1-2-simple-eda-on-level-3-4,"Cipher Level 1,2 - Simple EDA on Level 3,4",tarobxl,,2019-08-24T08:41:54.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,ciphertext-challenge-iii
+,,,,,0,kaggleuser58/cipher-challenge-iii-level-1,Cipher Challenge III Level 1,Robin Hood,,2019-08-13T05:41:43.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,ciphertext-challenge-iii
+,,,,,0,julianb/time-efficient-pairing,Time Efficient Pairing,Julian B,,2019-08-11T15:26:43.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,ciphertext-challenge-iii
+,,,,,0,ayush10004/some-more-hints,Some More Hints ,Ayush,,2019-08-10T18:59:13.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ciphertext-challenge-iii
+,,,,,0,tauffer/dumb-luck,dumb luck,Sergio Tauffer,,2019-08-09T19:28:58.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,ciphertext-challenge-iii
+,,,,,0,nbzee1/some-hints-for-levels-3-and-4-now-with-solutions,Some hints for levels 3 and 4 (now with solutions),nbZee,,2019-09-10T05:02:36.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ciphertext-challenge-iii
+,,,,,0,tenffe/ciphertext-eda-and-baseline,Ciphertext: EDA and baseline,zhangxin,,2019-08-10T13:31:50.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,ciphertext-challenge-iii
+,,,,,0,jiaofenx/ciphertext-challenge-iii-simple-eda-and-cracking,Ciphertext Challenge III - Simple EDA and Cracking,Jofen,,2019-08-29T06:36:03.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ciphertext-challenge-iii
+,,,,,0,dierickx3/ctiii-level-1,CTIII - Level 1,Tom Dierickx,,2019-08-13T15:11:13.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ciphertext-challenge-iii
+,,,,,0,smlopezza/ciphertext-challenge-iii-v3,Ciphertext Challenge III v3,Sandra Lopez Zamora,,2019-08-28T11:59:50.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,ciphertext-challenge-iii
+,,,,,0,seriousran/only-length-0-00000,Only length? 0.00000,Chanran Kim,,2019-08-09T14:40:10.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,ciphertext-challenge-iii
+,,,,,0,elvenmonk/ciphertext-challenge-iii-fast-level-3,Ciphertext Challenge III - Fast Level 3,Serhii Hrynko,,2019-08-28T08:36:25.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ciphertext-challenge-iii
+,,,,,0,gullfaxi/a-few-exploration-on-difficulty-4,A few exploration on difficulty 4,Gullfaxi,,2019-08-12T15:38:14.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ciphertext-challenge-iii
+,,,,,0,elvenmonk/difficulty-1-reverse-engineering-no-ml,Difficulty 1 Reverse engineering no ML,Serhii Hrynko,,2019-08-14T05:15:29.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ciphertext-challenge-iii
+,,,,,0,anuraglahon/ciferiii,ciferIII,Anurag,,2019-08-09T15:21:53.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,ciphertext-challenge-iii
+,,,,,0,elvenmonk/ciphertext-challenge-iii-fast-level-1,Ciphertext Challenge III - Fast Level 1,Serhii Hrynko,,2019-08-15T02:02:56.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ciphertext-challenge-iii
+,,,,,0,chizuchizu/difficulty-1-visualization,Difficulty 1 Visualization,Chizuchizu,,2019-08-09T07:03:53.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,ciphertext-challenge-iii
+,,,,,0,sanikamal/ciphertext-challenge-iii,Ciphertext Challenge III,Sani Kamal,,2019-08-08T19:30:45.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,ciphertext-challenge-iii
+,,,,,0,sunandosamaddar/scratch-8urykgfg,scratch_ 8URYKgFG,Sunando Samaddar,,2019-09-05T19:15:44.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,ciphertext-challenge-iii
+,,,,,0,adrianpaul/cipher-challenge-iii-level-1-adrian,Cipher Challenge III Level 1 Adrian,Adrian Paul,,2020-01-16T13:26:28.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ciphertext-challenge-iii
+,,,,,0,anermakov/ciphertext-decrypt-diff-2,Ciphertext decrypt diff=2,jentleman_jux,,2019-09-30T10:56:25.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ciphertext-challenge-iii
+,,,,,0,junheeshin/cipher3-level1,cipher3 level1,crazyj7,,2019-09-08T05:23:16.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ciphertext-challenge-iii
+,,,,,0,elvenmonk/difficulty-4-reverse-engineering,Difficulty 4 Reverse engineering,Serhii Hrynko,,2019-09-09T20:50:32.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ciphertext-challenge-iii
+,,,,,0,neonninja/let-s-decrypt,Let's Decrypt,neonninja,,2019-08-13T06:27:13.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,ciphertext-challenge-iii

@@ -1,0 +1,12 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sugataghosh/higgs-boson-event-detection-part-1-eda,Higgs Boson Event Detection - Part 1. EDA,Sugata Ghosh,,2022-05-29T16:32:15.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,higgs-boson
+,,,,,0,anuragbagadi/detecting-the-higgs-boson-using-rnn,Detecting the Higgs Boson using RNN,anuragbagadi,,2021-02-17T12:36:28.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,higgs-boson
+,,,,,0,shubhendra7/higgs-boson-analysis,Higgs Boson Analysis,Shubhendra,,2019-04-22T19:22:18.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,higgs-boson
+,,,,,0,makhloufsabir/higgs-boson-classification-physics-rnn,Higgs Boson Classification - Physics - RNN,Sabir Makhlouf,,2020-07-24T19:09:14.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,higgs-boson
+,,,,,0,makhloufsabir/higgs-boson-classification-physics,Higgs Boson Classification - Physics,Sabir Makhlouf,,2020-07-19T19:11:50.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,higgs-boson
+,,,,,0,ssismasterchief/identifying-higgs-boson-atlas-h2o,Identifying.Higgs.Boson-ATLAS-h2o,Sumit Saha,,2019-03-04T08:57:21.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,higgs-boson
+,,,,,0,bitanbiswas99/higgsbossonuniv-ai-project,HiggsBossonUniv.AI Project,bitan_biswas99,,2021-04-11T10:54:09.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,higgs-boson
+,,,,,0,imeintanis/identifying-higgs-boson-t-sne-umap-rapids,Identifying Higgs Boson | t-SNE+UMAP [RAPIDS],Ioannis M,,2020-08-06T14:10:01.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,higgs-boson
+,,,,,0,jiahuali/jiahua-li-higgs-bosons,Jiahua Li Higgs Bosons,Jiahua Li,,2020-09-10T18:58:37.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,higgs-boson
+,,,,,0,sudharshann/lightbgm-optuna,LightBGM_Optuna,Sudharshan N,,2022-06-07T13:32:58.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,higgs-boson
+,,,,,0,theamateurcoder/higgs-boson-ml-problem,Higgs Boson ML Problem,theamateurcoder,,2020-12-24T11:02:55.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,higgs-boson

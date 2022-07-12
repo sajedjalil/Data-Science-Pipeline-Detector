@@ -1,0 +1,124 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,ihelon/hungry-geese-agents-comparison,Hungry Geese - Agents Comparison,Yaroslav Isaienkov,,2021-02-09T21:02:12.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],172,hungry-geese
+,,,,,0,yuricat/smart-geese-trained-by-reinforcement-learning,Smart Geese Trained by Reinforcement Learning,yuricat,,2021-02-07T03:51:56.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],131,hungry-geese
+,,,,,0,ilialar/risk-averse-greedy-goose,Risk averse greedy goose,Ilia Larchenko,,2021-01-31T02:00:43.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,hungry-geese
+,,,,,0,shoheiazuma/alphageese-baseline,AlphaGeese Baseline,sazuma,,2021-04-20T14:03:36.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,hungry-geese
+,,,,,0,ks2019/handy-rl-training-notebook,Handy RL Training Notebook,KS,,2021-06-26T10:24:39.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],65,hungry-geese
+,,,,,0,alexandersamarin/training-resnet-agent-from-scratch,🏋️ Training ResNet-agent from scratch,Alexander Samarin,,2021-07-23T07:47:56.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,hungry-geese
+,,,,,0,shoheiazuma/10th-place-solution,10th Place Solution,sazuma,,2021-07-26T01:25:13.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,hungry-geese
+,,,,,0,gabrielmilan/crazy-goose,Crazy Goose,Gabriel Gazola Milan,,2021-01-30T17:06:41.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,hungry-geese
+,,,,,0,seriousran/hungry-geese-baseline-starter-greedy,Hungry Geese Baseline Starter - Greedy,Chanran Kim,,2021-01-26T05:21:25.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,hungry-geese
+,,,,,0,johntermaat/hungry-geese-simple-monte-carlo-baseline,Hungry Geese - Simple Monte Carlo (Baseline),John TerMaat,,2021-02-22T00:00:34.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],44,hungry-geese
+,,,,,0,nejumi/keras-model-trained-by-imitation-learning,Keras Model trained by imitation learning,YuyaYamamoto,,2021-03-17T16:14:57.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,hungry-geese
+,,,,,0,yanamal/approximate-q-learning-baseline,Approximate Q-learning baseline,Yana Malysheva,,2021-02-27T10:21:55.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],43,hungry-geese
+,,,,,0,victordelafuente/dqn-goose-with-stable-baselines3-pytorch,DQN-Goose with stable-baselines3 & pytorch,Victor de la Fuente,,2021-03-28T00:32:34.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,hungry-geese
+,,,,,0,nejumi/let-s-create-your-agent-by-supervised-learning,Let's create your agent by supervised learning!,YuyaYamamoto,,2021-03-26T10:25:41.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,hungry-geese
+,,,,,0,egrehbbt/alternative-game-visualization,Alternative game visualization,aDg4b,,2021-02-04T07:22:46.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,hungry-geese
+,,,,,0,demche/hungry-geese-leaderboard-eda-and-team-tracking,Hungry Geese - leaderboard EDA and team tracking,Demid Chernenko,,2021-07-17T07:28:27.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],26,hungry-geese
+,,,,,0,superant/mighty-boilergoose-with-flood-fill,Mighty BoilerGoose with Flood fill 🌊,Ant 🐜,,2021-01-30T11:16:53.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,hungry-geese
+,,,,,0,antimatter543/running-games-locally-with-jupyter-notebook,Running Games Locally with Jupyter Notebook,Anti,,2021-02-15T08:37:10.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,hungry-geese
+,,,,,0,ks2019/hungry-goose-starter-with-logging-top-10,Hungry Goose Starter with Logging (Top 10),KS,,2021-02-08T12:48:32.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,hungry-geese
+,,,,,0,robga/using-onnx-onnxruntime-in-submissions-for-4x-speed,Using onnx OnnxRunTime in submissions for 4x speed,robga,,2021-07-29T14:49:43.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,hungry-geese
+,,,,,0,aatiffraz/simple-bfs-starter-agent,Simple BFS- Starter Agent,Aatif Fraz,,2021-01-26T18:18:16.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,hungry-geese
+,,,,,0,durbin164/hungry-geese-deep-q-network-starter-training,Hungry Geese Deep Q network Starter [Training],Md. Masud Rana,,2021-05-12T21:00:44.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,hungry-geese
+,,,,,0,darkmatter2222/tf-agent-rl-dqn-w-policy-saver-and-tar-gz-sub,TF-Agent RL DQN (w/ policy saver and tar.gz sub),Ryan Susman,,2021-01-30T03:18:54.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,hungry-geese
+,,,,,0,shoheiazuma/alphageese-training,AlphaGeese Training,sazuma,,2021-07-25T17:36:16.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,hungry-geese
+,,,,,0,mickaelomk/joint-distribution-q-learning,Joint distribution Q learning,M_Omk,,2021-05-29T09:56:35.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,hungry-geese
+,,,,,0,josephamigo/hungry-geese-is-a-nlp-problem-part-2,Hungry Geese is a NLP problem [PART 2],Joseph AMIGO,,2021-04-27T11:01:05.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,hungry-geese
+,,,,,0,josephamigo/hungry-geese-is-a-nlp-problem-part-1,Hungry Geese is a NLP problem [PART 1],Joseph AMIGO,,2021-04-26T16:24:05.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,hungry-geese
+,,,,,0,toshikazuwatanabe/hungry-geese-make-submission-w-tf-agent,Hungry Geese: make submission w/ TF-Agent,noypeban,,2021-05-18T18:16:03.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,hungry-geese
+,,,,,0,ilialar/goose-on-a-healthy-diet,Goose on a healthy diet,Ilia Larchenko,,2021-01-30T04:52:10.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,hungry-geese
+,,,,,0,fleek12/hungry-geese-worldmodels-pytorch,Hungry Geese - Worldmodels pytorch,fleek12,,2021-03-21T07:20:34.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,hungry-geese
+,,,,,0,yonsweng/smart-geese-loading-model-from-kaggle-dataset,Smart Geese Loading Model from Kaggle Dataset,Choi Yeonung,,2021-06-03T03:27:49.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,hungry-geese
+,,,,,0,alexandraamidon/simple-hungry-geese-baseline-heuristic-agent,Simple Hungry Geese Baseline Heuristic agent,AlexandraAmidon,,2021-03-23T00:45:27.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,hungry-geese
+,,,,,0,ktechb/hungry-geese-simple-submisson,Hungry Geese Simple Submisson,Ryota,,2021-01-27T01:42:24.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,hungry-geese
+,,,,,0,kirderf/handyrl-with-extra-save-and-load-features-amp-etc,"HandyRL with extra save and load features, amp etc",Kirderf,,2021-07-27T18:31:39.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hungry-geese
+,,,,,0,shoheiazuma/alphageese-trajectories,AlphaGeese Trajectories,sazuma,,2021-07-25T17:07:09.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hungry-geese
+,,,,,0,egrehbbt/minmax-goose-go,MinMax.Goose Go,aDg4b,,2021-04-07T16:53:33.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hungry-geese
+,,,,,0,jamesmcguigan/hungry-geese-go-west,Hungry Geese Go West!,James McGuigan,,2021-02-24T11:38:24.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hungry-geese
+,,,,,0,ryches/stable-baselines3-starter-wip,Stable baselines3 starter [WIP],ryches,,2021-02-13T09:20:21.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hungry-geese
+,,,,,0,mpwolke/good-for-the-goose-good-for-the-gander,Good for the Goose Good for the Gander,Marília Prata,,2021-01-26T12:30:33.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,hungry-geese
+,,,,,0,sanggyu3/using-handyrl-for-hungry-geese,Using HandyRL for Hungry Geese,Sanggyu Lee,,2021-04-07T11:53:41.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hungry-geese
+,,,,,0,kmldas/hungry-geese-leaderboard-analysis,Hungry Geese (leaderboard analysis),Kamal Das,,2021-04-05T13:43:02.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hungry-geese
+,,,,,0,leontkh/hard-coded-passive-aggressive-agent,Hard-coded passive aggressive agent,Leon Tan,,2021-02-09T16:22:06.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hungry-geese
+,,,,,0,victordelafuente/greedy-risk-averse-improved-dead-end-detection,Greedy risk averse: improved dead-end detection,Victor de la Fuente,,2021-02-25T01:34:57.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hungry-geese
+,,,,,0,ymdhryk/ape-x-dqn-safe-guard-length-risk-aware,Ape-X DQN: Safe Guard + Length Risk Aware,Hiroyuki Yamada,,2021-01-31T05:27:41.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,hungry-geese
+,,,,,0,riadalmadani/self-attention-model-with-resnet,self attention model with Resnet,Riad,,2021-06-05T17:56:24.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,hungry-geese
+,,,,,0,meghamgarg/hungrygeese-dfs-bfs,HungryGeese_DFS_BFS,Megham Garg,,2021-03-08T13:52:02.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,hungry-geese
+,,,,,0,brandonnova/submission-number-score-correlation,Submission Number Score Correlation,BrandontheCoder,,2021-03-05T21:47:40.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,hungry-geese
+,,,,,0,ashleypaloalto2020/hungry-geese-self-play-agent-using-stable-baseli,Hungry Geese - self play agent using stable baseli,Ashley p,,2021-06-18T14:50:46.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,hungry-geese
+,,,,,0,yashkundu/joint-distribution-q-learning,Joint distribution Q learning,BlackPanther,,2021-06-11T19:41:07.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,hungry-geese
+,,,,,0,phanomkornhomsiang/hungry-geese-training,Hungry Geese [Training],PHANOMKORN HOMSIANG,,2021-04-30T07:36:40.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,hungry-geese
+,,,,,0,brandonnova/circle-geese,Circle Geese,BrandontheCoder,,2021-03-09T14:02:35.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,hungry-geese
+,,,,,0,jamesmcguigan/hungry-geese-rust-cffi,Hungry Geese - Rust CFFI,James McGuigan,,2021-02-24T12:20:59.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,hungry-geese
+,,,,,0,victordelafuente/hungrygeese-q-learning-common-sense-knowledge,HungryGeese: Q-Learning & common sense knowledge,Victor de la Fuente,,2021-02-28T13:41:24.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,hungry-geese
+,,,,,0,riadalmadani/minimax-multi-agent,MiniMax  multi agent,Riad,,2021-07-04T04:42:29.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,vishweshsalodkar/smart-geese-my-first-competition,Smart Geese my first competition,Vishwesh Salodkar,,2021-06-03T20:54:48.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,rodrigoferrazsouza/simple-hungry-geese-agent-coward-goose,Simple Hungry Geese Agent -  Coward Goose,Rodrigo Ferraz Souza,,2021-04-07T02:01:44.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,brandonnova/circle-goose,Circle Goose,BrandontheCoder,,2021-03-09T13:37:32.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,ymdhryk/ape-x-dqn-lap-safeguard-rewardredesign,Ape-X DQN-LAP: SafeGuard & RewardRedesign,Hiroyuki Yamada,,2021-02-21T01:21:56.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,danwatson16/greedy-boi,greedy boi,Dan Watson,,2021-02-14T17:51:03.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,ymdhryk/hungry-geese-ape-x-dqn-with-safe-guard,Hungry Geese: Ape-X DQN with Safe Guard,Hiroyuki Yamada,,2021-01-31T02:52:36.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,hungry-geese
+,,,,,0,riadalmadani/self-attention-model-with-cnn,self attention model with cnn,Riad,,2021-06-05T11:31:47.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hungry-geese
+,,,,,0,ace147/random-dir-straight-go,Random Dir Straight Go,Mohammed Yaseen,,2021-03-13T10:14:38.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hungry-geese
+,,,,,0,nirenamid/hungry-geese-simple-state-viewer,Hungry Geese - Simple state viewer,Nirenamid,,2021-01-30T00:01:28.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hungry-geese
+,,,,,0,jamesmcguigan/hungry-geese-agents-comparison,Hungry Geese - Agents Comparison,James McGuigan,,2021-01-28T01:49:45.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,hungry-geese
+,,,,,0,rick0000/understanding-head-expansion,understanding head expansion,rick,,2021-08-09T13:13:08.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,huikang/hg-suicide-goose,HG - Suicide Goose,Tong Hui Kang,,2021-06-26T19:28:20.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,maheshabnave999/hungry-geese-self-play-agent-using-stable-baseli,Hungry Geese - self play agent using stable baseli,Mahesh Abnave,,2021-04-25T19:51:57.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,josephamigo/hungry-geese-is-a-nlp-problem-part-3,Hungry Geese is a NLP Problem [PART 3],Joseph AMIGO,,2021-04-27T12:35:16.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,unicorncharm/model-based-approaches,model based approaches,Sudha Devi,,2021-04-03T13:03:56.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,evilmage93/tf-agent-for-hungrygoose,TF-Agent for HungryGoose,MohitMayank,,2021-03-19T11:39:49.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,ht5brer/hungry-geese-rl-template,Hungry Geese: RL Template,htsbrer,,2021-02-27T02:10:37.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,yasinnaal/hungry-geese-feed-the-geese-yasin,Hungry Geese - Feed the Geese - Yasin,Yasin Naal,,2021-03-04T10:08:18.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,rmibizet/stable-baselines3-ppo-goose,Stable Baselines3 PPO Goose,Rémi Bizet,,2021-06-05T18:28:22.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,dongkyunkim/very-simple-goose-dojo,Very Simple Goose Dojo,Dongkyun Kim,,2021-02-04T11:56:56.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,codenamekash/ai-goose-reinforcement-learning,AI Goose reinforcement learning,prakash,,2021-01-28T08:37:30.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,tikerlade/baseline-from-greedy-approach,Baseline from Greedy approach,Kuznetsov Ivan,,2021-01-27T13:24:13.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,hungry-geese
+,,,,,0,unfriendlyai/geesamble,Geesamble,UnfriendlyAI,,2021-07-18T07:58:35.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,huikang/hg-alphageese-baseline,HG - AlphaGeese Baseline,Tong Hui Kang,,2021-07-24T05:46:54.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,shoheiazuma/fork-of-simulations-episode-scraper-match-download,Fork of Simulations Episode Scraper Match Download,sazuma,,2021-07-25T15:11:32.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,bamps53/handyrl-resume-training,HandyRL resume training,Camaro,,2021-06-20T22:41:27.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,houzitest/notebooke05591f8b0,notebooke05591f8b0,houzitest,,2021-06-04T10:32:53.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,durbin164/starter-tf-hungry-geese-a2c,Starter Tf->Hungry Geese-> A2C ,Md. Masud Rana,,2021-05-22T20:23:46.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,ochaaaaaaan/hungry-geese-look-around,Hungry Geese:Look around,ochaaaaaaan,,2021-05-12T03:07:53.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,rodrigoferrazsouza/hungry-geese-reinforcement-learning-approach,Hungry Geese - Reinforcement Learning Approach,Rodrigo Ferraz Souza,,2021-06-22T10:31:07.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,riadalmadani/one-step-lookahead-goose,one-step lookahead goose,Riad,,2021-03-19T08:27:47.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,nicolebade/south-goose-baseline,South Goose - Baseline,Nicole,,2021-03-13T20:05:28.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,ht5brer/handy-rl-submission-update,Handy RL Submission Update,htsbrer,,2021-03-14T12:16:23.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,format37/default-renderer-and-augmented-field-obs-debugger,Default renderer and augmented field obs debugger,Alexey Yurasov,,2021-02-28T08:30:56.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,yskkwkm/hungry-geese-random-walk,Hungry Geese Random Walk,ysk kwkm,,2021-02-20T11:24:53.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,juliencs/diffusion-agent,Diffusion Agent,juliencs,,2021-02-10T08:24:14.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,hungry-geese
+,,,,,0,syedhamzahussain/hungry-geese-center-focused-greedy-goose,Hungry Geese center focused greedy goose,Syed Hamza,,2021-07-06T16:26:51.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,ace147/hungry-geese-systematic-approach,Hungry Geese - Systematic Approach,Mohammed Yaseen,,2021-07-03T16:01:04.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,huikang/hg-agents-comparison,HG - Agents Comparison,Tong Hui Kang,,2021-08-07T18:27:21.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,claurin1/lightgbm-geese-data-generation,LightGBM Geese Data generation,Charles Laurin,,2021-06-20T01:27:00.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,peternagymathe/diffusion-agent,Diffusion_Agent,Peter Nagymathe,,2021-06-09T20:03:59.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,yonsweng/alphageese-baseline,AlphaGeese Baseline,Choi Yeonung,,2021-07-26T23:09:12.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,riadalmadani/one-step-lookahead-goose-no-opp-error,one-step lookahead goose no opp error,Riad,,2021-03-19T13:10:28.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,peternagymathe/hungry-goose-gamified,Hungry_Goose_Gamified,Peter Nagymathe,,2021-02-05T15:59:39.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,myoung859/horrible-geese,Horrible Geese,Mike Young,,2021-02-04T03:00:49.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,antimatter543/hungry-geese-beginners-testing-not-done-abandone,Hungry Geese Beginners Testing [not done/abandone],Anti,,2021-02-14T09:06:28.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,ymdhryk/hungry-geese-apex-dqn-with-random-search,Hungry Geese: ApeX-DQN with Random Search,Hiroyuki Yamada,,2021-01-28T22:27:50.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,danwatson16/hungry-geese-sample,Hungry Geese Sample,Dan Watson,,2021-01-29T16:33:40.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,hungry-geese
+,,,,,0,richardsmith2/keras-model-trained-by-imitation-learning,Keras Model trained by imitation learning,Richard Smith,,2021-06-23T16:59:19.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hungry-geese
+,,,,,0,shoheiazuma/meta-kaggle,Meta Kaggle,sazuma,,2021-07-25T11:23:21.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hungry-geese
+,,,,,0,abosol/what-if-avoiding-re-coding-the-game-s-rules,What if - avoiding re-coding the game's rules,Abo Sol,,2021-04-26T09:40:05.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hungry-geese
+,,,,,0,riadalmadani/one-step-lookahead-goose-simple-heuristic-function,one-step lookahead goose simple heuristic function,Riad,,2021-03-21T09:35:05.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hungry-geese
+,,,,,0,pierretihon/so-far-so-goose-simple-model-based-on-points,So far so goose - simple model based on points,pierretihon,,2021-03-15T20:47:56.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hungry-geese
+,,,,,0,evilmage93/heuristic-goose,Heuristic Goose,MohitMayank,,2021-03-04T21:23:17.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,hungry-geese
+,,,,,0,alexandertalbot/skinny-geese,skinny geese,Alexander Talbot,,2021-07-17T11:06:00.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,ashleyd2021/lightgbm-geese-data-generation,LightGBM Geese Data generation,ashleyd,,2021-06-27T14:11:34.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,ashleyd2021/hungry-geese-self-play-agent-using-stable-baseli,Hungry Geese - self play agent using stable baseli,ashleyd,,2021-06-27T12:30:34.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,josmoy/goose-networkx-shortest-path,Goose | Networkx Shortest Path,José Moyá,,2021-06-24T09:48:25.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,avikdas2021/simple-hungry-geese-baseline,Simple Hungry Geese Baseline,Avik Das,,2021-06-23T20:16:43.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,avikdas2021/using-handyrl-for-hungry-geese,Using HandyRL for Hungry Geese,Avik Das,,2021-06-23T20:08:00.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,tirthankar2021/lightgbm-geese-data-generation,LightGBM Geese Data generation,Tirthankar_2021,,2021-06-23T19:48:29.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,sandya2022/hungry-geese-look-around,Hungry Geese:Look around,sandya2022,,2021-06-20T20:08:32.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,paul2021/smart-geese-my-first-competition,Smart Geese my first competition,dATA-dRIVEN,,2021-06-20T13:39:34.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,ashleypaloalto2020/hungry-geese-training,Hungry Geese [Training],Ashley p,,2021-06-18T15:10:09.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,scarletj2020/hungry-geese-training,Hungry Geese [Training],Scarlet J,,2021-06-18T14:31:16.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,nerijusareska/geese-the-beginnings,Geese - the Beginnings,Nerijus Areska,,2021-04-26T14:16:49.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,minhn520/hungry-geese,Hungry Geese,MinhN520,,2021-04-24T20:29:36.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,nidhaypancholi/an-agent-for-the-hungry-geese-competition,An agent for the Hungry Geese competition,Nidhay Pancholi,,2021-04-12T04:13:46.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese
+,,,,,0,alexandermetzger/simple-2-stage-pacifist-greedy,Simple 2 Stage Pacifist-Greedy,Alexander Metzger,,2021-03-26T19:20:37.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,hungry-geese

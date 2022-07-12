@@ -1,0 +1,6 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,soumya9977/autograding-using-lstm-tf-keras,Autograding using LSTM | tf.keras ,somuSan,,2021-04-11T01:39:37.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,asap-aes
+,,,,,0,mpwolke/hewlett-foundation-essay-scoring,Hewlett Foundation - Essay scoring,Marília Prata,,2020-07-11T00:37:10.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,asap-aes
+,,,,,0,irfanmansuri/the-havelett-foundation-automated-scoring,The_Havelett_Foundation_Automated_Scoring,iffy_,,2020-09-25T19:51:34.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,asap-aes
+,,,,,0,dodger23/automated-content-grading,Automated content grading,Tarek Hassan,,2021-04-06T12:54:29.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,asap-aes
+,,,,,0,rathimadhav/notebook79ae0de477,notebook79ae0de477,Madhav Rathi,,2020-08-31T14:16:46.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,asap-aes

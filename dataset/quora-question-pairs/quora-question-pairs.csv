@@ -1,0 +1,1021 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,anokas/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),anokas,,2017-04-12T14:22:20.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1399,quora-question-pairs
+,,,,,0,rajmehra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Raj Mehrotra,,2019-01-06T07:02:19.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],657,quora-question-pairs
+,,,,,0,lystdo/lstm-with-word2vec-embeddings,LSTM with word2vec embeddings,icebai,,2017-04-28T11:17:02.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],281,quora-question-pairs
+,,,,,0,cpmpml/spell-checker-using-word2vec,Spell Checker using Word2vec,CPMP,,2017-05-12T06:46:25.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],271,quora-question-pairs
+,,,,,0,philschmidt/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",Philipp Schmidt,,2017-04-14T22:37:26.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],256,quora-question-pairs
+,,,,,0,sudalairajkumar/simple-leaky-exploration-notebook-quora,Simple Leaky Exploration Notebook - Quora,SRK,,2017-05-25T08:43:45.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],183,quora-question-pairs
+,,,,,0,jturkewitz/magic-features-0-03-gain,Magic Features (0.03 gain),Jared Turkewitz,,2017-05-03T16:27:24.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],156,quora-question-pairs
+,,,,,0,jeffd23/visualizing-word-vectors-with-t-sne,Visualizing Word Vectors with t-SNE,Jeff Delaney,,2017-03-18T22:30:12.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],153,quora-question-pairs
+,,,,,0,currie32/the-importance-of-cleaning-text,The Importance of Cleaning  Text,Currie32,,2017-04-01T20:29:19.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],134,quora-question-pairs
+,,,,,0,liananapalkova/simply-about-word2vec,Simply about Word2Vec,Liana Napalkova,,2018-11-01T17:51:00.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,quora-question-pairs
+,,,,,0,davidthaler/how-many-1-s-are-in-the-public-lb,How many 1's are in the Public LB?,David Thaler,,2017-04-27T20:16:05.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],105,quora-question-pairs
+,,,,,0,tour1st/magic-feature-v2-0-045-gain,Magic feature v2(0.045 gain),tour1st,,2017-05-21T00:51:38.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],85,quora-question-pairs
+,,,,,0,ashhafez/temporal-pattern-in-train-response-rates,Temporal pattern in train response rates?,ash hafez,,2017-04-16T19:14:35.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],85,quora-question-pairs
+,,,,,0,rethfro/1d-cnn-single-model-score-0-14-0-16-or-0-23,"1D CNN (single model score: 0.14, 0.16 or 0.23)",Alex,,2017-06-07T10:16:29.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],79,quora-question-pairs
+,,,,,0,lystdo/lb-0-18-lstm-with-glove-and-magic-features,[ LB 0.18+ ] LSTM with GloVe and magic features,icebai,,2017-05-28T04:57:43.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],75,quora-question-pairs
+,,,,,0,act444/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,SuarezAteMyTacos,,2017-05-26T14:29:37.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],73,quora-question-pairs
+,,,,,0,sudalairajkumar/keras-starter-script-with-word-embeddings,Keras Starter Script with Word Embeddings,SRK,,2017-03-18T03:40:09.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],70,quora-question-pairs
+,,,,,0,puneetsl/unusual-meaning-map,Unusual meaning map,Puneet Singh Ludu,,2017-03-28T04:58:49.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,quora-question-pairs
+,,,,,0,davidthaler/duplicates-of-duplicates,Duplicates of Duplicates,David Thaler,,2017-04-18T21:33:44.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,quora-question-pairs
+,,,,,0,hubert0527/spacy-name-entity-recognition,[spaCy] Name Entity Recognition,HubertLin,,2017-06-01T15:25:20.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,quora-question-pairs
+,,,,,0,titericz/word-match-1,Word Match 1,Giba,,2017-03-18T17:41:05.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,quora-question-pairs
+,,,,,0,lamdang/dl-models,DL models,Lam Dang,,2017-06-18T20:21:43.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],50,quora-question-pairs
+,,,,,0,selfishgene/shallow-benchmark-0-31675-lb,Shallow Benchmark (0.31675 LB),David Beniaguev,,2017-04-29T21:51:41.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],48,quora-question-pairs
+,,,,,0,donniedarko/question-similarity-using-lstm-embedding,Question Similarity using LSTM Embedding,Nir Malbin,,2017-03-18T16:14:48.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,quora-question-pairs
+,,,,,0,dwarika/text-analysis-all-you-need-to-know,Text Analysis: All you need to know ,Dwarika Teli,,2021-01-25T18:28:09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,quora-question-pairs
+,,,,,0,jadeyun/starter-rf-code-using-tf-idf,Starter RF code using Tf-Idf,Jade Yun,,2017-12-12T16:06:37.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],40,quora-question-pairs
+,,,,,0,zfturbo/pagerank-on-quora-feature-file-generator,PageRank on Quora (Feature File Generator),ZFTurbo,,2017-06-03T08:44:06.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],36,quora-question-pairs
+,,,,,0,abheeshthmishra/eda-of-quora-question-pairs-part-2,EDA of Quora Question Pairs Part - 2,Abheeshth Mishra,,2021-01-26T07:25:48.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,quora-question-pairs
+,,,,,0,aymenmouelhi/quora-duplicate-questions,Quora Duplicate Questions,aymenmouelhi,,2017-08-28T12:23:07.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,quora-question-pairs
+,,,,,0,life2short/data-processing-replace-abbreviation-of-word,Data Processing: replace abbreviation of word,life2short,,2017-04-13T13:29:59.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],33,quora-question-pairs
+,,,,,0,currie32/an-ensemble-approach-cnn-and-timedistributed,An Ensemble Approach (CNN and TimeDistributed),Currie32,,2017-04-08T20:41:57.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,quora-question-pairs
+,,,,,0,tj2552/similarity-techniques-nlp,Similarity Techniques + NLP,TusharJoshi,,2017-04-19T16:51:07.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,quora-question-pairs
+,,,,,0,abheeshthmishra/eda-of-quora-question-pairs-part-1,EDA of Quora Question Pairs Part -1,Abheeshth Mishra,,2021-01-26T19:26:16.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,quora-question-pairs
+,,,,,0,alijs1/xgb-starter-12357,XGB starter 12357,alijs,,2017-03-21T15:09:45.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,quora-question-pairs
+,,,,,0,badat0202/estimate-distribution-of-data-in-lb,Estimate distribution of data in LB?,dathuynh,,2017-03-21T05:29:39.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],29,quora-question-pairs
+,,,,,0,abhishekprajapat/quora-question-pairs-similarity-eda,Quora Question Pairs Similarity EDA,Abhishek Prajapat,,2020-07-12T03:50:50.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,quora-question-pairs
+,,,,,0,aerdem4/semi-magic-postprocess-0-005-lb-gain,Semi-Magic PostProcess (0.005 LB gain),Ahmet Erdem,,2017-06-08T19:13:18.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,quora-question-pairs
+,,,,,0,shubh24/pagerank-on-quora-a-basic-implementation,PageRank on Quora - A basic implementation,shubh24,,2017-06-02T12:18:44.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,quora-question-pairs
+,,,,,0,antriksh5235/cosine-similarity-using-tfidf-weighting,Cosine Similarity using tfidf Weighting,Antriksh Agarwal,,2017-04-19T04:36:47.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,quora-question-pairs
+,,,,,0,shubh24/wordnet-similarity-matrix-a-naive-implementation,Wordnet Similarity Matrix (A Naive implementation),shubh24,,2017-04-10T07:24:06.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,quora-question-pairs
+,,,,,0,rossrco/similarity-is-not-a-substitute-for-semantics,Similarity Is Not a Substitute For Semantics,Ross,,2017-04-20T07:31:06.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,quora-question-pairs
+,,,,,0,davidthaler/pandas-model-no-ml-lb-0-356,Pandas Model (no ML) LB ~0.356,David Thaler,,2017-04-27T21:54:30.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,quora-question-pairs
+,,,,,0,nkaps98/quora-question-pairs-glove-lstm,Quora Question Pairs (GloVe + LSTM),Nupur Kapur,,2020-07-01T18:06:55.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,quora-question-pairs
+,,,,,0,benjaminkz/quora-question-pairs-xgboost,Quora Question Pairs: XGBoost,Zhu Kai,,2019-06-25T04:06:08.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,quora-question-pairs
+,,,,,0,akshat4112/quora-question-pair-similarity-part-1-basic-eda,"Quora Question Pair Similarity Part - 1, Basic EDA",AkshatGupta,,2022-04-25T11:19:14.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,quora-question-pairs
+,,,,,0,tkm2261/my-magic-feature,"My ""magic"" feature",tkm2261,,2017-06-07T08:33:54.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,quora-question-pairs
+,,,,,0,nlothian/different-location-questions,Different Location Questions,nickl,,2017-05-19T14:45:55.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,quora-question-pairs
+,,,,,0,life2short/data-processing-generate-more-positive-train-data,Data Processing: Generate more positive train data,life2short,,2017-04-05T12:48:37.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,quora-question-pairs
+,,,,,0,naveenk903/quora-question-pairs-with-tf-bert,Quora Question Pairs with tf-BERT,Avatar,,2021-05-07T09:42:13.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,quora-question-pairs
+,,,,,0,defeater/importance-of-a-linguistic-pre-processing,Importance of a Linguistic Pre-processing,Amir,,2017-10-26T13:37:36.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,quora-question-pairs
+,,,,,0,dasolmar/xgb-with-whq-jaccard,XGB with whq jaccard,David Solis,,2017-04-25T10:11:44.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,quora-question-pairs
+,,,,,0,antriksh5235/semantic-similarity-using-wordnet,Semantic Similarity using WordNet,Antriksh Agarwal,,2017-04-20T13:00:51.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,quora-question-pairs
+,,,,,0,artimous/real-data-scientists-train-hard,Real Data Scientists train hard,Soumitra Agarwal,,2017-04-12T23:46:25.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,quora-question-pairs
+,,,,,0,amoyyean/lstm-with-glove,LSTM with GloVe,Castiel Lin,,2019-05-18T16:28:30.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,quora-question-pairs
+,,,,,0,ritvik1909/siamese-network-text-similarity,Siamese Network - Text Similarity,Ritvik Rastogi,,2021-12-18T12:26:13.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,quora-question-pairs
+,,,,,0,chengchengx/logistic-regression-with-term-document-matrix,Logistic Regression with term document matrix,chengchengx,,2017-12-05T21:01:24.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,quora-question-pairs
+,,,,,0,feiranji/choose-best-parameters-for-rf,Choose Best Parameters For RF,(╹◡╹✿),,2017-12-12T21:12:07.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,quora-question-pairs
+,,,,,0,mashavasilenko/applying-countvectorizer-to-logistic-reg-and-rf,Applying CountVectorizer to Logistic reg and RF,Masha,,2017-12-12T02:18:33.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,quora-question-pairs
+,,,,,0,skihikingkevin/magic-feature-v2-krzy-new-idea,Magic feature v2 + krzy new idea,KP,,2017-05-29T02:42:01.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,quora-question-pairs
+,,,,,0,shogosuzuki/what-is-hot-topic-on-quora,What is hot topic on Quora ?,szdr,,2017-03-17T02:22:39.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,quora-question-pairs
+,,,,,0,abhilash1910/clustertransformer-topic-modelling-in-transformers,ClusterTransformer:Topic modelling in Transformers,AbhilashMajumder,,2021-03-20T15:58:16.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,abhilash1910/bertsimilarity-library,BERTSimilarity Library,AbhilashMajumder,,2020-11-27T07:20:24.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,nishankmagoo/predicting-quora-question-pair-with-ml,Predicting Quora Question Pair with ML ,Nishank Magoo,,2018-12-23T06:21:16.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,souravroy/quora-nltk-gensim-doc2vec,Quora |NLTK|Gensim|DOC2VEC,Sourav Roy,,2017-05-27T07:58:05.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,aneeshc/fuzzy-feature-based-classification,Fuzzy feature based classification,Aneesh Chirukandath,,2017-04-05T10:16:49.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,heraldxchaos/adventures-in-scikitlearn-and-nltk,Adventures in ScikitLearn and NLTK,heraldxchaos,,2017-03-27T22:01:23.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,fernandocanteruccio/quoras-question-pairs-modeling-notebook,Quoras Question Pairs Modeling Notebook,Fernando Canteruccio,,2017-04-09T22:43:07.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,quora-question-pairs
+,,,,,0,akashsanjaywagh/quora-question-duplicate,Quora_question_duplicate,AKASH WAGH,,2022-06-07T06:26:14.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,quora-question-pairs
+,,,,,0,mitishaagarwal/quora-duplicate-questions-eda,Quora Duplicate Questions - EDA,Mitisha Agarwal,,2022-01-13T18:16:28.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,quora-question-pairs
+,,,,,0,elemento/quora-questionpairs-modeling,Quora_QuestionPairs: Modeling,Elemento,,2021-10-06T17:41:22.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,quora-question-pairs
+,,,,,0,kardopaska/fast-how-to-abhishek-s-features-w-o-cray-xk7,FAST How to Abhishek's Features w/o Cray XK7,KardoPaska,,2017-05-30T04:32:07.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,quora-question-pairs
+,,,,,0,justfor/edges,edges,Justfor,,2017-05-20T22:11:40.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,quora-question-pairs
+,,,,,0,arbazkhan971/quora-eda-bert,Quora EDA BERT,ask9,,2020-03-12T08:08:41.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,tahahussein/eda-document-similarity-word2vec-modeling,EDA + Document Similarity + Word2Vec + Modeling,Taha Hussein,,2020-03-20T11:21:08.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,qqgeogor/starter-with-triditional-features,starter with triditional features,qianqian,,2019-10-18T08:29:26.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,sidharthkumar/light-gbm-with-whquest,Light GBM with WHQuest,SIDHARTH,,2017-06-02T13:50:00.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,cjansen/quick-and-easy-spacy-lemmatizer,Quick and Easy Spacy Lemmatizer,Charles Jansen,,2017-05-24T23:02:44.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,cpmpml/more-temporal-pattern-in-train-response-rates,More temporal pattern in train response rates?,CPMP,,2017-04-28T15:13:19.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,mikevdickson/are-qid-and-time-related,Are QID and time related?,Mike D,,2017-04-19T07:03:24.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,moritzg/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,mogron,,2017-04-07T00:58:32.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,quora-question-pairs
+,,,,,0,akshat4112/quora-question-pair-similarity-part-2-adv-eda,"Quora Question Pair Similarity Part - 2, Adv. EDA",AkshatGupta,,2022-04-25T11:19:43.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,quora-question-pairs
+,,,,,0,mitishaagarwal/quora-duplicate-questions-model,Quora Duplicate Questions: Model,Mitisha Agarwal,,2022-01-13T11:00:29.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,quora-question-pairs
+,,,,,0,dpipi17/pytorch-and-bert-demetre-pipia,pytorch_and_bert_demetre_pipia,dpipi17,,2020-12-27T14:17:13.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,quora-question-pairs
+,,,,,0,talha1503/quora-question-pairs-bi-lstm-pytorch,Quora_Question_Pairs_Bi-LSTM-Pytorch,Talha Chafekar,,2020-06-15T19:07:30.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,quora-question-pairs
+,,,,,0,fppkaggle/finding-full-duplicates-in-training-set,Finding full duplicates in training set,FPP_UK,,2017-03-21T20:06:37.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,quora-question-pairs
+,,,,,0,datacanary/words-in-common-benchmark,Words in common benchmark,DataCanary,,2017-03-13T20:43:45.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,quora-question-pairs
+,,,,,0,uygarkk/starter-siamese-tensorflow,Starter Siamese Tensorflow,uygarr,,2021-11-17T21:25:15.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,elemento/quora-questionpairs-eda-visualization,Quora_QuestionPairs: EDA & Visualization,Elemento,,2021-10-06T17:42:39.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,creatorghost/quora-question-pair,Quora Question Pair,Aditya Pratap Singh,,2020-09-12T06:05:35.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,panditdandgule/a-detailed-explanation-of-keras-embedding,A Detailed Explanation of Keras Embedding,Pandit Dandgule,,2020-03-07T13:37:21.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,qqgeogor/starter-keras-siamese,starter keras siamese,qianqian,,2019-10-18T05:49:37.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,simpletonwang/dl-hw3,DL HW3,Tianqi Wang,,2019-06-18T04:39:33.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,procode/sif-embeddings-got-69-accuracy,SIF Embeddings Got 69% Accuracy,PoornaPrudhvi,,2017-09-21T11:07:30.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,epattaro/making-more-data,Making more Data,epattaro,,2017-05-07T20:59:18.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,blackbear2017/quick-guide-for-making-0-10112-score-technosphere,Quick guide for making 0.10112 score[Technosphere],Roman Degtyarev,,2017-06-24T11:25:45.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,irenedo/data-analysis-xgboost-starter-0-35460-lb-f072f3,Data Analysis & XGBoost Starter (0.35460 LB f072f3,Iñaki Renedo,,2017-04-30T18:14:06.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,kambarakun/summary-of-dataset,Summary of Dataset,kambarakun,,2017-04-20T13:22:12.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,dmitriyab/pandas-model-no-ml-lb-0-356,Pandas Model (no ML) LB ~0.356,monty ponty,,2017-04-19T07:46:59.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,antriksh5235/doc2vec-starter,Doc2vec Starter,Antriksh Agarwal,,2017-04-19T08:03:02.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,woters/xgb-starter-12357,XGB starter 12357,Roman,,2017-03-22T05:38:40.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,quora-question-pairs
+,,,,,0,dhirendra73/feature-engineering-and-average-word2vec,Feature Engineering and average Word2vec.,Dhirendra Pratap,,2022-05-12T09:16:44.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,gauravharamkar/bert-sentence-transformer-for-text-similarity,BERT_Sentence_Transformer_For_Text_Similarity,Gaurav Haramkar,,2021-05-16T15:17:32.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,ankitnarang/quora-question-pairs-feature-extraction,Quora Question pairs Feature Extraction,Ankit Narang,,2020-09-24T07:27:06.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,revathiprakash/pytorch-starter-kit-quora-question-pair-training,Pytorch Starter kit -Quora Question Pair Training,revathip,,2020-10-23T00:53:31.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,ajax0564/quora-questions-pairs,Quora Questions pairs,Ankit Maurya,,2020-09-04T17:53:36.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,qqgeogor/starter-with-more-features-and-complex-model,starter with more features and complex model,qianqian,,2019-10-18T08:04:45.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,dsaichand3/data-cleaning,Data Cleaning,Saichand,,2019-07-19T05:28:11.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,mohitguptaomg/detecting-similar-queries-task-2,Detecting similar queries Task 2 ,Mohit Gupta,,2019-05-13T04:23:39.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,kazanova/magic-feature-v2-krzy-new-idea,Magic feature v2 + krzy new idea,Μαριος Μιχαηλιδης KazAnova,,2017-05-28T16:03:39.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,tarobxl/magic-feature-v2-0-045-gain,Magic feature v2(0.045 gain),tarobxl,,2017-05-21T10:23:29.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,christofer/word2vec-skipgram-model-with-tensorflow,Word2Vec Skipgram model with  Tensorflow,Christofer Nal,,2017-05-15T12:31:21.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,ksayantani/initial-analysis,Initial analysis,ksayantani,,2017-08-04T13:09:48.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,axelius/quora-is-life,Quora is life,Amil Khare,,2017-04-20T02:57:32.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,tinkleing/feature-test,Feature test,Tinkleing,,2017-04-14T06:07:38.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,aphex34/extensible-end-to-end-solution-with-a-dnn,Extensible end-to-end solution with a DNN,aphex34,,2017-04-03T11:50:57.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,darrellulm/quora-pairs-1st-pass,Quora Pairs - 1st Pass,Darrell Ulm,,2017-05-26T20:05:42.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,golthitarun/quora-question-pairs,Quora question pairs,Tharunn Golthi,,2017-05-02T17:55:26.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,triskelion/an-unusual-informative-feature,An unusual informative feature,Triskelion,,2017-03-24T05:05:00.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,shogosuzuki/how-should-we-tackle-noisy-train-dataset,How should we tackle noisy train dataset ?,szdr,,2017-03-17T17:10:07.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,quora-question-pairs
+,,,,,0,monikachivate/duplicate-question-detection,Duplicate question detection,monika chivate,,2022-03-12T16:13:30.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,scchouhansanjay/quora-question-pair-similarity,Quora Question Pair Similarity,Sanjay Chouhan,,2021-09-03T14:38:31.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,cristianfat/looking-for-my-twin-question-using,Looking for my twin question using 🔥,Daniel Fat,,2020-10-14T20:30:57.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,faizainewelectricity/quora-question-pair-similarity-ipynb,Quora_Question_Pair_Similarity.IPYNB,Faizahmed Momin,,2020-08-28T04:48:46.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,vikashrajluhaniwal/quora-question-pair-similarity-using-dask,Quora question pair similarity using Dask,vikashrajluhaniwal,,2020-10-24T13:51:33.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,saeedtqp/quora-duplicate-questions,Quora Duplicate Questions,Saeed Taghipour,,2019-12-04T01:50:01.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,ananthreddy/only-tf-idf-vectors,Only TF-IDF Vectors,Ananth Reddy,,2018-08-20T11:23:24.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,rupeshgoud/spell-checker-using-word2vec,Spell Checker using Word2vec,Rupesh,,2018-07-22T14:23:07.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,omkarsabnis/quora-duplicate-question-identifier,Quora Duplicate Question Identifier,Omkar Sabnis,,2018-05-23T10:59:29.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,dupsys/1d-cnn-single-model-score-0-14-0-16-or-0-23,"1D CNN (single model score: 0.14, 0.16 or 0.23)",dupsys,,2017-06-09T12:18:36.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,plarmuseau/tfidf-svd-xgboost-needs-32mb,TFIDF > SVD > XGBoost : needs 32Mb,Paul Larmuseau,,2017-05-27T23:05:03.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,pappukrjha/more-than-100-features-0-42-lb,More Than 100 Features - 0.42 LB,Pulkit Jha,,2017-05-23T19:00:46.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,prajitdatta/name-entity-recognition,Name Entity Recognition,Prajit Datta,,2017-05-23T05:36:41.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,plarmuseau/question-exists-testing-script-70-not-found,Question exists testing script 70% not found...,Paul Larmuseau,,2017-05-01T10:05:14.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,tezdhar/temporal-pattern-verified-with-quora-dates,Temporal pattern verified with Quora dates,Mohsin hasan,,2017-04-26T13:53:38.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,tonychanyt/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),TonyChan,,2017-05-12T07:04:35.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,harish5661/quora-random-forest,Quora  Random Forest,HarishSaragadam,,2017-04-27T18:22:18.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,tinkleing/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,Tinkleing,,2017-04-08T13:02:39.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,stansilas/xgb-over-sampling,XGB over sampling,VivekMangipudi,,2017-04-01T08:33:44.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,evashen123/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,Yue Shen,,2017-03-25T13:55:57.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,sowbarani/quora-question-pairs-eda,Quora Question Pairs EDA,Sowbarani Karthikeyan,,2017-04-02T17:53:20.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,premshah/using-word2vec-and-t-sne-for-visualization,Using Word2Vec and t-SNE for visualization ,Premshah,,2017-03-24T17:01:21.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,anujmenta/word2vec-implementation,Word2Vec implementation ,Anuj Menta,,2017-03-20T02:39:18.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,quora-question-pairs
+,,,,,0,pooja42/irs-practical-4,IRS Practical 4,pooja joshi,,2022-04-08T06:32:52.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,saurabhbairagi/quora-question-pair-similarity-prediction,Quora question pair similarity prediction!,Saurabh Bairagi,,2022-04-01T13:00:48.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,yaswanthchunduru/quora-question-pair-similarity,Quora Question Pair Similarity,Yaswanth Chunduru,,2021-07-12T10:23:15.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,huikang/quora-question-pairs-for-information-retrieval,Quora Question Pairs for Information Retrieval,Tong Hui Kang,,2021-08-11T15:52:21.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,ratul6/quora-question-pairs-analysis-using-lstm,Quora Question Pairs Analysis using LSTM,Ratul,,2021-03-29T12:41:13.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,sankarshan7/quora-duplicate-question-pl,quora_duplicate_question_PL,Bob,,2021-01-17T19:31:58.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,utsavdm/quora-question-pairs,Quora Question Pairs,Utsav Mehta,,2021-01-03T15:24:38.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,ghsagar/quora-similarity,Quora Similarity ,ghsagar,,2020-06-29T16:49:59.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,talha1503/qsqp-ml-basicfeatures,QSQP_ML_BasicFeatures,Talha Chafekar,,2020-06-06T08:24:36.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,lineeeooo/project1-quora-question-pairs,project1-quora question pairs,lineeeooo,,2019-11-04T11:59:41.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,benjaminkz/quora-question-pairs-feature-extraction-1,Quora Question Pairs: Feature Extraction 1,Zhu Kai,,2019-06-25T11:44:47.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,ananthreddy/lstm-from-scratch,LSTM From Scratch,Ananth Reddy,,2019-09-03T16:13:11.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,saxinou/fork-of-quora-pair-question-nlp-formation,Fork of Quora Pair Question - NLP Formation2,S.Day,,2018-11-28T15:36:53.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,wx854811200/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Wen Xin,,2018-06-16T15:54:00.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,navdeeppal/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Navdeep Pal,,2017-09-17T06:18:42.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,amitgodbole/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",AmitGodbole,,2017-07-29T19:18:32.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,akilaw/light-gbm,Light GBM,Akila Wajirasena,,2017-06-06T21:57:30.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,anokas/more-in-depth-temporal-pattern-analysis,More in-depth temporal pattern analysis,anokas,,2017-06-06T15:05:04.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,kardopaska/get-kaggle-versions-of-csvs,Get Kaggle versions of csvs,KardoPaska,,2017-06-06T05:41:14.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,gsmafra/string-based-k-core-magic-features,String-based k-core magic features,Gustavo,,2017-05-29T02:33:12.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,dmikrav/quora-sol,quora sol,Dima K.,,2017-05-25T12:04:42.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,plarmuseau/bi-jaccard-jaro-winkler,bi-jaccard   jaro-winkler ,Paul Larmuseau,,2017-05-18T23:38:10.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,plarmuseau/finding-most-similar-questions,finding most similar questions,Paul Larmuseau,,2017-05-09T08:12:35.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,axelius/blehhhh,blehhhh,Amil Khare,,2017-04-30T13:19:08.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,chinta/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End GDA,Chinta,,2017-04-28T17:38:24.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,rdizzl3/notebook75ea611046,Notebook75ea611046,RDizzl3,,2017-04-24T21:52:35.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,ranlocar/xgb-with-whq-jaccard,XGB with whq jaccard,Ran Locar,,2017-05-19T07:04:31.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,plarmuseau/pure-tfidf-model-score-lb0-5-binary-answer-lb-11,Pure TFIDF model score LB0.5 binary answer LB 11 ?,Paul Larmuseau,,2017-05-02T19:52:56.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,darrellulm/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",Darrell Ulm,,2017-05-26T20:10:11.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,gian12/notebook52fafcda73,Notebook52fafcda73,Gian12,,2017-04-18T09:58:08.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,plarmuseau/semantic-similarity-for-short-sentences,Semantic similarity for short sentences,Paul Larmuseau,,2017-04-16T17:34:15.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,njuluke/an-ensemble-approach-cnn-and-timedistributed,An Ensemble Approach (CNN and TimeDistributed),nju_hyhb,,2017-04-11T06:20:29.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,ratnesh88/quora-precdictions,Quora precdictions,Ratnesh Kushwaha,,2017-04-26T04:14:00.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,sergiigolovko/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Sergii Golovko,,2017-04-01T16:08:41.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,salkaa/ajsjsjsjs,Ajsjsjsjs,Sasho Nedelkoski,,2017-04-01T10:36:07.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,ogrellier/notebook9d87e49015,Notebook9d87e49015,olivier,,2017-03-31T09:03:42.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,wenliangtlh/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,wenliangtlh,,2017-03-28T07:57:15.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,evashen123/clean-your-questions,clean your questions,Yue Shen,,2017-03-26T14:56:04.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,alwaysr9/zfz-first,zfz_first,wugui,,2017-04-22T03:41:43.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,eliotbarr/vizualizing,Vizualizing,Eliot Barril,,2017-06-15T22:32:48.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,anokas/test123,test123,anokas,,2017-03-19T20:11:42.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,chengju/data-analysis-xgboost-starter-0-35460-lb-12d8b0,Data Analysis & XGBoost Starter (0.35460 LB 12d8b0,Cheng,,2018-02-09T05:53:08.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,srsasank/fuzzy-search-algorithm-lb-0-472380,Fuzzy Search Algorithm (LB :0.472380),Sarath Sasank,,2017-03-18T08:49:39.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,edoarad/can-i-rename-the-title-later,Can i rename the title later?,Edo Arad,,2017-04-22T02:48:55.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,quora-question-pairs
+,,,,,0,gauravkumar008/quora-question-pairing,quora_question_pairing,Gaurav Kumar,,2022-06-19T17:14:51.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,shailshah611/irs-prac-4,IRS Prac-4,Shail Shah,,2022-05-05T18:55:53.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,hoonchulshin/quora-modeling-project,Quora modeling project,hoonchul Shin,,2021-10-25T08:33:57.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,abhibisht89/quora-questions-similarity-using-sbert,Quora Questions Similarity using SBERT,Atom,,2021-09-20T11:31:57.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huikang/ir-project-supervised-model-data-preparation,ir-project-supervised-model-data-preparation,Tong Hui Kang,,2021-07-27T03:06:18.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huikang/ir-project-download-keyed-vectors,ir-project-download-keyed-vectors,Tong Hui Kang,,2021-07-15T10:13:32.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huikang/quora-question-pair-competition-tfidf,quora-question-pair-competition-tfidf,Tong Hui Kang,,2021-06-28T07:50:38.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huikang/quora-question-pair-competition-attempt,quora-question-pair-competition-attempt,Tong Hui Kang,,2021-07-05T03:34:09.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huikang/quora-question-pairs-bert-sentence-vectors,quora-question-pairs-bert-sentence-vectors,Tong Hui Kang,,2021-06-17T14:32:07.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huikang/quora-question-pair-dataset-visualisation,quora-question-pair-dataset-visualisation,Tong Hui Kang,,2021-08-03T20:44:12.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,frankhillard/notebook26c807bb5c,notebook26c807bb5c,Frank Hillard,,2021-04-14T13:06:59.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sandeepr2111/question-duplicates,Question_duplicates,sandeepr2111,,2021-03-20T10:32:43.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,praveen525/quora-question-pair-similarity,Quora Question Pair Similarity,praveen,,2021-02-24T12:16:42.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,amanmiglani12/quora-question-pair,Quora Question Pair  ,AMANMIGLANI12,,2021-03-04T08:15:37.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,taaniyaarora/eda-with-bert-sentence-embedding,EDA with BERT Sentence Embedding,Taaniya Arora,,2021-02-22T12:56:14.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sankarshan7/quora-duplicate-question,quora_duplicate_question,Bob,,2021-01-17T19:30:45.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,tailender/semantic-textual-similarity-quora-question-pairs,Semantic Textual Similarity - Quora Question Pairs,Rajesh B,,2021-01-10T19:08:14.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sourabh219/quoraqpairsimilarity,QuoraQPairSimilarity 🗒️,Sourabh Ghorpade,,2020-07-01T20:53:03.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,gneshkaggle/lstm-on-question-sequences,LSTM on question sequences,ganesh,,2020-06-27T10:19:19.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,palakurthianirudh/quora-question-pair-similarity,Quora Question pair similarity,palakurthi anirudh,,2019-12-12T10:46:51.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,arifali77/text-cleaning-in-nlp,Text Cleaning In NLP,Arif Ali Khan,,2019-11-13T10:32:52.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,tjut5547/load-glove-300,load_glove_300,tjut5547,,2019-11-04T17:32:00.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,zuyaukun/xgboost-quora-question-pairs-1data-clean,XGBoost Quora Question Pairs-1data_clean,yukun zu,,2019-10-17T12:35:03.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,manohar676/word2vector-in-spell-checker,  Word2vector In Spell Checker ,Manohar Reddy,,2019-08-28T14:38:50.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,benjaminkz/quora-question-pairs-feature-extraction-2,Quora Question Pairs: Feature Extraction 2,Zhu Kai,,2019-06-24T10:44:16.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,mashavasilenko/quora-questions-pairs-hw3,quora_questions_pairs_hw3,Masha,,2019-06-22T22:13:07.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,munavar/word2vec-model-training,Word2Vec Model Training,Munavar,,2019-06-24T16:05:45.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,turing228/embedding-with-the-preprocessing,Embedding with the preprocessing ,Nikita Lisovetin,,2019-05-30T20:24:34.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,turing228/different-embeddings-10-epochs-final,Different Embeddings 10 epochs final,Nikita Lisovetin,,2019-05-30T23:41:21.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,mohitguptaomg/detecting-similar-queries-task-1,Detecting Similar Queries Task 1,Mohit Gupta,,2019-05-13T04:54:28.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,mormukut/quora-question-pair-project,Quora Question Pair Project,Mormukutchaudhary,,2019-04-14T17:49:51.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,econdata/quora-question-pairs,Quora Question Pairs,piAI,,2019-01-24T12:18:28.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,montygupta/logistic-regression,Logistic Regression,Sumit Gupta,,2018-12-23T15:05:54.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,muhammedfathi/quora-identifying-duplicate-questions,Quora Identifying Duplicate Questions,Toofan,,2018-10-25T15:47:09.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,lakhindr/logistic-regression-quora-question-pairs,Logistic Regression: Quora Question Pairs..,lakhindr,,2018-05-22T17:23:38.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,aniruddhakalkar/quora-question-pair,Quora Question Pair,Aniruddha Kalkar,,2018-05-16T19:16:57.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,cswtoby/kernele4c0c2d541,Kernele4c0c2d541,csw_toby,,2018-04-17T05:21:35.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,nguyenchinhbk/cnn-sentence-pair,CNN sentence Pair,meobeocodon,,2018-04-09T14:07:38.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,jihyeseo/visualizing-word-vectors-with-t-sne,Visualizing Word Vectors with t-SNE,Jihye Sofia Seo,,2018-01-22T15:16:22.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,prashant10/simplexgb,SimpleXgb,PrashantPandey,,2018-01-12T11:36:35.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,ayanmaity/quora-similarity-test,Quora Similarity test,AYAN MAITY,,2017-12-10T04:38:28.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,plarmuseau/tempbook,tempbook,Paul Larmuseau,,2017-06-06T23:27:54.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,kardopaska/what-is-leaky,What is leaky?,KardoPaska,,2017-05-31T01:59:08.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,kardopaska/fast-gensim-word2vec-w-googlenews,FAST Gensim Word2Vec w/GoogleNews,KardoPaska,,2017-05-30T04:07:53.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,weikunwang/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",WeikunWang,,2017-05-29T10:08:33.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,hermetist/magic-feature-v2-krzy-new-idea,Magic feature v2 + krzy new idea,Hermetist,,2017-05-28T15:56:41.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,wantedfails/shallow-benchmark-0-31675-lb-1c2a7e,Shallow Benchmark (0.31675 LB) 1c2a7e,Wanggcong,,2017-05-26T08:56:33.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,dmikrav/quora-solution,quora solution,Dima K.,,2017-05-24T18:24:46.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,zhenghuangcheng/quora-my-first-competition-nltk-gensim-doc2vec,Quora |My First Competition|NLTK|Gensim|DOC2VEC,hczheng,,2017-05-23T13:13:30.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sonnguyen1995/quora-my-first-competition-nltk-gensim-doc2vec,Quora |My First Competition|NLTK|Gensim|DOC2VEC,SơnNguyễn,,2017-05-22T03:46:12.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,republic966/trail32,trail32,Ahmed Mostafa,,2017-07-21T20:58:24.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,shikharpathak/initial-analysis,Initial analysis,Shikhar Pathak,,2017-05-21T10:25:51.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sauravkaushik8/xgb-ji,XGB-JI,SauravKaushik8,,2017-05-21T07:02:30.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,gyat2017/different-location-questions,Different Location Questions,Gyat,,2017-05-19T14:50:54.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,oskarvdb/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),oskarvdb,,2017-05-15T08:54:48.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,stayken04/data-analysis-xgboost-starter-0-35460-lb-8e6f1c,Data Analysis & XGBoost Starter (0.35460 LB 8e6f1c,Kenneth,,2017-05-14T14:11:43.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,cjansen/xgb-with-whq-jaccard,XGB with whq jaccard,Charles Jansen,,2017-05-13T16:21:13.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,fupeng/notebook02af70c7fc,Notebook02af70c7fc,menc,,2017-05-28T15:55:32.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sannikowaa/artyom-sannikow-techosphere,Artyom Sannikow()[Techosphere],Sannikow,,2017-06-27T16:42:06.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,lanwu1994/meiyong,meiyong,lanwu1994,,2017-05-10T15:21:03.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,vadimpilyugin/notebook5fc2292354,Notebook5fc2292354,Vadim Pilyugin,,2017-05-09T11:55:38.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,terryli/my-notebook,My Notebook,Terry Li,,2017-05-09T19:53:06.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,temkahap/khapkinartem-technosphere,KhapkinArtem[Technosphere],temkahap ,,2017-05-07T18:57:33.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,asimandia/just-cos,Just cos,Pizzaboi,,2017-05-07T19:42:47.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,iluzin/hw4-luzin,hw4_luzin,Igor Luzin,,2017-05-12T15:08:02.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,derryfseiei/fseiei,FSeiei,derryFSeiei,,2017-05-06T12:39:45.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,cjansen/magic-features-0-03-gain,Magic Features (0.03 gain),Charles Jansen,,2017-05-04T22:02:29.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,aprooks/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Alexander Prooks,,2017-05-01T23:06:00.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,nkhuyu/test-system-information,Test System Information,nkhuyu,,2017-04-30T05:01:09.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,techaware/quora-1,quora-1,Rahul Aware,,2017-05-02T15:43:02.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,amansrivastava/find-similarity-using-xgboost-model,Find similarity using XGBoost Model,AmanSrivastava,,2017-04-26T12:25:21.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,alexasp/simple-exploration-notebook-quora-ques-pair,Simple Exploration Notebook - Quora Ques Pair,Alexander Asplund,,2017-04-27T08:52:02.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,shlomis/pos-tagging,POS Tagging,ShlomiSchwartz,,2017-04-25T12:48:09.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,ragaravali/lda-to-find-the-similarity,LDA to find the similarity,Ragam,,2017-04-30T00:08:30.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,bobbyholder/finding-features-for-the-quora-competition,Finding Features for the Quora Competition,BobbyHolder,,2017-04-25T07:02:21.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,abdellahm/notebookfc4f7a0699,Notebookfc4f7a0699,Abdellah EL MEKKI,,2017-11-17T18:55:39.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,huahuajhu/notebook6d1c713410,Notebook6d1c713410,Hua Ye,,2017-04-21T17:05:04.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,vchezganov/mysteststs,mysteststs,vc,,2017-04-19T14:20:15.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,nasuka/notebookd2a9ca35c5,Notebookd2a9ca35c5,NSK,,2017-04-18T08:30:19.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,ranlocar/xgb-with-whq,XGB with whq,Ran Locar,,2017-04-17T06:52:45.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,laknath/notebooke72cd52584,Notebooke72cd52584,Laknath,,2017-04-16T10:08:53.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,wzhwwhy/quora-challenge,Quora Challenge,ZackWang,,2017-04-18T06:18:54.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,djd0902/quora-duplicate-questions,Quora Duplicate Questions,bolt,,2017-04-14T09:15:13.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,himanshusinha/simple-exploration-notebook-quora-ques-pair,Simple Exploration Notebook - Quora Ques Pair,HS,,2017-04-13T15:24:26.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,zhihang/an-ensemble-approach-cnn-and-timedistributed,An Ensemble Approach (CNN and TimeDistributed),Canoe,,2017-04-12T07:45:50.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,monkshow/quora-quaestio-pairs-lemmatization,Quora quaestio pairs (Lemmatization),Román de las Heras,,2017-04-10T22:15:32.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,obknik/matching-que-for-quora-end-to-end-0-337-18e5c4,Matching ¿Que? for Quora - End to End 0.337 18e5c4,ObkNik,,2017-04-09T16:54:12.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,zhuangh/embedding-qpairs,embedding_qpairs,zhuangh,,2017-04-09T05:22:49.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,flpxiao/trying-for-fun,Trying for Fun,Philip Xiao,,2017-04-10T02:00:39.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,znmean/xgb-starter-12357,XGB starter 12357,znmean,,2017-04-08T05:02:18.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,jwegas/an-interesting-solution-90-accuracy,An interesting solution: 90% accuracy,Evgenii Zhukov,,2017-04-07T15:15:41.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,debo12/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",blink,,2017-04-03T04:04:53.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,ukarda/fork-of-quora-question,Fork of Quora_question,Uddesh Karda,,2017-04-09T12:21:39.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,darrellulm/quora-test-run-2,Quora Test Run 2,Darrell Ulm,,2017-03-30T23:49:02.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,darrellulm/quora-interactive-eda-test-run,Quora Interactive EDA Test Run,Darrell Ulm,,2017-04-05T22:57:22.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,bschen/notebook2f75f80cc2,Notebook2f75f80cc2,bschen,,2017-03-30T12:32:01.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,gbarnow/quora-interactive-eda,Quora Interactive EDA,gbarnow,,2017-03-28T13:06:40.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,apjansing/gensim-word2vec-distance-predictions,Gensim Word2Vec distance predictions,Alexander Jansing,,2017-03-31T02:01:08.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,hongbo/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Hongbo Zhang,,2017-03-29T23:16:50.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,stansilas/notebook89da559433,Notebook89da559433,VivekMangipudi,,2017-03-27T22:15:15.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,artimous/real-data-scientists-don-t-need-training-data,Real Data Scientists don't need training data,Soumitra Agarwal,,2017-03-28T16:49:39.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,benkite/sequence-matching-of-questions,Sequence matching of questions,Ben Kite,,2017-03-27T17:42:08.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,yukatherin/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,Katherin Yu,,2017-03-27T05:20:46.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,eliotbarr/quora-vizualization,Quora Vizualization,Eliot Barril,,2017-03-27T15:06:55.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,premshah/fork-of-using-word2vec-and-t-sne-for-visualization,Fork of Using Word2Vec and t-SNE for visualization,Premshah,,2017-03-25T15:22:35.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,triskelion/moving-average-on-the-target,Moving average on the target,Triskelion,,2017-03-24T05:40:18.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,nostradamuslv/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,nostradamuslv,,2017-03-23T20:23:39.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,manueldiaz/simple-linear-model-with-tfidf,Simple Linear Model with TFIDF,Manuel Díaz,,2017-03-24T08:35:35.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,evashen123/data-analysis-xgboost-starter-0-35460-lb-4a4ebd,Data Analysis & XGBoost Starter (0.35460 LB 4a4ebd,Yue Shen,,2017-03-25T13:44:26.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,kevinbonnes/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,Kevin,,2017-03-23T09:52:22.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,nopium/matching-que-for-quora-end-to-end-0-337-ca7e55,Matching ¿Que? for Quora - End to End 0.337 ca7e55,nopium,,2017-03-23T09:28:40.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,nopium/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,nopium,,2017-03-23T09:02:35.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,jwegas/my-eda-20172303,my_EDA_20172303,Evgenii Zhukov,,2017-03-30T07:43:01.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,yulike/eda-interesting-features-pipeline,"EDA, Interesting Features & Pipeline",XYG,,2017-05-09T20:58:33.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,karimamer/matching-que-for-quora-end-to-end-calibrated,Matching ¿Que? for Quora - End to End - Calibrated,KarimAmer,,2017-03-22T15:21:37.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,animeshdevarshi/ad-quora-question-pairs,AD_Quora_Question_Pairs,AD,,2017-03-28T18:13:08.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,wedoslaw/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,Ivan Kosolapov,,2017-03-22T07:21:23.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,tabulation/matching-que-for-quora-end-to-end-0-33719-pb,Matching ¿Que? for Quora - End to End 0.33719 PB,tabulation,,2017-03-22T06:41:16.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,rishisankineni/quora-interactive-eda,Quora interactive EDA,Rishi Sankineni,,2017-03-21T19:36:09.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,evashen123/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Yue Shen,,2017-03-21T15:24:20.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,jay960702/visualizing-word-vectors-with-t-sne,Visualizing Word Vectors with t-SNE,Zichen_Wang,,2017-03-20T08:47:45.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,mttzju/001notebook-erin,001Notebook-Erin,ErinMao,,2017-03-20T14:00:10.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,antriksh5235/quora-dataset,Quora Dataset,Antriksh Agarwal,,2017-03-22T20:24:42.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,egolinko/cosine-distance,Cosine Distance,Eric G,,2017-03-25T15:26:15.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,gweijie/data-analysis-xgboost-first-try,Data Analysis & XGBoost First try,Erik Gao,,2017-03-19T04:55:07.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,giranntu/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Ryan,,2017-03-20T22:15:27.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,mikell/012345,012345,insist,,2017-03-18T10:12:42.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,vbandaru/notebook64c09e143e,Notebook64c09e143e,SeaGoat,,2017-03-18T02:26:19.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,fireblade/notebookd17892bc3c,Notebookd17892bc3c,fireblade,,2017-03-18T02:12:46.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,tilakd/exploration-using-word2vec-and-tsne,Exploration using word2vec and tsne,Tilak,,2017-04-05T07:06:49.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,frankchen0130/exploring-data,Exploring Data ,江南消夏,,2017-03-17T17:33:33.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,plantsgo/notebook10b56a73e6,Notebook10b56a73e6,plantsgo,,2017-03-17T12:44:53.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sionek/word-match-2,Word Match 2,Grzegorz Sionkowski,,2017-03-17T08:36:31.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,paulorzp/wordmatchminlogloss,WordMatchMinLogLoss,Paulo Pinto,,2017-03-18T00:53:28.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,sionek/first6,First6,Grzegorz Sionkowski,,2017-03-17T00:20:41.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,quora-question-pairs
+,,,,,0,peterpansec/peter-baseline2-0,Peter Baseline2.0,Peter_Pan_sec,,2022-05-10T13:19:15.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,peterpansec/peter-baseline,Peter Baseline,Peter_Pan_sec,,2022-05-06T05:49:14.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,moonlightcc/notebookd063f90e2f,notebookd063f90e2f,Moonlightcc,,2022-04-13T13:58:10.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aayush349/practical4-irs-19bce245,Practical4-IRS-19BCE245,Aayush Shah,,2022-04-08T05:10:36.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mustafa21/data-cleaning,Data cleaning ,Mustafa,,2022-04-06T07:29:48.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jeeltttt/19bce283-irs4,19BCE283_IRS4,Jeeltttt,,2022-03-25T04:49:22.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,arkpatel/irs-prac-3,IRS Prac-3,ARK PATEL,,2022-03-13T16:19:26.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,veerpalsingh/quora-question-pair-final,Quora Question Pair Final,VEER PAL SINGH,,2022-03-12T16:34:28.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prnshv/19bce060-irs-q,19BCE060_IRS_Q,prnshv,,2022-03-10T04:58:41.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,fernandobordi/fb-visualizaci-n-de-vectores-de-palabras-con-t-sne,FB-Visualización de vectores de palabras con t-SNE,Fernando-Bordignon,,2022-01-27T22:01:04.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,palash97/glove-lstm-pytorch,Glove+LSTM+PyTorch,Palash Kamble,,2022-01-09T02:51:29.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aravinthbosem/quora-similarity-find,quora_similarity_find,Aravinth Bose M,,2022-01-14T06:32:13.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prashanthsaiboyina/smai-project,SMAI Project,Prashanth sai Boyina,,2021-12-06T18:01:20.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anikaitgupta3/notebook2e226172a6,notebook2e226172a6,Anikait Gupta,,2021-11-26T17:02:30.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ahnsehun/siasmese-nlp-qpairs,siasmese NLP Qpairs ,Ahnsehun,,2021-10-25T17:10:28.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,fsalerno4/text-analytics-project,Text_analytics_project,fsalerno,,2021-10-28T16:13:10.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,withmaster/quora-questionpairs,Quora_QuestionPairs,SteveLee,,2021-10-25T17:17:05.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zenanhu/get-started-with-xgboost,Get Started with XGBoost,zenanhu,,2021-10-21T18:57:49.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anunnikrishnan/siasmese-nlp-qpairs,siasmese NLP Qpairs ,Abilash Nair,,2021-10-08T11:48:25.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,raryan/quora-text-similarity-using-bert,Quora-text-similarity-using-BERT,R-aryan,,2021-09-21T16:53:50.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,manasa0634/quora-project,Quora-Project,manasa_0634,,2021-09-03T16:08:52.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dummybug/quora-questions-similarity,Quora Questions Similarity,Dummy_Bug,,2021-09-09T20:12:20.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kwtzaugust/quora-question-pairs-tokenise-pipeline,quora-question-pairs-tokenise-pipeline,Noel Ku,,2021-07-14T07:41:31.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kwtzaugust/boolean-ir-model-r-precision,boolean-ir-model | R precision,Noel Ku,,2021-06-15T04:02:43.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,girijeshcse/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Girijesh Prasad,,2021-05-09T05:24:14.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,christellebe/notebook6fa344f883-2ece05,notebook6fa344f883 2ece05,Christelle Be,,2021-04-14T20:07:35.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,christellebe/christelle-notebook91a422fd79,Christelle_notebook91a422fd79,Christelle Be,,2021-04-14T12:16:58.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,antoinebay/notebook6fa344f883,notebook6fa344f883,AntoineBAY,,2021-04-14T12:25:27.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sam9905/fuzzy-feature-based-classification,Fuzzy feature based classification,SAMY,,2021-04-08T04:12:22.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,debasisdotcom/quora-question-pair-using-glove-and-lstm,Quora Question Pair using Glove and LSTM,Debasis Samal,,2021-04-30T14:15:53.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gariscat/quora-question-pairs-test,Quora Question Pairs (test),Gariscat,,2021-03-11T07:18:20.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,siddharthcv77/intent-redundancy-using-sbert,Intent Redundancy Using Sbert,Siddharth Cv,,2021-05-30T09:01:37.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sanjayv007/quora-question-pair-analysis,Quora_Question_Pair_Analysis,Sanjay V,,2021-02-22T04:07:34.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,keshavramaiah/intent-redundancy-using-sbert,Intent Redundancy Using Sbert,Keshav Ramaiah,,2021-02-09T14:06:10.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rachelyang49/sbert-finetuning-on-quora,sbert finetuning on Quora,Rachel Yang,,2021-01-08T15:05:11.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,samarthagarwal23/sbert-finetuning-on-quora,sbert finetuning on Quora,Samarth Agarwal,,2020-12-10T02:43:53.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pallavi6256/quora-tpot,Quora-TPOT,Pallavi_6256,,2020-10-22T12:45:14.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chroniccode/final-quora,final_quora,SAHIL SHARMA,,2021-01-14T11:31:15.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,christianhritter/minhashlsh,MinHashLSH,Christian Ritter,,2020-10-14T13:11:23.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sarpal465/quora-nlp,Quora_nlp,Rajendra Sarpal,,2022-04-21T15:22:40.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ddliky/malstm-with-word2vec,MaLSTM with word2vec,Ding,,2020-06-17T02:04:27.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chandra03/a-detailed-explanation-of-keras-embedding-layer,A Detailed Explanation of Keras Embedding Layer,Chandra Teja Reddy,,2020-05-14T06:26:56.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anupriyo/quora-duplicate-questions-classification,Quora duplicate questions classification,anupriyo,,2020-05-08T18:06:25.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ansonshiu/data-exploration-quora-question,Data_Exploration_Quora_Question,Anson Shiu,,2020-03-14T06:34:12.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anujshr15/quora-pair-similarity,Quora Pair Similarity,Anuj Shrivastav,,2020-02-25T10:59:14.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anudeepatyam/major-project-lstm,major project LSTM,AnudeepAtyam,,2020-06-04T18:05:34.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gadaadhaarigeek/simple-eda-to-start-with,Simple EDA to Start With,GadaaDhaariGeek,,2019-12-19T19:32:05.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gadaadhaarigeek/feature-engg-fuzzy-features-word2vec,"Feature Engg., Fuzzy Features, Word2Vec",GadaaDhaariGeek,,2019-12-20T11:30:54.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,deepankar009/kernel54a4ab3f62,kernel54a4ab3f62,DeepankarGupta,,2019-11-24T08:18:42.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,charleschou/kaggle-day-charleschou,[kaggle day] charleschou,charleschou,,2019-10-20T07:25:51.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ouadio/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),0uadi0,,2019-09-28T20:24:58.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ouadio/simple-exploration-notebook-quora,Simple Exploration Notebook - Quora,0uadi0,,2019-09-28T20:11:50.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,eddididi/neural-net-quora-question,Neural Net_Quora Question,EdDiDi,,2019-07-18T23:50:28.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kunalchamoli/quora-questions-pairs,Quora Questions Pairs,Kunal Chamoli,,2019-07-13T14:35:56.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benjaminkz/quora-question-pairs-data-cleaning,Quora Question Pairs: Data Cleaning,Zhu Kai,,2019-06-25T13:48:55.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dummydevacc/character-level-cnn-classification-with-dilations,Character-level CNN Classification with Dilations,Venkatraman A,,2019-06-20T04:43:53.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vendredi218/estimate-distribution-of-data-in-lb,Estimate distribution of data in LB?,Wei Wei,,2019-06-15T18:09:26.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,munavar/visualizing-word-vectors-with-t-sne,Visualizing Word Vectors with t-SNE,Munavar,,2019-06-23T08:57:29.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,smartsinovich/vk-2-core-ml,VK-2 Core ML,Sophia Martsinovich,,2019-05-29T21:37:16.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mohitguptaomg/fuzzy-features-task-4,Fuzzy Features Task 4,Mohit Gupta,,2019-05-13T04:39:24.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rishickesh/quora,Quora ,Rishi99,,2019-03-24T06:01:53.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mohitguptaomg/similar-queries-task-3,Similar Queries Task 3,Mohit Gupta,,2019-03-14T19:56:19.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jayaprakashnayak/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Adarsh,,2019-02-20T09:20:25.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bharatsingh213/quora-question-pairs-bharat,Quora Question Pairs- Bharat,Bharat Singh,,2019-03-17T15:39:08.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,econdata/quora-question-pairs-2,Quora Question Pairs 2,piAI,,2019-01-24T10:59:01.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sahilbansal28/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model Selection (ROC, PR Plots)",Sahil Bansal,,2019-01-07T06:57:42.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,leekltw1/quora-question-pairs,Quora Question Pairs,KunLin Lee,,2019-02-16T14:19:49.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,karan95v/checking-multiple-questions,Checking multiple Questions,Karan95verma,,2019-01-02T19:29:58.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,summit0204/quora-question-papers,Quora Question Papers,summit0204,,2018-12-21T09:09:14.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pronkinnikita/tinkoff,Tinkoff,Pronkin Nikita,,2018-11-29T13:50:23.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dineshramasamy/gru-similarity-network,[GRU] Similarity network,Dinesh,,2018-11-26T16:20:41.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prappk19/question-similarity-using-lstm-embedding-bd119d,Question Similarity using LSTM Embedding bd119d,PrapPK,,2018-12-01T15:31:27.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rana220119/kernelfee8c6b116,kernelfee8c6b116,Satish Rana,,2018-10-30T12:36:11.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jessthejay/data-analysis-xgboost-starter-0-35460-lb-2578f5,Data Analysis & XGBoost Starter (0.35460 LB 2578f5,jessica_butcher,,2018-11-30T20:57:04.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,krishmahajan/quora-duplicate-questions-final,Quora Duplicate Questions : Final ,Krish Mahajan,,2018-07-09T01:36:33.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,levitoh/question-similarity,Question Similarity,Cesar Flores,,2019-11-21T21:11:39.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sathyz/cnn-w-glove-lb-score-0-39,CNN w/ Glove,Satheesh Kumar Mohan,,2018-06-05T17:06:05.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jihyeseo/quora-eda-nlp-2class,quora eda nlp 2class,Jihye Sofia Seo,,2018-05-08T13:44:06.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mdumair1/lstm-notebook,LSTM_notebook,Umair,,2018-03-31T20:42:43.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mdumair1/preprocessing-final,PreProcessing_FINAL,Umair,,2018-03-30T15:11:38.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,javpaw/exploratory-data-analysis-quora-questions-pairs,Exploratory Data Analysis Quora Questions Pairs.,javpaw,,2018-03-06T07:29:07.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,javpaw/quora-question-pairs-benchmark,Quora Question Pairs - Benchmark,javpaw,,2018-03-04T17:15:43.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jiexus/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Wenji,,2018-01-03T00:59:42.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,codebreaker1/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),IsmailKiron,,2017-11-15T20:58:06.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rajeshmanikka/notebook703a148078,Notebook703a148078,Rajesh Manikka,,2017-11-06T06:15:42.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mayday1992/data-analysis-xgboost-starter-0-35460-lb-78b6e9,Data Analysis & XGBoost Starter (0.35460 LB 78b6e9,Mayday,,2017-08-28T17:16:36.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mayday1992/data-analysis-xgboost-starter-0-35460-lb-39c5f9,Data Analysis & XGBoost Starter (0.35460 LB 39c5f9,Mayday,,2017-08-28T16:57:01.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rajkiran/quora-question-pairs-feature-extraction,Quora Question Pairs Feature Extraction,Venkata Raj Kiran Kollimarla,,2017-08-16T23:45:05.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,snellp/similarity-is-not-a-substitute-for-semantics,Similarity Is Not a Substitute For Semantics,snellp,,2017-08-01T12:05:01.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,balakesavan/nltk-library-for-common-word-and-tfidf-scores,NLTK library for common-word and TFIDF scores ,BalakrishnaSKesavan,,2017-07-07T02:24:21.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,uburuntu/quora-6,Quora 6,Ramzan Bekbulatov,,2017-07-01T18:10:46.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sakares/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,Sakares Saengkaew,,2017-07-01T11:07:02.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,niking/first-competition-feature-analysis,First competition- feature analysis,Nik King,,2017-06-28T21:57:45.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zhangjb/simple-leaky-exploration-notebook-quora,Simple Leaky Exploration Notebook - Quora,sword_pen,,2017-06-16T09:26:49.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,liuxiao1028/dl-models,DL models,Tree Diagram,,2017-06-13T01:28:40.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jiongcheng/quoramatch,quoraMatch,RogerLuo,,2017-06-12T19:09:55.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,muthusengolan/notebookf1a29b5b3a,Notebookf1a29b5b3a,muthu,,2017-06-09T18:41:55.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iamprakashom/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Om Prakash,,2017-06-09T10:16:30.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,timlincool/test-kaggle-quora-solution-8th,test kaggle quora solution 8th,tempo,,2017-06-09T04:45:00.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mariobo/bbk-quora-kernel,BBK Quora Kernel,Mario Bošnjak,,2017-06-24T09:35:20.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,janviparikh/test1,test1,Janvi Parikh,,2017-06-08T07:24:47.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,andreykapelushnikov/notebooka4a26d96bd,Notebooka4a26d96bd,Andrey_Kap,,2017-06-07T20:26:02.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,abcdef123456/notebookb8926b89d3,Notebookb8926b89d3,IShajo,,2017-06-07T08:39:30.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,popyy0101/test-kernel,test kernel,Yang Yu,,2017-06-07T05:39:32.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vishwajeet993511/quora-duplicate-questions,quora duplicate questions,vishwajeet,,2017-07-23T15:10:52.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ksayantani/quora-eda,Quora EDA,ksayantani,,2017-06-06T18:39:16.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ksayantani/data-analysis,Data Analysis,ksayantani,,2017-06-06T18:36:12.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skthedataguy/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Buzz,,2017-06-06T18:28:26.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,viveks716/data-analysis-xgboost-starter-0-35460-lb-33f4e0,Data Analysis & XGBoost Starter (0.35460 LB 33f4e0,Vivek,,2017-06-06T17:59:46.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ming2242/notebook50027293f7,Notebook50027293f7,mingH,,2017-06-09T05:58:03.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nthakor/notebookbba1bd23fe,Notebookbba1bd23fe,Nilay Thakor,,2017-06-06T07:44:09.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zgyf2x/notebook7b66b14c76,Notebook7b66b14c76,SMZYJCG,,2017-06-06T08:04:13.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,boberm/test-kernel,Test Kernel,Mirek Bober,,2017-06-05T21:56:26.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wernerchao/notebooke4ebc8656b,Notebooke4ebc8656b,wernerchao,,2017-06-05T22:42:26.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aggounix/keras-model-with-glove-dataset,Keras Model with Glove dataset,aggounix,,2017-06-06T23:03:39.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,callmegoodwin/different-location-questions-032524,Different Location Questions 032524,heyhey,,2017-06-05T14:06:58.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,svesal/testtt,testtt,Aramis,,2017-06-05T13:51:29.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wenliangtlh/different-location-questions-cc699f,Different Location Questions cc699f,wenliangtlh,,2017-06-05T13:32:47.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wenliangtlh/different-location-questions-44422e,Different Location Questions 44422e,wenliangtlh,,2017-06-05T13:53:54.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wenliangtlh/different-location-questions,Different Location Questions,wenliangtlh,,2017-06-05T13:11:25.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ilivans/fork-of-data-analysis-xgboost-starter-0-35460-l,Fork of Data Analysis & XGBoost Starter (0.35460 L,Ilya Ivanov,,2017-06-05T21:38:46.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,greg9382/notebookb540a624bb,Notebookb540a624bb,Greg Johnston,,2017-06-05T03:17:34.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vishwajeet993511/quora-duplicate-pairs,quora duplicate pairs,vishwajeet,,2017-06-05T03:04:32.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lorenzoarossi/fuzzy-features,Fuzzy Features,Lorenzo A. Rossi,,2017-06-05T19:38:16.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elliottyan/notebooke99d6de61e,Notebooke99d6de61e,Elliott Yan,,2017-06-04T12:27:28.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elliottyan/notebook7bd2aa761b,Notebook7bd2aa761b,Elliott Yan,,2017-06-04T12:23:17.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lokesh005/notebookc92a6a42de,Notebookc92a6a42de,Lokesh ,,2017-06-04T10:05:57.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elliottyan/fork-of-fork-of-my-quora-script,Fork of Fork of My quora script,Elliott Yan,,2017-06-04T10:50:20.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elliottyan/fork-of-my-quora-script,Fork of My quora script,Elliott Yan,,2017-06-04T10:51:05.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,claudiovalim/fork-of-data-analysis-xgboost-starter-0-35450-l,Fork of Data Analysis & XGBoost Starter (0.35450 L,Claudio Valim,,2017-06-04T00:49:00.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,akashkarl/benchmark,Benchmark,akashkarl,,2017-06-04T00:43:32.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,osmankocas/notebookc27fcc6689,Notebook5f1e2f92ec,OsmanKocas,,2017-06-03T22:43:51.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,samrotashoka/light-gbm-with-whquest,Light GBM with WHQuest,Ashok kumar ,,2017-06-03T20:46:44.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,claudiovalim/data-analysis-xgboost-starter-0-35450-lb,Data Analysis & XGBoost Starter (0.35450 LB),Claudio Valim,,2017-06-03T15:36:17.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nirupamkar/112rrt1,112rrt1,Nirupam Kar,,2017-06-03T14:08:57.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zashkan/explore-qura,Explore Qura,Ashton,,2017-06-02T23:11:17.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,raliclo/quora-question-pairs,Quora Question Pairs ·,RalicLo,,2017-12-13T06:06:18.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,paulantoine/string-based-k-core-magic-features,String-based k-core magic features,paulantoine,,2017-06-01T18:09:48.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,quoniammm/quora-data-explore,Quora data explore,阿姆lil,,2017-06-02T10:40:06.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook2c5dd28a53,Notebook2c5dd28a53,Ben Hamner,,2017-05-31T19:20:00.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lxs0202/magic-feature-v2-krzy-new-idea,Magic feature v2 + krzy new idea,StuartLu,,2017-05-31T12:31:15.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,arnabdey/okayyy,okayyy,Arnab Dey,,2017-05-31T13:01:53.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dmerson/notebookeec9eddfbd,Notebookeec9eddfbd,don-EMerson,,2017-05-31T05:17:49.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,karthiv/notebook4b8ff17d2e,Notebook4b8ff17d2e,KARTHI V,,2017-05-31T08:01:18.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,boypy2/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),boypy,,2017-05-31T02:04:09.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,suryau/notebook81f01e5060,Notebook81f01e5060,Surya,,2017-05-31T01:32:28.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bigdatafan/data-analysis-xgboost-starter,Data Analysis & XGBoost Starter,Sili Fan,,2017-05-30T15:42:03.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chamstown/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,supertown,,2017-05-30T13:27:48.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/magic-feature-v2-0-045-gain,Magic feature v2(0.045 gain),Paul Larmuseau,,2017-05-30T12:20:28.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,agavranis/scaled-prob,Scaled_prob,gavrand,,2017-05-30T06:10:27.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wangquan/notebook7d53d13158,Notebook7d53d13158,Quan Wang,,2017-05-30T04:22:10.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wernerchao/notebook3ca5e714bb,Notebook3ca5e714bb,wernerchao,,2017-05-29T23:20:22.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bobbobg/fork-of-question-similarity-using-lstm-embedding,Fork of Question Similarity using LSTM Embedding,BobG,,2017-05-29T23:57:05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,karora/notebookbc94a8650a,Notebookbc94a8650a,KawalArora,,2017-05-29T23:26:51.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rdoume/magic-feature-v2-krzy-new-idea,Magic feature v2 + krzy new idea,Datadoume,,2017-05-29T18:12:18.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kartinator/notebook77c247299b,Notebook77c247299b,Arktik,,2017-05-29T16:41:30.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,CVxTz/magic-feature-v2-krzy-new-idea,Magic feature v2 + krzy new idea,CVxTz,,2017-05-29T12:39:23.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/3gram-tfidf-svd-xgboost,3gram > TFIDF > SVD > XGboost,Paul Larmuseau,,2017-05-29T09:39:18.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thuljx/different-location-questions,Different Location Questions,liujx,,2017-05-29T06:54:36.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skihikingkevin/magic-features-0-03-gain,Magic Features (0.03 gain),KP,,2017-05-29T02:14:40.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gsmafra/generate-test-with-ids-csv-kcore-magic-features,Generate test_with_ids.csv - kcore magic features,Gustavo,,2017-05-28T23:04:33.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kgharbi/notebookfce8934ea1,Notebookfce8934ea1,kgharbi,,2017-05-28T19:08:10.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kgharbi/notebook1c085d98ad,Notebook1c085d98ad,kgharbi,,2017-05-28T18:51:42.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pedrolcn/first-analysis,First analysis,Pedro Nascimento,,2017-05-29T18:44:31.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rdoume/notebook7d635d64c9,Notebook7d635d64c9,Datadoume,,2017-05-28T10:54:26.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,answer1992/lb-0-158-xgb-handcrafted2,[LB 0.158] XGB_handcrafted2,jlShi,,2017-05-28T09:13:42.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pachinko/lb-0-18-lstm-with-glove-and-magic-features,[ LB 0.18+ ] LSTM with GloVe and magic features,pachinko,,2017-05-28T08:31:38.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wallevarr/notebookfd86bc827d,Notebookfd86bc827d,walle-varr,,2017-05-28T06:56:45.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dulyanov/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,Dmitry Ulyanov,,2017-05-28T06:49:52.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kardopaska/quoras-fast-get-unique-words-in-test-train-sets,Quoras: Fast Get Unique Words in Test/Train Sets,KardoPaska,,2017-05-28T06:17:08.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,quoniammm/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),阿姆lil,,2017-05-28T03:06:38.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rksriram312/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,SriramanR.Krishnamurthy,,2017-05-30T03:19:56.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pavs23/notebook5897602b79,Notebook5897602b79,Pavan,,2017-05-28T04:31:18.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rksriram312/feature-extraction-and-xgboost,Feature extraction and XGBoost,SriramanR.Krishnamurthy,,2017-05-28T04:26:05.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skihikingkevin/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,KP,,2017-05-28T02:23:53.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bowenzhi/lb-0-158-xgb-handcrafted-leaky,[LB 0.158] XGB_handcrafted_leaky,Obsidian,,2017-05-27T17:39:17.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dodomi/tfidf,TFIDF,dododo,,2017-05-27T17:08:26.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/can-we-see-an-evolution-in-quora-train-data,Can we see an evolution in Quora train data ?,Paul Larmuseau,,2017-05-27T21:46:39.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mysalt/yy-data-analysis-xgboost-starter-0-35460-lb,YY: Data Analysis & XGBoost Starter (0.35460 LB),Yu Yang,,2017-05-27T13:26:30.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,halidziya/featurize-shallow-benchmark-0-31675-lb,Featurize : Shallow Benchmark (0.31675 LB),Halid Ziya Yerebakan,,2017-06-01T17:02:31.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/similarity-techniques-nlp,Similarity Techniques + NLP,Paul Larmuseau,,2017-05-27T14:24:05.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harryzhenchen/quora-my-script,Quora My Script,HarryQuake,,2017-05-27T04:36:52.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nirupamkar/first-try1,first_try1,Nirupam Kar,,2017-05-26T18:17:06.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,intelpen/lb-0-18-lstm-with-glove-and-magic-features222,[ LB 0.18+ ] LSTM with GloVe and magic features222,intelpen,,2017-05-26T16:48:49.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,syeddanish/keras-starter-script-with-word-embeddings,Keras Starter Script with Word Embeddings,Daft Vader,,2017-05-26T17:10:04.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rdoume/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Datadoume,,2017-05-26T12:41:51.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dodomi/aaafdfd,aaafdfd,dododo,,2017-05-26T10:03:11.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,granaderos/intelligent-systems-project,Intelligent Systems Project,granaderos,,2017-05-26T17:41:27.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jaganb/quora-first-data-analysis,Quora - first data analysis...,Jagan B,,2017-05-26T03:40:44.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jaganb/quora-data-analysis,Quora data analysis...,Jagan B,,2021-05-03T21:42:28.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jaganb/notebook394afacb4c,Notebook394afacb4c,Jagan B,,2017-05-26T03:26:26.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nitink12/test-nkquora-v1,test_nkQuora_v1,Nitin,,2017-05-25T23:45:28.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nitink12/notebook3aaa956d83,Notebook3aaa956d83,Nitin,,2017-05-25T22:49:10.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yezhisaim/quora-question-pairs,Quora Question Pairs,Isai,,2017-05-30T17:42:03.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chengzhan/simple-exploration-notebook-quora-ques-pa-816152,Simple Exploration Notebook - Quora Ques Pa 816152,chengzhan,,2017-05-25T20:38:35.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jobrown/quora-script-2,Quora script 2,Jonathan,,2017-05-28T21:50:22.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jobrown/test1,test1,Jonathan,,2017-05-29T08:10:52.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/playing-with-forked-kernel,playing with forked kernel,Paul Larmuseau,,2017-05-26T13:32:13.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/false-negatives-in-training-set,False negatives in training set,Paul Larmuseau,,2017-05-25T11:46:09.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kitkat7/simple-leaky-exploration-notebook-quora,Simple Leaky Exploration Notebook - Quora,hyye,,2017-05-25T08:45:57.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kensekense/y-2017840714,Y_2017840714,Y_2017840714,,2017-05-30T14:31:42.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skihikingkevin/magic-feature-v2-0-045-gain-as,Magic feature v2(0.045 gain)  as,KP,,2017-05-25T04:17:22.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yezhisaim/notebook543b73f303,Notebook543b73f303,Isai,,2017-05-24T23:40:36.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rksriram312/my-first-kaggle-kernel,My first kaggle kernel,SriramanR.Krishnamurthy,,2017-05-24T19:41:42.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kgharbi/calculating-the-number-of-words-in-common,Calculating the number of words in common ,kgharbi,,2017-05-28T18:57:17.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gnilly/magic-features-proper-code,Magic Features - proper code,Aleksey Kulikov,,2017-05-24T09:25:51.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,salmonvicky/notebook7e8700c211,Notebook7e8700c211,Elle,,2017-05-25T02:41:25.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jobrown/notebook8a43fb4d14,Notebook8a43fb4d14,Jonathan,,2017-05-25T14:09:57.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,granaderos/data-analysis-xgboost-starter-0-35460-lb-9e9ab5,Data Analysis & XGBoost Starter (0.35460 LB 9e9ab5,granaderos,,2017-05-24T00:36:34.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,teja88/test-quora,test_quora,teja88,,2017-05-23T20:12:18.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook1c6e6ba743,Notebook1c6e6ba743,Ben Hamner,,2017-05-23T19:49:40.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chengzhan/notebookb08d9078a2,Notebookb08d9078a2,chengzhan,,2017-05-23T18:27:45.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,scirpus/does-this-make-sense-not-a-duplicate,Does this make sense? (Not a duplicate),Scirpus,,2017-05-23T14:17:22.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,frenchy/fork-of-fork-of-fork-of-xgb-with-jhaccard-magic,Fork of Fork of Fork of xgb with jhaccard + magic ,JoelK,,2017-05-28T18:34:30.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,abhisheknagarjuna/quora-ques-first-exploration,Quora_ques_first_exploration,Abhishek Nagarjuna,,2017-05-24T11:08:51.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,phenonomol/notebook9ce0fa4107,Notebook9ce0fa4107,RamazanEltay,,2017-05-23T01:21:21.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebookc46f6f1373,Notebookc46f6f1373,Ben Hamner,,2017-05-22T22:13:49.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,xcz011/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),xcz011,,2017-05-30T19:04:46.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ihalbmond/frequency,frequency,Ryuutsuki,,2017-05-22T14:45:36.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yerne39/fork-quora-duplicate-questions,fork : Quora Duplicate Questions,Light&Thunder,,2017-05-22T14:00:21.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yerne39/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Light&Thunder,,2017-05-22T13:45:28.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,moyuji/magic-features-0-03-gain,Magic Features (0.03 gain),skyfish,,2017-05-23T02:55:39.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wanggrun/fork-of-magic-features-0-03-gain,Fork of Magic Features (0.03 gain),xxxxgggg,,2017-05-22T10:20:10.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wanggrun/magic-features-0-03-gain,Magic Features (0.03 gain),xxxxgggg,,2017-05-22T09:23:18.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,frenchy/xgb-with-whq-jaccard,XGB with whq jaccard,JoelK,,2017-05-28T13:32:17.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,asifsh/notebookaeb8e38c68,Notebookaeb8e38c68,asif_S,,2017-05-22T07:07:35.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yottoboss/quora,Quora,yoTTaBo55,,2017-05-22T07:00:40.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dmail44/simple-comparison,Simple Comparison,Deepak,,2017-05-22T06:05:13.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hardeeparora/the-importance-of-cleaning-text,The Importance of Cleaning  Text,hardeeparora,,2017-05-21T22:55:41.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,danielsanchez/notebookde4263fd55,Notebookde4263fd55,Daniel Sánchez Santolaya,,2017-05-28T14:06:38.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,danielsanchez/notebook9ece983728,Notebook9ece983728,Daniel Sánchez Santolaya,,2017-05-21T18:25:49.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,tqwinter/my-second,my second,Puggy,,2017-05-24T11:51:37.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,demoon/different-location-questions,Different Location Questions,Daniel S.,,2017-05-21T14:37:26.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,tqwinter/my-first,My first,Puggy,,2017-05-21T12:16:30.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,torupallab/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",TorupallabGhoshal,,2017-05-21T05:33:33.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jacobhsiao/data-analysis-xgboost-starter-fork-0-35460-lb,Data Analysis & XGBoost Starter Fork(0.35460 LB),JakeH,,2017-05-21T03:16:40.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wernerchao/xgb-with-jhaccard-magic,xgb with jhaccard + magic ,wernerchao,,2017-05-21T00:42:20.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,brig06/notebookbfd3db7aa6,Notebookbfd3db7aa6,brig,,2017-05-20T23:18:17.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lavi061997/quora,Quora,Lakshya Agrawal,,2017-05-22T08:28:54.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,farzazadeh/notebooke010062298,Notebooke010062298,Dana,,2017-05-19T23:26:23.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,agavranis/different-location-questions,Different Location Questions,gavrand,,2017-05-19T20:49:19.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vivipengpeng/notebook09ebe6275e,Notebook09ebe6275e,vipen,,2017-05-19T17:00:38.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wsw951224/first-submmission,First Submmission,Kenny Wang,,2017-05-19T11:27:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nirupamkar/submit01,submit01,Nirupam Kar,,2017-05-19T07:30:36.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kiralt/determining-quora-question-duplicates,Determining Quora Question Duplicates,Taner,,2017-05-18T18:47:47.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vrishank97/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Vrishank,,2017-06-09T14:28:02.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lamahechag/notebookec0ede3562,Notebookec0ede3562,AlejandroMahecha,,2021-03-12T21:00:32.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mikowhy/test1,test1,Michael,,2017-05-18T01:26:34.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook62df4d514d,Notebook62df4d514d,Ben Hamner,,2017-05-17T20:36:58.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook879a7921df,Notebook879a7921df,Ben Hamner,,2017-05-17T20:06:41.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,simpetre/notebook15dfc32d71,Notebook15dfc32d71,Simon Petre,,2017-05-17T17:12:44.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,phiracle/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),HemingPang,,2017-05-23T03:30:19.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook0db793addf,Notebook0db793addf,Ben Hamner,,2017-05-16T21:25:59.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,imtoobose/notebook25f7f94fcc,Notebook25f7f94fcc,SaumitraBose,,2017-05-16T19:11:14.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jobrown/notebook-convnet,Notebook ConvNet,Jonathan,,2017-05-27T20:43:38.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jobrown/test-keras,Test Keras,Jonathan,,2017-05-16T16:16:31.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jguerreiro/notebook2c8cb1587d,Notebook2c8cb1587d,Jguerreiro,,2017-05-16T15:35:11.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jguerreiro/notebook0ec92284bc,Notebook0ec92284bc,Jguerreiro,,2017-05-16T15:03:13.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mikethedataguy/initial-kernel-test-worth-ignoring,Initial Kernel Test - Worth Ignoring :),MikeTheDataGuy,,2017-05-16T11:59:48.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,derryfseiei/notebook3c758204aa,Notebook3c758204aa,derryFSeiei,,2017-05-16T10:35:25.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,swhite4han/spacy-name-entity-recognition,[spaCy] Name Entity Recognition,TCH,,2017-05-16T06:48:19.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mzr2017/simple-exploration-notebook-quora-ques-pair,Simple Exploration Notebook - Quora Ques Pair,zr,,2017-05-16T03:15:07.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,cizonb/xgb-with-whq-jaccard-minor-change-in-line-118,XGB with whq jaccard (minor change in line 118),Cong,,2017-05-16T01:34:12.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook1627cea89d,Notebook1627cea89d,Ben Hamner,,2017-05-15T22:37:24.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,guptanikhil/notebookc54bbc4901,Notebookc54bbc4901,Nikhil Gupta,,2017-05-15T16:50:04.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,czarleonid/notebook86db566ca4,Notebook86db566ca4,CzarLeonid,,2017-05-15T14:23:10.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elliottyan/my-quora-script,My quora script,Elliott Yan,,2017-06-04T08:25:09.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,alcren/xgb-with-whq-jaccard,XGB with whq jaccard,Efren Mercado Jr,,2017-05-15T14:21:30.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elliottyan/notebook3a14d68cef,Notebook3a14d68cef,Elliott Yan,,2017-06-04T14:24:56.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gearsinmotion/first-notebook,First Notebook,Jacob P,,2017-05-15T00:44:35.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/jacquard-with-stemming-tagging-stopwords,jacquard: with stemming - tagging -stopwords,Paul Larmuseau,,2017-05-14T23:46:26.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yuenshome/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Kirisame Marisa,,2017-05-14T13:36:20.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,irenedo/comparador-de-palabras,Comparador de palabras ,Iñaki Renedo,,2017-06-02T10:20:19.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thea02sakura/fork-of-magic-features-0-03-gain-ecf69a,Fork of Magic Features (0.03 gain) ecf69a ,Thea Emata,,2017-05-14T07:22:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thea02sakura/magic-features-0-03-gain,Magic Features (0.03 gain),Thea Emata,,2017-05-14T07:24:28.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,suchitgupta60/magic-features,Magic Features,Suchit Gupta,,2017-05-14T05:46:30.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,joeytaj/nlp-parsing-example-using-spacy,NLP Parsing Example using Spacy,Paradox,,2017-05-24T16:57:10.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,fancoo/quick-guide-for-making-0-10112-score-technosphere,Quick guide for making 0.10112 score[Technosphere],fancoo,,2017-05-14T04:44:19.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,itnasssss/data-analysis-xgboost-starter-santi,Data Analysis & XGBoost Starter -santi,SantiAbando,,2017-05-14T04:30:41.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kirillal/quora-nlp,quora_nlp,KGA,,2017-05-14T01:47:04.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rejithry/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Rejith,,2017-05-14T00:22:45.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,towhid1/practice-understanding-data,Practice & understanding data,Nurul Akter Towhid,,2017-05-14T22:26:02.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rrkc00/notebooka3715be4e8,Notebooka3715be4e8,RRKC,,2017-05-13T08:56:10.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jj1234/data-analysis-xgboost-starter-0-35460-lb-946978,Data Analysis & XGBoost Starter (0.35460 LB 946978,JJ1234,,2017-05-13T05:49:23.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gomesbruna/quoraquestion3-0,QuoraQuestion3.0,BrunaGomes,,2017-05-13T05:32:28.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gomesbruna/quoraquestiontest,QuoraQuestionTest,BrunaGomes,,2017-05-13T03:16:54.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,xiangshiyin/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Xiangshi Yin,,2017-05-12T20:39:46.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook80af94b10d,Notebook80af94b10d,Ben Hamner,,2017-05-12T17:51:05.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ralphlauren/data-analysis-xgboost-starter-0-35460-lb-a0e900,Data Analysis & XGBoost Starter (0.35460 LB a0e900,Ralph Lauren,,2017-05-12T09:42:57.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,josrp172/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Joseph Rodriguez,,2017-05-12T09:40:59.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jcarlomedina/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),John Carlo Medina,,2017-05-12T09:19:21.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,itnasssss/data-analysis-xgboost-starter-0-35460-lb-bcd49f,Data Analysis & XGBoost Starter (0.35460 LB bcd49f,SantiAbando,,2017-05-12T09:14:30.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,itnasssss/data-analysis-xgboost-starter,Data Analysis & XGBoost Starter,SantiAbando,,2017-05-12T09:12:20.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,james23/data-analysis-xgboost-starter-0-35460-lb-49fc92,Data Analysis & XGBoost Starter (0.35460 LB 49fc92,Jhon Diestro,,2017-05-12T08:52:07.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kyubey/data-analysis-xgboost-starter-0-35460-lb-878b3b,Data Analysis & XGBoost Starter (0.35460 LB 878b3b,John Smith,,2017-05-12T08:50:33.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ralphlauren/data-analysis-xgboost-starter-0-35460-lb-e29da1,Data Analysis & XGBoost Starter (0.35460 LB e29da1,Ralph Lauren,,2017-05-12T09:43:05.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,tonychanyt/how-many-1-s-are-in-the-public-lb,How many 1's are in the Public LB?,TonyChan,,2017-05-12T10:00:57.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,granaderos/data-analysis-xgboost-starter-0-35460-lb-14032c,Data Analysis & XGBoost Starter (0.35460 LB 14032c,granaderos,,2017-05-24T03:40:12.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thea02sakura/data-analysis-xgboost-starter-0-35460-lb-28cbdd,Data Analysis & XGBoost Starter (0.35460 LB 28cbdd,Thea Emata,,2017-05-12T08:38:04.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thea02sakura/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB)    ,Thea Emata,,2017-05-12T08:36:27.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,james23/data-analysis-xgboost-starter-0-35460-lb-1f1653,Data Analysis & XGBoost Starter (0.35460 LB 1f1653,Jhon Diestro,,2017-05-12T09:07:55.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,granaderos/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),granaderos,,2017-05-12T08:16:43.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lordofcalamity/data-analysis-xgboost-starter-0-35460-lb-f16305,Data Analysis & XGBoost Starter (0.35460 LB f16305,John Smith,,2017-05-12T08:11:53.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lordofcalamity/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),John Smith,,2017-05-12T08:08:51.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kyubey/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),John Smith,,2017-05-12T07:27:28.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chan14/data-analysis-xgboost-starter-christian,Data Analysis & XGBoost Starter Christian,Christian,,2017-05-12T07:22:14.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,centyt/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Cent Espinosa,,2017-05-12T09:20:15.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kalvertramirez/data-analysis-xgboost-starter, Data Analysis & XGBoost Starter ,Kalvert Ramirez,,2017-05-12T08:37:10.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,alcren/data-analysis-xgboost-starter-0-35460-lb-516c21,Data Analysis & XGBoost Starter (0.35460 LB 516c21,Efren Mercado Jr,,2017-05-12T07:58:57.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rebelrenegade69/data-analysis-xgboost-starter-0-35460-lb-e7974d,Data Analysis & XGBoost Starter 0.35460 LB e7974d,RebelRenegade,,2017-05-14T16:23:29.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,stayken04/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Kenneth,,2017-05-12T06:42:21.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zxdatascience/lstm-with-word2vec-embeddings,LSTM with word2vec embeddings,unintelligentNN,,2017-05-12T00:21:23.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ugurgudelek/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Ugur Gudelek,,2017-05-30T23:33:20.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chuhaoda/test-shallow-word2vec,Test shallow word2vec,chuhaoda,,2017-05-11T21:29:29.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dishamw/notebookdafecf73b1,Notebookdafecf73b1,disha wagle,,2017-05-12T14:45:21.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,simpetre/notebookee34e5abfc,Notebookee34e5abfc,Simon Petre,,2017-05-11T19:23:42.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,christofer/notebook5be6ce882f,Notebook5be6ce882f,Christofer Nal,,2017-05-11T14:38:33.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vaibhavdesai/notebook7a7dcd3b57,Notebook7a7dcd3b57,VaibhavDesai,,2017-05-11T14:25:16.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vaibhavdesai/notebookcae0e1e23d,Notebookcae0e1e23d,VaibhavDesai,,2017-05-11T14:10:27.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vaibhavdesai/notebook46eb8e5985,Notebook46eb8e5985,VaibhavDesai,,2017-05-11T13:31:51.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,santoshkosgi/notebookcdb9f97813,Notebookcdb9f97813,Kosgi Santosh,,2017-05-11T12:19:52.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iamyizhen/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),wangyizhen,,2017-05-11T09:59:46.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ryutek/notebook69f70d5cc0,Notebook69f70d5cc0,U023,,2017-05-11T04:12:39.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rogachev/notebookb4aa47726b,homework_report_Rogachev[technosphere],Alexander Rogachev,,2017-05-10T23:35:31.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,terryli/my-script,My Script,Terry Li,,2017-05-10T22:29:37.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/quora-demo-asdfasefd,Quora Demo asdfasefd,Ben Hamner,,2017-05-10T18:07:37.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sergotail/quora-question-pairs-kernel,Quora question pairs kernel,Sergey,,2017-05-10T17:41:25.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rishikksh20/bow-concept,BOW concept,Rishikesh,,2017-05-10T23:20:31.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sergotail/notebook7914d695a7,Notebook7914d695a7,Sergey,,2017-05-10T17:14:10.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sergotail/quora-question-pair-kernel,Quora Question Pair Kernel,Sergey,,2017-05-10T17:12:00.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sergotail/notebook59d2a6a7ea,Notebook59d2a6a7ea,Sergey,,2017-05-10T17:02:45.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sannikowaa/notebook9ab91f3b07,Notebook9ab91f3b07,Sannikow,,2017-05-10T15:46:02.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,monkebai/lstm-with-word2vec-embeddings,LSTM with word2vec embeddings,HarryBai,,2017-05-10T15:19:39.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kapitonov/simple-model,Simple model,Kapitonov,,2017-05-10T10:38:00.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,stefantaubert/quora-question-pairs-nlp,Quora Question Pairs NLP,Stefan Taubert,,2017-05-10T09:49:25.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,liuxiao1028/quick-guide-for-making-0-10112-score-technosphere,Quick guide for making 0.10112 score[Technosphere],Tree Diagram,,2017-05-10T06:55:08.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,liuxiao1028/magic-features-0-03-gain,Magic Features (0.03 gain),Tree Diagram,,2017-05-10T06:51:41.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sivavth/notebooka012cf091a,Notebooka012cf091a,CodeMaestro,,2017-05-11T06:26:05.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sivavth/notebook00dd43ebba,Notebook00dd43ebba,CodeMaestro,,2017-05-10T03:47:01.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,power17/introduction-to-data-science,Introduction to data science,Khalid QACEME,,2017-11-01T16:02:15.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zckly133/quora-questions-pairs,quora questions pairs,Zack Lee,,2017-05-13T16:48:53.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jprocha/eda-1-testing-using-anokas-example,EDA 1 - Testing using @anokas example,Juan P. Rocha Amado,,2017-05-09T19:45:17.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vanyail/ilyin-ivan-technosphere,Ilyin_Ivan [technosphere],vanyail,,2017-05-09T17:49:19.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kbpatil/notebooka6306ffceb,Notebooka6306ffceb,Ketaki,,2017-05-16T10:05:49.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iamthesenate/petrenkolvan-technosphere,Petrenkolvan[Technosphere],Jabarda,,2017-05-09T07:55:36.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iamthesenate/notebook25c042e940,Notebook25c042e940,Jabarda,,2017-05-09T07:51:29.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iamthesenate/notebook2ca82272db,Notebook2ca82272db,Jabarda,,2017-05-09T07:46:06.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sivavth/notebook654832a41b,Notebook654832a41b,CodeMaestro,,2017-05-09T07:24:38.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aakashnain/notebook0df3d2e287,Notebook0df3d2e287,NAIN,,2017-05-09T05:10:09.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hvleejr/notebook02acefbce9,Notebook02acefbce9,henrylee,,2017-05-09T04:44:54.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sivavth/notebooka241d2c331,Notebooka241d2c331,CodeMaestro,,2017-05-09T03:49:06.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sivavth/notebookb640f12ba3,Notebookb640f12ba3,CodeMaestro,,2017-05-09T03:48:00.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hudan1992/notebookf0717443c1,Notebookf0717443c1,Dan Hu,,2017-05-09T04:23:38.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,delta37/kasparyants-technosphere,Kasparyants[technosphere],GeorgeKasparyants,,2017-05-09T18:49:31.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,delta37/kasparyantsgg-tecnosphere,KasparyantsGG[tecnosphere],GeorgeKasparyants,,2017-05-08T23:22:04.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/fork-of-finding-most-similar-questions,Fork of finding most similar questions,Paul Larmuseau,,2017-05-09T11:04:27.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,satadru5/test-qu,Test qu,satadru5,,2017-05-08T17:54:50.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kaehden/data-analysis-xgboost-starter-0-35460-lb-fork,Data Analysis & XGBoost Starter (0.35460 LB)fork,Caiden Lee,,2017-05-08T17:32:18.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kaehden/example,Example ,Caiden Lee,,2017-05-08T17:31:14.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mounika45/notebook180da8b912,Notebook180da8b912,mounika,,2017-05-09T09:12:40.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mounika45/notebook0f19651391,Notebook0f19651391,mounika,,2017-05-08T16:39:40.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ikozlov/kozlov-ivan-technosphere,Kozlov Ivan [Technosphere],Ivan Kozlov,,2017-05-08T13:13:53.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,asymptote/notebookb97ac670f7,Notebookb97ac670f7,Asymptote,,2017-05-08T11:10:43.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gaoshu/shallow-benchmark-0-31675-lb,Shallow Benchmark (0.31675 LB),gaoshu,,2017-05-08T13:01:41.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ganj28/notebook7017bd1164,Notebook7017bd1164,Anusha,,2017-05-08T04:17:43.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anu0012/quora-competition-script,quora_competition_script,Anurag Sharma,,2017-05-16T03:48:45.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rojre1979/notebook196f26e2af,Notebook196f26e2af,Robert J. Regalado,,2017-05-08T02:14:22.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,blackbear2017/fork-of-quick-guide-for-making-0-10112-score-techn,Fork of Quick guide for making 0.10112 score[Techn,Roman Degtyarev,,2017-05-07T16:19:45.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,marsiik/konstantintesker-technosphere,KonstantinTesker[technosphere],KostyaTesker,,2017-05-07T15:39:00.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zigawick/belozerov-sphere,belozerov[sphere],Mikhail,,2017-05-07T16:51:14.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,alaaawad/notebook25b5ad19c2,Notebook25b5ad19c2,Alaa Awad,,2017-05-07T14:15:20.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mdementyev/test1,test1,m_dementyev,,2017-05-07T15:05:31.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,levandos/notebook2de98be07d,Notebook2de98be07d,Levanchik,,2017-05-07T09:30:32.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,zigawick/first-try,first try,Mikhail,,2017-05-07T08:58:59.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anirudh5789/notebookce712b359e,Notebookce712b359e,anirudh5789,,2017-05-07T05:27:59.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iceactor/notebook3fcc8fbabe,Notebook3fcc8fbabe,iceactor,,2017-05-07T04:27:12.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iceactor/notebook4d1713b0c5,Notebook4d1713b0c5,iceactor,,2017-05-07T04:21:03.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,faamin/notebook557cede6d3,Notebook557cede6d3,FakabbirAmin,,2017-05-07T04:16:11.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,apatnaik22/notebookceac679eb7,Notebookceac679eb7,apatnaik22,,2017-05-07T03:13:49.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,noracode/notebookcc896e5fc3,Notebookcc896e5fc3,noracode,,2017-05-06T22:09:04.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rogachev/testing,testing,Alexander Rogachev,,2017-05-06T22:08:19.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vkarun/fork-of-kld-harmonic-mean-xgboost,Fork of KLD harmonic mean + xgboost,Venkat Karun,,2017-05-07T22:20:30.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,alaaawad/notebook87f176f33b,Notebook87f176f33b,Alaa Awad,,2017-05-07T03:24:54.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,panser/skiba-gleb-tf-idf-for-quora-technosphere,Skiba_Gleb_TF-IDF_for_Quora[Technosphere],Gleb Skiba,,2017-05-10T19:23:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,eccker/notebookfed9fd4474,Notebookfed9fd4474,Cosmic Visionary,,2017-05-12T18:05:22.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,xiangshiyin/quora-question-dup,Quora_question_dup,Xiangshi Yin,,2017-05-06T16:15:02.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harryzhenchen/notebookb8f612273d,Notebookb8f612273d,HarryQuake,,2017-05-06T13:34:03.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harryzhenchen/notebook6182dbf093,Notebook6182dbf093,HarryQuake,,2017-05-06T11:40:18.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harryzhenchen/first-try-quora-competition,First Try Quora Competition,HarryQuake,,2017-05-06T13:32:12.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,furutani/notebook79095d5e9f,Notebook79095d5e9f,F_Y,,2017-05-06T07:43:24.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vkarun/kld-harmonic-mean-xgboost,KLD harmonic mean + xgboost,Venkat Karun,,2017-05-05T21:06:21.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aborgher/quora-duplicate-questions,Quora Duplicate Questions,Alessio Borgheresi,,2017-05-05T17:58:43.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yuanz1/data-processing-generate-more-positive-tra-cd03db,Data Processing: Generate more positive tra cd03db,yuan.z,,2017-05-09T16:21:34.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,theofaure/notebookb660e88da2,Notebookb660e88da2,ThéoFaure,,2017-05-05T15:34:08.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harshratde/starting-with-the-quora,starting with the quora,\m/-;),,2017-06-06T11:49:42.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harshratde/notebook2ec5dfb02e,Notebook2ec5dfb02e,\m/-;),,2017-05-05T13:18:48.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,delta37/kasparyantsgeorge-v6,KasparyantsGeorge_v6,GeorgeKasparyants,,2017-05-07T12:59:03.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rganapathy/notebook5fa1610e87,Notebook5fa1610e87,Rajaganapathy M,,2017-05-05T09:31:47.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wythend/data-analysis-xgboost-starter-0-35460-lb-2b1aac,Data Analysis & XGBoost Starter (0.35460 LB 2b1aac,wythend,,2017-05-05T08:45:34.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wythend/notebook0f37aae9e1,Notebook0f37aae9e1,wythend,,2017-05-05T08:43:43.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gunjaagarwal/quora,quora,gunja_agarwal,,2017-05-05T08:36:21.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wythend/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),wythend,,2017-05-06T20:54:23.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,weilai/notebook9e979fc2f3,Notebook9e979fc2f3,AZXLT,,2017-05-15T07:52:26.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/help-needed-with-xgboost,help needed with xgboost,Paul Larmuseau,,2017-05-05T10:42:07.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nyistyao/data-test,Data test,nyistyao,,2017-05-07T07:36:06.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,eccker/quoraquestionpairsbyeccker,QuoraQuestionPairsByEccker,Cosmic Visionary,,2017-05-06T14:01:21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wangyujie/magic-features-0-03-gain,Magic Features (0.03 gain),wangyujie,,2017-05-05T02:54:11.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebookafe256356d,Notebookafe256356d,Prakritidev verma,,2017-05-05T01:28:58.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jprocha/quora-descriptive-analysis,Quora - Descriptive Analysis,Juan P. Rocha Amado,,2017-05-05T01:25:00.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook5dda3c6db5,Notebook5dda3c6db5,Ben Hamner,,2017-05-04T21:39:02.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook2d3c076f13,Notebook2d3c076f13,Ben Hamner,,2017-05-04T21:30:02.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebookdd93d3ce38,Notebookdd93d3ce38,Ben Hamner,,2017-05-04T20:55:54.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chestnut3108/notebook17ca3314fd,Notebook17ca3314fd,shivam singhal,,2017-05-09T05:15:38.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hudan1992/notebook69555b0f72,Notebook69555b0f72,Dan Hu,,2017-05-09T02:59:26.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/quora-demo-asdf,Quora Demo Asdf ,Ben Hamner,,2017-05-04T20:11:43.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ssahoodotinfinity/notebook78b66db702,Notebook78b66db702,Sabyasachi Sahoo,,2017-05-04T19:54:46.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dxt910922/notebookfca8161773,Notebookfca8161773,Xiaotian,,2017-05-04T19:38:30.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dxt910922/notebookee783ad969,Notebookee783ad969,Xiaotian,,2017-05-04T19:32:08.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dxt910922/notebookedab6e0d58,Notebookedab6e0d58,Xiaotian,,2017-05-04T19:31:32.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ganj28/notebookf5e39f1523,Notebookf5e39f1523,Anusha,,2017-05-05T00:10:37.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dxt910922/trying-things,Trying Things,Xiaotian,,2017-05-04T17:55:51.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dxt910922/notebookb3dff0d61b,Notebookb3dff0d61b,Xiaotian,,2017-05-04T19:07:00.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mithax/notebookefc2aff2ea,Notebookefc2aff2ea,Mithax,,2017-05-04T17:08:53.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pachinko/notebook327f46ae50,Notebook327f46ae50,pachinko,,2017-05-04T16:41:42.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebook9f0e4c6b2f,Notebook9f0e4c6b2f,Prakritidev verma,,2017-05-04T15:43:52.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pachinko/notebookd2e482f8c4,Notebookd2e482f8c4,pachinko,,2017-05-04T15:28:10.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kenanjfarmer/notebook0e8cdb7d86,Notebook0e8cdb7d86,kenanfarmer,,2017-05-04T15:20:34.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nyistyao/notebook376c944a47,Notebook376c944a47,nyistyao,,2017-05-04T14:43:55.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mfandreas/notebook04f979195e,Notebook04f979195e,Andreas M.,,2017-05-04T13:30:17.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebooke3bd93f59c,Notebooke3bd93f59c,Prakritidev verma,,2017-05-04T12:25:28.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gpboss/magic-features-0-03-gain,Magic Features (0.03 gain),kernel,,2017-05-04T11:53:16.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/capstone,Capstone,Prakritidev verma,,2017-05-04T11:06:11.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,joswin/try-to-win,try_to_win,Joswin K J,,2017-05-04T02:01:52.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebookcbdef39719,Notebookcbdef39719,Ben Hamner,,2017-05-04T01:44:17.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/notebook44bbbc4426,Notebook44bbbc4426,MingKim,,2017-05-03T22:17:13.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/notebook0a14405841,Notebook0a14405841,MingKim,,2017-05-03T22:11:31.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/notebook5159431059,Notebook5159431059,MingKim,,2017-05-03T22:10:35.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/notebook68f406bb3d,Notebook68f406bb3d,MingKim,,2017-05-03T22:10:13.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/notebookff80dc234e,Notebookff80dc234e,MingKim,,2017-05-03T21:56:08.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/notebooke262cb33e7,Notebooke262cb33e7,MingKim,,2017-05-03T21:55:55.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iceactor/notebook589dc33c8b,Notebook589dc33c8b,iceactor,,2017-05-03T15:08:02.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ivanl1/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Ivan L,,2021-03-08T16:51:29.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,weilai/lttest,LTtest,AZXLT,,2017-05-03T09:37:36.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rahulpatra/notebookd05f9cc527,Notebookd05f9cc527,Rahul Patra,,2017-05-03T05:19:04.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,duyetdev/notebook2fad29f7bc,Notebook2fad29f7bc,Van-Duyet Le,,2017-05-03T05:52:41.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anuragreddygv323/notebook43fe2477c8,Notebook43fe2477c8,Anurag Reddy G V,,2017-05-03T00:41:58.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,abhiramgandhe/notebook2d00cb9e01,Notebook2d00cb9e01,Abhiram,,2017-05-02T22:41:25.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,keivanloo/notebook9dc444b25b,Notebook9dc444b25b,kllo,,2017-06-15T14:06:24.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/fork-of-pure-tfidf-model-bigrammed,Fork of Pure TFIDF model bigrammed,Paul Larmuseau,,2017-05-03T06:59:41.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,calhounqf/notebook717175ff65,Notebook717175ff65,CalhounQF,,2017-05-02T19:32:03.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,czarleonid/try-to-win,try_to_win,CzarLeonid,,2017-05-04T15:55:59.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iceactor/quora,quora,iceactor,,2017-05-02T14:24:47.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,igetii/galitskiyigor-technosphere,GalitskiyIgor[Technosphere],Galitskiy Igor,,2017-05-08T09:36:30.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,adhok93/notebook8c3a6a8e86,Notebook8c3a6a8e86,AdhokshajaPradeep,,2017-05-02T13:56:42.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,matheronkaggler/quora-lstm,Quora - Lstm,MaximeMatheron,,2017-05-02T09:53:20.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,diman3589/notebooke91257d945,Notebooke91257d945,Diman3589,,2017-05-02T09:11:06.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,callemesunshine/notebook74886fbae0,Notebook74886fbae0,CalleMeSunshine,,2017-05-02T06:44:55.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kaka6599/notebook9c13c99bf3,Notebook9c13c99bf3,Karthik Kannan,,2017-05-02T01:30:02.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/playing-with-anokas-xgboost-starter-0-35460-lb,playing with Anokas  XGBoost Starter (0.35460 LB),Paul Larmuseau,,2017-05-23T16:20:18.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,levandos/notebook133b95b3f1,Notebook133b95b3f1,Levanchik,,2017-05-01T20:16:02.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hichamel/notebook026237cd51,Notebook026237cd51,hicham,,2017-05-01T18:17:34.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/find-quora-on-google-70-of-questions-are-fake,Find Quora on Google: 70% of questions are fake...,Paul Larmuseau,,2017-05-01T18:20:16.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,qianteng/notebook872cb72a27,Notebook872cb72a27,QianTeng,,2017-05-01T15:23:34.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,tour1st/the-importance-of-cleaning-text-faster,The Importance of Cleaning Text(Faster),tour1st,,2017-05-01T13:10:00.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maggiezhou/notebookf20650fa52,Notebookf20650fa52,Maggie Zhou,,2017-05-01T02:41:15.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maggiezhou/notebookf78f70e384,Notebookf78f70e384,Maggie Zhou,,2017-05-01T02:07:17.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maggiezhou/notebook71e9204f9c,Notebook71e9204f9c,Maggie Zhou,,2017-05-01T02:05:19.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,irenedo/decisiones-rapidas,decisiones rapidas,Iñaki Renedo,,2017-05-21T17:20:52.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,xiangfuming67/notebook8c963d0351,Notebook8c963d0351,FumingXiang,,2017-04-30T03:09:00.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shivagangachennnu/quora-question-pairs-final,Quora question pairs final,ShivaGangaChennu,,2017-11-29T06:33:42.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,annueka/simple-dt,Simple DT,Anna Novikova,,2017-04-30T23:17:40.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,trottefox/train-data-augmentation-quora,Train data augmentation Quora,Trottefox,,2017-04-29T20:50:28.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pxloadedz/quora,Quora,pxloadedz,,2017-11-16T17:23:02.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pxloadedz/notebook50b3ed16c9,Notebook50b3ed16c9,pxloadedz,,2017-04-29T15:10:54.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skybolt/my-own-notebook,My own notebook,MuhammadKhalifa,,2017-05-02T04:13:13.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nesterov/notebook57b2c05785,Notebook57b2c05785,mephistopheies,,2017-04-29T12:42:49.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pinocchio/naive,naive,Hamed Seyed-allaei,,2017-05-01T19:13:30.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,qiguo1/notebookd11bb9a4a6,Notebookd11bb9a4a6,imoonkey,,2017-04-29T09:01:12.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shalva/notebookec0b00f7be,Notebookec0b00f7be,Shalva Kashmadze,,2017-04-29T06:33:06.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nil68657/notebook99b44bf2f0,Notebook99b44bf2f0,NilanjanChatterjee,,2017-04-29T05:32:46.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,itcat2015/notebookc5a0f2c09d,Notebookc5a0f2c09d,itcat,,2017-04-29T00:31:03.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shalva/notebookd4d1df0271,Notebookd4d1df0271,Shalva Kashmadze,,2017-04-28T23:52:01.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skybolt/notebookf0d379367b,Notebookf0d379367b,MuhammadKhalifa,,2017-04-28T21:42:31.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skybolt/notebook528cb615cf,Notebook528cb615cf,MuhammadKhalifa,,2017-05-02T04:15:47.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,malapatiravi/notebookfe4589a10d,Notebookfe4589a10d,Ravi,,2017-04-29T12:19:19.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,skutala1/lstm-with-word2vec-embeddings,LSTM with word2vec embeddings,sureshkutala,,2017-04-28T12:55:39.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wisedoge/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Doge,,2017-04-28T11:21:42.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,medivhc/data-analysis-xgboost-starter,Data Analysis & XGBoost Starter ,Xiang Cui,,2017-04-28T09:17:13.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,christofer/lstm-with-word2vec-embeddings,LSTM with word2vec embeddings,Christofer Nal,,2017-04-28T09:20:50.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,callemesunshine/notebookedb46228af,Notebookedb46228af,CalleMeSunshine,,2017-04-28T07:32:18.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/fork-of-pure-tfidf-model-score-lb0-5-binary-answer,Fork of Pure TFIDF model score LB0.5 binary answer,Paul Larmuseau,,2017-04-29T22:30:37.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shalva/notebook17e3ec685d,Notebook17e3ec685d,Shalva Kashmadze,,2017-04-28T00:20:16.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chechir/import-xgboost-as-xgb,import xgboost as xgb,Matias Thayer,,2017-04-27T16:42:42.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,soumyaansh/notebook91b61e08a5,Notebook91b61e08a5,Ansh Roy,,2017-04-28T19:32:53.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jasonzhj/notebook22efbf37ba,Notebook22efbf37ba,JieZhang,,2017-04-27T12:37:02.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hichamel/notebookadb4f165af,Notebookadb4f165af,hicham,,2017-04-27T12:32:05.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,iceactor/test111,test111,iceactor,,2017-04-27T11:53:13.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chechir/aaaaaa,aaaaaa,Matias Thayer,,2017-04-27T16:55:26.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,giuseppemerendino/first-model-with-pytorch,First model with pytorch,Giuseppe Merendino,,2017-04-27T20:39:01.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chungjsm/notebookbe4c9b6491,Notebookbe4c9b6491,chungjsm,,2017-04-27T03:23:05.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wirthdrew/notebook2f3f24d953,Notebook2f3f24d953,andrewwirth,,2017-04-27T03:20:29.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ragaravali/saving-space-for-quora,Saving space for quora,Ragam,,2017-04-28T22:19:31.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gugzkumar/explore-quora,EXPLORE QUORA,GaganTunuguntla,,2017-04-27T00:57:16.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,soochangchung/notebook31dc366d5d,Notebook31dc366d5d,Y_2013147519,,2017-04-27T00:44:45.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pixixi/notebookfd5431dbcf,Notebookfd5431dbcf,pixixi,,2017-04-27T00:21:33.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mingkim/quora-question-practice,quora question practice,MingKim,,2017-04-27T13:48:08.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chechir/export-feats-kernel,export_feats_kernel,Matias Thayer,,2017-04-27T16:49:02.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,levandos/notebookf731d2778a,Notebookf731d2778a,Levanchik,,2017-04-26T17:00:38.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nizhikebinesi/notebookbc519bb0c7,Notebookbc519bb0c7,Denis Skripov,,2017-04-27T14:01:30.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pierretisseur/xgb-starter-12357,XGB starter 12357,Pierre Tisseur,,2017-04-26T15:06:26.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,xiaochun/notebooke3f218956e,Notebooke3f218956e,Xiaochun Chi,,2017-04-26T15:28:15.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,xiaochun/notebook0c54407c00,Notebook0c54407c00,Xiaochun Chi,,2017-04-26T14:45:57.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chenliang19912/data-analysis-xgboost-starter-0-35460-lb-b54cc1,Data Analysis & XGBoost Starter (0.35460 LB b54cc1,Leo Chen,,2017-04-26T14:27:34.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aseembh2001/notebook3f467de42f,Notebook3f467de42f,aseembhartiya,,2017-04-26T14:24:05.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gatzzliao/data-analysis-xgboost-starter-0-35460-lb-a07284,Data Analysis & XGBoost Starter (0.35460 LB a07284,GatZz,,2017-04-26T13:42:51.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,russellwmy/notebookcc88091ada,Notebookcc88091ada,Russell Wong,,2017-04-26T12:40:50.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,soumyaansh/notebook56e0d104d2,Notebook56e0d104d2,Ansh Roy,,2017-04-26T11:45:04.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ksayantani/notebook36a36861ce,Notebook36a36861ce,ksayantani,,2017-04-26T08:00:50.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hartleyg/xgboost,XGBoost,T_I_K,,2017-05-01T01:52:52.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yuchunchien/notebooka02d1773f6,Notebooka02d1773f6,YuChunChien,,2017-04-25T22:49:51.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mqvida/notebook0f6c2f4439,Notebook0f6c2f4439,Marcelo,,2017-04-25T18:33:26.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ivalnic/notebookd9b8445fe9,Notebookd9b8445fe9,Ivalnic,,2017-04-25T18:30:48.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,amansrivastava/train-model-py,train_model.py,AmanSrivastava,,2017-04-25T12:50:00.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kishoripawar/notebookee85d82a47,Notebook125326ff28,Kishori Pawar,,2017-04-25T10:50:08.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wuxiaohui/cleaning-text,Cleaning  Text,ShawnNg,,2017-04-25T10:03:41.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,leitasat/notebook29f2a92661,Notebook29f2a92661,leitasat,,2017-04-25T07:48:16.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,westhyena/notebook8fd4e419b5,Notebook8fd4e419b5,JungwooChae,,2017-04-25T05:58:22.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,phcostello/notebook12174dffab,Notebook12174dffab,PHCostello,,2017-04-25T05:35:50.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mrpolitegrizly/notebookf38751d866,Notebookf38751d866,MrPoliteGrizly,,2017-04-25T03:06:00.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook13562d0fe3,Notebook13562d0fe3,Ben Hamner,,2017-04-24T19:19:54.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wirthdrew/notebook9c93c5b166,Notebook9c93c5b166,andrewwirth,,2017-04-24T19:06:49.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hudan1992/notebookec0e8b66bf,Notebookec0e8b66bf,Dan Hu,,2017-04-24T20:31:55.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bobbyholder/notebookf5debbab67,Notebookf5debbab67,BobbyHolder,,2017-04-24T17:00:09.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,oliviermorelle/finding-features-for-the-quora-competition,Finding Features for the Quora Competition,OlivierMorelle,,2017-04-26T22:16:02.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,oliviermorelle/notebook0bcddcbad7,Notebook0bcddcbad7,OlivierMorelle,,2017-04-24T16:46:08.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shuishen112/notebooka361968285,Notebooka361968285,Zhan su,,2017-04-24T15:57:06.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebookb5d86ac124,Notebookb5d86ac124,Prakritidev verma,,2017-04-24T11:07:32.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rajkuma/notebook19ae970ce5,Notebook19ae970ce5,rajeev kumar,,2017-04-24T03:21:11.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,samwhitehill/similarity-techniques-nlp,Similarity Techniques + NLP,Hard_Core,,2017-04-26T02:45:37.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,samwhitehill/notebookbd7a20f6e0,Notebookbd7a20f6e0,Hard_Core,,2017-04-24T01:40:27.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thammegowda/notebookadf8ea211a,Notebookadf8ea211a,Thamme Gowda,,2017-04-24T01:50:31.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hudan1992/notebook072e758733,Notebook072e758733,Dan Hu,,2017-04-23T21:36:11.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chechir/testing-try,testing try,Matias Thayer,,2017-04-23T20:58:02.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chechir/notebookcdfacd7a09,Notebookcdfacd7a09,Matias Thayer,,2017-04-23T20:28:16.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,velika12/common-unigrams-ratio,Common unigrams ratio,velika12,,2017-04-23T15:52:24.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ryanlax/notebook444dcb065c,Notebook444dcb065c,Ádám Csuma-Kovács,,2017-04-23T12:42:45.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,robinlai/similarity-is-not-a-substitute-for-semantics,Similarity Is Not a Substitute For Semantics,JackRobin,,2017-04-23T11:58:42.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yamolekula/data-analysis-xgboost-starter-0-35460-lb-53fe9a,Data Analysis & XGBoost Starter (0.35460 LB 53fe9a,Mr.Molecule,,2017-04-23T11:52:04.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,yamacent/notebook5a39790503,Notebook5a39790503,Daisuke Yamamoto,,2017-04-23T09:42:21.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,stevewen/notebookbd71a07778,Notebookbd71a07778,MW,,2017-04-23T09:02:33.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,daniellz/notebook57381dfeaa,Notebook57381dfeaa,蔡徐坤（kun）,,2017-04-23T06:35:15.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebook02735e9802,Notebook02735e9802,Prakritidev verma,,2017-04-23T05:53:26.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ragaravali/bi-project,bi project,Ragam,,2017-04-24T23:39:58.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rajapasupuleti/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Rajag,,2017-04-23T01:16:03.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,apapiu/notebook5d39f66e12,Notebook5d39f66e12,Alexandru Papiu,,2017-04-25T18:42:32.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,armaniferrante/notebook227a0aa394,Notebook227a0aa394,armaniferrante,,2017-04-22T17:26:01.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,benhamner/notebook42d316933f,Notebook42d316933f,Ben Hamner,,2017-04-22T15:09:33.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,priyaragavi/npr-1,NPR - 1,PriyaRagavi,,2017-04-22T13:29:18.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,priyaragavi/notebook118dde0cd7,Notebook118dde0cd7,PriyaRagavi,,2017-04-22T13:28:22.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,priyaragavi/notebooke78b583341,Notebooke78b583341,PriyaRagavi,,2017-04-22T13:01:26.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,priyaragavi/notebookbe702646ea,Notebookbe702646ea,PriyaRagavi,,2017-04-22T12:43:30.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebook586e9c3553,Notebook586e9c3553,Prakritidev verma,,2017-04-22T12:09:12.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/notebook70e85654f0,Notebook70e85654f0,Prakritidev verma,,2017-04-22T10:12:14.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shichangtai/experiment1,Experiment1,Shi Changtai,,2017-05-08T16:24:13.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aichemzee/notebook068f160d5c,Notebook068f160d5c,Harris Siddiqui,,2017-04-22T07:16:05.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aichemzee/notebook4c2ef2687e,Notebook4c2ef2687e,Harris Siddiqui,,2017-04-22T07:14:49.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shravanumn/notebook258e3ecd11,Notebook258e3ecd11,Shravan Shetty,,2017-05-12T15:15:14.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ranlocar/xgb-with-whq-2gram,XGB with whq-2gram,Ran Locar,,2017-04-21T19:09:10.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,greenreddy0/notebookf28e020bdc,Notebookf28e020bdc,gnania527,,2017-04-21T17:13:49.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vijayasenthil/notebookd3e1ed153a,Notebookd3e1ed153a,VijayaSenthilKumar,,2017-04-21T13:57:22.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kaara333/notebook48749ce0b5,Notebook48749ce0b5,DanielaStircu,,2017-04-21T13:37:49.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,scutalex/quora-eda-model-selection-roc-pr-plots,"Quora EDA & Model selection (ROC, PR plots)",Alex_gogo,,2017-04-21T08:29:32.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,scutalex/data-analysis-xgboost-starter-0-35460-lb-ca39b9,Data Analysis & XGBoost Starter (0.35460 LB ca39b9,Alex_gogo,,2017-04-21T08:26:27.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kanishkapsingh2/notebook823e94ed4f,Notebook823e94ed4f,kanishkapsingh,,2017-04-21T04:45:03.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jim1216/notebook1b3e816076,Notebook1b3e816076,Jim_Guo,,2017-04-21T08:10:25.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wirthdrew/notebook24842779dc,Notebook24842779dc,andrewwirth,,2017-04-21T02:39:06.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wvadim/notebook07ae9bde1b,Notebook07ae9bde1b,wvadim,,2017-04-20T18:27:08.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kayarjun/notebookf5c4909518,Notebookf5c4909518,Arjun,,2017-04-20T18:19:31.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,stevewen/notebook858f00bb03,Notebook858f00bb03,MW,,2017-04-20T13:17:22.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lynten/notebookd05d6988d9,Notebookd05d6988d9,Lynten,,2019-08-14T16:58:46.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dukachan/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Zuka,,2017-04-20T12:11:40.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ifung21/pilou,pilou,iFung21,,2017-04-20T12:14:44.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ifung21/pilouasbaek,pilouasbaek,iFung21,,2017-04-20T11:56:38.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harmenvanpelt/notebook52128ac85b,Notebook52128ac85b,harmen,,2017-04-20T12:15:42.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,narender1818/notebook40194c712e,Notebook40194c712e,Narender,,2017-04-20T11:46:49.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,narender1818/notebookaf49a17c01,Notebookaf49a17c01,Narender,,2017-04-20T11:39:24.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ifung21/notebookfcba9f959e,Notebookfcba9f959e,iFung21,,2017-04-20T11:01:43.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,migranova/notebookd3c297cef1,Notebookd3c297cef1,Yevgeniya Migranova,,2017-04-22T13:59:07.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harmenvanpelt/notebookeec11cd7ad,Notebookeec11cd7ad,harmen,,2017-04-20T11:18:19.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kunald216/notebook7929675c47,Notebook7929675c47,KUNALDAYARAMANI,,2017-04-20T08:53:16.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,huahuajhu/notebook9f9a640b12,Notebook9f9a640b12,Hua Ye,,2017-04-20T04:56:46.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,leclem/notebook8af18fd2b7,Notebook8af18fd2b7,Clément Moutet,,2017-04-20T02:25:06.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jiayu4/notebook3db4bd182b,Notebook3db4bd182b,jia.yu@ihsmarkit.com,,2017-04-20T01:14:51.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,homerzhm/notebook4dab74683f,Notebook4dab74683f,Homer,,2017-04-19T19:33:33.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,leclem/notebookbb2def02ac,Notebookbb2def02ac,Clément Moutet,,2017-04-19T18:04:36.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dkdupuis/notebook8920c9b162,Notebook8920c9b162,dkdupuis,,2017-04-19T15:51:27.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sharnam19/notebook80df9f2f03,Notebook80df9f2f03,snc19,,2017-04-19T14:30:50.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sharnam19/notebook4c91acf389,Notebook4c91acf389,snc19,,2017-04-19T14:23:04.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dhc321/test-quora,test_quora,NWPU_dhc,,2017-04-20T02:40:28.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hichamel/data-exploration,Data Exploration ,hicham,,2017-04-28T08:20:07.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vaibhavvrg/dmbiscript,dmbiscript,VaibhavGaikwad,,2017-04-20T07:42:30.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mfandreas/notebookb2742c5751,Notebookb2742c5751,Andreas M.,,2017-04-19T09:33:28.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,beyondacm/notebook3eb3a7acd9,Notebook3eb3a7acd9,beyondacm,,2017-04-19T08:28:33.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,beyondacm/notebook7dd802b7d6,Notebook7dd802b7d6,beyondacm,,2017-04-19T08:28:22.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maxiop/notebook90f73b84c6,Notebook90f73b84c6,Maxiop,,2017-04-19T05:44:06.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maxiop/notebook0729bfea53,Notebook0729bfea53,Maxiop,,2017-04-19T05:43:35.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dhc123/test-quora-2,test_quora_2,dhc123,,2017-05-14T10:27:31.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dhc123/test-quora,test_quora,dhc123,,2017-05-14T02:33:59.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/unusual-words-garbage,Unusual words... garbage,Paul Larmuseau,,2017-04-24T20:39:00.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ngoclinhng/notebookf8d8f8cb3b,Notebookf8d8f8cb3b,Ngoc Linh Ng,,2017-04-18T20:47:07.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dkdupuis/notebooka567494e12,Notebooka567494e12,dkdupuis,,2017-04-19T13:26:44.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,puneetdwivedi/my-code,my code,Puneet Dwivedi,,2017-04-18T18:02:19.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,phillipadkins/words-in-common-benchmark,Words in common benchmark,Phillip Chilton Adkins,,2017-04-18T15:55:17.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,prakritidevverma/udacity-cpastone-project,Udacity Cpastone Project,Prakritidev verma,,2017-05-05T01:27:58.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,danielsanchez/duplicate-rate,duplicate rate,Daniel Sánchez Santolaya,,2017-04-18T15:10:46.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mfrolov/notebook3e14723d2d,Notebook3e14723d2d,Michael,,2017-04-18T13:23:33.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,daniellz/notebooka4677901df,Notebooka4677901df,蔡徐坤（kun）,,2017-04-18T13:13:34.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,madhuvanthi/notebook5a3c472cd2,Notebook5a3c472cd2,MadhuvanthiGuruprasad,,2017-04-30T18:52:08.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,nandiniviswanathan/notebook926e8e28dc,Notebook926e8e28dc,NandiniViswanathan,,2017-04-18T12:37:05.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harish5661/notebook0aad366012,Notebook0aad366012,HarishSaragadam,,2017-04-18T12:13:49.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dodomi/notebook9d84bed629,Notebook9d84bed629,dododo,,2017-05-27T15:07:25.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,boobayooba/notebook49b480bdba,Notebook49b480bdba,Mikhail S,,2017-04-18T11:08:01.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,boobayooba/notebook22bcd10f0d,Notebook22bcd10f0d,Mikhail S,,2017-04-18T11:00:57.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vibhug/data-sensing,Data Sensing,VibhuGanesan,,2017-04-18T11:39:26.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maggiezhou/notebook04d3ed4d47,Notebook04d3ed4d47,Maggie Zhou,,2017-04-18T07:08:45.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harish5661/notebook08809d78af,Notebook08809d78af,HarishSaragadam,,2017-04-18T06:45:10.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wzhwwhy/fork-of-quora-challenge,Fork of Quora Challenge,ZackWang,,2017-04-21T05:41:29.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,liuxiao1028/visualizing-word-vectors-with-t-sne,Visualizing Word Vectors with t-SNE,Tree Diagram,,2017-04-18T06:02:46.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,harikrishnankc/duplicates-of-duplicates,Duplicates of Duplicates,Harikrishnan KC,,2017-04-18T05:55:54.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,lalitm/data-analysis-xgboost-starter-0-35460-lb-e99222,Data Analysis & XGBoost Starter (0.35460 LB e99222,Lalit,,2017-07-07T09:37:09.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,wzhwwhy/notebook34767cd1bc,Notebook34767cd1bc,ZackWang,,2017-04-18T04:12:32.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rjsaito/duplicates-of-duplicates,Duplicates of Duplicates,RikiSaito,,2017-04-19T16:44:18.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ya1379/notebook35963ef440,Notebook35963ef440,Yakov,,2017-04-18T01:59:38.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gosuddin/notebook85fc573153,Notebook85fc573153,Gosuddin Siddiqi,,2017-06-12T20:24:15.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,antgoldbloom/notebook9229a75b1f,Notebook9229a75b1f,Anthony Goldbloom,,2017-04-17T21:14:45.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,h101010/notebook32b6fbed44,Notebook32b6fbed44,h101010,,2017-04-17T18:38:57.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rahulm7/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),novicem,,2019-12-07T12:49:39.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/informationgain,informationgain,Paul Larmuseau,,2017-04-18T20:36:33.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,kenshi/notebooka9cccc1a7c,Notebooka9cccc1a7c,Kenshi,,2017-04-17T17:43:00.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,joecorkerton/basic-test,basic test,Joe Corkerton,,2017-04-17T15:51:36.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,joecorkerton/notebooka81b0661e7,Notebooka81b0661e7,Joe Corkerton,,2017-04-17T14:58:35.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/fork-of-fork-of-semantic-similarity-for-short-sent,Fork of Fork of Semantic similarity for short sent,Paul Larmuseau,,2017-04-17T15:23:16.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,shakurova/notebook9741e17925,Notebook9741e17925,llotus_eater,,2017-04-17T14:31:28.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mikell/xgb-with-whq,XGB with whq,insist,,2017-04-18T06:10:39.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,gautam1858/notebookfbf5b72697,Notebookfbf5b72697,Gautam Ramachandra ,,2017-04-17T11:16:16.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,karthick7/sample1,sample1,Karthick Venkatesan,,2017-04-17T16:08:59.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,axelius/my-noob-attempt-at-quora,My noob attempt at Quora,Amil Khare,,2017-04-17T01:40:01.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maggiezhou/notebook04037ed153,Notebook04037ed153,Maggie Zhou,,2017-04-17T01:12:17.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ameyapandilwar/quora-question-pairs,Quora Question Pairs,Ameya Pandilwar,,2017-04-17T01:07:26.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,aliceyangxi/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),AliceYang,,2017-04-16T23:41:35.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,protei/notebook2dd589fd4b,Notebook2dd589fd4b,SunDevil,,2017-04-16T23:23:21.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/fork-of-semantic-similarity-for-short-sentences,Fork of Semantic similarity for short sentences,Paul Larmuseau,,2017-04-17T14:34:13.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ngupta0511/simple-exploration-notebook-quora-ques-pair,Simple Exploration Notebook - Quora Ques Pair,Nikita Gupta,,2017-04-16T09:48:50.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,smurching/notebook91151c93b3,Notebook91151c93b3,smurching,,2017-04-16T07:11:36.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,hongbo/lstm-with-word2vec-embeddings,LSTM with word2vec embeddings,Hongbo Zhang,,2017-04-16T04:42:22.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,anrizel/notebook8a02156bf3,Notebook8a02156bf3,Anrizel,,2017-04-15T19:33:28.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vladiz/notebook65f31b26bb,Notebook65f31b26bb,Vladi,,2017-04-15T19:28:56.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,madhuvanthi/notebook6470c1eb1f,Notebook6470c1eb1f,MadhuvanthiGuruprasad,,2017-04-15T15:56:49.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,qinpersevere/quora-eda-model-selection-roc-pr-plots-236321,"Quora EDA & Model selection (ROC, PR plots) 236321",qinpersevere,,2017-04-15T13:54:32.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jaijanyani/notebookb3821e48b2,Notebookb3821e48b2,JaiJanyani,,2017-04-15T13:27:52.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,davidfumo/fuzzy-feature-based-classification,Fuzzy feature based classification,Ragnar,,2017-04-15T11:01:51.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,davidfumo/xgb-starter-with-feature-engineering,XGB starter With Feature Engineering,Ragnar,,2017-05-05T22:25:55.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dodomi/notebook6aef4eb57f,Notebook6aef4eb57f,dododo,,2017-05-27T15:07:46.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dodomi/asdadad,asdadad,dododo,,2017-04-15T08:16:18.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jatavsandeep/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Sandeep,,2017-04-15T06:46:25.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vipindas/quora-v-11,quora.v.11,VipinDas,,2017-04-15T07:10:05.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,dodomi/notebook21a8c72cfd,Notebook21a8c72cfd,dododo,,2017-04-19T08:04:50.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,vipink21/notebook70f3e353da,Notebook70f3e353da,Vipin Kumar,,2017-04-18T02:51:18.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bdrisc/notebookc043dbdba5,Notebookc043dbdba5,bdrisc,,2017-04-24T20:07:54.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,pankajb64/notebook4a79dcd397,Notebook4a79dcd397,Pankaj Bhambhani,,2017-04-15T01:17:42.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,moukafih/notebookb0ccd0ddf5,Notebookb0ccd0ddf5,youness_k,,2017-04-14T22:53:50.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,niking/test1,Test1,Nik King,,2017-04-14T21:39:50.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sreedevigangarapu7/notebookb4ac4f8320,Notebookb4ac4f8320,sreeG,,2017-04-14T19:51:54.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,uditsaini/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),udit,,2017-04-14T15:52:51.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chrisslz/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),chrisslz,,2017-04-25T14:02:50.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,andingo/notebookcf25d0f67e,Notebookcf25d0f67e,andingo,,2017-04-14T12:45:02.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,qinpersevere/notebooka33d94ba86,Notebooka33d94ba86,qinpersevere,,2017-04-15T13:52:14.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,buaashijie/notebook28c1901f98,Notebook28c1901f98,liushijie,,2017-04-14T10:23:26.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,buaashijie/notebookd81974b9ef,Notebookd81974b9ef,liushijie,,2020-03-20T08:54:01.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,rosettast/notebook5deabb37e6,Notebook5deabb37e6,XinNie,,2017-04-14T11:40:13.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,mttzju/notebook8e1ef2e4e1,Notebook8e1ef2e4e1,ErinMao,,2017-04-14T06:16:16.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/false-negative-or-short-questionpairs-in-trainings,False negative or Short questionpairs in trainings,Paul Larmuseau,,2017-04-14T06:07:10.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,alexxiao/notebooka6d68582fe,Notebooka6d68582fe,alexxiao,,2017-04-14T05:50:02.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,bonitao/data-analysis-xgboost-starter-0-35460-lb,Data Analysis & XGBoost Starter (0.35460 LB),Bonitão,,2017-04-14T04:11:17.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,badoun/data-analysis-xgboost-starter-0-35460-lb-0e9cbe,Data Analysis & XGBoost Starter (0.35460 LB 0e9cbe,kuhung ,,2017-04-14T02:34:43.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,plarmuseau/false-negatives-questionpairs-in-trainingset,False negatives questionpairs in trainingset ?,Paul Larmuseau,,2017-04-13T23:58:11.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,thorinn/notebookfdd245011a,Notebookfdd245011a,Thomas Bonnet,,2017-04-13T21:08:14.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,elezot/notebooka3b14f153c,Notebooka3b14f153c,Elena Z,,2017-04-13T17:55:03.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,moukafih/notebookf5d6f09989,Notebookf5d6f09989,youness_k,,2017-04-13T13:52:22.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,moukafih/notebook39fc65edb1,Notebook39fc65edb1,youness_k,,2017-04-13T13:42:35.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,knightericz/notebook6380c92c23,Notebook6380c92c23,EricZ,,2017-04-13T12:59:30.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,ifung21/testss,testss,iFung21,,2017-04-13T13:08:02.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,chenjianzhou/import-nltk-import-xgboost-as-xgb,import nltk import xgboost as xgb,chenjianzhou,,2017-04-16T15:23:13.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,jimfeng/notebook3069e8f845,Notebook3069e8f845,JF,,2017-04-15T09:28:09.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,sandeepb2013/notebookdf7e242bb4,Notebookdf7e242bb4,SANDEEP,,2017-04-14T10:52:22.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,maggiezhou/test-20170413-1,Test_20170413_1,Maggie Zhou,,2017-04-18T06:54:10.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,acamara/notebook10492264d9,Notebook10492264d9,Arthur Câmara,,2017-04-12T17:23:03.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,trgosselin14/quora-competitions-nlp,Quora Competitions NLP,trgosselin14,,2017-04-12T19:22:59.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs
+,,,,,0,liuzhipengseven/notebook60c76b4ee5,Notebook60c76b4ee5,Seven,,2017-04-12T12:46:08.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,quora-question-pairs

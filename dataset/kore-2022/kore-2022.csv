@@ -1,0 +1,53 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,bovard/kore-intro-i-the-basics,Kore Intro I: The Basics,Bovard,,2022-04-12T22:07:26.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],100,kore-2022
+,,,,,0,lesamu/reinforcement-learning-baseline-in-python,Reinforcement Learning baseline in Python,Samuel [qdive],,2022-05-20T06:55:04.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],87,kore-2022
+,,,,,0,bovard/kore-intro-ii-mining-kore,Kore Intro II: Mining Kore,Bovard,,2022-04-12T18:21:37.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,kore-2022
+,,,,,0,huikang/kore-2022-match-analysis,Kore 2022 Match Analysis,Tong Hui Kang,,2022-06-11T21:57:42.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],54,kore-2022
+,,,,,0,bovard/kore-intro-iii-expanding-the-empire,Kore Intro III: Expanding the Empire!,Bovard,,2022-04-12T18:21:46.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],47,kore-2022
+,,,,,0,robga/kore-episode-scraper-match-downloader,Kore Episode Scraper Match Downloader,robga,,2022-04-25T18:05:58.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,kore-2022
+,,,,,0,bovard/kore-intro-iv-combat,Kore Intro IV: Combat!,Bovard,,2022-04-12T18:21:51.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,kore-2022
+,,,,,0,edwardcrookenden/kore-starter-6th-in-beta-rule-based-agent,Kore Starter - 6th in Beta - Rule Based Agent 👾,Edward Crookenden,,2022-04-15T13:18:55.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],42,kore-2022
+,,,,,0,gabrielmilan/drl-ga-starter,DRL + GA starter,Gabriel Gazola Milan,,2022-05-01T13:00:39.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,kore-2022
+,,,,,0,realneuralnetwork/kore-beta-1st-place-solution,Kore Beta 1st place solution,Kabir Ivan,,2022-04-15T13:02:11.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],39,kore-2022
+,,,,,0,jmerle/koreye-2022-integration,Koreye 2022 integration,Jasper van Merle,,2022-05-06T20:59:10.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,kore-2022
+,,,,,0,mpwolke/i-did-nothing-it-s-a-bovard-clone,I did Nothing! It's a Bovard Clone,Marília Prata,,2022-04-12T20:10:48.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,kore-2022
+,,,,,0,solverworld/kore-beta-1st-place-solution,Kore Beta 1st place solution,SolverWorld,,2022-05-20T17:20:31.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,kore-2022
+,,,,,0,foolishboi/live-submission-tracking,Live Submission Tracking,Aman Singh,,2022-04-20T10:08:20.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,kore-2022
+,,,,,0,huikang/kore-2022-imitation-training,Kore 2022 Imitation Training,Tong Hui Kang,,2022-06-12T20:06:27.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,kore-2022
+,,,,,0,huikang/kore-2022-feature-generator,Kore 2022 Feature Generator,Tong Hui Kang,,2022-06-12T08:37:26.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kore-2022
+,,,,,0,pixyz0130/kore-intro-i-the-basics-unofficial,Kore Intro I: The Basics unofficial 実況,pixyz0130,,2022-06-05T13:35:02.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kore-2022
+,,,,,0,pixyz0130/kore-intro-ii-mining-kore-unofficial,Kore Intro II: Mining Kore unofficial 実況,pixyz0130,,2022-06-12T13:41:42.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kore-2022
+,,,,,0,masaishi/kore2022-q-learning-long-term-reward,kore2022 Q-learning  Long Term Reward,masaishi,,2022-04-28T18:36:48.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kore-2022
+,,,,,0,obkyrush/kore-env-multi-agent-interaction,Kore env multi-agent interaction,obkyrush,,2022-04-12T20:59:35.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kore-2022
+,,,,,0,bovard/kore-attacker-agent,Kore Attacker Agent,Bovard,,2022-04-12T19:43:45.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,kore-2022
+,,,,,0,mpware/game-observations,Game observations,MPWARE,,2022-04-24T14:30:48.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,kore-2022
+,,,,,0,kirderf/kore2022-winrate-evaluation-multiprocessing,Kore2022 winrate evaluation multiprocessing,Kirderf,,2022-05-17T07:26:35.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,kore-2022
+,,,,,0,pixyz0130/kore-ii-mining-labo-note,Kore II: Mining Labo_Note 実況,pixyz0130,,2022-06-19T06:29:03.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,kore-2022
+,,,,,0,bovard/kore-python-random-agent,Kore Python Random Agent,Bovard,,2022-04-12T17:13:38.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,kore-2022
+,,,,,0,solverworld/computing-speed-for-kore-harvesting-routes,Computing Speed for Kore Harvesting Routes,SolverWorld,,2022-06-05T20:15:00.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,kore-2022
+,,,,,0,pixyz0130/kore-iii-make-shipyard-labo-note,Kore III: make_shipyard Labo_Note 実況,pixyz0130,,2022-05-21T13:13:28.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,kore-2022
+,,,,,0,huikang/kore-2022-tri-action-imitation-agent,Kore 2022 Tri-action Imitation Agent,Tong Hui Kang,,2022-06-12T23:57:37.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,kore-2022
+,,,,,0,pixyz0130/kore-2022-understand-competition,Kore 2022 understand competition 実況,pixyz0130,,2022-05-19T13:01:08.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,kore-2022
+,,,,,0,robga/shaving-microseconds,Shaving microseconds,robga,,2022-06-03T15:25:42.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,kore-2022
+,,,,,0,solverworld/getting-nice-kore-classes-documentation,Getting Nice Kore Classes Documentation,SolverWorld,,2022-05-12T16:37:37.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kore-2022
+,,,,,0,thomasdubail/kore2022-winrate-evaluation,Kore2022 winrate evaluation,Thomas,,2022-04-28T06:09:43.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kore-2022
+,,,,,0,bovard/kore-balanced-agent,Kore Balanced Agent,Bovard,,2022-04-12T20:16:39.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,kore-2022
+,,,,,0,louisburtz/visualize-board-control-area-with-voronoi-diagrams,Visualize Board Control Area With Voronoi Diagrams,ljb,,2022-06-17T07:46:29.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kore-2022
+,,,,,0,wptouxx/kore-2022-win-rate-prediction,kore 2022 win rate prediction,taichi boy,,2022-06-06T08:27:51.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kore-2022
+,,,,,0,cv13j0/kore-2022-reinfocement-learning,"☄️ Kore 2022, Reinfocement Learning.",C4rl05/V,,2022-05-11T05:05:34.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kore-2022
+,,,,,0,realneuralnetwork/kore-2022-simple-il-example,Kore 2022 simple IL example,Kabir Ivan,,2022-04-30T22:27:40.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,kore-2022
+,,,,,0,thedevastator/tf-imitation-training-using-torch-tensors,TF Imitation Training using Torch Tensors ❤️,The Devastator,,2022-06-22T14:28:41.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kore-2022
+,,,,,0,pixyz0130/kore-i-basics-labo-note,Kore I: basics Labo_Note 実況,pixyz0130,,2022-06-15T13:53:37.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kore-2022
+,,,,,0,sgreiner/kore-balanced-agent-with-defence,Kore Balanced Agent with Defence,Arc,,2022-05-21T16:57:43.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kore-2022
+,,,,,0,thomasdubail/kore2022-read-files,Kore2022 Read files,Thomas,,2022-04-23T02:19:36.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kore-2022
+,,,,,0,foolishboi/plotting-kore-w-r-t-time,Plotting Kore w.r.t Time,Aman Singh,,2022-04-20T12:00:23.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kore-2022
+,,,,,0,bovard/kore-miner-agent,Kore Miner Agent,Bovard,,2022-04-12T19:53:52.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,kore-2022
+,,,,,0,solverworld/plot-submission-score-trajectory,Plot Submission Score Trajectory,SolverWorld,,2022-06-23T14:02:55.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,kore-2022
+,,,,,0,pixyz0130/kore-intro-iv-combat-unofficial,Kore Intro IV: Combat! unofficial 実況,pixyz0130,,2022-05-21T13:17:30.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,kore-2022
+,,,,,0,ghrangel/generate-images-from-kore-grid,Generate images from kore_grid,Heriberto Rangel Robles,,2022-05-06T15:08:18.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kore-2022
+,,,,,0,noob000/kore-env-study-for-rl,Kore env Study for RL,Kensuke Yamamoto,,2022-05-13T09:47:03.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kore-2022
+,,,,,0,pixyz0130/kore-intro-iii-expanding-the-empire-unofficial,Kore Intro III:Expanding the Empire! unofficial 実況,pixyz0130,,2022-05-21T13:18:53.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,kore-2022
+,,,,,0,ashokkumargarain/kore-22,kore 22,Ashok Kumar Garain,,2022-06-16T03:11:00.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kore-2022
+,,,,,0,salejuice/beta-1st-solution,Beta-1st-Solution,Xiaozhu Lin,,2022-06-10T08:09:29.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,kore-2022
+,,,,,0,arunprathap/kore-2022-testbench,Kore 2022 Testbench,Arun P R,,2022-05-19T18:39:59.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,kore-2022
+,,,,,0,ghrangel/my-kore-competition,My kore competition,Heriberto Rangel Robles,,2022-06-24T17:57:32.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kore-2022

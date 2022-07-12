@@ -1,0 +1,193 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,marknagelberg/rmsle-function,RMSLE function,Mark Nagelberg,,2015-07-01T22:20:47.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],59,machinery-tube-pricing
+,,,,,0,fchollet/keras-starter-code,Keras starter code,fchollet,,2016-01-02T21:15:44.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,machinery-tube-pricing
+,,,,,0,jpopham91/rmlse-vectorized,RMLSE (Vectorized),jpopham91,,2015-07-05T02:32:18.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],23,machinery-tube-pricing
+,,,,,0,abhishek/beating-the-benchmark-v1-0,Beating the Benchmark v1.0,Abhishek Thakur,,2015-07-01T08:28:10.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,machinery-tube-pricing
+,,,,,0,yifanxie/training-set-split-for-cross-validation,Training set split for cross validation,Yifan Xie,,2015-07-15T20:09:42.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,machinery-tube-pricing
+,,,,,0,titericz/xgbooost-new-new-new-new-new,xgbooost new new new new new,Giba,,2015-07-11T23:11:56.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,machinery-tube-pricing
+,,,,,0,tanayz/python-implementation-of-r-benchmark,Python implementation of R benchmark,Tanay,,2015-07-09T11:29:57.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,machinery-tube-pricing
+,,,,,0,kumareshd/xgbooost,xgbooost,Kumaresh,,2015-07-15T19:21:41.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,machinery-tube-pricing
+,,,,,0,kumareshd/xgbooost-222,xgbooost 222,Kumaresh,,2015-08-16T00:58:06.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,machinery-tube-pricing
+,,,,,0,nickel/tubes-processing,tubes processing,Rafael Crescenzi,,2015-07-08T19:48:35.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,machinery-tube-pricing
+,,,,,0,nickel/bracket-pricing-variable-and-fixed-cost,bracket pricing variable and fixed cost,Rafael Crescenzi,,2015-07-14T20:38:27.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,machinery-tube-pricing
+,,,,,0,dchudz/head-all-the-files,head all the files,David Chudzicki,,2015-06-30T22:22:37.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,machinery-tube-pricing
+,,,,,0,abhishek/beating-the-benchmark-v1-1-28,Beating the Benchmark v1.1 ~.28,Abhishek Thakur,,2015-07-02T17:01:47.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,machinery-tube-pricing
+,,,,,0,andrewmatteson/beating-the-benchmark-v1-0,Beating the Benchmark v1.1 ~.28,Andrew Matteson,,2015-07-07T16:56:04.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,machinery-tube-pricing
+,,,,,0,euclides/files-info-python,Files Info - Python,Euclides Filho,,2015-07-01T18:03:45.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,machinery-tube-pricing
+,,,,,0,crawford/python-groupby-and-merge-exercises,Python Groupby and Merge Exercises,Chris Crawford,,2017-11-07T18:03:52.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,machinery-tube-pricing
+,,,,,0,titericz/test-beating-the-benchmark-fork,"test (""Beating the benchmark"" fork)",Giba,,2015-07-10T23:25:20.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,machinery-tube-pricing
+,,,,,0,victork/sparse-specs-in-python,Sparse specs in Python,Victor K,,2015-07-08T18:28:45.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,machinery-tube-pricing
+,,,,,0,justfor/test1,Test1,Justfor,,2015-08-30T22:48:40.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,machinery-tube-pricing
+,,,,,0,pakozm/python-tube-properties-and-rfs,Python tube properties and RFs,Francisco Zamora-Martinez,,2015-07-13T15:16:10.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,machinery-tube-pricing
+,,,,,0,iliasmir/xgbooost,xgbooost,Ilias Mir,,2015-07-11T22:45:06.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,machinery-tube-pricing
+,,,,,0,titericz/beating-the-benchmark-v1-0,Beating the Benchmark v1.0,Giba,,2015-07-01T23:10:20.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,machinery-tube-pricing
+,,,,,0,vishalyo990/caterpillar-tube-pricing-eda,Caterpillar tube pricing_EDA,Vishal Kumar,,2018-01-18T18:54:20.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,machinery-tube-pricing
+,,,,,0,marbel/keras-dummy-vars,keras_dummy_vars,marbel,,2015-07-31T03:31:45.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,machinery-tube-pricing
+,,,,,0,titericz/xgbooost-5,xgbooost 5,Giba,,2020-02-21T03:01:02.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,machinery-tube-pricing
+,,,,,0,vincentf/early-stopping-for-xgboost-python,Early stopping for xgboost Python,Vincent Firmansyah,,2015-07-27T05:57:26.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,machinery-tube-pricing
+,,,,,0,titericz/xgbooostx,xgbooostX,Giba,,2015-07-11T17:50:25.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,machinery-tube-pricing
+,,,,,0,company/beating-the-benchmark-v1-0,Beating the Benchmark v1.0,Ravi Chandibhamar,,2015-07-06T07:48:44.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,machinery-tube-pricing
+,,,,,0,rusticodanan/xgbooost-222,xgbooost 222,Rustico Danan  IV,,2015-08-28T02:34:06.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,esemi77/visualizing-important-variables,Visualizing important variables,esemi77,,2016-04-15T15:02:26.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,cslayer20/visualizing-important-variables,Visualizing important variables,Cesar Bonilla,,2015-08-17T06:22:54.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,mjahrer/keras-starter-code,Keras starter code,Michael Jahrer,,2015-08-12T08:14:55.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,drpatrickchan/keras-deep-learning,keras_deep_learning,Patrick Chan,,2015-08-04T08:26:14.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,philculliton/xgbooost-4,xgbooost 4,Phil Culliton,,2015-08-02T20:57:30.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,dsim1683/xgboost-v0,xgboost_v0,Madhuparna,,2015-07-31T08:06:03.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,shyshkov/aaaaa,RandomForestRegressor,Oleg Shyshkov,,2015-07-30T14:29:29.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,michiexile/michiexile-explores,michiexile explores,michiexile,,2015-07-27T12:32:22.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,kumareshd/xgbooost-2,xgbooost 2,Kumaresh,,2015-08-05T13:22:46.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,sionek/xgbooost-definitely-overfitting-3,xgbooost definitely overfitting 3,Grzegorz Sionkowski,,2015-07-25T22:01:03.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,sushize/xgbooost-0-2369-xgb,xgbooost--0.2369-xgb,Shize Su,,2015-07-12T02:28:46.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,ghozlan/simple-benchmark-py,simple-benchmark.py,Hassan Ghozlan,,2015-07-10T01:35:46.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,company/beating-the-benchmark-v1-1,Beating the Benchmark v1.1,Ravi Chandibhamar,,2015-07-06T07:53:32.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,nikitakis/beating-the-benchmark-v1-0,Beating the Benchmark v1.0,Antonis Nikitakis,,2015-07-02T13:29:23.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,akhmetov/beating-the-benchmark-with-gbm,Beating the Benchmark with GBM,Andrey  Akhmetov,,2015-07-01T16:15:01.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,machinery-tube-pricing
+,,,,,0,jihyeseo/load-df-eda-pricing-catepillar,load df eda pricing catepillar,Jihye Sofia Seo,,2018-05-08T17:09:09.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,alkhwarizmi/notebookeed2b3b644,Notebookeed2b3b644,AlKhwarizmi,,2017-04-20T01:34:08.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,shuvamnandi/notebookc78f880b65,Notebookc78f880b65,Shuvam Nandi,,2017-04-03T15:05:35.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,shinto/notebook99d05b476b,Notebook3be7ae593a,ShintoTheruvil,,2016-11-02T17:26:40.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,christopherf/notebook6e7dcebaa4,Notebook6e7dcebaa4,ChristopherFrazier,,2016-10-20T17:48:52.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,israelzuniga/listfiles,listfiles,Israel Zuniga,,2016-08-25T21:53:14.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,tendlya/notebookb09cd1a423,Notebookb09cd1a423,Tendlya,,2016-08-04T21:05:15.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,potterxu/xgboost-regression,xgboost regression,potter xu,,2016-04-21T09:10:46.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,saddlethen/tmp01,tmp01,Seth DeLand,,2016-01-28T16:58:43.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,worm2689/shivam,shivam,ShivamUpadhyay,,2015-12-13T01:06:10.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,merico/new-title,New Title,Thomas Schmidt,,2015-12-03T11:59:04.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,inderpuneetsingh/xgbooost-222,xgbooost 222,Inder,,2015-08-31T23:46:45.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,tantawy/submission,submission,tantawy,,2015-08-31T22:39:55.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,tantawy/test-script,test script,tantawy,,2015-08-31T22:33:18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chandrad/test1,Test1,cup3,,2015-08-31T23:46:58.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,cleberamaral/script-7,Script_7,Cleberson,,2015-08-31T13:42:39.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,leviself/test1,Test1,Levi Self,,2015-08-31T01:03:12.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,elijahpaling/xgboost,XGBoost,Elijah Paling,,2015-08-31T02:17:44.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,techface/python-tube-properties-and-rfs,Python tube properties and Xgboost,Roman Dunin,,2015-08-30T23:59:36.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,dimitrislev/test1-3,Test1-3,Dimitris Leventis,,2015-08-30T19:35:29.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,strawberryman/test1678,Test1678,Strawberry_Field,,2015-08-30T14:24:58.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,strawberryman/test1234,Test1234,Strawberry_Field,,2015-08-30T13:45:23.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,strawberryman/test123,Test123,Strawberry_Field,,2015-08-29T19:50:59.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,dimitrislev/test1-1,Test1-1,Dimitris Leventis,,2015-08-29T15:05:29.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,dimitrislev/test1,Test1,Dimitris Leventis,,2015-08-29T13:43:10.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,gpistre/test1,Test1,Gerome Pistre,,2015-08-29T12:41:45.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,jomisilfe/brabu-2,Brabu,Brasbu,,2015-08-28T16:13:18.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,datayo/xgboost,XGBoost,Vu Anh,,2015-08-28T00:32:46.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,rc95401/trial4,Trial4,rc95401,,2015-08-27T05:54:37.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,strawberryman/python-implementation-of-r-benchmark,Python implementation of R benchmark,Strawberry_Field,,2015-08-26T21:12:30.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,ianintas/running-panda1,Running Panda1,Ian Gillard,,2015-08-26T01:59:57.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,smeschke/looking-at-bill-of,Looking at Bill of,smeschke,,2015-08-25T21:55:01.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,bruttoblotto/test2,Test2,blot,,2015-08-25T21:19:11.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,justfor/does-kaggle-script-not-work-anymore,Does Kaggle Script not work anymore,Justfor,,2015-08-27T18:05:21.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,esemi77/new-script,new script,esemi77,,2015-08-25T13:50:22.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,cleberamaral/scrpt-3,Scrpt_3,Cleberson,,2015-08-25T11:16:07.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,vitalstatistix/test01,Test01,vitalstatistix,,2015-08-25T13:19:04.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sujeeth/testing-with-xg,testing with xg,Sujeeth S,,2015-08-24T20:09:49.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,vitalstatistix/test1,Test1,vitalstatistix,,2015-08-25T07:38:40.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kmalev/test1,Test1,Kirill Malev,,2015-08-24T08:24:57.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,strawberryman/test1,Test1,Strawberry_Field,,2015-08-29T18:33:32.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,strawberryman/xgbooost-2223,xgbooost 2223,Strawberry_Field,,2015-08-22T20:01:12.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kumareshd/try-other-methods,Try other methods,Kumaresh,,2015-08-23T03:38:11.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,mestari/convert,Convert,Tapio Räsänen,,2015-08-21T17:00:32.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,johnnystrings/xgbooost-222,xgbooost 222,Johnny Strings,,2015-08-20T14:42:09.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,shashankc/xgbooost-222-again,xgbooost 222-again,RandomForestGump,,2015-08-20T03:58:59.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,k11245/keras-starter-code,Keras starter code,11245,,2015-08-17T12:05:17.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,butchland/xgbooost-222,xgbooost 222,butch landingin,,2015-08-19T05:47:30.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,jsrice/xgbooost-222-1408,xgbooost 222_1408,jrice,,2015-08-15T12:34:47.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,ijaganjac/xgboost-in-python,xgboost in python,Lamb,,2015-08-14T13:35:12.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,alexxanderlarko/py-xgb-full-1408,PY-XGB-full_1408,Alexander  Larko,,2015-08-14T07:53:57.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,alexxanderlarko/xgbooost-222-1408,xgbooost 222_1408,Alexander  Larko,,2015-08-14T05:18:52.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,dominalexican/cat-tube-alex,CAT Tube Alex,Alex,,2015-08-14T04:07:52.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/xgb-watchlist,XGB watchlist,Here to discover,,2015-08-13T10:20:52.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sionek/py-xgb-full,PY-XGB-full,Grzegorz Sionkowski,,2015-08-20T13:22:46.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/py-xgb-full,PY-XGB-full,Here to discover,,2015-08-12T20:58:28.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/xgbooost-222-fe,xgbooost 222-FE,Here to discover,,2015-08-12T13:49:50.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,alexxanderlarko/xgbooost-222-1208,xgbooost 222_1208,Alexander  Larko,,2015-08-12T09:08:50.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sionek/xgbooost-py-diff,xgbooost Py-diff,Grzegorz Sionkowski,,2015-08-12T12:18:06.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/xgbooost-py-diff,xgbooost Py-diff,Here to discover,,2015-08-12T07:05:52.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,ashapulin/xgbooost-222,xgbooost 222,Andrey Shapulin,,2015-08-11T08:55:18.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/xgbooost-222-no-change,xgbooost Py,Here to discover,,2015-08-12T10:05:26.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,domcastro/xgb-v1-1,xgb_v1,Bluefool,,2015-08-14T12:51:18.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/xgbooost-222,xgbooost 222,Here to discover,,2015-08-11T17:08:15.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,mestari/xgbooost-222,xgbooost 222,Tapio Räsänen,,2015-08-27T20:24:47.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,nagidexter/xgbooost-222-v2,xgbooost 222_v2,Dexter,,2015-08-08T14:54:22.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,looluo/xgbooost3,xgbooost3,Evilbot,,2015-08-15T11:11:58.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,marjanmaz/caterpillar1,Caterpillar1,Marjan Mazrouei Sebdani,,2015-08-07T16:47:26.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sebda1/p-xgbooost-222,P xgbooost 222-,Here to discover,,2015-08-11T14:20:27.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,ninapham/xgboost-in-python,xgboost in python,Nina,,2015-08-05T18:27:55.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,miguel2523/keras-starter-code,Keras starter code,Miguel,,2015-08-05T16:39:48.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,duttaroy/xgboost,XGboost,OverfitterScientist,,2015-08-13T08:02:31.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,bradyjm1/brady1,brady1,Jay O'Brady,,2015-08-05T12:22:47.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,inderpuneetsingh/testing-script,Testing Script,Inder,,2015-08-04T21:26:15.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,inderpuneetsingh/xgbooost-2,xgbooost 2,Inder,,2015-08-04T20:09:53.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,purfvfet/cat-xgboost,cat_xgboost,Gautam Sabnis,,2015-08-04T18:38:14.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,jpierzch/test-scripts,test scripts,jpierzch,,2015-08-04T05:38:52.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,looluo/xgbooost-2,xgbooost 2,Evilbot,,2015-08-20T15:51:41.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,zllake/xgbooost,xgbooost,LakeZhang,,2015-08-01T12:58:08.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sqyandmy/example,Example,RichPeña,,2015-08-05T20:36:26.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,nickcanny/t3st1,T3st1,NickCantafio,,2015-07-31T18:52:25.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,dariosan/testdarius,TestDarius,DarioSantoro,,2015-07-31T13:10:58.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,victorcantor/xgbooost-2-1,xgbooost 2.1,Sloth,,2015-08-02T21:36:08.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,yasharzeighami/xgbooost-2,xgbooost 2,yashar zeighami,,2015-07-30T23:00:02.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,marbel/cat-random-forest,cat_random_forest,marbel,,2015-07-30T21:47:24.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,looluo/xgbooost,xgbooost,Evilbot,,2015-08-01T12:33:57.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kumareshd/xgbooost-22,xgbooost 22,Kumaresh,,2015-07-30T12:55:28.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,gpistre/pytests,pyTests,Gerome Pistre,,2015-07-29T01:44:50.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,rusbro/initial,Initial,rusbro,,2015-07-28T18:08:19.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sairaviteja/xgbooost-23,xgbooost 23,karanamsairaviteja,,2015-08-04T15:29:36.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,codebender/xgbooost-2,xgbooost 2,CodeBender,,2015-07-26T17:39:12.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,domcastro/xgboost-ne,xgboost_ne,Bluefool,,2015-07-25T23:03:52.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chandrad/xgboost-ne,xgboost_ne,cup3,,2015-08-25T02:30:51.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,mehwish/xgbooost,xgbooost ,sarah(MN),,2015-07-25T22:13:43.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chandrad/xgbooost-nbf,xgbooost_nbf,cup3,,2015-07-25T17:16:43.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,liangcc/test-py,test.py,Chih-Cheng Liang,,2015-07-25T05:57:47.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,tanayz/xgbooost-definitely-overfitting-4,xgbooost definitely overfitting 4,Tanay,,2015-07-23T08:28:01.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,tanayz/xgbooost-definitely-overfitting-3,xgbooost definitely overfitting 3,Tanay,,2015-07-23T07:40:34.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kumareshd/xgbooost-definitely-overfitting-5,xgbooost definitely overfitting 5,Kumaresh,,2015-07-22T21:01:02.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,karma86/logistic-regression,Logistic Regression,Sergei Bugrov,,2015-07-22T00:01:10.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chandrad/xgbooost-definitely-overfitting-2,xgbooost definitely overfitting 2,cup3,,2015-08-10T03:04:51.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kumareshd/xgbooost-definitely-overfitting-4,xgbooost definitely overfitting 4,Kumaresh,,2015-07-21T18:38:42.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chandrad/xgbooost-xg,xgbooost_xg,cup3,,2015-07-20T21:28:23.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chitrasen/xgbooost-definitely-overfitting-2,xgbooost definitely overfitting 2,Chitrasen,,2015-07-21T12:16:33.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,deepcnn/xgb-btb,xgb btb,Deep,,2015-07-20T05:24:07.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,upulbandara/xgbooost-definitely-overfitting-2,xgbooost definitely overfitting 2,Upul Bandara,,2015-07-20T04:15:11.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,abhijitk/xgbooost-definitely-overfitting-2,xgbooost definitely overfitting 2,Abhijit K,,2015-07-20T00:31:20.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,abhijitk/xgbooost-definitely-overfitting,xgbooost definitely overfitting,Abhijit K,,2015-07-19T21:45:37.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,abhijitk/xgbooost,xgbooost,Abhijit K,,2015-07-19T21:41:19.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,hmzhan/xgbooost,xgbooost,Haimao Zhan,,2015-07-18T14:33:33.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sashshetty/keras-starter-code,Keras starter code,SashShetty,,2015-07-17T19:14:19.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,karma86/xgbooost-v3,xgbooost-v3,Sergei Bugrov,,2015-07-17T06:09:34.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,purfvfet/python-implementation-of-r-benchmark,Python implementation of R benchmark,Gautam Sabnis,,2015-07-16T15:59:51.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,karma86/xgbooost-v2,xgbooost v2,Sergei Bugrov,,2015-07-16T00:08:03.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,totalrecall/testing,testing,boxybrown,,2015-07-15T19:07:36.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,adamwong/xgbooost2,xgbooost2,Adam W,,2015-07-16T16:20:56.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,phunter/xgbooost-42,xgbooost-42,phunter,,2015-07-15T00:42:34.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,avitkauskas/training-set-split-for-cross-validation,Training set split for cross validation,Alvydas Vitkauskas,,2015-07-14T21:04:12.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,nilotpal/xgbooost-a1,xgbooost a1,Nilotpal Sinha,,2015-07-14T04:41:03.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,phillipadkins/xgbooost,xgbooost,Phillip Chilton Adkins,,2015-07-14T03:09:55.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,alielhassouni/xgbooost-a1,xgbooost a1,Ali el Hassouni,,2015-07-14T02:20:37.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,springcoil/training-set-split-for-cross-validation,Training set split for cross validation,Peadar Coyle,,2015-07-15T21:04:59.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chandrad/xgbooost-exp,xgbooost_exp,cup3,,2015-07-13T18:45:56.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sionek/xgbooost,xgbooost,Grzegorz Sionkowski,,2015-08-21T01:30:21.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,karjun/python-implementation-of-r-benchmark,Python implementation of R benchmark,karjun,,2015-07-13T15:23:26.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,karma86/xgbooost,xgbooost,Sergei Bugrov,,2015-07-13T14:07:18.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,mikado2/xgbooost,xgbooost,"jason, min",,2015-07-13T11:32:09.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,jkapila/xgbooost,xgbooost,Jakshere,,2015-07-14T20:05:42.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,yifanxie/simple-python-test-run,simple python test run,Yifan Xie,,2015-07-12T22:28:36.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,bountyhunter/xgbooostlll,xgbooostlll,BountyHunter,,2015-07-12T19:28:19.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,namilkim/xgbooost,xgbooost,namir_K,,2015-07-12T00:57:34.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,janekk/xgbooost,xgbooost,Janek,,2015-07-11T23:43:28.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,yifanxie/xgbooost,xgbooost,Yifan Xie,,2015-07-12T00:23:06.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sushize/xgb-2421,xgb_2421,Shize Su,,2015-07-11T16:02:08.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kapetis/xgbooost,xgbooost,DataMiner,,2015-07-11T14:53:34.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,vivekuday26/experiment,Experiment,Vivek Uday,,2015-07-11T09:38:32.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,ghozlan/traincsv-numonly-py,traincsv-numonly.py,Hassan Ghozlan,,2015-07-11T01:12:01.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,chitrasen/beating-the-benchmark-v1-0,Beating the Benchmark v1.0,Chitrasen,,2015-07-10T18:53:13.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,kontoudi/test-beating-the-benchmark-fork,Joined data xgboost,Konstantina,,2015-07-13T15:02:40.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sorenravn/tubes-processing,tubes processing, sravn,,2015-07-08T20:44:47.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,totalrecall/hello-world,hello world,boxybrown,,2015-07-15T19:06:59.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,delijati80/play-with-data,play with data,delijati,,2015-07-07T07:42:06.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,pakozm/sklearn-rf,sklearn RF,Francisco Zamora-Martinez,,2015-07-04T13:18:30.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,eldosuky/beating-the-benchmark-v1-0,Beating the Benchmark v1.0,El-dosuky,,2015-07-04T08:12:52.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sushize/keras-starter-code,Keras starter code,Shize Su,,2015-07-04T02:27:22.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,priyansu/beating-the-benchmark-v1,Beating the Benchmark v1.1,Priyansu Panda,,2015-07-02T05:22:21.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,sorenravn/beating-the-benchmark-v1-0,Beating the Benchmark v1.0, sravn,,2015-07-02T00:20:26.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing
+,,,,,0,victorcantor/beating-the-benchmark-v1-0,Beating the Benchmark with GBM,Sloth,,2015-07-02T07:48:09.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,machinery-tube-pricing

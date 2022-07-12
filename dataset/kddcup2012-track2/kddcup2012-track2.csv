@@ -1,0 +1,2 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,shivashi11/ad-click-prediction,ad_click_prediction,Aditya Srivastava,,2020-01-07T10:18:31.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,kddcup2012-track2

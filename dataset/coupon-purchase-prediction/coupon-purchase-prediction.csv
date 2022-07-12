@@ -1,0 +1,54 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,tobycheese/translate-capsule-text-and-genre-name,Translate capsule text and genre name,Toby Cheese,,2015-07-22T17:52:09.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,coupon-purchase-prediction
+,,,,,0,prasanna23/translate-japanese-to-english-python,translate japanese to english - python,Prasanna,,2015-09-06T15:23:34.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,coupon-purchase-prediction
+,,,,,0,mkurnikov/modified-cos-similarity-python-edition,"modified cos similarity, python edition",Maxim Kurnikov,,2015-09-06T17:35:59.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,coupon-purchase-prediction
+,,,,,0,haisland0909/sample-machine-learning-script,sample logistic regression script,haisland0909,,2015-08-12T06:59:22.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,coupon-purchase-prediction
+,,,,,0,fviktor/japanise-english-translation-table,Japanese => English translation table,Viktor,,2015-08-15T23:31:55.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,coupon-purchase-prediction
+,,,,,0,tonets/0-00664coupon,0.00644coupon [0.000146],tonets,,2015-08-06T16:31:35.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,coupon-purchase-prediction
+,,,,,0,dchudz/python-template,Python Template,David Chudzicki,,2015-07-15T15:31:18.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,coupon-purchase-prediction
+,,,,,0,ouwyukha/cpp-surprise,CPP_surprise,Yukha Ouw,,2020-05-13T07:02:51.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,coupon-purchase-prediction
+,,,,,0,mtutek/latitude-longitude-to-kilometers,Latitude&longitude to kilometers,mtutek,,2015-07-29T14:37:37.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,coupon-purchase-prediction
+,,,,,0,nickthegreek/translate-all-fields-using-google-trans,"Translate all fields, using Google trans",ntg,,2015-07-27T16:05:29.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,coupon-purchase-prediction
+,,,,,0,tmjiang/vanilla-multi-class-logistic-regression,vanilla multi-class logistic regression,b6s,,2015-09-30T22:45:48.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,coupon-purchase-prediction
+,,,,,0,drainvers/ponpare-coupon-purchase-eda,Ponpare_Coupon_Purchase_EDA,Daniel Kong,,2020-05-15T01:48:40.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,drainvers/ponpare-coupon-benchmark-cosine,Ponpare_Coupon_Benchmark_Cosine,Daniel Kong,,2020-05-13T07:18:57.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,mmasson/playing-with-coupons,playing_with_coupons,Matheus Masson,,2015-08-10T00:24:47.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,cashfeg/0-00540coupon,0.00540coupon [0.000802],hoxosh,,2015-08-07T05:22:52.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,cashfeg/0-00644coupon,0.00644coupon,hoxosh,,2015-08-04T10:45:48.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,michelj/translate-capsule-text-and-genre-name,Translate capsule text and genre name,MichelJ,,2015-07-28T09:27:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,cavaunpeu/translate-capsule-text-and-genre-name,Translate capsule text and genre name,cavaunpeu,,2015-07-25T22:03:01.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,coupon-purchase-prediction
+,,,,,0,ouwyukha/cpp-turi-fr,CPP_turi_FR,Yukha Ouw,,2020-05-13T09:45:46.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,ouwyukha/cpp-turi-rfr-adagrad,CPP_turi_RFR_adagrad,Yukha Ouw,,2020-05-15T03:21:51.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,ouwyukha/cpp-turi-itemcontent,CPP_turi_ItemContent,Yukha Ouw,,2020-05-22T05:35:08.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,jihyeseo/coupon-purchase-eda,coupon purchase eda,Jihye Sofia Seo,,2018-05-08T17:16:56.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,raziahmed/notebook3cfc353146,Notebook3cfc353146,Razi Ahmed,,2017-04-24T07:51:59.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,mlightm/notebookbc61708ab0,Notebookbc61708ab0,OverfitMe,,2017-04-09T07:57:01.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,gcasajus/notebook25b713aea6,Notebook25b713aea6,Gonzalo Casajús Rey,,2017-03-25T00:45:53.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,tmjiang/modified-cos-similarity-python-edition,"modified cos similarity, python edition",b6s,,2015-09-28T07:19:20.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,tmjiang/vanilla-bi-class-gbt,vanilla bi-class rf,b6s,,2015-09-26T10:14:28.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,tmjiang/beating-the-benchmark-python-fork,Beating the Benchmark Python Fork,b6s,,2015-09-24T16:26:06.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,tmjiang/vanilla-decision-tree,vanilla decision tree,b6s,,2015-09-24T15:35:23.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,sandeepd/coupon,Coupon ,SandeepDharmavarapu,,2015-09-14T09:56:11.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,tks0123456789/seaborn-visualization,Seaborn Visualization,tks,,2015-09-11T18:09:41.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,liamconnell/scripto-uno,scripto uno,Liam Connell,,2015-09-08T03:13:09.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,fall14123/test111,test111,fall14123,,2015-08-29T21:40:43.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,ynreaugk/single-class-kernel-density-estimation,Single class Kernel Density Estimation,ravenrevolver,,2015-08-24T21:18:34.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,pcalley/testscript,TestScript,Paul Calley,,2015-08-19T22:15:30.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,jhanni/sample-logistic-regression-script,sample logistic regression script,János Róbert Gub,,2015-08-18T22:58:42.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,gaohuazuo/random-coupon,random coupon,Huazuo Gao,,2015-08-11T01:21:54.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,sbalajis/read-data-and-simple-processing,Read data and simple processing,sbalajis,,2015-08-09T21:47:18.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,ssedhain/script,script,ssedhain,,2015-08-04T14:44:24.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,vykhand/0-00644coupon,0.00644coupon,Andrey Vykhodtsev,,2015-08-04T10:46:20.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,szelenin/read-data-and-simple-processing,Read data and simple processing,Sergii Zelenin,,2015-08-03T18:57:25.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,michelj/read-data-and-simple-processing,Read data and simple processing,MichelJ,,2015-07-29T09:47:03.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,mattvonrohr/wordcloud,Wordcloud,Matt,,2015-07-27T11:18:23.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,mattvonrohr/installed-python-packages,Installed Python packages,Matt,,2015-07-27T07:32:32.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,mahosg/hey-2121,Hey!@2121,Soham Goswami,,2015-07-18T16:27:05.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,prakashanand/testing,testing,PrakashAnand,,2015-07-18T15:50:59.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,prakashanand/kanflak,kanflak,PrakashAnand,,2015-07-18T15:17:22.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,prakashanand/first-test,first_test,PrakashAnand,,2015-07-18T14:50:20.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,darkpseudo/first-test,First test,darkpseudo,,2015-07-18T13:52:55.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,prakashanand/demo-1,Demo_1,PrakashAnand,,2015-07-18T05:16:35.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,renugunta/testing,Testing,Pramod,,2015-07-17T09:57:39.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,kontoudi/duplicate-id-s,Duplicate id's,Konstantina,,2015-07-17T11:46:32.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction
+,,,,,0,kontoudi/first-approach,First approach,Konstantina,,2015-07-16T16:21:23.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,coupon-purchase-prediction

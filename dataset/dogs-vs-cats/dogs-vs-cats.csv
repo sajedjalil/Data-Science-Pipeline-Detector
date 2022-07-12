@@ -1,0 +1,618 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,uysimty/keras-cnn-dog-or-cat-classification,Keras CNN Dog or Cat Classification,Uysim,,2019-06-16T02:14:44.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],860,dogs-vs-cats
+,,,,,0,ruchibahl18/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,ruchibahl,,2020-06-29T13:59:58.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],129,dogs-vs-cats
+,,,,,0,bulentsiyah/dogs-vs-cats-classification-vgg16-fine-tuning,Dogs vs. Cats Classification (VGG16 Fine Tuning),Bulent Siyah,,2019-01-12T22:59:47.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],124,dogs-vs-cats
+,,,,,0,bhuvanchennoju/hey-siri-is-it-a-or-class-f1-0-992,Hey Siri!! is it a 🐱 or🐶 !! 🎯 Class-f1 (0.992),Bhuvan Chennoju,,2021-06-25T18:19:54.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],98,dogs-vs-cats
+,,,,,0,serkanpeldek/keras-cnn-transfer-learnings-on-cats-dogs-dataset,"Keras CNN, Transfer Learnings on Cats&Dogs Dataset",Serkan Peldek,,2020-04-16T12:42:23.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],66,dogs-vs-cats
+,,,,,0,jaeboklee/pytorch-cat-vs-dog,[pytorch] cat vs dog,zzaebok,,2019-05-19T07:29:02.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,dogs-vs-cats
+,,,,,0,andrewkh/test-time-augmentation-tta-worth-it,Test Time Augmentation (TTA) ... worth it?,Andrew Khalel,,2018-11-07T17:03:16.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,dogs-vs-cats
+,,,,,0,angqx95/feature-extractor-fine-tuning-with-keras,Feature Extractor & Fine-tuning with Keras,aqx,,2020-07-02T11:06:52.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,dogs-vs-cats
+,,,,,0,kartik2khandelwal/beginner-s-implementation-of-deep-learning,Beginner's Implementation of Deep Learning,Kartik Khandelwal,,2021-12-26T12:28:58.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,dogs-vs-cats
+,,,,,0,ahmedgeka/dog-vs-cat-get-ready, Dog vs Cat   get ready ! 🐕 😾,Ahmed___Gaber____,,2022-02-27T18:41:25.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,dogs-vs-cats
+,,,,,0,kalelpark/compare-albumentations-and-imagedatagenerator,Compare Albumentations and ImageDataGenerator,Wongi Park,,2022-01-08T07:23:39.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,dogs-vs-cats
+,,,,,0,abhishekrock/cat-dog-try,cat_dog_Try,AbhishekChatterjee,,2018-09-30T15:28:05.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,dogs-vs-cats
+,,,,,0,xiormeesh/cnn-cats-vs-dogs-classification,CNN: cats vs dogs classification,Katya Gordeeva,,2019-11-20T09:22:20.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,dogs-vs-cats
+,,,,,0,nguyenhoa/dog-cat-classifier-gradcam-with-tensorflow-2-0,Dog-Cat Classifier+ GradCAM with Tensorflow 2.0,Hoa Nguyen,,2020-07-29T17:51:53.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,dogs-vs-cats
+,,,,,0,abrahamanderson/dogs-cats-prediction-via-cnns-in-competition,Dogs & Cats Prediction via CNNs in Competition,Abraham Anderson,,2021-05-09T11:41:44.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,dogs-vs-cats
+,,,,,0,batibayburak/catsvsdogs,CatsvsDogs,Burak  Batıbay,,2019-07-09T10:41:31.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],18,dogs-vs-cats
+,,,,,0,maxitype/5-95-cnn-no-transfer-learning-beginner,#5| 95% | CNN | No transfer learning | Beginner |,MaxiType,,2022-01-28T23:03:53.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,dogs-vs-cats
+,,,,,0,meetnagadia/cats-vs-dogs-classification,Cats🐈vs Dogs 🐕Classification,Meet Nagadia,,2022-01-11T10:51:48.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,dogs-vs-cats
+,,,,,0,emrhn1031/cnn-guide-from-start-to-finish-all-in-one,CNN-guide-from-start-to-finish-all-in-one,Emirhan BOZDOGAN,,2022-01-19T19:57:07.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,dogs-vs-cats
+,,,,,0,danielvalyano/94-acc-cnn-dogsvscats-no-tranfer-learning,🎯 94% acc. CNN DogsVsCats (no tranfer-learning ),Daniel Valyano,,2021-12-11T16:20:10.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,dogs-vs-cats
+,,,,,0,abdulbasitniazi/vs-how-cnn-works-eda,🐶Vs😻✅ How CNN Works? ✅EDA✅,Abdul Basit,,2022-07-04T13:03:42.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,dogs-vs-cats
+,,,,,0,razamh/dogs-vs-cats-image-classification-89,Dogs vs Cats Image Classification 89%,Mohsin Raza,,2021-07-03T04:26:20.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,dogs-vs-cats
+,,,,,0,riteshpatil8998/top-7-dogs-vs-cats,Top 7% - Dogs Vs. Cats,Ritesh Patil,,2021-01-23T07:05:27.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,dogs-vs-cats
+,,,,,0,rohit1277/cat-dog-classifier-using-vgg16-transfer-learning,Cat & Dog Classifier Using VGG16 Transfer Learning,Rohit Thakur,,2019-08-01T07:30:51.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,dogs-vs-cats
+,,,,,0,ryujungsoo/it-rainning-cat-and-dog-cnn,It' rainning cat and dog - CNN(발표용),RyuJungSoo,,2022-05-16T07:10:02.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,dogs-vs-cats
+,,,,,0,shunsukeozeki/dogs-basic-dcgan-tutorial-with-pytorch,Dogs - Basic DCGAN Tutorial with PyTorch,Shun-Oze,,2022-02-17T07:13:59.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,dogs-vs-cats
+,,,,,0,imcr00z/intro-to-cnn-dogs-vs-cats,Intro to CNN (Dogs vs. Cats),Roman Netrebin,,2021-11-13T03:53:13.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,dogs-vs-cats
+,,,,,0,ggsri123/p1-dogsvscats-using-tensorflow,P1: DogsvsCats using Tensorflow🐶😺,Srinidhi,,2022-02-12T01:48:11.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dogs-vs-cats
+,,,,,0,rohanpatnaik/image-classification-using-svm-in-cnn-dogs-vs-cat,Image Classification Using SVM In CNN (Dogs vs Cat,Rohan Patnaik,,2021-10-01T01:44:43.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dogs-vs-cats
+,,,,,0,muhammadelmallahka/binary-classification-using-transfer-learning,binary classification using transfer learning,Muhammad Elmallah,,2021-07-24T22:15:04.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dogs-vs-cats
+,,,,,0,ishaanaditya/dogs-vs-cats,Dogs vs Cats,Ishaan Aditya,,2020-07-24T09:03:36.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dogs-vs-cats
+,,,,,0,pintu161/transfer-learning-in-pytorch-using-resnet18,Transfer Learning in pytorch using Resnet18,commandX,,2019-06-30T13:43:09.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,dogs-vs-cats
+,,,,,0,kirtichauhan11/dog-or-cat-let-s-see,🐕‍🦺🐈Dog or Cat??Let's see!!🐕‍🦺🐈,Kirti Chauhan,,2022-01-27T14:37:28.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,dogs-vs-cats
+,,,,,0,rahulkumarp/dog-vs-cats,dog_vs_cats,Rahul kumar,,2021-02-04T18:45:01.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,dogs-vs-cats
+,,,,,0,kamalkhumar/cat-or-dog-classification-keras-cnn,Cat or Dog Classification - Keras CNN,Kamal Khumar,,2020-10-10T08:52:21.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,dogs-vs-cats
+,,,,,0,ggsri123/p2-dogs-vs-cats-using-cnn-augmentations-tl,P2: Dogs vs Cats using CNN-Augmentations & TL😺🐶,Srinidhi,,2022-02-12T02:15:52.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dogs-vs-cats
+,,,,,0,imcr00z/intro-to-cnn-augmentation-dropout,Intro to CNN: Augmentation & Dropout,Roman Netrebin,,2021-11-15T15:23:49.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dogs-vs-cats
+,,,,,0,ehabibrahim758/dogs-vs-cats-classification-using-keras,Dogs VS Cats Classification Using Keras,ehab ibrahim khalil,,2021-09-27T11:03:39.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dogs-vs-cats
+,,,,,0,oossiiris/k-means-transfer-learning-for-image-classification,K-Means+Transfer Learning for Image Classification,Osiris,,2021-06-23T11:20:19.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dogs-vs-cats
+,,,,,0,gurujaing/dog-vs-cat,Dog vs Cat,Aman Jain,,2021-05-19T12:50:27.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,dogs-vs-cats
+,,,,,0,mustafacicek/dogs-cats-vgg16-implementation-transfer-learning,"Dogs-Cats: VGG16 Implementation, Transfer Learning",Mustafa Cicek,,2021-11-17T16:13:35.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,dogs-vs-cats
+,,,,,0,imcr00z/transfer-learning-dogs-vs-cats-98-acc,Transfer Learning (Dogs vs. Cats) 98% acc.,Roman Netrebin,,2021-11-21T06:30:51.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,dogs-vs-cats
+,,,,,0,gopalbhattrai/dogvscat-cnn-tensorflow-keras-generator-augment,DogvsCat_CNN_Tensorflow_Keras_Generator_Augment..,Gopal Bhattrai,,2021-08-31T08:53:28.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,dogs-vs-cats
+,,,,,0,darthmanav/dog-vs-cat-classification-using-cnn,Dog vs Cat Classification Using CNN,darth manav,,2020-12-24T09:18:45.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,dogs-vs-cats
+,,,,,0,dktalaicha/cat-dog-classification-using-keras-cnn,Cat & Dog Classification using Keras CNN,Dinesh Kumar Talaicha,,2020-08-25T18:29:17.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,dogs-vs-cats
+,,,,,0,vipulshinde/dogs-vs-cats-using-custom-cnn-vgg16-model,Dogs_vs_Cats ( Using Custom CNN & VGG16 Model),Vipul Shinde,,2020-05-01T12:47:50.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,dogs-vs-cats
+,,,,,0,aminesnoussi/cats-vs-dogs-with-cnn-keras,Cats vs Dogs With CNN Keras,Amine SNOUSSI,,2022-02-24T09:29:26.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dogs-vs-cats
+,,,,,0,zehranrgi/cnn-cats-vs-dogs-95-acc,🐾CNN Cats vs Dogs 95%acc ,Zehra Nur,,2021-07-21T19:04:42.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dogs-vs-cats
+,,,,,0,sahil2398/cats-vs-dogs-cnn,Cats vs Dogs CNN,Sahil Arora,,2020-07-15T10:52:30.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dogs-vs-cats
+,,,,,0,skbadhsm/cats-v-s-dogs-resnet50,Cats v/s Dogs Resnet50,skbadhsm,,2020-06-27T10:20:07.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dogs-vs-cats
+,,,,,0,subhamoybhaduri/cnn-cat-and-dog-classification,CNN Cat and Dog Classification,SubhamoyBhaduri,,2020-05-31T07:21:43.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dogs-vs-cats
+,,,,,0,damienpark/image-classification-using-cnn,Image Classification using CNN,Damien Park,,2019-01-04T08:36:12.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,dogs-vs-cats
+,,,,,0,junguchan/cat-dag-with-cnn,cat & dag with CNN,jung_u_chan,,2022-05-16T08:15:08.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,kimdobby/dogs-vs-cats-with-cnn,Dogs vs. Cats with CNN,20011907,,2022-05-15T16:25:04.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,concaption/acc-89-no-transfer-learning-dogs-vs-cats,Acc:~89% No Transfer Learning | Dogs Vs Cats,Usama Navid,,2022-01-13T19:24:31.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,sidharth178/cat-dog-classification-flask-app,cat dog classification Flask App,Sidharth Kumar Mohanty,,2021-07-03T18:06:16.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,subhanjanbasu/dogs-cats-classifier-using-vgg16-and-densenet201,dogs-cats-classifier using vgg16 and densenet201,Subhanjan Basu,,2021-06-08T07:33:35.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,artemygolovnev/vgg16-and-densenet,VGG16 and DenseNet,Artemy Golovnev,,2021-05-27T12:40:51.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,alpertemel/deal-with-cnn-90,Deal with CNN 🐕‍🦺🐈 (%90),Alper Temel,,2020-12-20T11:30:23.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,sejalkshirsagar/cats-vs-dogs-2-transfer-learning,Cats vs Dogs 2 | Transfer Learning,Sejal Kshirsagar,,2020-12-01T03:13:50.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,skbadhsm/cats-v-s-dogs-alexnet,Cats v/s Dogs Alexnet,skbadhsm,,2020-06-26T13:16:22.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,donkeys/keras-binary-cats-dogs-resnet-98,Keras Binary Cats & Dogs ResNet 98%,averagemn,,2019-05-28T21:20:27.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,ddt2036/cat-dog-demo,cat_dog_demo,JIAJING,,2018-12-05T08:40:06.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,dogs-vs-cats
+,,,,,0,kokyongteo/dogs-vs-cats-base-model-vs-vgg16,Dogs vs Cats Base Model vs VGG16,zieger,,2022-03-29T15:33:33.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,ammarabbasi1040/cats-vs-dogs,Cats Vs Dogs,Ammar Abbasi1040,,2021-10-02T10:29:17.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,benyaminghahremani/dog-vs-cat-classification-cnn,Dog vs Cat Classification | CNN,Benyamin Ghahremani Nejad,,2021-08-28T14:14:57.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,phuc16102001/dogs-vs-cats-vgg-style,[Dogs-vs-Cats] VGG style ,Phúc Đỗ Vương,,2022-01-20T10:44:18.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,amiruladlil/cats-vs-dogs-classifier-using-neural-network,Cats vs Dogs Classifier using neural network,Amirul Adlil Hakim,,2021-03-30T11:10:16.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,arunaakula/cat-vs-dog-cnn-dl,CAT VS DOG _CNN_DL,Aruna Akula,,2021-03-14T02:05:47.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,scaomath/washu-math-undergrad-seminar-dec-2020,WashU Math Undergrad Seminar Dec 2020,Shuhao Cao,,2020-12-23T22:50:57.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,jeongwonkim10516/dogs-vs-cats-using-skimage-and-sklearn,Dogs vs Cats using Skimage and Sklearn ,Kingthegarden,,2020-12-02T09:53:42.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,dimakyn/knn-image-classification,knn_image_classification,DimaKyn,,2020-05-11T14:39:14.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,samsonqian/cats-vs-dogs,Cats vs. Dogs,Samson Qian,,2019-08-04T21:31:14.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,jchang4/transfer-learning-resnet50-softmax,Transfer Learning - ResNet50 + Softmax,JustinChang,,2019-01-06T03:29:19.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,iftekharanam/cats-vs-dogs-classification,Cats vs Dogs classification,iftekharanam,,2018-11-21T22:26:06.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,dogs-vs-cats
+,,,,,0,dhurky/cat-vs-dog,cat vs dog,sri dhurkesh,,2021-10-17T14:39:41.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,hiromasatabuchi/dogs-and-cats-efficientnet-vs-my-own-model,"Dogs and Cats, EfficientNet vs My own model",hiromasat,,2021-07-03T17:05:49.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,amalabdallah/catvsdog-tl,catVSdog_tl,Amal Abdallah,,2021-02-21T05:17:45.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,okiehomarismail/image-recognition-with-tensorflow, Image recognition with tensorflow,Ismail Okieh,,2020-12-24T02:46:50.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,harishml/cats-dogs-classification,cats-dogs-classification,harishml,,2020-12-24T10:40:44.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,shyambhu/dog-cat-classification-activation-fn-chapter,Dog/Cat Classification --> activation fn chapter ,shyambhu Mukherjee,,2021-01-12T21:07:05.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,yugampahwa/dog-vs-cats,Dog-Vs-Cats,Yugam Pahwa,,2020-11-24T11:11:53.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,mohamedhasballa/cnn-cat-or-dog-classifier,CNN Cat or Dog Classifier,Mohamed Hasballa,,2020-10-22T15:45:19.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,felipeoliveiraml/dogs-cats-transferlearning-vgg-19,Dogs&Cats | TransferLearning VGG-19,Felipe Oliveira ,,2020-08-07T14:45:07.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,anirbanmalick/pytorch-with-pretrained-model,Pytorch with Pretrained Model,anirban_malick,,2020-07-27T12:15:18.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,kevinyi/dogs-or-cats,Dogs Or Cats,Kevin Yi,,2018-12-27T12:23:12.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,u6yuvi/dog-vs-cat-classification-using-pytorch,Dog Vs Cat Classification Using Pytorch,Utkarsh,,2019-02-21T17:15:18.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,dogs-vs-cats
+,,,,,0,pythonkumar/a-z-cnn-tutorial-cats-vs-dogs,A-Z CNN-Tutorial : Cats vs Dogs,P Kumar,,2022-07-03T16:36:04.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,leeyongbin/it-rainning-cat-and-dog-cnn,It' rainning cat and dog - CNN,LEEYONGBIN,,2022-05-17T11:17:41.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,yahiamohamed/cats-vs-dogs,cats vs dogs,Yahia Mohamed,,2021-12-18T18:03:04.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,truongson1209/dog-cat-solution-aio,Dog Cat Solution - AIO,Son Nguyen,,2021-08-26T19:44:42.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,pezhmansamadi/dogvscat-95,DogVSCat_95%,Pejman Samadi,,2021-08-19T09:28:13.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,abhaymudgal/dogs-vs-cats,Dogs🐶 Vs Cats🐱,Abhay Mudgal,,2021-06-19T10:43:33.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,ankitkumarsaini/fine-tuning-resnet50-inceptionv3,Fine Tuning ResNet50 & InceptionV3,Ankit Kumar Saini,,2020-12-29T07:10:22.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,yasermarey/transfer-learning-inception-v3-on-cats-vs-dogs,Transfer Learning: Inception v3 on Cats vs Dogs,Yaser Marey,,2020-10-14T15:19:29.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,sejalkshirsagar/cats-vs-dogs-1-learning-from-scratch,Cats vs Dogs 1 | Learning from scratch,Sejal Kshirsagar,,2020-12-01T03:09:02.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,hinamxx/catsvsdogs-classification-with-inceptionv3-99,CatsvsDogs Classification with InceptionV3 - 99%,Thinam Tamang,,2020-08-15T12:44:26.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,skbadhsm/cats-v-s-dogs-vgg16,Cats v/s Dogs VGG16,skbadhsm,,2020-06-27T07:56:59.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,v3dsingh/transfer-learning-xception-using-cpu-only,Transfer learning(Xception) using CPU only,Vedant Singh,,2020-04-23T14:31:37.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,irfanmansuri/cat-vs-dogs,cat_vs_dogs,iffy_,,2020-04-09T00:37:38.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,dogs-vs-cats
+,,,,,0,ryujungsoo/cat-vs-dog-cnn,cat VS. dog CNN,RyuJungSoo,,2022-05-14T06:33:22.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,tryingtraining/cats-vs-dogs-get-ready-for-the-next-battle-battle,Cats vs Dogs: Get ready for the next battle battle,TryingTraining,,2022-03-31T20:17:51.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,sameeramin/classifying-cats-and-dogs-with-vgg16,Classifying Cats and Dogs with VGG16 ,Muhammad Sameer,,2021-12-29T10:25:12.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,rainjia/dogvscat,DogVsCat,RAIN jia,,2021-12-15T03:46:19.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,saidaka/akca1996,Akca1996,Said Akça,,2021-09-26T15:13:33.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,wangdorjeesherpa/tfrecords-vs-tfdata,tfrecords_vs_tfdata,Wang Sherpa,,2021-08-18T09:42:47.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,infrarosso/dogs-vs-cats-mobilenet-transfer-learning,Dogs vs Cats ( MobileNet Transfer Learning ),Infrared,,2022-06-26T07:03:11.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,walras/cat-and-dogs-recognition,Cat and Dogs recognition,Kiryl Kucharau,,2021-05-02T19:11:40.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,poipii/pytorch-baseline-dog-vs-cat,pytorch baseline dog vs cat,Loy Juncheng,,2021-03-23T17:19:59.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,ashrafkhan94/image-classification-model-vs-transfer-learning,Image Classification - Model vs Transfer Learning,Ashraf Khan,,2021-02-10T12:55:25.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,condados/my-cnn-for-dog-vs-cats,My CNN for Dog vs Cats,Luís Gabriel Pereira Condados,,2021-02-08T07:41:37.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,mathlasker/dog-vs-cats,dog-vs-cats,Emanuel Afanador,,2021-01-14T05:00:14.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,scaomath/dogs-vs-cats-classification-vgg16-fine-tuning,Dogs vs. Cats Classification (VGG16 Fine Tuning),Shuhao Cao,,2020-10-25T18:02:25.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,ezeanyi/dog-or-cat-with-cnn,Dog or Cat with CNN,Ezeanyi,,2020-12-07T09:34:49.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,pranaykankariya/dogsvscats-binary-classifier-inception-v3,DogsVsCats Binary Classifier (Inception V3),Pranay Kankariya,,2020-09-06T02:43:38.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,kinsomaz/cats-vs-dogs-using-cnn-and-keras-90,Cats vs Dogs using CNN and keras~90%,Kinsomaz,,2020-08-24T18:10:16.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,akhilgupta/cats-vs-dogs-using-cnn-and-keras-90,Cats vs Dogs using CNN and keras~90%,Akhil Gupta,,2020-08-08T12:12:01.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,shakirulhasan/dogs-vs-cats-handcrafted-cnn,Dogs vs Cats: Handcrafted CNN,Shakirul Hasan Khan,,2020-06-26T20:06:22.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,deeppatel23/cat-or-dog-classification,cat-or-dog-classification,Deep Patel23,,2020-06-13T13:25:20.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,jjbuchanan/cnn-study-dogs-vs-cats,CNN Study - Dogs vs. Cats,jjbuchanan,,2019-10-06T10:28:57.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,thanhtra/using-cnn-to-classify-cats-vs-dogs,Using CNN to classify cats vs. dogs,Tra Nguyen,,2019-09-08T21:15:00.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,shubham219/using-simple-keras-convolution-network,Using Simple Keras Convolution Network,ShubhamChauhan,,2019-07-29T08:45:42.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,jayachander123/cnn-keras-tensorflow-data-augmentation,"CNN, Keras, Tensorflow, Data Augmentation, ",Jayachander Reddy,,2019-06-11T06:00:18.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,igorpereirabr/keras-cnn-based-on-transfer-learning,Keras CNN Based on Transfer Learning,IgorPereiraBr,,2019-05-22T20:08:24.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,srispirit/eda-keras-cnn-tutorial-cats-vs-dogs,EDA & Keras CNN Tutorial | Cats vs Dogs,srispirit,,2020-09-14T06:13:30.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,shrawansapre/dogs-vs-cats-convolutional-neural-nets,Dogs vs. Cats - Convolutional Neural Nets,Shrawan Sapre,,2018-12-21T17:50:27.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,dogs-vs-cats
+,,,,,0,hywnhanna/keras-model-test,keras model test,Hanna Han,,2022-05-11T17:35:53.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,midojr/dogs-vs-cats-with-cnn,Dogs vs. Cats with CNN,Ahmad Elnassag,,2022-05-04T04:14:38.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,hebaatef/dogs-vs-cats-classification-using-keras-cnn,Dogs vs Cats Classification using Keras CNN,Heba Atef,,2022-04-10T16:51:19.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,taldanko/pytorch-cats-vs-dogs-cnn,[Pytorch] Cats vs. Dogs 🐱🐶: CNN,Tal Dan,,2022-02-12T18:34:15.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,andy8744/dogs-vs-cats-beginner-cnn-with-augmentation,dogs-vs-cats Beginner CNN with Augmentation,Andy8744,,2022-01-05T19:43:24.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,george267/dogs-vs-cats-cnn,Dogs vs Cats - CNN,Stéphane,,2022-01-01T22:21:45.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,nunograa/dogs-vs-cats-transfer-inceptionv3,Dogs vs Cats Transfer InceptionV3,Nuno Graça,,2021-11-19T14:23:12.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,junggeun/dogsandcats,DogsAndCats,Junggeun,,2021-11-17T09:19:38.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,mahmoudosama122978/cat-dogs-mahmoudosama-val-accuary-98-5,Cat_Dogs_MahmoudOsama_Val_Accuary (98.5%),Mahmoud Osama,,2021-11-07T22:49:28.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,kumasento/dogs-vs-cats,Dogs vs cats,Ruizhe Zhao,,2021-10-02T16:58:31.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,ekoputrawahyuddin/learn-cnn-keras,Learn CNN-Keras,Eko Putra Wahyuddin,,2021-08-30T13:36:01.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,nguynngcphnganh/heheee,Heheee,Nguyễn Ngọc Phương Anh,,2021-08-24T06:42:38.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,giabongh/cat-dog-classification,Cat & Dog Classification,Gia Bảo Ngô Hà,,2021-08-05T13:34:30.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,shelvigarg/classifying-cat-vs-dogs-using-cnn,Classifying cat vs dogs using CNN,Shelvi Garg,,2021-09-15T02:32:06.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,sravyaysk/cnn-to-classify-cats-and-dogs,CNN to classify cats and dogs,sravya yellapragada,,2021-06-27T17:42:27.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,abdelrahmanzied/dogs-vs-cats-binary-classification-using-cnn-93,Dogs VS Cats Binary Classification using CNN 93%,Abdelrahman Abozied,,2021-05-31T00:54:44.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,a7madmostafa/cats-vs-dogs-classifier,Cats-vs-Dogs Classifier,Ahmad Mostafa,,2021-03-13T16:42:04.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,antoreepjana/quick-ml-test-tfrecords-making-cats-dogs,[quick-ml] Test TFRecords Making Cats Dogs ,antoreepjana,,2021-03-11T17:23:21.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,nikhilmishra21/cats-vs-dogs-xception,Cats vs Dogs - Xception ,Nikhil Mishra,,2021-02-11T19:05:13.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,mouradmiled/dog-vs-cat-prediction,dog_vs_cat_prediction,Mourad Miled,,2021-01-27T16:32:37.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,rochittt/cat-vs-dog-rj,Cat Vs Dog RJ,Rochit Jain,,2021-01-17T05:45:08.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,avc0706/pytorch-resnext50-32x4d-kfold-lr-scheduler,"Pytorch (Resnext50_32x4d, Kfold, LR Scheduler)",Atharv Chavan,,2021-01-13T14:04:42.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,sinchubhat/pytorch-transfer-learning-dog-v-s-cat,Pytorch Transfer Learning Dog v/s Cat,Sinchana S R,,2021-01-08T19:51:25.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,aysenurspace/cnn-cat-dog-classification,CNN cat dog classification,princess bubblegum,,2020-11-09T14:21:42.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,onurakkse/simple-tutorial-dogvscat-classification-with-keras,Simple Tutorial DogvsCat Classification with Keras,Onur Akköse,,2020-11-07T13:44:53.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,scaomath/washu-math-circle-how-computer-learns-cat-vs-dog,WashU Math Circle: How computer learns cat vs dog?,Shuhao Cao,,2020-10-25T21:31:27.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,yasermarey/k-folds-cross-validation-cats-vs-dogs,K-Folds Cross Validation Cats vs Dogs,Yaser Marey,,2021-04-20T20:57:30.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,nishanthnarayanan/binary-classification-cat-vs-dog,Binary Classification (cat vs dog),Nishanth Narayanan,,2020-10-10T12:10:39.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,naimur978/transfer-learning-99-9-validation-accuracy,Transfer Learning | 99.9% Validation Accuracy,Naimur Rahman,,2020-09-29T19:34:05.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,shweta2407/dog-cat-classification-using-transfer-learning,Dog-Cat-Classification using Transfer Learning,shweta sharma,,2020-10-05T17:10:07.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,ojimenez19/cat-vs-dogs-with-logisticregression,Cat vs Dogs with LogisticRegression,Oscar Eduardo Jimenez Carmona,,2020-09-04T16:43:16.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,kaushalk/catvsdog,CatVsDog,Kaushal Kashyap,,2020-06-30T08:45:20.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,leoalv99/ml-cd,ML_cd,Leonardo Alvarado Torres,,2020-06-10T04:41:59.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,joydeb28/simple-cnn-using-keras,Simple CNN Using Keras,Joydeb Mondal,,2020-04-26T11:13:25.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,marcostidball/dogs-vs-cats-cnn-with-vgg16,dogs-vs-cats cnn with vgg16,Marcos Tidball,,2020-03-22T23:58:49.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,hurumori/dogs-vs-cats-keras-cnn-with-transfer-learning,"Dogs vs. Cats, Keras CNN with transfer learning",Yohei Komori,,2019-12-30T14:38:37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,priyankabnl/dogs-vs-cats-using-tensorflow,Dogs-vs-cats using tensorflow,Priyanka Bansal,,2019-12-20T19:36:06.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,mitkir/cat-dog-classifier-using-vgg16-tl-da,Cat & Dog Classifier Using VGG16 (TL+DA),Kir Mitiagin,,2019-11-05T14:53:28.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,ritaprava95/dogsvscatssequential,DogsVsCatsSequential,Rito,,2019-10-19T08:26:45.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,gianfa/fastaiv1-image-classifier,[fastaiv1] image classifier,Gianf Angelini,,2019-06-21T09:05:51.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,mishra1993/cnn-cat-dog-classification-with-keras-v1,CNN || Cat Dog Classification with Keras V1,Bharat Bushan Mishra,,2019-01-20T18:10:02.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,balanandjha/kernela449d94a35,kernela449d94a35,Balanand Jha,,2018-11-12T10:42:43.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,dogs-vs-cats
+,,,,,0,vikalptripathi/cnn-model-aditya,CNN MODEL_ADITYA,Vikalp Tripathi,,2022-07-03T12:54:47.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,luizalvesferreira/projetoprocimagens,ProjetoProcImagens,Luiz Alves Ferreira,,2022-06-09T18:20:02.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,yorichi/galamat-sadr-bd-2001-bonus,Galamat_Sadr_BD_2001_Bonus,Galamat Sadr,,2022-05-16T17:38:23.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,helgesander/catdog-pytorch,catdog_pytorch,Sander Hsu,,2022-05-05T12:44:14.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,midojr/transfer-learning-with-mobilenetv2, Transfer-learning with MobileNetV2 🐶,Ahmad Elnassag,,2022-05-04T00:15:48.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,dmitirycherezov/chollet-c-5-3-2,chollet c.5.3.2 Предобученные НС и дообучение,Dmitriy Cherezov,,2022-03-27T13:50:57.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,defcodeking/dogs-vs-cats-vs-pytorch-training-a-cnn-model,Dogs vs. Cats vs. PyTorch - Training a CNN Model,Malay Agarwal,,2022-02-28T14:41:06.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,tyagiarjit/dog-cat-classification,Dog_cat classification,tyagi arjit,,2022-02-20T18:26:25.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,amakis/cat-vs-dog,Cat vs Dog,am.ak.is,,2022-03-06T08:30:13.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,sankethiyer/catvsdog-simplecnn-val-acc-85,CatVsDog_SimpleCNN_val_acc_85%,Sanketh Iyer,,2022-02-14T20:16:08.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,ranjii/rk-dog-vs-cat-01,rk_dog_vs_cat_01,sudo_ranjith,,2022-01-25T18:17:35.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,nersesaghababyan/cat-vs-dog-1,cat vs dog 1,Nerses Aghababyan,,2022-01-27T13:13:39.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,anastasiiakleim/cats-vs-dogs,Cats vs Dogs,Anastasiia Kleim,,2022-01-23T08:58:27.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,mohamedmostafa335/dog-vs-cat-trial,Dog vs. Cat Trial,Mohamed Mostafa,,2021-12-04T21:14:12.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,bargavjagatha/dvcv1-bargav,DvCv1 - Bargav,Bargav Jagatha,,2021-11-30T06:25:34.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,stepanmartyanov/ml2task1,ml2task1,Stepan Martyanov,,2021-11-01T12:02:11.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,vrenganathan/dog-cats-90-accuracy-with-cnn-image-aug,Dog- Cats 90% Accuracy with CNN & Image Aug.,Renga,,2021-10-04T15:39:21.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,yash02000/dogs-vs-cats-classification-using-keras,Dogs VS Cats Classification Using Keras,Yash02000,,2021-10-01T09:26:00.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,jeremiahchinyelugo/dogs-vs-cats-image-classification-vanilla-cnn,Dogs-vs-Cats Image Classification (Vanilla CNN),Jeremiah Chinyelugo,,2021-08-22T07:47:23.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,lilkaskitc/dog-v-cat-deep-learning,Dog v Cat deep learning,lilkaskitc,,2021-07-23T09:56:33.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,momomooo/dog-vs-cat-fastai-so-easy,Dog vs Cat FastAI (So easy!),Momo Su,,2021-07-04T08:57:38.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,jonnyjackk/image-classification-with-cnn-92-42-accuracy,Image Classification with CNN 92.42% accuracy,Thanh Tran,,2021-06-29T10:23:31.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,pkarthik15/dogs-vs-cats-using-fast-ai,Dogs vs. Cats Using FAST.AI,Karthik,,2021-06-19T13:59:57.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,victorzeland/dogs-cats-resnet50,Dogs_cats_ResNet50,Victor Zeland,,2021-06-17T17:35:08.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,negatively/cnn-cat-dog-classification,CNN Cat-Dog Classification,Yo Ro,,2021-06-10T05:03:52.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,empireblaster/statistical-approach,statistical_approach,Dorosh Roman,,2021-05-12T18:19:41.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,debriv/working-with-small-dataset-using-convnet,Working with small dataset using ConvNet,DEBARGHYA BHATTACHARYA,,2021-04-26T23:25:24.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,bargavjagatha/dogs-vs-cats-using-both-vgg16-and-my-own-model,Dogs vs Cats using both VGG16 and my own Model,Bargav Jagatha,,2021-04-24T12:04:17.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,jasgiu/dogs-cats-dataset,Dogs & Cats dataset,Giulia Evangelisti,,2021-03-08T22:44:43.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,gianghus/pytorch-efficientb5-98,Pytorch_EfficientB5_98%,Gianghus,,2021-01-22T10:24:52.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,mrizwansaeed/meow-vs-woof-from-scratch-and-pre-trained,Meow vs. Woof - From scratch and pre-trained,RzS,,2021-01-20T20:52:56.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,sofianeben/classify-dogs-vs-cats,Classify Dogs vs Cats,Sofiane Ben,,2020-12-09T22:47:48.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,bhaskar47/dogsvcats-vgg16-finetunning-vs-bottleneck,dogsVcats VGG16(finetunning vs bottleneck),Bhaskar Kumar Das,,2020-11-12T09:53:25.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,askolkova/image-classification-cats-vs-dogs,Image Classification: Cats vs Dogs,Alena Skolkova,,2020-10-31T21:10:19.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,shreyasvedpathak/cats-vs-dogs-advanced,Cats vs Dogs - Advanced,Shreyas Vedpathak,,2020-10-29T12:42:59.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,laxmena/dogs-vs-cats,Dogs vs Cats,LakshmananMeiyappan,,2020-10-16T07:17:59.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,alexgoncharenko/dogs-or-cats,Dogs or Cats,Alexander Goncharenko,,2020-10-13T14:53:46.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,nathanh4903/fork-of-notebookcefdb99c16,Fork of notebookcefdb99c16,Nathan Hung,,2020-10-23T14:08:38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,safayet1610039/cat-vs-dog-using-tensorflow-augmentation,Cat VS Dog using TensorFlow(augmentation),MD. Safayet Islam,,2020-08-19T08:56:56.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,ar90ngas/dogs-vs-cats-efficientnet,dogs-vs-cats-efficientnet,ar90n,,2020-07-13T14:44:26.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,karankishanshetty/dog-vs-cat-fast-ai,Dog vs Cat (Fast.Ai),Karan Kishan Shetty,,2020-07-10T19:24:19.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,alberto256/cats-vs-dogs-using-cnn-for-classification-91-7,Cats vs Dogs using cnn for classification [91.7%],Alberto256,,2020-10-29T16:04:52.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,marceloruizrodriguez/marcelo-catvsdog,Marcelo CatvsDog,Marcelo Ruiz Rodriguez,,2020-06-30T06:05:06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,asthabhushan/dog-vs-cats,DOG VS CATS !!!!!,Astha Bhushan,,2020-06-26T16:03:08.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,nvnvashisth/keras-conv-sgd-dropout-augmentation,Keras (Conv + SGD + Dropout + Augmentation),Nitin Vashisth,,2020-06-08T08:03:45.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,rickhagwal5/dogsvscats-data-augmenation-via-keras,Dogsvscats-Data-Augmenation-via-Keras,Richa Khagwal,,2020-05-27T21:28:56.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,arunkmr/dogs-vs-cats-classification-via-transfer-learning,Dogs vs Cats Classification via Transfer Learning,Arun Yadav,,2020-05-10T14:49:23.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,aepeters/keras-cnn-dog-or-cat-val-acc-0-99,Keras CNN Dog or Cat Val_acc = 0.99%+,A.E. Peters,,2020-05-04T00:06:29.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,shailendra2811/conv-nn-based-cat-dog-classifier-95-accuracy,Conv NN based Cat/Dog Classifier [95% Accuracy],mlexpert,,2020-04-24T08:50:56.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,gauravbrills/dogs-vs-cats-with-keras,Dogs vs Cats with Keras,Gaurav Rawat,,2020-04-29T20:02:37.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,usmantahirkiani/catdogs-alexnet-keras,catdogs_alexnet_keras,Usman.Tahir.Kiani,,2020-04-03T12:46:44.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,eyyeung/tf-keras-cnn-classification-dogs-vs-cats,TF keras CNN classification - Dogs vs Cats,E Yeung,,2020-03-14T18:49:26.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,abdallahhassan/dogs-cats-resnet50-transfere-learning,dogs_cats: ResNet50 transfere learning,Abdallah Mohamed,,2019-12-25T19:09:18.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,kanishanand/dogs-vs-cats,Dogs vs Cats,Kanish Anand,,2019-12-17T05:53:31.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,abdallahhassan/dogs-vs-cats-vgg-keras-transfere-learning,dogs vs cats: VGG Keras transfere learning ,Abdallah Mohamed,,2019-11-28T12:46:25.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,jjbuchanan/learning-rates-study-dogs-vs-cats,Learning Rates Study: Dogs vs. Cats,jjbuchanan,,2019-10-23T06:20:46.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,kevinissac47/cats-and-dogs-with-keras,Cats and Dogs with keras,kevin issac,,2019-10-01T08:05:06.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,saffetgokcensen/vgg16-transfer-learning-feature-extraction,vgg16_transfer_learning_feature_extraction,SaffetGokcenSen,,2019-08-20T18:02:05.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,pozorvlak/dogs-vs-cats-2,Dogs vs Cats 2,pozorvlak,,2019-09-10T22:02:23.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,ignotus09/image-classification-dogs-vs-cats,Image Classification (Dogs vs. Cats),Anurag Anand,,2019-07-23T16:10:02.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,adisurana1/cats-vs-dogs,Cats vs Dogs,Aditya Surana,,2019-06-01T10:24:45.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,varnez/dog-vs-cat-classification-cnn-approximation,"Dog vs Cat classification, CNN approximation ",Varnez,,2019-05-02T14:56:09.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,hojjatk/cats-or-dogs,Cats or Dogs,Hojjat Khodabakhsh,,2019-04-02T23:01:31.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,manjuransari143/keras-cnn-classifier,Keras CNN Classifier,BlackC@t,,2019-02-26T13:23:46.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,d9d9hann1bal/kernel4ba15451ac,kernel4ba15451ac,John Smith,,2018-11-23T17:06:24.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,muhammedfathi/dogs-vs-cats-using-cnn,Dogs vs cats using cnn,Toofan,,2018-11-12T21:00:40.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,dogs-vs-cats
+,,,,,0,archiearya/notebook96b86b4161,notebook96b86b4161,Merlin1,,2022-06-02T12:46:19.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dipaakgiri/convolutional-neural-networks-by-deeplearning-ai,Convolutional Neural Networks by DeepLearning.AI,"Dipak Giri, B.Sc.",,2022-06-01T12:33:43.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,nenriki/bonus,Bonus,Arailym,,2022-05-29T17:33:17.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,shoroouqalshal/mobilenet-v2-for-cats-and-dogs-classification,MobileNet V2 for Cats and Dogs Classification ,Shoroouq Alshal,,2022-07-04T22:06:49.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,saumandas/cats-vs-dog,Cats vs. Dog,Sauman Das,,2022-05-03T15:09:17.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,nextroot/cats-and-dogs-pytorch-resnet,cats and dogs pytorch resnet,Rishabh,,2022-04-26T05:47:52.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,houssemayed/demo-cnn,Demo CNN,Houssem,,2022-04-09T22:47:52.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dandwvs/dogs-vs-cats-cnn,Dogs vs Cats - CNN,Dan D.,,2022-03-31T22:52:16.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,raghavrastogi75/vs-pytorch-basic-cnn-vs-vgg16,😺 vs 🐶 Pytorch Basic CNN vs VGG16,Raghav Rastogi,,2022-03-25T02:32:56.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,joonasyoon/dogs-vs-cats-classification,Dogs vs. Cats Classification,Joonas,,2022-03-12T15:22:47.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,kishanchaurasiya75/cat-vs-dog,cat-vs-dog,Kishan Chaurasiya,,2022-03-15T00:24:41.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,kyledampier/ml-monday-week-4,ML Monday - Week 4,Kyle Dampier,,2022-01-31T22:55:48.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,jiyeongyim/final-2,(final)재직자교육-초급2,Jiyeong Yim,,2022-01-20T09:17:11.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sdysch/cats-vs-dogs,cats-vs-dogs,Samuel Dezso Dysch,,2022-02-25T20:11:23.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,iliabadekin/notebooksmalldvsc,notebooksmalldvsc,Ilia Badekin,,2021-12-15T15:57:46.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,matyukhingeorge/notebooke8ca27c71b,notebooke8ca27c71b,Matyukhin George,,2021-11-28T00:40:11.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,chngyuanlongrandy/cnn-with-transfer-learning,CNN with Transfer Learning,ChngyuanlongRandy,,2021-11-25T03:03:44.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,raghadsayed/dogs-vs-cats-with-lr,dogs vs cats with LR,raghad sayed,,2021-10-30T09:03:43.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sashalob/h4-lobanov,H4_Lobanov,Sasha Lobanov,,2021-11-01T15:25:12.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,tianbaojie/ucas-nlp-homework1-dnn,UCAS_NLP_homework1_DNN,TianBaojie,,2021-10-18T15:40:47.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,tianbaojie/ucas-nlp-homework1-cnn,UCAS_NLP_homework1_CNN,TianBaojie,,2021-10-18T12:51:26.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dangquana4/sample-dataloader-pretrained-model,sample_dataloader_pretrained_model,Quan Dang,,2021-10-01T13:48:44.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ozanetin/dogsvscats,dogsvscats,Ozan Çetin,,2021-09-08T15:13:14.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ahmedsheded/dogs-vs-cats,Dogs vs. Cats,Ahmed Sheded,,2021-09-03T04:07:53.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sheepb/basic-keras-api-predict-cat-dog,basic keras api predict cat dog,SheepB,,2021-09-14T08:51:17.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,radha20scse2110004/dogvscat-95-477693,DogVSCat_95% 477693,RADHA20SCSE2110004,,2021-08-22T09:49:03.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,thanhdong18891/notebook904a3662aa,notebook904a3662aa,thanhdong188,,2021-07-29T14:19:20.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ogulunal/ogul-s-catsvsdogs,OGUL's catsVSdogs,ogul,,2021-07-30T11:25:05.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,smita09/dogvscats,DogvsCats,Smita Singh,,2021-06-27T22:40:06.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ankit85jain/catordog-using-yolo,CatOrDog using Yolo,Ankit Jain,,2021-06-25T16:06:10.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,babymlin/vgg16-transform-dog-vs-cat-98,VGG16_transform_dog vs cat@98%,BabymLIN,,2021-05-24T12:02:53.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,agggshambhavi/pytorch-transfer-learning,Pytorch Transfer learning,shambhavi,,2021-05-13T16:26:08.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,agggshambhavi/dogs-vs-cats,Dogs vs Cats,shambhavi,,2021-05-13T15:32:09.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,vijendersingh412/cnn-cat-vs-dog-tensorflow,CNN Cat Vs Dog Tensorflow,Vijender Singh,,2021-05-10T06:59:33.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,milanbhadja/cnn-cat-and-dog-classification,CNN CAT AND DOG CLASSIFICATION,milan bhadja,,2021-04-26T14:27:50.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,nuru91/cat-vs-dog,Cat vs Dog,Nuru91,,2021-04-22T09:18:55.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ahmadmustafa12/cat-vs-dog-cnn-dl,CAT VS DOG _CNN_DL,Ahmad Mustafa Anis,,2021-04-22T10:14:49.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sandeepbhogaraju/cnn-binary-classifier,CNN Binary Classifier,Sandeep Bhogaraju,,2021-04-17T14:16:27.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,krishnannavadia/cat-vs-dogs,Cat vs Dogs,Krishnan Navadia,,2021-04-15T18:24:30.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,tigaxmt/dogs-vs-cats,Dogs Vs Cats,Tiago,,2021-04-20T01:20:45.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,preetisingla/dog-cat-classifier-neural-network,Dog-cat classifier: Neural network,Dr. PS,,2021-04-10T05:26:32.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,arunaakula/cat-vs-dog-cnn,Cat vs Dog_CNN,Aruna Akula,,2021-03-13T10:13:20.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dikshanegi2000/cats-vs-dogs-classifier,Cats_VS_Dogs_Classifier,No one,,2021-03-07T08:11:34.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,remmy27/classifying-cats-and-dogs-with-tensorflow-cnns,Classifying Cats and Dogs with Tensorflow CNNs,Remmy Ezeabasili,,2021-03-04T17:41:52.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,duttasd28/cat-v-s-dog,Cat v/s Dog,DuttaSD28,,2021-06-24T14:54:48.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,nguynvnphong/predict-dog-vs-cats-with-cnn,Predict Dog vs Cats with CNN,Nguyễn Văn Phong,,2021-02-19T13:24:29.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,aellatif/cat-vs-dog-rj,Cat Vs Dog RJ,Abdelrahman Abdellatif,,2021-05-03T21:21:55.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,banggeonwoo/notebook01e4f1ac25,notebook01e4f1ac25,kimchibboong,,2021-01-25T09:06:47.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,geraldk/cats-vs-dogs-convnet,Cats_vs_Dogs_convnet,Gerald Kandulu,,2022-02-05T18:43:13.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,kouwis/catsvsdogs-cnn,CatsVsDogs_CNN,kouwis,,2021-01-18T02:44:14.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,faisalahmedbijoy/meow-vs-woof-from-scratch-and-pre-trained,Meow vs. Woof - From scratch and pre-trained,Faisal Ahmed,,2021-01-03T13:40:39.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,satyamkryadav/dogs-vs-cat,dogs vs cat,Satyam kumar Yadav,,2020-12-26T01:28:19.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,aiperialymbaeva/cat-or-dog,Cat or Dog,Aiperi Alymbaeva,,2020-11-06T05:12:45.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,nickdata/dogsvscats-classification-94,DogsvsCats_Classification_94%,nikhitha shivaswamy,,2020-10-29T20:35:49.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,l0new0lf/dogs-vs-cats-classification-vgg16-fine-tuning,Dogs vs. Cats Classification (VGG16 Fine Tuning),Asapanna Rakesh,,2020-10-23T07:04:26.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,zainahmedsharif/mycatsvsdogskernal,mycatsvsdogskernal,Zain Ahmed,,2020-10-18T17:33:00.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,amelnozieres/tensorflow-classify-catsvsdogs,Tensorflow_Classify_catsVsDogs,AmelNozieres,,2020-10-15T14:29:19.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,yasermarey/finding-least-complex-cnn-with-best-performance,Finding Least Complex CNN With Best Performance,Yaser Marey,,2020-10-17T20:26:50.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,shaft49/cats-vs-dogs,cats-vs-dogs,Md Shafiul Islam,,2020-10-08T10:24:40.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,aymannasser/keras-deep-cnn-arch-implementation,Keras Deep-CNN_Arch - Implementation ,Ayman Nasr,,2020-09-18T13:17:38.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dipeshpoudel/catvsdogcnnbasic,CatVsDogCNNBasic,Dipesh Poudel,,2020-09-17T15:53:54.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,orestesom/notebookaf462e5733,notebookaf462e5733,Orestes Olivera Marrero,,2020-09-11T19:02:39.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,timothyalexjohn/cat-dog-classifier,Cat-Dog_Classifier,Timothy Alex John,,2020-08-22T12:58:53.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,bagavathypriya/data-augumentation-technique,DATA augumentation technique,Bagavathy Priya,,2020-08-09T07:57:45.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,anupriyo/dogs-and-cats-classification-using-inception-v3,Dogs and Cats Classification using Inception v3 ,anupriyo,,2020-07-26T10:05:36.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,mirmahathirmohammad/kaggle-dog-vs-cat,Kaggle_Dog_vs_Cat,Mir Mahathir Mohammad,,2020-08-21T15:45:32.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,rahulbana/dog-vs-cat-classifier,Dog vs Cat Classifier,Rahul Bana,,2020-06-17T17:40:39.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,nvnvashisth/learn-pytorch,Learn Pytorch ,Nitin Vashisth,,2020-06-06T12:40:56.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dwayne99/cats-vs-dogs-using-vgg16-in-pytorch,Cats vs Dogs using vgg16 in pytorch,Dwayne Fernandes,,2020-06-05T11:32:51.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,codercop/kernel7358818f4c,kernel7358818f4c,Coder_cop,,2020-08-20T05:22:14.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,uttam94/dog-vs-cat-using-vgg16,dog_vs_cat_using_vgg16,uttam kumar,,2020-05-27T15:23:37.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,pkalra001/keras-dog-cat-cnn-classifier,Keras dog-cat CNN classifier,Piyush Kalra,,2020-05-31T20:46:55.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,saekiryosuke/classifier-pytorch-fine-tuning,classifier Pytorch fine tuning,Saeki,,2020-05-24T10:24:45.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,elbanan/radtorch-demo,RADTorch_Demo,Mohamed Elbanan,,2020-05-17T00:00:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,rsradhakrishnan/cats-vs-dogs-densenet,cats-vs-dogs-DenseNet ,Radhakrishnan,,2020-05-12T18:59:13.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,lalalayujian/pytorch-cnn-dog-vs-cat,[Pytorch] CNN Dog vs Cat,yujian,,2020-05-12T09:03:24.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dormann/dogs-vs-cats-cnn-classification,Dogs Vs Cats CNN Classification,dordsk,,2020-05-05T16:07:17.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,stanislauhlebik/cats-vs-dogs,Cats vs dogs,Stanislau Hlebik,,2020-05-17T16:09:22.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,dserpuhovitin/googlenet-catsvsdog,googlenet_catsvsdog,d.serpuhovitin,,2020-04-29T19:50:57.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,shailendra2811/vgg19-based-cat-dog-classifier-98-accuracy,VGG19 based cat dog classifier[98% Accuracy],mlexpert,,2020-04-25T19:56:52.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sudeshmate/cat-vs-dog-classifier,Cat VS Dog Classifier,sudesh mate,,2020-04-25T21:43:00.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,renyuzhuo/cat-or-dog,Cat Or Dog,RenYuZhuo,,2020-04-20T09:29:17.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,abdulmananengr/keras-cnn-dog-or-cat-classification,Keras_CNN_Dog_or_Cat_Classification,Abdul Manan,,2020-04-19T18:11:54.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ahmetyasrakbal/inceptionresnetv2-fine-tunning,InceptionResNetV2 Fine Tunning,AHMET YASİR AKBAL,,2020-03-28T23:42:26.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sravanchittupalli/catsvsdogs,catsvsdogs,SravanChittupalli,,2020-03-23T12:24:26.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,rishabhx3/dogs-vs-cats,dogs-vs-cats,Rishabh Nimje,,2020-09-03T10:06:45.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,abedkhooli/ktrain-cats-vs-dogs,ktrain-cats-vs-dogs,Abed Khooli,,2020-03-13T09:01:23.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,aashiqb/dogs-vs-cats-keras-cnn,Dogs vs. Cats - Keras CNN,Aashiq Boga,,2020-02-09T19:42:59.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,mylee2009/vgg-16-tl-vs-vgg-hard-coded-vs-small-nn,VGG-16(TL) vs VGG(hard coded) vs Small NN,MyleeSG,,2020-02-02T14:25:57.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,yairhadad1/cnn-classification,CNN Classification,Yair Hadad,,2020-02-02T08:26:45.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,gadaadhaarigeek/vgg16-cat-or-dog,VGG16 - Cat or Dog?,GadaaDhaariGeek,,2020-02-06T12:40:48.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,abdallahhassan/dogs-cats-inceptionv3-transfer-learning,dogs_cats: InceptionV3 transfer learning,Abdallah Mohamed,,2019-12-28T12:05:09.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,abdallahhassan/dogs-cats-mobilenetv2-transfere-learning,dogs_cats: MobileNetV2 transfere learning,Abdallah Mohamed,,2019-12-20T20:29:50.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,kanametov/cats-vs-dogs,Cats_vs_Dogs,Azamat Kanametov,,2019-11-22T14:36:01.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,vgautam99/keras-cnn-dog-or-cat-classification,Keras CNN Dog or Cat Classification,Vikas Gautam,,2019-10-21T12:38:45.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ztaihong/cats-dogs-mobilenetv2-transfer-learning,Cats_Dogs_MobileNetV2_Transfer_Learning,张太红老师,,2019-11-02T08:33:53.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ztaihong/cats-dogs-basic-cnn-re-tl,cats_dogs_basic_cnn_re_tl,张太红老师,,2019-10-19T04:50:52.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ztaihong/cats-dogs-basic-cnn,cats_dogs_basic_cnn,张太红老师,,2019-10-18T19:32:18.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,ahmed1234444/cnntransferlearningtraininalldata-keras,"CNNTransferLearningTrainInAllData, keras",Ahmed Ayman,,2019-10-07T14:29:07.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,raflyalk/dogs-vs-cats,dogs-vs-cats,M Rafli Al Khadafi,,2019-09-14T05:12:09.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,vladsamarov/dog-cat-training-without-validation,Dog & cat - training without validation,Vlad Samarov,,2019-08-27T15:48:54.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,atsushi015/forked-from-cats-vs-dogs-classification,forked from: Cats vs Dogs classification,Atsushi,,2019-10-18T21:43:56.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,jdkorea/dog-and-cats,dog and cats,Jung Dong Kim,,2019-08-19T09:23:06.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,inotaku/using-fine-tuned-model-of-vgg16-by-keras,Using fine-tuned model of VGG16 by Keras,Takuhiro Inoue,,2019-08-07T04:11:30.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,eddyn73/keras-cnn-dog-or-cat-classification-demo,Keras CNN Dog or Cat Classification - DEMO,Edison Palomino,,2019-08-08T20:57:35.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,vinayjaingarg28/cats-vs-dog-classifier,Cats vs dog classifier,Vinay jain,,2020-04-22T10:33:08.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,good74152/dogs-vs-cats-use-fastai-v3,Dogs vs Cats(use fastai_v3),good74152,,2019-07-16T03:28:06.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,foonia/dogs-vs-cats,dogs-vs-cats,"Jeonghun, Lee",,2019-07-02T12:10:57.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sajaldeb25/dog-and-cat-by-cnn-karnel-2,Dog and cat by CNN karnel-2,Sajal Debnath,,2019-07-02T13:03:51.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,sajaldeb25/dog-and-cat-by-cnn,Dog and Cat by CNN,Sajal Debnath,,2019-06-23T21:34:16.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,iashreya/dogscatsclassifier,DogsCatsClassifier ,Shreya Anand,,2019-09-10T06:45:20.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,vishalranjaniitgn/kernel022ed2ee68,kernel022ed2ee68,VishalPrasad,,2019-06-08T09:03:45.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,mohabdiab/dogs-vs-cats,Dogs vs. cats,Mohab,,2019-05-25T02:23:46.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,descrierx/cats-dogs-wo-pretrain-nw,cats&dogs_wo_pretrain_nw,Shubham Gupta,,2019-05-22T09:58:02.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,parkjuhee/catdog-inception3-flatten,catdog-inception3.flatten,juhee,,2019-04-04T04:03:31.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,parkjuhee/catdog3-vgg-gap-noaug-alldata-64x64-gray,catdog3-vgg-gap-noaug-alldata-64x64.gray,juhee,,2019-03-15T05:06:14.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,someshkb10/cats-vs-dogs-cnn-classifier,Cats vs Dogs-CNN-Classifier,Somesh ,,2019-02-20T23:22:46.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,srinivas365/cats-vs-dogs-classifier-using-fastai-v1-0-3,cats vs dogs classifier using fastai_v1.0.3,srinivas365,,2021-07-11T11:00:41.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,zgding/cat-dog-demo-d6cd15,cat_dog_demo d6cd15,zgding,,2019-02-28T01:36:10.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,pocahontas1010/cats-dogs-classifier-with-pytorch,Cats Dogs Classifier with Pytorch,AnaHristian,,2018-12-04T10:25:44.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,bigkizd/convolution-neural-network-for-classification,Convolution Neural Network For Classification,toandaominh1997,,2018-11-16T03:03:10.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,niemtany/cats-vs-dogs-classification,Cats vs Dogs classification,Tanya Niemi,,2018-11-21T22:00:42.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,abhishekrock/cat-dog-transfer-learning-tensorflow,Cat-Dog-transfer-learning-Tensorflow,AbhishekChatterjee,,2019-03-10T14:59:27.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,dogs-vs-cats
+,,,,,0,jacky95090/cat-dag-with-cnn,cat & dag with CNN,wei sheng sun,,2022-06-05T13:58:47.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mansursharipbek/mansur-sharipbek-and-sultanbek-kosher,Mansur_Sharipbek_and_Sultanbek_Kosher,Mansur Sharipbek,,2022-05-16T16:55:57.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mabuu1/cat-dog-classification,cat-dog-classification,Thắng Phạm,,2022-05-16T16:07:46.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mahmoudabdullah821/3-tf-data-data-augmentation-with-tensorflow,3) [tf.data] Data augmentation with TensorFlow,Mahmoud Abdullah,,2022-05-15T13:22:27.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,saumandas/mnist-cnn,MNIST CNN,Sauman Das,,2022-05-03T15:36:29.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,vishma/notebook-gan-cat-dog,notebook_GAN_cat_dog,VishmaDias,,2022-05-05T18:54:25.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mkamadeus/cats-vs-dogs-maas,Cats vs Dogs - MaaS,Matthew Kevin Amadeus,,2022-05-04T19:23:10.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,wasdac/dogs-vs-cats-transfer-learning,dogs_vs_cats_transfer_learning,Tejas R,,2022-05-07T07:28:34.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,hemasowjanyamamidi/dogs-vs-cats,dogs_vs_cats,Hema Sowjanya Mamidi,,2022-05-04T05:38:08.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,wasdac/dogs-vs-cats,dogs_vs_cats,Tejas R,,2022-06-02T05:58:46.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,dentistdad/how-the-hell-do-tensorflow-records-work,How the hell do Tensorflow Records work,Paul,,2022-04-14T03:38:38.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sikanderhayat33/cats-and-dogs,cats and dogs ,sikandar,,2022-04-20T13:20:06.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,dandwvs/dogs-vs-cats-inception-v3,Dogs vs. Cats - Inception V3,Dan D.,,2022-04-01T19:27:59.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,marwa96/notebook06a1800f15,notebook06a1800f15,Marwa Ahmed,,2022-02-20T14:45:03.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,salamullah/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,salam ullah,,2022-02-11T10:27:43.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,lifelonglearnerit/dogs-vs-cats-tensorflow-augumented,dogs_vs_cats_tensorflow_augumented,Tomasz Waszczewski,,2022-02-19T20:32:03.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,halimkevin/uas-cv-no-4,UAS CV No.4,Kevin Halim,,2022-02-10T04:49:19.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,edgardjonathan/comvis-4,Comvis 4,Edgard Jonathan,,2022-02-09T17:10:08.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,halimkevin/uas-cv-no-3,UAS CV No.3,Kevin Halim,,2022-02-09T12:11:21.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,edgardjonathan/comvis-3,Comvis 3,Edgard Jonathan,,2022-02-09T14:35:02.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,abdallamahmoudamin/cats-vs-dogs-using-vgg,cats vs dogs using VGG,ABDALLA MAHMOUD AMIN,,2022-01-28T20:23:49.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,widhiwinata/feature-map-cnn,Feature map cnn,Widhi Winata Sakti,,2022-01-21T13:18:15.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,aijrvae/image-classification-using-vgg16,Image Classification Using VGG16,M V Ramarao,,2022-01-18T16:44:50.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kohjiaruichs/ion-intel-ai-for-youth-where-is-jeriel,ION Intel AI for Youth (Where is Jeriel?),Koh Jia rui (Chs),,2022-01-21T07:38:21.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,default404/dogvcatori,dogVcatOri,Ajay DS,,2022-01-06T10:26:05.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yasmiinkhaled/cats-vs-dog-ml-assignment,cats vs dog ML assignment,Yasmeen Khaled(163),,2021-12-17T21:14:12.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kokyongteo/dogs-vs-cats,dogs_vs_cats,zieger,,2022-03-23T10:47:37.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,davidhacker123/animal-classification-using-cnn,Animal Classification using CNN,David Hacker,,2021-12-14T20:05:04.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,jaipawar/cats-vs-dogs,Cats vs Dogs,Jai Pawar,,2021-12-15T10:41:22.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,joelmathewcherian/vision-transformers,Vision Transformers,JoelMathewCherian,,2021-12-18T21:27:32.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,pkonstantinr/notebook,Notebook,PKonstantinR,,2021-12-03T11:44:54.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,soloninaelena/notebooke758d1431e,notebooke758d1431e,solonina elena,,2021-11-28T08:43:08.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,denisdudakov/dudakovcatvsdog,DudakovCatvsDog,Denis Dudakov,,2021-11-25T16:35:51.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,bartubozkurt/dog-vs-cat-classification-cnn,Dog vs Cat Classification | CNN,Bartu Bozkurt,,2021-10-27T14:52:01.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,oglangelo/dogs-vs-cats-2021-1020-1,Dogs_vs_cats_2021_1020_1,AUXi,,2021-11-09T04:36:14.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tianbaojie/ucas-nlp-homework1-rnn,UCAS_NLP_homework1_RNN,TianBaojie,,2021-10-18T14:58:16.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,davidsilvaalexandre/questao2,Questao2,David Silva Alexandre,,2021-09-23T18:09:51.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,aayushkubba/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,Aayush Kubba,,2021-09-12T07:14:12.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tuanpa95/notebook2496bf8cb5,notebook2496bf8cb5,Pham Anh Tuan,,2021-09-04T14:43:31.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,federicocaretti/gan-dogs-cats-try,GAN Dogs/Cats Try,Federico Caretti,,2021-08-31T17:25:08.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yavuzselimkaraman/dogs-vs-cats,Dogs vs Cats,Yavuz Selim Karaman,,2021-08-26T09:59:56.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,alifashrafee/dog-vs-cat-classification,Dog vs Cat Classification,Alif Ashrafee,,2021-08-25T14:36:35.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,shrivathsansridhar/dogs-vs-cats,Dogs vs. Cats,Shrivathsan Sridhar,,2021-08-23T12:53:11.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mikeka/catsvsdogs,catsvsdogs,AntoineC,,2021-08-21T20:09:49.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,karnaashutosh/cnn-cats-vs-dogs-vgg16,🐕 CNN Cats vs Dogs VGG16 🐾,Ashutosh Karna,,2021-08-03T14:21:37.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,salihcanelikel/dog-cat-cnn,Dog - Cat Cnn,Salih Can Çelikel,,2021-07-29T08:27:30.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,arkadutta007/notebookbae5adb66f,notebookbae5adb66f,Arka Dutta,,2021-07-26T14:49:27.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tranhuyhoang8352/dog-cat-image-classitications,Dog_Cat_image_classitications,Huy Hoang,,2021-08-03T06:09:27.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,zehranrgi/cnn-cats-vs-dogs-vgg16,🐕 CNN Cats vs Dogs VGG16 🐾,Zehra Nur,,2021-07-21T19:08:05.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sahiltinky/nb-i-simple-convnet-using-pytorch,NB-I : Simple ConvNet Using Pytorch,SAHIL,,2021-07-31T10:55:21.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yuujinleee/dogs-vs-cats-with-vgg16-fine-tuning-92,"dogs-vs-cats with VGG16, Fine-tuning 92%",Yujin Lee,,2021-07-17T12:36:32.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tuanducnguyen/dogvscat,dogvscat,Tuan Duc Nguyen,,2021-07-16T04:20:43.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,hara9032/notebookc12158bac8,notebookc12158bac8,hara9032,,2021-07-16T09:26:25.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,abhisheksrathore/cat-dog-tutorial-asr,cat_dog_tutorial_Asr,Abhishek,,2021-06-26T11:02:58.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,barkad/cnn-cat-dog-classification,CNN Cat-Dog Classification,barkad,,2021-06-25T15:52:47.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,andreasloeffler/catsvsdogs-firsttry,CatsVsDogs_FirstTry,Andreas Loeffler,,2021-06-25T14:18:06.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,joaovictorspadao/cats-vs-dogs-tensorflow,Cats-vs-Dogs - Tensorflow,João Victor Spadão,,2021-06-18T18:43:02.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,asymortenson/transfer-learning-with-resnet50,transfer learning with resnet50,Asy Mortenson,,2021-06-18T09:18:18.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nitinchoudhary012/cnn-cat-or-dog-classification,CNN Cat or Dog Classification,Nitin Choudhary,,2021-06-28T06:37:02.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,victorzeland/dogs-cats-cnn,Dogs_cats_CNN,Victor Zeland,,2021-06-16T13:09:54.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yuliamokroborodova/dogs-vs-cats-team04,Dogs vs Cats_team04,Yulia Mokroborodova,,2021-06-20T07:30:40.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yakovenkodmitry/notebook1be8056198,notebook1be8056198,Yakovenko Dmitry,,2021-06-06T11:40:17.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,jinsukuku/dogs-vs-cats-team04,Dogs vs Cats_team04,jinsukuku,,2021-06-02T08:15:44.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,hankarmostafa/image-classification-with-resnet50,Image Classification with ResNet50,Mustapha Hankar,,2021-11-09T13:07:19.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,geozedo/bit-mini-c-ds-r50-x-inception-rebulid,"bit_mini : C&Ds : R50, X, Inception : rebulid",Geozedo,,2021-05-26T22:33:40.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,geozedo/bit-mini-c-ds-resnet50-xception-inception,"bit_mini : C&Ds : ResNet50, Xception, Inception",Geozedo,,2021-05-25T12:47:03.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,aliya0214/alexnet-320182361,AlexNet 320182361,aliya0214,,2021-05-17T15:46:52.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,carl0013/lex0013-catsvsdogs-cnn,lex0013_CatsVSDogs_CNN,carl0013,,2021-05-16T00:10:44.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,linaxjau/alexnet,AlexNet,lina_xjau,,2021-05-15T11:08:29.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,pythonssh/cat-dog-classification-using-tf,Cat-Dog Classification using TF,Utkarsh Prakash,,2021-05-14T17:25:26.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,lakshyauttrani/deepnnclassifier,DeepNNClassifier,Lakshya Uttrani,,2021-05-07T12:34:24.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tebohosamuelnteso/ds-420-project,DS 420 Project,Teboho Nteso,,2021-05-11T02:00:05.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,viktorbulatov/bulatov-singularis-lab,bulatov Singularis Lab,viktor bulatov,,2021-05-02T16:52:45.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,debriv/visualization-of-convnet-s-learning,Visualization of ConvNet's Learning,DEBARGHYA BHATTACHARYA,,2021-05-07T23:10:54.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yasarcanclngr/yapay-zeka-d-nem-devi,Yapay Zeka Dönem Ödevi,yasar can clngr,,2021-05-02T19:10:15.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ismailrana/ismail-dog-vs-cats,Ismail (dog_VS_Cats),IsmailRana,,2021-04-28T23:13:48.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yangdh/alexnet-dogs-vs-cats,AlexNet_Dogs_vs_Cats,YangDH,,2021-05-16T11:46:23.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,liyuqing/alexnet-320203288,AlexNet_320203288,liyuqing,,2021-04-27T10:30:37.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,meldo8/dogs-vs-cats,dogs-vs-cats,meldo8,,2021-06-12T09:27:49.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,annisayaningprestiwi/dog-vs-cat-classification-using-cnn,Dog vs Cat Classification Using CNN,Annisa Yaning Prestiwi,,2021-08-04T14:46:28.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,astonlyc/python-ml-1st,python ml 1st,Aston LYC,,2021-04-07T03:06:32.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,anirudhchandnani/dogs-vs-cats-without-imagedatagenerator,dogs-vs-cats-without-ImageDataGenerator,Anirudh Chandnani,,2021-04-03T14:30:09.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sergeybashkov/pytorch-baseline-dog-vs-cat,pytorch baseline dog vs cat,Sergey Bashkov,,2021-04-03T10:09:03.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,madhu472/cats-dogs,Cats&Dogs,Madhu,,2021-03-18T12:58:12.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rafayelmkrtchyan/dogsvscats,DogsVsCats,Rafayel Mkrtchyan,,2021-03-19T16:13:44.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,gastonbertolani/notebooke5adce32aa-4bb8bf,notebooke5adce32aa 4bb8bf,Gaston Bertolani,,2021-04-03T14:26:16.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yoonoeeo/0317-conv-draft,0317_conv_draft,yoon,,2021-03-17T14:21:51.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,engwajidali/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,Eng.wajid ali,,2021-02-13T15:19:41.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ztaihong/alexnet-dogs-vs-cats,AlexNet_Dogs_vs_Cats,张太红老师,,2021-04-11T18:07:02.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,archisha26/cats-v-s-dogs-image-classification,Cats v/s Dogs Image Classification,Archisha Chandel,,2021-01-31T02:07:58.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,harshmalviya27/predicting-outputs,predicting outputs,harsh malviya,,2021-01-21T17:42:34.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,derrickmwiti/cats-and-dogs,Cats and Dogs,Derrick Mwiti,,2021-01-20T12:42:36.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,imabhilash/dogsvscatsimageclassification,DogsVsCatsImageClassification,Abhilash V Gopal,,2021-01-16T20:29:13.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sayannath2350/dogs-and-cats,Dogs and Cats,Sayan Nath,,2021-01-13T21:19:37.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sonujha090/dogs-vs-cat,Dogs vs Cat,Sonu Jha,,2022-06-30T06:24:15.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,akshitmehra2000/notebook14af9c99b7,notebook14af9c99b7,AKSHIT MEHRA,,2021-01-12T12:29:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,seon22/use-vgg-over-90-val-acc,use VGG-over 90% val_acc,Suhwan Lee,,2021-01-17T08:58:58.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,qinxfeng/tensorflow,代码学习：tensorflow猫狗分类,QinxFeng,,2021-01-12T18:40:53.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,danielvegamyhre/pytorch-cnn-w-data-augmentation,PyTorch CNN w/ Data Augmentation,Daniel Vega-Myhre,,2021-01-05T23:15:54.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,dhruvsharma845/cats-vs-dogs-cnn-tf-keras-ipynb,cats_vs_dogs_CNN_tf_keras.ipynb,Dhruv Sharma,,2020-12-28T14:23:55.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kaushikjatin/notebook4d5b6685d6,notebook4d5b6685d6,kaushikjatin,,2021-01-01T01:54:33.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,devanshgoyal/cat-vs-dog-using-standard-nn,cat vs dog using standard NN,devansh goyal,,2021-02-22T06:17:50.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,satinderpalsingh/cats-dogs-cnn-transfer-lear-inceptionresnet,Cats_Dogs CNN & Transfer Lear - InceptionResNet,Satty,,2020-12-20T11:23:09.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,pra1210/image-classification-with-tf1,Image Classification with TF1,Pratik,,2020-12-30T17:22:10.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yuxinzhangjasmine/cnn-classify-catsdogs,CNN_classify_CatsDogs,yuxin ZHANG,,2020-12-17T16:28:10.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mishrarajat91/cats-vs-dogs,Cats-vs-Dogs,Rajat Mishra,,2020-12-13T01:26:14.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,lightxkun/cats-v-dogs,Cats v dogs ,Arka Mandal,,2020-12-09T19:17:32.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,alexnatal/resnet-v2-data-aug,ResNet_v2 + Data Aug,Alex Natalchyshyn,,2020-12-03T16:39:55.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mmaaz60/pytorch-train-embeddings,PyTorch - Train Embeddings,mmaaz60,,2021-01-03T18:44:30.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,alexnatal/convolutionnn,ConvolutionNN,Alex Natalchyshyn,,2020-11-30T18:13:13.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sanjeev07/keras-cnn-dog-or-cat-classification,Keras CNN Dog or Cat Classification,Sanjeev Krishna,,2020-11-30T10:53:40.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,chuckedfromspace/dogs-v-cats-cnn-with-preprocessing-layers,Dogs v. Cats: CNN with preprocessing layers,chuckedfromspace,,2020-11-19T19:12:33.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mattrizzato/cats-vs-dogs,Cats_vs_dogs,Matteo Rizzato,,2020-11-18T22:12:29.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,numairh/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,Numair H,,2020-11-10T07:27:05.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sarthak1799/catvdog17,catVdog17,Sarthak1799,,2020-11-11T15:13:53.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,otakikoki/20201107,20201107教師あり学習テスト,Otaki Koki,,2020-11-07T14:37:40.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,aar1997/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,Anant Agarwal ,,2020-11-05T09:04:27.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rahesh95/basic-cnn,Basic CNN,Rahesh Ravi,,2020-11-01T16:33:00.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,maryamrahbaralam/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,Maryam Rahbaralam,,2020-11-01T19:02:47.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,shreyasvedpathak/cats-vs-dogs-simple,Cats vs Dogs - Simple,Shreyas Vedpathak,,2020-10-29T11:20:55.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,l0new0lf/dog-cat-classifier,dog-cat-classifier,Asapanna Rakesh,,2020-10-25T08:07:11.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,moschte09/cat-vs-dog,Cat-vs-Dog,Moschte09,,2020-10-17T14:18:03.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,devlab/dogs-vs-cats,Dogs vs Cats,Devan Xu,,2020-10-18T07:54:22.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kushagras71/tensorflow-cnn-cat-v-s-dog,TensorFlow CNN Cat v/s Dog,kushagras71,,2020-10-15T18:18:14.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tabriznuruyev/pytorch-cnn-from-scratch,[Pytorch] CNN from scratch,Tabriz Nuruyev,,2020-11-03T13:44:41.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yeahanz/pelatihan-b401,Pelatihan B401,Yordan Yasin,,2020-10-09T15:56:49.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sandeshpatkar/cats-and-dogs-classification-95-accuracy,Cats and Dogs Classification | 95% accuracy,Sandesh Patkar,,2020-10-08T13:53:35.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,gauravsharma11/dog-vs-cat,Dog vs Cat,Gaurav Sharma,,2020-10-05T04:30:06.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,hucuiooo/resnet50-dogs-cats,resnet50_dogs_cats,hucuiooo,,2020-09-28T12:00:37.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,qrsforever/pytorch-lightning-dogs-vs-cats-on-resnet50,[pytorch_lightning]dogs vs cats on resnet50,DongLi,,2020-09-23T02:56:34.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sgauravm/image-clustering,Image Clustering,Gaurav Sinha,,2020-09-17T10:47:37.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mafify/dogs-vs-cats-classification-vgg16-fine-tuning,Dogs vs. Cats Classification (VGG16 Fine Tuning),Mohamed Afify,,2020-09-15T09:29:30.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,soumyajitdey7/dogs-vs-cats-with-vgg16,Dogs Vs Cats with VGG16,Soumyajit,,2020-10-13T15:01:38.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,meetmangukia/cats-v-dogs,cats-v-dogs,Meet Mangukia,,2020-09-03T12:52:17.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ignaciozamora/cats-vs-dogs-logistic-regression,Cats vs Dogs - Logistic Regression,Juan Zamora,,2020-09-02T13:10:07.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mohamedbadr8817/cnn-cat-and-dog-classification,CNN Cat and Dog Classification,Mohamed Badr,,2020-08-26T11:58:44.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,samuelwy/dogs-cat-using-transfer-learning,dogs-cat using transfer learning,Samuelwy,,2020-08-22T15:07:50.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,vasukalariya/catsvdogs,CatsvDogs,Vasu Kalariya,,2020-08-21T07:28:18.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,wanghuadvd/kerasbatch20,KerasBatch20,wanghuadvd,,2020-08-20T00:51:53.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,selvakumarperumal/dog-vs-cat,Dog_vs_Cat,Selvakumar,,2020-08-14T08:21:29.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ridwanur99/kernel12aedad11e,kernel12aedad11e,Ridwanur99,,2020-08-08T07:57:29.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nathanjosephjacob/dogs-vs-cats-vgg16,dogs-vs-cats-vgg16,NATHAN JOSEPH JACOB,,2020-08-07T14:41:14.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,natsudragnoeel/dog-cat-classifier,dog_cat_classifier,NatsuDragoneel,,2020-07-31T20:17:55.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yashsh47/kerneld2c231922f,kerneld2c231922f,yash sharma,,2020-07-24T18:14:11.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rachitpulhani/kernel4c8c00dc7f,kernel4c8c00dc7f,Rachit Pulhani,,2020-08-07T20:49:21.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,diyagupta/kernel26f4733252,kernel26f4733252,Diya Gupta,,2020-07-24T18:19:28.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nadeemsk4347/module4,module4,180020099,,2020-07-23T18:05:53.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rahulxd/dogs-vs-cats-dawn-of-paws-validation,Dogs Vs Cats: Dawn of Paws(Validation ,Rahul Kumar,,2020-07-24T12:05:21.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,londhebtc/conv-cat-dog,conv_cat_dog,londhe_btc,,2020-07-11T20:31:39.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,user149536/dog-cat-classifying,dog_cat_classifying,강민재,,2020-07-08T06:25:46.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kero0000/dogs-vs-cats-cnn-model-with-data-augmentation,Dogs vs Cats (CNN model) with Data Augmentation,kero0000,,2020-07-04T13:22:21.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkbumsu/cat-dog-cnn,cat&dog cnn,parkbumsu,,2020-07-02T08:22:39.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ahntaewoong/cat-and-dog-cnn,cat-and-dog-CNN,ahn taewoong,,2020-07-02T07:42:16.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,marcellosusanto/tf-coursera-notebook,[TF-Coursera] Notebook,Marcello Susanto,,2020-07-11T19:17:35.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,chungngph/binary-classify-by-vgg19,Binary classify by VGG19,ChungNPH,,2020-06-12T06:45:05.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ayushparhi/dogs-vs-cats,Dogs vs Cats,Ayush Parhi,,2020-06-11T13:33:08.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,vivekpandain/vgg-implementation,VGG_Implementation,Vivekpandian,,2020-06-10T18:15:06.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kamleshsolanki/dog-vs-cat-classification,Dog vs Cat classification,Kamlesh,,2020-06-10T18:55:06.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,vivekpandain/alexnet-implementation,Alexnet_Implementation,Vivekpandian,,2020-06-10T17:41:50.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,andre13andre/dogs-vs-cat,Dogs_vs_Cat,Andrei Dubenchuk,,2020-05-27T16:29:56.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,gajjadarahul/catsanddogs,CatsAndDogs,Rahul Reddy,,2020-05-28T14:55:03.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,stanislauhlebik/transfer-learning-cnn,Transfer learning CNN,Stanislau Hlebik,,2020-05-23T18:27:02.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,khanh98/dogs-vs-cats,dogs vs cats,Quoc-Khanh Bui,,2020-05-23T14:56:00.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,erickmejia/kernel1ae2e9916d,kernel1ae2e9916d,Erick Mejia,,2020-05-22T05:09:08.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,jonyboi14/cats-vs-dogs-with-validation-set,Cats vs Dogs with validation set,john wayne,,2020-05-08T06:54:48.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,haithamelshenawy/cat-dog-calssification,cat_dog_calssification,haitham elshenawy,,2020-05-08T16:34:41.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,hellosam/qml-9-dogs-vs-cat-transfer-learning,"qML 9: Dogs vs Cat, transfer learning",hellosam,,2020-05-07T02:15:03.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,saritablue/kernel3f8a755317,kernel3f8a755317,sarita ,,2020-05-06T20:58:27.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ichrnkv/augmentations,augmentations,Ilya Chernikov,,2020-05-05T18:31:07.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,remtekin/keras-cnn-dog-or-cat-classification,Keras CNN Dog or Cat Classification,İrem Tekin,,2020-05-09T01:56:33.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,charlotte26/catsvsdogs,CatsVSDogs,Kunal Rout,,2020-05-06T16:21:38.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ichrnkv/cat-or-dog,cat_or_dog,Ilya Chernikov,,2020-05-04T15:15:20.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,komalkalyanraman/nasnet-dogs-vs-cats-98-accuracy,NASNet dogs-vs-cats 98% accuracy,komal kalyanraman,,2020-05-03T06:43:46.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,kumareshbabuns/cats-vs-dogs,Cats vs Dogs,Kumaresh Babu N S,,2020-05-07T19:21:15.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,surveshchauhan/dogs-vs-cats-classification-vgg16-resnets,Dogs vs. Cats Classification (VGG16 RESNETS),Survesh Chauhan,,2020-05-01T15:25:44.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,qeeqez/catvsdogml,CatVSDogML,qeeqez,,2020-04-30T10:53:07.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nazmul0087/keras-beginner,Keras beginner,MD NAZMUL ISLAM,,2020-04-26T16:49:41.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,abdulmananengr/catdogs-alexnet-keras-abdulmanan,catdogs_alexnet_keras_abdulmanan,Abdul Manan,,2020-04-19T08:52:21.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ttya16/quick-cat-vs-dogs-model,quick_cat_vs_dogs_model,ttya16,,2020-04-22T10:43:17.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,akhileshthakur/kernel5540bd3b66,kernel5540bd3b66,Akhilesh,,2020-04-09T06:49:37.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,amangoyal99/dlq-transfer-learning,DLQ Transfer Learning,Aman Goyal,,2020-04-13T17:26:38.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ladanuzhna/dogs-cats-classifier,dogs-cats-classifier,ladanuzhna,,2020-04-03T04:58:45.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nazmul0087/kernel425fa25b6c,kernel425fa25b6c,MD NAZMUL ISLAM,,2020-03-31T21:10:09.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,gkslshn/cat-dog-resnet-keras,cat_dog_resnet_keras,GökselSahin,,2020-03-30T07:20:45.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,arnabdas8901/cats-vs-dogs-using-resnet,Cats vs Dogs using resnet,Arnab Das,,2020-03-29T00:31:46.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,paulkim57/cat-vs-dog,Cat vs Dog,Paul Kim,,2020-03-31T06:54:16.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,gkslshn/catdogs-alexnet-keras,catdogs_alexnet_keras,GökselSahin,,2020-03-25T09:27:24.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tychai/dogs-vs-cats-classification,Dogs vs. Cats Classification,ty chai,,2020-03-26T07:08:02.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,marcostidball/catvsdog-cnn,catvsdog_cnn,Marcos Tidball,,2020-03-21T05:19:13.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,swapnil554/kernel2d87deb123,kernel2d87deb123,Swapnil Vatsal,,2020-03-17T16:02:54.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,alegend4u/dogs-vs-cats,dogs_vs_cats,Rishabh Prajapati,,2020-07-16T11:21:24.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,sorxcode/cats-vs-dogs-keras,CATS vs DOGS (KERAS),Farinnako Adeyanju Victor,,2020-03-15T13:06:41.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nitishmcfc/nitish-cat-vs-dog,Nitish_cat-vs-dog,Nitish,,2020-09-23T19:01:17.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,hsaeme/dogs-vs-cats-pytorch-using-resnet18,Dogs vs Cats pytorch using resnet18,Seam Chung,,2020-03-13T03:23:36.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,myndel/dogs-vs-cats-90-using-data-augmentation,Dogs vs Cats ~90% using Data Augmentation,Damian Mendel,,2020-02-29T12:04:34.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,bktanloc/kernel5bfef1ff4d,kernel5bfef1ff4d,Loc HO,,2020-02-19T16:32:16.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,aishwaryamv/keras-cnn-dog-or-cat-classification,Keras CNN Dog or Cat Classification,Aishwarya MV,,2020-01-31T17:15:07.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rahulkod/cats-dogs,Cats_Dogs,Rahul K,,2020-01-29T07:17:32.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,prudhvi9999/catsvsdogs,catsVSDogs,prudhvi,,2020-12-20T16:40:15.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mariyam51/1dl-cat-vs-dog,1DL(Cat vs Dog),Mariyam Bhoira,,2020-01-13T07:54:52.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,nyjoey/dog-cat-classifier,dog-cat-classifier,Joey Cheung,,2020-01-12T04:11:10.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,m0nika/cnn-dogvscat-classification,CNN DogVSCat Classification,Monika Suresh,,2020-06-18T08:32:47.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,m0nika/catvsdog-cnn-classification,catvsdog CNN classification,Monika Suresh,,2019-12-06T07:39:45.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yearing1017/keras-cnn,Keras_CNN,yearing1017,,2019-11-19T06:16:27.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,banagar/transferlearning-dogsvscats,TransferLearning-DogsVsCats,Amer,,2021-01-20T10:41:24.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,banagar/featureextraction-dogsvscats,FeatureExtraction-DogsVsCats,Amer,,2019-11-04T13:44:30.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ameerhamza1474/catsdogs,catsdogs,Ameer Hamza,,2019-11-18T15:12:18.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,masfour/98-5-accuracy-dogs-vs-cats-resnet-classifier,98.5%+ accuracy Dogs vs. Cats ResNet Classifier,Mohammed Asfour,,2020-04-23T17:57:02.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ztaihong/cats-dogs-basic-cnn-re-aug,cats_dogs_basic_cnn_re_aug,张太红老师,,2019-10-18T19:31:02.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ztaihong/cats-dogs-basic-cnn-re,cats_dogs_basic_cnn_re,张太红老师,,2019-10-18T19:29:42.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,schateau/maxout-dropout,Maxout+Dropout,Sylvain Chateau,,2019-10-13T15:10:22.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,bhaskaram/kernel3e49b79229,kernel3e49b79229,Venkata Bhaskaram,,2019-09-29T04:19:42.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,schateau/cnn-with-ic-layer,CNN with IC layer,Sylvain Chateau,,2019-10-07T11:48:35.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,marrrco5/dogs-vs-cats-transfer-learning-model,Dogs vs. Cats(Transfer Learning Model),Marco Lee,,2019-09-21T08:17:49.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,libai6690/dogs-vs-cats-classification,Dogs vs. Cats Classification,tuohai1992,,2019-09-24T11:55:45.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,marrrco5/dogs-vs-cats-image-classification-problem,Dogs vs. Cats Image Classification Problem,Marco Lee,,2019-09-18T14:14:32.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,falahgs/cats-vs-dogs-basic-cnn-tutorial,Cats vs Dogs:- Basic CNN tutorial,falahgs,,2019-09-13T17:05:24.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,utsavpatel51/dog-vs-cat,Dog vs Cat,Utsav Patel,,2019-09-11T14:07:05.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,saffetgokcensen/cats-and-dogs-data-augmentation,cats_and_dogs_data_augmentation,SaffetGokcenSen,,2019-08-15T12:16:15.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,klin059/image-recognition-cats-vs-dogs,image_recognition_cats_vs_dogs,klin059,,2019-08-13T07:10:48.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,a4aakash/kernel4653d95ad7,kernel4653d95ad7,Akash Verma,,2019-07-29T13:42:36.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,brandonyongys/dog-or-cat-classification,Dog or Cat classification,Brandon Yong,,2019-07-12T10:31:55.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,geoffreygeo/who-am-i-dog-cat,Who Am I Dog/Cat ?,Geoffrey,,2019-07-03T21:56:19.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,weiwei142/vgg16-fine-tuning,VGG16_fine-tuning,Chan Ching-Wei,,2019-06-12T06:11:06.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,weiwei142/cnn-image,CNN_image,Chan Ching-Wei,,2019-06-11T13:18:36.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,weiwei142/vgg16,VGG16,Chan Ching-Wei,,2019-06-12T10:10:15.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,tj2552/image-classificaiton,image_classificaiton,TusharJoshi,,2019-06-18T11:44:41.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,wangzhilin/kernelaedb4a5aba,kernelaedb4a5aba,zhilin,,2019-06-01T05:21:15.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,abdelrahmangamil/cat-person,cat_person,Abdelrahman Gamil,,2019-05-26T02:51:52.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,veshitala/keras-cnn-dog-or-cat-classification,Keras CNN Dog or Cat Classification,Sheetala Prasad Tiwari,,2019-05-16T11:13:59.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,yuriao/kernel322f50cccb,kernel322f50cccb,yuri-ao,,2019-06-21T07:37:21.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ahmednasser97/cat-dog,Cat-Dog,Ahmed Nasser,,2019-04-06T21:23:18.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/kernelbf3a07e480,kernelbf3a07e480,juhee,,2019-04-05T06:21:33.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdog-inceptionc3-avg,catdog-inceptionc3.avg,juhee,,2019-04-04T01:13:41.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdog-vggavg-pretrained,catdog-vggavg.pretrained,juhee,,2019-04-02T01:33:06.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdogresnet-nonpretrained,catdogresnet-nonpretrained,juhee,,2019-03-27T06:54:17.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdogvgg19-nopretrained,catdogvgg19-nopretrained,juhee,,2019-03-26T06:20:01.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catsdogsvgg2-pre-trained,catsdogsvgg2-pre-trained,juhee,,2019-03-26T02:34:28.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catsdogsvgg-pre-trained,catsdogsvgg-pre-trained,juhee,,2019-03-26T02:02:36.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rishrk007/cnn-dog-vs-cat-classification,cnn-dog vs cat classification,Rishabh singh,,2019-03-24T17:55:05.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdog4-vgg-64x64-gap-color,catdog4-vgg-64x64-gap-color,juhee,,2019-03-15T05:03:43.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdog2-vgg-noaug-alldataset,catdog2-vgg-noaug-alldataset,juhee,,2019-03-15T05:20:09.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,muhammadumarfarrukh/kernel03668af7ee,kernel03668af7ee,UmarFarrukh,,2019-03-04T13:21:52.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,zgding/fork-of-cat-dog-demo-d6cd15,Fork of cat_dog_demo d6cd15,zgding,,2019-02-28T04:04:54.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,parkjuhee/catdog,catdog,juhee,,2019-03-15T05:01:17.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,skychan/cat-vs-dog-transfer-learning,Cat-VS-Dog-Transfer-Learning,Sky Chan,,2019-02-11T10:41:05.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,rahul2240/dogs-vs-cats-using-pytorch,Dogs Vs. Cats using pytorch,Rahul,,2019-02-16T20:09:05.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,mambasa/catvdog,CatVdog,Heru Mambasa,,2019-02-06T05:27:44.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,arpitjain007/fast-ai-lesson-1-image-classification-with-cnn,Fast.ai:Lesson-1:Image Classification with CNN ,Arpit Jain,,2019-02-06T17:12:35.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,amanagr/cats-vs-dogs-classification,Cats Vs Dogs Classification,Aman Agrawal,,2019-02-04T11:23:32.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,bhirsch170/cats-vs-dogs-image-classifier-practice,Cats VS Dogs Image Classifier Practice,Brandin,,2019-01-29T17:51:26.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,arunkhattri/convolutional-neural-network,Convolutional Neural Network,Arun Kr. Khattri,,2018-12-05T14:56:51.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,antedesk/part-7-loading-image-data-exercises,Part 7 - Loading Image Data (Exercises),AntonioTedeschi,,2018-12-02T18:22:19.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,ddt2036/cat-dog-demo-transfer-learning,cat_dog_demo_transfer_learning,JIAJING,,2018-12-05T15:51:07.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,jjminan/cats-vs-dogs-classification-is412-hw3,Cats vs Dogs classification - IS412 - HW3,Minan,,2018-11-23T03:55:17.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,heinct15/homework-3-cats-vs-dogs,Homework 3 - Cats vs Dogs,Connor Heinz,,2018-11-21T23:26:19.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,everem30/cats-vs-dogs-classification,Cats vs Dogs classification,Eric Everson,,2018-11-09T05:03:40.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,luantm/dogs-and-cats-competition,Dogs and Cats Competition,luantm,,2018-11-03T03:02:06.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,golddigger1943/golddigger-s-dogs-vs-cats,golddigger's Dogs vs.Cats,golddigger,,2018-11-16T03:28:00.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats
+,,,,,0,lujason2015/code-night-cats-and-dogs,Code-night-cats-and-dogs,JasonW,,2018-10-01T04:44:11.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,dogs-vs-cats

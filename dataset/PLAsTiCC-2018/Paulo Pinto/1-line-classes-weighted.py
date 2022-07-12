@@ -1,0 +1,1 @@
+import pandas as pd;pd.read_csv('../input/sample_submission.csv', index_col='object_id', converters={'class_15': lambda p:2,'class_64': lambda p:2,'class_99': lambda p:2}).replace(0,1).div(18, axis=0).to_csv('sub_weighted.csv', float_format='%.5f')

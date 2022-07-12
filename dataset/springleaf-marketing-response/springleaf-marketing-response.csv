@@ -1,0 +1,137 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,jiweiliu/ftrl-starter-code,FTRL starter code,Jiwei Liu,,2015-08-18T16:44:05.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],55,springleaf-marketing-response
+,,,,,0,ashhafez/xgb-learning-rate-eta-decay,"XGB ""Learning Rate / Eta Decay""",ash hafez,,2015-10-03T02:36:35.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,springleaf-marketing-response
+,,,,,0,kartikmehtaiitd/stochastic-gradient-descent-0-77355,Stochastic Gradient Descent (0.77355),Kartik Mehta,,2016-07-12T17:08:46.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,springleaf-marketing-response
+,,,,,0,harshsinha/rnadom-forest,Random Forest,Harsh,,2015-08-19T08:02:36.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,springleaf-marketing-response
+,,,,,0,ericcouto/reading-train-and-test-using-less-memory,Reading Train and Test Using Less Memory,Eric Couto,,2015-10-11T23:25:04.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,springleaf-marketing-response
+,,,,,0,mathurinache/stochastic-gradient-descent-0-77355,Stochastic Gradient Descent (0.77355),Mathurin Aché,,2015-10-16T18:52:47.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,springleaf-marketing-response
+,,,,,0,algonell/2015-08-20,Springleaf Fusion,Andrew Kreimer,,2015-10-11T14:30:16.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,springleaf-marketing-response
+,,,,,0,mathmagician/utilizing-springleaf-data,Utilizing Springleaf data,Alexander Zaitzeff,,2015-09-30T23:25:56.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,springleaf-marketing-response
+,,,,,0,maddarwin/xgboost-example-0-76178,XGBoost Example in Python,Charles Darwin,,2015-08-21T10:09:21.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,springleaf-marketing-response
+,,,,,0,qqgeogor/ftrl-classifier-campatible-with-sklearn,FTRL Classifier campatible with sklearn,qianqian,,2015-09-15T07:54:12.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,springleaf-marketing-response
+,,,,,0,supernova117/ftrl-with-validation-and-auc,FTRL with validation and auc,supernova,,2015-09-09T03:09:29.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,springleaf-marketing-response
+,,,,,0,mpearmain/keras-starter-code,Keras Starter Code,Mike Pearmain,,2015-08-26T08:23:50.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,springleaf-marketing-response
+,,,,,0,mpearmain/btb-lasagna-nn,BTB Lasagna NN,Mike Pearmain,,2015-08-26T08:04:21.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,springleaf-marketing-response
+,,,,,0,kcbighuge/springleaf-eda,Springleaf EDA,James Lee,,2018-12-09T05:37:38.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,springleaf-marketing-response
+,,,,,0,mark42/just-seeing-possibilities,class balance,Mark,,2015-09-10T19:11:09.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,springleaf-marketing-response
+,,,,,0,wawanco/data-ownership-categorical,Data Ownership: Categorical,Thibault,,2015-10-05T16:10:34.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,springleaf-marketing-response
+,,,,,0,wawanco/data-ownership-numeric-features,Data Ownership: Outliers,Thibault,,2015-10-05T04:22:24.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,springleaf-marketing-response
+,,,,,0,wawanco/data-ownership,Data Ownership: Text Features,Thibault,,2015-10-03T14:38:44.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,springleaf-marketing-response
+,,,,,0,diegoee/svm-csv,SVM CSV hard prediction,Diego Espínola,,2015-10-02T13:03:21.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,springleaf-marketing-response
+,,,,,0,landerbodyn/notebookd0c1bc0115,Notebookd0c1bc0115,Lander Bodyn,,2017-03-14T21:40:27.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,springleaf-marketing-response
+,,,,,0,tmjiang/vanilla-xgboost,variance | xgb (.78346) 7.97GB 17.2mins,b6s,,2015-10-19T14:31:21.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,springleaf-marketing-response
+,,,,,0,randombishop/var-0254,VAR_0254,Randombishop,,2015-09-29T18:43:52.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,springleaf-marketing-response
+,,,,,0,diegoee/cv-accuracy-svm-with-no-char-features,CV accuracy SVM with no char features,Diego Espínola,,2015-10-02T12:13:41.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,springleaf-marketing-response
+,,,,,0,rgwozdo/stochastic-gradient-descent-0-77355,Stochastic Gradient Descent (0.77355),rg,,2015-08-25T20:16:53.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,springleaf-marketing-response
+,,,,,0,foxeyjoker/springleaf-marketing-response,Springleaf Marketing Response,Emiko Fujii,,2021-07-18T15:19:10.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,blueberry90/notebooka5681cbc1a,notebooka5681cbc1a,blueberry90,,2020-10-22T16:03:56.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,jennaseo/springleaf,Springleaf,Jenna Seo,,2020-08-05T08:39:39.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,aaaaaa321/springleaf,springleaf,AaaAaa321,,2020-06-03T08:07:53.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sashabadmaev/springleafbybadmaev,SpringleafByBadmaev,SashaBadmaev,,2020-06-01T01:04:29.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,bjladika/springleaf-stirennii-kod-by-bjladika,SpringLeaf stirennii kod by BJladika,Владыка Владык,,2020-05-30T05:13:18.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,orkonungr/3-springleaf-marketing-response-erken,3.Springleaf marketing response Erken,Erken Neustroev,,2020-06-01T03:57:33.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,hugedin/springleaf-marketing-response, Springleaf Marketing Response,magisterofnefu,,2020-05-27T09:43:30.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,vasportv/springleaf-marketing-response-by-porotov,Springleaf Marketing Response by Porotov,VasyaPorotov,,2020-05-31T07:05:47.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,armin1989/springleaf-competition-eda,Springleaf competition : EDA,Arin,,2019-01-31T17:36:19.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,jihyeseo/springleaf-eda-unzip,SPRINGLEAF EDA UNZIP,Jihye Sofia Seo,,2018-05-08T15:49:09.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,yottoboss/notebookdd33fb1238,Notebookdd33fb1238,yoTTaBo55,,2017-05-22T06:59:03.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,yosukekatada/notebook82a53a0ce2,Notebook82a53a0ce2,Yosuke Katada,,2017-02-25T03:56:42.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,ryankno/notebook8f8879a921,Notebook8f8879a921,Ryan Knowles,,2016-10-18T15:36:50.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,edoarad/notebook420bd4c944,Notebook420bd4c944,Edo Arad,,2016-10-15T13:49:50.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,melghazali/notebook803a28e493,Notebook803a28e493,melghazali,,2016-10-15T06:06:21.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,lordasart/notebookde45425254,Notebookde45425254,lordasart,,2016-09-08T06:13:59.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,luokai/notebook20f8029085,Notebook20f8029085,dolly,,2016-08-23T02:50:11.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,cherylhlkwan/notebook9333a529dc,Notebook9333a529dc,CherylKwan,,2016-08-05T03:33:44.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,toffetjoseph/notebook0bc7ca0140,Notebook608372a9e7,Toffet,,2016-08-04T18:38:33.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,prakashanand/newscript,NewScript,PrakashAnand,,2016-07-25T08:58:37.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,dujekmancin/spreangleaf,Spreangleaf,Marcin K,,2016-04-27T13:23:58.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,prateekgaur/myreading,myreading,Prateek Gaur,,2015-11-26T17:38:45.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,mchahhou/test-mch,test_mch,Chahhou Mohamed,,2015-10-19T18:24:31.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sushize/keras-starter-code-check2,Keras Starter Code-check2,Shize Su,,2015-10-18T22:13:33.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sushize/keras-starter-code-check,Keras Starter Code_check,Shize Su,,2015-10-17T18:34:38.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,tmjiang/detect-duplicated-columns,detect duplicated columns,b6s,,2015-10-18T15:59:20.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,justfor/variance-xgb-78346,variance | xgb (.78346),Justfor,,2015-10-16T21:36:12.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,jayakumar/variance-xgb-78346,variance | xgb (.78346),Jayakumar,,2015-10-14T10:56:15.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,abualabed/hello-world,Hello world,H. Shaath,,2015-10-14T03:49:16.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,mihailr812/rf-test,rf-test,Mikhail Raytchenko,,2015-10-13T17:34:57.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,tmjiang/read-csv-to-pd-lighter-and-faster,Read CSV to PD Lighter and Faster,b6s,,2015-10-12T19:17:50.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,anishosni/testscript,testScript,Anis Hosni,,2015-10-11T18:29:02.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,saurabh1331/test-all,test_all,saurabh agarwal,,2015-10-11T06:50:44.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,yourt6/enter,Enter,HG,,2015-10-10T23:11:48.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,tryharder/kagglemeetup01,kagglemeetup01,RA00,,2015-10-10T17:42:40.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,kartikgupta0909/mytest,Mytest,KartikGupta,,2015-10-10T16:57:56.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,dedfox/test1,test1,Yuriy,,2015-10-09T15:53:12.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,pappukrjha/spg-py,spg.py,Pulkit Jha,,2015-10-08T18:36:33.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,albinocordeiro/variance-xgb-78020-7-74gb-14-6mins,variance | xgb (.78020) 7.74GB 14.6mins,AlbinoCordeiroJr,,2015-10-08T14:17:33.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,uditsaini/temp-test,temp_test,udit,,2015-10-08T10:28:28.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,mohsinkhan/first-run,first run,mohsinkhan,,2015-10-07T18:30:35.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,jitintanwar/test123,Test123,Jitin,,2015-10-07T06:52:49.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,goertzen/spinger,Spinger,Goertzen,,2015-10-05T20:02:08.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,karma86/sprnglf-xgb,sprnglf_keras,Sergei Bugrov,,2015-10-06T18:09:35.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,clinica/ctrials,Ctrials,clinica,,2015-10-05T14:46:58.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,vinotharun89/ground-hitting,Ground_Hitting,vinotharun,,2015-10-05T05:59:58.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,albinocordeiro/gettingstarted,gettingStarted,AlbinoCordeiroJr,,2015-10-04T23:45:04.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,wawanco/handle-city-names,Invalid States Names,Thibault,,2015-10-03T19:17:23.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sushize/keras-starter-code-ssz,Keras Starter Code_ssz,Shize Su,,2015-09-27T00:47:06.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,alexlzzz/keras-starter-code,Keras Starter Code,==>(AL)<==,,2015-10-18T20:42:00.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,whereisravi/test1,test1,Ravi,,2015-09-26T06:19:35.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,vik235/test8397349,test8397349,Vik235,,2015-09-26T04:44:42.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,fuxinyi/dataexploring,dataExploring,xinyi Fu,,2015-09-25T06:52:41.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,ayratzay/no-name-yet-just-watching,No name yet_just watching,아이랏,,2015-09-24T13:38:50.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,burtloml/exploring-the-data,Exploring the data,RafaelLopes,,2015-09-24T01:52:22.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,vigneshprajapati/testt,testt,VIGNESH PRAJAPATI,,2015-09-23T20:50:59.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,kanitsr/1211212,1211212,Kanit Srisuthep,,2015-09-22T22:29:50.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,lihao814386741/first-submissio,First submissio,Hao Li,,2015-09-21T19:11:23.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,ivallesp/stochastic-gradient-descent-0-77355,Stochastic Gradient Descent (0.77355),Rosenblatt,,2015-09-21T14:18:29.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,pushpendrasingh/xgb-3-with-irrelevant-columns-removed,XGB_3-with irrelevant columns removed,PSR,,2015-09-21T17:27:44.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,feirie/first-script,First_script,Feirie,,2015-09-21T09:08:33.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,diogofranco/test1,test1,DiogoFranco,,2015-09-20T17:05:21.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sushize/keras-starter-code-1,Keras Starter Code,Shize Su,,2015-09-20T12:42:43.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,justinlu/springleaf-r,Springleaf_R,Mi,,2015-09-20T06:18:35.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,shoutrain/testing,Testing,Rafael Gu,,2015-09-17T23:57:30.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,praveen766/trial-python,trial_python,Praveen,,2015-09-15T00:31:19.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,ronnyli/train-py,train.py,Ronny Li,,2015-09-14T21:47:45.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,mymusise/hehda,hehda,mymusise,,2015-09-14T07:59:10.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,khyh00/two-missing-variables,Two missing variables,khyh,,2015-09-14T01:40:08.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sagarverma/springleaf-preprocessing,Springleaf Preprocessing,sagar verma,,2015-09-12T11:41:36.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,isakov/starter-code,Starter code,Isakov,,2015-09-11T05:58:33.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,edezhath/nnet-lasagne-simple,NNet Lasagne simple,k1l0khan,,2015-09-10T23:37:54.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,fernandojvdasilva/explore-springleaf-data,explore_springleaf_data,Fernando Vieira da Silva,,2015-10-06T16:29:33.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,karma86/keras-v-2,Keras v.2,Sergei Bugrov,,2015-09-10T01:08:33.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,atreya/springleaf,Springleaf,Atreya Biswas,,2015-09-09T12:31:35.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,dpaul93/springleafdebjyoti,springleafdebjyoti,Debj Paul,,2015-09-09T07:18:30.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,rhinodaveb/ftrl-starter-code-multiplicative-reg,FTRL starter code (Multiplicative reg),David Bobillot,,2015-09-08T20:58:13.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,absurd/fist-test,fist_test,absurdliyang,,2015-09-07T11:29:58.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,inspiration/test1,test1,PreranaB,,2015-09-07T03:53:48.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,ywanono/test01,test01,YseWa,,2015-09-05T15:30:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,andreisun/data-preprocessing,Data preprocessing,Andreisun,,2015-09-04T06:52:04.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,gloryhunter/xxxxx,xxxxx,lin.xiao,,2015-09-04T06:47:28.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,gloryhunter/testforfun,testforfun,lin.xiao,,2015-09-04T06:25:47.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,chriscc/load-data,load_data,ChrisCC,,2015-09-02T21:29:44.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,huangherbert/test1,test1,Herbert,,2015-09-02T17:49:21.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,aloytyno/testi,testi,Antti Löytynoja,,2015-09-02T07:36:41.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,sushize/ftrl-starter-code-full0-773,FTRL starter code_full0.773,Shize Su,,2015-09-22T13:22:35.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,iamivo/heeeho,heeeho,ivo,,2015-09-01T21:32:45.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,thechallengers/default,default,The Challengers,,2015-09-01T20:43:04.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,fouroh4/python-test1,Python_test1,RupertThomas,,2015-09-01T12:01:28.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,wawltorconner/test-data,test_data,wawltor,,2015-09-01T08:38:40.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,wawltorconner/testt,testt,wawltor,,2015-09-01T08:18:37.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,prakash5801/test1,Test1,Prakash,,2015-08-28T16:08:51.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,andreisun/data-preview,Data preview,Andreisun,,2015-08-31T12:33:22.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,hassiktir/script,script,hassiktir,,2015-08-28T07:49:06.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,neggert/testing,Testing,neggert,,2015-08-27T20:47:24.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,hiendang/keras-starter-code,Keras Starter Code,Hien Dang,,2015-08-27T07:46:59.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,deepcnn/nnet-lasagne-simple,NNet Lasagne simple,Deep,,2015-08-27T04:09:45.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,bdbozyk/mehhh,mehhh,bdb,,2015-08-25T20:33:53.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,amitmi/nothing,nothing ,Amit Mishra,,2015-08-25T08:18:54.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,esemi77/random-forest,Random Forest,esemi77,,2015-08-24T23:36:17.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,ahaque/data-exploration,Data Exploration,Adnan Haque,,2015-08-25T03:32:41.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,drafty/testing-the-sample-script,testing the sample script,draft,,2015-08-22T15:57:33.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,chenditc/test1,test1,Di ^.^,,2015-08-20T19:53:09.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,liaopan/have-a-try,have a try,Liao Pan,,2015-08-20T03:10:46.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,totalrecall/exploring,exploring,boxybrown,,2015-08-19T14:51:56.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,nederhand/describe-data,describe data,Kapitein,,2015-08-19T13:46:11.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,algonell/2015-08-19,Springleaf Preprocessing,Andrew Kreimer,,2015-09-12T17:07:34.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,bravespacemonkey/springleaf-check,springleaf check,Bravespacemonkey,,2015-08-19T18:09:28.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,tofutiger/springleaf-check,springleaf check,TonyFu,,2015-08-18T18:43:11.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response
+,,,,,0,benhamner/python-default-script-1,Python Default Script,Ben Hamner,,2015-08-18T08:08:56.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,springleaf-marketing-response

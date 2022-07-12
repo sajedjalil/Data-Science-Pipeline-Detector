@@ -1,0 +1,1008 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,sharmasanthosh/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Santhosh Sharma Ananthramu,,2016-10-16T14:59:30.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],605,allstate-claims-severity
+,,,,,0,mmueller/stacking-starter,Stacking Starter,Faron,,2016-10-11T21:26:01.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],224,allstate-claims-severity
+,,,,,0,iglovikov/xgb-1114,xgb 1114,Vladimir Iglovikov,,2016-10-26T17:17:48.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],114,allstate-claims-severity
+,,,,,0,tilii7/bias-correction-xgboost,Bias Correction + XGBoost,Tilii,,2016-10-13T02:35:14.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],101,allstate-claims-severity
+,,,,,0,mtinti/keras-starter-with-bagging-1111-84364,Keras starter with bagging 1111.84364,MT,,2016-11-09T00:39:41.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],78,allstate-claims-severity
+,,,,,0,danijelk/keras-starter-with-bagging-lb-1120-596,Keras starter with bagging (LB: 1120.596),Danijel Kivaranovic,,2016-10-15T21:07:39.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],77,allstate-claims-severity
+,,,,,0,scirpus/markov-chain-monte-carlo,Markov Chain Monte Carlo,Scirpus,,2016-11-26T07:54:30.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],64,allstate-claims-severity
+,,,,,0,achalshah/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Achal,,2016-10-13T04:04:10.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],62,allstate-claims-severity
+,,,,,0,guyko81/just-an-easy-solution,Just an easy solution,guyko,,2016-10-11T15:50:45.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],52,allstate-claims-severity
+,,,,,0,mariusbo/xgb-lb-1106-33084,XGB (LB 1106.33084),Marius Bock,,2016-11-29T01:33:02.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],51,allstate-claims-severity
+,,,,,0,misfyre/encoding-feature-comb-modkzs-1108-72665,Encoding + Feature Comb (modkzs) (1108.72665),Nick Sarris,,2016-11-14T15:30:18.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],35,allstate-claims-severity
+,,,,,0,mmueller/categorical-embedding-with-xgb,Categorical Embedding with XGB,Faron,,2016-12-14T07:28:45.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,allstate-claims-severity
+,,,,,0,mmueller/yet-another-xgb-starter,Yet Another XGB Starter,Faron,,2016-10-12T05:34:16.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],34,allstate-claims-severity
+,,,,,0,tilii7/ensemble-weights-minimization-vs-mcmc,Ensemble weights (minimization vs MCMC),Tilii,,2016-12-03T17:36:14.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,allstate-claims-severity
+,,,,,0,mtinti/xgb-1110-from-vladimir-iglovikov-and-tilii7,xgb 1110 from Vladimir Iglovikov and tilii7,MT,,2016-10-31T15:10:06.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],27,allstate-claims-severity
+,,,,,0,chandrimad31/insurance-loss-severity-in-depth-model-analysis,Insurance Loss Severity: In-Depth Model Analysis ,Chandrima D,,2020-08-26T19:48:47.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,allstate-claims-severity
+,,,,,0,jturkewitz/visualizing-mean-loss-per-feature-value,Visualizing Mean Loss per Feature Value,Jared Turkewitz,,2016-10-26T03:16:27.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,allstate-claims-severity
+,,,,,0,modkzs/lexical-encoding-feature-comb,Lexical Encoding + feature comb,modkzs,,2016-11-12T14:42:01.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,allstate-claims-severity
+,,,,,0,usersumit/tensorflow-dnnregressor,TensorFlow-DNNRegressor,Sumit Kothari,,2016-10-18T16:46:01.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,allstate-claims-severity
+,,,,,0,leexiongan/ensemble-weights-by-markov-chain-monte-carlo,Ensemble Weights by Markov Chain Monte Carlo,leexa,,2016-11-29T04:04:25.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,allstate-claims-severity
+,,,,,0,tilii7/recursive-feature-elimination,Recursive feature elimination,Tilii,,2016-11-07T07:29:53.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,allstate-claims-severity
+,,,,,0,nminus1/allstate-eda-python,Allstate EDA - Python,nminus1,,2016-10-11T16:42:11.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,allstate-claims-severity
+,,,,,0,dreeux/hyperparameter-tuning-using-hyperopt,Hyperparameter tuning using Hyperopt,dreeux,,2016-10-18T12:21:27.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,allstate-claims-severity
+,,,,,0,uditsaini/all-state-eda-feature-importance,ALL_State_EDA_feature_importance,udit,,2016-10-15T09:57:28.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,allstate-claims-severity
+,,,,,0,bertcarremans/reducing-number-of-numerical-features-with-pca,Reducing number of numerical features with PCA,Bert Carremans,,2016-10-15T20:38:37.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,allstate-claims-severity
+,,,,,0,fredtony/state-of-all-the-allstate-states,State of 'All the Allstate States',FredTony,,2016-10-22T09:34:57.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,allstate-claims-severity
+,,,,,0,aliajouz/singel-model-lb-1117,Singel model (LB: 1117),Ali,,2016-12-06T17:01:19.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,allstate-claims-severity
+,,,,,0,rushter/stacking-using-heamy,Stacking using heamy,Artem Golubin,,2016-10-11T13:57:50.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,allstate-claims-severity
+,,,,,0,gauss77/quick-look-at-the-data,Quick look at the Data,Satwik Bhattamishra,,2016-10-10T20:42:58.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,allstate-claims-severity
+,,,,,0,vecxoz/vecstack-demo,vecstack_demo,vecxoz,,2016-11-23T19:41:11.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,allstate-claims-severity
+,,,,,0,wrosinski/keras-optimization-template-hyperopt-gridsearch,Keras Optimization template - Hyperopt/GridSearch,Wojtek Rosinski,,2016-10-27T19:44:31.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,allstate-claims-severity
+,,,,,0,scirpus/quick-genetic-programme,Quick Genetic Programme,Scirpus,,2016-10-18T17:18:23.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,allstate-claims-severity
+,,,,,0,tilii7/t-sne-visualization-of-train-data,t-SNE visualization of train data,Tilii,,2016-10-23T23:55:49.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,allstate-claims-severity
+,,,,,0,mdmahmudferdous/allstate-claims-severity-prediction-regression,Allstate Claims Severity Prediction-Regression,Md Mahmud Ferdous,,2020-04-20T18:16:47.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,fredtony/mcmc-further-explored,MCMC further explored,FredTony,,2016-11-26T13:39:40.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,mariusbo/lexical-encoding-feature-comb-lb-1109-05787,Lexical Encoding + feature comb (LB: 1109.05787),Marius Bock,,2016-11-16T06:22:45.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,scirpus/lexical-encoding-with-xgb,Lexical Encoding with XGB,Scirpus,,2016-10-30T10:28:34.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,jiashenliu/different-classifier-showcase-and-question,Different Classifier Showcase and QUESTION,Jiashen Liu,,2016-10-17T10:42:03.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,mnabaee/keras-with-tensorflow-backend,Keras with TensorFlow backend,Mahdy Nabaee,,2016-10-13T17:46:35.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,option12/simple-scikitlearn-for-allstate,simple scikitlearn for Allstate.  ,option12,,2016-10-19T03:06:13.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,allstate-claims-severity
+,,,,,0,omonnier/impact-of-categories-encoding-on-the-model-perf,Impact of categories encoding on the model perf,oliviermonnier,,2016-12-07T11:51:19.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,allstate-claims-severity
+,,,,,0,carlosdutra/hyperopt-for-tunning-iglovikov-s-script,HyperOpt for Tunning Iglovikov's Script,cad,,2016-11-09T10:45:04.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,allstate-claims-severity
+,,,,,0,extremin/xgb1113,xgb1113,extremin,,2016-10-29T05:08:41.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,allstate-claims-severity
+,,,,,0,mnabaee/labelencoding-and-xgb-cv,LabelEncoding and XGB-CV,Mahdy Nabaee,,2016-10-17T14:51:19.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,allstate-claims-severity
+,,,,,0,apapiu/notebook35c9e8bdca,Notebook636c032a6e,Alexandru Papiu,,2016-10-10T23:48:26.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,allstate-claims-severity
+,,,,,0,cuijamm/allstate-claims-severity-score-1113-12994,Allstate Claims Severity (Score : 1113.12994),Jamm,,2019-09-25T08:46:28.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,zfturbo/singel-model-lb-1117,Singel model (LB: 1117),ZFTurbo,,2016-11-11T10:28:54.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,alazark/allstateclaims,AllStateClaims,AlKessela,,2016-12-06T17:41:40.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,mikhailyurasov/vectorizing-categorical-features,Vectorizing categorical  features,MY,,2016-10-13T20:44:01.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,zhukov/simple-xgboost,Simple xgboost,Ilya,,2016-10-28T06:18:14.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,comartel/xgboost-starter-allstate,XGBoost starter Allstate,CoMartel,,2016-10-13T07:54:52.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,guyko81/help-xgboost-with-ordinal-variables-1138-56,Help XGBoost with ordinal variables (1138.56),guyko,,2016-10-12T12:07:48.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,anokas/simple-xgboost-starter-1335-lb,Simple XGBoost Starter (1335 LB),anokas,,2016-10-10T18:41:11.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,allstate-claims-severity
+,,,,,0,zgo2016/claims-prediction,Claims-Prediction,zgo2016,,2016-12-12T22:52:00.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,allstate-claims-severity
+,,,,,0,ftmichel/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,ftmichel,,2016-10-17T06:44:38.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,allstate-claims-severity
+,,,,,0,tilii7/feature-importance-from-linear-and-tree-models,Feature importance from linear and tree models,Tilii,,2016-10-14T21:10:18.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,allstate-claims-severity
+,,,,,0,dylanbstorey/storey-dataexploration,Storey_DataExploration,DylanStorey,,2016-10-14T06:08:35.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,allstate-claims-severity
+,,,,,0,frontier45/simple-mlp-regression-with-keras-for-allstate,Simple MLP Regression with Keras for Allstate,ShiqiaoDu,,2016-10-12T02:40:48.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,allstate-claims-severity
+,,,,,0,naidubhavya/insurance-claims-severity-prediction,Insurance Claims Severity Prediction,Naidu Bhavya,,2021-07-09T13:08:38.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,rahulpawade/allstate-claims-severity-xgboost-regression,Allstate Claims Severity|xgboost|Regression,Rahul Pawade,,2020-08-28T12:43:41.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,stoneroggy/allstate,allstate,subham kumar,,2020-07-10T04:53:09.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,subbhashit/allstate-claims-severity-83-accuracy,allstate claims severity 83% accuracy,Bunty,,2020-06-04T07:29:41.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,sandeepanilkumar/xgboost-xgbregressor,Xgboost XGBRegressor,Sandeep AnilKumar,,2016-12-02T06:45:53.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,miggle/1177-sklearn-gradient-boosting-regressor,1177 Sklearn Gradient Boosting Regressor,MichaelMcAllister,,2016-11-16T19:55:27.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,vgerald/predict-all-state-claims-severity,Predict All State Claims Severity,Its Me!,,2016-11-23T21:29:19.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,weimin/keras-starter-with-bagging-1111-84364,Keras starter with bagging 1111.84364,Weimin Wang,,2016-11-10T05:08:04.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,jturkewitz/allstate-eda-cont-features,Allstate EDA Cont Features,Jared Turkewitz,,2016-10-19T07:33:23.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,bostdiek/testing-allstate-with-simple-models,Testing AllState with Simple Models,Bryan,,2016-10-21T20:53:47.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,allstate-claims-severity
+,,,,,0,akshaydusad/allstate-claims-severity,Allstate Claims Severity,Akshay Dusad,,2020-11-30T08:24:47.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,youweizou/allstate-claims-severity,Allstate Claims Severity,weiweiwei,,2020-06-18T18:44:14.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,pruthvirajangadi/claims-severity,Claims Severity,Pruthviraj Angadi,,2020-01-20T14:00:51.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,omegaji/kernel3fdf9ce177,kernel3fdf9ce177,omegaji,,2019-12-15T12:28:48.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,raviprakash438/allstate-claims-severity,Allstate claims severity,Ravi Prakash,,2018-06-16T14:41:24.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,kmader/using-lstms-to-read-categories,Using LSTMs to Read Categories,K Scott Mader,,2017-10-16T08:55:03.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,kmader/simple-embeddings-attempt,Simple Embeddings Attempt,K Scott Mader,,2017-10-16T09:05:59.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,nitink12/prog-pyth2,prog_pyth2,Nitin,,2016-12-07T04:17:15.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,banachan/tpot-claims-py,tpot_claims.py,Bernard Ong,,2016-11-18T21:53:07.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,weimin/simple-eda-feature-transformations,Simple EDA - feature transformations,Weimin Wang,,2016-11-15T08:45:51.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,silpara/h2o-python-starter,H2O Python Starter,Abhay Shukla,,2016-11-13T11:28:32.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,shkabko/lexical-encoding-feature-comb,Lexical Encoding + feature comb,Andy Shkabko,,2016-11-15T16:59:32.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,ishaanv/work-in-progress-eda-allstate,[work in progress] EDA AllState,ishaan,,2016-10-31T20:36:57.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,mmrosenb/summary-statistics-and-eda,Summary Statistics and EDA,PolarBear,,2016-10-24T07:05:48.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,santiagomota/keras-with-tensorflow-backend,Keras with TensorFlow backend,Santiago Mota,,2016-10-23T07:31:10.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,yww061851/data-preprocessing,Data Preprocessing,Neil,,2016-10-20T20:11:22.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,mamitiana/notebookb8ee9957a7,Bias Correction + XGBoost forked,Mamitiana Ignace,,2016-10-18T06:19:32.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,tjungblut/xgboost-starter-allstate,XGBoost starter Allstate,Thomas Jungblut,,2016-10-12T16:45:52.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,scirpus/naive-bayes-xgb,Naive Bayes + XGB,Scirpus,,2016-10-12T09:01:44.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,abhilashawasthi/stacking-starter,Stacking Starter,Abhilash Awasthi,,2016-10-12T11:05:28.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,mattvonrohr/stacking-starter,Stacking Starter,Matt,,2016-10-11T06:49:33.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,samhashmi/predictions,Predictions,Agha Muhammad,,2016-10-11T06:39:06.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,allstate-claims-severity
+,,,,,0,tom111989/claim-severity-catboost-mae-1122,Claim Severity - CatBoost | MAE 1122,tom111989,,2022-01-11T10:28:13.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,sarthakjain1234/all-state-notebook,All State Notebook,Sarthak Jain1234,,2020-11-27T07:02:29.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,prabhashranjan/prabhash-allstate-insurance,prabhash_allstate_insurance,prabhash ranjan,,2020-09-30T08:23:55.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,brahma0545/encoding-feature-comb-modkzs-1108-72665,Encoding + Feature Comb (modkzs) (1108.72665),BrahmaReddy,,2020-04-11T14:29:45.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,tushvjti/eda-allstate,EDA_AllState,TushVJTI,,2020-01-24T21:01:07.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,jeromeblanchet/ridge-lasso-coefficients-as-a-function-of-alpha,Ridge & Lasso coefficients as a function of Alpha,Jérôme E. Blanch∑xt 💻👨🏻‍💻📊📈🐳🤗🔥🦄,,2020-01-06T22:53:24.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,harshitt21/allstate-claims-severity-eda-and-baseline,Allstate Claims Severity - EDA and Baseline ,Harshit Gupta,,2019-11-13T17:06:44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,akshayreddykotha/loss-amount-prediction-for-insurance-policy-claims,Loss amount prediction for insurance policy claims,Akshay Kotha,,2021-06-17T19:55:11.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,ljjblackpig/exploratory-data-cleaning,Exploratory + Data Cleaning,JJ,,2019-03-25T02:56:13.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,nnair25/insurance-claim-severity-allstate,Insurance Claim Severity(Allstate),Leonidas,,2018-01-25T05:50:55.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,stevelatuidahodotedu/exploratory-study-on-ml-algorithms-426261,Exploratory study on ML algorithms 426261,Stephen Lee,,2017-04-19T05:41:01.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,kmader/auto-ml-with-teapot,Auto ML with TeaPOT,K Scott Mader,,2017-05-05T12:57:17.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,totalbro/notebook221a1fe586,Notebook221a1fe586,Addie J,,2017-03-18T00:30:35.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,vihangpatil/allstate-xgboost,allstate xgboost,Vihang Patil,,2017-01-18T18:49:47.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,rohsurve/pca-regression,PCA-Regression,RohitMahadeoSurve,,2016-12-15T07:55:50.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,tobikaggle/xgb-lb-1106-33084,XGB (LB 1106.33084),DDgg,,2016-12-07T05:37:02.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,aliajouz/xgb-model,xgb model,Ali,,2016-12-06T16:36:36.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,anujkh/prog-pyth2,prog_pyth2,TT,,2016-12-05T05:50:51.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,aakash2121995/new-ensemble,New Ensemble,Aakashaggawral,,2016-12-06T06:23:28.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,sandeepanilkumar/xgbregressor-with-best-params,XGBRegressor with best params,Sandeep AnilKumar,,2016-12-02T05:00:12.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,vigilanf/notebookcb1522bca6,Notebookcb1522bca6,Frank V,,2016-11-30T01:07:37.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,vecxoz/test1128,test1128,vecxoz,,2016-12-11T20:06:12.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,vgerald/predictclaimseverity-myworkbook,PredictClaimSeverity_myworkbook,Its Me!,,2016-11-25T21:08:08.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,xingobar/keras-starer,keras starer,Gary Ng,,2016-11-24T14:29:45.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,imnoone/notebook0f46a7401c,Notebook4c814b0271,MasumBillal,,2016-11-22T23:55:07.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,vgerald/predict-claims-severity-v2,Predict Claims Severity v2,Its Me!,,2016-11-23T00:24:41.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,xixibing/simple-xgb-with-5cv-lb-1114-for-starter,"Simple XGB with 5cv, LB ~1114, for starter",xixibing,,2016-11-22T05:43:35.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,manojsukhavasi/notebookd65ce02d1d,Xgboost  starter - LB score :1128.9,Manoj Sukhavasi,,2016-11-18T16:51:15.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,vihangpatil/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Vihang Patil,,2016-11-16T10:47:02.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,zaldri/simple-eda-feature-transformations,Simple EDA - feature transformations,ZachAldrich,,2016-11-11T15:33:47.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,xingobar/allstate-claims-severity, Allstate Claims Severity,Gary Ng,,2016-11-03T12:58:54.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,andreylarionov/simple-gradientboostingregressor-lb-1139,Simple GradientBoostingRegressor (LB: 1139),Andrey Larionov,,2016-11-01T20:54:23.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,phcostello/first-notebook,first notebook,PHCostello,,2016-11-01T16:24:57.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,akaakaaka/allstate,Allstate,Krishna,,2016-11-01T06:58:03.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,andreaslup/visualization-for-feature-correlations,Yet another visualization for feature correlations,alup,,2016-10-22T22:32:35.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,itodorovic/boxcox-ed,BoxCox-ed,itod,,2016-10-21T15:57:07.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,zachmayer/notebook5d30828d0f,Notebook5d30828d0f,Zach,,2016-10-17T19:21:44.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,tinkujohn/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,tinkujohn,,2016-10-16T20:00:26.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,hitanshupande/bias-correction-xgboost,Bias Correction + XGBoost,HitanshuPande,,2016-10-16T10:44:31.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,zhugds/try-gamma,Try gamma,pongba,,2016-10-17T02:36:45.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,rames037/keras-with-tensorflow-backend,Keras with TensorFlow backend,Vignesh Ramesh,,2016-10-15T04:22:59.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,svendegroeve/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Sven Degroeve,,2016-10-13T18:02:45.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,liamsch/python-keras-neuralnet,Notebook365c1b398c,Liam,,2016-10-12T23:14:56.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,freeman89/feature-reference,Feature reference,Kostadinov,,2016-10-12T18:37:02.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,chaosmail/the-first-kaggle-submission,The First Kaggle Submission,ChristophKörner,,2016-10-13T12:31:01.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,divyanshusuri/just-an-easy-solution,Just an easy solution,DSXL,,2016-10-12T09:36:08.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,rames037/just-an-easy-solution,Just an easy solution,Vignesh Ramesh,,2016-10-11T23:57:40.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,franckjay/notebookaa31860598,Notebookaa31860598,Bootes,,2017-03-28T14:34:11.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,benlindsay/assorted-visualizations,Assorted Visualizations,Ben Lindsay,,2016-10-16T02:22:08.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,harshkn/linear-regression,Linear Regression,Harsha,,2016-10-10T22:10:02.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,tunguz/yet-another-xgb-starter,Yet Another XGB Starter,Bojan Tunguz,,2016-10-10T20:34:59.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,wcukierski/test-input-files,Test input files,Will Cukierski,,2016-10-10T17:45:18.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,allstate-claims-severity
+,,,,,0,poteman/autox-get-top-features-allstate,autox_get_top_features_Allstate,poteman,,2021-12-04T00:27:26.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thoengb/predict-insurance-claims-severity-xgboost,Predict insurance claims severity - XGBoost,BTung,,2021-04-12T02:42:23.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,summershan/allstate-car-claims-severity,Allstate_Car_Claims_Severity,Summer Shan,,2020-12-05T03:36:02.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,allen21huang/allstate-claims-severity-prediction,Allstate Claims Severity Prediction,Allen Huang,,2020-02-28T21:12:44.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,arpytanshu/allstate-claims-severity-1260-mae,AllState Claims Severity - 1260 MAE,arpytanshu,,2020-02-18T18:37:55.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,venkateshprabhug/severity-of-insurance-claim,Severity of Insurance Claim,Venkatesh Prabhu,,2019-11-26T09:49:50.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tianyuanluo/allstate-claims-severity,Allstate Claims Severity,Terrel Luo,,2020-02-06T14:15:13.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,christianrorholtmoe/all-state-claim-severity-neural-net,All State Claim Severity - Neural Net,Mr Rorholt,,2019-10-22T19:54:57.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mold52/eda-for-splitted-data,EDA for splitted data,Tie Yaki,,2019-10-06T14:03:05.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ptaroo/allstate-claims-severity-regression,Allstate Claims Severity: Regression,Tsutomu Watanabe,,2019-10-06T08:59:12.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,manohar676/explatory-analysis-on-ml-algorithms,Explatory Analysis On ML Algorithms,Manohar Reddy,,2019-10-01T12:19:54.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alathiya/allstate-claim-severity-predictive-modelling,AllState Claim Severity Predictive Modelling,Amit L,,2019-05-22T19:46:06.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xiao1987/allstate-claims-eda,Allstate Claims EDA,Xiao Chen,,2019-04-16T15:38:59.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,deepdreamx/lgbm-only-featureinteraction-selected,lgbm_only_featureInteraction_selected,ammad,,2019-04-09T14:10:03.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,floser/farons-stacking-starter,Farons Stacking Starter,floser,,2019-11-26T21:16:23.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jihyeseo/claim-severe-eda-no-missing-value,claim severe eda no missing value,Jihye Sofia Seo,,2018-05-08T10:01:49.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sharifniyaz/kernel576238a4e5,Kernel576238a4e5,Sharif Niyaz,,2018-03-11T01:10:01.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zak2018/allstate-feature-analysis-python-8b1078,Allstate Feature Analysis - Python 8b1078,jila,,2018-01-23T03:22:45.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rspadim/adversarial-validation-allstate,Adversarial Validation - Allstate,Roberto Spadim,,2017-10-27T14:15:43.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sujithkumar/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Sujith,,2020-04-12T05:53:37.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rafsanjani/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Rafsanjani Muhammod,,2017-06-26T14:33:58.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cloudly/allstate-claims-severity,Allstate Claims Severity,Lyth,,2017-06-22T09:08:27.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cchouser/visual,visual,houzhe,,2017-06-09T15:26:12.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andreyrzhaksinskiy/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,AndreyRzhaksinskiy,,2017-05-29T18:26:18.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rajender963/hello-data-science,hello data science,Rajender Reddy K,,2017-05-29T10:27:12.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,siriuscorp/save-the-name-pls,Save the name pls.,Juan Corporan,,2017-05-17T19:05:09.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jahchaisang/notebookd1324fba50,Notebookd1324fba50,Jah Chaisangmongkon,,2017-05-08T03:05:18.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yogeshsinghrbt/notebook44ad4733c1,Notebook44ad4733c1,yogeshsingh,,2017-05-06T16:53:57.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mubashir1/notebookef30a80485,Notebookef30a80485,Mubashir,,2017-05-19T07:09:44.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,weiwang/notebook69922b2a78,Notebook69922b2a78,weiWang,,2017-04-27T05:11:42.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,weiwang/notebookb123b2cc0e,Notebookb123b2cc0e,weiWang,,2017-04-27T05:11:23.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ferrarisf50/allstate-test2,Allstate_test2,Pengchong Tang,,2017-04-18T16:24:25.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dayhaha/notebookb551ef00ef,Notebookb551ef00ef,dayhaha,,2017-04-16T13:02:51.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ferrarisf50/notebookcb7c60184c,Notebookcb7c60184c,Pengchong Tang,,2017-04-18T00:54:32.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andreistirb/my-first-notebook,My first notebook,AndreiStirb,,2017-04-12T08:07:40.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,colingrodecoeur/notebookef52a6041b,Notebookef52a6041b,coling,,2017-04-09T16:56:55.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xbmatrix/notebooka81a97222e,Notebooka81a97222e,xbmatrix,,2017-04-08T04:21:17.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,praveen0293/notebookbdd01743aa,Notebookbdd01743aa,PraveenPalaniyappan,,2017-03-29T22:11:28.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,totalbro/notebook3a0e7f2e15,Notebook3a0e7f2e15,Addie J,,2017-03-18T18:57:22.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,totalbro/notebookf0155a603c,Notebookf0155a603c,Addie J,,2017-03-15T18:53:00.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,totalbro/notebook9c3b2d91fa,Notebook9c3b2d91fa,Addie J,,2017-03-15T20:05:06.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,fcarley/test1,Test1,Frank Carley,,2017-03-13T20:45:07.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,totalbro/myallstate,MYALLSTATE,Addie J,,2017-03-14T17:29:13.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,miketree/notebook5750025c73,Notebook5750025c73,MikeTree,,2017-03-10T19:56:14.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,totalbro/notebookafdf59d7ce,Notebookafdf59d7ce,Addie J,,2017-03-10T19:19:05.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xiaoyao70v/notebookdbc8107d98,Notebookdbc8107d98,xiaoyao70v,,2017-03-10T06:13:06.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xiaoyao70v/notebookad54b99ce7,Notebookad54b99ce7,xiaoyao70v,,2017-03-09T07:25:55.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tejainece/linear-regression,Linear regression,Ravi Teja Gudapati,,2017-03-06T12:18:52.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,austinxiang/notebook08bbf2b3e7,Notebook08bbf2b3e7,YuxiangXiang,,2017-03-01T01:58:18.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shawnwang1118/notebooka4cef9045f,Notebooka4cef9045f,xiaowang,,2017-02-28T18:26:45.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,knighthawk989/notebook0a701e4280,Notebook0a701e4280,Sisir Sarkar,,2017-02-19T18:10:29.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cattan/notebookc16c996ddc,Notebookc16c996ddc,q6tan,,2017-02-18T19:01:05.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cattan/notebook547458934b,Notebook547458934b,q6tan,,2017-02-18T07:57:53.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cattan/notebookffc37a879a,Notebook5b321aeb8d,q6tan,,2017-02-18T07:52:17.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alicew1800/fork-of-allstate-alice,Fork of allstate-alice,alicew,,2017-02-17T01:20:12.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,genkiro/exploratory-study-on-ml-algorithms-97e7ea,Exploratory study on ML algorithms 97e7ea,Genkiro,,2017-02-16T16:51:57.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tfglaser/notebookadeecda806,Notebookadeecda806,TomGlaser,,2017-02-16T13:23:15.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mtfall/notebook47e2fa7fb9,Notebook47e2fa7fb9,Takuya Akiyama,,2017-02-14T04:41:11.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mtfall/notebookcd8df473e5,Notebookcd8df473e5,Takuya Akiyama,,2017-02-14T04:40:59.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alicew1800/notebook48a3351117,Notebook48a3351117,alicew,,2017-02-14T00:25:56.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alicew1800/allstate-alice,allstate-alice,alicew,,2017-02-14T00:27:07.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,prasha3173/simple-eda-feature-transformations-b91e5e08,Simple EDA - feature transformations b91e5e08,PrashantSharma,,2017-02-09T23:32:07.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kacky24/allstate-feature-analysis-python,Allstate Feature Analysis - Python,kacky,,2017-02-04T14:39:33.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andy12290/all-state-kaggle-notebook,All State Kaggle Notebook,Aniket ,,2017-01-29T20:49:52.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kbds1234/notebookb7be87bd65,Notebookb7be87bd65,KB1234,,2017-01-24T17:07:21.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pankajmishra/notebook06f4175a8e,Notebook19cff9e4da,PankajMishra,,2017-01-21T17:47:26.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ksmvsn/notebookebbe1add58,Notebookebbe1add58,Naveen Goud Bobburi,,2017-01-18T07:29:15.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,meryemschalck/notebook6c24717a82,Notebook6c24717a82,Meryem,,2017-01-16T14:47:40.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rushadre/notebook0396ac10c4,Notebook0396ac10c4,rushadre,,2017-01-16T09:15:11.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,samlow/notebook636c032a6e,Notebook636c032a6e,Samslow,,2017-01-15T04:17:45.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rushadre/notebook76fbe7313c,Notebook76fbe7313c,rushadre,,2017-01-13T12:38:28.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,njindal17/visualizing-mean-loss-per-feature-value,Visualizing Mean Loss per Feature Value,NehaJindal,,2017-01-08T12:00:10.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,teddian/tensorflow-dnnregressor,TensorFlow-DNNRegressor,TheodoreGalanos,,2017-01-08T09:05:58.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,banga034/testing,Testing,Shiva Rakshith BM,,2017-01-06T06:56:33.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,banga034/test-file,Test file,Shiva Rakshith BM,,2017-01-06T06:52:29.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sponde/notebook7e648f776f,Notebook7e648f776f,AnirudhJain,,2017-01-06T00:40:38.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,agemoo/keras,keras,agemO,,2017-01-05T09:01:11.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhenalen/allstate-feature-analysis-python,Allstate Feature Analysis - Python,zhenalen,,2017-01-04T07:00:39.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhenalen/xgbregressor-allstate-claims-severity,XGBRegressor - AllState Claims Severity,zhenalen,,2017-01-04T06:23:02.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vipnikki/notebookd985fffb85,Notebookd985fffb85,nika,,2017-04-06T19:04:40.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vipnikki/fgdfgdfg,Notebook975fa53a08,nika,,2016-12-27T20:21:24.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mjm2tr/notebookbd2abde8e3,Notebookbd2abde8e3,MaX!!,,2016-12-26T02:31:12.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andy12290/simple-eda-feature-transformations,Simple EDA - feature transformations,Aniket ,,2016-12-23T02:43:32.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andy12290/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Aniket ,,2016-12-22T17:44:49.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wellyouknow/tensorflow-dnnregressor,TensorFlow-DNNRegressor,whoops,,2016-12-19T02:54:14.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alexeyproskurnin/notebook950c20b7d9,Notebook950c20b7d9,dsmllearner,,2020-11-12T14:27:29.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,johnnystrings/notebook6151b6bc04,Notebook6151b6bc04,Johnny Strings,,2016-12-13T00:48:14.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonjiawax/mlpregressor1,MLPRegressor1,Zukie,,2016-12-12T23:58:05.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,den3b81/untitled,Notebooka419ab91eb,den3b,,2016-12-12T13:24:09.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tc171995/notebook02bf38e14a,Notebook02bf38e14a,Theepan Chakkravarthy,,2016-12-12T09:47:12.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rohsurve/feature-analysis,feature-analysis,RohitMahadeoSurve,,2016-12-12T08:56:35.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,slon1024/notebookefda3cc12d,Notebookefda3cc12d,Vladimir,,2016-12-12T06:28:56.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,samrotashoka/notebook1390d53726,Notebook1390d53726,Ashok kumar ,,2016-12-12T05:06:43.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,samrotashoka/notebookab63b50129,Notebookab63b50129,Ashok kumar ,,2016-12-12T04:59:26.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tobikaggle/xgb1113,xgb1113,DDgg,,2016-12-11T20:26:27.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,giandam/notebook3fa312365c,Notebook3fa312365c,Giandam,,2016-12-11T14:24:38.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tc171995/notebook26c9821bbb,Notebook26c9821bbb,Theepan Chakkravarthy,,2016-12-11T04:33:25.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,doanducqui/msubx,Msubx,Đoàn Đức Quí,,2016-12-11T02:56:00.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tc171995/notebook8333ee5df8,Notebook072b394224,Theepan Chakkravarthy,,2016-12-10T19:18:43.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chandrakantk/tensorflow-dnnregressor,TensorFlow-DNNRegressor,ck.iiitdm,,2016-12-10T11:15:58.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,doanducqui/notebook85fe2081e6,Notebook4c229aa3cc,Đoàn Đức Quí,,2016-12-10T08:11:12.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,saranyas/notebook16f8328554,Notebooke03cb16d47,Saranya,,2016-12-10T07:13:36.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jeongyoonlee/notebooka832a28d1c,Notebooka832a28d1c,Jeong-Yoon Lee,,2016-12-10T05:17:08.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,victorwang/rf-model-trial2,rf_model_trial2,Viiiic,,2016-12-10T02:38:30.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jad2192/allstate-preds,allstate_preds,JamesDiotte,,2016-12-09T18:57:13.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xujin1982/ensemble-weights-minimization-vs-mcmc,Ensemble weights (minimization vs MCMC),Junxiao,,2016-12-09T16:37:01.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,michaelmtz20/notebook88318eace7,Notebook88318eace7,Michael Martinez,,2016-12-09T00:18:01.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tobikaggle/markov-chain-monte-carlo,Markov Chain Monte Carlo,DDgg,,2016-12-08T22:21:52.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,snassimr/xgb-lb-1106-33084,XGB (LB 1106.33084),Nissim Matatov,,2016-12-08T18:28:45.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gabrieldemarmiesse/neural-network-for-beginner-lb-1140,Neural network for beginner LB: 1140,gabrieldemarmiesse,,2016-12-08T18:22:59.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mrooijer/notebookb238ddb158,Notebookee4fbdb5f1,MrOoijer,,2016-12-08T12:07:53.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikell/notebook6de5701bd4,Notebook6de5701bd4,insist,,2016-12-08T09:33:33.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,whanwan/notebook54601fed48,Notebook54601fed48,Wan,,2016-12-08T08:57:07.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thedoctor46/forked2,forked2,Mudit Jain,,2016-12-08T09:32:16.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,krsnewwave/notebook42438930fd,Notebook42438930fd,Dylan Valerio,,2016-12-08T05:34:35.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,doanducqui/test8,Test8,Đoàn Đức Quí,,2016-12-08T05:21:23.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rossxsy/markov-chain-monte-carlo,Markov Chain Monte Carlo,RossXu,,2016-12-08T04:32:33.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jmseman/markov-chain-monte-carlo-a929732a,Markov Chain Monte Carlo a929732a,Jon-MichelSeman,,2016-12-08T00:49:35.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rajak2020/notebooka8345f15ad,Notebooka8345f15ad,Raja Karipineni,,2016-12-08T00:04:24.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jianshefeng/markov-chain-monte-carlo-ce2d2421,Markov Chain Monte Carlo ce2d2421,JiansheFeng,,2016-12-07T23:16:40.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,irusin/markov-chain-monte-carlo,Markov Chain Monte Carlo,Ilya Rusin,,2016-12-07T17:32:27.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,remotelytrue/markov-chain-monte-carlo,Markov Chain Monte Carlo,PhillipSteindel,,2016-12-07T14:08:30.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dchaimow/xgb-lb-1106-33084,XGB (LB 1106.33084),dchaimow,,2016-12-07T13:36:28.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kirann/notebook278371d0da,Notebook278371d0da,KKiran,,2016-12-07T08:48:43.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kirann/notebookc99eb9e47d,Notebookc99eb9e47d,KKiran,,2016-12-07T08:26:51.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kirann/claims-severity,Claims severity,KKiran,,2016-12-07T08:26:21.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shenba/notebook1af39f0309,Notebook1af39f0309,ShenbagaKumarS,,2016-12-07T05:52:47.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,collbb/notebookd6817c55b4,Notebookd6817c55b4,collbb,,2016-12-07T01:52:13.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,matthewselee/notebookd5ece16ab6,Notebookd5ece16ab6,matthewselee,,2016-12-07T01:46:05.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,donaldspear/markov-chain-monte-carlo,Markov Chain Monte Carlo,donald@txstate,,2016-12-06T21:59:03.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,victorwang/rf-model,rf_model,Viiiic,,2016-12-07T07:36:19.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,donaldspear/notebook4872a7b4d1,Notebook4872a7b4d1,donald@txstate,,2016-12-06T19:32:14.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,victorwang/rd-model,rd-model,Viiiic,,2016-12-06T20:08:38.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kickyx/markov-chain-monte-carlo,Markov Chain Monte Carlo,General_FC,,2016-12-06T15:17:12.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thedoctor46/prog-pyth2,prog_pyth2,Mudit Jain,,2016-12-08T06:43:19.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chakra21/allstate-feature-analysis-python,Allstate Feature Analysis - Python,chakra,,2016-12-06T04:15:13.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chakra21/notebook160aba7adf,Notebook160aba7adf,chakra,,2016-12-06T03:54:32.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vicchao/notebook65ee5cd73a,Notebook65ee5cd73a,VicChao,,2016-12-05T23:18:23.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jeffstahler/simple-eda-feature-transformations,Simple EDA - feature transformations,JeffStahler,,2016-12-05T21:27:09.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,squizduos/just-an-easy-solution,Just an easy solution,Semen Bochkarev,,2016-12-05T17:00:03.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yamaggle/notebook6a010fe24a,Notebook6a010fe24a,Yamaggle,,2016-12-05T15:59:44.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nitink12/prog-python,prog_python,Nitin,,2016-12-04T22:45:30.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vijayzutshi/notebook55bcc3b375,Notebook55bcc3b375,VijayZutshi,,2016-12-04T20:05:17.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yamaggle/notebookb1906c8037,Notebookb1906c8037,Yamaggle,,2016-12-04T17:57:33.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aakash2121995/notebook7e073800cc,Notebook7e073800cc,Aakashaggawral,,2016-12-04T17:32:44.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aakash2121995/notebookccc577aa6b,Notebookccc577aa6b,Aakashaggawral,,2016-12-04T17:29:17.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,uday09/notebook5c43def848,Notebook5c43def848,Uday,,2016-12-04T15:46:56.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pan20ir/test-new,test new,pan20ir,,2016-12-04T14:57:22.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sumit9/notebook9342aa14ef,Notebook9342aa14ef,Sumit,,2016-12-04T14:25:24.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cseavers/notebook6cf0f96d25,Notebook6cf0f96d25,julien,,2016-12-04T14:13:14.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aialenti/notebookd5dadf0fa2,Notebook84e3658b37,travellingsalesman,,2016-12-04T00:12:58.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rjais2/notebook1f9b87eda6,Notebook1f9b87eda6,Rajesh Jaiswal,,2016-12-03T23:02:26.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,avinavneer/notebookd6d9e0aca4,Notebook0af5479079,Avinav Neer,,2016-12-03T22:52:20.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yonatanmedan/mystarterscriptadghkkhfjhfdfg,myStarterScriptAdghkkhfJhfdfg,‫YonatanMedan,,2016-12-03T21:43:04.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhenqiangx/notebook26f01a26cb,Notebook26f01a26cb,zhenqiangxu,,2016-12-03T19:22:38.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jmseman/markov-chain-monte-carlo,Markov Chain Monte Carlo,Jon-MichelSeman,,2016-12-03T18:39:38.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nil666/trial1-1,trial1,Nilabha Bhattacharya,,2016-12-03T11:57:05.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andrewcrab/notebooka62aae5988,Notebooka62aae5988,Andrew Xie,,2016-12-03T08:14:53.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,smurph35/notebooka253a8347c,Notebooka253a8347c,Spencer Murphy,,2016-12-02T22:55:31.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pirisin/notebookaa93d18f79,Notebookaa93d18f79,braca51e,,2016-12-02T15:49:27.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thakurrajanand/xgb-lb-1106-33084,XGB (LB 1106.33084),DataGeek,,2016-12-02T14:23:38.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shumpathy/tensorflow-dnnregressor-f243ee3f,TensorFlow-DNNRegressor f243ee3f,Shum Pathy,,2016-12-05T07:25:24.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jianshefeng/markov-chain-monte-carlo,Markov Chain Monte Carlo,JiansheFeng,,2016-12-02T06:18:51.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,srikhs/notebookcb030027ed,Notebookcb030027ed,Saisrikanth Rathakrishnan,,2016-12-02T03:47:37.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vigilanf/notebook37c652f995,Notebook37c652f995,Frank V,,2016-12-02T01:55:38.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,trishalachalasani/notebookcc4372551e,Notebookcc4372551e,ChalasaniTrishala,,2016-12-02T01:00:20.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vecxoz/notebook141430321a,Notebook141430321a,vecxoz,,2016-12-01T15:17:27.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,didioch/notebook73116df4cb,Notebook73116df4cb,DietrichOch,,2016-12-01T10:39:38.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kuthpadi/notebookcc9846ea78,Notebookcc9846ea78,ShashankHegdeK,,2016-12-01T04:52:02.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,serenajiang/notebook156ef7c96e,Notebook865dd3dd64,Serena,,2016-12-01T00:18:49.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,subramanyampogili/notebook906cfb3cc2,Notebooke4bd42e714,Subramanyam,,2016-11-30T21:57:16.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ather123/notebook2314cce9aa,Notebook2314cce9aa,AtherRizvi,,2016-11-30T21:23:49.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,itownleys/test2,Test2,Isabelle T-S,,2016-11-30T21:18:09.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,superalgorithm/notebook23ba74be71,Notebook23ba74be71,Nate,,2016-11-30T18:32:28.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,heeba117/notebookd55faf095a,Notebookd55faf095a,HeebaMohammed,,2016-11-30T17:48:59.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vigilanf/notebook408fd5a4d4,Notebook408fd5a4d4,Frank V,,2016-11-30T17:44:22.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,danielnuno/notebook7eff2b6122,Notebook7eff2b6122,Daniel Nuno,,2016-11-30T15:20:27.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ugoren/notebook9a26e2e915,Notebook9a26e2e915,Uri Goren,,2016-11-30T14:59:34.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,qjin076/notebook52d95fcf6f,Practice notebook,JinQu,,2016-11-30T03:04:03.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,raghavendrab/notebooke31da2d8d1,Notebooke31da2d8d1,RAGHAVENDRA BABLESHWAR,,2016-11-30T01:20:02.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,raghavendrab/notebook30be776fb5,Notebook30be776fb5,RAGHAVENDRA BABLESHWAR,,2016-11-30T01:16:23.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vigilanf/working-allstate-notebook,HeatMaps_Allstate_Notebook,Frank V,,2016-12-03T00:40:57.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,raghavendrab/notebooka8dfed1263,Notebooka8dfed1263,RAGHAVENDRA BABLESHWAR,,2016-11-29T23:55:58.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vigilanf/notebook6eed2f664d,Notebook6eed2f664d,Frank V,,2016-11-29T21:48:53.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,serenajiang/viz-stuff,Notebook5ff3ecaab7,Serena,,2016-11-29T21:44:57.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,husenzhang/notebook29665ac45f,Notebook29665ac45f,Husen Zhang,,2016-11-29T20:01:49.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,veronicacoronel/notebookee15e2c7d8,Notebookee15e2c7d8,veronicacoronelvera,,2016-11-29T16:32:01.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,veronicacoronel/notebookdfdc300a97,Notebookdfdc300a97,veronicacoronelvera,,2016-11-29T15:51:34.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,belgamdon/markov-chain-monte-carlo,Markov Chain Monte Carlo,BelénGD,,2016-11-29T12:56:39.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,priyaananthram/notebook93662a7c6c,Notebook93662a7c6c,Priya Ananthram,,2016-11-29T10:43:58.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nagpaul/notebook54e5ade493,Notebook54e5ade493,snagpaul,,2016-11-29T06:54:12.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,qqzhao/testofotherscodes,testOfOthersCodes,QZhao,,2016-11-29T05:15:44.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dodo1032/notebook844f22fe7b,Notebook844f22fe7b,YH C,,2019-08-29T14:31:35.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,twinsboy48/markov-chain-monte-carlo,Markov Chain Monte Carlo,"Benjamin Johnson, CSCP",,2016-11-29T02:01:07.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,islas27/notebookd4950915f6,Notebookd4950915f6,JonathanIslas,,2016-11-29T01:10:30.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,qjin076/notebooka4e70fd09c,Notebooka4e70fd09c,JinQu,,2016-11-28T23:50:10.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jurajbezecny/notebookcf4b371d97,Notebookcf4b371d97,Jurajicek,,2016-11-28T20:04:00.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gimpgael/testrttrh,testrttrh,Gael PAGES,,2016-11-28T14:52:05.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,niebaopeng/test001,test001,Taylor,,2016-11-28T10:23:53.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vishallakha/all-trump-state,All-Trump-State,vishallakha,,2016-12-05T21:05:12.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,openneuron/singel-model-lb-1117,Singel model (LB: 1117),dipdeep,,2016-11-28T04:22:16.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gaurav2555/notebookc7bffeb3c3,Notebookc7bffeb3c3,Learner,,2016-11-28T04:17:16.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhenqiangx/notebook623f807bd1,Notebook623f807bd1,zhenqiangxu,,2016-11-27T23:15:40.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kvetch/test1,test1,LVML,,2016-11-27T14:26:43.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,samrotashoka/singel-model-lb-1117,Singel model (LB: 1117),Ashok kumar ,,2016-11-27T03:36:30.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mnabaee/fork-of-keras-with-tensorflow-backend,Fork of Keras with TensorFlow backend,Mahdy Nabaee,,2016-11-27T02:53:47.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chinmay92/notebook8776395b5e,Notebook8776395b5e,Chinmay Abhyankar,,2016-11-26T23:46:47.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,elguapo77/simple-eda-feature-transformations,Simple EDA - feature transformations,JordanStrauss,,2016-11-26T22:38:14.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,muhpt4/simple-eda-feature-transformations,Simple EDA - feature transformations,Pat,,2016-11-26T22:23:35.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ingrid/markov-chain-monte-carlo,Markov Chain Monte Carlo,Ingrid,,2017-03-18T17:39:57.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,binaygupta/notebook4c6125ff2f,Notebook4c6125ff2f,BinayGupta,,2016-11-26T18:28:00.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jordand/notebooke89f7744e1,Notebooke89f7744e1,jordand,,2016-11-26T17:27:15.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mountaindata/allstate-randomforest,AllState RandomForest,Dan Carroll,,2016-11-26T07:40:53.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mountaindata/all-state-linear-svr-approach,All State Linear SVR Approach,Dan Carroll,,2016-11-26T02:01:34.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mountaindata/all-state-linear-regression-approach,All State Linear Regression Approach,Dan Carroll,,2016-11-26T01:18:42.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aconsapart/notebookbe64aab433,XGB exploration,joshuaherman,,2016-11-26T20:53:29.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nigelcarpenter/markov-chain-monte-carlo,Markov Chain Monte Carlo,Nigel Carpenter,,2016-11-25T23:02:59.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,justfor/markov-chain-monte-carlo,Markov Chain Monte Carlo,Justfor,,2016-11-25T22:56:31.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikeee/lasagne-simple-starter,  Lasagne simple starter,MikeS,,2016-11-25T16:23:58.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shankarpandala/claims-severity,Notebookb5a6e49983,Shankar Pandala,,2016-11-25T16:19:25.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marouanezaamoun/notebook1ad2750b15,Notebook1ad2750b15,MarouaneZaamoun,,2016-11-25T16:08:03.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kacky24/notebook230c3df0be,Notebook230c3df0be,kacky,,2016-11-25T14:12:35.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tminus/allstate-feature-analysis-python,Allstate Feature Analysis - Python,tminus,,2016-11-25T10:18:21.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,igauty/allstate-eda-python,Allstate EDA - Python,Vishwadeep,,2016-11-25T09:35:04.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,igauty/xgboost-starter-lb-score-1128-9,Xgboost  starter - LB score :1128.9,Vishwadeep,,2019-02-04T17:33:01.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,randolphyao007/notebook90d76e2729,Notebook90d76e2729,DongFengqing,,2016-11-25T08:11:17.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,syncme/notebookce0dd77c88,Notebookce0dd77c88,Shashank,,2016-11-25T06:53:18.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stonede/notebook03e25833cd,Notebook03e25833cd,stonede,,2016-11-25T05:04:18.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gtrimarc/notebook772e1966db,Notebook772e1966db,Maurolycus,,2016-11-25T03:55:21.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tennissuperstar/notebooka490aebb01,Notebook12aaf9eada,AiswaryaSankar,,2016-11-25T01:42:51.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andyshu/notebook39fa1df0b2,Notebook39fa1df0b2,Andy Shu Xin,,2016-11-25T01:08:53.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,visajdesai/allstate-feature-analysis-python,Allstate Feature Analysis - Python,VisajDesai,,2016-11-25T00:08:07.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,visajdesai/simple-eda-feature-transformations-80a89e01,Simple EDA - feature transformations 80a89e01,VisajDesai,,2016-11-25T00:02:38.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,visajdesai/simple-eda-feature-transformations,Simple EDA - feature transformations,VisajDesai,,2016-11-25T00:01:40.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,seijikumagai/notebookfed90c724e,Notebookfed90c724e,Seiji Kumagai,,2016-11-24T22:39:05.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,leiyng/notebook01521d9ac9,Notebook01521d9ac9,Lei Yang,,2016-11-24T22:20:20.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gtrimarc/notebook9a21c5e3e2,Notebook9a21c5e3e2,Maurolycus,,2016-11-24T18:30:28.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,brandao/allstate-1st-test,Allstate (1st test),"Humberto Brandão, Ph.D.",,2016-11-24T15:10:10.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,davidli/notebooka8dcd71c37,Notebooka8dcd71c37,David,,2016-11-24T08:03:35.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tennissuperstar/notebook494c15b9b2,Notebook494c15b9b2,AiswaryaSankar,,2016-11-25T02:18:00.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gubobo/notebook87c54df4a7,Notebook87c54df4a7,gubobo,,2016-11-24T06:28:57.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marcusluck/notebookcdcb5cb806,Notebookcdcb5cb806,Marcus Luck,,2016-11-24T00:22:06.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,null5432/notebook4e8c1decb8,Notebook4e8c1decb8,null5432,,2016-11-23T04:04:40.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kaylim/notebook66be8e7c85,Notebook66be8e7c85,KayLim,,2019-11-13T13:01:50.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,achalshah/notebook0400835e92,Notebook0400835e92,Achal,,2016-11-22T20:26:53.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,moominbamboo/notebookbd9d923378,Notebookbd9d923378,MoominBamboo,,2016-11-22T16:39:57.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zyunzhou/notebook9e35e35b0f,Notebook9e35e35b0f,playboy,,2016-11-22T14:34:08.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zyunzhou/exercise,exercise,playboy,,2016-11-22T14:05:38.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zyunzhou/notebook87847b900b,Notebook87847b900b,playboy,,2016-11-22T13:55:29.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rpertusa/allstate-analysis,Allstate Analysis,RubenPertusaLopez,,2016-11-22T13:02:08.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zyunzhou/notebook14ef130085,Notebook14ef130085,playboy,,2016-11-22T08:48:35.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vadyan/notebookae279e827f,Notebookae279e827f,Vladislav Kleymenov,,2016-11-22T08:26:27.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bakeforfun/notebook5a5e01fbb8,Notebook5a5e01fbb8,Bakeforfun,,2016-11-22T08:16:01.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ajayws/notebook507e171c37,Check data 1,Adi Wijaya Suchiana,,2016-11-22T07:38:11.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,beomsookim/notebookb8f508eaf4,Notebookb8f508eaf4,BeomSooKim,,2019-07-16T14:07:05.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,a275909044/notebook70579629c2,Notebook70579629c2,wangty,,2016-11-22T03:18:33.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pmittal2235/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Poros Metis,,2016-12-21T17:56:34.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,junghun/notebook8915dd56bb,Notebook8915dd56bb,Bruno.K,,2016-11-22T01:10:37.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vignesh10/notebook6351332c74,Notebook6351332c74,VigneshSureshbabuKishore,,2016-11-22T06:05:28.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tennissuperstar/notebook3ac124d750,Notebook3ac124d750,AiswaryaSankar,,2016-11-22T22:42:17.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vignesh10/notebook08a269740e,Notebook08a269740e,VigneshSureshbabuKishore,,2016-11-21T19:36:36.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yamaggle/notebook96450c21ad,Notebook96450c21ad,Yamaggle,,2016-11-21T15:46:39.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,luksss/notebook451f4b0f30,Notebook451f4b0f30,AliLu,,2016-11-21T14:29:15.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,liewyiyi/notebookab82ed9173,Notebookab82ed9173,LIEWyiyi,,2016-11-21T12:09:08.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jeffreyroshan/notebook636c032a6e,Notebook636c032a6e,jeffreyroshan,,2016-11-21T08:53:35.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,akilaw/encoding-feature-comb-modkzs-1108-72665,Encoding + Feature Comb (modkzs) (1108.72665),Akila Wajirasena,,2016-11-21T09:40:45.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,liupatrick/qewra,qewra,Patrick Liu,,2016-11-21T02:54:07.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hkdonald/allstate-feature-analysis-python-cee26815,Allstate Feature Analysis - Python cee26815,Donald,,2016-11-21T05:28:52.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,skncsu/notebook4f085d2eca,Notebook4f085d2eca,skncsu,,2016-11-21T01:42:29.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,oostopitre/notebook388e30fcb5,Notebook388e30fcb5,abi,,2020-09-10T19:43:43.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xujin1982/notebook7632569c86,Notebook7632569c86,Junxiao,,2016-11-20T22:19:01.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,apoorv98/simple-eda-feature-transformations,Simple EDA - feature transformations,Apoorv Jagtap,,2016-11-20T22:18:53.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bananamuffin/first-try,First try!,Banana Muffin,,2016-11-20T22:35:04.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sophiexxx/notebook2010950164,Notebook2010950164,SophieXiong,,2016-11-20T21:09:37.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xujin1982/notebooka02b00324c,Notebooka02b00324c,Junxiao,,2016-11-20T20:50:16.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xujin1982/starter-for-pylightgbm-lb-1115,Starter for pyLightGBM (LB 1115),Junxiao,,2016-11-20T20:29:47.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ankushjain/notebook2157fc9de8,Notebook2157fc9de8,AnkushJain,,2016-11-20T18:29:54.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikell/one-hot,One-Hot,insist,,2016-11-20T10:51:37.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,minoriinoue/notebookf02b3eb7e7,Notebookf02b3eb7e7,Minori,,2016-11-20T04:50:53.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikell/encoding3-feature-comb-modkzs-1108-72665,Encoding3 + Feature Comb (modkzs) (1108.72665),insist,,2016-11-20T04:46:39.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,eventide/notebook9e2f00421a,Notebook9e2f00421a,eventide,,2016-11-20T00:50:47.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,achintha93/notebookd81ade8d19,Notebookd81ade8d19,AchinthaIroshan,,2020-05-06T07:33:51.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,olegkheyfets/xgb-1110-from-vladimir-iglovikov-and-tilii7,xgb 1110 from Vladimir Iglovikov and tilii7,Oleg Kheyfets,,2016-11-19T20:20:52.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,olegkheyfets/notebook22e2f59ac1,Notebook22e2f59ac1,Oleg Kheyfets,,2016-11-19T20:19:29.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dneprovskaya/notebookb5411ef473,Notebookb5411ef473,Tatiana Dneprovskaya,,2016-11-19T18:49:43.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yu8861213/notebook3de76c33b0,Notebook3de76c33b0,Zheng,,2017-11-06T13:58:32.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yossisal/allstate,allstate,pulimaro,,2016-11-19T13:47:42.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ninefive/test-1,test_1,YihanSun,,2016-11-19T13:05:39.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,monotoneoff/notebookfe03635b9d,Notebook45a51e5f3f,Pavel Filatov,,2016-11-19T11:57:32.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chaitanya94/notebook310a5be46b,Notebook310a5be46b,Chaitanya Prasad,,2016-11-19T11:43:52.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vihangpatil/notebook71eb1e947b,Notebook71eb1e947b,Vihang Patil,,2016-11-19T08:34:38.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,datajanitor/testing,testing,datajanitor,,2016-11-19T06:56:29.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lewuathe/notebook601b43caaa,Notebookdd8ce50467,Kai Sasaki,,2016-11-19T05:11:27.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,raghavendrab/notebookc8e9b0605e,Notebookc8e9b0605e,RAGHAVENDRA BABLESHWAR,,2016-11-19T01:34:15.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mchatters/xgbregressor-with-bagging-bragging-lb-1117,XGBRegressor with Bagging & Bragging (LB:1117),Mark Chatters,,2016-11-19T01:18:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,raghavendrab/allstate-claims-prediction,Allstate claims prediction,RAGHAVENDRA BABLESHWAR,,2017-03-31T17:15:32.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aprocter/notebookc60638954f,Notebookc60638954f,aprocter,,2016-11-18T22:45:57.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shumpathy/tensorflow-dnnregressor,TensorFlow-DNNRegressor,Shum Pathy,,2016-11-18T22:31:20.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marc000/first-try,First Try,Heiko,,2016-11-18T20:42:38.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pristavskiy/notebook10e4be47e9,Notebook10e4be47e9,Konstantin Pristavskiy,,2016-11-18T15:33:50.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,praveenhegde/xgboost-starter,xgboost starter,Praveen Hegde,,2016-11-18T07:51:00.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zgcgreat/simple-eda-feature-transformations,Simple EDA - feature transformations,夜莺轻鸣,,2016-11-18T06:33:39.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ajayws/notebook75b0dadf3e,Notebook75b0dadf3e,Adi Wijaya Suchiana,,2016-11-18T04:28:55.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,leonardocardoso/notebookb7bd748039,Notebookb7bd748039,leo cardoso,,2016-11-17T23:15:27.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ericiscool/notebookeeed519990,Notebookeeed519990,ericiscool,,2016-11-17T23:08:05.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mekena/notebooka502c1a24f,Notebooka502c1a24f,MekenaNelson,,2016-11-17T22:58:52.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,john1of7/notebooka7fc8c56a4,Notebooka7fc8c56a4,John,,2016-11-17T21:38:11.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,arjunsinghyadav2/notebook781f6108b5,Notebooke80c3fa8fd,Arjun_Singh,,2016-11-17T21:07:10.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,manojsukhavasi/simple-eda-feature-transformations,Simple EDA - feature transformations,Manoj Sukhavasi,,2016-11-17T18:21:04.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nickrobinson/notebookf6ff638e42,Notebookf6ff638e42,Nick,,2016-11-17T16:18:50.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thoughtnerve/notebooke0082d8edc,Notebooke0082d8edc,thoughtnerve,,2017-01-04T13:43:55.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,epattaro/notebookfd5c3ac333,Notebookfd5c3ac333,epattaro,,2016-11-17T15:16:09.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,leonardocardoso/braga-alg-tests,Braga - Alg tests,leo cardoso,,2016-11-30T00:54:19.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,temkahap/allstate-feature-analysis-python,Allstate Feature Analysis - Python,temkahap ,,2016-11-17T12:41:48.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chloe98/notebook5cef226755,Notebook5cef226755,Chloe,,2016-11-17T10:03:58.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,oneuno/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,JMN,,2020-08-26T07:23:54.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sd4174263/notebookc734e46548,Notebookc734e46548,Patrick Wu,,2016-11-17T02:53:12.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hansity/notebook4558d5a60c,Notebook4558d5a60c,Hansity,,2016-11-17T02:31:39.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thoughtnerve/notebookf568aca38a,Notebookf568aca38a,thoughtnerve,,2016-11-17T02:15:17.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xuyaocareer/encoding-feature-comb-modkzs-1108-72665,Encoding + Feature Comb (modkzs) (1108.72665),xuyaocareer,,2016-11-17T02:09:02.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wburgess/notebook7f21885cb3,Notebook7f21885cb3,William Burgess,,2016-11-17T00:55:50.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,akarimzhul/notebookccdb8a7353,Notebookccdb8a7353,akarimzhul,,2016-11-16T23:10:18.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,adornes/notebook9483c633f7,Notebook9483c633f7,Daniel Adornes,,2016-11-16T23:03:04.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,klenty/notebook0f5adc5f04,Notebook0f5adc5f04,Alexey Györi,,2016-11-16T22:57:09.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ivovkanych/voi-allstate,voi_allstate,ivovkanych,,2016-11-16T21:39:24.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lookman/notebook017a8c72a5,Notebook017a8c72a5,LukmanUlyaev,,2016-11-16T17:22:13.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sacvp125/simple-eda-feature-transformations,Simple EDA - feature transformations,Antonio,,2016-11-16T16:33:00.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ninefive/test-2,test_2,YihanSun,,2016-11-16T12:49:15.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,louisng/notebook383a117c97,Notebook383a117c97,LouisNg,,2016-11-16T12:05:10.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zzdu2013/second-try,second try,Qwerty,,2016-11-16T06:00:54.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zzdu2013/notebooke81e6c5a24,Notebooke81e6c5a24,Qwerty,,2016-11-16T05:54:42.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,henrychen/simple-eda-feature-transformations,Simple EDA - feature transformations,HenryChen,,2016-11-15T23:57:52.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,debasishk/notebookb3c025520a,Notebookb3c025520a,debasishkaushik,,2016-11-15T17:19:13.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zgcgreat/allstate,Allstate,夜莺轻鸣,,2016-11-15T10:34:00.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zgcgreat/notebookfa39e155cb,Notebookfa39e155cb,夜莺轻鸣,,2016-11-15T10:31:37.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hafeneger/notebook091a5cedc3,Notebook091a5cedc3,Sven Hafeneger,,2017-10-09T15:36:19.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hkdonald/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Donald,,2016-11-15T09:25:38.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,weishenghua/notebooke864d596e5,Notebooke864d596e5,weishenghua,,2016-11-15T09:10:42.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hkdonald/notebookf82bd72ab2,Notebookf82bd72ab2,Donald,,2016-11-15T08:49:00.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,maxshikin/notebook74346025ec,Notebook74346025ec,Max Shikin(CMF_DA),,2016-11-15T08:18:19.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikerose/notebookaa7e02bff2,Notebookaa7e02bff2,MikeRose,,2016-11-15T05:32:09.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vfong2/vf-project-3,VF_Project 3,VaniaFong,,2016-11-29T05:18:37.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,patricknicholson/notebook29ba0b63b4,Notebook662d84aa73,p.j.n.,,2016-11-15T02:55:35.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,macrogers/notebook856912e0f6,Notebookc20ab7c99a,MacRogers,,2016-11-15T02:32:38.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,santoshsood/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Redmond,,2016-11-15T01:56:49.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jiaojiaoloveu/notebookb7d098a3bd,Notebookb7d098a3bd,BabyNine,,2016-11-15T00:50:07.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rezahosseini/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Reza,,2016-11-14T18:08:05.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jiaojiaoloveu/notebook2cc1bd4adb,Notebook2cc1bd4adb,BabyNine,,2016-11-14T15:27:52.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,santoshsood/simple-eda-feature-transformations-20e52165,Simple EDA - feature transformations 20e52165,Redmond,,2016-11-14T08:30:35.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yongkai/notebook0ae4c61c0b,Notebook0ae4c61c0b,YongKai Wong,,2016-11-14T07:26:40.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shinson/notebook5e161e56ce,Notebook5e161e56ce,shinson,,2016-11-14T06:16:17.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,s4sarath/simple-eda-feature-transformations,Simple EDA - feature transformations,aintnosunshine,,2016-11-14T06:11:54.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,santoshsood/simple-eda-feature-transformations,Simple EDA - feature transformations,Redmond,,2016-11-14T04:57:10.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cdepeuter/cdprf,cdpRF,ConradDePeuter,,2016-11-14T02:27:15.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nickrobinson/allstate-claims-severity-analysis,Allstate Claims Severity Analysis,Nick,,2016-11-14T00:15:17.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhenhou/simple-eda-feature-transformations,Simple EDA - feature transformations,Zhen Hou,,2016-11-13T23:31:29.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,florianriche/allstate,allState,Florian RICHE,,2016-11-13T22:27:06.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,garethjns/notebook49446cbd7e,Notebook49446cbd7e,GarethJones,,2019-03-09T18:38:30.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yasminamekki/notebook6f9f274470,Notebook6f9f274470,YasminaMekki,,2016-11-13T13:19:47.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,leolau/notebook4ebd858b98,Notebook4ebd858b98,LL6033,,2016-11-13T09:35:40.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nightshade7/notebook018193cca4,Notebook018193cca4,Abhishek Sehgal,,2016-11-13T06:41:00.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jiaojiaoloveu/notebook518ae93f4a,Notebook518ae93f4a,BabyNine,,2016-11-13T04:17:14.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nightshade7/allstate-severity-test,Allstate Severity Test,Abhishek Sehgal,,2016-11-14T17:17:04.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,polkach/notebook2e35845805,Notebook2e35845805,Комков Степан Алексеевич,,2018-03-21T16:24:36.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ahaque/notebook02cdeb3888,Notebook02cdeb3888,Adnan Haque,,2016-11-12T20:23:54.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mishacamry/allstate-feature-analysis-python,Allstate Feature Analysis - Python,mishacamry,,2016-11-12T11:04:37.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ming030890/notebook751212fc29,Notebook751212fc29,Tony Mak,,2016-11-12T10:57:38.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shubhamgoel27/notebook33c774455b,Notebook33c774455b,Shubham Goel,,2016-11-12T09:06:30.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,paiflare/notebookce1701e695,Notebookce1701e695,Andrey Petrov,,2016-11-12T09:03:44.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,doremi/notebook0c6b990f94,Notebook0c6b990f94,DOREMI,,2016-11-11T23:58:14.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zzdu2013/first-try,first try,Qwerty,,2016-11-11T21:29:23.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pdraznik/notebook8f4420d921,Notebook8f4420d921,PeterDraznik,,2016-11-11T19:33:08.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bluemarlon/notebook88d3d8da5d,Notebook88d3d8da5d,renjiechen,,2016-11-11T16:21:27.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ed1229/notebook5081f83d81,Notebook5081f83d81,edward,,2016-11-11T02:43:04.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marissah/just-an-easy-solution,Just an easy solution,MarissaHenderson,,2016-11-11T01:25:15.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dstauffer/notebook818fcad009,Notebook818fcad009,Lyam,,2016-11-13T23:23:02.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ryanyu/benchmark-cv,Benchmark_cv,RyanYu,,2016-11-11T00:52:30.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ryanyu/benchmark-v2,benchmark_v2,RyanYu,,2016-11-11T18:22:45.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,toantran/notebook3df36cbf75,Notebook3df36cbf75,ToanTran,,2016-11-10T18:47:30.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kumareshd/wasting-time-2,Wasting Time 2,Kumaresh,,2016-11-10T18:28:03.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ryanyu/notebook0a02f7fa33,Notebooke2b6a3317d,RyanYu,,2016-11-10T17:02:12.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dvillero/notebooke2ef13cb20,Notebooke2ef13cb20,DavidVillero,,2016-11-10T16:11:27.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xuyaocareer/allstate-claims-severity-data-analysis-modeling,Notebook7def88178e,xuyaocareer,,2016-11-10T16:46:52.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,scottbradshaw/notebook8b1afce93c,Notebookb943ebae6e,Scott,,2016-11-10T10:41:09.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,magdalenas/notebook4dc148774c,Notebook4dc148774c,Magdalena Szarkowska,,2016-11-10T09:53:17.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,david84/singel-model-lb-1117,Singel model (LB: 1117),David,,2016-11-10T08:25:07.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ryanyu/notebooka29dc98573,Notebooka29dc98573,RyanYu,,2016-11-10T02:09:00.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,davidli/notebook342f13a828,Notebook342f13a828,David,,2016-11-10T01:55:59.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jiaojiaoloveu/testing,testing,BabyNine,,2016-11-10T01:48:48.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jiaojiaoloveu/jiaojiaotest,jiaojiaotest,BabyNine,,2016-11-09T22:48:58.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,abulhawa/notebook1e4f04f99b,Notebook1e4f04f99b,Ali Abul Hawa,,2016-11-09T21:04:09.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rohitghole/notebook23adc3a595,Notebook23adc3a595,Rohit Ghole,,2016-11-09T17:55:22.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chistyakovyo/simple-eda-feature-transformations,Simple EDA - feature transformations,Yury Chistyakov,,2016-11-09T12:20:14.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vinodsundaram/notebook9196df6997,Notebook9196df6997,Vinod Sundaram,,2016-11-17T08:23:59.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,giladamar/just-an-easy-solution,Just an easy solution,Gilad Amar,,2016-11-09T08:35:20.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,joelprince25/notebook34498359a1,Notebook34498359a1,Joel,,2016-11-09T05:52:19.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,freemanchan/notebook70b3c20977,Notebook70b3c20977,Freeman Chan,,2017-07-05T23:47:28.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bluebite/notebook25c392eba2,Notebook25c392eba2,BlueBite,,2016-11-08T20:36:22.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marissah/notebookfa57cd8ad8,Notebookfa57cd8ad8,MarissaHenderson,,2016-11-08T16:30:27.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sayalidzambre/notebooke0c7e09697,Notebooke0c7e09697,Sayali,,2016-11-08T13:26:47.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,navaneeth51089/allstate-report,allstate report,navaneeth,,2016-11-19T13:55:17.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,navaneeth51089/notebookfaf92923ac,Notebookfaf92923ac,navaneeth,,2016-11-08T13:00:13.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,julienpantz/notebook5adc32c9c0,Regression2,Juju,,2016-11-08T10:20:08.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,julienpantz/xgboost,XGBoost,Juju,,2016-11-08T10:19:49.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chistyakovyo/help-xgboost-with-ordinal-variables-1138-56,Help XGBoost with ordinal variables (1138.56),Yury Chistyakov,,2016-11-08T09:50:57.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chistyakovyo/just-an-easy-solution,Just an easy solution,Yury Chistyakov,,2016-11-08T08:24:26.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jasonlaw/notebook2fc9183d7d,Notebook2fc9183d7d,JasonLaw,,2016-11-08T08:04:23.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yangjunye/test-1,test_1,Yriuns,,2016-11-08T02:53:05.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,julienpantz/notebookaf3c0ec02f,Notebook5cf417c214,Juju,,2016-11-08T02:49:37.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sarahpolak/notebookcc349593a2,Notebookcc349593a2,LeedsBA_SarahPolak,,2016-11-08T02:35:03.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pdraznik/notebooked11ce2148,Notebooked11ce2148,PeterDraznik,,2016-11-11T15:42:31.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rafaleo/tensorflow-dnnregressor,TensorFlow-DNNRegressor,RafaLeo,,2016-11-07T21:59:02.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,annhe09/notebook914517fb97,Notebook914517fb97,HeJia,,2016-11-07T20:21:48.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,user123/notebooke71973b226,Notebook3d8c876393,Gokulraj Gunasekaran,,2016-11-07T20:09:53.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,quantum13/gggggggg,gggggggg,Vladimir Khramov,,2016-11-07T19:46:54.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,quantum13/notebook972ae153c5,Notebook972ae153c5,Vladimir Khramov,,2016-11-07T19:44:57.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tanarj/notebook294ed86d4a,Notebook294ed86d4a,tanarj,,2016-11-07T15:16:32.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,woonibox/notebook4e13d3855a,Notebook4e13d3855a,Wooni,,2016-11-07T10:41:21.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,piero111/singel-model-lb-1117,Singel model (LB: 1117),Piero,,2016-11-07T08:49:14.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kyrylielizarov/notebookea81f5dc43,Notebookea81f5dc43,Kyryl Yelizarov,,2016-11-07T08:26:45.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,judy002933/notebook5f150e4071,Notebook5f150e4071,JudyChen,,2016-11-07T06:46:57.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chaom1026/notebook971b0cf45b,Notebook971b0cf45b,Data Quixote,,2016-11-07T01:20:52.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dominicdebiaso/notebook169070041f,Notebook169070041f,Dominic DeBiaso,,2016-11-06T22:29:54.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,eayunts/just-an-easy-solution,Just an easy solution,Edward,,2016-11-06T22:28:02.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vielauge/notebooka81a3034e9,Notebookf653513b37,Vielauge,,2016-11-06T09:54:10.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cklwankaggle/notebook6e64e09850,Notebook6e64e09850,chensniper,,2016-11-06T07:51:22.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ed1229/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,edward,,2016-11-06T00:09:35.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bananamuffin/notebook43a9ed7c7a,Notebook43a9ed7c7a,Banana Muffin,,2016-11-05T20:43:44.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sxzircon/allstate-feature-analysis-python,Allstate Feature Analysis - Python,sxzircon,,2016-11-05T15:48:39.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pshishkin/notebook5d0423b0ee,Notebook5d0423b0ee,Pavel Shishkin,,2016-11-05T06:29:41.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,monkeyzxr/notebook72b5cf6ff6,Notebookf581557c11,monkeyzxr,,2016-11-05T05:37:24.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kiranganji99/notebookd9fa5e7268,Notebookd9fa5e7268,Kiran Ganji,,2016-11-05T04:58:22.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,brandonma/testbrandon,testbrandon,Brandon,,2016-11-08T01:05:40.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pepper88/simple-eda-feature-transformations,Simple EDA - feature transformations,pepper88,,2016-11-04T18:43:25.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vecxoz/allstate3,allstate3,vecxoz,,2016-11-04T15:24:30.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bohdanosadchyi/notebookcd465e8967,Notebookcd465e8967,Bohdan Osadchyi,,2016-11-05T09:13:37.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ming861206/simple-eda-feature-transformations-v1,Simple EDA - feature transformations-V1,Ming,,2016-11-04T12:15:34.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,saraswat/notebook8cbf1636b1,Notebook2a51c49b67,update,,2016-11-04T10:44:16.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,uditsaini/simple-eda-feature-transformations-v1,Simple EDA - feature transformations-V1,udit,,2016-11-04T07:10:34.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cklwankaggle/notebook9717deb0ad,Notebook9717deb0ad,chensniper,,2016-11-04T05:47:33.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cklwankaggle/notebookd80acc31ec,Notebooka6055d110b,chensniper,,2016-11-04T03:26:27.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,weishenghua/notebookcfbafd9a39,Notebookcfbafd9a39,weishenghua,,2016-11-04T00:57:44.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,primenumber/notebook3959e9e68c,Notebook3959e9e68c,Yuanqing Liu,,2016-11-03T23:17:57.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hulemalearning/notebookdbc1abe80a,Notebookdbc1abe80a,Hulemale,,2016-11-03T19:40:25.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,turkoh/simple-eda-feature-transformations-2cd71e86,Simple EDA - feature transformations 2cd71e86,TURK,,2019-11-15T19:53:39.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kuttet/notebook726e35af52,Notebook726e35af52,SAURABH ,,2016-11-03T17:29:38.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yolanda2013/notebookeac6452938,Notebookeac6452938,RuoDu,,2016-11-03T15:33:46.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cklwankaggle/notebook23f4b891ad,Notebook23f4b891ad,chensniper,,2016-11-03T15:28:25.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xingobar/notebook8f756c9a9e,Notebook8f756c9a9e,Gary Ng,,2016-11-03T12:57:15.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rrkc00/notebook8c903a36db,Notebook8c903a36db,RRKC,,2016-11-03T09:49:07.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gkganesh/notebook98f4ac41d3,Notebook98f4ac41d3,ganeshkumar,,2016-11-07T07:20:36.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,arjoonn/scout-script-6,Scout Script,ArjoonnSharma,,2016-11-03T05:05:31.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,taeheekim/notebook2c9032e76d,Notebook2c9032e76d,TaeheeKim,,2016-11-03T02:00:48.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,maikelele/testing,testing,Maikelele,,2016-11-02T19:40:17.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,maikelele/notebook053ce03387,Notebook053ce03387,Maikelele,,2016-11-02T19:38:59.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mtinti/notebook482ce38221,Notebook482ce38221,MT,,2016-11-02T15:41:30.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,haphamngoc/state-of-all-the-allstate-states,State of 'All the Allstate States',PhamNgocHa,,2016-11-02T14:08:28.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,taniaconceicao/notebooka53a9a7f38,Notebooka53a9a7f38,Tânia Conceicão,,2016-11-02T13:48:40.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,atsushitakahashi/notebookae09fd5374,Notebookae09fd5374,shirochocolate,,2016-11-02T07:51:01.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,taeheekim/notebook301b6b9d83,Notebook301b6b9d83,TaeheeKim,,2016-11-02T06:25:40.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,deanjohnr/notebook765406868d,Notebook765406868d,deanjohnr,,2016-11-02T00:51:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ermochi/xgb1113-try,xgb1113 try,AVP,,2016-11-03T22:16:27.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vecxoz/time-test,time_test,vecxoz,,2016-11-01T19:08:17.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,turkoh/simple-eda-feature-transformations,Simple EDA - feature transformations,TURK,,2016-11-01T15:52:37.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,haphamngoc/notebook6dd9fb9c58,Notebook6dd9fb9c58,PhamNgocHa,,2016-11-01T15:01:49.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nikhilgundawar007/all-state-problem,Notebookd9fe9c9968,NikhilGundawar,,2016-11-01T14:44:38.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lzhang18/notebooka6f51dd39e,Notebooka6f51dd39e,Lili,,2016-11-01T14:29:00.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zaldri/notebookebb06f67cb,Notebookebb06f67cb,ZachAldrich,,2016-11-01T12:55:02.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xingobar/simple-xgboost-1120-769,simple xgboost 1120.769,Gary Ng,,2016-11-24T12:20:23.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,judy002933/notebookb32beffa80,Notebookaa360491fd,JudyChen,,2016-11-01T07:35:23.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,brandonma/allstate-brandonmasjca,allstate_brandonmasjca,Brandon,,2016-11-16T05:25:25.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,madhugarlapati/notebook50d93bad4b,Notebook50d93bad4b,Madhu Garlapati,,2016-11-03T19:10:45.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lzhang18/notebook88ff77a487,Notebook88ff77a487,Lili,,2017-03-09T04:07:12.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dcarmody/notebook09ceeae3e9,Notebook09ceeae3e9,Dan,,2016-10-31T20:20:50.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,poigal/notebook60f6148385,Notebook60f6148385,Poigal,,2016-10-31T17:56:10.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lzhang18/notebook258cc4592d,Notebook258cc4592d,Lili,,2016-10-31T14:50:44.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,davidli/notebook093228720a,Notebook093228720a,David,,2016-10-31T12:23:34.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,epattaro/notebook627af7fcc6,Notebook627af7fcc6,epattaro,,2016-10-30T18:42:14.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kagglenator/try0-0001,Try0.0001,kagglenator,,2016-10-30T18:23:26.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rjworth/notebook65f8a75bde,Notebook65f8a75bde,rjwo,,2016-10-30T17:12:51.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stegben/visualize-loss-count-per-feature,Visualize loss-count per Feature,Benjamin Chu,,2016-10-30T16:16:34.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stegben/visualizing-mean-loss-per-feature-value,Visualizing Mean Loss per Feature Value,Benjamin Chu,,2016-10-30T14:49:42.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,davidli/notebook84d4850d7a,Notebook84d4850d7a,David,,2016-10-30T10:45:51.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zgcgreat/notebook0b1ad5a2c9,Notebook0b1ad5a2c9,夜莺轻鸣,,2016-10-30T10:44:54.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lifezbeautiful/justtesting,JustTesting,Nishant Kumar,,2016-10-30T10:17:11.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,deanjohnr/notebook5c6dd40c24,Notebook5c6dd40c24,deanjohnr,,2016-10-29T21:46:44.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kevinpalm/bumbling-around-in-tensorflow,Bumbling Around in Tensorflow,Kevin Palm,,2016-10-29T21:23:01.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jennylee/notebooke2c99f97a2,Notebooke2c99f97a2,Jenny  ,,2016-10-29T18:18:42.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vineethraghav/notebook53f048f7b5,Notebook53f048f7b5,vineeth raghav,,2016-10-29T18:07:26.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rrkc00/xgboost,xgboost,RRKC,,2016-10-31T14:28:37.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nigelcarpenter/xgb1113,xgb1113,Nigel Carpenter,,2016-10-29T08:49:17.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vivekka93/notebook86d4495b9e,Notebook738d58f570,Vivek Karna,,2016-10-29T07:34:10.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zeyuhuang/notebook93d46bb939,Notebook93d46bb939,Zeyu Huang,,2016-10-28T22:37:40.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tripb55/notebook28ed04ddb0,Notebook28ed04ddb0,tripb44,,2016-10-28T16:52:22.7Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rrkc00/notebook84986c5de3,Notebook84986c5de3,RRKC,,2016-10-28T12:14:35.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pankajmishra/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,PankajMishra,,2016-10-28T14:10:01.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nomanvb/notebook5201533285,Notebook5201533285,Ariful Ambia,,2016-10-28T05:56:36.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chakriv88/notebook3a2cf87db8,Notebook3a2cf87db8,MohanChakradhar,,2016-10-28T04:09:42.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nightshade7/allstatetest,AllStateTest,Abhishek Sehgal,,2016-10-28T04:06:16.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,oviera/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,oviera,,2016-10-30T19:45:28.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,agrawalvikas/regression,Regression,Vikas Agrawal,,2016-10-28T02:01:09.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aresyeah/ye1027,Ye1027,Ares,,2016-10-27T19:29:17.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mtinti/xgb-1114,xgb 1114,MT,,2016-11-02T15:40:49.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nagababu/notebook4b21450715,Notebook4b21450715,Nagababu Avula,,2016-10-27T01:23:18.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,olehshyshkin/notebook46e537366f,Notebook46e537366f,Oleh Shyshkin(UCU),,2016-10-26T23:05:40.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lysuhin/exploratory-study-on-ml-algorithms-57ef53ca,Exploratory study on ML algorithms 57ef53ca,lysukhin,,2016-10-26T21:05:14.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,usmannisar/notebook32cc75a956,Notebook32cc75a956,Phoenix,,2016-10-26T20:16:41.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yuqingxue/beginner-friendly-simple-linear-regression,Beginner Friendly Simple Linear Regression,Yuqing Xue,,2016-10-26T20:15:25.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,beastiebox/notebook4a7dc671d7,Notebook4a7dc671d7,DustyCarver,,2016-10-26T19:04:27.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lyubap/notebook002bc74755,Notebook002bc74755,LyubovPuzyreva,,2016-10-26T17:52:46.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,valadi/singel-model-lb-1117-jaya-mod,Singel model (LB: 1117)-JAYA_MOD,Jayaraman,,2016-10-31T13:29:56.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,delemeator/notebookc19b9b172e,Notebookc19b9b172e,Delemeator,,2016-10-26T15:30:54.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,parthibangowthaman/singel-model-lb-1117,Singel model (LB: 1117),Pa,,2016-10-26T14:23:47.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jameskaruri/notebookab02bc1cd1,Notebookc01a3dfae6,JamesKaruri,,2016-10-26T11:48:08.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tobikaggle/keras-starter-with-bagging-lb-1120-596,Keras starter with bagging (LB: 1120.596),DDgg,,2016-10-26T06:34:20Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,amanbh/stacking-with-scikit-and-xgb-maybe,Stacking with scikit and xgb. maybe?,amanbh,,2016-10-26T05:58:25.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,satadru5/notebooke59a3a9a77,Notebooke59a3a9a77,satadru5,,2016-10-26T05:38:48.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dhegde/notebooke42ceb3a1a,Notebooke42ceb3a1a,Damodar,,2016-10-26T04:01:37.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,spike100/notebookddef4606ba,Notebookddef4606ba,Spike100,,2016-10-26T02:48:56.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chukyworld/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,KYChu,,2016-10-26T14:19:03.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,option12/stacking-with-scikit-and-xgb-maybe,Stacking with scikit and xgb. maybe?,option12,,2016-10-26T08:50:45.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sdandriy/notebookcb6d8f56cc,Notebookcb6d8f56cc,Gurinder Singh,,2016-10-25T22:17:21.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ewillmot/linear-regression-predicting-very-large-numbers,Linear Regression predicting very large numbers,Elena Willmot,,2016-10-25T20:50:30.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jozefaka/notebook3f06dc4e08,Notebook3f06dc4e08,jozefaka,,2016-10-25T19:53:32.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,prashantendley/notebookf04e285194,Notebook4f28f92c68,Prashant Endley,,2016-10-25T18:30:01.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,prashantendley/abcde,abcde,Prashant Endley,,2016-10-25T18:26:04.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,geoheil/light-gbm-first-try,light gbm first try,geoHeil,,2016-10-25T17:41:32.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gkganesh/notebookc6621363ae,Notebookc6621363ae,ganeshkumar,,2016-10-25T08:54:28.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wjnkerst/notebook06a6fc02b8,Notebook06a6fc02b8,WK,,2016-10-25T08:39:39.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,julienpantz/regression,Regression,Juju,,2016-10-31T11:05:52.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sdandriy/notebookdf752292d7,Notebookdf752292d7,Gurinder Singh,,2016-10-25T00:29:11.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhhtc200/notebookd78bb6d7ec,Notebookd78bb6d7ec,ZHU Henghui,,2016-10-25T00:23:41.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikevdickson/notebookdfefcb6e5f,Notebookdfefcb6e5f,Mike D,,2016-10-25T00:05:46.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,epattaro/notebookb6b241a275,Notebookb6b241a275,epattaro,,2016-10-24T22:39:58.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andychopra/notebook9fc6e18f8d,Notebook9fc6e18f8d,Arvinder Chopra,,2016-10-25T00:18:16.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hinchou/allstate,Allstate,HinChou,,2016-10-24T21:11:05.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stepann/notebooka01a004c4a,Notebooka01a004c4a,StepanNovikov,,2016-10-24T20:25:25.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shawnwang1118/notebook32ca897d25,Notebook32ca897d25,xiaowang,,2016-10-24T20:23:19.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gabrielhudak/notebooka7bed2744e,Notebooka7bed2744e,GabrielHudak,,2016-10-24T18:44:22.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pugovka91/allstate-feature-analysis-python-3e51a7ce,Allstate Feature Analysis - Python 3e51a7ce,Anna Rusinova,,2016-10-25T12:53:13.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,erba508/notebook27e9153824,Notebook27e9153824,EBabinsky,,2016-10-24T14:57:28.443Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,juneno/notebook8943ff28af,Notebook8943ff28af,juneno,,2016-10-24T14:36:34.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pankajmishra/notebook85a0ffb9d5,Notebook85a0ffb9d5,PankajMishra,,2016-10-24T14:56:51.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lalthan/notebook77f83b9a6f,Notebookaecc79f29a,lalthan,,2016-10-24T13:16:30.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,epattaro/notebook1260c4d09b,Notebook1260c4d09b,epattaro,,2016-10-24T11:59:49.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,giahuy/notebookb3664bc331,Notebookb3664bc331,GiaHuy,,2016-10-24T11:57:10.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vecxoz/test1,test1,vecxoz,,2016-11-23T13:39:59.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pugovka91/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Anna Rusinova,,2016-10-24T09:59:33.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,agarwalgopi/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Gopi,,2016-10-24T10:35:03.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,agarwalgopi/gopiallstate,gopiallstate,Gopi,,2016-10-24T09:22:15.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,fabriceyhc/just-an-easy-solution,Just an easy solution,FabriceHarel-Canada,,2016-10-24T03:47:05.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mgbeingcreative/notebooka0a020d47f,Notebooka0a020d47f,mgbeingcreative,,2016-10-24T00:41:42.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mtinti/preprocessing-sparse-matrix,Preprocessing sparse matrix,MT,,2016-10-23T21:37:19.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zactuary/zactuary-test,zactuary_test,F Zhang,,2016-10-23T19:18:05.643Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhebrak/notebook6c281af055,Notebook6c281af055,Alexander Zhebrak,,2016-10-23T10:57:18.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonuk7/notebook84c4f060f7,Notebook84c4f060f7,Swaraj Khadanga,,2016-10-23T10:35:02.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,fernandoconstantino/notebook9886525815,Notebook9886525815,Fernando Constantino,,2016-10-23T07:16:00.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nicolasarquie/script-attempt,Script Attempt,NicolasArquie,,2016-10-23T04:38:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jamiechung/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,HY Chung,,2016-10-23T03:16:28.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,myadav/notebook2a090b68f5,Notebookbb0b23db26,Mahesh Yadav,,2016-10-22T23:55:41.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,humchuckaninny/notebook7679a0617a,Notebook7679a0617a,BrandonHarris,,2016-10-22T22:50:59.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ronferens/notebook886858d140,Notebook886858d140,Ron Ferens,,2016-10-22T21:34:17.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gabrielhudak/allstate-initial-play,Allstate - initial play,GabrielHudak,,2016-10-22T21:33:56.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,man2manno/first-script,First_script,man2manno,,2016-10-22T20:16:18.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lalthan/notebookec8d30a12a,AllState Notebook,lalthan,,2016-10-22T13:31:31.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pradeepjeya/allstate-encoding-high-cardinality-features,AllState - Encoding High Cardinality Features,JP,,2016-10-24T03:57:18.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mattpendergraft/allstate-initial-analysis,Allstate Initial Analysis,mattpend,,2016-10-22T00:04:06.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,snigdhendu/tensorflow-dnnregressor-9d21ed68,TensorFlow-DNNRegressor 9d21ed68,SnigdhenduMukhopadhyay,,2016-10-21T20:47:05.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gabrielhudak/notebook30ebb8ed56,Notebook30ebb8ed56,GabrielHudak,,2016-10-21T20:40:35.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,prateekbhat/eda-and-modeling,Exploratory Data Analysis,Prateek,,2016-10-21T23:37:07.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tennistats7/notebooka2fc13db69,Notebooka2fc13db69,Adam,,2016-10-21T18:40:04.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,carloside/notebookd7be248151,Notebook4dba27ea9e,CarlosSegura,,2016-10-21T18:16:07.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bwsky8/testing,testing,WinnieSo,,2016-10-21T15:33:28.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,guyko81/category-trick-plus-early-stop,category trick plus early stop,guyko,,2016-10-21T15:12:54.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,anirbanlahiri/notebooka5f2f4d06b,Notebook9a8ce25bdd,Anirban Lahiri,,2016-10-21T11:49:07.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lorz3l/notebooke814b9053c,Notebooke814b9053c,Fabrizio,,2016-10-20T20:21:32.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,snigdhendu/tensorflow-dnnregressor,TensorFlow-DNNRegressor,SnigdhenduMukhopadhyay,,2016-10-21T17:43:49.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,laurae2/notebook9b3f9c9329,Notebook9b3f9c9329,Laurae,,2016-10-20T19:07:12.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ankushjain/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,AnkushJain,,2016-10-21T11:56:27.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,charlesliang/notebook3759bb2163,Notebook3759bb2163,Charles Siqi Liang,,2016-10-20T17:33:29.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sajithsankar/notebook26d379e1a9,Notebook26d379e1a9,SajithS,,2016-10-20T17:02:27.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,apistat/notebook264b020617,Notebook264b020617,apistat,,2016-10-20T15:03:46.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,finlay/quick-algos-start,Quick Algos Start,MaXXX,,2016-10-20T14:03:16.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,demonvortex/notebookcef816c3c4,Notebookcef816c3c4,near1,,2016-10-20T10:31:40.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,valadi/bias-correction-xgboost-forked,Bias Correction + XGBoost forked,Jayaraman,,2016-10-20T07:41:12.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nverma22/notebook32f90e3960,Notebook32f90e3960,thakur naresh,,2016-10-20T04:09:31.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,coconutninja/competition-notebook,Competition notebook,YashasGC,,2016-10-20T03:20:38.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ksjpswaroop/notebook0204b2f101,Notebook0204b2f101,Swaroop Kallakuri,,2016-10-20T02:24:44.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,coconutninja/myfirstworkbook,Myfirstworkbook,YashasGC,,2016-10-30T04:20:01.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tiphtiph/notebook8ff24e819a,Notebook8ff24e819a,Tiphaine ,,2016-10-19T16:35:04.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonuk7/notebook3d312a33c3,Notebook3d312a33c3,Swaraj Khadanga,,2016-10-19T16:24:47.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,levantrung/notebook87699548c1,Notebooke36ac9e703,TrungLv,,2016-10-19T15:12:03.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pierrem/notebook2424f2d6c3,Notebook2424f2d6c3,Pierre,,2016-10-19T15:55:35.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,waqasali/notebookf3a58021c2,Notebookf3a58021c2,Waqas Ali,,2016-10-19T10:52:24.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,janina/notebookeb9a3faa9e,Notebookeb9a3faa9e,Janina,,2016-10-19T07:35:33.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,psy0814/notebooka4b3407f46,Notebooka4b3407f46,soyoon.park,,2016-10-19T06:54:33.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,murphy89/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Morphy,,2016-10-19T04:12:51.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhhtc200/first-try-on-competitions,First_Try_on_Competitions,ZHU Henghui,,2016-10-19T02:02:42.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,josmoreira/notebook3d65eb032f,Notebook3d65eb032f,Jose Pedro Trocado Moreira,,2016-10-18T21:15:45.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aaboyles/golfsolution-py,GolfSolution.py,AABoyles,,2016-10-18T21:07:46.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alijs1/experimenting-with-keras-nn,Experimenting with Keras NN,alijs,,2016-10-20T19:26:25.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,akabdul/notebook4de0e8a61d,Notebook4de0e8a61d,akabdul,,2016-10-18T19:54:32.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pganjoo/just-an-easy-solution,Just an easy solution,PulkitGanjoo,,2016-10-18T19:33:28.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aaboyles/beginner-friendly-simple-linear-regression,Beginner Friendly Simple Linear Regression,AABoyles,,2016-10-18T20:28:33.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,paintnp/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,gradient_descent,,2016-10-19T06:41:28.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jtlewis/all-state-eda-feature-engine,ALL_State_EDA_feature_engine,Joe,,2016-10-18T17:46:51.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,isaac47/notebook35fb31386d,Notebook35fb31386d,Yimgaing,,2016-10-18T17:40:14.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,satadru5/notebookf3409ae102,Notebookf3409ae102,satadru5,,2016-10-18T17:37:27.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rajeev921/allstate-claims-severity-1st-competition-1st-try,_Allstate Claims Severity _1st_competition_1st_try,RajeevRanjan,,2016-10-18T14:20:03.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rajeev921/allstate-claims-severity,Allstate Claims Severity,RajeevRanjan,,2016-10-18T13:58:41.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zhiliweng/test2,Test2,Zhili Weng,,2016-10-18T13:27:59.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,guyko81/state-of-all-the-allstate-states,State of 'All the Allstate States',guyko,,2016-10-18T13:20:45.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yongjie/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,infinex,,2016-10-18T13:16:11.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rajeev921/notebook86c4e73c8f,Notebook86c4e73c8f,RajeevRanjan,,2016-10-22T01:03:41.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,finlay/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,MaXXX,,2021-02-27T08:31:36.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hisuka/bias-correction-xgboost-forked,Bias Correction + XGBoost forked,Oussama Errabia,,2016-10-18T12:28:46.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hippo89/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,hippo89,,2016-10-18T06:24:43.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dosben/notebook2520781e18,Notebook2520781e18,dosben,,2016-10-18T06:12:49.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tsa001/allstate-feature-analysis-python,Allstate Feature Analysis - Python,WarmBreeze,,2016-10-18T04:57:23.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mellon/notebook41725de599,Notebook41725de599,Mellon,,2016-10-18T02:08:31.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chisq1564/notebookbebcd8a39e,Notebookbebcd8a39e,chisq,,2016-10-18T02:06:18.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,iown4800/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,iown4800,,2016-10-18T02:05:50.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yanyang729/notebook8d6c8ef043,Notebook8d6c8ef043,Yang Yang,,2016-10-18T00:13:56.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aepereira/testy-test,testy_test,aepereira,,2016-10-17T20:34:39.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,satadru5/all-state-data-visualization,All state data Visualization ,satadru5,,2016-10-18T11:44:30.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,codadams/notebook108ca68006,Notebook108ca68006,codadams,,2016-10-17T17:24:25.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,codadams/allstate-py,AllState.py,codadams,,2016-10-17T17:23:32.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hitlrr/allstate-analysis,Notebook917186fdd9,Harisudan,,2016-10-17T13:35:37.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wuqknjust/notebook9ab0d45170,Notebook9ab0d45170,qiankangwu,,2016-10-17T13:13:29.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shinto/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,ShintoTheruvil,,2016-10-17T11:48:13.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,atsu67/notebook5eabb46f15,Notebook5eabb46f15,atsuc,,2016-10-17T07:35:34.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rinks11/exploratory-study-on-ml-algorithms,Exploratory study on ML algorithms,Rajeev Singhal,,2016-10-17T05:31:18.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shashikantayyala/notebooked2779114d,Notebooked2779114d,shashikant.ayyala,,2016-10-17T05:14:09.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,psy0814/notebookc9e4188568,Notebookc9e4188568,soyoon.park,,2016-10-17T01:17:08.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lightone/notebookbfe511cee5,Notebookbfe511cee5,PauloEstebanOlveira,,2016-10-16T23:06:54.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chrimson/notebook2d9f1abe60,Notebook2d9f1abe60,ChristopherB,,2016-10-16T20:59:39.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,danielhuckins/notebook7f0a85dbce,Notebook7f0a85dbce,Daniel Huckins,,2016-10-16T20:16:29.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,danielhuckins/notebookdc1d557684,Notebookdc1d557684,Daniel Huckins,,2016-10-16T18:12:43.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,peimengsui/feature-reference,Feature reference,PSDS,,2016-10-16T12:48:07.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xmarvin/keras-with-tensorflow-backend,Keras with TensorFlow backend,Alexey Kisel,,2016-10-16T18:39:37.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,thakurrajanand/bias-correction-xgboost,Bias Correction + XGBoost,DataGeek,,2016-10-16T09:56:05.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rshigemori/notebook5c792248ca,Notebook5c792248ca,RyotaShigemori,,2016-10-16T07:00:11.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wasdee/allstate-feature-analysis-python,Allstate Feature Analysis - Python,BenN.Ninyawee,,2016-10-16T02:54:19.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,abhishekgupta86/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Abhishek,,2016-10-16T02:08:18.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stasi009/notebook23378ada5c,Notebook23378ada5c,stasi,,2016-10-15T23:16:57.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ps2811/all-state-eda-feature-importance,ALL_State_EDA_feature_importance,Pooja Sharma,,2016-10-15T21:04:49.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,smist08/all-state-eda-feature-importance,ALL_State_EDA_feature_importance,StephenSmith,,2016-10-15T20:59:18.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yusridh/notebook579495ff8e,Notebook579495ff8e,Yusri,,2016-10-15T20:52:34.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kkamran/simple-random-forest-application,Simple Random Forest Application,Kashif K.,,2016-10-15T19:44:00.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ashish09/notebook7188cf11f0,Notebook7188cf11f0,Ashish,,2016-10-15T17:35:33.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jasonhan/all-state-eda-feature-importance,ALL_State_EDA_feature_importance,jasonHan,,2016-10-15T16:09:07.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ravichinoy/notebook233f4f8b39,Notebook233f4f8b39,RaviChinoy,,2016-10-15T16:08:19.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ravichinoy/notebookbfffe78681,Notebookbfffe78681,RaviChinoy,,2016-10-15T16:06:04.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ravichinoy/notebookfbb0e94346,Notebookfbb0e94346,RaviChinoy,,2016-10-15T15:56:31.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jgk000/notebooka9058c979f,Notebooka9058c979f,Jarek,,2016-10-15T14:45:36.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bhushankhandelwal/notebook3dc9fe5234,Notebook3dc9fe5234,Bhushan,,2016-10-15T13:50:00.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,whysocurious/notebook63bfeafabd,Notebook2f2c07a8cd,Atish Gautam,,2016-10-15T13:41:21.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,whysocurious/notebookd2c5f3b58f,Notebookd2c5f3b58f,Atish Gautam,,2016-10-15T07:19:54.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,inventer/notebook9986db1cbd,Notebook9986db1cbd,Turja Banerjee,,2016-10-15T02:40:04.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tobikaggle/notebook4161f36f7a,Notebook4161f36f7a,DDgg,,2016-10-15T02:33:38.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vravirala/notebook2ceb042a5d,Notebook2ceb042a5d,BAA_VR,,2016-10-14T22:50:13.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hisudha/just-an-easy-solution,Just an easy solution,hisudha,,2016-10-14T19:38:39.833Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kyleockerlund/notebookdee98a4749,Notebookdee98a4749,KyleOckerlund,,2016-10-14T18:53:57.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,machine2030/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Sagemek3,,2016-10-14T18:32:08.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jatinjindal/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Jatin Jindal,,2016-10-14T18:16:11.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,hansjung/notebookc7b827f5c8,Notebookc7b827f5c8,Hans Jung,,2016-10-14T17:33:19.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jgk000/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Jarek,,2016-10-14T17:21:52.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,razaaflak/labelencoding-and-xgb-cv,LabelEncoding and XGB-CV,Ahmad Raza,,2016-10-14T16:57:54.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ab90hi/rf-trial,RF Trial,ab90hi,,2016-10-14T13:47:56.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dreeux/notebookbdd04ab339,Notebookbdd04ab339,dreeux,,2016-10-14T13:14:09.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marcolivierarsenault/notebook5bc3bed5ea,Notebook5bc3bed5ea,Marc-Olivier Arsenault,,2016-10-14T12:18:54.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kumarsaurabh/notebook0c6c537a96,Notebook0c6c537a96,Kumar Saurabh,,2016-10-14T11:37:24.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,apapiu/bias-correction-xgboost,Bias Correction + XGBoost,Alexandru Papiu,,2016-10-14T10:07:32.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,beginnerpuneet/notebookcfd5598139,Notebookcfd5598139,PuneetTripathi,,2016-10-14T09:28:52.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,princelysid/notebookdb83fa9636,Notebookdb83fa9636,princelySid,,2016-10-14T09:23:28.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,psy0814/test-psy,test_psy,soyoon.park,,2016-10-14T08:38:30.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonuk7/notebook34dffbc381,Notebook34dffbc381,Swaraj Khadanga,,2016-10-14T07:20:18.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikhailyurasov/notebook374fe7321c,Notebook374fe7321c,MY,,2016-10-14T05:49:34.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,avishek/allstate-eda-14102016,Allstate EDA_14102016,Avishek,,2016-10-14T04:54:47.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,venkyhosur/notebook1ae52ff8f0,Notebooka5627628e6,VenkyHosur,,2016-10-14T04:29:12.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jjabbour/notebook490e1bbc23,Notebook490e1bbc23,jjabbour,,2016-10-14T03:01:44.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,razaaflak/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Ahmad Raza,,2016-10-14T00:37:05.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zaxcie/notebook05e16b0e3b,Notebook05e16b0e3b,Zaxcie,,2016-10-13T21:14:29.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,skidsteerpilot/allstate-feature-analysis-python,Allstate Feature Analysis - Python,WinfieldHenry,,2016-10-13T20:14:29.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alijs1/bias-correction-xgboost,Bias Correction + XGBoost,alijs,,2016-10-17T19:00:29.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kiril123/just-an-easy-solution,Just an easy solution,Kiril,,2016-10-13T20:06:46.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,greek0/the-first-kaggle-submission-88816e4c,The First Kaggle Submission 88816e4c,Christian Aichinger,,2016-10-13T19:56:20.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonuk7/random-forest-regression,Random Forest Regression,Swaraj Khadanga,,2016-10-14T13:46:09.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,enovictor/notebook636c032a6e,Notebook636c032a6e,EnoVictor,,2016-10-13T18:27:19.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,alexsvozil/my-first-kaggle-submission,my first kaggle submission,AlexanderSvozil,,2016-10-13T20:23:26.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,klask2600/the-first-kaggle-submission,The First Kaggle Submission,Christopher,,2016-10-13T17:23:54.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,liam21c/the-first-kaggle-submission,The First Kaggle Submission,S.B. Yim,,2016-10-13T19:40:13.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cbonitz/the-first-kaggle-submission,The First Kaggle Submission,ChristophBonitz,,2016-10-13T17:14:43.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,asebist/the-first-kaggle-submission,The First Kaggle Submission,MichaelHartinger,,2016-10-13T17:14:43.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tygrenya/the-first-kaggle-submission,The First Kaggle Submission,enya,,2016-10-13T18:38:59.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,greek0/the-first-kaggle-submission,The First Kaggle Submission,Christian Aichinger,,2016-10-13T19:45:05.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,coffeemug13/the-first-kaggle-submission,The First Kaggle Submission,Michael Holakovsky,,2016-10-13T17:49:09.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kochse/the-first-kaggle-submission,The First Kaggle Submission,SebastianKoch,,2016-10-13T17:57:35.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aschlapsi/the-first-kaggle-submission,The First Kaggle Submission,Andreas Schlapsi,,2016-10-13T16:59:16.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rolandzhou/just-an-easy-solution,Just an easy solution,AnnTaylor,,2016-10-13T16:55:48.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,benfreu/the-first-kaggle-submission,The First Kaggle Submission,benfreu,,2016-10-13T21:16:34.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonuk7/notebook13d831d845,Notebook13d831d845,Swaraj Khadanga,,2016-10-13T16:44:31.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,davidbuchaca/notebook80394b288f,Notebook80394b288f,David Buchaca,,2016-10-13T16:41:06.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,luyaolin/notebookf42d07fcad,Notebookf42d07fcad,LuyaoLin,,2016-10-13T16:05:59.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,amit2312/notebook77a16a4517,Notebook77a16a4517,Amit,,2016-10-13T15:21:33.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,razaaflak/notebook3d5cc14d3c,Notebook3d5cc14d3c,Ahmad Raza,,2016-10-13T14:36:34.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jiashenliu/try-5-classifiers-by-python-2-and-question,Try 5 classifiers by python 2 and QUESTION,Jiashen Liu,,2016-10-13T14:44:15.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,parthibangowthaman/help-xgboost-with-ordinal-variables-1138-56,Help XGBoost with ordinal variables (1138.56),Pa,,2016-10-13T14:25:35.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shinto/testing-ridge,Testing Ridge,ShintoTheruvil,,2016-10-13T15:45:10.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,syedmoinudeen/notebook7c834ec45d,Notebook7c834ec45d,SyedMoinudeen,,2016-10-13T15:26:53.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ekthesage/notebookb72ee149d4,Notebookb72ee149d4,Ethan Kang,,2016-10-13T13:52:19.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dataguy12/notebook1dfe8319b5,Notebook1dfe8319b5,dataguy,,2016-10-13T13:45:28.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jasonhan/yet-another-xgb-starter,Yet Another XGB Starter,jasonHan,,2016-10-13T12:46:11.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nicoga/notebook080ec621de,Notebook080ec621de,NicolasG,,2016-10-13T12:19:35.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,phanikiran99/notebookd7838e2de7,Notebookd7838e2de7,PhaniKiranSiddineni,,2016-10-13T12:18:16.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gillesa/notebook132687829e,Notebook132687829e,gillesa,,2016-10-13T12:04:19.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nmud19/allstate-feature-analysis-python,Allstate Feature Analysis - Python,SkyBlazer,,2016-10-13T11:54:35.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,itsmeumesh/notebook94012cc134,Claims,Umesh k ,,2016-10-13T11:43:13.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,scottysstars/notebooked022dc335,Notebooked022dc335,ScottysStars,,2016-10-13T11:21:01.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shaimaam/notebookd0359441c1,Notebookd0359441c1,ShaimaaMohamed,,2016-10-13T11:10:19.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jasonhan/bias-correction-xgboost,Bias Correction + XGBoost,jasonHan,,2016-10-13T13:43:36.077Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bmetka/notebookb607b21712,Notebookb607b21712,benjo,,2016-10-13T10:10:14.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,beginnerpuneet/notebook35ad954ae9,Notebook6532950b0a,PuneetTripathi,,2016-10-13T09:50:07.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ewald1/allstate-feature-analysis-python,Allstate Feature Analysis - Python,Ewald,,2016-10-13T09:15:46.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,motomizuki/allstate-claims-severity,allstate-claims-severity,motomizuki,,2016-10-13T09:37:16.35Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,beginnerpuneet/notebook92d4b7df3f,Notebook92d4b7df3f,PuneetTripathi,,2016-10-13T08:27:47.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shinto/notebook2,notebook2,ShintoTheruvil,,2016-11-08T09:14:09.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,harishbchalam204/notebook5329c1ed41,Notebook5329c1ed41,Harish Chalam,,2016-10-13T07:22:29.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sanghee870101/notebookc1fc45877c,Notebook2be4b401e8,상희 김,,2016-10-13T07:16:59.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stefans2403/notebookf729ef1d61,Notebookf729ef1d61,StefanSreckovic,,2016-10-13T07:10:13.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gaojianj96/notebookd7e6fe77b1,Notebookd7e6fe77b1,jerryg,,2016-10-13T07:01:45.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,criptero/notebook043533ccbf,Notebook043533ccbf,Antonio García Morte,,2016-10-13T05:46:19.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wduncan21/notebook5d22ccf87d,Notebook5d22ccf87d,LuWang,,2016-10-13T05:19:05.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,varunnambiar/notebook9420c6cf66,Notebook9420c6cf66,varun nambiar,,2016-10-13T04:42:08.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,achalshah/notebook43edea817f,Notebook43edea817f,Achal,,2016-10-13T04:21:03.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,subbuinv/notebooke3689e7013,Notebooke3689e7013,Rakesh,,2016-10-13T04:20:38.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yadunath/explore,explore,yadunath,,2016-10-13T03:49:49.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,visuvasan1/just-an-easy-solution,Just an easy solution,VisuVasan,,2016-10-13T03:47:07.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rdcolema/allstate-preds,allstate_preds,RobertColeman,,2016-10-15T18:20:06.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chazcv/notebook83901b3d1b,Notebook83901b3d1b,ChazVollmer,,2016-10-13T00:40:15.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,liamsch/keras-nn-autoencoder,Keras NN Autoencoder,Liam,,2016-10-12T23:08:03.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jeffsd/kaggle-allstate,Kaggle-Allstate,Jeff Sylvestre-Decary,,2016-10-12T22:08:55.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mnabaee/notebook95404c46b1,Notebook95404c46b1,Mahdy Nabaee,,2016-10-12T21:14:55.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cherry86222/notebooka1b6e9c63e,Notebooka1b6e9c63e,liba,,2016-10-12T21:08:06.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,toolusr/just-an-easy-solution,Just an easy solution,DanMcLaughlin,,2016-10-12T20:34:34.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sarahsusiepak/just-an-easy-solution-0a40c1d1,Just an easy solution 0a40c1d1,sarahsusiepak,,2016-10-12T20:30:25.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rayal34/just-an-easy-solution,Just an easy solution,PeterWen,,2016-10-12T20:04:43.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,drevan/notebook34c506b904,Notebook34c506b904,Revan,,2016-10-12T18:59:30.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,liamsch/keras-neural-net,Keras Neural Net,Liam,,2016-10-12T20:46:54.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aishah/quick-start,Quick start ,aishah,,2016-10-12T18:12:54.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dylanbstorey/notebook4053ce0ae4,Notebook4053ce0ae4,DylanStorey,,2016-10-12T18:12:44.013Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shinto/just-an-easy-solution,Just an easy solution,ShintoTheruvil,,2016-10-12T17:38:45.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,akash222/just-an-easy-solution-mod,Just an easy solution- mod,Akash Gupta,,2016-10-12T16:34:23.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,xuren71/notebook2f4b25f3cc,Notebookf3ec8ae54e,datarengler,,2016-10-12T15:31:52.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nminus1/notebook32adaeff17,Notebook32adaeff17,nminus1,,2016-10-12T14:41:59.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,razaaflak/notebookb459af3898,Notebookb459af3898,Ahmad Raza,,2016-10-12T14:35:54.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sonuk7/benchmarking,Benchmarking ,Swaraj Khadanga,,2016-10-12T19:13:43.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,guyko81/notebookf654654fdax,Notebookf654654fdax,guyko,,2016-10-13T12:22:16.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,vinayyadav3016/all-state,All State,Robot,,2016-10-12T12:42:06.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,luisblanche/allstate-eda-python,Allstate EDA - Python,LuisBlanche,,2016-10-12T12:39:57.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marc000/notebook26ce38c348,Notebook26ce38c348,Heiko,,2016-10-12T12:34:48.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,shinto/notebook1,notebook1,ShintoTheruvil,,2016-10-12T17:47:06.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,guyko81/help-our-xgboost-with-better-inputs-code,Help our XGBoost with better inputs! code,guyko,,2016-10-12T11:57:52.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aakashnain/just-an-easy-solution,Just an easy solution,NAIN,,2016-10-12T10:54:27.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ollymitch/notebookf70620337c,Notebookf70620337c,OllyMitchell,,2016-10-12T10:39:17.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mougatine/notebookd254c1b793,Notebookd254c1b793,Mougatine,,2016-10-12T10:28:14.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dewadkar/notebook620bf46898,Notebook620bf46898,Dnyan,,2016-10-12T10:23:36.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,patternhunt/notebook2097c76995,Notebook2097c76995,antichoas,,2016-10-12T09:51:24.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mnanne/preprocessing-sparse-matrix,Preprocessing sparse matrix,MartijnNanne,,2016-10-12T09:33:19.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ermochi/xgb-sample,XGB sample,AVP,,2016-11-01T20:04:47.2Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,minhphan/just-an-easy-solution,Just an easy solution,Minh PHAN,,2016-10-12T09:14:28.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,marouane/just-an-easy-solution,Just an easy solution,Marouane,,2016-10-12T08:54:44.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kshankar/just-an-easy-solution,Just an easy solution,ShankarKuchibhotla,,2016-10-12T07:50:00.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pganguli/notebook5a61f744f8,Notebookb7a3d72092,Pinaki,,2016-10-12T06:30:48.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,psy0814/notebook0dc6a75aa7,Notebook0dc6a75aa7,soyoon.park,,2016-10-14T04:13:18.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dpaul93/myfirst,myfirst,Debj Paul,,2016-10-12T07:57:51.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dpaul93/just-an-easy-solution,Just an easy solution,Debj Paul,,2016-10-12T04:49:33.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mikhailyurasov/notebook1bd3bbddbe,Notebook1bd3bbddbe,MY,,2016-10-12T04:21:26.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,devangkulshreshtha/just-an-easy-solution,Just an easy solution,DevangKulshreshtha,,2016-10-12T03:06:56.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,myzhou1994/just-an-easy-solution,Just an easy solution,MatthewZhou,,2016-10-12T02:14:45.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tanlikesmath/just-an-easy-solution,Just an easy solution,ilovescience,,2016-10-12T01:56:32.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,zerostack/notebook099fcb7562,Notebook75ab5939eb,ZeroStack,,2016-10-12T00:52:15.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gidutz/notebook733f343e42,Notebook733f343e42,Gad Benram,,2016-10-11T23:04:18.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,denisgordeev/just-an-easy-solution,Just an easy solution,Denis Gordeev,,2019-01-12T07:46:53.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gidutz/notebookf94d6c6403,Notebookf94d6c6403,Gad Benram,,2016-10-11T22:26:33.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,antoniodeblasi/allstate-exercise,Allstate exercise,tonidb,,2016-10-11T22:34:27.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,enovictor/xgbregressor-allstate-claims-severity,XGBRegressor - AllState Claims Severity,EnoVictor,,2016-10-12T04:35:03.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nagendrayadav/notebook873bfe8c5b,Notebook3b1825537f,Nagendra Yadav,,2016-10-11T19:59:23.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aaboyles/just-an-easy-solution,Just an easy solution,AABoyles,,2016-10-11T21:39:57.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,benhamner/notebook500cccded9,Notebook500cccded9,Ben Hamner,,2016-10-11T19:34:53.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,txbrisket/test-dataviz,test dataviz,William,,2016-10-11T19:24:57.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pminder/prise-en-main-de-kaggle,Prise en main de Kaggle,pminder,,2016-10-11T18:55:27.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,govindnidigattu/notebookd07106ce98,Notebookd07106ce98,Dr.Govind Nidigattu Ph.D,,2016-10-11T17:56:47.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,aclyons/notebookf1800a2419,Notebookf1800a2419,aclyons,,2016-10-11T17:55:44.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,isosnovik/xgbstate,XGBState,Ivan Sosnovik,,2016-10-11T21:46:08.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,michaelmtz20/notebook46501dad8b,Notebook46501dad8b,Michael Martinez,,2016-10-11T17:27:27.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,nmud19/notebookae7106058d,Notebookae7106058d,SkyBlazer,,2016-10-11T17:26:18.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,adriansabovici/test1,test1,Adrian Sabovici,,2016-10-11T16:25:44.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,guyko81/just-an-easy-solution-code,Just an easy solution code,guyko,,2016-10-12T08:26:31.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,timgasser/notebook8588f1790c,Notebook8588f1790c,tb303,,2016-10-11T15:48:01.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,pminder/notebook2ddcf69d28,Notebook2ddcf69d28,pminder,,2016-10-11T15:45:36.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sajal0jain/t3-90491,t3-90491,Sajal Jain,,2016-10-11T15:38:45.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bansal98/yet-another-xgb-starter,Yet Another XGB Starter,bansal98,,2016-10-12T14:06:34.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,syedmoinudeen/notebookac2dafe492,Notebookac2dafe492,SyedMoinudeen,,2016-10-13T12:53:48.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,kumareshd/yet-another-xgb-starter,Yet Another XGB Starter,Kumaresh,,2016-10-13T03:16:26.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,wangxx/program,program,shuai,,2016-10-11T14:26:32.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,guilhermescha/notebookfbc714652e,Notebookfbc714652e,Guilherme Schá Vieira,,2016-10-11T14:08:40.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rakshith91/sampletest,sampletest,Rakshith Bhyravabhotla,,2016-10-11T14:06:46.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jkgiesler/notebooke1230c3448,Notebooke1230c3448,jkgiesler,,2016-10-11T13:59:07.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rmostert/notebookad9ee1147e,Notebookad9ee1147e,RiaanMostert,,2016-10-11T13:43:56.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,paultodo/notebook1c9de3e614,Notebook1c9de3e614,PaulTodo,,2019-08-13T08:51:04.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,lisaling/notebook1757d4a5d7,Notebook1757d4a5d7,Lisa  Ling,,2016-10-11T12:55:35.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tallsmile/notebookb0e23c3fd6,Notebookb0e23c3fd6,TallSmile,,2016-10-11T12:37:07.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rmostert/notebooka43315f8ce,Notebooka43315f8ce,RiaanMostert,,2016-10-11T12:09:27.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,salsinats/keras-to-beat-random-forest-benchmark,keras_to_beat_random_forest_benchmark,Salsinats,,2016-10-11T11:50:16.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,andreasjohnsson/initial-eda-using-python,Initial EDA using python,AndreasJohnsson,,2016-10-11T11:36:43.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,salsinats/notebookfeca8a4db6,Notebookfeca8a4db6,Salsinats,,2016-10-11T11:33:18.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,merryhunter/notebook843274191e,Notebook843274191e,Ivan Chernukha,,2016-10-11T10:48:01.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,meryemschalck/quick-look-at-the-data,Quick look at the Data,Meryem,,2016-10-11T10:14:09.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,harrystrange/notebook7c0497a78f,Notebook7c0497a78f,HarryStrange,,2016-10-11T09:57:30.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gklein67/notebookbb40dc8651,Notebookbb40dc8651,gklein67,,2016-10-11T08:55:34.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,leohemamou/notebookce544e33e4,Notebookce544e33e4,LeoH,,2016-10-11T08:35:47.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,epuertas/notebook21d55fc7b6,Notebook21d55fc7b6,Enrique Puertas,,2016-10-11T08:29:58.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ollymitch/notebook9906789f61,Notebook9906789f61,OllyMitchell,,2016-10-11T08:08:39.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,byuceoglu/notebook0a6c8e1acb,Notebook0a6c8e1acb,byuceoglu,,2016-10-11T08:08:29.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stevecook/notebook9e8de67614,Notebook9e8de67614,RevBooyah,,2016-10-11T07:06:20.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,razaaflak/notebook5327d8da72,Notebook5327d8da72,Ahmad Raza,,2016-10-11T07:03:26.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,akpradhn/notebook6e198ed8bb,Notebook6e198ed8bb,AmitKumarPradhan,,2016-10-11T06:36:15.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sirguessalot/stacking-starter,Stacking Starter,Momchil Georgiev,,2016-10-11T06:39:47.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tonygracious/feature-extraction-from-categorical-variables,Feature Extraction from Categorical Variables,Tony Gracious,,2016-10-12T18:52:42.43Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cseidman/notebook632cf8b638,Notebook632cf8b638,Claude,,2016-10-11T06:06:59.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bolajio/all-state-claim,All state claim,Bolajio,,2016-10-11T05:52:09.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,adriandunkley/simple-linear-regression-w-scikit-for-allstate,Simple linear regression w/scikit for Allstate,Geass1311,,2016-10-11T05:17:00.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,anjanaagrawal/notebook258728f68f,Notebook258728f68f,Anjana Agrawal,,2016-10-11T04:23:50.18Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,apophenia/notebookc69c0c3008,Notebookc69c0c3008,Apophenia,,2016-10-11T04:10:45.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,spattigilli/notebooke6dce81c6b,Notebooke6dce81c6b,Srinivasa,,2016-10-11T05:08:34.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jeffsd/notebook2b196853ab,Notebook2b196853ab,Jeff Sylvestre-Decary,,2016-10-11T03:59:55.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,physicsrich/notebook7717f1ed9d,Notebook7717f1ed9d,physicsRich,,2016-10-11T03:23:18.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,roarke/quick-look-at-the-data,Quick look at the Data,Chet Gutwein,,2016-10-11T02:57:10.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gopivinod/run-main-py,run_main.py,Gopi Vinod Avvari,,2016-10-11T02:58:25.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,yamaherff/notebook353ef58d56,Notebook353ef58d56,Steven Jones,,2016-10-11T02:31:35.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,rampal/notebook12be99df5b,Notebook12be99df5b,RameshPallothu,,2016-10-11T02:12:23.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,spanny/notebook76a970cf1d,Notebook76a970cf1d,Hacker_007,,2016-10-11T01:53:51.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sbeleidy/notebook5fbbd4a123,Notebook5fbbd4a123,Saad El Beleidy,,2016-10-11T01:21:06.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,msukmanowsky/notebook8ac63a375c,Notebook8ac63a375c,msukmanowsky,,2016-10-11T01:17:16.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,adriansabovici/notebookb9b11c47e1,Notebookb9b11c47e1,Adrian Sabovici,,2016-10-11T01:07:26.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jad2192/quick-scikit-gradient-boosting-regressor,Quick Scikit Gradient Boosting Regressor,JamesDiotte,,2016-10-11T01:11:12.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,eww125/notebook137c31a194,Notebook137c31a194,Evan Wappel,,2016-10-10T23:00:24.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,davebelding/notebook23a6d05014,Notebook23a6d05014,DaveBelding,,2016-10-10T22:50:33.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,joconnor/notebook2376b2d9e2,Notebook2376b2d9e2,joconnor,,2016-10-10T22:48:25.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,gkreplak/notebook896c0ea5dd,Notebook896c0ea5dd,Gabriel Kreplak,,2016-10-10T22:31:45.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,dingchaoz/quick-look-at-the-data,Quick look at the Data,Dingchao Zhang,,2016-10-10T22:23:44.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jesong1126/notebook6987aaf957,Notebook6987aaf957,Jasmine ,,2016-10-10T22:17:14.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,harshkn/notebook3f3a1e57e1,Notebook3f3a1e57e1,Harsha,,2016-10-10T22:15:16.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,ryancaldwell/notebooka5a13a74e8,Initial Stuff,RyanCaldwell,,2016-10-10T22:12:30.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,mougatine/notebook1aed993e34,Notebook1aed993e34,Mougatine,,2016-10-10T21:59:35.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,stibbons/quick-look-at-the-data,Quick look at the Data,Gaetan,,2016-10-10T21:34:29.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jjoc007/prueba,prueba,JUANJOSÈORJUELACASTILLO,,2016-10-10T21:31:43.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,tandonp/first-attempt,First Attempt,PrateekTandon,,2016-10-10T21:24:09.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,cindytraub/notebookea9b4b3815,Notebookea9b4b3815,yar1005,,2016-10-10T21:20:43.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,chengjia/notebook0afa2dead4,all-state-competition,Cheng Jia,,2016-10-10T21:05:37.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,sydvicious13/test-v-1,test v.1,sydvicious13,,2016-10-10T20:34:03.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,bostdiek/first-look-at-the-data,First look at the data,Bryan,,2016-10-10T22:11:31.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,jrcolecity/notebookd62d2579e2,Notebook76a970cf1d,JasonCole,,2016-10-10T20:00:37.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity
+,,,,,0,datasj/tryxgb-1,TryXgb,jigyasu10,,2016-10-10T19:55:49.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,allstate-claims-severity

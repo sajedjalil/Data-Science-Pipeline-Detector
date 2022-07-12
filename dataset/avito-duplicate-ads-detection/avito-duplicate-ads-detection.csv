@@ -1,0 +1,49 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,zfturbo/python-xgboost-starter,Python XGBoost Starter - 0.74,ZFTurbo,,2016-05-19T10:54:56.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,avito-duplicate-ads-detection
+,,,,,0,vaheed/logistict-regression,Logistict Regression,Vahid,,2016-05-06T08:40:25.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,avito-duplicate-ads-detection
+,,,,,0,rightfit/get-hash-from-images,Get Hash from Images,Run2,,2016-05-10T08:49:32.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,avito-duplicate-ads-detection
+,,,,,0,xameleoh/kaggle-uploader-py,kaggle-uploader.py,frist,,2016-07-10T11:19:54.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,avito-duplicate-ads-detection
+,,,,,0,abhishek/logistict-regression,Logistict Regression,Abhishek Thakur,,2016-05-06T13:53:52.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,avito-duplicate-ads-detection
+,,,,,0,anokas/wget-data,wget data,anokas,,2016-06-18T17:41:40.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,avito-duplicate-ads-detection
+,,,,,0,iezepov/get-hash-from-images-slightly-daster,Get Hash from Images (slightly) faster,Ilya Ezepov,,2016-05-23T15:13:04.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,avito-duplicate-ads-detection
+,,,,,0,remap1/visualize-images,visualize_images,Gerard Toonstra,,2016-05-14T08:08:26.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,avito-duplicate-ads-detection
+,,,,,0,bguberfain/get-hash-from-images-4x-faster,Get Hash from Images (4x faster),Bruno G. do Amaral,,2016-07-28T19:16:56.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,avito-duplicate-ads-detection
+,,,,,0,weizhezhang/python-xgboost-starter-0-74,Python XGBoost Starter - 0.74,zz,,2016-06-16T18:25:27.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,avito-duplicate-ads-detection
+,,,,,0,chevli/get-hash-from-images-in-parallel,Get Hash from Images - in Parallel,vrajs5,,2016-05-16T09:52:23.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,avito-duplicate-ads-detection
+,,,,,0,company/adad1,ADAD1,Ravi Chandibhamar,,2016-05-08T22:41:15.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,avito-duplicate-ads-detection
+,,,,,0,balajibi/avito-solution-bi-1,Avito Solution BI 1,Balaji N,,2016-07-01T04:30:37.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-duplicate-ads-detection
+,,,,,0,huyuhai/first-try,first try,YuhaiHu,,2016-06-01T20:42:25.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-duplicate-ads-detection
+,,,,,0,balajibi/avito-bi-solution,Avito BI Solution,Balaji N,,2016-05-31T10:00:16.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-duplicate-ads-detection
+,,,,,0,company/xgb-1,XGB_1,Ravi Chandibhamar,,2016-05-08T18:19:22.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-duplicate-ads-detection
+,,,,,0,jwegas/first-look,first_look,Evgenii Zhukov,,2016-05-07T13:37:11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-duplicate-ads-detection
+,,,,,0,company/logistict-regression,Logistict Regression,Ravi Chandibhamar,,2016-05-06T14:50:40.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,avito-duplicate-ads-detection
+,,,,,0,jihyeseo/detect-duplicate-ads-pair-nlp,detect duplicate ads pair nlp,Jihye Sofia Seo,,2018-05-08T18:24:31.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,cmlaughing/notebook01c232ebdf,Notebook01c232ebdf,Leslie Chan,,2017-05-21T06:56:56.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,dshulchevdkii/notebookdce89a7a7b,Notebookdce89a7a7b,Dmitriy Shulchevskiy,,2017-07-05T22:57:36.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,duanhonggao/notebook0f70fac9a2,Notebook0f70fac9a2,Gloriaaaa222,,2016-09-29T03:27:18.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,duanhonggao/notebookdb65790ca7,Notebookdb65790ca7,Gloriaaaa222,,2016-09-28T18:10:05.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,han4wluc/notebookef9ad388d1,Notebookef9ad388d1,Hanyon Wu,,2016-09-26T02:07:14.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,mgskaiapp/notebook8f6a821484,Notebook8f6a821484,hahawhatsnext,,2016-08-10T06:41:50.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,hamilyon/tf-test,tf test,Alexander Shaposhnikov,,2016-07-11T15:57:26.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,mgangco/xgboost-starter-modified,XGBoost Starter - Modified,Marc Angco,,2016-07-11T04:05:05.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,yannrs/test-hash-image,test_hash_image,yannrs,,2016-07-05T17:26:46.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,treyes/logistict-regression,Logistict Regression,treyes,,2016-07-07T03:12:32.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,mariosrichards/check-zip-md5s,check_zip_md5s,Marios,,2016-06-27T14:11:57.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,tyhukg/test-ty,test_ty,tyhu,,2016-06-24T18:46:17.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,monotoneoff/avito,avito,Pavel Filatov,,2016-06-20T07:17:03.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,florianriche/experimentation,experimentation,Florian RICHE,,2016-06-19T13:18:38.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,xameleoh/untitled,XGB & LogReg on titles (0.75),frist,,2016-06-24T05:21:49.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,ymcdull/frank-first-trail,Frank-first-trail,Yunfeng Zhu,,2016-06-13T14:19:42.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,invinciblejha/python-xgboost-starter-0-74,Python XGBoost Starter - 0.74,Vikram Jha,,2016-06-13T04:43:29.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,edilsonacjr/first-try-1,First try,Edilson A. Correa Jr.,,2016-06-10T15:40:53.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,alexboris/data-sample,Data sample,Alexander Boris,,2016-06-01T18:56:40.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,buchav/test-py,test.py,VictorBucha,,2016-05-29T18:01:07.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,webvillage/test-script,Test Script,Bart De Maesschalck,,2016-05-25T18:51:24.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,amirkalron/amirplayground,AmirPlayground,amir kalron,,2016-05-20T07:34:00.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,dimon0981/python-xgboost-starter-0-77,Python XGBoost Starter - 0.77,dmpetrov,,2016-05-19T10:23:39.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,josephoneill/testingthissite,TestingThisSite,TheJosephO'Neill,,2016-05-17T00:01:49.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,zavodrobotov/python-xgboost-starter-0-74,Python XGBoost Starter - 0.74,ZavodRobotov,,2016-06-30T18:50:13.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,outliar/python-xgboost-starter-0-74,Python XGBoost Starter-Average,Mohammad Shadab Alam,,2016-05-12T15:37:52.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,triskelion/messing-about,messing about,Triskelion,,2016-05-11T01:01:10.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,millerintllc/logit,Logit,Jason Miller,,2016-05-08T19:21:23.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection
+,,,,,0,datenkieker/all-0,All 0,qudade,,2016-05-06T04:48:22.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,avito-duplicate-ads-detection

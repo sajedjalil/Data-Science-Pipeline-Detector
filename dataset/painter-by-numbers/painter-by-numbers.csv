@@ -1,0 +1,68 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,spyrosrigas/20-painters-classification-with-cnns-and-svms,20 Painters Classification with CNNs and SVMs,Spyros Rigas,,2022-04-07T23:29:28.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,painter-by-numbers
+,,,,,0,bonovandoo/deep-dreaming-dali-keras-deepdream,Deep Dreaming Dali (Keras DeepDream),Bono,,2018-11-16T17:22:53.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,painter-by-numbers
+,,,,,0,mfekadu/picasso-not-picasso,Picasso-Not-Picasso,Michael Fekadu,,2018-10-30T22:16:47.763Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,painter-by-numbers
+,,,,,0,d22ski/the-painting-art-colors-timeline,The painting art colors timeline,d22ski,,2020-12-16T14:39:22.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,painter-by-numbers
+,,,,,0,parkerzmartin/painterbynumbersset,painterbynumbersset,Parker Martin,,2019-10-10T23:13:07.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,painter-by-numbers
+,,,,,0,ymcdull/frank-first-test-1,Frank-first-test,Yunfeng Zhu,,2016-05-28T13:48:41.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,painter-by-numbers
+,,,,,0,shaorrran/coco-wikiart-dataset-work-adain-style-transfer,COCO/WikiArt dataset work (AdaIN style transfer),Shaorrran,,2022-02-05T20:19:29.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,painter-by-numbers
+,,,,,0,wouterdpg/painterbynumbers,PainterByNumbers,Wouter Doppenberg,,2020-04-18T12:15:46.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,painter-by-numbers
+,,,,,0,mfekadu/somethingaboutimages,SomethingAboutImages,Michael Fekadu,,2018-10-17T04:01:12.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,painter-by-numbers
+,,,,,0,gzgzgz/artwork-classification,artwork_classification,gzgzgz,,2016-09-18T21:07:32.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,painter-by-numbers
+,,,,,0,atanahel/file-corruption,File corruption,Benoit Seguin,,2016-05-25T13:23:21.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,painter-by-numbers
+,,,,,0,davidcanorosillo/adain-style,AdaIN_Style,David Cano Rosillo,,2022-03-20T21:03:40.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,edwardjex/style-transfer-dataset-prep,Style Transfer Dataset Prep,Edward Jex,,2022-01-11T11:26:57.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,cynthiarempel/painter-by-the-numbers0,painter-by-the-numbers0,Cynthia Rempel,,2021-05-08T01:50:44.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,windmen/special-for-danil,Special For Danil,Windmen,,2020-03-23T15:12:46.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,protiknag08/artistic-style-recognition,Artistic Style Recognition,Protik Nag,,2019-01-30T15:24:50.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jihyeseo/images-painter-classify,images painter classify,Jihye Sofia Seo,,2018-05-08T18:22:38.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,sonali18395/fork-of-artwork-classification,Fork of artwork_classification,Sonali Jain,,2017-12-13T05:45:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,chenbk/notebook41968f8863,Notebook41968f8863,chenbokki,,2017-05-31T05:50:30.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,ecdraayer/painter,Painter,Erick Draayer,,2017-04-09T16:59:18.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,phirwe/frank-first-test-4948d378,Frank-first-test 4948d378,phirwe,,2017-01-17T11:28:33.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jaywhang/notebook29459c115e,Notebook29459c115e,Sulbing,,2016-11-19T21:52:59.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,kumarp/notebook2958fa2cb0,Notebook2958fa2cb0,KBAP,,2016-11-10T16:49:36.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,kumarp/notebook708f733695,Notebook708f733695,KBAP,,2016-11-09T21:17:41.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,dsfunz/notebook56ec6494d4,Notebook56ec6494d4,dsdiscip,,2016-11-09T19:54:18.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,dsfunz/notebook22baea6cee,Notebook22baea6cee,dsdiscip,,2016-11-02T19:24:06.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,bartonsatchwill/notebook5546a9194d,Notebook5546a9194d,BartonSatchwill,,2016-10-31T23:24:05.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jypucca/notebook03b6b68d57,Notebook03b6b68d57,JennyYu,,2016-10-26T21:24:36.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,apratim87/fingerprints-in-paintings,Fingerprints in Paintings,Apratim Bhattacharya,,2016-10-25T05:14:39.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,scollins/painter-by-numbers,Painter By Numbers,Sara Collins,,2016-10-20T01:07:24.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,chenwendi/notebook4e62ebe417,Notebook4e62ebe417,wendy,,2016-10-19T15:08:00.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,harshratde/started-1,started 1,\m/-;),,2016-10-19T09:02:10.047Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,benderv/notebookffb3faa7e4,Notebookffb3faa7e4,Benjamin Derville,,2016-10-13T16:11:48.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jayhawk1900/notebook845ca5d46c,Notebook845ca5d46c,Jayhawk1900,,2016-10-10T12:32:54.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,angnicolas/notebookbfeb9a5173,Notebookbfeb9a5173,NicolasAng,,2016-10-07T23:12:57.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,inhochoi/notebooke637384326,Notebooke637384326,In-Ho Choi,,2016-10-07T16:01:15.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,argaria/fingerprints-in-paintings,Fingerprints in Paintings,NitishArgaria,,2016-09-29T21:07:48.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jayhawk1900/notebookcc1cfba381,Notebookcc1cfba381,Jayhawk1900,,2016-09-25T13:58:28.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,vinipd/fingerprints-in-paintings,Fingerprints in Paintings,ViniciusPessoaDuarte,,2016-09-25T00:11:26.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,pankajmishra/notebook0d345f690c,Notebook0d345f690c,PankajMishra,,2016-09-23T05:59:03.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,cvasii23/notebook83b2ec75be,Notebook83b2ec75be,CatalinC.Vasii,,2016-09-20T14:03:28.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,gzgzgz/notebook5e5e961c97,Notebook5e5e961c97,gzgzgz,,2016-09-18T21:12:49.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,inhochoi/notebook7876a39ed6,Notebook7876a39ed6,In-Ho Choi,,2016-09-13T02:30:31.98Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,alainminda/notebook96886ff1f0,Notebook96886ff1f0,robur,,2016-09-07T12:25:17.217Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,anatolechessel/notebooke71ac8cf07,Notebooke71ac8cf07,AnatoleChessel,,2016-09-02T13:33:36.767Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,haitran/painter-number-by-simplecv,Painter Number by SimpleCV,Tran Son Hai,,2016-08-30T07:09:23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jasonlengxm/notebook5a1b00a825,Notebook5a1b00a825,Jason,,2016-08-29T17:53:00.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,yafeilu/notebook566c2a8689,Notebook9bfb5d3387,yafeiLu,,2016-08-28T03:53:23.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,valecdb/fingerprints-in-paintings,Fingerprints in Paintings,Valentina,,2016-08-22T13:29:08.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,agarwalsneha/model-on-train-info,Model on train_info,Sneha Agarwal,,2016-08-10T02:15:29.677Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,agarwalsneha/looking-at-the-artwork,Looking at the artwork,Sneha Agarwal,,2016-08-10T01:33:50.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,agarwalsneha/exploring-train-info-to-get-artist-characteristics,Exploring train_info to get artist characteristics,Sneha Agarwal,,2016-08-10T01:02:53.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,agarwalsneha/exploring-artist-behaviour,Exploring artist behaviour,Sneha Agarwal,,2016-08-09T18:03:14.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,silnov/ys-playground,Ys playground,Sergei Silnov,,2016-08-06T08:11:10.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,zolteckx6/notebookb26b48705b,Notebookb26b48705b,JoeyJones,,2016-08-05T21:05:19.617Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jgscherber/painters-delight,Painters Delight,JacobScherber,,2016-07-29T04:11:03.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,kvn219/testing-kernal,Testing Kernal,Kevin Nguyen,,2016-09-17T23:41:04.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,razvan1292/blabla,blabla,RazvanUrsachi,,2016-07-19T13:44:13.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jvdnouri/painters-numbers,painters_numbers,Jevo,,2016-07-14T07:05:08.34Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,vrkrishn/set-correct-scrips,Set Correct Image Extensions,VivekKrishnan,,2016-06-29T04:48:17.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,takuyasakaguchi/painter-number-python,Painter_Number_Python,Takuya,,2016-06-23T21:57:30.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,delillie/test-first,test_first,DevonBates,,2016-06-13T20:14:12.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,yhenon/exploringdata,exploringdata,Yann H,,2016-05-13T22:17:18.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,jalfaizy/are-you-a-real-painter,"Are you a ""real"" painter?",jalFaizy,,2016-05-14T09:48:06.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,sandeepdevagiri/test-v1,test_v1,Sandeep Devagiri,,2016-05-12T08:30:57.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,sevenmoon/testa,testa,sevenmoon,,2016-05-12T07:15:54.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers
+,,,,,0,rakshitk/trial-script,Trial_Script,Rakshit Kothari,,2016-05-12T00:36:07.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,painter-by-numbers

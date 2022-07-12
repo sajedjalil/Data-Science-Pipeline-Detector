@@ -1,0 +1,5 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,chongzhenjie/human-or-robot,Human or Robot,Chong Zhen Jie,,2022-02-16T09:08:31.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,facebook-recruiting-iv-human-or-bot
+,,,,,0,dilipkumar2k6/facebook-recruiting-iv-human-or-robot,Facebook Recruiting IV: Human or Robot?,Dilip Kumar,,2022-01-16T00:40:33.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,facebook-recruiting-iv-human-or-bot
+,,,,,0,deepakkumargunjetti/bot-or-human,bot or human,Deepak kumar Gunjetti,,2021-11-15T07:10:45.37Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-recruiting-iv-human-or-bot
+,,,,,0,choijh9404/day4-facebook,Day4_Facebook,Tommy Choi,,2020-03-11T09:14:00.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,facebook-recruiting-iv-human-or-bot

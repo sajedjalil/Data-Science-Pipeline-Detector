@@ -1,0 +1,12 @@
+# Note: Kaggle only runs Python 3, not Python 2
+
+# We'll use the pandas library to read CSV files into dataframes
+import pandas as pd
+
+# The competition datafiles are in the directory ../input
+# List the files we have available to work with
+print("> ls ../input")
+from subprocess import check_output
+print(check_output(["ls", "../input"]).decode("utf8"))
+
+

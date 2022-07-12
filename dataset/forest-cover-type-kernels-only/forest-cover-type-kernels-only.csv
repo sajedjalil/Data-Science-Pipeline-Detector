@@ -1,0 +1,258 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,moghazy/ensemble-learning-with-feature-engineering,Ensemble Learning with Feature Engineering,Moghazy,,2020-07-28T22:43:22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],60,forest-cover-type-kernels-only
+,,,,,0,codename007/forest-cover-type-eda-baseline-model,Forest Cover Type : EDA + Baseline Model ✓✓,Lathwal,,2018-06-26T09:10:22.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],58,forest-cover-type-kernels-only
+,,,,,0,justfor/ensembling-and-stacking-with-heamy,Ensembling and Stacking with heamy,Justfor,,2018-09-19T19:45:55.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],46,forest-cover-type-kernels-only
+,,,,,0,nicapotato/multi-class-lgbm-cv-and-seed-diversification,Multi-Class LGBM CV and Seed Diversification,nicapotato,,2018-07-25T21:41:40.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],45,forest-cover-type-kernels-only
+,,,,,0,rohandx1996/features-hybrid-classifier-pls-vote-if-u-like,features hybrid classifier pls vote if u like ,rohan,,2018-07-25T06:25:03.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],37,forest-cover-type-kernels-only
+,,,,,0,nadare/eda-feature-engineering-and-modeling-4th-359,"EDA, Feature engineering and Modeling (4th/359) ",nadare,,2018-10-03T08:00:21.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,forest-cover-type-kernels-only
+,,,,,0,rohandx1996/eda-and-feature-selection,EDA And Feature Selection,rohan,,2018-10-22T10:48:21.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],30,forest-cover-type-kernels-only
+,,,,,0,thebrownviking20/voting-classifier-for-victory,Voting Classifier for victory!,Siddharth Yadav,,2018-07-24T07:52:01.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],24,forest-cover-type-kernels-only
+,,,,,0,thebrownviking20/ann-starter,ANN starter,Siddharth Yadav,,2018-06-27T11:42:32.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],20,forest-cover-type-kernels-only
+,,,,,0,elitcohen/forest-cover-type-eda-modeling-error-analysis,"Forest Cover Type: EDA, Modeling, + Error Analysis",elitcohen,,2019-08-08T04:53:08.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,forest-cover-type-kernels-only
+,,,,,0,mlisovyi/featureengineering-training-with-weights,FeatureEngineering + training with weights,Misha Lisovyi,,2018-09-11T21:28:20.693Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,forest-cover-type-kernels-only
+,,,,,0,artgor/forest-exploration-and-trees,Forest exploration and trees,Andrew Lukyanenko,,2018-09-18T05:50:15.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,forest-cover-type-kernels-only
+,,,,,0,bigkirill/forest-cover-using-catboost-multiclass-classifier,Forest cover using Catboost Multiclass Classifier,Kirill Kostyrenko,,2018-11-03T13:39:04.983Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,forest-cover-type-kernels-only
+,,,,,0,suyashgulati/using-pyspark-randomforest-crossvalidatn-gridsrch,"Using pyspark randomforest,crossvalidatn, gridsrch",Suyash Gulati,,2018-09-04T06:46:24.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,forest-cover-type-kernels-only
+,,,,,0,ashishpatel26/bayesian-random-forest-lightgbm,Bayesian + RaNDoM FoReSt + Lightgbm,NowYSM,,2018-08-10T13:34:11.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,forest-cover-type-kernels-only
+,,,,,0,skillsmuggler/forest-cover-feature-engineering-and-reduction,Forest Cover | Feature Engineering and Reduction,skillsmuggler,,2018-07-02T17:54:39.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,forest-cover-type-kernels-only
+,,,,,0,sassy19a/exploratory-data-analysis-forest-cover,Exploratory Data Analysis (forest cover),Jake,,2018-09-03T09:12:39.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,forest-cover-type-kernels-only
+,,,,,0,shahules/forest-cover-type-edta-ensemble-voting,Forest Cover Type EDTA + ensemble + Voting ,Shahules,,2018-09-10T02:06:14.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,forest-cover-type-kernels-only
+,,,,,0,ariadneadler/stacked-classifiers-0-818,Stacked Classifiers [0.818],Ujjwala Ananth,,2018-08-03T14:15:46.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,forest-cover-type-kernels-only
+,,,,,0,skillsmuggler/eda-and-dimension-reduction,EDA and Dimension Reduction,skillsmuggler,,2018-06-22T20:05:42.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,forest-cover-type-kernels-only
+,,,,,0,cbryant/new-features-and-recursive-feature-extraction,New Features and Recursive Feature Extraction,TheGruffalo,,2018-08-28T17:18:22.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,forest-cover-type-kernels-only
+,,,,,0,sainikhilesh/forest-cover-type-classification,Forest Cover Type-Classification,Sai Nikhilesh,,2020-04-28T10:18:05.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,forest-cover-type-kernels-only
+,,,,,0,ahmedmamdouh2048/forest-cover-type,Forest Cover Type,Ahmed Mamdouh,,2021-08-27T09:28:21.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,forest-cover-type-kernels-only
+,,,,,0,atrisaxena/forest-cover-voted-classifier-using-mod,Forest Cover | Voted Classifier using mod,Atri Saxena,,2018-07-28T11:46:13.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,forest-cover-type-kernels-only
+,,,,,0,nafisur/voting-classifier-for-victory,Voting Classifier for victory,Nafisur Rahman,,2018-07-24T13:17:00.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,forest-cover-type-kernels-only
+,,,,,0,schlerp/lgb-cv-ensemble-normalisation-fe,LGB + cv ensemble + normalisation + FE,schlerp,,2018-08-23T03:26:57.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,forest-cover-type-kernels-only
+,,,,,0,romankovalenko/data-distribution-3d-scatter-plots,Data distribution & 3D Scatter Plots,Roman Kovalenko,,2018-07-23T19:59:28.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,forest-cover-type-kernels-only
+,,,,,0,engmahmoudnabil/forestcover,ForestCover,EngMahmoud nabil,,2020-04-18T20:53:29.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,nmsx1816010/nmsx1816010,NMSX1816010,NMSX1816010,,2019-01-09T05:34:16.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,sassy19a/random-forest-forest-cover,Random Forest (forest cover),Jake,,2018-09-02T10:23:30.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,schlerp/eda-fe-rfe-ann-blending-of-classifiers,"EDA, FE, RFE ANN Blending of classifiers",schlerp,,2018-09-05T03:31:36.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,pstetz/eda-of-forest-cover-with-plotly-and-altair,EDA of Forest Cover with Plotly and Altair,Patrick Stetz,,2018-08-17T22:08:36.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,tarunpaparaju/forest-cover-type-predictor,Forest Cover Type Predictor,Tarun Paparaju,,2018-09-12T15:43:15.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,tejaeduc/foresttype-using-keras-nn,ForestType using Keras NN,Teja,,2018-09-11T03:23:35.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,forest-cover-type-kernels-only
+,,,,,0,attasitwiangkham/simple-prediction,Simple-Prediction,Attasit Wiangkham,,2021-02-26T08:41:41.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,chitramdasgupta/forest-classification,forest_classification,Chitram Dasgupta,,2020-09-30T15:46:43.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,niteshchaurasiya/forestcover-type,ForestCover_Type,Nitesh Kumar,,2020-06-09T19:37:13.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,dnreddy/ensembling-with-feature-engineering-and-stacking,Ensembling_with_feature-engineering_and_Stacking,Nikhileswar Reddy,,2020-04-27T05:42:10.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,jagadeesh06/forest-cover-type-eda-feature-eng-ensemble,Forest-Cover_Type-EDA-Feature Eng-Ensemble,Jagadeesh Mallemala,,2020-04-28T18:31:58.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,rawanreda/forestkernel,ForestKernel,Rawan Fouda,,2020-06-13T13:06:19.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,matthenschke/matthew-forest-type-cover,Matthew Forest Type Cover,Matthew Henschke,,2019-04-24T00:42:00.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,nitinpawar/forest-cover-type-using-keras-deep-learning,forest cover type using keras (Deep learning),nitin pawar,,2019-02-08T09:09:11.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,shengpengsf1816010/nmsf1816010,NMSF1816010,NMSF1816010,,2019-01-10T14:05:40.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,guqitao/sx1816077,SX1816077,SX1816077,,2019-01-12T02:13:46.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,matheusfrota/model-using-extratree,Model using ExtraTree,Matheus Frota,,2018-09-24T23:55:04.523Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,bohdansafoniuk/forest-cover-ensemble-models,Forest Cover Ensemble Models,Bohdan Safoniuk,,2018-09-12T09:55:26.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,paban077/forest-cover-type-prediction-simple-model,Forest Cover Type Prediction -  simple model,pawan_agarwal,,2018-09-21T05:30:39.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,abusiddik/forestcovertype,ForestCoverType,Abubakkar Siddik,,2018-08-17T10:09:46.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,inmanenz/keras-ann-with-some-text-pre-processing,Keras ANN with Some Text Pre-Processing,Enzo Inman,,2018-08-14T18:10:23.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,henryhollis4/kernel9740dc77d9,kernel9740dc77d9,Henry Hollis,,2018-07-25T01:38:41.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,schlerp/custom-numpy-neural-network,custom numpy neural network,schlerp,,2018-07-19T13:02:52.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,nathra/keras-deep-nn-with-text-features-upsampling,Keras Deep NN (with Text Features & Upsampling),Nathra,,2018-07-03T21:06:17.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,forest-cover-type-kernels-only
+,,,,,0,enasragab/notebookenas,notebookEnas,Enas Ragab,,2021-09-05T14:41:04.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,buhturi/forest-cover-type,Forest Cover Type,Muhammed Mustafa,,2021-08-24T03:55:55.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,gehui97/forest-cover-type-randomforestclassifier,forest cover type-RandomForestClassifier,Gehui97,,2020-06-08T09:45:55.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,elenaanashkina/forest-cover-type-decisiontreeclassifier,Forest cover type DecisionTreeClassifier,Elena Anashkina,,2020-06-09T17:41:54.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,mohitsital/top-10-score-forest-cover-type-classification,Top 10 Score : Forest Cover Type Classification,Mohit,,2020-05-06T09:27:45.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,hadielnemr/forest-data-exploration,Forest Data Exploration,Hadi Elnemr,,2020-04-18T17:57:10.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,rahulbagga/ensemble-learning-ann-svc,Ensemble Learning + ANN + SVC,Rahul Bagga,,2019-06-23T10:13:22.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nikhileshp12/multi-layer-perceptron-sklearn-for-forest-cover,Multi-layer perceptron sklearn for Forest Cover,Nikhilesh Prabhakar,,2019-06-12T07:48:19.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,manjureddygl/crossvalidation-gridsearch-pyspark,CrossValidation_GridSearch_PySpark,ManjunathaReddy G L,,2019-05-07T10:19:04.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,zshgostop/kernel33f9a1703c,kernel33f9a1703c,zhang,,2019-03-22T10:42:31.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,michiexile/teacher-reference-solution,Teacher reference solution,michiexile,,2019-03-13T19:05:52.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nitinpawar/forest-cover-type-kernels-only,Forest Cover Type (Kernels Only),nitin pawar,,2019-02-07T13:07:21.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,wgcsf1816006/kerneldee4762b4c,kerneldee4762b4c,WANGGUOCHENG,,2019-01-16T13:40:28.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nmsf1816009/kernelc5d9270fd3,kernelc5d9270fd3,NMSF1816009,,2019-01-14T06:09:08.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nothan/nmsz1816043,NMSZ1816043,NMSZ1816043,,2019-01-10T11:05:28.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,justarookie/nmsx1816066,NMSX1816066,NMSX1816066,,2019-01-12T14:07:12.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,yyromei/nmsx18160,NMSX18160,YYROMEI,,2019-01-09T07:52:31.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nmsz1803011/nmsz1803011,NMSZ1803011,NMSZ1803011,,2019-01-07T06:30:52.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,shengpengsf1816010/adaboostdtc,AdaBoostDTC,NMSF1816010,,2019-01-06T11:14:52.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nmsf1816013/nmsf1816013-a-simple-classifier,NMSF1816013-A Simple Classifier,NMSF1816013,,2018-12-30T14:34:33.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nmsx1816060/nmsx1816060-with-deep-learning,NMSX1816060 with deep learning,NMSX1816060,,2019-01-11T07:37:16.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,veritaszjy/nmsx1816006,NMSX1816006,NMSX1816006,,2019-01-08T13:56:58.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nmsf1816023/tensorflownn-v2,tensorflowNN_V2,ZhiyuanChen,,2018-12-12T02:33:09.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,nmsx1816060/nmsx1816060,NMSX1816060,NMSX1816060,,2019-01-11T07:30:27.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,suraj27wyz/random-forest-cover-using-extratrees,Random Forest cover using extratrees ,Suraj Kumar,,2019-02-04T04:52:07.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,wujiazhong/forest-type,Forest Type,wujz,,2018-09-19T23:20:45.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,liaobowen/forest-cover-type,Forest Cover Type,Bowen Liao,,2018-10-26T06:31:26.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,mehulgupta2016154/tableau-predicts-the-cover,Tableau Predicts The Cover,Mehul Gupta,,2018-09-15T03:55:56.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,mlisovyi/hyper-parameter-optimisation,Hyper-parameter optimisation,Misha Lisovyi,,2018-09-03T09:05:17.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,arvindbhatt/forest-cover-type,forest cover type,dispname,,2018-09-01T20:16:09.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,plarmuseau/3y-old-solution-litterary,3y old solution litterary,Paul Larmuseau,,2018-08-22T05:38:29.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,suyashgulati/2-anns-layers-based-on-features-importance,2 ANNs layers  || based on features importance.,Suyash Gulati,,2018-08-09T18:50:06.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,schlerp/ga-evolution-for-ann-as-fe-into-sklearn-classifier,GA evolution for ANN as FE into Sklearn classifier,schlerp,,2018-08-02T22:13:05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,puneettyagi/forest-cover-simple-xgb,Forest Cover : Simple XGB ,Presto,,2018-07-24T18:11:23.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,dimonrtm/randomforestclassifierandextratreesclassifier,RandomForestClassifierAndExtraTreesClassifier,Dmitrii Popov,,2018-07-19T04:09:18.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,dimonrtm/firstneiralnetwok,FirstNeiralNetwok,Dmitrii Popov,,2018-07-23T15:02:45.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,zhoulingyan0228/eda-and-dnn-on-forest-coverage,EDA and DNN on Forest Coverage,Lingyan Zhou,,2018-07-02T20:16:01.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,sabarishg/forest-cover-type,Forest Cover Type,SabarishGopalakrishnan,,2018-07-03T23:33:38.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,adityajn105/forest-cover-type-prediction,Forest Cover Type prediction,adityajn105,,2018-06-26T19:38:32.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,forest-cover-type-kernels-only
+,,,,,0,mariaatef130/notebook84da0f137b,notebook84da0f137b,Maria Atef,,2021-08-31T20:31:54.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,tarekmohamed19/notebook8cfeb2f66e,notebook8cfeb2f66e,Tarek Mohamed,,2021-09-05T13:03:11.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,mariaatef130/notebook1371cd2cfd,notebook1371cd2cfd,Maria Atef,,2021-08-29T15:00:44.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nourhanamr/notebooka9ad673d5b,notebooka9ad673d5b,nourhan amr,,2021-08-30T18:46:42.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,ahmedabelal/full-solution,Full-Solution,Ahmed Mohamed,,2021-08-24T16:50:23.933Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zeyadomar/forest-cover-classifier,Forest_Cover_classifier,zeyad omar,,2021-08-23T10:37:07.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,ploufplouf/notebook68ce7cdeed,notebook68ce7cdeed,Plouf Plouf,,2021-03-14T15:12:44.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,eshulyak/forest-cover-type,Forest Cover Type ,eshulyak,,2020-12-30T08:37:14.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,caikeren3117001536/kernel346b184f61,kernel346b184f61,caikeren-3117001536,,2020-07-25T14:04:28.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,youssefsameh/draft1,draft1,Youssef Sameh,,2020-04-19T01:27:40.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,mohammedasibrahim/kernel542d80a4bc,kernel542d80a4bc,Mohammed Salah,,2020-05-01T21:36:58.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zainabsultan/dataexploration1,DataExploration1,Zainab Sultan,,2020-04-18T18:19:57.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,omarsawan/kernel482fe4ae2a,kernel482fe4ae2a,omar sawan,,2020-04-17T16:43:23.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,heliaritiana/heyju2-forest-cover-type,(HeyJu2) Forest Cover Type,Heliaritiana,,2020-04-14T23:25:02.803Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,imdevskp/forest-cover-type-classification,Forest Cover Type Classification,Devakumar K. P.,,2020-02-21T16:28:36.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,justineyu/ghouls,GHOULS,Justine Guenez,,2020-03-09T10:30:49.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,radeweg4264/forest-type-tpot,Forest_type_TPOT,Radosław Węgrzyk,,2019-12-10T17:12:44.813Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yinghua123/kernel1e7a09b235,kernel1e7a09b235,Yinghua,,2019-10-04T14:53:34.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,rsoaresp/kernel11f846114c,kernel11f846114c,Rafael Soares Pinto,,2019-09-12T22:04:07.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,rebelc/kernel16270e1d33,kernel16270e1d33,Rebel-C,,2019-09-07T23:52:12.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,gregbrunk/foresttype-pipeline,ForestType_Pipeline,Greg Brunkhorst,,2019-09-05T03:19:02.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,moghazy/week-1,Week 1,Moghazy,,2019-07-08T17:46:08.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,gregbrunk/foresttype-viztree,ForestType_VizTree,Greg Brunkhorst,,2019-08-25T23:27:07.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,pirsabirali/forest-cover-script,Forest Cover Script,Pir Sabir Ali,,2019-06-27T20:23:40.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,manufacturingai/ensemble-try,Ensemble try,Stefan Lung,,2019-05-02T20:13:08.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,kartikkks/random-forest-classifier-acc-75,Random_Forest_classifier(acc: 75%),kartik Bhardwaj,,2019-04-03T10:33:26.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,moghazy/fork-of-ensemble-learning,Fork of Ensemble Learning,Moghazy,,2019-03-18T21:25:11.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,louisp27/lcm-forest-cover,LCM Forest Cover,Louis Pearson,,2019-03-06T21:12:57.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,mohamedmantawy/manta-ml1,Manta ML1,Mantawy,,2019-03-24T11:46:50.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,manufacturingai/forrestcover-w-fastai,ForrestCover w FastAI,Stefan Lung,,2019-03-16T20:32:18.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sf1804005/sf1804005-new,sf1804005 NEW,SF1804005,,2019-01-14T15:08:56.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,ningbowen/sx1807065nsg,SX1807065NSG,ningbowen,,2019-01-13T13:01:09.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,ningbowen/nsgsx1807065,NSGsx1807065,ningbowen,,2019-01-13T10:00:53.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,ningbowen/sx1807065new1,sx1807065new1,ningbowen,,2019-01-13T09:48:00.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zzzttt/nmsx1816017,NMSX1816017,Tian,,2019-01-13T09:29:03.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sx1816017/nmsx1816017,NMSX1816017,ZTian,,2019-01-13T08:13:55.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zmengqian/nmsz1816069,NMSZ1816069,ZhangMengqian,,2019-01-13T06:58:22.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,edgargan/nmbx1816508,NMBX1816508,BX1816508,,2019-01-13T01:50:10.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sx1816073/nmsx1816073,NMSX1816073,NMSX1816073,,2019-01-12T16:51:21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816058/nmsx1816058,NMSX1816058,DavionZhang,,2019-01-13T13:03:43.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sx1816073/sx1816073,SX1816073,NMSX1816073,,2019-01-12T12:33:50.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zzzttt/testpy121,testpy121,Tian,,2019-01-12T12:03:01.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zzzttt/testpy3,testpy3,Tian,,2019-01-12T12:38:02.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zzzttt/testpy,testpy,Tian,,2019-01-12T10:29:52.3Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zzzttt/newsubmit,newsubmit,Tian,,2019-01-12T08:53:42.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,cry508069/try-moghazy-s-code-not-original,try Moghazy's code(not original),kk-learn,,2019-01-12T08:34:50.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsf1816021/nmsf1816021,NMSF1816021,NMSF1816021,,2019-01-12T08:03:58.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,wannajing/nmsf1816019,NMSF1816019,nmsf1816019,,2019-01-12T07:12:53.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1803104/nmsz1803104,NMSZ1803104,NMSZ1803104,,2019-01-12T06:22:57.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sz1804041/sz1804041,陈天明SZ1804041,陈天明SZ1804041,,2019-01-12T05:31:13.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,dwutian/nmsx1816019,NMSX1816019,NMSX1816019,,2019-01-12T04:23:31.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsf1816007/nmsf1816007,NMSF1816007,NMSF1816007,,2019-01-12T03:48:18.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,galany/nmsx1803161,NMSX1803161,Galany,,2019-01-12T08:20:20.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsf1816018/nmsf1816018,NMSF1816018,NMSF1816018,,2019-01-12T01:53:09.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsf1816018/kernele6586a05b2,kernele6586a05b2,NMSF1816018,,2019-01-12T01:44:38.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,dejieli/nuaasz1803119dejieuploadadam,nuaasz1803119dejieuploadAdam,李德杰SZ1803119,,2019-01-12T13:47:39.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmbx1806904/nmbx1806904,NMBX1806904,TQDQ,,2019-01-11T14:16:08.263Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yexinningsz1804026/yxnsz1804026,YXNSZ1804026,yexinningSZ1804026,,2019-01-11T13:07:09.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816072/nmsx1816072,NMSX1816072,NMSX1816072,,2019-01-11T12:45:49.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zhangtao2018/nmbx1816505,NMBX1816505-,NMBX1816505,,2019-01-11T11:18:51.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,wenhuan/nmsz1816046,NMSZ1816046,NMSZ1816046,,2019-01-11T05:13:18.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,hpcsx1816034/nmsx1816034,NMSX1816034,cutesuzy,,2019-01-11T04:23:09.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,geeerid/sx1816075,SX1816075,方立宇SX1816075,,2019-01-11T06:42:27.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,wanjiesz/coding1,coding1,NMSZ1816058,,2019-01-11T02:28:10.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1803104/nmsz1803104withkeras,NMSZ1803104withkeras,NMSZ1803104,,2019-01-11T12:42:21.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,gugaohero/nmsz1816051,NMSZ1816051,NMsz1816051,,2019-01-10T10:59:11.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1803104/nmsz1803104withrfc,NMSZ1803104withrfc,NMSZ1803104,,2019-01-10T11:04:08.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1803104/nmsz1803104withxgb,NMSZ1803104withxgb,NMSZ1803104,,2019-01-11T12:27:42.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,fengding54/nmsf1816002,NMSF1816002,NMSF1816002,,2019-01-10T09:15:26.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816043/nmsx1816043,NMSX1816043,NMSX1816043,,2019-01-11T02:34:39.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,fishzh/xgboost,xgboost,NMSX1816020,,2019-01-10T03:38:02.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816120/nmsx1816120,NMSX1816120,Sa1ka,,2019-01-11T06:23:09.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,wuchenhuan/nmsz1803128,NMSZ1803128,hitee_wch,,2019-01-19T03:56:16.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sz1816031/nmsz1816031-v2,NMSZ1816031_v2,NMSZ1816031,,2019-01-11T02:58:28.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816026/kerneld2b66b7c8e,kerneld2b66b7c8e,NMSX1816026,,2019-01-09T11:26:26.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yyromei/nmsz1816005,nmsz1816005,YYROMEI,,2019-01-12T09:07:36.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsf1816001/nmsf1816001,NMSF1816001,Jinchen,,2019-01-12T06:39:13.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816031/fcnn-c,fcnn_c,NMSX1816031,,2019-01-09T11:11:59.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zhouxu123/nmsz1816014,NMSZ1816014,NMSZ1816014,,2019-01-09T06:56:08.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,liuliangjun/sx1816101,SX1816101,sx1816101,,2019-01-09T06:57:35.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yanjinsx1816050/my-new4-try,my-new4-try,YanJinSX1816050,,2019-01-09T04:36:52.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zhongyingyu/irving-nmsz1816068,Irving_NMSZ1816068,yu,,2019-01-09T06:16:53.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,wangning123/nmsz1816038,NMSZ1816038,NIng,,2019-01-08T12:39:22.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,liuyuchunsz1816033/kernel9aec093a11,kernel9aec093a11,liuyuchunsz1816033 ,,2019-01-08T16:11:45.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zhubeisx1816096/kernelf82be057fd,kernelf82be057fd,Bei  Zhu,,2019-01-08T11:14:40.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816059/nmsx1816059,NMSX1816059,NMSX1816059,,2019-01-12T11:56:44.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sunmingsx1816030/nmsx1816030,NMSX1816030,Lord Voldemort,,2019-01-08T08:12:01.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,peter2019/nmsz1816037,NMSZ1816037,NMSF1816011,,2019-01-08T09:10:54.057Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,zhitengdongsz1816049/nmsz1816049,NMSZ1816049,NM1816049,,2019-01-09T03:22:51.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816023/kernel334f1f4d28,kernel334f1f4d28,Ed,,2019-01-10T08:09:41.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yanjinsx1816050/my-22th-try,my-22th-try,YanJinSX1816050,,2019-01-08T06:40:22.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,flyfish302/nmsx1816078,NMSX1816078,NMSX1816078,,2019-01-08T01:44:38.96Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yiminyuan/nmsx1803168,NMSX1803168,NMSX1803168,,2019-01-07T14:20:34.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,pertelluo/kernel4f6b28c5c5,kernel4f6b28c5c5,Peter Luo,,2019-03-06T10:01:27.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816031/fcnn-sjp,FCNN_sjp,NMSX1816031,,2019-01-11T09:10:22.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,xxxying/nmsz1816052,NMSZ1816052,xy yang,,2019-01-07T13:44:05.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1803011/nmsz1803011jyf,NMSZ1803011JYF,NMSZ1803011,,2019-01-07T07:23:10.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1816055/testcode,testcode~,NMSZ1816055,,2019-01-07T11:02:48.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yanjinsx1816050/my-12th-try,my-12th-try,YanJinSX1816050,,2019-01-07T05:15:30.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yanjinsx1816050/my-tenth-try,my-tenth-try,YanJinSX1816050,,2019-01-06T08:06:48.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yanjinsx1816050/my-sixth-try,my-sixth-try,YanJinSX1816050,,2019-01-06T02:35:24.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1816004/n-estmation,n_estmation,NMSZ1816004,,2019-01-05T08:04:26.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sz1816031/nmsz1816031,NMSZ1816031,NMSZ1816031,,2019-01-11T02:45:12.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsz1816054/kernel389c922a8c,kernel389c922a8c,NMSZ1816054,,2019-01-03T14:47:18.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816094/forest-cover-type2,forest_cover_type2,NMSX1816094,,2019-01-03T05:48:52.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,kenyangnov/nmsz1816007,NMSZ1816007,NMSZ1816007,,2019-01-08T13:33:08.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,naga456/forest-cover,Forest_cover,naga456,,2019-01-01T22:46:21.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,shengpengsf1816010/kernel5efab970cb,kernel5efab970cb,NMSF1816010,,2019-01-01T08:11:24.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sunfulv1/nmsz1816010,NMSZ1816010,NMSZ1816010,,2019-01-04T14:13:02.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816083/nmsx1816083,NMSX1816083,NMSX1816083,,2019-01-12T11:45:51.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,rtwe7867/nmbx1802314,NMBX1802314,NMBX1802314,,2019-01-06T12:46:18.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816038/test777,test777,NMSX1816038,,2018-12-27T13:32:46.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,xlocus/nmsx1816047,NMSX1816047,KayneSun,,2018-12-27T02:37:45.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmsx1816093/nmsx1816093,NMSX1816093,NMSX1816093,,2019-01-08T08:54:05.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nmbx1816009/nmbx1816009,NMBX1816009,NMBX1816009,,2018-12-26T07:38:56.673Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sz1716017/nmsz1716017,NMSZ1716017,NMSZ1716017,,2018-12-26T02:12:38.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,xlocus/nmsz1816047,NMSZ1816047,KayneSun,,2018-12-25T12:01:55.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,shengpengsf1816010/kernel7c83564665,kernel7c83564665,NMSF1816010,,2018-12-17T14:56:51.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,fishzh/nn-after-process,nn after process,NMSX1816020,,2018-12-20T08:27:00.827Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,fishzh/kernel4c15f85cd2,kernel4c15f85cd2,NMSX1816020,,2018-12-13T11:40:50.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,yanjinsx1816050/my-first-try,my-first-try,YanJinSX1816050,,2018-12-13T05:35:55.023Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sz1816071/forestcovertypekernel,ForestCoverTypeKernel,duohakehu,,2018-12-20T13:05:11.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,kabibi/xgboost-py,XGBoost.py,NMSX1816117,,2019-01-10T09:58:52.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,veeraitalinna/eda-for-forest-cover-type,EDA for Forest Cover Type,Veera Itälinna,,2018-12-01T17:58:31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,vikrammeena/voting-classifier-without-any-additional-feature-s,Voting classifier without any additional feature's,Vikram,,2018-11-27T16:24:04.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,ngunhuconchocon/forest-cover,forest-cover,Chó ,,2018-11-19T07:36:21.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,jharper/forest-cover-random-forest-predictor,Forest Cover - Random Forest Predictor,Jon Harper,,2018-11-15T00:02:43.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,savilov/svc-with-forest-cover-type-dataset,SVC with Forest Cover Type dataset,Aleksei Savilov,,2019-03-20T07:12:10.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,savilov/decision-tree-with-forest-cover-type-dataset, Decision tree with Forest Cover Type dataset,Aleksei Savilov,,2018-11-06T11:06:57.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,manish751/extra-trees,Extra Trees,Manish,,2018-10-31T09:39:13.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,slambert1/extratrees-minimal-feature-engineering,"ExtraTrees,  minimal feature engineering",Shea Lambert,,2018-10-22T21:48:23.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,boomberung/simple-eda-extratrees-v1,Simple EDA + ExtraTrees v1,Garaev Nick,,2018-10-22T11:26:17.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,vuppala/simple-random-forest-classifier,Simple Random Forest Classifier,Vamsi Uppala,,2018-10-12T00:06:06.797Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,shashanksagarjha/forest-cover-detaled-eda-modelling,forest_cover_detaled_eda&modelling,Shashankjha,,2018-10-28T08:22:57.573Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,quincyqiang/multi-class-lgbm-cv-and-seed-diversificatio-7c6a8d,Multi-Class LGBM CV and Seed Diversificatio 7c6a8d,致Great,,2018-09-28T03:01:25.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,shemuelzhao/test-baseline,test_baseline,shemuelzhao,,2018-09-27T12:09:33.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,anoojnair/simple-random-forsest-classifier,Simple Random Forsest Classifier,anooj,,2018-09-24T10:43:24.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sathyz/simple-random-forest,Simple Random Forest,Satheesh Kumar Mohan,,2018-09-26T14:14:48.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,rish321/kernela6100375f7,kernela6100375f7,rishabh,,2018-09-19T09:06:12.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,mehulgupta2016154/tableau-cover,Tableau&Cover,Mehul Gupta,,2018-09-15T06:29:08.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,willtscott/forest-exploration-and-prediction,Forest Exploration and Prediction,Will Scott,,2018-09-24T14:09:26.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,mlisovyi/class-fractions-in-the-test,Class fractions in the Test,Misha Lisovyi,,2018-09-04T05:32:05.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,syncush/neural-forest-and-voting-79-accuracy,Neural Forest And Voting - 79% Accuracy,Daniel Hermon,,2018-09-18T08:31:28.367Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,manufacturingai/forestcovertype-with-tensorflow-and-keras,ForestCoverType with tensorflow and keras,Stefan Lung,,2018-09-13T14:01:14.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,plarmuseau/anyone-an-idea-about-this-cluster,anyone an idea about this cluster,Paul Larmuseau,,2018-08-18T10:37:40.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,dshobana9/kernel1ec3c94271,kernel1ec3c94271,Shobana,,2018-08-09T06:00:53.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,dshobana9/forest-kernel,forest_kernel,Shobana,,2018-08-09T04:42:24.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,aks1nya/logistic-reg-analysis,logistic_reg + analysis,k.krivchikova,,2018-08-03T14:02:01.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,diceke/my-submission,my submission,namickey,,2018-07-27T23:57:01.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,alfar9000/forest-cover-type-exploratory,Forest_Cover_Type_Exploratory,Alessandro Farace,,2018-08-06T08:48:43.02Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,schlerp/simple-ann-trained-with-ga,simple ANN trained with GA,schlerp,,2018-07-23T06:44:26.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,viswajithkn/second-attempt,Second Attempt,Viswajith,,2018-07-22T08:14:55.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,gafalcon/tuning-xgboost,Tuning XGBoost,Gabriel Falcones,,2018-07-18T21:50:39.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,hancelpv/forest-cover-type-classifier,Forest Cover Type Classifier,Hancel PV,,2018-08-13T10:04:29.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,dimonrtm/xgboostclassifier,XGBoostClassifier,Dmitrii Popov,,2018-07-18T19:42:41.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,bathiamkwrdsbt/forestcovertype-adaboost-dtree,ForestCoverType-AdaBoost-DTree,__bathia_mkwr__,,2018-07-14T23:01:37.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,sumedhgodbole/ann-forest-cover-type-kernel-2,ANN Forest Cover Type {Kernel 2},Sumedh Godbole,,2018-07-14T17:03:20.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,schlerp/keras-ann-kfold-ensemble-normalisation-fe,Keras ANN + KFold + ensemble + normalisation + FE,schlerp,,2018-07-16T12:35:52.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,schlerp/knn-simple-but-effective,"KNN, simple but effective!",schlerp,,2018-07-13T00:40:15.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,dimonrtm/fneiralnetwork,fNeiralNetwork,Dmitrii Popov,,2018-07-11T19:37:10.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,smehta12/forest-cover-type,Forest Cover Type,Shalin,,2018-07-18T15:57:32.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,liamjflood/forest-class-1,Forest_Class_#1,Liam Flood,,2018-07-07T13:33:21.71Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,mohamedramzy/xgboost-classifier-for-identifying-forests-covers,XGBoost classifier for identifying forests covers,Mohamed Ramzy,,2018-07-03T08:34:14.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,qgh1223/kernel4d3cf44d34,kernel4d3cf44d34,qiuguhao,,2018-07-11T09:55:28.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nathra/strong-structure-in-the-id-column,Strong Structure in the Id column,Nathra,,2018-06-29T17:01:04.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only
+,,,,,0,nathra/lightgbm-model-with-some-feature-engineering,LightGBM model with some feature engineering,Nathra,,2018-06-25T13:24:51.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,forest-cover-type-kernels-only

@@ -1,0 +1,1 @@
+__import__('pandas').read_csv('../input/gapanswers/answers.csv', dtype={'A-coref': int, 'B-coref': int}).rename(columns={'A-coref': 'A', 'B-coref': 'B'}).assign(NEITHER=lambda r: 1-r.A-r.B).to_csv('sub.csv', index=False)

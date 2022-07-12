@@ -1,0 +1,614 @@
+languageNullable,kernelTypeNullable,isPrivateNullable,enableGpuNullable,enableInternetNullable,id,ref,title,author,slug,lastRunTime,language,hasLanguage,kernelType,hasKernelType,isPrivate,hasIsPrivate,enableGpu,hasEnableGpu,enableInternet,hasEnableInternet,categoryIds,datasetDataSources,kernelDataSources,competitionDataSources,totalVotes,competitionId
+,,,,,0,viveksrinivasan/eda-ensemble-model-top-10-percentile,EDA & Ensemble Model (Top 10 Percentile) ,Vivek Srinivasan,,2017-04-23T04:54:22.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],540,bike-sharing-demand
+,,,,,0,rajmehra03/bike-sharing-demand-rmsle-0-3194,BIKE SHARING DEMAND [ RMSLE:: 0.3194],Raj Mehrotra,,2018-10-03T15:44:24.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],245,bike-sharing-demand
+,,,,,0,kwonyoung234/for-beginner,데이터 전처리에 집중한 자전거 수요예측하기 (for beginner) ,Jerry Kwon,,2019-05-19T02:46:18.6Z,,False,,False,False,False,False,False,False,False,[],[],[],[],56,bike-sharing-demand
+,,,,,0,miteshyadav/comprehensive-eda-with-xgboost-top-10-percentile,Comprehensive EDA with XGBoost (Top 10 percentile),Mitesh Yadav,,2017-11-16T15:11:46.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],38,bike-sharing-demand
+,,,,,0,fatmakursun/bike-sharing-feature-engineering,Bike Sharing(Feature Engineering),Fatma Kurşun,,2020-12-22T09:58:31.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],31,bike-sharing-demand
+,,,,,0,triskelion/check-adherence-to-benford-s-law,Check adherence to Benford's Law,Triskelion,,2015-04-26T01:56:53.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],28,bike-sharing-demand
+,,,,,0,mirhyun0508/bike-sharing-demand-only-data-analsis-and-eda,Bike Sharing Demand only data analsis and EDA,kim yonghyun,,2022-03-29T11:14:47.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,bike-sharing-demand
+,,,,,0,saliblue/bike-demand-multi-model,Bike_Demand_multi_model,Salio,,2021-09-05T12:50:33.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],25,bike-sharing-demand
+,,,,,0,werooring/bike-sharing-demand-top-6-6-solution,✨ Bike Sharing Demand Top 6.6% Solution 👏,Baek Kyun Shin,,2021-01-10T14:13:58.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],22,bike-sharing-demand
+,,,,,0,mohitsital/top-10-bike-sharing-rf-gbm,Top 10  -  bike sharing (RF & GBM) ,Mohit,,2020-05-01T20:31:10.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],21,bike-sharing-demand
+,,,,,0,carolineecc/xg-boost-random-forest-ridge-lasso-regression,"XG Boost, Random Forest, Ridge & Lasso Regression",Caroline C,,2022-01-11T05:44:28.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],19,bike-sharing-demand
+,,,,,0,homayoonkhadivi/2-creative-deep-learning-models-bike-prediction,2 Creative Deep Learning Models//Bike Prediction,Homayoon khadivi,,2020-12-26T10:25:35.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],17,bike-sharing-demand
+,,,,,0,swinalmeshram/bike-sharing,Bike Sharing,Swinal Meshram,,2019-11-10T18:26:00.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,bike-sharing-demand
+,,,,,0,joaoavf/python-e-pandas-exercicio,Python e Pandas - Exercicio,João Alexandre Vaz Ferreira,,2020-03-04T03:24:42.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],16,bike-sharing-demand
+,,,,,0,vithal2311/bike-sharing-demand-random-forest,Bike sharing demand - random forest,vithal,,2022-05-09T04:19:23.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],15,bike-sharing-demand
+,,,,,0,inyeongkang/2022-smarcle-kaggle-study-bike-demand-kiy,2022 SMARCLE Kaggle Study_Bike Demand_KIY,20011912,,2022-03-26T13:09:01.99Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,bike-sharing-demand
+,,,,,0,werooring/bike-sharing-demand-basic-eda-for-everyone,😊 Bike Sharing Demand Basic EDA For Everyone!! 👀,Baek Kyun Shin,,2021-01-22T14:12:10.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],14,bike-sharing-demand
+,,,,,0,bell2psy/bike-sharing-practice,Bike Sharing_practice,SOYOUNG PARK,,2022-03-09T07:52:08.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bike-sharing-demand
+,,,,,0,hanifansari93/bike-sharing-demand-eda-modeling,Bike Sharing Demand: EDA + Modeling,Hanif Ansari,,2019-10-07T18:49:40.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],13,bike-sharing-demand
+,,,,,0,rehameltagoury/bikesharingdemand,BikeSharingDemand,Reham ElTagoury,,2021-08-02T14:23:30.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,bike-sharing-demand
+,,,,,0,yaroshevskiy/bike-rental-predictions-using-lr-rf-gbr,"Bike rental predictions using LR, RF, GBR",Oleg Yaroshevskiy,,2017-01-10T16:07:34.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],12,bike-sharing-demand
+,,,,,0,abdo977/bike-sharing-notebook,Bike sharing Notebook,Abdullah Hamdy,,2022-06-26T18:49:29.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bike-sharing-demand
+,,,,,0,nayrouzhamdy/bike-demand-6,BIKE DEMAND - 6,Nayrouz Hamdy,,2021-08-16T17:22:35.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bike-sharing-demand
+,,,,,0,binuthomasphilip/lin-reg-bikes-ride-in-sharing-economy-9,Lin Reg Bikes Ride in Sharing Economy_9,Binu Thomas Philip,,2021-04-01T10:08:53.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bike-sharing-demand
+,,,,,0,sidagar/using-random-forest-and-xgboost,Using random forest and xgboost,Sidhant Agarwal,,2020-06-07T15:44:50.92Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bike-sharing-demand
+,,,,,0,roydatascience/bike-share-demand-model-version-1-0,Bike Share Demand Model Version 1.0,Ashish Gupta,,2018-11-23T21:10:02.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],11,bike-sharing-demand
+,,,,,0,arthurdwlau/bike-sharing-analysis-prediction,bike-sharing-analysis-prediction,Arthur Lau,,2021-10-11T09:15:27.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bike-sharing-demand
+,,,,,0,fredkron/eda-ml-on-bike-sharing,EDA & ML on bike-sharing,Frédérick Allanic,,2018-11-21T21:20:17.913Z,,False,,False,False,False,False,False,False,False,[],[],[],[],10,bike-sharing-demand
+,,,,,0,cwonseo/cws-bikesharing,CWS_bikesharing,cwonseo,,2022-03-26T15:57:44.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bike-sharing-demand
+,,,,,0,aliderakhshesh/bike-sharing-a-simple-start-point,Bike_sharing(a simple start point),Ali Derakhshesh,,2021-10-31T17:48:22.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bike-sharing-demand
+,,,,,0,muhammedmamdouhsalah/bike-sharing,Bike Sharing,Muhammed Mamdouh,,2021-08-19T22:36:58.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bike-sharing-demand
+,,,,,0,vibeeshk/bike-sharing-demand-prediction,Bike Sharing Demand Prediction,Vibeesh,,2020-06-26T20:25:08.683Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bike-sharing-demand
+,,,,,0,rbud613/bike-demand,bike-demand,GYUYOUNG,,2021-03-14T06:24:54.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bike-sharing-demand
+,,,,,0,kongnyooong/bike-sharing-demand-for-korean-beginners,[Bike Sharing Demand] for Korean Beginners (한글커널),HONG_YP,,2020-06-04T13:09:15.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],9,bike-sharing-demand
+,,,,,0,alstn38/first-bike-notebook,First_bike_notebook,alstn38,,2022-03-23T16:46:28.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,hongtokki/eda-evaluate-bike-sharing,[EDA + Evaluate] Bike Sharing 🚲,HongTokki,,2021-11-19T07:21:59.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,werooring/ch6-eda,[ch6] EDA,Baek Kyun Shin,,2022-06-30T14:22:55.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,tokaghaly/bike-task,bike_task,Toka Ghaly,,2021-08-18T19:58:22.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,tasneemmohamedsaad/bike-sharing-demand, Bike_Sharing_Demand,Tasneem Mohamed Saad,,2021-08-14T18:11:00.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,kickitlikeshika/data-exploration-with-41,Data Exploration with 41,Ahmed Khaled,,2020-12-01T11:31:53.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,drcapa/bike-sharing-demand-rnn,Bike_Sharing_Demand_RNN,DrCapa,,2020-10-17T07:40:58.147Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,yekang/20181126-bike-sharing-demand,20181126 bike sharing demand,ImYeEun,,2018-11-26T04:30:10.207Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,jjuanramos/bike-sharing-demand,Bike Sharing Demand,JuanRamos,,2017-04-21T08:45:55.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,triskelion/python-test,Available Python Libraries,Triskelion,,2015-04-27T06:13:45.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],8,bike-sharing-demand
+,,,,,0,mrdheer/detail-guide-to-bike-sharing-trend,Detail Guide to Bike Sharing Trend,Kavach Dheer,,2022-06-10T20:11:34.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,zegveld/study-case-six-algorithm-in-machine-learning,Study Case : Six Algorithm in Machine Learning,Rizki Febriansyah,,2022-05-30T04:00:48.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,teddylee777/bike-sharing-demand-day1,bike-sharing-demand-베이스라인(day1),Teddy Lee,,2022-04-21T10:36:40.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,iamhappyg/bike-sharing-demand-prediction,Bike Sharing Demand Prediction,iamhappyg,,2021-11-19T06:08:59.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,kyuhwanjung2/bikesharingdemand-10-23,BikeSharingDemand - 10/23,Kyuhwan Yohann Jung,,2021-10-23T06:34:33.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,amalabdallah/bikesharing,bikeSharing ,Amal Abdallah,,2021-08-19T09:52:56.66Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,junhyeok99/bike-sharing-demand-rf-model,bike_sharing_demand(rf model),Jun Hyeok,,2021-06-06T13:33:28.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,arunkumar13111/bike-sharing-eda-ridge-lasso-elasticnet-knn,"Bike Sharing EDA,Ridge,Lasso,ElasticNet,KNN",Arunkumar M,,2021-07-22T13:22:23.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,binuthomasphilip/xgboost-with-bike-sharing-18,XGBoost With Bike Sharing_18,Binu Thomas Philip,,2021-03-09T12:59:00.167Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,satyads/anova-tukey-chi-square-bonferroni-pearson-lasso,ANOVA(Tukey)+Chi-Square(Bonferroni)+Pearson+LASSO,Satya Pattnaik,,2021-04-28T10:30:16.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,jeongwonkim10516/bike-sharing-demand,Bike Sharing Demand,Kingthegarden,,2020-12-04T10:46:51.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,kareem3egm/bike-sharing-demand-competition-solutions,Bike Sharing Demand Competition Solutions ,Karim Negm,,2020-09-05T22:25:06.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,nandobr/python-machine-learning-hands-on,Python Machine Learning hands-on  ,Fernando Melo,,2018-10-06T00:15:26.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],7,bike-sharing-demand
+,,,,,0,shenyao514/bike-sharing-demand,Bike Sharing Demand,shenyao514,,2022-06-26T05:33:09.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,bernabas/eda-random-forest-model-bike-sharing-demand,EDA & Random Forest Model - Bike Sharing Demand,Berna Basar,,2022-03-05T03:18:46.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,xxinruyang/bike-sharing-demand-prediction,Bike Sharing Demand Prediction,xxinru yang,,2021-10-25T05:41:31.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,hazemhosny/bike-sharing-demand,Bike Sharing Demand,Hazem Hosny,,2021-08-19T22:01:58.95Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,nitinchoudhary012/bike-sharing-demand,Bike_Sharing_Demand,Nitin Choudhary,,2021-06-08T10:14:03.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,ishantkukreti/eda-model-selection,EdA +Model Selection ,ishant ,,2021-01-26T05:47:19.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,homayoonkhadivi/pca-techniques-xgboost-for-improving-the-bike,PCA Techniques& XGBoost for improving the Bike,Homayoon khadivi,,2020-12-08T07:04:41.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,homayoonkhadivi/xgboost-model-for-bike-prediction,xgboost model for Bike Prediction,Homayoon khadivi,,2020-12-06T16:32:28.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,kk0105/bike-sharing-demand-top1,Bike Sharing Demand ➡ Top1%,Kai Chen,,2020-04-23T04:20:33.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,abhikjha/fastai-pytorch-hooks-random-forest,Fastai - Pytorch Hooks - Random Forest,Abhik Jha,,2019-08-04T08:08:31.52Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,delimixx/beginner-second-analytics-eda-gbr,Beginner Second Analytics ( EDA + GBR ),YOON,,2019-11-13T01:25:57.24Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,evaristoc/once-upon-an-time-a-fish,Once upon a time a fish...,ec-ccs,,2015-04-10T21:44:55.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],6,bike-sharing-demand
+,,,,,0,juyoungwang/tensorflow-deepar-implementation,Tensorflow DeepAR implementation,JuyoungWang,,2022-06-25T00:31:45.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,enesavci16/bike-sharing-demand-with-ann,🚴Bike Sharing Demand with ANN🚵🏻👍,Enes Avci,,2022-05-25T06:23:59.417Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,sondosomar/bike-sharing-team,Bike sharing team ,Sondos Omar,,2021-09-18T13:17:39.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,werooring/ch6-modeling,[ch6] Modeling,Baek Kyun Shin,,2022-03-04T07:34:33.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,kowshirbitto/ml-eda-feature-engineering-models-grid-search,"ML( EDA, Feature Engineering, Models, Grid Search)",Abu Kowshir Bitto,,2021-09-02T17:21:41.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,habibahafez/bike-sharing,bike sharing,habiba hafez,,2021-08-19T04:20:03.977Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,dogdriip/bike-sharing-demand,Bike Sharing Demand 선형/트리 기반 회귀 (파이썬 머신러닝 완벽 가이드),Dogdriip,,2021-01-07T03:26:15.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,yaminiharikrishnan/bike-sharing-demand,Bike_Sharing_Demand,Yamini Harikrishnan,,2020-12-22T17:36:06.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,prasadpatil99/low-code-automl-tutorial,Low Code AutoML Tutorial,Prasad Patil,,2020-09-02T09:58:24.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,johnryu/bike-and-idea-sharing-for-beginner,bike and idea sharing for beginner,soonjohn ryu,,2020-08-03T14:55:56.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,rithikb24/bike-gang,bike gang,Rithik Bhandari,,2020-07-10T14:29:52.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,michalwiese/neural-network-bikes,Neural_network_Bikes,Michal Wiese,,2020-03-21T21:32:06.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,mwakuna/noob-forecast-of-bicycle-demand-in-korean,noob Forecast of bicycle demand (in Korean) ,MwaKuNa,,2020-02-11T09:34:38.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,cuijamm/bike-sharing-demand-starter-code-score-0-37235,Bike Sharing Demand Starter Code (Score : 0.37235),Jamm,,2019-09-25T08:43:36.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,drcapa/bike-sharing-regressor,Bike_Sharing_Regressor,DrCapa,,2020-12-05T09:34:26.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,kwonyoung234/practice-bike-sharing-demand,Practice_Bike Sharing Demand,Jerry Kwon,,2018-11-25T11:40:59.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],5,bike-sharing-demand
+,,,,,0,skogart/bike-sharing-demand,Bike Sharing Demand,Skog-art,,2022-07-01T08:47:35.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,mahtabezzati/bike-sharing-demand-random-forest,Bike Sharing Demand - random forest,Mahtab Ezzati,,2022-05-25T19:55:41.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,bostongoblin/0523bikesharingdeamand,0523BikeSharingDeamand,Boston_Goblin,,2022-05-23T13:17:57.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,mollyxyx/bike-sharing-demand,Bike Sharing Demand,MollyXYX,,2022-07-06T13:43:00.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,mindingkang97/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),MinDingKang97,,2021-12-02T08:51:39.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,danaqueen/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),DanaQueen,,2021-11-30T16:49:41.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,werooring/ch6-baseline,[ch6] Baseline,Baek Kyun Shin,,2022-03-04T07:13:52.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,amitchowdhury2475/bike-sharing-demand, Bike_Sharing_Demand,Amit chowdhury2475,,2021-09-02T17:20:53.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,sumaiya66/bike-sharing-sumaiya,Bike-sharing-Sumaiya,Sumaiya66,,2021-09-01T17:19:35.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,sarahesham/bike-sharing-demand,Bike Sharing Demand,Sara Hesham,,2021-08-16T10:33:59.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,hebawaelr/final-bike-sharing-demand,Final Bike Sharing Demand,Heba Wael.R,,2021-08-16T17:29:02.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,hitesh13/bike-sharing-random-forest-0-42830,Bike sharing Random forest : 0.42830,Hitesh Humane,,2021-07-06T19:10:12.91Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,spammama/bike-sharing-aaron-yi-mun,"Bike_Sharing (Aaron, Yi Mun)",Spam Mama,,2021-03-09T15:41:52.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,ramasalahat/eda-linear-regression-ridge-k-nn-decision-tree,"EDA, Linear Regression, Ridge, K-nn, Decision tree",Rama Salahat,,2020-12-09T20:21:53.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,adielsa/bike-sharing-prediction-score,Bike Sharing Prediction Score ,adiel,,2020-12-22T21:46:20.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,vignesh1609/bike-sharing-eda-model-building,Bike_Sharing EDA + Model Building,Vignesh Gopalakrishnan,,2020-06-13T15:14:07.08Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,vedbharti/bike-sharing,Bike Sharing,Ved,,2020-01-10T14:16:04.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,seunghyunlee96/bike-sharing-demand,Bike Sharing Demand,Seung Hyun Lee,,2021-01-06T16:07:54.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,hyunnie94/bike-sharing-demand-data-visualizing-mls,Bike sharing demand data visualizing & MLs,hyunnie94,,2019-12-07T18:44:11.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,qooqoo/bike-with-randomforestregressor,Bike with RandomForestRegressor,Jinfang Zuo,,2019-04-02T14:41:53.59Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,kyerim/my-bike-sharing-demand,MY BIKE SHARING DEMAND,moonctp,,2018-11-25T10:21:24.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,dellimxx/eda-visualization-data-regression-model,EDA+Visualization Data+Regression Model,Seok Jun,,2018-03-09T16:33:33.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,liuzhui/bike-demand,bike demand,pre_give,,2018-02-26T10:54:10.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,quantumdamage/bike-sharing-demand,Bike Sharing Demand,QuantumDamage,,2017-01-17T19:19:39.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],4,bike-sharing-demand
+,,,,,0,gaocangjun/bike-sharing-demand,Bike Sharing Demand,gaocangjun,,2022-07-04T10:48:12.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,mfakouri/eda-bikesharingdemand,EDA_BikeSharingDemand,Mehdi Fakouri,,2022-06-28T17:18:20.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,mfakouri/predictionmodel-bikesharingdemand,PredictionModel_BikeSharingDemand,Mehdi Fakouri,,2022-06-28T17:55:57.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,jeonghojae/py-t2-6-bike-sharing-demand-regression,[py]T2-6. Bike-sharing-demand (Regression),Jeong Hojae,,2021-11-28T08:23:07.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,hyojungshin/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),HyoJung Shin,,2021-11-27T01:30:40.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,mynamesp/prediction-with-multiple-models-demo,Prediction with multiple models demo ,Jane Liu,,2022-02-05T01:08:12.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,seolryeongan/bike-sharing-demand-practice,bike sharing demand practice,Seolryeong An,,2021-10-17T12:03:36.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,ibrahimyassen17/final-version-notebook-bike-sharing-catboost,Final Version Notebook Bike Sharing - catboost,Ibrahim yassen,,2021-09-24T11:06:19.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,pro1amr/bike-sharing,bike_Sharing,Amr.Eid.Abdelgawad,,2021-08-13T00:05:20.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,sidagar/tutorial-with-bike-sharing-demand,Tutorial with Bike Sharing Demand,Sidhant Agarwal,,2021-05-02T18:13:04.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,jackharding/bike-sharing-eda-random-forest,Bike Sharing EDA & Random Forest 🌳,Jack Harding,,2021-01-30T08:49:01.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,mohamadabouelela/bike-sharing-demand-beginner,🚴 Bike Sharing Demand - Beginner 🚴,Mohamed AbouElela,,2020-09-16T06:45:29.753Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,mindalatseoul/bike-sharing-demand-eda-modeling,Bike Sharing Demand - EDA & Modeling,LEEJUNSEONG,,2020-08-19T13:02:30.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,kumaran1992/bike-share-predictions-beginner,Bike_Share__Predictions_beginner,kumaran1992,,2020-08-02T14:49:11.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,maksimbahdanchyk/simple-bike-solution-43,Simple Bike Solution  ~.43,Maksim Bahdanchyk,,2020-06-23T12:41:36.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,cloudysky/ms-forecast-bike-sharing-demand,MS - Forecast Bike Sharing Demand,Manuela Sick,,2019-12-20T06:53:39.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,rajspd/simple-implementation-votingandstacking-0-387,Simple_Implementation_VotingAndStacking - 0.387,Raj,,2019-11-19T11:34:12.87Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,rotemshalev/bike-sharing-challenge,Bike sharing challenge,Rotem Shalev,,2019-05-22T13:48:52.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,yairhadad1/bike-sharing-predict,Bike sharing predict,Yair Hadad,,2019-05-31T21:23:16.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,fkstepz/step-by-step-predict-bike-sharing-demand,Step by Step Predict Bike Sharing Demand ,Jaesung Song,,2018-07-04T16:10:37.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,hemanths01/bike-share,Bike_Share,Hemanth,,2017-08-07T06:38:53.463Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,rameshkumarak/predict-bike-sharing-demand-using-boosting-pca,Predict Bike Sharing Demand using Boosting & PCA,Ramesh Kumar A,,2017-04-21T08:21:57.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,tianji/bike-rental-predictions-using-lr-rf-gbr,"Bike rental predictions using LR, RF, GBR",ZYZ,,2017-03-31T12:17:21.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,shoubusi/notebooka69580b030,GradientBoostingRegressor,shoubusi,,2016-11-23T06:30:30.723Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,triskelion/testing-seaborn,Testing seaborn,Triskelion,,2015-04-27T06:42:20.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],3,bike-sharing-demand
+,,,,,0,circlingb/bike-sharing-demand-randomforest-ver,Bike Sharing Demand -- RandomForest ver.,Circling_B,,2022-07-02T05:56:36.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,qichenxing/bike-sharing-demand-qcx,Bike Sharing Demand-qcx,Qichenxing,,2022-07-02T03:09:17.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,kefahaied/kefah-notebook-v1,kefah-notebook-v1,Kefah Albashityalshaer,,2021-12-21T16:43:09.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,arjunharidaspallath/bike-prediction-ridgeregression-with-polynomial,Bike prediction: RidgeRegression with Polynomial,Arjun Haridas Pallath,,2021-10-15T11:34:30.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,ibnmohey/some-models-tries,Some Models Tries,Abd elrhman Mohey(ibnmohey ),,2021-09-18T12:16:31.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,anikamim/bike-sharing-demand,Bike Sharing demand,Anika Tabassum,,2021-09-03T10:52:03.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,arminar/bike-sharing-demand-prediction,Bike_Sharing_Demand_Prediction,Ashikur Rahaman,,2021-09-03T08:47:40.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,prantapaul181352448/bike-sharing,Bike sharing,Pranta Paul,,2021-09-02T15:14:06.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,mdazharulislam/bike-sharing-logis-regress-stochasgd-rdge-lasso,Bike_Sharing_Logis_Regress_StochasGD__Rdge_Lasso,Md. Azharul Islam,,2021-09-02T11:15:15.33Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,ahmedmabdelghani/bike-sharing-demand,bike sharing demand,Ahmed Mohammed Abd-ElGhani,,2021-08-20T12:21:49.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,wssamhassan/bike-sharing-demand,Bike Sharing Demand,Wssam Hassan Ibrahim,,2021-11-09T10:01:46.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,azizmousa/notebook0456c78a57,notebook0456c78a57,Abdel-Aziz Gamal,,2021-08-15T02:02:07.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,mostafaemam0/bike-sharing-randomforrest,Bike Sharing-RandomForrest,Mostafa Alemam,,2021-08-13T19:09:30.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,chananna/bikesharingdemand-fin,Bikesharingdemand Fin,chananna,,2020-12-28T07:27:10.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,abdullapathan/base-version,Base Version,ABDULLA PATHAN,,2020-11-20T19:52:47.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,mayurgupta47/bike-rental-prediction-xgboost,Bike Rental Prediction - XGBoost,Mayur Gupta,,2021-10-19T07:32:14.31Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,vishleshgodani/bike-sharing-demand,Bike-Sharing-Demand,Vishlesh Godhani,,2020-08-11T15:54:36.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,sidagar/well-commented-code-using-random-forest,Well commented code using random forest,Sidhant Agarwal,,2020-07-29T12:55:02.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,munmun2004/bike-sharing-demand,[Bike Sharing Demand] 자전거 수요 예측 데이터 분석 ,munmun2004,,2020-05-15T06:51:20.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,smritisingh1997/bike-sharing,Bike Sharing,Smriti ,,2020-07-16T14:53:34.327Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,shinbg/bike-demand-easy-to-predict-use-randomforest,Bike Demand Easy to predict use randomforest,ShinBG,,2020-03-29T13:47:59.987Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,nurilee37/bicycle,bicycle,nurilee,,2020-01-18T04:12:01.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,gguddu/bike-sharing-demand,Bike Sharing Demand (한쿡인),Park ChanHyuk,,2020-02-08T04:06:08.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,adage14175/bike-notebook,bike notebook,Shrihari Naik,,2019-12-23T12:47:18.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,raddadda/2016603042,2016603042 최영찬 빅데이터,2016603042최영찬,,2019-12-09T12:46:15.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,yjdlucas/my-bike-sharing-demand,MY BIKE SHARING DEMAND,YJDLucas,,2019-11-28T12:47:42.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,eduardooo/bike-renting-regression,Bike renting regression,Akerfeldt,,2019-11-27T10:26:07.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,fgajlog/iesb-dm-e-ml-2-bike-demand-competition,IESB - DM e ML 2 - Bike Demand Competition,Francisco Gondim,,2019-11-14T00:39:24.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,seahur/bicycle-attempt,bicycle attempt,seahur,,2019-10-05T03:44:14.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,liyapranay/eda-to-forecasting-keeping-it-simple,EDA to Forecasting keeping it Simple !,Pranay Liya,,2019-09-10T11:56:40.27Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,maryaam/bikesharing-demand-data-preparation-using-plotly,Bikesharing Demand Data Preparation using plotly,Maryam Marzban,,2019-07-20T06:48:45.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,niteshiitr/bike-rental-prediction,Bike rental prediction ,Nitesh Chandnani,,2019-03-14T09:46:17.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,mvsandilya/bike-share-feature-selectn-engg-knn-rf-dt-adaboost,"Bike-share-Feature selectn/engg,KNN,RF,DT+adaboost",SANDY,,2018-07-17T10:10:49.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,shivani1711/top-10-percentile-xgboost,Top 10 percentile ,Shivani,,2018-05-04T12:31:29.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,andreeasandu/part-1-bike-sharing-dataset-statistics,Part 1 - Bike sharing dataset statistics,AndreeaSandu,,2018-04-10T17:29:07.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,valeriyparubets/sklearn-gbr-0-413,sklearn GBR (0.413),Valeriy Parubets,,2018-02-26T07:11:51.74Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,miteshyadav/predicting-bicycle-usage-count-using-rfregressor,Predicting bicycle usage count using RFRegressor,Mitesh Yadav,,2017-10-22T16:27:01.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,monsterspy/eda-xgboost,EDA + xgBoost,Arjun,,2017-09-04T09:25:41.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,yanbixing/eda-ensemble-model-top-10-percentile-forked,EDA & Ensemble Model (Top 10 Percentile) _forked,Yan Bixing,,2017-05-24T09:29:37.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,jkaturi/visualizing-washington-dc-bikeshare-data,Visualizing Washington DC bikeshare data ,Jaideep Katuri,,2017-03-23T11:55:21.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,bsukkala/notebook43b09b2f3e,Notebook43b09b2f3e,Bhargava Sukkala,,2017-04-01T08:04:22.537Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,prashanth1990/preliminary-exploration,preliminary_exploration,Prashanth90,,2016-01-31T23:47:08.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,triskelion/average-monthly-rental-counts,Average Daily Rental Counts by Month,Triskelion,,2015-04-11T15:47:17.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,benhamner/temperature-distribution-in-dc,Temperature Distribution in DC,Ben Hamner,,2015-04-09T17:55:01.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],2,bike-sharing-demand
+,,,,,0,circlingb/bike-sharing-demand-ann-ver,Bike Sharing Demand--ANN ver,Circling_B,,2022-07-02T03:52:44.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,rsesha/bike-sharing-score-0-416-in-10-lines,Bike_Sharing_Score_0.416_in_10_lines,RSESHA,,2022-07-01T00:55:22.9Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,wjr666/bike-sharing-demand,嗨嗨嗨 bike sharing demand,wjr666,,2022-06-30T15:00:26.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,manhhungchu/eda-of-bike-sharing-dataset,EDA of bike sharing dataset,Manh Hung Chu,,2022-06-25T15:31:43.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,shuledelizi/shuledelizi,shuledelizi,shuledelizi,,2022-06-16T10:34:14.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,heesukim123/2206-bikesharing,2206_BikeSharing,Heesu Kim,,2022-06-14T07:16:14.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,tingjiaxu/bike-sharing-demand-with-lgbm,Bike Sharing Demand With LGBM,tingjia xu,,2022-05-30T07:02:14.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,jayahn0104/tutorial-multi-output-regression-skorch-tune,"Tutorial:Multi-Output Regression (skorch, tune)",Jay Ahn,,2022-05-16T06:02:30.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,goyofrommind/bike-sharing-practice,bike_sharing_practice,goyofrommind,,2022-05-09T05:55:57.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,rpeer333/bike-demand-prediction-with-catboost-and-autogluon,Bike demand prediction with CatBoost and Autogluon,Raphael Peer,,2022-06-12T09:18:35.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,henriqueweber/bike-sharing-demand,Bike Sharing Demand,Henrique Weber,,2022-01-20T02:17:11.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,ranjii/day2-task1-notebook,Day2_Task1_notebook,sudo_ranjith,,2022-01-06T05:56:43.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,seholeee/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),seholeee,,2021-11-29T07:40:51.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,jogejung/py-t2-6-bike-sharing-demand-regression-2-joge,[py]T2-6. Bike-sharing-demand (Regression)_2[joge],jogejung,,2021-11-28T14:33:10.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,jeonginah/t2-6-bike-sharing-demand,T2-6 Bike-sharing-demand,JJEONG,,2021-11-26T15:07:59.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,moonssong/py-t2-6-bike-sharing-demand-regression,[py]T2-6. Bike-sharing-demand (Regression),cychoi,,2021-11-26T11:13:07.17Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,werooring/ch6-notebook,[ch6] Notebook,Baek Kyun Shin,,2022-02-16T06:59:33.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,yongwookkimkor/samplesubmission11135,sampleSubmission11135,Yongwook Kim_Kor,,2021-12-26T09:52:30.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,yoshihiroim/bike-sharing-demand-practice,bike sharing demand practice,yoshihiro Im,,2021-11-17T08:56:58.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,kimjinyeon/211028-class03-bike-up,211028_class03_bike_up,KimJinYeon,,2021-10-28T06:34:59.173Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,kimjinyeon/notebookeb20a21193,notebookeb20a21193,KimJinYeon,,2021-10-28T06:15:55.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mimrahman/bike-sharing-lasso-sgd-lr-rdge-2292, Bike_Sharing_Lasso_SGD_LR_Rdge_2292,Mim Rahman,,2021-09-02T11:53:37.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,hasnurjahan181352297/bike-sharing-using-pipeline,Bike sharing using pipeline,Hasnur Jahan 181-35-2297,,2021-09-02T09:28:04.323Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,saimaaakhan/sharing-bike,Sharing_Bike,Saima Khan,,2021-09-02T05:55:09.06Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mhnaeem/bike-sharing,Bike-sharing,MH Naeem,,2021-09-03T06:24:05.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mahmoudabdelmohsen/bikerentals,bikeRentals,Mahmoud Abdelmohsen,,2021-09-07T12:00:16.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,sondosmohmed/sondos-bike-sharing,sondos bike sharing,sondos mohmed,,2021-08-31T10:27:33.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mohamedsebaie/bike-notebook-kaggle-23-8-2021-0-38,BIKE_NoteBook_Kaggle_23-8-2021-0.38,Mohamed Sebaie,,2021-08-23T16:35:06.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,amrkasem/bikes-final,bikes_final,Amr Kasem,,2021-08-20T19:14:55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,rajivmeena/bike-sharing-kaggle-project,Bike sharing kaggle project,Rajiv Meena,,2022-05-25T12:02:31.277Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mohamedmostafa335/bike-sharing-demand, Bike Sharing Demand,Mohamed Mostafa,,2021-08-13T22:04:58.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mohamedsalah5369/assingnment,assingnment,Mohamed Salah-el-den,,2021-08-05T18:14:10.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,fadyelkbeer/fork-of-notebook6cc54d85ab,Fork of notebook6cc54d85ab,Fady Yousry,,2021-07-22T13:26:24.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,teddylee777/01-initial-commit-bike-sharing,01-initial-commit-bike-sharing,Teddy Lee,,2021-07-16T12:01:27.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,songyi0707/notebookbc2b6d4f1a,notebookbc2b6d4f1a,Yi Song,,2021-07-10T16:20:19.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,apoorvsingh090/bike-sharing-demand-score-0-47079,Bike Sharing Demand Score 0.47079,Apoorv Singh,,2021-07-04T12:21:24.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,himahima/eda-for-bike-sharing,EDA for Bike Sharing,Ibrahim Heshmat,,2021-06-30T23:42:51.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,hynsh96/bike-sharing-demand,bike_sharing_demand,SangHoon Hyeon,,2021-06-01T09:32:49.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,smita09/count-of-bikes-rented,Count_of_Bikes_rented,Smita Singh,,2021-05-29T19:19:38.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,prithviraj7387/bike-demand-sharing-eda,bike-demand-sharing-eda,Prithviraj,,2021-05-26T10:08:53.36Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,letmewin97/ensemble-methods-over-view-0-08-mse,Ensemble Methods Over View [0.08 MSE],Roman Garayev,,2020-12-26T22:15:51.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,qudgns/note-book-first-for-bikesharing,데린이_note_book_first_for_bikesharing,qudgns147,,2020-12-24T02:11:04.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,abdullapathan/bike-sharing-demand-version-1,BIKE SHARING DEMAND - Version 1,ABDULLA PATHAN,,2020-11-22T17:16:49.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,divya00/team-pa,Team_PA,Divya Bamel,,2020-11-23T08:37:28.547Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,abdullapathan/bike-sharing-demand-version-2-0,BIKE SHARING DEMAND - Version 2.0 ,ABDULLA PATHAN,,2020-11-20T18:28:08.447Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,erengugu/bike-rent-visualization-eda,Bike Rent - Visualization & EDA,eren gugu,,2020-10-09T22:30:50.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,dianaamiri/eda-for-bikesharing,EDA for bikesharing,Diana Amiri,,2020-08-28T05:24:03.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,thkim072/bike-sharing-demand,Bike Sharing Demand,thkim072,,2020-08-31T07:12:39.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,benai9916/stacking-lr-knn-svr-dt-rf-lgbm-xgbr,"Stacking - LR, KNN, SVR, DT, RF, LGBM, XGBR",Benai,,2020-08-25T00:09:26.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,jinjaelee/bike-sharing-project-1,bike-sharing-project#1,jinjae,,2020-07-09T10:26:11.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,shakirovagulnaz/bike-sharing,Bike Sharing,Shakirova Gulnaz,,2020-06-05T09:59:26.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,ysjang0926/simple-eda-v0-1,Simple EDA_v0.1,YoonseoJang,,2020-05-31T14:25:40.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,vijays92/bike-sharing-eda-and-randomforest-hyperparameter,Bike sharing - EDA and RandomForest Hyperparameter,vijays92,,2020-05-28T07:38:48.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,gaurav98/bike-sharing-demand,Bike Sharing Demand,Gaurav Bansal,,2020-04-08T18:07:07.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,shiva948/bike-sharing-systems,Bike sharing systems,Shiva_acharii,,2020-03-23T15:50:51.973Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,winston1214/bike-sharing-third-kaggle,Bike sharing(Third kaggle),YoungMin Kim,,2020-03-15T15:35:42.777Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,pranavrekhas/bike-sharing-demand,Bike Sharing Demand,pranavrekhas,,2020-02-27T09:51:55.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,choijh9404/day1-bike-demand,Day1_Bike demand,Tommy Choi,,2021-09-29T14:46:31.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,ghh8000/linear-regression,Linear Regression,Mr Gil,,2020-01-29T07:05:24.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,myzhai/bike-sharing-lasso-ridge-elasticnet-adaptivelasso,Bike Sharing_Lasso/Ridge/ElasticNet/AdaptiveLasso,MYZhai,,2020-01-05T15:41:39.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,pedrokb/projetoam,ProjetoAM,Pedro Brant,,2019-12-05T17:50:14.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,flordelais/aula3-random-forest,aula3_random_forest,Lais,,2019-11-21T00:44:52.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,atherx/iesb-aula-02-random-forest,IESB - Aula 02 - Random Forest ,atherx,,2019-11-13T00:45:04.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,atherx/iesb-aula-01-arvore-decisao,IESB - Aula 01 - Arvore Decisao,atherx,,2019-11-06T01:12:59.293Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,cihanbarut/keep-it-simple,Keep it simple,Cihan Barut,,2019-10-20T18:37:38.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,jiyoonkim/third,third,rlawldbs,,2019-10-07T16:07:26.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,obrunet/bike-sharing-demand,bike_sharing_demand,OBrunet,,2019-08-28T16:08:17.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,sjun4530/bike-sharing-demand-final,Bike_sharing_demand_final,SeokJun Kim,,2019-08-15T13:36:38.88Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,pandiyarajan/predicting-bike-sharing-demand, Predicting Bike Sharing Demand,Pandiyarajan A,,2019-09-23T16:13:45.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,minarabbit/regression-bike-sharing-demand,Regression - Bike Sharing Demand,Min A Song,,2019-06-11T07:01:35.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,fadiatia/machinelearning,machinelearning,Fadi Atia,,2019-06-06T08:28:16.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,dpamgautam/bike-sharing-regression-eda,Bike Sharing || Regression || EDA,Deepam Gautam,,2019-05-31T22:05:43.883Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,suvinlee/bike-sharing-demand-note, Bike Sharing Demand_Note,suvin,,2020-10-08T00:41:10.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,thdgusdl123/kernel442c80b898,kernel442c80b898,song hyeon,,2019-05-16T04:33:38.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,aakasharora7/bike-sharing-demand-random-forest-regressor,Bike Sharing Demand - Random Forest Regressor,Aakash Arora,,2019-04-24T15:03:12.49Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,tangyubin/kaggle-bike-linear,kaggle_bike_linear,John Tobin,,2019-02-14T15:08:12.117Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mitulshah97/bike-pricing,Bike Pricing,Mitul Shah,,2018-12-16T08:42:41.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,preecee/bike-sharing-eda-and-ensemble-modelling,Bike Sharing:EDA and Ensemble Modelling,Preeti Chauhan,,2018-12-10T16:11:19.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,rhkdtjqql/bike-demand-eda,bike demand eda,SSub90,,2018-11-18T06:32:37.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,werikrafael/iesb-python-e-pandas-aula-01-3b5a93,IESB - Python e Pandas - Aula 01 3b5a93,Werik Rafael,,2018-10-23T00:53:29.553Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,vivekray30/kernel5bd8a15df8,kernel5bd8a15df8,Vivek ,,2018-07-17T10:25:16.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,ayush01/visualisation-of-bike-sharing-demand,Visualisation of Bike Sharing Demand,Ayush Gupta,,2017-12-29T18:09:24.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,prakashram/fork-of-notebook6af735cddb,Fork of Notebook6af735cddb,RAM PRAKASH S,,2021-09-12T07:31:07.15Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,moonpray/base-script-and-grid-parameter,Base Script and Grid Parameter,Moonpray,,2017-08-31T13:45:52.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,zinkaggle/bike-sharing-demand-prediction-linear-regression,Bike Sharing Demand prediction [linear regression],Cooper,,2017-08-09T03:52:10.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,hhlkaggle/eda-ensemble-model-top-10-percentile,EDA & Ensemble Model (Top 10 Percentile) ,hhlkaggle,,2017-05-01T10:47:02.303Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,pypuppy/liu-bike-prediction,Liu-Bike-Prediction,Qiaowei Liu,,2017-04-27T02:44:35.16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,cwd251/exploratory-data-analysis-on-bike-sharing-dataset,Exploratory Data Analysis On Bike Sharing Dataset,CharlD,,2017-02-14T15:12:02.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,vsmolyakov/bike-demand,Bike Demand,vsmolyakov,,2016-12-04T21:29:31.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,joshtwilde/bike-explore,bike_explore,JoshWilde,,2016-11-09T22:34:52.897Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,adelv88/exploratoryanalysis,exploratoryAnalysis,AgniDelvinioti,,2015-10-25T03:54:21.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,mattgenkin/exploring-dataset,Exploring Dataset,Matvey Genkin,,2015-05-21T20:54:02.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,rdodds/check-adherence-to-benford-s-law,Check adherence to Benford's Law,rdodds,,2015-05-10T09:40:23.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,benhamner/fiddling-with-python,Fiddling With Python,Ben Hamner,,2015-04-11T00:50:51.253Z,,False,,False,False,False,False,False,False,False,[],[],[],[],1,bike-sharing-demand
+,,,,,0,haleyj/220615-bike-share-demand-notebook5da2fa3f3a,220615_bike_share_demand_notebook5da2fa3f3a,Haley Jeong,,2022-06-15T08:23:40.83Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yeazhou/dm-2022spring-final,dm_2022spring_final,LEAEF,,2022-07-01T08:46:04.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,xiaoqin0421/bike-sharing-demand,Bike Sharing Demand,xiaoqin0421,,2022-05-26T13:48:15.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kyuhwanjung2/bikesharing0513,bikesharing0513,Kyuhwan Yohann Jung,,2022-05-15T10:17:32.357Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yamyam7/notebookba9a9bf747,notebookba9a9bf747,yskim,,2021-11-27T14:32:47.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yenaaa/t2-6-bike-sharing-demand-regression-yenaaa,T2-6. Bike-sharing-demand (Regression)_yenaaa,Yenaaa,,2021-11-26T15:59:32.907Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,blighpark/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),Bligh Park,,2021-11-26T14:42:40.453Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,bangjaein/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),BangJaeIn,,2021-11-26T14:53:28.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yongjoonchang/py-t2-6-bike-sharing-demand-regression,[py]T2-6. Bike-sharing-demand (Regression),YongJoonChang,,2021-11-26T15:01:20.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,wltjd54/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),DPark,,2021-11-26T08:03:58.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lydiaryu/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),LYDIA RYU,,2021-11-26T02:42:20.017Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,heokw815/t2-6-bike-sharing-demand-regression-kh,T2-6. Bike-sharing-demand (Regression)_KH,KH Heo,,2021-11-26T03:14:50.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,henjoyy/t2-6-bike-sharing-demand-regression,T2-6. Bike-sharing-demand (Regression),hyeonjong Ha,,2021-11-25T16:54:47.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,therorange/bike-sharing-demand-rf-regressor,Bike Sharing Demand-RF Regressor,the rorange,,2021-11-20T12:14:54.063Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kyuhwanjung2/bikesharingdemand-10-20,BikeSharingDemand-10/20,Kyuhwan Yohann Jung,,2022-03-23T08:36:12.233Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,georgiosyfantidis/bike-demand-exp,Bike_demand_exp,GEORGIOS YFANTIDIS,,2021-10-07T14:13:00.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,wookwook2/bike-sharing-demand-gold,Bike Sharing Demand - Gold 메달 따라하기,WookWook2,,2021-09-15T09:29:03.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jeandreamer/bike-sharing-prediction-mixed-effect-models,Bike sharing prediction mixed effect models,dreamer,,2021-11-03T03:43:45.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sazidnur/bike-sharing-notebook,Bike Sharing Notebook,Sazid Nur Ratul,,2021-09-03T10:02:41.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mdemran312/bike-sharing-using-pipeline-312,Bike Sharing using pipeline 312,Md. Emran 312,,2021-09-02T16:22:22.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shoumanbaruashuvo/bike-sharing-2321,Bike_Sharing_2321,Shouman Barua Shuvo,,2021-09-02T16:00:10.14Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,arpitadaschaity/bikesharingdemand2327,BikeSharingDemand2327,Arpita Das Chaity ,,2021-09-02T13:08:09.877Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mohabsolimaniti/notebook8c8c1384b6,notebook8c8c1384b6,Mohab Soliman Mahmoud,,2021-08-30T14:05:54.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,youssefwagih/bike-sharing-prediction,Bike sharing prediction,Youssef Wagih,,2021-08-30T21:38:12.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahmeddmamdouhhh96/notebooke4bc3e8faf,notebooke4bc3e8faf,Ahmed Mamdouh,,2021-09-04T21:05:31.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahmedsh95/notebooke97169b404,notebooke97169b404,AhmedSh95,,2021-08-30T13:58:19.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amr1996/ahmed,Ahmed ,Amr96,,2021-08-30T12:31:15.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,marcosvafg/iesb-cia035-aula-02-arvore-de-decisao,IESB - CIA035 - Aula 02 - Arvore de Decisao,Marcos Vinicius Guimarães,,2021-08-26T00:34:31.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,goudaibrahim1/bikes-final,bikes_final,Gouda Ibrahim,,2021-08-20T21:36:57.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahmedsheriif/bike-demand-share-get-started,Bike Demand Share Get Started,Ahmed Sheriif,,2021-08-20T21:24:15.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahmedhagras/bike-sharing-demand,bike_sharing_demand,Ahmed Abd-Elsattar,,2021-08-19T21:16:32.377Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amr611/bike-count,bike count,Amr Abdelhamed,,2021-08-19T09:23:48.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mohamedkamalali/bike-sharing-demand,bike sharing Demand,mohamed kamal ali,,2021-08-19T02:28:49.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mahmoudtaha3/notebookc36af73dbf,notebookc36af73dbf,Mahmoud Taha,,2021-08-19T01:25:15.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mohammadjhanafy/bike-sharing-prediction,Bike Sharing Prediction,Mohammad Hanafy,,2021-08-18T20:22:44.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mohamedalkasaby/b-s-d-solution,B.S.D.solution,Mohamed El-Kasaby,,2021-08-17T22:40:32.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mohammedabdulnaser/bike-sharing-mo,Bike Sharing | Mo,Mohammed Abdulnaser,,2021-08-16T12:32:35.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahmedmagdy96/bike-sharing-demand,bike_sharing_demand,Ahmed Magdy,,2021-08-13T14:05:54.53Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,suhaibalihassan/bike-sharing-demand,Bike Sharing Demand,Suhaib Ali Hassan,,2021-08-12T13:06:04.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amiramosa99/bike-share-demand-1st-draft,Bike-share-demand 1st draft,Amira Mosa99,,2021-08-19T22:07:10.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahmedabuaba/bike-sharing-demand,Bike Sharing Demand,Ahmed Abuaba,,2021-08-08T18:15:14.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,stephanieholanda/unb-gpp-lab1-python-pandas-exercicio,UnB_GPP_Lab1_Python_Pandas_Exercicio,Stephanie Holanda,,2021-08-03T16:47:23.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,harrycheng5/bike-sharing-analytics,Bike Sharing Analytics,Harry Cheng,,2021-08-04T08:10:35.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rushikeshdarge/bike-sharing-demand-hyperparameter-v2,Bike sharing demand Hyperparameter v2,Rushikesh Darge,,2021-07-05T13:10:03.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shahrukh0603/bike-sharing,bike sharing,Shahrukh,,2021-07-01T19:51:07.737Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,katyakubyshka/rgr-bikes,RGR_bikes,Katya Kubyshka,,2021-05-31T18:21:02.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,tatianakovalenko/xgbregressor,XGBRegressor,Tatiana Kovalenko,,2021-06-30T18:27:30.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shalkumari30/bike-sharing-demand,Bike Sharing Demand,Shalini Kumari,,2021-05-25T18:36:31.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,keiintokyo/decisiontree-0421,decisionTree_0421,Kei L,,2021-04-21T05:45:33.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,keiintokyo/ramdomforestregressor-0421,RamdomForestRegressor_0421,Kei L,,2021-04-21T05:29:48.613Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,keiintokyo/lr-model-0421,LR_model_0421,Kei L,,2021-04-21T05:25:16.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,akarshan97/bike-rental,Bike rental,Akku,,2021-04-20T07:58:32.383Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hobakjh/bike-sharing-demand2,Bike_Sharing_Demand2,HobakJH,,2021-04-18T07:41:56.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,keiintokyo/firsttry-tree-reg,FirstTry-tree-reg,Kei L,,2021-04-14T08:07:37.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,joshthayne/notebookbb01f78dd2,notebookbb01f78dd2,jdthayne,,2021-04-17T14:20:35.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kyuhwanjung2/bikesharingdemand-basic-week-3,BikeSharingDemand-basic-week-3,Kyuhwan Yohann Jung,,2021-04-20T11:41:18.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,arturszczotarski/bike-rental-lgbm,Bike rental Lgbm,Artur Szczotarski,,2021-04-02T21:25:26.75Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,seojeee/bike-sharing-demand-cheese,bike sharing demand_cheese,Jiyeon Seo,,2021-03-29T01:32:11.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shimheungwoon/bike-sharing-demand,BIKE SHARING DEMAND,Shim Heungwoon,,2021-03-29T08:24:22.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sungchi/bike-sharing-demand,BIKE SHARING DEMAND,SungsubWoo,,2021-03-29T06:56:52.62Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,asttan/tan-astuty-acada-module6,Tan_Astuty_ACADA_Module6,ast.tan,,2021-03-06T09:26:41.823Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sofiacampos/python-e-pandas-exerc-cio,Python e Pandas - Exercício,Sofia Campos,,2021-03-29T12:45:53.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,simoneassis/unb-gpp-lab1-python-pandas-exercicio,UnB_GPP_Lab1_Python_Pandas_Exercicio,SAGA,,2022-02-08T13:17:18.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lc4311/notebook14aecb7d07,notebook14aecb7d07,LeeChengWei,,2021-01-27T04:59:57.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,heonsoo/bike-sharing-demand-prediction-demo,Bike_Sharing_Demand_Prediction_Demo,Aeido,,2020-12-23T00:52:33.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sarthakniwate13/bike-sharing-demand-ml-model,Bike Sharing Demand ML Model,Sarthak Niwate,,2020-12-03T18:44:33.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,viveknimsarkar/visual-analysis-of-shared-bicycle-data,Visual analysis of shared bicycle data,Vivek Nimsarkar,,2020-11-27T13:27:38.733Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,pillipyoun/notebookcb3229d390,notebookcb3229d390,Pillip Youn,,2020-11-26T06:07:42.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mos3santos/bike-sharing-demand,Bike Sharing Demand,Márcio Santos,,2020-11-25T15:31:49.593Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,marcosvafg/iesb-miner-ii-aula-02-arvore-de-decisao,IESB - Miner II - Aula 02 - Arvore de Decisao,Marcos Vinicius Guimarães,,2021-10-29T01:24:11.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,viveknimsarkar/eda-on-shared-bike-demand-case,EDA on Shared Bike Demand Case,Vivek Nimsarkar,,2020-11-27T14:25:56.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,pareekdaksha/notebook,Notebook,Daksha Pareek,,2020-11-22T17:40:41.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sobyoungjun/eda-ensemble-model-top-10-percentile,EDA & Ensemble Model (Top 10 Percentile) ,sobyoungjun,,2020-11-22T16:38:50.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rmramprasad/bike-sharing-analysis,Bike_Sharing_Analysis,rmramprasad,,2020-11-22T17:34:01.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,suraj038/bike-sharing,Bike sharing ,Suraj N,,2020-11-22T09:59:37.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,tosharathshetty/bike-sharing,bike-sharing,Sharath Shetty,,2020-11-22T10:12:19.273Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hyunlee52852/notebook888ab264f1,notebook888ab264f1,hyunlee52852,,2020-11-09T05:28:20.89Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lashamaev/baseline3,baseline3,lashamaev,,2020-10-24T08:49:25.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sonalisingh978/bike-sharing-on-demand-gb-and-rf-rmse-0-3176,Bike Sharing on demand : GB and RF(RMSE: 0.3176),Sonali Singh,,2020-10-20T21:39:52.72Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,satyads/how-not-to-interpret-a-partial-dependence-plot,How(Not) to Interpret a Partial Dependence Plot,Satya Pattnaik,,2020-11-06T22:13:22.283Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shikhar2205/notebook683ef14071,notebook683ef14071,Shikhar Bajpai,,2020-10-02T10:26:01.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jinameliachoi/tutorial-bike-sharing-demand-regression,[Tutorial] Bike Sharing Demand - Regression,Jin Amelia Choi,,2020-09-24T06:18:51.313Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,allanbian/bike-sharing-demand,Bike Sharing Demand,Allan Bian,,2020-09-24T09:55:26.507Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,marcosvafg/iesb-graduacao-cia028-bike-sharing,IESB - Graduacao - CIA028 - Bike Sharing,Marcos Vinicius Guimarães,,2020-09-29T00:57:59.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sehgalsakshi/notebookb2ce508d0c,notebookb2ce508d0c,SehgalSakshi,,2020-09-14T22:14:12.963Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amitsaini/bike-sharing-prediction-using-pca-and-xgboost,Bike Sharing Prediction Using PCA and XGBoost,amitsaini,,2020-09-10T14:34:33.793Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,nguyenhoangtuan/51704119-51704112,51704119-51704112,Nguyen HoangTuan,,2020-09-06T08:32:03.287Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ianhojy/bike-sharing-demand-prediction,Bike Sharing Demand Prediction,Ian Ho,,2020-08-20T16:16:56.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,deepakulkarni1234/bike-sharing-linear-regression,Bike sharing Linear Regression ,Deepa Kulkarni1234,,2020-08-13T13:37:07.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,preejababu/bike-sharing-gradient-boost,Bike Sharing_Gradient Boost,Preeja Babu,,2020-08-05T11:40:09.153Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,preejababu/bike-sharing-demand,Bike Sharing Demand,Preeja Babu,,2020-07-31T10:12:37.63Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,tom727/kernel1cbace2247,kernel1cbace2247,Tom727,,2020-07-17T12:08:38.94Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,daisukeakiyama/kernela689cfc38a,kernela689cfc38a,Daisuke Akiyama,,2020-07-21T09:24:35.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mertfacts/bike-sharing-eda-and-regmodels,Bike Sharing - EDA and RegModels,mertoksuz,,2020-07-04T15:11:23.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hyperbot/groshev-bike-sharing,Groshev_Bike_Sharing,Hyperbot,,2020-06-07T10:09:06.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amirmardanov/kernel7b30b77250,kernel7b30b77250,Amir Mardanov,,2020-06-05T12:37:41.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shakirovagulnaz/bikesharingrandomforest,BikeSharingRandomForest,Shakirova Gulnaz,,2020-06-05T11:07:21.473Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lancengck/learning-journey-2-bike-sharing-demand,Learning Journey 2: Bike Sharing Demand,Lance Ng,,2020-05-25T10:03:24.747Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,niharikaniharika/ensemble-learners,ENSEMBLE LEARNERS,Niharika NIharika,,2020-05-23T07:53:43.373Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,polodolo/lite-bike-ml,Lite bike ml,Polo Dolo,,2020-05-29T16:26:45.163Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aleksandrkolbas/bike-sharing-demand-sgd-n-rand-forest,bike_sharing_demand_sgd_n_rand_forest,Aleksandr Kolbas,,2020-05-18T21:19:15.847Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,bartoszwyporkiewicz/eda-ml-model-0-2888-rmsle-in-validation-set,EDA & ML Model (0.2888 RMSLE in validation set),Bartosz Wyporkiewicz,,2020-04-25T10:16:44.543Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,cr0l3y/bike-sharing-demand,Bike Sharing Demand,willian,,2020-04-06T11:44:58.653Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,neoscrypt/3-about-holiday-after-baseline-ml,3. about_holiday(after baseline_ml),neoscrypt,,2020-04-02T05:22:10.41Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,neoscrypt/2-baseline-ml-after-baseline-eda,2. baseline_ml(after baseline_EDA),neoscrypt,,2020-04-02T04:59:27.76Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,neoscrypt/1-baseline-eda-only-consider-datetime,1.baseline_EDA(only consider datetime),neoscrypt,,2020-04-02T04:53:13.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,neoscrypt/00-holiday-weather-gathering,00.holiday_weather gathering,neoscrypt,,2020-04-02T04:31:52.333Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,bicsuu/bike-sharing-studying-no3,Bike Sharing_STUDYING_NO3,Ken Kim,,2020-03-01T04:28:29.467Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,pawanreddy/bike-sharing-demand-prediction,Bike Sharing Demand Prediction,Pawan Reddy,,2020-04-09T05:24:41.093Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,nilsine11202/bike-prediction-mattias,BIKE_prediction_Mattias,Mattias,,2020-03-04T11:08:36.183Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dchak2020/random-forest-and-xgboost-rmsle-0-26,Random Forest and XGBoost - RMSLE = 0.26,dchak2020,,2020-02-27T14:19:34.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lachhebo/using-automl-library-prophet-to-obtain-predictions,Using AutoML library prophet to obtain predictions,Ismaël Lachheb,,2020-02-27T21:02:47.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sourabhnarkarmsd/bike-sharing,Bike Sharing, Sourabh,,2020-02-18T20:52:09.567Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,alexschwartz/bike-sharing-dmnd-predict-48-score-32rmsle,Bike Sharing Dmnd Predict [.48 SCORE & .32RMSLE],Alex Schwartz,,2020-02-12T15:55:06.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hyeonyeong/time-segmentation-of-bike-sharing-demand-data,Time segmentation of Bike Sharing demand data ,Hyeonyeong Yun,,2020-02-11T06:54:40.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,laurencewilliams/bike-share-demand-prediction,Bike_Share_Demand_Prediction,Laurence Williams,,2020-02-23T16:53:04.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dhanyasabari/bike-sharing-gradient-boost,Bike Sharing_Gradient Boost,Dhanya Sethumadhavan,,2020-02-07T13:23:14.07Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ghh8000/basic-regression,Basic Regression,Mr Gil,,2020-02-08T04:38:49.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,imdevskp/bike-sharing-prediction,Bike Sharing Prediction,Devakumar K. P.,,2020-02-02T14:46:26.5Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dhanyasabari/bike-sharing-demand,Bike Sharing Demand,Dhanya Sethumadhavan,,2020-02-07T13:03:56.307Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shoishi1106/optuna-lightgbm-tuner,optuna_LightGBM_Tuner,sho.ishi1106,,2020-01-25T13:02:53.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,zuzaanto/bike-sharing-demand-vol1,bike-sharing-demand-vol1,zuzaanto,,2020-01-17T15:57:32.583Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,chun1182/bike-shared-xgboost,bike_shared_xgboost,chun,,2020-01-16T13:27:01.647Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,paipitation/kernel96421c0399,kernel96421c0399,palpitation,,2020-04-19T11:08:45.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dionysisvoulgarakis/bike-sharing-top-3-and-above-catboost,BIKE SHARING TOP 3% and ABOVE(catboost),Dionysis Voulgarakis,,2019-12-28T17:54:54.69Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ankursingh12/pytorch-bike-sharing,Pytorch bike sharing,AnkurSingh,,2019-12-28T03:33:37.577Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,micmarty/regression,Regression,Michał Martyniak,,2019-12-18T06:35:12.703Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,micmarty/time-series-approach-with-lstm-in-progress,Time series approach with LSTM (in-progress),Michał Martyniak,,2019-12-15T22:45:17.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,idolaspecus/random-forest,Random Forest,idola specus,,2019-12-05T16:14:59.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,giuliocc/projeto-am,Projeto AM,Giulio Carvalho,,2019-12-05T01:33:59.82Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,gabrieltaranu/bike-sharing-demand-rf-and-gradient-boost,Bike Sharing Demand: RF and Gradient boost,Gabriel Taranu,,2019-11-30T09:56:55.783Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,idolaspecus/submission,submission,idola specus,,2019-11-26T03:41:20.137Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,marcosvafg/iesb-miner-ii-aula-03-random-forest,IESB - Miner II - Aula 03 - Random Forest,Marcos Vinicius Guimarães,,2021-11-11T23:48:16Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rodrigolopes/bike-sharing-ii,Bike Sharing II,Rodrigo Lopes,,2019-11-20T22:38:24.893Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,pereiramarcia/aula2-random-forest,aula2_random_forest,PereiraMarcia,,2019-11-20T22:33:43.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,clperin/cp-iesb-aula-02-arvore-de-decisao,cp - Iesb - Aula 02 - Arvore de Decisao,Perin,,2019-11-13T00:45:06.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,genpychan/kernel345e250a3c,kernel345e250a3c,rakutarou,,2019-10-23T09:43:07.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,onetwojab/bike-sharing-demand-kaggle-practice,Bike Sharing Demand Kaggle practice,onetwojab,,2019-10-07T10:40:45.807Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ejkim0121/bike-sharing,Bike Sharing,Eunjin Kim,,2019-11-09T07:57:37.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kennyinkaggle/bikesharingdemand,BikeSharingDemand,KennyWu,,2019-08-30T03:03:41.533Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ohsaeyoon/bike-s-d-final-version-0-41919-400-450th-grade,Bike S.D(Final Version) - 0.41919(400~450th grade),miedlev,,2019-08-01T17:27:23.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yuping1624/kernel8658d3b2fd,kernel8658d3b2fd,Yu-Ping Tseng,,2019-07-26T14:50:56.39Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sjun4530/bike-sharing-demand-exercise,bike-sharing-demand-exercise,SeokJun Kim,,2020-04-17T13:53:43.903Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,terminate9298/bike-sharing-predictions-top-10-score-0-39,Bike Sharing Predictions[Top 10% Score(0.39)],Kaustubh Pathak,,2019-07-18T06:09:03.557Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sjun4530/bike-sharing-demand,Bike_Sharing_Demand,SeokJun Kim,,2020-04-16T16:18:22.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,arturarczi/bike-sharing-demand,Bike Sharing Demand,Artur Zygadło,,2019-06-22T21:10:24.21Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,xinyouren1995/log-count,log_count,Youren,,2019-06-10T07:47:57.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,xinyouren1995/midterm-for-ppt,midterm for ppt,Youren,,2019-06-09T07:53:45.223Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,partrita/kernel4120302450,kernel4120302450,Joconan,,2019-06-08T00:00:08.857Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ratinkumar/kernel55254c8bee,kernel55254c8bee,DumbMachine,,2019-06-07T04:45:54.757Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yadechi/kernel4c0bcda4c1,kernel4c0bcda4c1,Yannick ADECHI,,2019-06-06T08:21:28.57Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,cheikhmbaye/resumeregressionlineaire,ResumeRegressionLineaire,Cheikh,,2019-06-05T21:25:02.887Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,suvinlee/kernel77d7dbc37e,kernel77d7dbc37e,suvin,,2019-05-29T13:28:53.917Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,preethiravula/kernelbac9a4bb1b,kernelbac9a4bb1b,Preethi,,2019-05-16T12:29:01.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sidiclei/2019-05-07-iesb-miner-ii-aula-04,2019-05-07 - IESB - Miner II - Aula 04,Sidiclei,,2019-09-01T00:33:24.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,wdiego/2019-05-07-iesb-miner-ii-aula-04,2019-05-07 - IESB - Miner II - Aula 04,Wanderson Diego,,2019-05-08T01:14:22.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kyungsupgo/total,Total,Kyungsup Go,,2019-05-09T11:41:33.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hyejinwoo/kernel958612ef1e,kernel958612ef1e,allbraincleaner,,2019-05-15T10:08:19.51Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kyungsupgo/new-software-teamproject,New_software_teamproject,Kyungsup Go,,2019-05-04T03:43:58.437Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,wdiego/iesb-miner-ii-aula-03-random-forest,IESB - Miner II - Aula 03 - Random Forest,Wanderson Diego,,2019-04-30T23:43:03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sidiclei/aula03-ml-2-aluguel-bike-random-forest,Aula03 - ML 2 - Aluguel Bike - Random Forest,Sidiclei,,2019-09-01T00:31:40.73Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sidiclei/aula02-ml-2-aluguel-bike-decision-tree,Aula02 - ML 2 - Aluguel Bike - Decision Tree,Sidiclei,,2019-09-01T00:31:09.143Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rdewes/bike2,bike2,Dewes,,2019-04-23T23:32:49.483Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,codefire52/kernel6f14be36b6,kernel6f14be36b6,Mahardika Krisna Ihsani,,2019-04-21T15:39:36.1Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,marcosfigueiredo/mineii-aula1-bike-1,MineII - Aula1 - Bike_1,Marcos Figueiredo,,2019-04-23T22:30:25.087Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jptavares/bike-sharing-machine-learning-ii,Bike Sharing - Machine Learning II,João Pablo,,2019-04-23T00:18:52.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jorgelamar/iesb-miner-ii-aula-01,IESB - Miner II _ Aula 01,jorge,,2019-04-17T12:54:46.187Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sidiclei/aula01-ml-2-aluguel-bike,Aula01 - ML 2 - Aluguel Bike,Sidiclei,,2019-04-17T01:28:30.527Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aashita/exercise-3,Exercise 3,Aashita Kesarwani,,2019-04-19T18:46:39.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amelnozieres/bike-sharing-demand-rmsle-0-3194,BIKE SHARING DEMAND [ RMSLE:: 0.3194],AmelNozieres,,2019-04-08T14:19:26.037Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,draco67p/kernela527e77e5b,kernela527e77e5b,Jake Park,,2019-04-04T00:06:13.22Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jbeen2/190328-bike-sharing,190328-bike-sharing,222,,2019-03-31T14:11:27.64Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,philipg/random-forest-rmsle-53,Random Forest : RMSLE .53,Philip George,,2019-03-27T14:47:52.38Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amelnozieres/random-forest,Random Forest,AmelNozieres,,2019-03-28T14:54:41.623Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yumamin/kernel24e697f513,kernel24e697f513,yumam,,2019-03-25T11:13:52.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,anushonkar/bike-sharing-demand-with-python,Bike Sharing Demand with python,Anush,,2019-03-22T12:32:04.09Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amelnozieres/eda-and-visualizations-on-bike-rentals,EDA and visualizations on bike rentals,AmelNozieres,,2019-03-26T18:07:40.607Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aman9d/bikesharingdemand-upx,BikeSharingDemand - UPX,Aman Nagariya,,2019-03-11T12:18:01.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,zc944376823/bike-sharing-demand-rmsle-0-3194,BIKE SHARING DEMAND [ RMSLE:: 0.3194],ChiZi,,2019-03-04T10:04:57.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dang7323/kernel9168eaf82b,kernel9168eaf82b,iloveiu,,2019-03-03T07:39:45.237Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,junheo/random-forest-by-jun-bike-sharing-demand,Random Forest by Jun(Bike Sharing Demand),Jun Heo,,2019-02-20T03:05:59.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,tangyubin/kaggle-bike,kaggle_bike,John Tobin,,2019-02-09T11:01:20.107Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,helenshka/eda-and-first-machine-lea,EDA and first machine lea,helene,,2019-02-14T16:32:37.93Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hajekim/for-beginner,데이터 전처리에 집중한 자전거 수요예측하기 (for beginner) ,Haje Kim,,2019-01-24T12:35:52.773Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hajekim/bike-sharing-demand-20190124-ds-school,Bike Sharing Demand 20190124 DS School,Haje Kim,,2019-01-24T13:56:11.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,philipg/multiple-linear-regression-rmsle-1-22,Multiple Linear Regression RMSLE:1.22,Philip George,,2019-01-21T04:22:50.707Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,latafa/logy-n-estimators,logy_n_estimators,latafa,,2018-12-31T10:57:57.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,psevkin/randomforestregressioncount,RandomForestRegressionCount,Vova Psevkin,,2018-12-16T13:43:26.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dbejaranoch/lr-nn-r-forests-xgboosting-and-ensemble-gb,"LR, NN, R. Forests, XGBoosting and Ensemble GB",Daniel Bejarano,,2018-12-01T05:19:24.853Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,a11112/xgbregressor,XGBRegressor,a11112,,2018-12-01T03:22:47.247Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,werikrafael/iesb-python-e-pandas-aula-06,IESB - Python e Pandas - Aula 06,Werik Rafael,,2018-11-26T23:54:29.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,anisio/iesb-python-e-pandas-aula-06,IESB - Python e Pandas - Aula 06,"Anisio ""Annyzzyovit""",,2018-11-26T23:46:56.86Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sungdoo/i-want-to-ride-my-bicycle,i want to ride my bicycle,sungdoo choi,,2018-11-26T07:53:15.637Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,gleicilene304/iesb-python-e-pandas-aula-05-22f949,IESB - Python e Pandas - Aula 05 22f949,Gleicilene,,2018-11-19T23:34:37.25Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,anisio/iesb-python-e-pandas-aula-05-01d396,IESB - Python e Pandas - Aula 05 01d396,"Anisio ""Annyzzyovit""",,2019-02-16T18:19:06.843Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,manoxis/iesb-python-e-pandas-aula-05,IESB - Python e Pandas - Aula 05,Rodrigo Aragão,,2018-11-26T23:52:53.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jbfields/discover-profiles-to-predict,Discover profiles to predict,jbfields,,2018-11-29T16:22:12.297Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rhkdtjqql/bike-demand-rf,bike demand rf,SSub90,,2018-11-18T05:53:11.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,gleicilene304/python-e-pandas-aula-04-967962, Python e Pandas - Aula 04  967962,Gleicilene,,2018-11-12T23:55:46.687Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,manoxis/python-e-pandas-aula-04, Python e Pandas - Aula 04 ,Rodrigo Aragão,,2018-11-20T00:05:45.113Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,werikrafael/iesb-python-e-pandas-aula-02-d2a4e5,IESB - Python e Pandas - Aula 02 d2a4e5,Werik Rafael,,2018-10-30T01:01:39.787Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,frkggm/rf2000-dummy-encoding-plots-periodic-log-t,"RF2000, dummy encoding, plots, periodic, log t",LFR1,,2018-10-23T07:24:09.32Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,frkggm/rf2000-dummy-encoding-no-periodic-log-target,"RF2000, dummy encoding, no periodic, log target",LFR1,,2018-10-09T12:48:00.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mikulskibartosz/poz-randomforest-with-datetime-max-50,[POZ] RandomForest with datetime max 50,Bartosz Mikulski,,2018-10-08T18:24:33.433Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mikulskibartosz/poz-linear-regression,[POZ] Linear regression,Bartosz Mikulski,,2018-10-07T12:09:29.067Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,erickmuzart/machine-learning-brasilia-aula-11,Machine Learning Brasilia - Aula 11,ErickMuzart,,2018-09-29T14:57:41.203Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,cidfelipe/iesb-hands-on-machine-learning-aula-04,IESB - Hands-on Machine Learning - Aula 04,Cid Felipe,,2018-08-28T00:26:24.597Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,juleswang/kernele6b63bb04b,kernele6b63bb04b,Jules,,2018-08-31T09:11:38.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,tomaszcpl/bike-sharing-demand,Bike Sharing Demand,Tomasz Czepiel,,2018-08-18T09:11:38.363Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rchitic17/ten-million-bicycles,ten million bicycles,RalucaChitic,,2018-07-22T18:05:06.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,xhiddu/predicting-bike-demand,predicting bike demand,datascience,,2018-08-04T17:00:41.29Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,satyachaurasia/bike-supply-demand-using-gbr,Bike Supply Demand using GBR,Satya Chaurasia,,2018-06-19T10:25:30.393Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,panpluto/bike-demand-notebook,Bike Demand Notebook,MateuszKonopelski,,2018-06-20T18:31:15.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,satyamkr1729/bike-sharing-demand,Bike Sharing Demand,Satyam,,2018-07-14T12:03:10.05Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kwonsoonkyu/bike-sharing-demand,Bike Sharing Demand,kyukwoneee,,2018-06-03T04:10:10.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,enisbt/cmpe-343-final-project,CMPE 343 Final Project,Enis B. Tuysuz,,2018-06-03T11:16:18.48Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aralnorman/bike-demand-count-converted-into-categorical,"Bike Demand, Count converted into Categorical",Aralnorman,,2018-06-03T13:32:19.627Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jihyeseo/bike-eda-time-series-regress,bike eda time series regress,Jihye Sofia Seo,,2018-05-08T15:39:29.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jayspeidell/visualizing-and-modeling-dc-bikeshare-ridership,Visualizing and Modeling DC Bikeshare Ridership,Jay Speidell,,2018-04-20T03:42:11.517Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ratnesh88/prediction-using-tensor-flow,Prediction using Tensor Flow,Ratnesh Kushwaha,,2018-04-11T11:35:21.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jozeelin/bike-sharing-demand-by-gbm,bike sharing demand by gbm,jozee,,2018-03-29T10:20:08.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,valeriyparubets/bike-sharing-demand-xgboost-sklearn,Bike sharing demand (xgboost+sklearn),Valeriy Parubets,,2018-02-26T08:34:01.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hyunkyung12/kernele62fbf11fd,Kernele62fbf11fd,hyunkyung12,,2018-02-17T05:33:39.403Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ojasagarwal/notebook5114116c22,Notebook5114116c22,OjasAgarwal,,2018-01-30T15:31:52.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,xanthate/bike-sharing-demand,Bike Sharing Demand,xan,,2020-01-23T20:05:45.26Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,akgeni/random-forest-with-seasonal-feaures,Random Forest with Seasonal Feaures,anshu,,2018-01-19T06:53:21.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,prakashram/notebook6af735cddb,Notebook6af735cddb,RAM PRAKASH S,,2017-12-08T09:51:25.033Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,bqlearner/dc-bike-sharing-demand,DC Bike Sharing Demand,bqlearner,,2018-04-21T16:08:56.563Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,srvmaharana/bike-prediction,BIke Prediction,SouravMaharana,,2017-10-29T02:42:25.697Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,utkancandogan/estimating-number-of-bikes,Estimating Number of Bikes,Utkan Candogan,,2017-10-03T04:37:16.77Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jayspeidell/bikeshare-random-forest-first-attempt,"Bikeshare - Random Forest, first attempt",Jay Speidell,,2017-08-29T05:04:49.54Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,artursuchocki/python-solution-on-apache-spark-2-1-full-eda,Python Solution on Apache Spark 2.1. Full EDA. ,sower,,2017-08-19T14:06:41.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,artursuchocki/python-solution-on-apache-spark-full-eda,Python Solution on Apache Spark. Full EDA. ,sower,,2017-08-19T13:58:15.957Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,saivarunk/exploratory-analysis,Exploratory Analysis,Varun Kruthiventi,,2017-09-16T07:36:57.85Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ignacioch/bike-demand-forecast-v1-3,Bike demand forecast  v1.3,Ignacio Chavarria,,2017-08-03T22:02:28.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shwetp/bikesharingrandomforest,Bikesharingrandomforest,Shwet Prakash,,2017-07-17T19:28:48.11Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ramapandey/notebookeaf4671ce9,Notebookeaf4671ce9,Rama,,2017-06-01T18:46:26.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,liujilong/notebookef4c7b05e8,Notebookef4c7b05e8,Liu Jilong,,2017-05-28T02:59:24.103Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rapriyesid/bike-sharing-easy-peezy,Bike Sharing Easy Peezy,NoobSlayer,,2017-05-24T05:39:15.717Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,anshumanvenkatesh/eda-ensemble-model-top-10-percentile,EDA & Ensemble Model (Top 10 Percentile) ,Anshuman Venkatesh,,2017-05-05T06:24:09.133Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,surenders/eda-ensemble-model-giving-41,EDA & Ensemble Model giving .41,Surender Raj,,2017-05-05T05:47:41.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,manjuprakashr/notebookfb1e8a059a,Notebookfb1e8a059a,ManjuPrakash,,2017-04-25T14:45:02.227Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,thefnayou/notebook4289dc2e44,Notebook4289dc2e44,Fnayou,,2017-04-24T08:34:19.873Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,devrohitraj/bike-sharing-using-random-forest,Bike Sharing using Random Forest,Rohit Raj,,2017-04-25T04:56:50.213Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,huangzhuangzhuang/kaggle, Kaggle自行车租赁预测比赛,huangzhuangzhuang,,2017-04-17T07:41:43.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,qweasddd/bike-rental-predictions-using-lr-rf-gbr,"Bike rental predictions using LR, RF, GBR",Maksim Golyadkin,,2017-04-14T20:11:30.387Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,adanfa/notebook87b88672b2,Notebook87b88672b2,amadoudanfa,,2017-04-10T23:43:06.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ryuqae/notebook21f67a91d9,Notebook21f67a91d9,Jeongwoo Ryu,,2017-04-07T03:17:03.073Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,physicyst/notebook22e6d8417d,Notebook22e6d8417d,Kevin Duff,,2017-03-22T16:44:33.42Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,adrianprayoga/ride-sharing,Ride Sharing,Adrian Prayoga,,2017-03-21T16:04:44.027Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kelvin1567/notebookc9ce4af642,Notebookc9ce4af642,Kelvin,,2017-03-20T11:39:20.267Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,chinaweboptimization/notebook2ea76372c7,Notebook2ea76372c7,chinaweboptimization,,2017-03-20T11:31:20.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hnkryden/notebook4ae7c3ab08,Notebook4ae7c3ab08,rydn,,2017-03-15T19:34:43.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,babass/notebookc68b475376,Notebookc68b475376,sebastien,,2017-02-27T14:43:44.997Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yaroshevskiy/fork-of-bike-rental-predictions-using-lr-rf-gbr,"Fork of Bike rental predictions using LR, RF, GBR",Oleg Yaroshevskiy,,2017-02-24T16:06:00.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shadowfax61/fork-of-initial,Fork of initial,Shadowfax,,2017-02-23T19:41:14.053Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,shadowfax61/initial,initial,Shadowfax,,2017-02-22T18:19:38.01Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jindongwang92/gradientboostingregressor,GradientBoostingRegressor,Jindong Wang,,2017-02-19T02:38:00.503Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jindongwang92/bike-rental-predictions-using-lr-rf-gbr,"Bike rental predictions using LR, RF, GBR",Jindong Wang,,2017-02-18T03:04:53.667Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,leenas/bike-rental-predictions-using-lr-rf-gbr,"Bike rental predictions using LR, RF, GBR",LeenaShekhar,,2017-02-14T17:14:45.157Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,amanmanawat/practise,practise,Marvel,,2017-02-03T10:03:33.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kuldeepaksharma/notebook515eaa824a,Notebook3c3c8d3900,KayDee,,2017-01-30T05:27:25.127Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,soupim/notebook630b4422bd,Notebook630b4422bd,ChaSeopIm,,2020-09-21T04:32:38.97Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,abhinavrangarajan/notebookfe1dff5a07,Notebookfe1dff5a07,Abhinav Rangarajan,,2017-01-18T02:37:25.457Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yigalw/preliminary-exploration,preliminary_exploration,Yigal W,,2017-01-16T12:51:02.817Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,binh211/notebookffb1e41baa,Notebookffb1e41baa,BinhNguyen,,2017-01-11T23:59:05.123Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yaroshevskiy/fork-of-bike-rental-predictions-using-randomforest,Fork of Bike rental predictions using RandomForest,Oleg Yaroshevskiy,,2017-01-10T15:43:19.993Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yaroshevskiy/notebook5dfe01c1c1,Notebook5dfe01c1c1,Oleg Yaroshevskiy,,2017-01-10T13:56:48.727Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,bsukkala/notebook72011ad224,Notebook72011ad224,Bhargava Sukkala,,2017-01-06T06:05:50.61Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,timgasser/notebook0ff44d76eb,Notebook0ff44d76eb,tb303,,2017-01-05T17:49:09.23Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,benoitkoen/notebookb6f1bb610a,Notebookb6f1bb610a,benoitkoen,,2016-12-30T15:45:41.713Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,luckygirl123/notebook35a89d10ba,Notebook35a89d10ba,luckygirl,,2016-12-29T02:22:50.633Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yigalw/gradientboostingregressor-88fe5133,GradientBoostingRegressor 88fe5133,Yigal W,,2016-12-26T19:26:21.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yigalw/gradientboostingregressor,GradientBoostingRegressor,Yigal W,,2016-12-24T09:32:40.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ghochard/notebook8dfba53922,Notebook8dfba53922,**LostInaRF**,,2016-12-22T13:57:16.193Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ghochard/model-benchmark,model benchmark,**LostInaRF**,,2016-12-22T13:56:03.967Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,abhishekaarush/gradientboostingregressor,GradientBoostingRegressor,Abhishek Kumar,,2016-12-21T17:24:06.947Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aevinq/notebook2878c1db15,Notebook2878c1db15,GauravK,,2016-12-15T20:33:17.12Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aevinq/notebookc4ca2f69ee,Notebookb2d9678dfa,GauravK,,2016-12-15T18:23:28.343Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,tomoyasuzuka/notebook564ef2dc7f,Notebook564ef2dc7f,DuckDeer47,,2016-12-08T09:50:52.493Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mattlei/bike-sharing-demand,Bike Sharing Demand,Matt Lei,,2016-12-07T08:58:33.03Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,mattlei/notebook095962a12e,Notebook095962a12e,Matt Lei,,2016-12-07T08:44:23.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kaixuantang/notebook724e3522f8,Notebook724e3522f8,Kaixuan Tang,,2016-12-05T19:11:33.407Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,przebieglykaziu/notebook64a6408c42,Notebook64a6408c42,Michal Kazmierski,,2016-12-05T19:04:25.84Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,iitianrks/notebook2104ba1d82,Notebook1f09852370,roopkishorsingh,,2016-12-04T18:04:15.347Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,zzdu2013/notebook12043f1001,Notebook12043f1001,Qwerty,,2016-11-30T16:49:48.603Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,wenshi/notebook71bdbb2afe,Notebook71bdbb2afe,wwens,,2016-11-27T13:58:49.953Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,sujeetk/notebook34bfcd4146,Notebook37657fa794,SujeetKumar,,2016-11-26T17:06:14.19Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aditi6822/bike-rental,bike_rental,AditiGupta,,2016-11-25T05:38:15.487Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aditi6822/notebook3e6d6f8c5b,Notebook3e6d6f8c5b,AditiGupta,,2016-11-25T04:03:22.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aditi6822/bike-rental-system,Bike_Rental_System,AditiGupta,,2016-11-25T03:58:02.423Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dudu82/notebookfcb639ff25,Notebookfcb639ff25,DUDU82,,2016-11-24T02:27:58.863Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lunaguan/notebook5801384e8a,Notebook5801384e8a,luna Guan,,2016-11-22T16:21:38.477Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,learningmarkus/notebook24b2ada52b,Notebook24b2ada52b,Markus Wöhrenschimmel,,2020-01-11T14:41:03.317Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,pietroturati/notebook218c971cf5,Notebook218c971cf5,Barolo,,2016-11-17T16:59:39.743Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,asdfzxc/notebook9204815988,Notebook9204815988,Jessica,,2016-11-17T08:56:09.427Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yeepom/notebook6a3da06e93,Notebook6a3da06e93,yeepom,,2016-11-15T07:20:22.587Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,rickylee/notebookcaaeb2b3d4,Notebookcaaeb2b3d4,WeiqiLi,,2016-11-15T01:36:41.197Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yeepom/bike-sharing-demand,bike_sharing_demand,yeepom,,2016-11-14T07:32:20.337Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,yeepom/notebook747181624b,Notebook747181624b,yeepom,,2016-11-14T07:31:32.78Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jieyue999/bike-explore,bike_explore,shuoliu,,2016-11-14T06:37:01.79Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,indymccarthy/fooofof,fooofof,IndyMcCarthy,,2016-11-09T16:55:32.13Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,laurentlin/notebook1650943441,Notebook1650943441,Taupebic,,2016-11-06T10:46:25.56Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ricardorios/notebook1c4cb00038,Notebook092b1a3277,Ricardo Rios,,2016-10-29T21:30:02.007Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ricardorios/notebookd92cb2bed2,Notebookd92cb2bed2,Ricardo Rios,,2016-10-29T16:39:52.927Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,nielsenmarkus11/notebook5b2c14c54e,Notebook5b2c14c54e,Mark Nielsen,,2016-10-28T17:07:55.937Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,oliverli/notebook4c61752610,Notebook4c61752610,Jinliang li,,2016-10-27T16:54:21.28Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,minamy/trial,trial,Yuki,,2016-10-24T01:08:38.257Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,argali/notebook82c3007c22,Notebook82c3007c22,Anastasia Rodionova,,2016-10-13T17:16:38.943Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dragonheart/notebooke06ba55084,Notebooke06ba55084,Howard,,2016-10-13T09:07:28.097Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,spiracular/notebooka6e154f768,Notebookde40ed269e,Megan Crawford,,2016-10-12T21:09:00.8Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,argali/notebookc206ca6762,Notebookc206ca6762,Anastasia Rodionova,,2016-10-11T17:51:55.65Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jdyojdyo/check-adherence,check adherence,jdyo,,2016-10-08T11:10:09.68Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,idolin/notebook5d225c5533,Notebook5d225c5533,en_tony,,2016-10-03T07:34:23.44Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ahuaay/notebookaa4c4b9edf,Notebookaa4c4b9edf,aa,,2016-09-27T16:18:33.413Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dixonhu/regression-methods-for-bike-sharing-data,Regression Methods for Bike Sharing Data,Dixon,,2016-09-13T03:42:28.867Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,uzzang/notebook754f05dd90,Notebooka429485028,Hyunjunkim,,2016-09-05T03:48:14.083Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jdyojdyo/notebookeaf65828a7,Notebookeaf65828a7,jdyo,,2016-09-04T11:30:09.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dragonheart/preliminary-exploration,preliminary_exploration,Howard,,2016-08-30T07:51:07.923Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dragonheart/regression-methods-for-bike-sharing-data,Regression Methods for Bike Sharing Data,Howard,,2016-08-30T03:45:30.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,abudniy/bikes,Bikes,AlexBudniy,,2016-08-26T22:03:52.45Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,panoptic/notebook8b202bab24,Notebook8b202bab24,panop,,2016-08-24T16:55:44.46Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ssmeoz/1st-kaggle-try-bike-sharing-demand,1st Kaggle Try - Bike Sharing Demand,SergeyM,,2016-08-31T13:36:14.497Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ymcdull/frank-bike-test,Frank-Bike-test,Yunfeng Zhu,,2016-05-30T16:55:19.58Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dujekmancin/bike-comp,Bike comp,Marcin K,,2016-04-26T10:35:30.177Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,allynlea/bike-sharing,bike sharing,alr,,2016-04-10T23:38:25.657Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,monilshaah/test1,test1,Monil Shah,,2015-11-19T02:39:19.353Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,dawny33/vicycle-kaggle-py,Vicycle_Kaggle.py,Dawny33,,2015-10-30T08:28:18.81Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,adelv88/featuresselection,featuresSelection,AgniDelvinioti,,2015-10-25T06:41:34.837Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,adelv88/datasetexploration,datasetExploration,AgniDelvinioti,,2015-10-24T15:53:49.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,kumareshd/trying-something,Trying Something,Kumaresh,,2015-09-15T14:19:20.47Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,hygd90/temperature-distribution-in-dc1,Temperature Distribution in DC1,HGYD,,2015-07-29T08:51:09.663Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,taylorma/w207-final-proj,w207_final_proj,taylorma,,2015-07-14T03:25:06.04Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,lydieberget1/rkjkdjkj,rkjkdjkj,Lydie Brgt,,2015-06-27T10:51:02.513Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,jeanemmanuel/exploring-dataset,Exploring Dataset,JeanEm,,2015-05-27T16:03:39.4Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,samppan/bike-share-demand-script,bike-share-demand-script,samppan,,2015-05-27T13:42:05.397Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,abhishekdewan/version-1,Version 1,Abhishek Dewan,,2015-05-16T01:01:13.55Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,citrucel/once-upon-a-time-a-fish,Once upon a time a fish...,citrucel,,2015-04-27T00:20:49.67Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,ibtgbijsb/testing,Testing,ibtg,,2015-04-26T00:48:08.043Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aidangawronski/check-adherence-to-benford-s-law,Check adherence to Benford's Law,sparkEmpire,,2015-04-09T18:13:15.243Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
+,,,,,0,aparij/random-forest-benchmark,Random Forest Benchmark,Alexander Parij,,2018-03-23T01:57:45.003Z,,False,,False,False,False,False,False,False,False,[],[],[],[],0,bike-sharing-demand
