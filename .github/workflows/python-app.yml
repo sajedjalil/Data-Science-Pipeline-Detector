@@ -31,4 +31,4 @@ jobs:
       - name: Test with unittest
         run: |
           cd src
-          python unittest -m
+          python -m unittest
