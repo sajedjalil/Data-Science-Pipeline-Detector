@@ -1,7 +1,5 @@
-import file_reader
-import os
-import constants
-
+from file_reader import FileReader
+from constants import *
 
 if __name__ == '__main__':
-    reader = file_reader.FileReader(constants.dataset_base_path)
+    reader = FileReader(dataset_base_path)
