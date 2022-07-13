@@ -11,14 +11,11 @@ class FileReader:
 
     # default constructor
     def __init__(self, path):
-        print(len(self.all_csv_data))
         self.base_folder_path = path
         self.__get_all_csv_from_dataset_folder(self.base_folder_path)
         self.__read_csv(self.csv_file_paths)
-        print(len(self.all_csv_data))
         self.__sort_and_drop_unnecessary_columns()
         self.__save_csv(combined_csv_filename)
-        print(len(self.all_csv_data))
 
     def __get_all_csv_from_dataset_folder(self, base_folder_path):
         self.csv_file_paths = []
