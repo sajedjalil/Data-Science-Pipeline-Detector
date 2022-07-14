@@ -31,8 +31,9 @@ class TestNotebookReader(TestCase):
         cls.nb_reader = NotebookReader()
 
     def test_all_notebook_paths(self):
-        self.assertNotEqual(len(self.nb_reader.all_notebook_paths), 0)
+        self.assertEqual(len(self.nb_reader.all_ipynb_paths), 15079)
+        self.assertEqual(len(self.nb_reader.all_py_paths), 903)
 
     def test_load_notebook(self):
-        cells = load_notebook(self.nb_reader.all_notebook_paths[0])
+        cells = load_notebook(self.nb_reader.all_ipynb_paths[0])
         self.assertNotEqual(len(cells), 0)
