@@ -1,24 +1,24 @@
 from unittest import TestCase
-import constants
-from src.file_reader import FileReader, NotebookReader
+from constants import *
+from file_reader import FileReader, NotebookReader
 
 
 class TestFileReader(TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.reader = FileReader(constants.dataset_base_path)
+        cls.reader = FileReader(dataset_base_path)
 
     def test_last_entry_vote(self):
         # Get the last entry from csv to check whether it conforms to the minimum vote count
-        last_entry_vote = self.reader.all_csv_data.tail(1)[constants.total_votes].astype(int).item()
-        self.assertGreaterEqual(last_entry_vote, constants.least_votes)
+        last_entry_vote = self.reader.all_csv_data.tail(1)[total_votes].astype(int).item()
+        self.assertGreaterEqual(last_entry_vote, least_votes)
 
     def test_csv_file_paths(self):
         self.assertNotEqual(len(self.reader.csv_file_paths), 0)
 
     def test_dataset_base_path(self):
-        self.assertEqual(self.reader.base_folder_path, constants.dataset_base_path)
+        self.assertEqual(self.reader.base_folder_path, dataset_base_path)
 
 
 class TestNotebookReader(TestCase):
