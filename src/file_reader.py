@@ -64,7 +64,8 @@ class FileReader:
 
 
 class NotebookReader:
-    all_notebook_paths = []
+    all_ipynb_paths = []
+    all_py_paths = []
 
     def __init__(self):
         self.__find_all_notebook_paths()
@@ -73,8 +74,12 @@ class NotebookReader:
         df = pd.read_csv(os.path.join(dataset_base_path, combined_csv_filename))
         for index, row in df.iterrows():
             competition_folder = os.path.join(dataset_base_path, row["competitionId"])
-            author, file = row["ref"].split(os.sep)
+            author = row["author"]
+            file = row["ref"].split(os.sep)[-1]
 
-            file_path = os.path.join(competition_folder, author, file + ".ipynb")
-            if os.path.exists(file_path):
-                self.all_notebook_paths.append(file_path)
+            ipynb_file_path = os.path.join(competition_folder, author, file + ".ipynb")
+            py_file_path = os.path.join(competition_folder, author, file + ".py")
+            if os.path.exists(ipynb_file_path):
+                self.all_ipynb_paths.append(ipynb_file_path)
+            elif os.path.exists(py_file_path):
+                self.all_py_paths.append(py_file_path)
