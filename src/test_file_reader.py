@@ -1,6 +1,6 @@
 from unittest import TestCase
 from constants import *
-from file_reader import FileReader, NotebookReader
+from file_reader import FileReader, NotebookReader, read_xlsx, load_notebook
 
 
 class TestFileReader(TestCase):
@@ -20,6 +20,10 @@ class TestFileReader(TestCase):
     def test_dataset_base_path(self):
         self.assertEqual(self.reader.base_folder_path, dataset_base_path)
 
+    def test_read_xlsx(self):
+        df = read_xlsx(os.path.join(res_folder_path, api_dict_file))
+        self.assertNotEqual(len(df), 0)
+
 
 class TestNotebookReader(TestCase):
     @classmethod
@@ -30,5 +34,5 @@ class TestNotebookReader(TestCase):
         self.assertNotEqual(len(self.nb_reader.all_notebook_paths), 0)
 
     def test_load_notebook(self):
-        cells = self.nb_reader.load_notebook(self.nb_reader.all_notebook_paths[0])
-        self.assertNotEqual( len(cells), 0)
+        cells = load_notebook(self.nb_reader.all_notebook_paths[0])
+        self.assertNotEqual(len(cells), 0)

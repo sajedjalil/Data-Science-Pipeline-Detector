@@ -4,6 +4,26 @@ from constants import *
 import json
 
 
+def read_xlsx(path):
+    df = pd.read_excel(path)
+    return df
+
+
+def load_notebook(file_path):
+    f = codecs.open(file_path, 'r')
+    source = f.read()
+    y = json.loads(source)
+
+    cells = []
+
+    for x in y['cells']:
+        if x['cell_type'] == 'code':
+            cells.append(x['source'])
+
+    f.close()
+    return cells
+
+
 class FileReader:
     base_folder_path = None
     csv_file_paths = []
@@ -58,17 +78,3 @@ class NotebookReader:
             file_path = os.path.join(competition_folder, author, file + ".ipynb")
             if os.path.exists(file_path):
                 self.all_notebook_paths.append(file_path)
-
-    def load_notebook(self, file_path):
-        f = codecs.open(file_path, 'r')
-        source = f.read()
-        y = json.loads(source)
-
-        cells = []
-
-        for x in y['cells']:
-            if x['cell_type'] == 'code':
-                cells.append(x['source'])
-
-        f.close()
-        return cells
