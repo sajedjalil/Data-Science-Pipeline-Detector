@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f8ef791-9a28-495f-8d55-6451c12439c2" name="Changes" comment="Merged GitHub Workflow">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="6f8ef791-9a28-495f-8d55-6451c12439c2" name="Changes" comment="Added pipeline detector for all steps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.~lock.API-dictionary.xlsx#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ipynb_pipeline_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ipynb_pipeline_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_ipynb_pipeline_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_ipynb_pipeline_detector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -69,7 +72,7 @@
       <workItem from="1657666742883" duration="34000" />
       <workItem from="1657666786772" duration="15108000" />
       <workItem from="1657819385562" duration="14857000" />
-      <workItem from="1658091535902" duration="8571000" />
+      <workItem from="1658091535902" duration="8778000" />
     </task>
     <task id="LOCAL-00001" summary="Added Travis CI">
       <created>1657684623095</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657820464121</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added pipeline detector for all steps">
+      <created>1658100606019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658100606019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +125,8 @@
     <MESSAGE value="Added Travis CI" />
     <MESSAGE value="Changed structure" />
     <MESSAGE value="XLSX reader added" />
-    <option name="LAST_COMMIT_MESSAGE" value="XLSX reader added" />
+    <MESSAGE value="Added pipeline detector for all steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pipeline detector for all steps" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
