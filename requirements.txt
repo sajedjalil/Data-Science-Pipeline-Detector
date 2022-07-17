@@ -1,3 +1,7 @@
-pandas
+pandas~=1.4.3
 openpyxl
-astpretty
+astpretty~=3.0.0
+numpy==1.23.1
+ipython~=8.4.0
+pip~=22.1.2
+python~=3.10.4

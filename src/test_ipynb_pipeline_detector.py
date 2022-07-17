@@ -9,10 +9,4 @@ class TestIpynbPipelineDetector(TestCase):
     def setUpClass(cls):
         cls.pipeline = IpynbPipelineDetector(NotebookReader().all_ipynb_paths)
 
-    def test_load_api_dict_column(self):
-        data = self.pipeline.load_api_dict_column('Acquisition')
-        self.assertEqual(len(data), 25)
-
-        data = self.pipeline.load_api_dict_column('Preparation')
-        self.assertEqual(len(data), 132)
 
