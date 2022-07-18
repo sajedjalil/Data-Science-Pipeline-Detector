@@ -16,9 +16,9 @@ class IpynbPipelineDetector:
         # self.api_dict_df = get_dataframe_for_each_columns(self.api_dict_df)
 
         self.__get_ast_notebook_file(self.all_note_book_paths[0])
-
+        # print(self.all_note_book_paths[1])
     def __get_ast_notebook_file(self, path):
-        # print(self.api_dict_df['Acquisition'])
+        # print(self.api_dict_df['Others'].dropna())
         analyzer = Analyzer(self.api_dict_df)
         cells = load_notebook(path)
 
