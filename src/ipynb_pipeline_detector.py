@@ -8,33 +8,71 @@ import ast
 import astpretty
 
 
+def replace_non_parsable_line(cell):
+    keywords = ["!", "--", "pip", "%matplotlib"]
+    """
+    Formats the cell split with '\n' for each line
+    Replace the lines that are not parsable in AST
+    :param cell: list(string)
+    :return: list(string)
+    """
+    if cell is None:
+        return ""
+    if isinstance(cell, str):
+        cell = cell.strip().split("\n")
+
+    # print(cell)
+    for idx, line in enumerate(cell):
+        stripped = line.strip()
+        if line.startswith("%"):
+            cell[idx] = ""
+        for key in keywords:
+            if stripped.startswith(key):
+                cell[idx] = ""
+
+        if not cell[idx].endswith("\n"):
+            cell[idx] += "\n"
+
+    # print(cell)
+    return "".join(cell)
+
+
+def get_ast_notebook_file(api_dict_df, path):
+    cells = load_notebook(path)
+    analyzer = Analyzer(api_dict_df)
+
+    for idx_cell, cell in enumerate(cells):
+        # print(idx_cell)
+        try:
+            cell = replace_non_parsable_line(cell)
+            analyzer.set_info(idx_cell + 1)
+            analyzer.visit(ast.parse(cell))
+        except SyntaxError as e:
+            print(cell, ": Syntax Error", path)
+        except RecursionError as r:
+            print(cell, ": Recursion Error", path)
+
+    # for result in analyzer.result_nodes:
+    #     print("%12s%20s%5s" % (result.pipeline_step, result.keyword, result.cell_no))
+
+    return analyzer.result_nodes
+
+
 class IpynbPipelineDetector:
+    error_files = set()
 
     def __init__(self, paths):
         self.all_note_book_paths = paths
         self.api_dict_df = read_xlsx(os.path.join(res_folder_path, api_dict_file))
-        # self.api_dict_df = get_dataframe_for_each_columns(self.api_dict_df)
 
-        self.__get_ast_notebook_file(self.all_note_book_paths[0])
-        # print(self.all_note_book_paths[1])
-    def __get_ast_notebook_file(self, path):
-        # print(self.api_dict_df['Others'].dropna())
-        analyzer = Analyzer(self.api_dict_df)
-        cells = load_notebook(path)
+        # self.all_note_book_paths = ["/home/sajed/GitHub/Data-Science-Pipeline-Detector/dataset/jigsaw-unintended-bias-in-toxicity-classification/Cristina Sierra/pretext-lstm-tuning-v3.ipynb"]
+        for idx, path in enumerate(self.all_note_book_paths[:1]):
+            get_ast_notebook_file(self.api_dict_df, path)
+            # if idx % 10 == 0:
+            #     print(idx)
+            print(path)
 
-        for idx_cell, cell in enumerate(cells):
-            for idx_line, line in enumerate(cell):
-                try:
-                    # pprint(ast.dump(ast.parse(line)))
-
-                    analyzer.visit(ast.parse(line))
-                    analyzer.set_info(idx_cell, idx_line)
-
-                except SyntaxError as e:
-                    print(line, ": Syntax Error")
-
-        for result in analyzer.result_nodes:
-            pprint(vars(result))
+        # print(len(self.error_files))
 
 
 class Analyzer(ast.NodeVisitor):
@@ -46,9 +84,8 @@ class Analyzer(ast.NodeVisitor):
         self.api_dict_df = api_dict_df
         self.result_nodes = []
 
-    def set_info(self, cell_no, line_no):
+    def set_info(self, cell_no):
         self.cell_no = cell_no
-        self.line_no = line_no
 
     def visit_Attribute(self, node):
         response = self.make_result_node(node)
@@ -68,7 +105,7 @@ class Analyzer(ast.NodeVisitor):
             keyword = self.api_dict_df[col].values[is_found]
 
             if len(keyword) > 0:
-                return Result(col, keyword, node, self.cell_no, self.line_no)
+                return Result(col, keyword, node, self.cell_no)
 
         return None
 
@@ -80,9 +117,9 @@ class Result:
     line_no: int = None
     column_no: int = None
 
-    def __init__(self, pipeline, keyword, node, cell_no, line_no):
+    def __init__(self, pipeline, keyword, node, cell_no):
         self.keyword = keyword
         self.pipeline_step = pipeline
         self.column_no = int(node.end_col_offset)
         self.cell_no = cell_no
-        self.line_no = line_no
+        self.line_no = node.lineno
