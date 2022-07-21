@@ -1,11 +1,9 @@
 from pprint import pprint
-import numpy as np
-import pandas as pd
+
 from file_reader import read_xlsx, load_notebook
 from constants import *
 import os
 import ast
-import astpretty
 
 
 def replace_non_parsable_line(cell):
@@ -47,10 +45,11 @@ def get_ast_notebook_file(api_dict_df, path):
             cell = replace_non_parsable_line(cell)
             analyzer.set_info(idx_cell + 1)
             analyzer.visit(ast.parse(cell))
+            # pprint(ast.dump(ast.parse(cell)))
         except SyntaxError as e:
-            print(cell, ": Syntax Error", path)
+            print(": Syntax Error", path)
         except RecursionError as r:
-            print(cell, ": Recursion Error", path)
+            print(": Recursion Error", path)
 
     # for result in analyzer.result_nodes:
     #     print("%12s%20s%5s" % (result.pipeline_step, result.keyword, result.cell_no))
@@ -65,7 +64,7 @@ class IpynbPipelineDetector:
         self.all_note_book_paths = paths
         self.api_dict_df = read_xlsx(os.path.join(res_folder_path, api_dict_file))
 
-        # self.all_note_book_paths = ["/home/sajed/GitHub/Data-Science-Pipeline-Detector/dataset/jigsaw-unintended-bias-in-toxicity-classification/Cristina Sierra/pretext-lstm-tuning-v3.ipynb"]
+        # self.all_note_book_paths = ["/home/sajed/GitHub/Data-Science-Pipeline-Detector/dataset/titanic/Masum Rumi/a-statistical-analysis-ml-workflow-of-titanic.ipynb"]
         for idx, path in enumerate(self.all_note_book_paths[:1]):
             get_ast_notebook_file(self.api_dict_df, path)
             # if idx % 10 == 0:
@@ -88,11 +87,35 @@ class Analyzer(ast.NodeVisitor):
         self.cell_no = cell_no
 
     def visit_Attribute(self, node):
-        response = self.make_result_node(node)
-        if response is not None:
-            self.result_nodes.append(response)
+        print(node.attr)
+        # response = self.make_result_node(node)
+        # if response is not None:
+        #     self.result_nodes.append(response)
 
         self.generic_visit(node)
+
+    def visit_Call(self, node):
+        # pprint(ast.dump(node))
+        # pprint( ast.dump(node.func))
+        # for args in node.args:
+        #     self.visit_arg(args)
+        # pprint( ast.dump(node.args[0]) )
+        # for keyword in node.keywords:
+        #     self.visit_keyword(keyword)
+        self.generic_visit(node)
+
+    def visit_keyword(self, node):
+        # pprint(ast.dump(node))
+        # pprint(node.arg)
+
+        if isinstance(node.value, ast.Constant):
+            print(node.value.value, node.value.lineno)
+        if isinstance(node.value, ast.Name):
+            print(node.value.id, node.value.lineno, node.value.col_offset, node.value.end_col_offset)
+
+    # def visit_arg(self, node):
+    #     pprint( ast.dump(node))
+    #     self.generic_visit(node)
 
     def generic_visit(self, node):
         # print(type(node).__name__)
