@@ -87,10 +87,10 @@ class Analyzer(ast.NodeVisitor):
         self.cell_no = cell_no
 
     def visit_Attribute(self, node):
-        print(node.attr)
-        # response = self.make_result_node(node)
-        # if response is not None:
-        #     self.result_nodes.append(response)
+        # print(node.attr)
+        response = self.make_result_node(node)
+        if response is not None:
+            self.result_nodes.append(response)
 
         self.generic_visit(node)
 
@@ -104,14 +104,14 @@ class Analyzer(ast.NodeVisitor):
         #     self.visit_keyword(keyword)
         self.generic_visit(node)
 
-    def visit_keyword(self, node):
-        # pprint(ast.dump(node))
-        # pprint(node.arg)
-
-        if isinstance(node.value, ast.Constant):
-            print(node.value.value, node.value.lineno)
-        if isinstance(node.value, ast.Name):
-            print(node.value.id, node.value.lineno, node.value.col_offset, node.value.end_col_offset)
+    # def visit_keyword(self, node):
+    #     # pprint(ast.dump(node))
+    #     # pprint(node.arg)
+    #
+    #     if isinstance(node.value, ast.Constant):
+    #         print(node.value.value, node.value.lineno)
+    #     if isinstance(node.value, ast.Name):
+    #         print(node.value.id, node.value.lineno, node.value.col_offset, node.value.end_col_offset)
 
     # def visit_arg(self, node):
     #     pprint( ast.dump(node))
