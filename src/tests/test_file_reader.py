@@ -1,6 +1,6 @@
 from unittest import TestCase
-from constants import *
-from file_reader import FileReader, NotebookReader, read_xlsx, load_notebook
+
+from src.utils.file_reader import *
 
 
 class TestFileReader(TestCase):

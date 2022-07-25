@@ -1,7 +1,8 @@
 import codecs
 import pandas as pd
-from constants import *
 import json
+
+from src.constants.constants import *
 
 
 def read_xlsx(path):

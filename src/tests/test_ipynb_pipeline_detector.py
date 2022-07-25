@@ -1,6 +1,7 @@
-from file_reader import *
+from src.utils.file_reader import *
 from unittest import TestCase
-from ipynb_pipeline_detector import get_ast_notebook_file
+from src.pipeline.ipynb_pipeline_detector import get_ast_notebook_file
+from src.constants.constants import *
 
 
 class TestIpynbPipelineDetector(TestCase):
