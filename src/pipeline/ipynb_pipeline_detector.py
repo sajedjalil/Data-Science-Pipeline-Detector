@@ -6,9 +6,9 @@ import os
 
 class IpynbPipelineDetector:
 
-    def __init__(self, paths):
-        self.all_note_book_paths = paths
-        self.api_dict_df = read_xlsx(os.path.join(res_folder_path, api_dict_file))
+    def __init__(self, ipynb_paths, path):
+        self.all_note_book_paths = ipynb_paths
+        self.api_dict_df = read_xlsx(os.path.join(path, res_folder, api_dict_file))
 
     def get_results(self):
         results = []
