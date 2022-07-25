@@ -1,8 +1,10 @@
 import os
 
-base_path = os.getcwd()
-dataset_base_path = os.path.join(os.getcwd(), 'dataset')
-res_folder_path = os.path.join(os.getcwd(), 'res')
+base_path = os.sep.join(os.getcwd().split(os.sep)[:-1])
+res_folder = 'res'
+dataset_folder = 'dataset'
+dataset_base_path = os.path.join(base_path, dataset_folder)
+res_folder_path = os.path.join(base_path, res_folder)
 
 combined_csv_filename = "combined-data.csv"
 selected_rows = ['ref', 'title', 'author', 'lastRunTime', 'totalVotes', 'competitionId']

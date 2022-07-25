@@ -16,7 +16,6 @@ def load_notebook(file_path):
     y = json.loads(source)
 
     cells = []
-
     for x in y['cells']:
         if x['cell_type'] == 'code':
             cells.append(x['source'])
@@ -25,12 +24,15 @@ def load_notebook(file_path):
     return cells
 
 
+def delete_file(path):
+    os.remove(path)
+
+
 class FileReader:
     base_folder_path = None
     csv_file_paths = []
     all_csv_data = pd.DataFrame()
 
-    # default constructor
     def __init__(self, path):
         self.base_folder_path = path
         self.__get_all_csv_from_dataset_folder(self.base_folder_path)
@@ -61,20 +63,20 @@ class FileReader:
 
     def __save_csv(self, name):
         self.all_csv_data.to_csv(os.path.join(self.base_folder_path, name), index=False, encoding='utf-8')
-        # print(self.all_csv_data[-1:]['totalVotes'])
 
 
 class NotebookReader:
     all_ipynb_paths = []
     all_py_paths = []
 
-    def __init__(self):
+    def __init__(self, path):
+        self.path = path
         self.__find_all_notebook_paths()
 
     def __find_all_notebook_paths(self):
-        df = pd.read_csv(os.path.join(dataset_base_path, combined_csv_filename))
+        df = pd.read_csv(os.path.join(self.path, combined_csv_filename))
         for index, row in df.iterrows():
-            competition_folder = os.path.join(dataset_base_path, row["competitionId"])
+            competition_folder = os.path.join(self.path, row["competitionId"])
             author = row["author"]
             file = row["ref"].split(os.sep)[-1]
 
