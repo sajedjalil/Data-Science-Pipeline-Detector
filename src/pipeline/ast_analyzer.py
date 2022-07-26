@@ -1,6 +1,6 @@
 import ast
 from src.models.result import Result
-
+from pprint import pprint
 
 class Analyzer(ast.NodeVisitor):
     result_nodes = []
@@ -15,14 +15,24 @@ class Analyzer(ast.NodeVisitor):
         self.cell_no = cell_no
 
     def visit_Attribute(self, node):
-        # print(node.attr)
+        print(ast.dump(node), node.lineno, node.col_offset, node.end_col_offset)
         response = self.make_result_node(node)
         if response is not None:
             self.result_nodes.append(response)
+        self.generic_visit(node)
 
+    def visit_Name(self, node):
+        pprint(ast.dump(node))
+        print(node.lineno, node.col_offset, node.end_col_offset)
+        self.generic_visit(node)
+
+    def visit_Constant(self, node):
+        pprint(ast.dump(node))
+        print(node.lineno, node.col_offset, node.end_col_offset)
         self.generic_visit(node)
 
     def visit_Call(self, node):
+        pprint(ast.dump(node))
         # pprint(ast.dump(node))
         # pprint( ast.dump(node.func))
         # for args in node.args:

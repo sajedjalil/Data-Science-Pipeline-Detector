@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f8ef791-9a28-495f-8d55-6451c12439c2" name="Changes" comment="Non-parsable files removal &amp; refactoring">
+    <list default="true" id="6f8ef791-9a28-495f-8d55-6451c12439c2" name="Changes" comment="Fixed ipynb_pipeline_reader.py">
+      <change afterPath="$PROJECT_DIR$/res/.~lock.API-dictionary.xlsx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/test_error.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/test_ok.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/test_ast_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/3d-object-detection-for-autonomous-vehicles/Aditya Sharma/navigation-for-visually-impaired.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/3d-object-detection-for-autonomous-vehicles/Aditya Sharma/navigation-for-visually-impaired.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pipeline/ipynb_pipeline_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/ipynb_pipeline_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/test_ipynb_pipeline_detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pipeline/ast_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/ast_analyzer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
       <list>
         <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -49,6 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/sajed/GitHub/Data-Science-Pipeline-Detector/dataset/house-prices-advanced-regression-techniques/Caesar Lupum/understanding-regression-error-metrics-in-python.ipynb",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
@@ -81,6 +86,7 @@
       <workItem from="1657666786772" duration="15108000" />
       <workItem from="1657819385562" duration="14857000" />
       <workItem from="1658091535902" duration="8778000" />
+      <workItem from="1658845906014" duration="5690000" />
     </task>
     <task id="LOCAL-00001" summary="Added Travis CI">
       <created>1657684623095</created>
@@ -131,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658734648762</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed ipynb_pipeline_reader.py">
+      <created>1658735265520</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658735265520</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +171,8 @@
     <MESSAGE value="Fixed unit tests" />
     <MESSAGE value="Project refactored into multiple packages" />
     <MESSAGE value="Non-parsable files removal &amp; refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Non-parsable files removal &amp; refactoring" />
+    <MESSAGE value="Fixed ipynb_pipeline_reader.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed ipynb_pipeline_reader.py" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -168,7 +182,7 @@
     <SUITE FILE_PATH="coverage/Data_Science_Pipeline_Detector$Unittests_in_src.coverage" NAME="Unittests in src Coverage Results" MODIFIED="1657810834240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Data_Science_Pipeline_Detector$Nosetests_in_bin.coverage" NAME="Nosetests in bin Coverage Results" MODIFIED="1657670304492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/Data_Science_Pipeline_Detector$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1657670349541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Data_Science_Pipeline_Detector$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1658734455356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Data_Science_Pipeline_Detector$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1658735979413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Data_Science_Pipeline_Detector$.coverage" NAME=" Coverage Results" MODIFIED="1658509809260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
