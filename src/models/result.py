@@ -4,6 +4,7 @@ class Result:
     cell_no: int = None
     line_no: int = None
     column_no: int = None
+    parameters: list = None
 
     def __init__(self, pipeline, keyword, node, cell_no):
         self.keyword = keyword
@@ -11,3 +12,4 @@ class Result:
         self.column_no = int(node.end_col_offset)
         self.cell_no = cell_no
         self.line_no = node.lineno
+        self.parameters = []

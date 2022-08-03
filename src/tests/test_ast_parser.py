@@ -21,6 +21,6 @@ class TestParser(TestCase):
 
     def test_ast_parse(self):
         results = self.parser.ast_parse()
-        # for result in results:
-        #     pprint(vars(result))
+        for result in results:
+            pprint(vars(result))
         assert True
