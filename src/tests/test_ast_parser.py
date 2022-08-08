@@ -19,8 +19,8 @@ class TestParser(TestCase):
         self.assertNotEqual(len(parser_error.api_dict_df), 0)
         self.assertTrue(parser_error.ast_contains_errors())
 
-    def test_ast_parse(self):
-        results = self.parser.ast_parse()
-        for result in results:
-            pprint(vars(result))
-        assert True
+    # def test_ast_parse(self):
+    #     results = self.parser.ast_parse()
+    #     # for result in results:
+    #     #     pprint(vars(result))
+    #     assert True
