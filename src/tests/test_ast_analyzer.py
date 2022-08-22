@@ -79,6 +79,12 @@ class TestAnalyzer(TestCase):
         expected = Result('Modeling', 'Activation', 34, 17, 1, [['k', 9], 'relu'])
         self.assertEqual(expected, self.results[13])
 
+    def test_generic_visit_15(self):
+        expected = Result('Others', 'plot', 9, 1, 4,
+                          [['x', 'var'], ['y', 'SalePrice'], ['ylim', [0, 800000]], 123])
+        self.assertEqual(expected, self.results[16])
+
     # def test_generic_visit_15(self):
-    #     pprint(vars(self.results[14]))
+    #     for res in self.results:
+    #         pprint(vars(res))
     #     assert True

@@ -13,7 +13,10 @@ def is_attribute(node):
 def get_tuple_name(node) -> list:
     names = []
     for name in node.elts:
-        names.append(name.id)
+        if hasattr(name, 'value'):
+            names.append(name.value)
+        elif hasattr(name, 'id'):
+            names.append(name.id)
     return names
 
 
@@ -35,13 +38,13 @@ class Analyzer(ast.NodeVisitor):
         if response:
             self.temp_result_node = Result(response)
             self.generic_visit(node)
-            self.result_nodes.append(self.temp_result_node)
+            if self.temp_result_node:
+                self.result_nodes.append(self.temp_result_node)
             # self.temp_result_node = None
         else:
             self.generic_visit(node)
 
     def visit_Call(self, node):
-
         if is_constructor(node):
             response = self.make_result_node(node)
             if response is None:
@@ -49,14 +52,21 @@ class Analyzer(ast.NodeVisitor):
             self.temp_result_node = Result(response)
             self.visit_arguments(node.args)
             self.generic_visit(node)
-            self.result_nodes.append(self.temp_result_node)
+            if self.temp_result_node:
+                self.result_nodes.append(self.temp_result_node)
             self.temp_result_node = None
         elif is_attribute(node):
+            # print(ast.dump(node))
             self.generic_visit(node)
             self.visit_arguments(node.args)
+            self.temp_result_node = None
 
     def visit_arguments(self, nodes):
         params = []
+
+        if not isinstance(nodes, list):
+            return
+
         for node in nodes:
             if hasattr(node, 'value') and isinstance(node, ast.Constant):
                 params.append(node.value)
@@ -64,8 +74,7 @@ class Analyzer(ast.NodeVisitor):
                 params.append([node.arg, get_tuple_name(node.value)])
             elif hasattr(node, 'id') and isinstance(node, ast.Name):
                 params.append(node.id)
-
-        if len(params):
+        if self.temp_result_node and len(params):
             self.temp_result_node.parameters.extend(params)
 
     def visit_keyword(self, node):
@@ -74,23 +83,8 @@ class Analyzer(ast.NodeVisitor):
                 self.temp_result_node.parameters.append([node.arg, node.value.value])
             elif hasattr(node, 'value') and isinstance(node.value, ast.Tuple):
                 self.temp_result_node.parameters.append([node.arg, get_tuple_name(node.value)])
-            elif hasattr(node, 'id') and isinstance(node, ast.Name):
-                self.temp_result_node.parameters.append(node.id)
-
-    # def get_named_arguments(self, nodes):
-    #     if not self.temp_result_node:
-    #         return
-    #     params = []
-    #     for node in nodes:
-    #         if hasattr(node, 'value') and isinstance(node.value, ast.Constant):
-    #             params.append([node.arg, node.value.value])
-    #         elif hasattr(node, 'value') and isinstance(node.value, ast.Tuple):
-    #             params.append([node.arg, get_tuple_name(node.value)])
-    #         elif hasattr(node, 'id') and isinstance(node, ast.Name):
-    #             params.append(node.id)
-    #
-    #     if len(params):
-    #         self.temp_result_node.parameters.extend(params)
+            elif hasattr(node.value, 'id') and isinstance(node.value, ast.Name):
+                self.temp_result_node.parameters.append([node.arg, node.value.id])
 
     def generic_visit(self, node):
         ast.NodeVisitor.generic_visit(self, node)

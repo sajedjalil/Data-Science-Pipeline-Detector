@@ -15,8 +15,6 @@ class IpynbPipelineDetector:
         for idx, path in enumerate(self.all_note_book_paths):
             parser = Parser(self.api_dict_df, path)
             results.extend([path, parser.ast_parse()])
-            print(idx)
-        print(len(results))
 
     def remove_non_parsable_files(self):
         for idx, path in enumerate(self.all_note_book_paths):
