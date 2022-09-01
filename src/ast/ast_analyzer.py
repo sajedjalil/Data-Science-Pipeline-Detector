@@ -1,23 +1,4 @@
-import ast
-from src.models.result import Result
-
-
-def is_constructor(node):
-    return isinstance(node, ast.Call) and isinstance(node.func, ast.Name)
-
-
-def is_attribute(node):
-    return isinstance(node, ast.Call) and isinstance(node.args, list)
-
-
-def get_tuple_name(node) -> list:
-    names = []
-    for name in node.elts:
-        if hasattr(name, 'value'):
-            names.append(name.value)
-        elif hasattr(name, 'id'):
-            names.append(name.id)
-    return names
+from src.ast.ast_static import *
 
 
 class Analyzer(ast.NodeVisitor):
@@ -34,7 +15,7 @@ class Analyzer(ast.NodeVisitor):
         self.cell_no = cell_no
 
     def visit_Attribute(self, node):
-        response = self.make_result_node(node)
+        response = make_result_node(self.api_dict_df, node, self.cell_no)
         if response:
             self.temp_result_node = Result(response)
             self.generic_visit(node)
@@ -46,7 +27,7 @@ class Analyzer(ast.NodeVisitor):
 
     def visit_Call(self, node):
         if is_constructor(node):
-            response = self.make_result_node(node)
+            response = make_result_node(self.api_dict_df, node, self.cell_no)
             if response is None:
                 return
             self.temp_result_node = Result(response)
@@ -88,20 +69,3 @@ class Analyzer(ast.NodeVisitor):
 
     def generic_visit(self, node):
         ast.NodeVisitor.generic_visit(self, node)
-
-    def make_result_node(self, node):
-        value = None
-
-        if isinstance(node, ast.Call):
-            value = getattr(node.func, "id")
-        elif isinstance(node, ast.Attribute):
-            value = node.attr
-
-        for pipeline in self.api_dict_df.columns:
-            is_found = self.api_dict_df[pipeline].isin([value])
-            keyword = self.api_dict_df[pipeline].values[is_found]
-
-            if len(keyword) > 0:
-                return Result(pipeline, keyword, node, self.cell_no)
-
-        return None

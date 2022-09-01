@@ -1,7 +1,7 @@
 from pprint import pprint
 from unittest import TestCase
 from src.constants.constants import *
-from src.pipeline.ast_parser import *
+from src.ast.ast_parser import *
 from src.utils.file_reader import read_xlsx
 from src.models.result import Result
 

@@ -1,6 +1,6 @@
 from src.utils.file_reader import read_xlsx, delete_file
 from src.constants.constants import *
-from src.pipeline.ast_parser import Parser
+from src.ast.ast_parser import Parser
 import os
 
 

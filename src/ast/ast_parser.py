@@ -1,6 +1,7 @@
 import ast
-from src.pipeline.ast_analyzer import Analyzer
+from src.ast.ast_analyzer import Analyzer
 from src.utils.file_reader import load_notebook
+from src.ast.ast_frequency_analyzer import Frequency
 
 
 class Parser:
@@ -43,6 +44,20 @@ class Parser:
             cell = self.__replace_non_parsable_line(cell)
 
             analyzer = Analyzer(self.api_dict_df)
+            analyzer.set_info(idx_cell + 1)
+            analyzer.visit(ast.parse(cell))
+
+            results.extend(analyzer.result_nodes)
+
+        return results
+
+    def ast_parse_frequency(self):
+        cells = load_notebook(self.path)
+        results = []
+        for idx_cell, cell in enumerate(cells):
+            cell = self.__replace_non_parsable_line(cell)
+
+            analyzer = Frequency(self.api_dict_df)
             analyzer.set_info(idx_cell + 1)
             analyzer.visit(ast.parse(cell))
 

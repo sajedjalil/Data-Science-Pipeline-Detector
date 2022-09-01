@@ -1,5 +1,5 @@
 from src.constants.constants import *
-from src.pipeline.ast_parser import *
+from src.ast.ast_parser import *
 from src.utils.file_reader import read_xlsx
 import os
 from unittest import TestCase
