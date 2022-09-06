@@ -75,6 +75,8 @@ class NotebookReader:
 
     def __find_all_notebook_paths(self):
         df = pd.read_csv(os.path.join(self.path, combined_csv_filename))
+        self.all_ipynb_paths = []
+        self.all_py_paths = []
         for index, row in df.iterrows():
             competition_folder = os.path.join(self.path, row["competitionId"])
             author = row["author"]
