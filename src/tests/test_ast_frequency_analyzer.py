@@ -3,7 +3,7 @@ from unittest import TestCase
 from src.constants.constants import *
 from src.ast.ast_parser import *
 from src.utils.file_reader import read_xlsx, NotebookReader
-
+import pandas as pd
 
 class TestAnalyzer(TestCase):
 
@@ -89,3 +89,25 @@ class TestAnalyzer(TestCase):
     #         print(key, od[key])
     #
     #     self.assertEqual(len(all_ipynb_paths), 14498)
+
+    # def test_competition_file_count(self):
+    #     path = os.path.join(os.getcwd(), dataset_folder)
+    #     competitions = {}
+    #
+    #     df = pd.read_csv(os.path.join(path, combined_csv_filename))
+    #     self.competitions = {}
+    #     for index, row in df.iterrows():
+    #         competition_folder = os.path.join(path, row["competitionId"])
+    #         author = row["author"]
+    #         file = row["ref"].split(os.sep)[-1]
+    #
+    #         ipynb_file_path = os.path.join(competition_folder, author, file + ".ipynb")
+    #         if os.path.exists(ipynb_file_path):
+    #             key = row["competitionId"]
+    #             if key not in competitions.keys():
+    #                 competitions[key] = 0
+    #
+    #             competitions[key] = competitions[key] + 1
+    #     competitions = dict(sorted(competitions.items(), key=lambda item: item[1], reverse=True))
+    #     for key in competitions.keys():
+    #         print(key, competitions[key])
