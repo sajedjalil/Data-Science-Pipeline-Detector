@@ -1,6 +1,7 @@
 import codecs
-import pandas as pd
 import json
+
+import pandas as pd
 
 from src.constants.constants import *
 

@@ -10,6 +10,7 @@ test_notebook_ok_file_name = 'test_ok.ipynb'
 combined_csv_filename = "combined-data.csv"
 selected_rows = ['ref', 'title', 'author', 'lastRunTime', 'totalVotes', 'competitionId']
 api_dict_file = "API-dictionary.xlsx"
+pipeline_csv_file = "pipeline.csv"
 
 total_votes = "totalVotes"
 least_votes = 15
