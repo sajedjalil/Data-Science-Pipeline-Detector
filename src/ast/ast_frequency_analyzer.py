@@ -1,5 +1,4 @@
 import ast
-from pprint import pprint
 
 from src.ast.ast_static import make_result_node
 

@@ -1,7 +1,8 @@
 import ast
+
 from src.ast.ast_analyzer import Analyzer
-from src.utils.file_reader import load_notebook
 from src.ast.ast_frequency_analyzer import Frequency
+from src.utils.file_reader import load_notebook
 
 
 class Parser:

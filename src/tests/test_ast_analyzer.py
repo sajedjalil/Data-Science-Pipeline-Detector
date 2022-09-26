@@ -1,9 +1,9 @@
-from pprint import pprint
 from unittest import TestCase
-from src.constants.constants import *
+
 from src.ast.ast_parser import *
-from src.utils.file_reader import read_xlsx
+from src.constants.constants import *
 from src.models.result import Result
+from src.utils.file_reader import read_xlsx
 
 
 class TestAnalyzer(TestCase):

@@ -42,3 +42,8 @@ class Result:
                    and self.cell_no == other.cell_no and self.line_no == other.line_no \
                    and self.column_no == other.column_no and np.array_equal(first, second)
         return False
+
+    def __str__(self):
+        data = "; ".join([self.pipeline_step, self.keyword[0], self.cell_no.__str__(),
+                          self.line_no.__str__(), self.column_no.__str__(), self.parameters.__str__()])
+        return data

@@ -1,7 +1,10 @@
-from src.utils.file_reader import read_xlsx, delete_file
-from src.constants.constants import *
-from src.ast.ast_parser import Parser
 import os
+
+import pandas as pd
+
+from src.ast.ast_parser import Parser
+from src.constants.constants import *
+from src.utils.file_reader import read_xlsx, delete_file
 
 
 class IpynbPipelineDetector:
@@ -12,14 +15,20 @@ class IpynbPipelineDetector:
 
     def get_results(self):
         results = []
-        for idx, path in enumerate(self.all_note_book_paths):
+        for idx, path in enumerate(self.all_note_book_paths[0:2]):
             parser = Parser(self.api_dict_df, path)
-            results.extend([path, parser.ast_parse()])
+            nodes = parser.ast_parse()
+
+            for node in nodes:
+                results.append([path, path.split(os.sep)[-3], node])
+        df = pd.DataFrame(results)
+
+        return df
 
     def remove_non_parsable_files(self):
         for idx, path in enumerate(self.all_note_book_paths):
             parser = Parser(self.api_dict_df, path)
-            print(idx)
+            # print(idx)
             if parser.ast_contains_errors():
-                print(idx, path)
+                # print(idx, path)
                 delete_file(path)

@@ -1,9 +1,9 @@
-from src.constants.constants import *
-from src.ast.ast_parser import *
-from src.utils.file_reader import read_xlsx
 import os
 from unittest import TestCase
-from pprint import pprint
+
+from src.ast.ast_parser import *
+from src.constants.constants import *
+from src.utils.file_reader import read_xlsx
 
 
 class TestParser(TestCase):
