@@ -1,7 +1,4 @@
-import os
-
 import pandas as pd
-
 from src.ast.ast_parser import Parser
 from src.constants.constants import *
 from src.utils.file_reader import read_xlsx, delete_file
@@ -15,7 +12,7 @@ class IpynbPipelineDetector:
 
     def get_results(self):
         results = []
-        for idx, path in enumerate(self.all_note_book_paths):
+        for idx, path in enumerate(self.all_note_book_paths[14500:]):
             parser = Parser(self.api_dict_df, path)
             nodes = parser.ast_parse()
             print("Done idx:", idx)

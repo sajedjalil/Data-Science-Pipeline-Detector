@@ -8,6 +8,8 @@ if __name__ == '__main__':
     pipeline = IpynbPipelineDetector(all_ipynb_paths, base_path)
     # pipeline.remove_non_parsable_files()
     df = pipeline.get_results()
-    cols = ["path", "competitionId", "pipeline_step", "keyword", "cell_no", "line_no", "column_no", "parameters"]
-    df.columns = cols
-    df.to_csv(os.path.join(base_path, res_folder, pipeline_csv_file), columns=cols, index=False, encoding='utf-8')
+
+    if len(df) != 0:
+        df.columns = ["path", "competitionId", "pipeline_step", "keyword", "cell_no", "line_no", "column_no",
+                      "parameters"]
+        df.to_csv(os.path.join(base_path, res_folder, pipeline_csv_file), index=False, encoding='utf-8')
