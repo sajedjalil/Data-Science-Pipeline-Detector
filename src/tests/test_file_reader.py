@@ -33,16 +33,9 @@ class TestFileReader(TestCase):
 
         self.assertFalse(file_name.exists())
 
-
-class TestNotebookReader(TestCase):
-    @classmethod
-    def setUpClass(cls):
-        cls.nb_reader = NotebookReader(os.path.join(os.getcwd(), dataset_folder))
-
     def test_all_notebook_paths(self):
-        self.assertEqual(len(self.nb_reader.all_ipynb_paths), 14498)
-        self.assertEqual(len(self.nb_reader.all_py_paths), 903)
+        self.assertEqual(len(self.reader.all_ipynb_paths), 14498)
 
     def test_load_notebook(self):
-        cells = load_notebook(self.nb_reader.all_ipynb_paths[0])
+        cells = load_notebook(self.reader.all_ipynb_paths[0])
         self.assertNotEqual(len(cells), 0)

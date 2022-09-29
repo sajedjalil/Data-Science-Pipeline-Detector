@@ -28,7 +28,5 @@ class IpynbPipelineDetector:
     def remove_non_parsable_files(self):
         for idx, path in enumerate(self.all_note_book_paths):
             parser = Parser(self.api_dict_df, path)
-            # print(idx)
             if parser.ast_contains_errors():
-                # print(idx, path)
                 delete_file(path)

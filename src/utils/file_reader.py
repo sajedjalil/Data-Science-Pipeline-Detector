@@ -33,12 +33,14 @@ class FileReader:
     base_folder_path = None
     csv_file_paths = []
     all_csv_data = pd.DataFrame()
+    all_ipynb_paths = list()
 
     def __init__(self, path):
         self.base_folder_path = path
         self.__get_all_csv_from_dataset_folder(self.base_folder_path)
         self.__read_csv(self.csv_file_paths)
         self.__sort_and_drop_unnecessary_columns()
+        self.__get_all_notebook_rows()
         self.__save_csv(combined_csv_filename)
 
     def __get_all_csv_from_dataset_folder(self, base_folder_path):
@@ -61,31 +63,24 @@ class FileReader:
         self.all_csv_data.drop(
             self.all_csv_data.index[self.all_csv_data[total_votes] < least_votes], inplace=True)
         self.all_csv_data = self.all_csv_data[selected_rows]
+        self.all_csv_data.reset_index(drop=True, inplace=True)
 
-    def __save_csv(self, name):
-        self.all_csv_data.to_csv(os.path.join(self.base_folder_path, name), index=False, encoding='utf-8')
+    def __get_all_notebook_rows(self):
+        is_ipynb = list()
 
-
-class NotebookReader:
-    all_ipynb_paths = []
-    all_py_paths = []
-
-    def __init__(self, path):
-        self.path = path
-        self.__find_all_notebook_paths()
-
-    def __find_all_notebook_paths(self):
-        df = pd.read_csv(os.path.join(self.path, combined_csv_filename))
-        self.all_ipynb_paths = []
-        self.all_py_paths = []
-        for index, row in df.iterrows():
-            competition_folder = os.path.join(self.path, row["competitionId"])
+        for index, row in self.all_csv_data.iterrows():
+            competition_folder = os.path.join(self.base_folder_path, row["competitionId"])
             author = row["author"]
             file = row["ref"].split(os.sep)[-1]
 
             ipynb_file_path = os.path.join(competition_folder, author, file + ".ipynb")
-            py_file_path = os.path.join(competition_folder, author, file + ".py")
+
             if os.path.exists(ipynb_file_path):
                 self.all_ipynb_paths.append(ipynb_file_path)
-            elif os.path.exists(py_file_path):
-                self.all_py_paths.append(py_file_path)
+                is_ipynb.append(index)
+            # print(index)
+
+        self.all_csv_data = self.all_csv_data.iloc[is_ipynb]
+
+    def __save_csv(self, name):
+        self.all_csv_data.to_csv(os.path.join(self.base_folder_path, name), index=False, encoding='utf-8')
