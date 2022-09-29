@@ -61,11 +61,14 @@ class Analyzer(ast.NodeVisitor):
     def visit_keyword(self, node):
         if self.temp_result_node:
             if hasattr(node, 'value') and isinstance(node.value, ast.Constant):
-                self.temp_result_node.parameters.append([node.arg, node.value.value])
+                self.temp_result_node.parameters.append([node.arg + "=" + str(node.value.value)])
             elif hasattr(node, 'value') and isinstance(node.value, ast.Tuple):
                 self.temp_result_node.parameters.append([node.arg, get_tuple_name(node.value)])
             elif hasattr(node.value, 'id') and isinstance(node.value, ast.Name):
-                self.temp_result_node.parameters.append([node.arg, node.value.id])
+                if node.arg is not None:
+                    self.temp_result_node.parameters.append([node.arg + "=" + str(node.value.id)])
+                else:
+                    self.temp_result_node.parameters.append(node.value.id)
 
     def generic_visit(self, node):
         ast.NodeVisitor.generic_visit(self, node)

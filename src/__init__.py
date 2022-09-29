@@ -10,6 +10,6 @@ if __name__ == '__main__':
     df = pipeline.get_results()
 
     if len(df) != 0:
-        df.columns = ["path", "competitionId", "pipeline_step", "keyword", "cell_no", "line_no", "column_no",
+        df.columns = ["refRow", "competitionId", "pipeline_step", "keyword", "cell_no", "line_no", "column_no",
                       "parameters"]
         df.to_csv(os.path.join(base_path, res_folder, pipeline_csv_file), index=False, encoding='utf-8')

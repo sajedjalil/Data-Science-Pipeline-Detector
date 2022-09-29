@@ -12,14 +12,15 @@ class IpynbPipelineDetector:
 
     def get_results(self):
         results = []
-        for idx, path in enumerate(self.all_note_book_paths[14500:]):
+        for idx, path in enumerate(self.all_note_book_paths):
             parser = Parser(self.api_dict_df, path)
             nodes = parser.ast_parse()
             print("Done idx:", idx)
             for node in nodes:
-                cols = [path, path.split(os.sep)[-3]]
+                cols = [idx, path.split(os.sep)[-3]]
                 cols.extend(str(node).split("; "))
-                results.append(cols)
+                if len(cols) == 8:
+                    results.append(cols)
         df = pd.DataFrame(results)
 
         return df
