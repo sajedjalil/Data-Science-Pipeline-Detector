@@ -8,15 +8,17 @@ class Result:
     line_no: int = None
     column_no: int = None
     parameters: list = None
+    code: str = None
 
     def __init__(self, *args):
-        if isinstance(args[0], str) and len(args) == 4:
+        if isinstance(args[0], str) and len(args) == 5:
             self.pipeline_step = args[0]
             self.keyword = args[1]
             self.column_no = int(args[2].end_col_offset)
             self.line_no = args[2].lineno
             self.cell_no = args[3]
             self.parameters = []
+            self.code = args[4]
         elif isinstance(args[0], str):
             self.pipeline_step = args[0]
             self.keyword = args[1]
@@ -31,6 +33,7 @@ class Result:
             self.cell_no = args[0].cell_no
             self.line_no = args[0].line_no
             self.parameters = args[0].parameters
+            self.code = args[0].code
 
     def __eq__(self, other):
         """Overrides the default implementation"""
@@ -45,5 +48,6 @@ class Result:
 
     def __str__(self):
         data = "; ".join([self.pipeline_step, self.keyword[0], self.cell_no.__str__(),
-                          self.line_no.__str__(), self.column_no.__str__(), self.parameters.__str__()])
+                          self.line_no.__str__(), self.column_no.__str__(), self.parameters.__str__(),
+                          self.code])
         return data

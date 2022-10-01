@@ -7,7 +7,7 @@ from src.utils.file_reader import read_xlsx, delete_file
 class IpynbPipelineDetector:
 
     def __init__(self, ipynb_paths, path):
-        self.all_note_book_paths = ipynb_paths
+        self.all_note_book_paths = list(ipynb_paths)
         self.api_dict_df = read_xlsx(os.path.join(path, res_folder, api_dict_file))
 
     def get_results(self):
@@ -19,7 +19,7 @@ class IpynbPipelineDetector:
             for node in nodes:
                 cols = [idx, path.split(os.sep)[-3]]
                 cols.extend(str(node).split("; "))
-                if len(cols) == 8:
+                if len(cols) == 9:
                     results.append(cols)
         df = pd.DataFrame(results)
 

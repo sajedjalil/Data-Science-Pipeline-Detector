@@ -38,6 +38,6 @@ def make_result_node(api_dict_df, import_alias_dict, node, cell_no):
         keyword = api_dict_df[pipeline].values[is_found]
 
         if len(keyword) > 0:
-            return Result(pipeline, keyword, node, cell_no)
+            return Result(pipeline, keyword, node, cell_no, ast.unparse(node))
 
     return None
