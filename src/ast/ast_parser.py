@@ -80,7 +80,7 @@ class Parser:
                 cell = self.__replace_non_parsable_line(cell)
                 analyzer.set_info(idx_cell + 1)
                 analyzer.visit(ast.parse(cell))
-                # pprint(ast.dump(ast.parse(cell)))
+
             except SyntaxError as e:
                 errors = True
             except RecursionError as r:

@@ -1,3 +1,4 @@
+from pprint import pprint
 from unittest import TestCase
 
 from src.ast.ast_parser import *
@@ -11,8 +12,8 @@ class TestAnalyzer(TestCase):
 
     @classmethod
     def setUpClass(cls):
-        api_dict_df = read_xlsx(os.path.join(os.getcwd(), res_folder, api_dict_file))
-        cls.parser = Parser(api_dict_df, os.path.join(os.getcwd(), res_folder, test_notebook_ok_file_name))
+        cls.api_dict_df = read_xlsx(os.path.join(os.getcwd(), res_folder, api_dict_file))
+        cls.parser = Parser(cls.api_dict_df, os.path.join(os.getcwd(), res_folder, test_notebook_ok_file_name))
         cls.results = cls.parser.ast_parse()
 
     def test_generic_visit_1(self):
@@ -89,3 +90,14 @@ class TestAnalyzer(TestCase):
     #     for res in self.results:
     #         pprint(vars(res))
     #     assert True
+    def test_import(self):
+        import_parser = Parser(self.api_dict_df, os.path.join(os.getcwd(), res_folder, test_notebook_import_file_name))
+        results = import_parser.ast_parse()
+        self.assertEqual("LinearRegression", results[0].keyword)
+        self.assertEqual("LogisticRegression", results[1].keyword)
+
+    def test_import_from(self):
+        import_parser = Parser(self.api_dict_df, os.path.join(os.getcwd(), res_folder, test_notebook_import_file_name))
+        results = import_parser.ast_parse()
+        self.assertEqual("LinearRegression", results[2].keyword)
+        self.assertEqual("ElasticNetCV", results[3].keyword)

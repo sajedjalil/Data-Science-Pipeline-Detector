@@ -1,3 +1,5 @@
+from _ast import Import, ImportFrom
+
 from src.ast.ast_static import *
 
 
@@ -6,6 +8,7 @@ class Analyzer(ast.NodeVisitor):
     line_no = None
     cell_no = None
     temp_result_node: Result = None
+    import_alias_dict = dict()
 
     def __init__(self, api_dict_df):
         self.api_dict_df = api_dict_df
@@ -15,7 +18,7 @@ class Analyzer(ast.NodeVisitor):
         self.cell_no = cell_no
 
     def visit_Attribute(self, node):
-        response = make_result_node(self.api_dict_df, node, self.cell_no)
+        response = make_result_node(self.api_dict_df, self.import_alias_dict, node, self.cell_no)
         if response:
             self.temp_result_node = Result(response)
             self.generic_visit(node)
@@ -27,7 +30,7 @@ class Analyzer(ast.NodeVisitor):
 
     def visit_Call(self, node):
         if is_constructor(node):
-            response = make_result_node(self.api_dict_df, node, self.cell_no)
+            response = make_result_node(self.api_dict_df, self.import_alias_dict, node, self.cell_no)
             if response is None:
                 return
             self.temp_result_node = Result(response)
@@ -69,6 +72,32 @@ class Analyzer(ast.NodeVisitor):
                     self.temp_result_node.parameters.append([node.arg + "=" + str(node.value.id)])
                 else:
                     self.temp_result_node.parameters.append(node.value.id)
+
+    """
+    The import aliases must be identified to find missed keywords
+    """
+
+    def visit_Import(self, node: Import):
+
+        for alias in node.names:
+            if alias.asname is not None:
+                name = alias.name.split(".")
+
+                if len(name) > 1:
+                    self.import_alias_dict[alias.asname] = name[-1]
+                else:
+                    self.import_alias_dict[alias.asname] = alias.name
+
+    def visit_ImportFrom(self, node: ImportFrom):
+
+        for alias in node.names:
+            if alias.asname is not None:
+                name = alias.name.split(".")
+
+                if len(name) > 1:
+                    self.import_alias_dict[alias.asname] = name[-1]
+                else:
+                    self.import_alias_dict[alias.asname] = alias.name
 
     def generic_visit(self, node):
         ast.NodeVisitor.generic_visit(self, node)

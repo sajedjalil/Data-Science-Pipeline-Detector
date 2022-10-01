@@ -1,8 +1,9 @@
+from collections import OrderedDict
 from unittest import TestCase
 
 from src.ast.ast_parser import *
 from src.constants.constants import *
-from src.utils.file_reader import read_xlsx
+from src.utils.file_reader import read_xlsx, FileReader
 
 
 class TestAnalyzer(TestCase):
@@ -24,7 +25,7 @@ class TestAnalyzer(TestCase):
 
     # def test_count_keyword_frequency_modeling_step(self):
     #     api_dict_df = read_xlsx(os.path.join(os.getcwd(), res_folder, api_dict_file))
-    #     all_ipynb_paths = NotebookReader(os.path.join(os.getcwd(), dataset_folder)).all_ipynb_paths
+    #     all_ipynb_paths = FileReader(os.path.join(os.getcwd(), dataset_folder)).all_ipynb_paths
     #
     #     threshold_map = {}
     #     for keyword in api_dict_df['Modeling']:
@@ -45,7 +46,7 @@ class TestAnalyzer(TestCase):
 
     # def test_count_keyword_per_class_modeling_step(self):
     #     api_dict_df = read_xlsx(os.path.join(os.getcwd(), res_folder, api_dict_file))
-    #     all_ipynb_paths = NotebookReader(os.path.join(os.getcwd(), dataset_folder)).all_ipynb_paths
+    #     all_ipynb_paths = FileReader(os.path.join(os.getcwd(), dataset_folder)).all_ipynb_paths
     #
     #     threshold_map = {}
     #     for keyword in api_dict_df['Modeling']:
@@ -71,7 +72,7 @@ class TestAnalyzer(TestCase):
 
     # def test_pipeline_step_count_per_class(self):
     #     api_dict_df = read_xlsx(os.path.join(os.getcwd(), res_folder, api_dict_file))
-    #     all_ipynb_paths = NotebookReader(os.path.join(os.getcwd(), dataset_folder)).all_ipynb_paths
+    #     all_ipynb_paths = FileReader(os.path.join(os.getcwd(), dataset_folder)).all_ipynb_paths
     #
     #     threshold_map = {}
     #

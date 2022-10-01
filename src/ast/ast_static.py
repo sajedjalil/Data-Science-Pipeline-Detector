@@ -21,13 +21,17 @@ def get_tuple_name(node) -> list:
     return names
 
 
-def make_result_node(api_dict_df, node, cell_no):
+def make_result_node(api_dict_df, import_alias_dict, node, cell_no):
     value = None
 
     if isinstance(node, ast.Call) and hasattr(node.func, 'id'):
         value = getattr(node.func, "id")
     elif isinstance(node, ast.Attribute):
         value = node.attr
+
+    # Check if the value is in import_alias_dict
+    if value in import_alias_dict:
+        value = import_alias_dict[value]
 
     for pipeline in api_dict_df.columns:
         is_found = api_dict_df[pipeline].isin([value])
