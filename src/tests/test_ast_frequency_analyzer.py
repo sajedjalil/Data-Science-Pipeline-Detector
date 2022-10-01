@@ -83,6 +83,7 @@ class TestAnalyzer(TestCase):
     #         if key not in threshold_map.keys():
     #             threshold_map[key] = 0
     #         threshold_map[key] += 1
+    #         print(idx, path)
     #
     #     od = OrderedDict(sorted(threshold_map.items()))
     #

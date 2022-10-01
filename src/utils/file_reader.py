@@ -33,7 +33,7 @@ class FileReader:
     base_folder_path = None
     csv_file_paths = []
     all_csv_data = pd.DataFrame()
-    all_ipynb_paths = list()
+    all_ipynb_paths = set()
 
     def __init__(self, path):
         self.base_folder_path = path
@@ -76,7 +76,7 @@ class FileReader:
             ipynb_file_path = os.path.join(competition_folder, author, file + ".ipynb")
 
             if os.path.exists(ipynb_file_path):
-                self.all_ipynb_paths.append(ipynb_file_path)
+                self.all_ipynb_paths.add(ipynb_file_path)
                 is_ipynb.append(index)
             # print(index)
 
