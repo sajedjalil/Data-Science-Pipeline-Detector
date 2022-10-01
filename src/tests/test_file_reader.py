@@ -36,6 +36,8 @@ class TestFileReader(TestCase):
     def test_all_notebook_paths(self):
         self.assertEqual(len(self.reader.all_ipynb_paths), 14498)
 
-    # def test_load_notebook(self):
-    #     cells = load_notebook(self.reader.all_ipynb_paths[0])
-    #     self.assertNotEqual(len(cells), 0)
+    def test_load_notebook(self):
+        for path in self.reader.all_ipynb_paths:
+            cells = load_notebook(path)
+            self.assertNotEqual(len(cells), 0)
+            break
